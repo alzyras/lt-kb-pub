@@ -23,6 +23,9 @@ Dusburgietis teigia, kad abejojama, kad buvusios 4 gentinės jotvingių teritori
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 199144-199371; hash=f2753b951afdf2ef0656e9ef9bb24328198020edcbbdc42a57345c36c2993086; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -39,3 +42,6 @@ Dusburgietis teigia, kad abejojama, kad buvusios 4 gentinės jotvingių teritori
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 199144-199371; hash=f2753b951afdf2ef0656e9ef9bb24328198020edcbbdc42a57345c36c2993086; match=exact
+  sprendimo_priezastis: auto

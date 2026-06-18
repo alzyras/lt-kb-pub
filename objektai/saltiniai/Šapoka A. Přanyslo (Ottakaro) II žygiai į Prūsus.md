@@ -32,6 +32,9 @@ Dusburgietis teigia, kad šapoka A.
   temporalinis_llm_pakomentavimas: 'Citata pateikia šaltinio autorių, pavadinimą ir publikavimo duomenis.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 798916-799000; hash=fe6d0feec6ba72e69768185acf4f0e2c8f86d0beedf94bc0ce3f214d0c6ea35e; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -45,3 +48,6 @@ Dusburgietis teigia, kad šapoka A.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 798916-799000; hash=fe6d0feec6ba72e69768185acf4f0e2c8f86d0beedf94bc0ce3f214d0c6ea35e; match=exact
+  sprendimo_priezastis: auto

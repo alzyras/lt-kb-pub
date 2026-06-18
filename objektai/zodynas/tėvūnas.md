@@ -32,9 +32,19 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
   global_id: t-70370
   teiginys: 'Tėvūnais vadinti dvarų prievaizdai, per kuriuos kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones.'
   sudarymo_pagrindimas: 'Perrašyta glaustai, aiškiai susiejant teiginį su įrašo objektu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dafb39900f42347ee905db8a7225ee49ab11e151daecb6d7b060ec969ae6f69f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: tėvūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tėvūnas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-182983"></a>
 - t-003
@@ -44,9 +54,19 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko trumpesnį ir aiškų faktą apie tėvūnus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dafb39900f42347ee905db8a7225ee49ab11e151daecb6d7b060ec969ae6f69f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> kunigaikščiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: tėvūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: kunigaikščiai: mention_match, thing, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tėvūnas" parinktas kaip owner_note_path. Targetas "kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -98,4 +118,24 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dafb39900f42347ee905db8a7225ee49ab11e151daecb6d7b060ec969ae6f69f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: tėvūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tėvūnas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dafb39900f42347ee905db8a7225ee49ab11e151daecb6d7b060ec969ae6f69f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> kunigaikščiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: tėvūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: kunigaikščiai: mention_match, thing, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tėvūnas" parinktas kaip owner_note_path. Targetas "kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

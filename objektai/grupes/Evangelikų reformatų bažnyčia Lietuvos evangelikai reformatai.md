@@ -37,6 +37,16 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   susije_objektai: 'mentioned_group: [[objektai/grupes/LDK didikai|LDK didikai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 117222-118093; hash=d2fab9a382da346a4aea4b7c7ff8f098e3938abfe4463a04074ab4b581a881d3; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Biržai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Biržai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai" parinktas kaip owner_note_path. Targetas "Biržai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-101239"></a>
 - t-002
@@ -49,6 +59,16 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir paremtas citata apie reformatus bei kalvinizmą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 137209-137606; hash=d565a8cfc717e0b6d4f5db21758bcb5ece355e6b0a093a5a79d569820c445018; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> LDK didikai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: LDK didikai: mention_match, group, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai" parinktas kaip owner_note_path. Targetas "LDK didikai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-183129"></a>
 - t-003
@@ -73,9 +93,19 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Evangelikų reformatų bažnyčią.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/LDK didikai|LDK didikai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/LDK didikai|LDK didikai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 117222-118093; hash=d2fab9a382da346a4aea4b7c7ff8f098e3938abfe4463a04074ab4b581a881d3; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Biržai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Biržai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai" parinktas kaip owner_note_path. Targetas "Biržai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -116,5 +146,35 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 137209-137606; hash=d565a8cfc717e0b6d4f5db21758bcb5ece355e6b0a093a5a79d569820c445018; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> LDK didikai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: LDK didikai: mention_match, group, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai" parinktas kaip owner_note_path. Targetas "LDK didikai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 117222-118093; hash=d2fab9a382da346a4aea4b7c7ff8f098e3938abfe4463a04074ab4b581a881d3; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Biržai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Biržai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai" parinktas kaip owner_note_path. Targetas "Biržai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 117222-118093; hash=d2fab9a382da346a4aea4b7c7ff8f098e3938abfe4463a04074ab4b581a881d3; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Biržai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Biržai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai" parinktas kaip owner_note_path. Targetas "Biržai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

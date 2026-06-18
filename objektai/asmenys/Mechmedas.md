@@ -25,6 +25,16 @@ Pasak Liudviko, turkų valdovas Mechmedas rengėsi kariauti prieš krikščioni�
   susije_objektai: 'mentioned_place: Europa'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 905102-905497; hash=fc39e3393054f4e73444eaa5fb877085d09c3499f085d8267d380045e5256f27; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mechmedas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mechmedas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Liudvikas (Antiochijos patriarchas).md#claim-t-186143|Liudvikas (Antiochijos patriarchas)]]: Pasak Liudviko, Mechmedas rengėsi kariauti prieš krikščionių pasaulį.
 ## Reikšmingi paminėjimai
 
@@ -48,3 +58,13 @@ Pasak Liudviko, turkų valdovas Mechmedas rengėsi kariauti prieš krikščioni�
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 905102-905497; hash=fc39e3393054f4e73444eaa5fb877085d09c3499f085d8267d380045e5256f27; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mechmedas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mechmedas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

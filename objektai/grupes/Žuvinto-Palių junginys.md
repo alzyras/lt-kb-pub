@@ -31,6 +31,16 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Barkauskas|Barkauskas]]; mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Daukšiai; mentioned_place: Lietuva; mentioned_place: Žuvintas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 928538-928910; hash=7183c6657539c3327bac3d63cdbf05984c9655ab089a0fbe5c54b3f6cebde3fd; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Barkauskas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žuvinto-Palių junginys: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Barkauskas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto-Palių junginys" parinktas kaip owner_note_path. Targetas "Barkauskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-41233"></a>
 - t-002
@@ -42,6 +52,9 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo pernelyg kontekstinis, todėl patikslintas į savarankišką sakinį.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e6301ee46af218072c7097c7ad588119bf677196eb0b05b1184a4ca02a7342f0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -79,4 +92,17 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 928538-928910; hash=7183c6657539c3327bac3d63cdbf05984c9655ab089a0fbe5c54b3f6cebde3fd; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Barkauskas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žuvinto-Palių junginys: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Barkauskas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto-Palių junginys" parinktas kaip owner_note_path. Targetas "Barkauskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e6301ee46af218072c7097c7ad588119bf677196eb0b05b1184a4ca02a7342f0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

@@ -43,12 +43,22 @@ Nenurodyta
   global_id: t-28835
   teiginys: '1381 m. Kęstutis staiga užėmė Vilnių ir suėmė Jogailą su jo broliais bei motina.'
   sudarymo_pagrindimas: 'Sakinys pagrįstas citata, bet reikėjo pašalinti laužytą žodį ir glaustinti formuluotę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'territory: Vilnius; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1381 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys pagrįstas citata, bet reikėjo pašalinti laužytą žodį ir glaustinti formuluotę.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 755012-755368; hash=697e08cf95d9a145a8dc75462bb17586a3824714b9f139bceb39891ef2c679e2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzeme -> Vilnius: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): nearest_actor, person, gap=16
+  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -66,3 +76,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 755012-755368; hash=697e08cf95d9a145a8dc75462bb17586a3824714b9f139bceb39891ef2c679e2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzeme -> Vilnius: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): nearest_actor, person, gap=16
+  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.

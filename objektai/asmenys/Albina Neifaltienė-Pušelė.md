@@ -24,6 +24,9 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
   sudarymo_pagrindimas: 'Sakinys papildytas mūšio aplinkybe ir pašalintas perteklinis vertinamasis žodis.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9bb08e415a53268886eaeb615fc301580ddb64e093b29a50fc2d44c0ee9d120a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -65,4 +68,10 @@ Kautynių metu žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu „Pušel
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9bb08e415a53268886eaeb615fc301580ddb64e093b29a50fc2d44c0ee9d120a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 923215-923539; hash=307a45897fe1c8c2006905832a377ac4fda468d55ff14d7fae4a9d23009c1987; match=exact
+  sprendimo_priezastis: auto

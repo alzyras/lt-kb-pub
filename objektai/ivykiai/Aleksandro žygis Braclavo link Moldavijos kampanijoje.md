@@ -47,9 +47,19 @@ Nenurodyta
   global_id: t-186651
   teiginys: 'Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.'
   teiginio_tipas: 'saltinio_teiginys'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija; mentioned_place: Parčevas; mentioned_place: Soroka'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Moldavija; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Parčevas; mentioned_place: Soroka'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=92873a23c7a188396ace65cd413e183030cb49e2ba786cbca57a142b8de17208; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandro žygis Braclavo link Moldavijos kampanijoje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandro žygis Braclavo link Moldavijos kampanijoje" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -80,3 +90,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=92873a23c7a188396ace65cd413e183030cb49e2ba786cbca57a142b8de17208; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandro žygis Braclavo link Moldavijos kampanijoje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandro žygis Braclavo link Moldavijos kampanijoje" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -50,6 +50,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiksliai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 354287-354711; hash=28aafefdbc9f27abc0e576bdddf1184dcfe81e111a8f853290f2fe6119fe60ff; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pasaulio lietuvių kongresas Kaune (1935 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasaulio lietuvių kongresas Kaune (1935 m.)" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Užsienio lietuviai.md#claim-t-20054|Užsienio lietuviai]]: 1935 m. Pasaulio lietuvių kongresas Kaune parodė, kad dauguma užsienio lietuvių buvo artimi Lietuvai ir rūpinosi jos ateitimi.
 - susijęs iš Kaunas: 1935 m. Pasaulio lietuvių kongrese Kaune dalyvavo 3000 delegatų ir svečių iš 19 valstybių.
 ## Reikšmingi paminėjimai
@@ -69,3 +79,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 354287-354711; hash=28aafefdbc9f27abc0e576bdddf1184dcfe81e111a8f853290f2fe6119fe60ff; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pasaulio lietuvių kongresas Kaune (1935 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasaulio lietuvių kongresas Kaune (1935 m.)" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

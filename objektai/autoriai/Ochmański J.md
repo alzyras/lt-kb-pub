@@ -22,7 +22,7 @@ Dusburgietis teigia, kad intaką Zelvą; pastarosios intakas Sasva (Pružanų rj
   global_id: t-60619
   teiginys: 'J. Ochmańskis nurodomas prie duomenų apie Dainavos gyvenvietes XIII a. etninio lietuvių ploto rytiniame pakraštyje.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata palaiko konkretų bibliografinį faktą apie Ochmańskio darbą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Dainava; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dainava; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]'
   pagrindžia:
     - c-001
 

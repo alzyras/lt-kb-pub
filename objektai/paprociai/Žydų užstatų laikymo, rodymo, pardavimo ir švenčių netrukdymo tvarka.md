@@ -46,6 +46,16 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 415600-415962; hash=195363955ca46ed31c015c5e79687b85a9790694321fa2ae6ba184089a3ef533; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Užstato daiktai Trakų žydų privilegijoje: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydų užstatų laikymo, rodymo, pardavimo ir švenčių netrukdymo tvarka: owner_note_path, thing
+  ryšio_targeto_parinkimas: Užstato daiktai Trakų žydų privilegijoje: mention_match, thing, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydų užstatų laikymo, rodymo, pardavimo ir švenčių netrukdymo tvarka" parinktas kaip owner_note_path. Targetas "Užstato daiktai Trakų žydų privilegijoje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -69,3 +79,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 415600-415962; hash=195363955ca46ed31c015c5e79687b85a9790694321fa2ae6ba184089a3ef533; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Užstato daiktai Trakų žydų privilegijoje: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydų užstatų laikymo, rodymo, pardavimo ir švenčių netrukdymo tvarka: owner_note_path, thing
+  ryšio_targeto_parinkimas: Užstato daiktai Trakų žydų privilegijoje: mention_match, thing, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydų užstatų laikymo, rodymo, pardavimo ir švenčių netrukdymo tvarka" parinktas kaip owner_note_path. Targetas "Užstato daiktai Trakų žydų privilegijoje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -55,18 +55,38 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Rusija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ef5612511b18ef336bce4355d4f024bb35a79ecd219315942fdf2a7bba3d3420; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> separatizmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: separatizmas: mention_match, thing, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m" parinktas kaip owner_note_path. Targetas "separatizmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54215"></a>
 - t-002
   global_id: t-54215
   teiginys: 'Rusinimo politikos 1864–1904 m. ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1864-1904; įvykio data: 1904 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 216925-217311; hash=6a7a48bfeb792edc7900ae860cea331c38e6947878bba98a6d18fa418f4d8000; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54216"></a>
 - t-003
@@ -75,15 +95,35 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ef5612511b18ef336bce4355d4f024bb35a79ecd219315942fdf2a7bba3d3420; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> separatizmas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: separatizmas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m" parinktas kaip owner_note_path. Targetas "separatizmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-54217"></a>
 - t-004
   global_id: t-54217
   teiginys: 'Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai.'
   sudarymo_pagrindimas: 'Perrašymas tiksliau perteikia citatos informaciją apie mokytojų kilmę ir vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 216925-217311; hash=6a7a48bfeb792edc7900ae860cea331c38e6947878bba98a6d18fa418f4d8000; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54218"></a>
 - t-005
@@ -93,6 +133,16 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8d035095426b12ddc652bc8ec4da6cc2c0acb1f09be1041545654e010a5d256d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -128,6 +178,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ef5612511b18ef336bce4355d4f024bb35a79ecd219315942fdf2a7bba3d3420; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> separatizmas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: separatizmas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m" parinktas kaip owner_note_path. Targetas "separatizmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-003
@@ -153,4 +213,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ef5612511b18ef336bce4355d4f024bb35a79ecd219315942fdf2a7bba3d3420; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> separatizmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: separatizmas: mention_match, thing, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m" parinktas kaip owner_note_path. Targetas "separatizmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 216925-217311; hash=6a7a48bfeb792edc7900ae860cea331c38e6947878bba98a6d18fa418f4d8000; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

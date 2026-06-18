@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-66908
   teiginys: '1995 m. pabaigos bankų krizė sustiprino Lietuvos bankų sektorių, sumažino blogų paskolų portfelį ir sustiprino bankų priežiūrą.'
   sudarymo_pagrindimas: 'Pradinė formuluotė yra gramatiškai nebaigta, citata leidžia suformuluoti aiškų sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Moratoriumas|Moratoriumas]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/Moratoriumas|Moratoriumas]]; mentioned_place: Europa'
   temporaliniai_duomenys: 'įvykio data: 1995 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė yra gramatiškai nebaigta, citata leidžia suformuluoti aiškų sakinį.'

@@ -39,6 +39,16 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3885d34672c556e939a97ed5f7ab1b38d6921b3b3275cb90ff65670b7588bca7; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/07_extract_sayings_notes.md
+  ryšio_patikimumas: susije_su -> Karūna: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: karūna su karūna negali būti sujungta — inkorporuota: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "karūna su karūna negali būti sujungta — inkorporuota" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-36007"></a>
 - t-002
@@ -48,6 +58,16 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=de29fe4f91dd39d968e817ba7bd0c4c81266a5b6520eab5855afbb049b6f54e4; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/07_extract_sayings_notes.md
+  ryšio_patikimumas: susije_su -> Karūna: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: karūna su karūna negali būti sujungta — inkorporuota: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "karūna su karūna negali būti sujungta — inkorporuota" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -88,4 +108,24 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3885d34672c556e939a97ed5f7ab1b38d6921b3b3275cb90ff65670b7588bca7; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/07_extract_sayings_notes.md
+  ryšio_patikimumas: susije_su -> Karūna: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: karūna su karūna negali būti sujungta — inkorporuota: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "karūna su karūna negali būti sujungta — inkorporuota" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=de29fe4f91dd39d968e817ba7bd0c4c81266a5b6520eab5855afbb049b6f54e4; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/07_extract_sayings_notes.md
+  ryšio_patikimumas: susije_su -> Karūna: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: karūna su karūna negali būti sujungta — inkorporuota: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "karūna su karūna negali būti sujungta — inkorporuota" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

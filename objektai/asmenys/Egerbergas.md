@@ -30,13 +30,23 @@ Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas 
   global_id: t-87658
   teiginys: '1323 m. pradžioje Egerbergas su Zinnenbergu atvyko su stipriu kilmingų karių ir vasalų pulku iš Čekijos bei Pareinio žemių.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Egerbergą ir atitinka citatą.'
-  susije_objektai: 'location: Čekija; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Zinnenbergas|Zinnenbergas]]; mentioned_place: Vilnius; mentioned_place: Čekija'
+  susije_objektai: 'location: Čekija; mentioned_person: [[objektai/asmenys/Zinnenbergas|Zinnenbergas]]; mentioned_place: Čekija; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Egerbergas|Egerbergas]] keliavo į Čekija'
   temporaliniai_duomenys: 'kelionės data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Egerbergas keliavo į Čekija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Egerbergą ir atitinka citatą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 161067-161438; hash=854b23a2678c9b7c0ed0d118215f28e670e957cb3a69c09d8f54ea31a8b6baa4; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Čekija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Egerbergas: owner_note_path, person, gap=26
+  ryšio_targeto_parinkimas: Čekija: nearest_after_predicate, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Egerbergas" parinktas kaip owner_note_path. Targetas "Čekija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 - susijęs iš [[objektai/asmenys/Zinnenbergas.md#claim-t-87893|Zinnenbergas]]: 1323 metų pradžioje riteriai Zinnenbergas ir Egerbergas atvyko su stipriu kilmingų karių ir vasalų pulku.
 ## Reikšmingi paminėjimai
 
@@ -60,6 +70,16 @@ Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 161067-161438; hash=854b23a2678c9b7c0ed0d118215f28e670e957cb3a69c09d8f54ea31a8b6baa4; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Čekija: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Egerbergas: owner_note_path, person, gap=26
+  ryšio_targeto_parinkimas: Čekija: nearest_after_predicate, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Egerbergas" parinktas kaip owner_note_path. Targetas "Čekija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 ## Ryšiai
 - Egerbergas keliavo_i [[objektai/vietos/Čekija]]

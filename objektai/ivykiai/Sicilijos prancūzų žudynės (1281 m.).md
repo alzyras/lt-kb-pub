@@ -46,12 +46,22 @@ Nenurodyta
   teiginys: '1281 m. Sicilijos karalystėje palermiečiai išžudė ten gyvenusius prancūzus, tiek vyrus, tiek moteris.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Sicilijoje vykusias prancūzų žudynes ir leidžia pašalinti OCR triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]'
   temporaliniai_duomenys: 'įvykio data: 1281 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia Sicilijoje vykusias prancūzų žudynes ir leidžia pašalinti OCR triukšmą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 717690-718746; hash=adcc9c018bfdd1f5bab346d5861d693551b6e305bef263fd465d3fb0d7340e16; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sicilijos prancūzų žudynės (1281 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sicilijos prancūzų žudynės (1281 m.)" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -78,3 +88,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 717690-718746; hash=adcc9c018bfdd1f5bab346d5861d693551b6e305bef263fd465d3fb0d7340e16; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sicilijos prancūzų žudynės (1281 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sicilijos prancūzų žudynės (1281 m.)" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -34,6 +34,16 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Kuzmickis|Kuzmickis]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=21388869bfeb5d7826046011cebf907942ba7158d520711b264c6bbe3cf2e9a0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalnėnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Talmantas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Kalnėnai: mention_match, group, gap=93
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Talmantas" parinktas kaip owner_note_path. Targetas "Kalnėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64647"></a>
 - t-002
@@ -43,16 +53,36 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   susije_objektai: 'mentioned_place: Venecija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 734292-734516; hash=577310cf442e783615f79cda67d46a0f91956890bea4f26f34c591c0cbcd566f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Venecija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Talmantas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Venecija: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Talmantas" parinktas kaip owner_note_path. Targetas "Venecija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64648"></a>
 - t-003
   global_id: t-64648
   teiginys: 'J. Talmantas redagavo 1935 m. Kaune išleistą Simono Daukanto veikalą „Būdas senovės lietuvių Kalnėnų ir Žemaičių“.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_author: [[objektai/autoriai/V. Jungfer|V. Jungfer]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_author: [[objektai/autoriai/V. Jungfer|V. Jungfer]]; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Krokuva'
   temporaliniai_duomenys: 'įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 740481-740826; hash=a2363be0f1063946d00b6c26005a5d33f71a0ec483e330fcfaa979f6410013db; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuzmickis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Talmantas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Kuzmickis: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Talmantas" parinktas kaip owner_note_path. Targetas "Kuzmickis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Venecijos pirklys: Šekspyro „Venecijos pirklį“ J. Talmantas išvertė tiesiog iš originalo; leidimas turėjo iliustracijų ir komentarų.
 ## Reikšmingi paminėjimai
 
@@ -85,6 +115,16 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 734292-734516; hash=577310cf442e783615f79cda67d46a0f91956890bea4f26f34c591c0cbcd566f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Venecija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Talmantas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Venecija: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Talmantas" parinktas kaip owner_note_path. Targetas "Venecija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -102,4 +142,24 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=21388869bfeb5d7826046011cebf907942ba7158d520711b264c6bbe3cf2e9a0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalnėnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Talmantas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Kalnėnai: mention_match, group, gap=93
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Talmantas" parinktas kaip owner_note_path. Targetas "Kalnėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 740481-740826; hash=a2363be0f1063946d00b6c26005a5d33f71a0ec483e330fcfaa979f6410013db; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuzmickis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Talmantas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Kuzmickis: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Talmantas" parinktas kaip owner_note_path. Targetas "Kuzmickis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

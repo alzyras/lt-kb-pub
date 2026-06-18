@@ -37,6 +37,16 @@ Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų dr
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir citata tiesiogiai sieja Andriollį su pavaizduota sukilimo scena.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e64281ea78bcc0b01c247c88bc5fce65c2981d0c57859f006a29f88bc6896bae; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltarusiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. E. Andriolli: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Baltarusiai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. E. Andriolli" parinktas kaip owner_note_path. Targetas "Baltarusiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“.md#claim-t-77930|M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“]]: M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“ sukurtas 1882 m.
 ## Reikšmingi paminėjimai
 
@@ -64,3 +74,13 @@ Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų dr
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e64281ea78bcc0b01c247c88bc5fce65c2981d0c57859f006a29f88bc6896bae; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltarusiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. E. Andriolli: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Baltarusiai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. E. Andriolli" parinktas kaip owner_note_path. Targetas "Baltarusiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

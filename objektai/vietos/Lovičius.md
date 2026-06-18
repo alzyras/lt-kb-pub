@@ -22,11 +22,21 @@ Iš iki tol nepaliestų Lovičiaus apygardų buvo išgabentas didžiulis grobis,
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiesiogiai paremtas citata ir yra pilnas faktinis sakinys apie Lovičiaus apygardas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184517|Lenkai]]: Lenkams įkyrėjo dažnai pasikartojančios nelaimės, o suskilusi Lenkų karalystė sunkiai susitardavo dėl gynybos.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 179271-179695; hash=3cb2e961b03b1e5a1062acffa1cf2c95fec52127565bb865e008c39fc6a11c57; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalavijas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lovičius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing, gap=86
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lovičius" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Lietuvos žygis į Mazoviją ir Lovičiaus apygardų nusiaubimas (1263 m.).md#claim-t-185612|Lietuvos žygis į Mazoviją ir Lovičiaus apygardų nusiaubimas (1263 m.)]]: 1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184517|Lenkai]]: Lenkams įkyrėjo dažnai pasikartojančios nelaimės, o suskilusi Lenkų karalystė sunkiai susitardavo dėl gynybos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,3 +56,13 @@ Iš iki tol nepaliestų Lovičiaus apygardų buvo išgabentas didžiulis grobis,
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 179271-179695; hash=3cb2e961b03b1e5a1062acffa1cf2c95fec52127565bb865e008c39fc6a11c57; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalavijas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lovičius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing, gap=86
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lovičius" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

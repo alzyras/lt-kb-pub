@@ -42,9 +42,19 @@ Nenurodyta
 - t-001
   global_id: t-54260
   teiginys: 'LDK bajorai, nepaisant etninės kilmės, laikė save lietuviais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 17825-18327; hash=5be897de68ecb97fa404f835723ae6131a73f47aad29f60757061d5662ebcbbf; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183315"></a>
 - t-002
@@ -54,7 +64,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginį reikia sutvarkyti į savarankišką sakinį be priklausomybės nuo ankstesnio konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]'
   pagrindžia:
     - c-001
 
@@ -80,3 +90,13 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 17825-18327; hash=5be897de68ecb97fa404f835723ae6131a73f47aad29f60757061d5662ebcbbf; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

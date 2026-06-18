@@ -36,6 +36,16 @@ Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikę
   temporalinis_llm_pakomentavimas: 'Teiginys tiesiogiai nusako bulės turinį ir yra pagrįstas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=67fa3205c7d33503a2a4e040bef617e99fb15ce4aa5259b04372bfa3528ea85c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Klemensas IV: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Klemenso IV bulė apie Mindaugą (1268 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Klemensas IV: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klemenso IV bulė apie Mindaugą (1268 m.)" parinktas kaip owner_note_path. Targetas "Klemensas IV" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -55,3 +65,13 @@ Nalšios kunigaikštis Daumantas (iš kurio Mindaugas paveržė žmoną), veikę
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=67fa3205c7d33503a2a4e040bef617e99fb15ce4aa5259b04372bfa3528ea85c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Klemensas IV: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Klemenso IV bulė apie Mindaugą (1268 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Klemensas IV: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klemenso IV bulė apie Mindaugą (1268 m.)" parinktas kaip owner_note_path. Targetas "Klemensas IV" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -36,10 +36,20 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Perrašyta į aiškų faktinį sakinį su tariniu ir data.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3dd8866e47918810b092252e8dbcb1d34e2718a339f2621a81153592ff7b769b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Raudonieji: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Raudonieji" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Brasta: Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.
 - susijęs iš [[objektai/asmenys/Markas (žydas kreditorius).md#claim-t-87547|Markas (žydas kreditorius)]]: Žydui kreditoriui Markui už šešių savaičių palūkanas nuo 250 zlotų buvo sumokėta 15 florinų.
 - susijęs iš [[objektai/asmenys/Pekarskis.md#claim-t-87820|Pekarskis]]: Pekarskiui buvo paskolinti 800 zlotų sidabrui, užstatytam Jo Karališkosios Didenybės reikalams.
 - susijęs iš J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes: J. Juška pasakojo, kad Ažagų-Eimuliškio miško kautynės prasidėjo ankstų rytą ir truko iki pavakario.
-- susijęs iš Brasta: Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.
 - susijęs iš [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas.md#claim-t-86492|raudonasis auksinas, taleris ir dukatas]]: Ponas Pekarskis perdavė 96 raudonuosius auksinus, imtus Brastoje po 56 lenkiškus grašius už vienetą.
 ## Reikšmingi paminėjimai
 
@@ -56,3 +66,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3dd8866e47918810b092252e8dbcb1d34e2718a339f2621a81153592ff7b769b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Raudonieji: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Raudonieji" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

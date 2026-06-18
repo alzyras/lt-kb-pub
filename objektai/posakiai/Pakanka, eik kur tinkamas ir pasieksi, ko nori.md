@@ -25,6 +25,16 @@ Dusburgietis teigia, kad tada sutraukė dvigubai tiek kariuomenės, o jis, ją m
   susije_objektai: 'mentioned_place: Semba'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7fc38c013444dbd94ca990eaca5120d23e5b6f265518c23bab277d283699a722; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Semba: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pakanka, eik kur tinkamas ir pasieksi, ko nori: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=115
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pakanka, eik kur tinkamas ir pasieksi, ko nori" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +56,13 @@ Dusburgietis teigia, kad tada sutraukė dvigubai tiek kariuomenės, o jis, ją m
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7fc38c013444dbd94ca990eaca5120d23e5b6f265518c23bab277d283699a722; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Semba: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pakanka, eik kur tinkamas ir pasieksi, ko nori: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=115
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pakanka, eik kur tinkamas ir pasieksi, ko nori" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

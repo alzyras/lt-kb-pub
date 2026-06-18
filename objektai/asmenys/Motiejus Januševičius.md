@@ -24,6 +24,9 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
   sudarymo_pagrindimas: 'Claimas buvo ilgas sąrašo fragmentas; citata palaiko Motiejaus Januševičiaus prievolę.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 499475-500242; hash=8a21890b0199f1c9da3f33ac89f0633cc188d3839aedfd205cfb6c217ccf59b6; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -54,3 +57,6 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 499475-500242; hash=8a21890b0199f1c9da3f33ac89f0633cc188d3839aedfd205cfb6c217ccf59b6; match=whitespace_regex
+  sprendimo_priezastis: auto

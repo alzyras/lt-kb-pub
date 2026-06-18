@@ -30,12 +30,22 @@ Il priede išsamią žinią apie Lieje, kur aiškiai pasakyta: ius Teutonituvos 
   global_id: t-86859
   teiginys: '1441 m. Kazimiero privilegijoje Vilniui iš naujo suteikta teutoniškoji, Magdeburgo vardu vadinama teisė.'
   sudarymo_pagrindimas: 'Teiginys yra užbaigtas ir pagrįstas citatoje aprašyta 1441 m. Kazimiero privilegija.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
   temporaliniai_duomenys: 'įvykio data: 1441 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra užbaigtas ir pagrįstas citatoje aprašyta 1441 m. Kazimiero privilegija.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1cc4b29392376cc43ce67a30036f72f3f0d37c67326b0f836e20d74843e2457a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: ius Teutonicum quod Magdeburiense dicitur denuo darnus: owner_note_path, thing
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ius Teutonicum quod Magdeburiense dicitur denuo darnus" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -77,3 +87,13 @@ Il priede išsamią žinią apie Lieje, kur aiškiai pasakyta: ius Teutonituvos 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1cc4b29392376cc43ce67a30036f72f3f0d37c67326b0f836e20d74843e2457a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: ius Teutonicum quod Magdeburiense dicitur denuo darnus: owner_note_path, thing
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ius Teutonicum quod Magdeburiense dicitur denuo darnus" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

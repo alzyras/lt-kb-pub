@@ -32,6 +32,9 @@ Dusburgietis teigia, kad powierski J.
   temporalinis_llm_pakomentavimas: 'Citata remia bibliografinį faktą, o pradinis teiginys neturi predikato.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 792897-793093; hash=ba4adfb29218851e78ac511d693cbd2d4071f4c1ab213610744eb6a701f8f84a; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +50,6 @@ Dusburgietis teigia, kad powierski J.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 792897-793093; hash=ba4adfb29218851e78ac511d693cbd2d4071f4c1ab213610744eb6a701f8f84a; match=exact
+  sprendimo_priezastis: auto

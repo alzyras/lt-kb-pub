@@ -45,6 +45,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 14170-14939; hash=1f10ad2e17fcb77fb2dfd0fb9c1e4f336130cd57571dac74c02a6f835ddea2ad; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=85
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183337"></a>
 - t-002
@@ -54,7 +64,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas kontekstinis jungtukas ir teiginys paverstas savarankišku sakiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Europa; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -84,3 +94,13 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 14170-14939; hash=1f10ad2e17fcb77fb2dfd0fb9c1e4f336130cd57571dac74c02a6f835ddea2ad; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=85
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vidurio Europos individualaus valstiečių ūkio ir bajorų pilietinės visuomenės tradicija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

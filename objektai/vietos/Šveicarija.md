@@ -31,12 +31,22 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   global_id: t-169555
   teiginys: 'Neutralioje Šveicarijoje susidaręs negausus lietuvių būrys šelpė lietuvius belaisvius Vokietijoje ir skleidė žinias apie lietuvių teises.'
   sudarymo_pagrindimas: 'Pradinis teiginys apima dvi temas, o apie Šveicariją tinka antra citatos dalis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vokietija; mentioned_place: Paryžius'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys apima dvi temas, o apie Šveicariją tinka antra citatos dalis.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1080728-1081157; hash=9cdf7d0f43518b9eb0adf63b762530ac8100fdc47c4e3cabe2421d1e72675f90; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šveicarija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šveicarija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-169557"></a>
 - t-002
@@ -46,15 +56,28 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Lozana'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d314a1fa93423bfc36289745555c8dd945803805bee4aa9a46fcbff504d659dd; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šveicarija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šveicarija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77979|A. Smetona]]: 1940 m. birželį iš Lietuvos išvykęs A. Smetona per Vokietiją, Šveicariją ir Portugaliją pasiekė JAV.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75723|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.
-- susijęs iš [[objektai/asmenys/Henrikas von Plauenas.md#claim-t-176405|Henrikas von Plauenas]]: Henrikas von Plauenas citatoje įvardijamas kaip Švitco komtūras.
 - susijęs iš [[objektai/asmenys/Polis Himansas.md#claim-t-183562|Polis Himansas]]: Polis Himansas per tris savaites parengė Lietuvos federacinės valstybės iš Kauno ir Vilniaus kantonų projektą pagal Šveicarijos pavyzdį.
 - susijęs iš [[objektai/asmenys/Polis Himansas.md#claim-t-64039|Polis Himansas]]: Polis Himansas per tris savaites parengė Lietuvos federacinės valstybės iš Kauno ir Vilniaus kantonų projektą pagal Šveicarijos pavyzdį.
 - susijęs iš [[objektai/daiktai/Lietuvos auksas.md#claim-t-13781|Lietuvos auksas]]: Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas.
 - susijęs iš [[objektai/daiktai/Lietuvos auksas.md#claim-t-13782|Lietuvos auksas]]: Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas.
 - susijęs iš [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti.md#claim-t-168144|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]: Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje.
 - susijęs iš [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti.md#claim-t-182885|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]: Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje.
+- susijęs iš Luganas: Kopenhagos derybos dėl Nemuno atidarymo vėliau buvo tęsiamos Lugane, Šveicarijoje.
+- susijęs iš Vokietija: 1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją išvyko į JAV.
+- susijęs iš Švedija: Lietuvos auksas buvo pasisavintas tik iš Švedijos ir Šveicarijos bankuose saugotų atsargų.
+- susijęs iš [[objektai/asmenys/Henrikas von Plauenas.md#claim-t-176405|Henrikas von Plauenas]]: Henrikas von Plauenas citatoje įvardijamas kaip Švitco komtūras.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116693|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116696|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
 - susijęs iš [[objektai/grupes/Raudonoji armija.md#claim-t-78427|Raudonoji armija]]: Po liepos 3 d. Lietuvos kariuomenės pertvarkymo įstatymo Lietuvos kariuomenė tapo Liaudies kariuomene, vėliau – Raudonosios armijos 29-uoju šaulių korpusu.
@@ -74,10 +97,7 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 - susijęs iš Kaunas: Kun. dr. J. Stakausko vokiška disertacija 1934 m. Kaune buvo sulietuvinta ir papildyta.
 - susijęs iš Kaunas: Kaunas buvo Hanzos miestas.
 - susijęs iš Lenkija: 1922 m. sausį lenkai surengė rinkimus Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos.
-- susijęs iš Luganas: Kopenhagos derybos dėl Nemuno atidarymo vėliau buvo tęsiamos Lugane, Šveicarijoje.
 - susijęs iš Rytų Europa: Lietuva dažnai laikoma Rytų Europos dalimi dėl geopolitinės, o ne vien geografinės krašto padėties.
-- susijęs iš Vokietija: 1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją išvyko į JAV.
-- susijęs iš Švedija: Lietuvos auksas buvo pasisavintas tik iš Švedijos ir Šveicarijos bankuose saugotų atsargų.
 - susijęs iš Šventaragio slėnis: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
 - susijęs iš Šventaragio slėnys: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
 - susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-101587|federacija federacinė valstybė]]: Lietuviai vengė federacijos su Lenkija, bet sutiko derėtis, jei Varšuva pripažintų Lietuvą su sostine Vilniumi.
@@ -119,4 +139,24 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1080728-1081157; hash=9cdf7d0f43518b9eb0adf63b762530ac8100fdc47c4e3cabe2421d1e72675f90; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šveicarija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šveicarija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d314a1fa93423bfc36289745555c8dd945803805bee4aa9a46fcbff504d659dd; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šveicarija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šveicarija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

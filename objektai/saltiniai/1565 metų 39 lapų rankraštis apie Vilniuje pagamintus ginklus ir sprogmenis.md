@@ -40,6 +40,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūkęs, citata leidžia atkurti pilną enciklopedinį sakinį.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=92fef97bb88aad7c31875235fb207de46dd5dec9a85597bd8cd78ef5fa2a8c1f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Augustas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: 1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-88177"></a>
 - t-002
@@ -52,6 +62,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Reikia patikslinti, kad rankraštis aprašė gamybą iki 1565 m. ir neišplėsti teiginio už citatos ribų.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=72a9caf8b227ca61a02fa07b500fc697c6b3ae03af21f404a182ccc0a38195b9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: 1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-88178"></a>
 - t-003
@@ -61,6 +81,16 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 620856-621130; hash=0caf3c8bf3b1d380d500f0865f75fe13178238c0c135626f4f91e3152725e61c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Artilerija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: 1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -111,6 +141,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=72a9caf8b227ca61a02fa07b500fc697c6b3ae03af21f404a182ccc0a38195b9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: 1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -128,4 +168,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 620856-621130; hash=0caf3c8bf3b1d380d500f0865f75fe13178238c0c135626f4f91e3152725e61c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Artilerija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: 1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=92fef97bb88aad7c31875235fb207de46dd5dec9a85597bd8cd78ef5fa2a8c1f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Augustas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: 1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

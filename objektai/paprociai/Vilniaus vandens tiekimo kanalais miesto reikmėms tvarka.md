@@ -51,9 +51,19 @@ Nenurodyta
   global_id: t-87310
   teiginys: 'Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.'
   sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiai sietųsi su vandens tiekimo tvarka.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_object: [[objektai/posakiai/Vendimus abscedimus, et resignamus|Vendimus abscedimus, et resignamus]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Subačius; mentioned_place: Trakai; mentioned_place: Viena; mentioned_place: Vilnelė; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_place: Subačius; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/posakiai/Vendimus abscedimus, et resignamus|Vendimus abscedimus, et resignamus]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Viena; mentioned_place: Vilnelė; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 526127-530620; hash=cc97fbad3eeacb8a12eb1294dfc99828dd536ce30e4e9f831a2486ed6dd1863d; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Subačius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Subačius: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka" parinktas kaip owner_note_path. Targetas "Subačius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -182,3 +192,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 526127-530620; hash=cc97fbad3eeacb8a12eb1294dfc99828dd536ce30e4e9f831a2486ed6dd1863d; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Subačius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Subačius: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka" parinktas kaip owner_note_path. Targetas "Subačius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

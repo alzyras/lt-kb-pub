@@ -33,11 +33,20 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Dubysa; mentioned_place: Europa; mentioned_place: Krėva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Albrechtas (Prūsijos kunigaikštis).md#claim-t-87612|Albrechtas (Prūsijos kunigaikštis)]]: Albrechtas, Prūsijos kunigaikštis, testamente turėjo gauti du gerus žirgus ir būti paskutinės valios gynėju bei globėju.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-173122|Barbora Radvilaitė]]: Karalienės Barboros apdarai, saugoti Gzovskio ir kitur, buvo padovanoti karalaitei Onai.
-- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54954|Barbora Radvilaitė]]: Testamente nurodyta karalienės Barboros palaikus iš Šventojo Kazimiero koplyčios perkelti į Šv. Onos bažnyčią.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54955|Barbora Radvilaitė]]: Karalienės Barboros apdarai testamente buvo dovanojami karalaitei Onai.
 - susijęs iš [[objektai/asmenys/Gzovskis.md#claim-t-87907|Gzovskis]]: Gzovskis saugojo karalienės Barboros apdarus, kurie vėliau turėjo būti perduoti karalaitei Onai.
+- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54981|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) turėjo būti atiduotas kraitis ir tūkstantis raudonųjų vengriškų zlotų auksu.
+- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54982|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) buvo atskirai dovanojamas žiede įtvirtintas aštrus deimantas.
+- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54983|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) buvo dovanojami karalienės Barboros apdarai, vežimai, virtuvės rykai ir manta.
+- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54984|Ona Jogailaitė]]: Karalaitė Ona (Ona Jogailaitė) buvo prašoma prisidėti prie valios vykdymo ir Šv. Onos bažnyčios užbaigimo.
+- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54985|Ona Jogailaitė]]: Jeigu Ona Jogailaitė po testatoriaus mirties būtų nuskriausta, jai turėjo atitekti visas jo kilnojamasis ir nekilnojamasis turtas.
+- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54986|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) palikta spręsti dėl Šv. Onos bažnyčios užbaigimo ir laiškų sudeginimo.
+- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-82639|Ona Jogailaitė]]: Karalaitė Ona Jogailaitė Lenkijoje turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis.
+- susijęs iš Astravos dvaras: 1392 m. rugpjūčio 5 d. Astrave Vytautas ir Ona Jogailai bei Jadvygai duotuose dokumentuose titulavosi Trakų ir Lucko kunigaikščiais.
+- susijęs iš Astravos dvaras: 1392 m. rugpjūčio 5 d. Astrave Vytautas ir Ona Jogailai bei Jadvygai duotuose dokumentuose titulavosi Trakų ir Lucko kunigaikščiais.
+- susijęs iš [[objektai/asmenys/Albrechtas (Prūsijos kunigaikštis).md#claim-t-87612|Albrechtas (Prūsijos kunigaikštis)]]: Albrechtas, Prūsijos kunigaikštis, testamente turėjo gauti du gerus žirgus ir būti paskutinės valios gynėju bei globėju.
+- susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54954|Barbora Radvilaitė]]: Testamente nurodyta karalienės Barboros palaikus iš Šventojo Kazimiero koplyčios perkelti į Šv. Onos bažnyčią.
 - susijęs iš [[objektai/asmenys/Izabelė Jogailaitė.md#claim-t-87696|Izabelė Jogailaitė]]: Izabelė Jogailaitė buvo karalaitė ir Vengrijos karalienė, kuriai buvo atiduotas kraitis.
 - susijęs iš [[objektai/asmenys/Jonas Jurgis (Brandenburgo kurfiurstas).md#claim-t-87722|Jonas Jurgis (Brandenburgo kurfiurstas)]]: Jonui Jurgiui, Brandenburgo kurfiurstui, turėjo būti duoti du geri žirgai ir prašyta globoti paskutinę valią.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-184744|Julijona (Vytauto žmona)]]: Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.
@@ -47,13 +56,6 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176523|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstučio palaikai Skirgailos rūpesčiu buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį.
 - susijęs iš [[objektai/asmenys/Liudvikas (Čekijos karalius).md#claim-t-186144|Liudvikas (Čekijos karalius)]]: Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tėvą ir valdovą.
 - susijęs iš [[objektai/asmenys/Ona (Vytauto žmona).md#claim-t-184811|Ona (Vytauto žmona)]]: Vytautas po žmonos Onos mirties Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra.
-- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54981|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) turėjo būti atiduotas kraitis ir tūkstantis raudonųjų vengriškų zlotų auksu.
-- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54982|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) buvo atskirai dovanojamas žiede įtvirtintas aštrus deimantas.
-- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54983|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) buvo dovanojami karalienės Barboros apdarai, vežimai, virtuvės rykai ir manta.
-- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54984|Ona Jogailaitė]]: Karalaitė Ona (Ona Jogailaitė) buvo prašoma prisidėti prie valios vykdymo ir Šv. Onos bažnyčios užbaigimo.
-- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54985|Ona Jogailaitė]]: Jeigu Ona Jogailaitė po testatoriaus mirties būtų nuskriausta, jai turėjo atitekti visas jo kilnojamasis ir nekilnojamasis turtas.
-- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54986|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) palikta spręsti dėl Šv. Onos bažnyčios užbaigimo ir laiškų sudeginimo.
-- susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-82639|Ona Jogailaitė]]: Karalaitė Ona Jogailaitė Lenkijoje turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis.
 - susijęs iš [[objektai/asmenys/Povilas (Vilniaus vyskupas).md#claim-t-186012|Povilas (Vilniaus vyskupas)]]: Vilniaus vyskupui Povilui gyvam esant, Viklifo pasekėjas gavo leidimą kalbėti apie tikėjimą Šv. Onos bažnyčioje.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179676|Skirgaila]]: Skirgailos rūpesčiu Kęstučio palaikai buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį.
 - susijęs iš [[objektai/asmenys/Sofija (Vytauto duktė).md#claim-t-184830|Sofija (Vytauto duktė)]]: Sofija, Vytauto duktė, tekėjo už Maskvos kunigaikščio Vasilijaus, o Vytautas Marienburge surengė jai dideles palydėtuves.
@@ -90,8 +92,6 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 - susijęs iš Vilniaus miesto aktai: Vilniaus miesto aktuose buvo Vilniaus vaitų ir kelių žymesnių burmistrų sąrašas, apimantis laikotarpį iki Unijos.
 - susijęs iš Alkanisas: Alkanisas nurodomas kaip Aragono miestas, kuriame gimė teisininkas Petrus Maureus Royzius.
 - susijęs iš Aragonas: Aragone esančiame Alkaniso mieste gimė teisininkas Petrus Maureus Royzius.
-- susijęs iš Astravos dvaras: 1392 m. rugpjūčio 5 d. Astrave Vytautas ir Ona Jogailai bei Jadvygai duotuose dokumentuose titulavosi Trakų ir Lucko kunigaikščiais.
-- susijęs iš Astravos dvaras: 1392 m. rugpjūčio 5 d. Astrave Vytautas ir Ona Jogailai bei Jadvygai duotuose dokumentuose titulavosi Trakų ir Lucko kunigaikščiais.
 - susijęs iš Dubysa: 1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais.
 - susijęs iš Dubysa: 1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais.
 - susijęs iš Juodoji Rusia: Vytauto laikais Juodojoje Rusioje, Gardine ir Naugarduke, pradėtos statyti LDK pilys.

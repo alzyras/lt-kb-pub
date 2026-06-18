@@ -77,3 +77,13 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bae9b875b9e9bd636963a192f9ce23c54546f0f38e4245dcc35ce41a11f2bd08; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/07_extract_sayings_notes.md
+  ryšio_patikimumas: susije_su -> Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du: mention_match, thing, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis." parinktas kaip owner_note_path. Targetas "Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

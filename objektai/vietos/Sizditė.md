@@ -28,12 +28,22 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   global_id: t-58638
   teiginys: '1314 m. apie vasario 2 d. maršalas Henrikas su kariuomene puolė Sizditės pilį Medininkų valsčiuje.'
   sudarymo_pagrindimas: 'Ilgas šaltinio fragmentas sutrumpintas iki aiškaus faktinio sakinio apie Sizditę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Medininkai; mentioned_place: Pilėnai'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Pilėnai'
   temporaliniai_duomenys: 'įvykio data: 1314 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Ilgas šaltinio fragmentas sutrumpintas iki aiškaus faktinio sakinio apie Sizditę.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f067a1e9f1731730a6143e52fab599037b7f3658b4ab5aa3f5b367001a31fcc2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sizditė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sizditė" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58639"></a>
 - t-002
@@ -43,21 +53,31 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   susije_objektai: 'mentioned_place: Telšiai'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 649631-650064; hash=e25870ad01d84ee31efc4f2fbf46937a6a010c9cfb0abdba619324ff2d16daa0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Telšiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sizditė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Telšiai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sizditė" parinktas kaip owner_note_path. Targetas "Telšiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Henrikas Rutėnas.md#claim-t-60318|Henrikas Rutėnas]]: Henrikas Rutėnas žuvo 1314 m. apie vasario 2 d. užsitęsusioje kovoje prie Sizditės pilies Medininkų valsčiuje.
 - susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59870|Henrikas iš Plockės]]: 1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį.
 - susijęs iš [[objektai/asmenys/Kviramas iš Valdavos.md#claim-t-60373|Kviramas iš Valdavos]]: Kviramas iš Valdavos buvo vienas iš keturių prityrusių karių, kurių broliai neteko Sizditės pilies kautynėse.
 - susijęs iš [[objektai/asmenys/Mindotė.md#claim-t-60388|Mindotė]]: Mindotė žuvo Ordino kariuomenei 1314 metais puolant Sizditės pilį Medininkų valsčiuje.
 - susijęs iš [[objektai/asmenys/Rebodas iš Izenburgo.md#claim-t-60423|Rebodas iš Izenburgo]]: Brolis Rebodas iš Izenburgo žuvo 1314 m. kovoje prie Sizditės pilies Medininkų valsčiuje.
 - susijęs iš [[objektai/asmenys/Spagerotė.md#claim-t-60437|Spagerotė]]: Spagerotė buvo vienas iš keturių prityrusių karių, kurių broliai neteko 1314 m. Sizditės pilies puolime.
-- susijęs iš [[objektai/asmenys/Ulrichas iš Tetingeno.md#claim-t-60451|Ulrichas iš Tetingeno]]: 1314 m. mūšyje prie Sizditės pilies žuvo brolis Ulrichas iš Tetingeno.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178917|Kryžiuočių ordinas]]: Medininkų žemėje buvo sudaryta vieninga gynybos prieš Kryžiuočių ordino agresiją sistema, kurios centras veikiausiai buvo Medvėgalis.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179288|Lietuviai]]: 1314 m. prie Sizditės pilies Medininkų valsčiuje lietuviai neteko Masiaus brolio ir dar 18 vyrų.
 - susijęs iš [[objektai/ivykiai/Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.).md#claim-t-183911|Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.)]]: Po nesėkmingo Sizditės pilies puolimo brolio Henriko kariuomenė patraukė į pilies apylinkes ir jas nusiaubė degindama bei plėšdama.
 - susijęs iš [[objektai/ivykiai/Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.).md#claim-t-59272|Antrasis Medininkų žygis ir Sizditės pilies puolimas (1314 m. apie vasario 2 d.)]]: 1314 m. apie vasario 2 d. maršalas brolis Henrikas su kariuomene puolė Sizditės pilį Medininkų valsčiuje, bet pilėnai priešinosi.
 - susijęs iš [[objektai/ivykiai/Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris).md#claim-t-55711|Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris)]]: Po nesėkmingo Sizditės pilies puolimo Henriko kariuomenė patraukė į pilies apylinkes ir dar kartą jas nusiaubė.
 - susijęs iš [[objektai/ivykiai/Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris).md#claim-t-55712|Medininkų valsčiaus du žygiai ir Sizditės pilies puolimas (1314 m. sausis-vasaris)]]: 1314 m. apie vasario 2 d. Henrikas dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį.
 - susijęs iš Medininkų valsčius: 1314 m. apie Grabnyčias brolis Henrikas Medininkų valsčiuje užpuolė Sizditės pilį, o vėliau nusiaubė jos apylinkes.
 - susijęs iš Medininkų valsčius: 1314 m. apie Grabnyčias brolis Henrikas Medininkų valsčiuje užpuolė Sizditės pilį, o vėliau nusiaubė jos apylinkes.
+- susijęs iš [[objektai/asmenys/Ulrichas iš Tetingeno.md#claim-t-60451|Ulrichas iš Tetingeno]]: 1314 m. mūšyje prie Sizditės pilies žuvo brolis Ulrichas iš Tetingeno.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178917|Kryžiuočių ordinas]]: Medininkų žemėje buvo sudaryta vieninga gynybos prieš Kryžiuočių ordino agresiją sistema, kurios centras veikiausiai buvo Medvėgalis.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179288|Lietuviai]]: 1314 m. prie Sizditės pilies Medininkų valsčiuje lietuviai neteko Masiaus brolio ir dar 18 vyrų.
 - susijęs iš Simsarna: Simsarna rodyklėje įvardyta kaip upė ir tapatinama su dabartine Symsarna.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-184016|pilėnas pilėnai]]: 1314 m. Sizditės pilėnai Medininkų valsčiuje narsiai priešinosi maršalo Henriko puolimui.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58804|pilėnas pilėnai]]: 1314 m. Medininkų valsčiaus Sizditės pilėnai narsiai priešinosi maršalo Henriko kariuomenės puolimui.
@@ -96,4 +116,24 @@ Dusburgietis teigia, kad dar apie tą patį Tais pačiais 1314 metais, apie grab
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f067a1e9f1731730a6143e52fab599037b7f3658b4ab5aa3f5b367001a31fcc2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sizditė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sizditė" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 649631-650064; hash=e25870ad01d84ee31efc4f2fbf46937a6a010c9cfb0abdba619324ff2d16daa0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Telšiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sizditė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Telšiai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sizditė" parinktas kaip owner_note_path. Targetas "Telšiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

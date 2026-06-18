@@ -33,17 +33,27 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
   susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1169891-1170347; hash=601a6c5b79ba8d0291941f94c58ccc6bcedc0673277b1dc24116635ae16c2e55; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vatikanas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vatikanas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78000|A. Voldemaras]]: 1927 m. rugsėjo 27 d. A. Voldemaras Romoje pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75768|Augustinas Voldemaras]]: Augustinas Voldemaras 1927 m. rugsėjo 27 d. Romoje pasirašė konkordatą su Vatikanu.
 - susijęs iš [[objektai/ivykiai/Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.).md#claim-t-20230|Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.)]]: 1927 m. rugsėjo 27 d. Augustinas Voldemaras Romoje pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.
 - susijęs iš [[objektai/ivykiai/Kražių įvykiai.md#claim-t-20232|Kražių įvykiai]]: Brutalus rusų valdžios elgesys per Kražių įvykius sukėlė dalies rusų visuomenės pasipiktinimą ir Vatikano protestą.
-- susijęs iš [[objektai/posakiai/„Kražių skerdynėmis“.md#claim-t-183494|„Kražių skerdynėmis“]]: 1893 m. Kražių bažnyčios gynimą nuo uždarymo ir kazokų šturmą liaudis pavadino „Kražių skerdynėmis“.
-- susijęs iš [[objektai/posakiai/„Kražių skerdynėmis“.md#claim-t-20847|„Kražių skerdynėmis“]]: Sužeidimų, žūčių ir išprievartavimų lydėtus Kražių įvykius liaudis pavadino „Kražių skerdynėmis“.
 - susijęs iš Lietuvos ir Vatikano konkordatas (1927 m.): 1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.
 - susijęs iš Lietuvos ir Vatikano konkordatas (1927 m.): 1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.
 - susijęs iš Lietuvos ir Vatikano konkordatas (1927 m.): 1927 m. rugsėjo 27 d. Augustinas Voldemaras pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje.
 - susijęs iš Lietuvos ir Vatikano konkordatas: 1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.
 - susijęs iš Lietuvos ir Vatikano konkordatas: 1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.
+- susijęs iš [[objektai/posakiai/„Kražių skerdynėmis“.md#claim-t-183494|„Kražių skerdynėmis“]]: 1893 m. Kražių bažnyčios gynimą nuo uždarymo ir kazokų šturmą liaudis pavadino „Kražių skerdynėmis“.
+- susijęs iš [[objektai/posakiai/„Kražių skerdynėmis“.md#claim-t-20847|„Kražių skerdynėmis“]]: Sužeidimų, žūčių ir išprievartavimų lydėtus Kražių įvykius liaudis pavadino „Kražių skerdynėmis“.
 - susijęs iš Brazilija: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos pripažinimą Brazilijoje iki 1967 m.
 - susijęs iš Didžioji Britanija: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Didžiojoje Britanijoje ir kitose okupacijos nepripažinusiose šalyse.
 - susijęs iš JAV: JAV buvo viena iš šalių, nepripažinusių Lietuvos prievartinio įjungimo į SSRS sudėtį.
@@ -73,3 +83,13 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1169891-1170347; hash=601a6c5b79ba8d0291941f94c58ccc6bcedc0673277b1dc24116635ae16c2e55; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vatikanas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vatikanas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

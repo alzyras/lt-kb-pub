@@ -48,74 +48,134 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 - t-001
   global_id: t-54943
   teiginys: 'Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Polockas; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija'
   pagrindžia:
     - c-001
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 97609-98137; hash=36fc3bcb6fffa06ac0cbabe353f01bca015929f3687dfb38f433ad31f4d7985e; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Andrius Algirdaitis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Algirdaitis" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54944"></a>
 - t-002
   global_id: t-54944
   teiginys: 'Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona.'
   sudarymo_pagrindimas: 'Patikslintas pilnas asmens vardas ir įtrauktas šaltinio minimas Polocko kunigaikščio vaidmuo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Polockas; mentioned_place: Vitebskas; mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f9d0ea0f4b047faa33a26129f7a58eccba57f5c0a68628bf33d7a6b8798ee8a4; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Andrius Algirdaitis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Algirdaitis" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54945"></a>
 - t-003
   global_id: t-54945
   teiginys: 'Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir prisidėjo prie 1380 m. rugsėjo 8 d. pergalės Kulikovo lauke.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1380 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f9d0ea0f4b047faa33a26129f7a58eccba57f5c0a68628bf33d7a6b8798ee8a4; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Andrius Algirdaitis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Algirdaitis" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54946"></a>
 - t-004
   global_id: t-54946
   teiginys: 'Andrius, Algirdo sūnus, skiriamas nuo išgalvoto Andriaus Vaidoto; jis žuvo prie Vorsklos 1399 m.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Livonija; mentioned_place: Polockas; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vorskla; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Livonija; mentioned_place: Polockas'
   temporaliniai_duomenys: 'įvykio data: 1399 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 100197-100778; hash=6b47882142918ec91ef239cae83999882226b6946057c38db2ca474835206b80; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Andrius Algirdaitis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Algirdaitis" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-82220"></a>
 - t-005
   global_id: t-82220
   teiginys: 'Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir kovėsi su juo prieš totorius Kulikovo mūšyje.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Andriaus karinį vaidmenį, bet pradinis sakinys yra nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 98888-99389; hash=06848176cd77ff8caadd145c9248016b204f7e40f17409c75f183acf41f23cc9; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Andrius Algirdaitis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Algirdaitis" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-82221"></a>
 - t-006
   global_id: t-82221
   teiginys: 'Andrius Algirdaitis buvo Jogailai pavaldus Polocko kunigaikštis, linkęs į Kęstučio pusę.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį apie Andriaus padėtį ir politinę kryptį, bet pradinį tekstą reikia sutrumpinti.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Polockas; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Polockas; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vitebskas'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f9d0ea0f4b047faa33a26129f7a58eccba57f5c0a68628bf33d7a6b8798ee8a4; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Andrius Algirdaitis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Algirdaitis" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-183726|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis buvo vienas iš žymių Lietuvos kunigaikščių, žuvusių mūšyje.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40018|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis su Kęstučiu ir Vytautu Kęstutaičiu puolė Perejeslavlį.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40019|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.
-- susijęs iš [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis).md#claim-t-183732|Dimitrijus (Voluinietis Karijotaitis)]]: Dimitrijus (Voluinietis Karijotaitis) žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.
-- susijęs iš [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis).md#claim-t-39507|Dimitrijus (Voluinietis Karijotaitis)]]: Dimitrijus (Voluinietis Karijotaitis) buvo tarp mūšyje žuvusių žymių Lietuvos kunigaikščių.
 - susijęs iš [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis.md#claim-t-183733|Dmitrijus Algirdaitis Brenskietis]]: Dmitrijus Algirdaitis Brenskietis žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.
 - susijęs iš [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis.md#claim-t-39509|Dmitrijus Algirdaitis Brenskietis]]: Dmitrijus Algirdaitis Brenskietis buvo tarp mūšyje žuvusių žymių Lietuvos kunigaikščių.
+- susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186722|Andriaus Algirdaičio maištas prieš Jogailą]]: 1387 m. balandžio pirmojoje pusėje Skirgaila užėmė Polocką, o Andrius Algirdaitis buvo suimtas.
+- susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186723|Andriaus Algirdaičio maištas prieš Jogailą]]: Po Polocko užėmimo Andrius Algirdaitis buvo suimtas ir septynerius metus kalėjo Chencinų tvirtovėje Lenkijoje.
+- susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronikoje Andrius Algirdaitis supainiotas su Vaidotu Kęstutaičiu, todėl atsirado išgalvotas Andrius Vaidotas.
+- susijęs iš Maskva: 1372 m. balandį trečiąjį Maskvos žygį pradėjo Kęstutis ir Andrius Algirdaitis, įsiveržę į Dmitrijaus Doniečio žemes.
+- susijęs iš [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis).md#claim-t-183732|Dimitrijus (Voluinietis Karijotaitis)]]: Dimitrijus (Voluinietis Karijotaitis) žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.
+- susijęs iš [[objektai/asmenys/Dimitrijus (Voluinietis Karijotaitis).md#claim-t-39507|Dimitrijus (Voluinietis Karijotaitis)]]: Dimitrijus (Voluinietis Karijotaitis) buvo tarp mūšyje žuvusių žymių Lietuvos kunigaikščių.
 - susijęs iš [[objektai/asmenys/Jonas Survila.md#claim-t-39563|Jonas Survila]]: Kryžiuotis lietuvis Jonas Survila žuvo mūšyje tarnaudamas senajai Tėvynei.
 - susijęs iš [[objektai/asmenys/Tomas Survila.md#claim-t-39652|Tomas Survila]]: Tomas Survila žuvo tarnaudamas senajai Tėvynei kaip vienas iš dviejų lietuvių kryžiuočių.
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182788|Michał Baliński Mykolas Balinskis]]: Rodyklė apima įvadą ir M. Balinskio veikalo vertimą.
-- susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186722|Andriaus Algirdaičio maištas prieš Jogailą]]: 1387 m. balandžio pirmojoje pusėje Skirgaila užėmė Polocką, o Andrius Algirdaitis buvo suimtas.
-- susijęs iš [[objektai/ivykiai/Andriaus Algirdaičio maištas prieš Jogailą.md#claim-t-186723|Andriaus Algirdaičio maištas prieš Jogailą]]: Po Polocko užėmimo Andrius Algirdaitis buvo suimtas ir septynerius metus kalėjo Chencinų tvirtovėje Lenkijoje.
 - susijęs iš [[objektai/ivykiai/Kulikovo mūšis (1380 m. rugsėjo 8 d.).md#claim-t-86954|Kulikovo mūšis (1380 m. rugsėjo 8 d.)]]: Andrius Algirdaitis 1380 m. rugsėjo 8 d. Kulikovo lauke kovėsi prieš totorius ir daug prisidėjo prie pergalės.
-- susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronikoje Andrius Algirdaitis supainiotas su Vaidotu Kęstutaičiu, todėl atsirado išgalvotas Andrius Vaidotas.
-- susijęs iš Maskva: 1372 m. balandį trečiąjį Maskvos žygį pradėjo Kęstutis ir Andrius Algirdaitis, įsiveržę į Dmitrijaus Doniečio žemes.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -160,6 +220,16 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 97609-98137; hash=36fc3bcb6fffa06ac0cbabe353f01bca015929f3687dfb38f433ad31f4d7985e; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Andrius Algirdaitis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Algirdaitis" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-003
@@ -199,9 +269,49 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 100197-100778; hash=6b47882142918ec91ef239cae83999882226b6946057c38db2ca474835206b80; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Andrius Algirdaitis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Algirdaitis" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 98888-99389; hash=06848176cd77ff8caadd145c9248016b204f7e40f17409c75f183acf41f23cc9; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Andrius Algirdaitis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Algirdaitis" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 97609-98137; hash=36fc3bcb6fffa06ac0cbabe353f01bca015929f3687dfb38f433ad31f4d7985e; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Andrius Algirdaitis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Algirdaitis" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f9d0ea0f4b047faa33a26129f7a58eccba57f5c0a68628bf33d7a6b8798ee8a4; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Andrius Algirdaitis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Algirdaitis" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -228,4 +338,24 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f9d0ea0f4b047faa33a26129f7a58eccba57f5c0a68628bf33d7a6b8798ee8a4; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Andrius Algirdaitis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Algirdaitis" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f9d0ea0f4b047faa33a26129f7a58eccba57f5c0a68628bf33d7a6b8798ee8a4; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Andrius Algirdaitis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Andrius Algirdaitis" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

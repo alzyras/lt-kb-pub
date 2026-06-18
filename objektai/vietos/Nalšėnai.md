@@ -38,6 +38,16 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   temporalinis_llm_pakomentavimas: 'Pašalintas ankstesnio sakinio kontekstas ir paliktas aiškus faktas apie Nalšėnus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=614663cb01f07dfe9e3c11533bcd5209c03ce6320cba6fdfc08f04b86d3cd357; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mindaugas (valdovas, XIII a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nalšėnai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nalšėnai" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-32382"></a>
 - t-002
@@ -50,35 +60,65 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir pašalintas perteklinis vertinimas.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4bab5b8536313edc1dfa8a44a4910b1d38ad80c1a3cb5cca1bd93e8117f46794; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nalšėnai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nalšėnai" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-32383"></a>
 - t-003
   global_id: t-32383
   teiginys: 'Vaišvilkui imant Nalšėnų pilis, Nalšėnų Daumantas pabėgo į Pskovą su šeima, bajorais ir palydovais.'
   sudarymo_pagrindimas: 'Patikslintas asmens įvardijimas pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Deltuva; mentioned_place: Pskovas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Pskovas; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Deltuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1265 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslintas asmens įvardijimas pagal citatą.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 554137-554533; hash=1003d2c1f04507c7973cb5118a1a953af8d248943a05205832350af69d67eb5c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dauguva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nalšėnai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dauguva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nalšėnai" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-32384"></a>
 - t-004
   global_id: t-32384
   teiginys: 'Ipatijaus metraštis Nalšėnus mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Deltuva; mentioned_place: Pskovas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Deltuva; mentioned_place: Pskovas'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 554649-555115; hash=92f24bb43cf69b3cad8ed87b14ddffbdc0e2aad5c177525c036a34df063d0003; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> kunigas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nalšėnai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: kunigas: mention_match, thing, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nalšėnai" parinktas kaip owner_note_path. Targetas "kunigas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-82249|Daumantas (kunigaikštis, XV a.)]]: Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05161|Daumantas (kunigaikštis, XV a.)]]: Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė.
-- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05162|Daumantas (kunigaikštis, XV a.)]]: Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05164|Daumantas (kunigaikštis, XV a.)]]: 1266 m. Daumantas su pskoviečiais puolė Nalšėnus.
-- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-82249|Daumantas (kunigaikštis, XV a.)]]: Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.
 - susijęs iš [[objektai/ivykiai/Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.).md#claim-t-31409|Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.)]]: Gerdenis pralaimėjo Daumantui, pasitraukė su kariuomenės likučiais, o per kitą Daumanto žygį į Nalšėnus 1267 m. žiemą žuvo.
+- susijęs iš Nalšėnų žemė: Apie 1259 m. totorių chanas Burundajus su Volinijos-Haličo Danieliumi nusiaubė Aukštaitiją ir pasiekė Nalšėnų žemę.
+- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05162|Daumantas (kunigaikštis, XV a.)]]: Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą.
+- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-82249|Daumantas (kunigaikštis, XV a.)]]: Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.
 - susijęs iš Deltuva: Ipatijaus metraštis Deltuvą prie Ukmergės mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų.
 - susijęs iš Deltuva: Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek iš pirktų žemių ir privažiuojamų .
-- susijęs iš Nalšėnų žemė: Apie 1259 m. totorių chanas Burundajus su Volinijos-Haličo Danieliumi nusiaubė Aukštaitiją ir pasiekė Nalšėnų žemę.
 - susijęs iš [[objektai/zodynas/družina.md#claim-t-32773|družina]]: Nalšėnų Daumantas, bijodamas patekti Vaišvilkui į rankas, pabėgo į Pskovą su šeima, bajorais ir palydovais, vadinamais družina.
 ## Reikšmingi paminėjimai
 
@@ -114,6 +154,16 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=614663cb01f07dfe9e3c11533bcd5209c03ce6320cba6fdfc08f04b86d3cd357; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mindaugas (valdovas, XIII a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nalšėnai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nalšėnai" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -131,6 +181,16 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4bab5b8536313edc1dfa8a44a4910b1d38ad80c1a3cb5cca1bd93e8117f46794; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nalšėnai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nalšėnai" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -146,7 +206,27 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 554137-554533; hash=1003d2c1f04507c7973cb5118a1a953af8d248943a05205832350af69d67eb5c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dauguva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nalšėnai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dauguva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nalšėnai" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 554649-555115; hash=92f24bb43cf69b3cad8ed87b14ddffbdc0e2aad5c177525c036a34df063d0003; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> kunigas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nalšėnai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: kunigas: mention_match, thing, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nalšėnai" parinktas kaip owner_note_path. Targetas "kunigas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] buvo_valdovas Nalšėnai

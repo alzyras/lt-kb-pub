@@ -33,6 +33,9 @@ Zajączkowski, St.
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=46e644be5086bb4c786716d93330550edbb695fc2d15382bbaa4bcfcdcf0d351; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -48,3 +51,6 @@ Zajączkowski, St.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=46e644be5086bb4c786716d93330550edbb695fc2d15382bbaa4bcfcdcf0d351; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

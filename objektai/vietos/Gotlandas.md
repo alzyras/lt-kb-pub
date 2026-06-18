@@ -36,28 +36,48 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 303199-303484; hash=d7077c0a5802364935c62cea0a66a07b8386d7cbf3763c19d4f26ec9ed027821; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Švedai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gotlandas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Švedai: mention_match, group, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gotlandas" parinktas kaip owner_note_path. Targetas "Švedai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-173440"></a>
 - t-002
   global_id: t-173440
   teiginys: 'Apie 650 m. iš Gotlando ir vidurio Švedijos prasidėjo didelė švedų ekspansija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Durbė; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Švedija; mentioned_place: Durbė'
   temporaliniai_duomenys: 'įvykio data: 650 m; įvykio data: apie 650 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
-- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112510|Domininkonų ordinas]]: 1323 m. gegužės 26 d. laiškai buvo pasiųsti Saksų provincijos domininkonams, pranciškonams ir Hanzos miestams.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ca5f9c968b5230a3d48e7ecc7f6ab30e7dc89fe0523494bcd874356b9610cc33; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hanza: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gotlandas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Hanza: mention_match, group, gap=76
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gotlandas" parinktas kaip owner_note_path. Targetas "Hanza" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112517|Domininkonų ordinas]]: Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė naujus piligrimų būrius.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112519|Domininkonų ordinas]]: Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė piligrimus.
+- susijęs iš Gedimino laiškas Hanzos miestams ir Gotlando pirkliams (1323 m.): Gedimino laiške Hanzos miestams ir Gotlando pirkliams teigiama, kad valdovas pasiuntė popiežiui laišką dėl susivienijimo su Bažnyčia.
+- susijęs iš Gedimino laiškas Liubeko, Rostoko, Zundo, Greifsvaldo, Štetino miestams ir Gotlando gyventojams: Gedimino laiške šiaurės Vokietijos miestams ir Gotlando gyventojams nurodyta, kad į Vilnių atvykę kolonistai galės naudotis Rygos civiline teise.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
+- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112510|Domininkonų ordinas]]: 1323 m. gegužės 26 d. laiškai buvo pasiųsti Saksų provincijos domininkonams, pranciškonams ir Hanzos miestams.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-10755|Hanza]]: XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinama Hanza.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108323|Pranciškonų ordinas]]: 1323 m. gegužės 26 d. trys Gedimino laiškai buvo pasiųsti Saksų provincijos pranciškonams, dominikonams ir Hanzos miestams.
 - susijęs iš [[objektai/paprociai/Kolonistų vadovavimasis Rygos miesto civiline teise.md#claim-t-87244|Kolonistų vadovavimasis Rygos miesto civiline teise]]: Gediminas laiške pranešė, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise, kol bus sukurti geresni įstatymai.
 - susijęs iš [[objektai/posakiai/Jure civili utantur Rigensis Civitatis.md#claim-t-55176|Jure civili utantur Rigensis Civitatis]]: Gedimino laiške į Vilnių atvykstantiems kolonistams žadėta vadovautis Rygos miesto civiline teise.
 - susijęs iš [[objektai/posakiai/Jure civili utantur Rigensis Civitatis.md#claim-t-55177|Jure civili utantur Rigensis Civitatis]]: „Jure civili utantur Rigensis Civitatis“ Gedimino laiške leido Vilniaus kolonistams naudotis Rygos civiline teise, kol bus sukurti geresni įstatymai.
 - susijęs iš [[objektai/posakiai/Jure civili utantur Rigensis Civitatis.md#claim-t-82139|Jure civili utantur Rigensis Civitatis]]: „Jure civili utantur Rigensis Civitatis“ nurodė, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.
-- susijęs iš Gedimino laiškas Hanzos miestams ir Gotlando pirkliams (1323 m.): Gedimino laiške Hanzos miestams ir Gotlando pirkliams teigiama, kad valdovas pasiuntė popiežiui laišką dėl susivienijimo su Bažnyčia.
-- susijęs iš Gedimino laiškas Liubeko, Rostoko, Zundo, Greifsvaldo, Štetino miestams ir Gotlando gyventojams: Gedimino laiške šiaurės Vokietijos miestams ir Gotlando gyventojams nurodyta, kad į Vilnių atvykę kolonistai galės naudotis Rygos civiline teise.
 - susijęs iš Gedimino laiškas dominikonams (1323 m.): Gedimino laiške dominikonams Saksonijos magistrui ir priorams nurodyta perskaičius ir nurašius laišką kuo greičiau siųsti toliau.
 - susijęs iš Apuolės pilis (pilis): VII a. pabaigoje švedai įsikūrė Grobine ir užėmė Apuolės pilį prie Skuodo.
 - susijęs iš Ašmena: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
@@ -105,4 +125,24 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ca5f9c968b5230a3d48e7ecc7f6ab30e7dc89fe0523494bcd874356b9610cc33; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hanza: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gotlandas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Hanza: mention_match, group, gap=76
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gotlandas" parinktas kaip owner_note_path. Targetas "Hanza" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 303199-303484; hash=d7077c0a5802364935c62cea0a66a07b8386d7cbf3763c19d4f26ec9ed027821; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Švedai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gotlandas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Švedai: mention_match, group, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gotlandas" parinktas kaip owner_note_path. Targetas "Švedai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

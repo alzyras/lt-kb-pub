@@ -48,9 +48,19 @@ Nenurodyta
   teiginys: 'Kulmo ir Lubavos žemių dovanojimui patvirtinti buvo išduotas raštas su antspaudu, kad dovanojimo nebūtų galima atšaukti.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Reikia išplėsti kontekstą ir pašalinti pradinį nutrūkusį jungtuką.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_place: Krušvica; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Mazovija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_place: Krušvica; mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=426d0d1e3f1d722e3321375d24fc9bb44b8ec9d302eb4be44d21cd3b08592936; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-62845"></a>
 - t-002
@@ -65,6 +75,16 @@ Nenurodyta
   pagrindžia:
     - c-001
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d69d83b1bb7ea0ca5fe157c1320bf2dc5af743f7cbbb7b10fd00b06b944ed4b8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-62846"></a>
 - t-003
@@ -72,9 +92,19 @@ Nenurodyta
   teiginys: 'Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams, suteikiant jiems visas turėtas teises ir naudas.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys aiškiai apibendrina dovanojimo turinį ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Agota|Agota]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Mazovija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_person: [[objektai/asmenys/Agota|Agota]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 146202-146429; hash=319c6da560221e6012d5671b4a6dd566e70394307ae091f1d8798fbc790f269d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -109,6 +139,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d69d83b1bb7ea0ca5fe157c1320bf2dc5af743f7cbbb7b10fd00b06b944ed4b8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -131,5 +171,35 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=426d0d1e3f1d722e3321375d24fc9bb44b8ec9d302eb4be44d21cd3b08592936; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 146202-146429; hash=319c6da560221e6012d5671b4a6dd566e70394307ae091f1d8798fbc790f269d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d69d83b1bb7ea0ca5fe157c1320bf2dc5af743f7cbbb7b10fd00b06b944ed4b8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

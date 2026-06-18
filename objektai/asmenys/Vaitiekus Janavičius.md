@@ -32,12 +32,22 @@ periodo_grupes:
   global_id: t-87874
   teiginys: 'Vaitiekus Janavičius 1507 m. Melnike buvo paminėtas kaip karališkasis rūmininkas ir Kauno seniūnas.'
   sudarymo_pagrindimas: 'Citata aiškiai remia Vaitiekaus Janavičiaus pareigybes ir dokumento vietą bei metus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)|Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]; mentioned_person: [[objektai/asmenys/Limantas|Limantas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Melnikas; mentioned_place: Naugardukas; mentioned_place: Polockas; mentioned_place: Poznanė; mentioned_place: Skirsnemunė; mentioned_place: Slonimas; mentioned_place: Trakai; mentioned_place: Utena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Melnikas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)|Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]; mentioned_person: [[objektai/asmenys/Limantas|Limantas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Naugardukas; mentioned_place: Polockas; mentioned_place: Poznanė; mentioned_place: Skirsnemunė; mentioned_place: Slonimas; mentioned_place: Trakai; mentioned_place: Utena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1507 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai remia Vaitiekaus Janavičiaus pareigybes ir dokumento vietą bei metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=674bf9de88d60f900cc7361cafde41b95d702405d0dadb4740f8081b66b86b19; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vaitiekus Janavičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vaitiekus Janavičius" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -84,3 +94,13 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=674bf9de88d60f900cc7361cafde41b95d702405d0dadb4740f8081b66b86b19; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vaitiekus Janavičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vaitiekus Janavičius" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

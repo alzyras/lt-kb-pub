@@ -35,6 +35,9 @@ Dusburgietis teigia, kad jäger E.
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia autoriaus, pavadinimo, leidyklos ir metų faktą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 775943-776094; hash=5a4581fbecf200ce861893a10d8eea2d6f5e5f64f7c3b271f01198f1c828ba4b; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +52,6 @@ Dusburgietis teigia, kad jäger E.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 775943-776094; hash=5a4581fbecf200ce861893a10d8eea2d6f5e5f64f7c3b271f01198f1c828ba4b; match=exact
+  sprendimo_priezastis: auto

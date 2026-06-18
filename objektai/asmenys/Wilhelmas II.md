@@ -30,20 +30,30 @@ Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijo
   global_id: t-19344
   teiginys: '1918 m. kovo 23 d. Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs; citata paremia pilną sakinį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Berlynas; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūkęs; citata paremia pilną sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f75b5253b91423b3c784ed865c19422cb58da4360bb51f2fddeeccc6e04f7677; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Wilhelmas II: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Wilhelmas II" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Vilhelmas fon Urachas.md#claim-t-26463|Vilhelmas fon Urachas]]: Vilhelmas fon Urachas 1918 m. liepos 13 d. buvo pakviestas užimti Lietuvos sostą ir paskelbtas karaliumi Mindaugu II.
+- susijęs iš Vokietija: 1918 m. kovo 23 d. Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77983|A. Smetona]]: 1918 m. kovo 23 d. A. Smetonos vadovaujama Tarybos delegacija Berlyne pristatė Vasario 16-osios deklaraciją Vokietijos kancleriui.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75755|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. kovo 23 d. Antano Smetonos vadovaujama Tarybos delegacija Berlyne pristatė deklaracijos turinį Georgui von Hertlingui.
 - susijęs iš [[objektai/asmenys/Georgas fon Hertlingas.md#claim-t-18913|Georgas fon Hertlingas]]: Kovo 23 d. Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui.
 - susijęs iš [[objektai/asmenys/Matijas Ercbergeris.md#claim-t-26455|Matijas Ercbergeris]]: Matijas Ercbergeris rėmė Lietuvos Tarybos monarchistus, kai 1918 m. liepos 13 d. Vilhelmas fon Urachas buvo pakviestas į Lietuvos sostą.
-- susijęs iš [[objektai/asmenys/Vilhelmas fon Urachas.md#claim-t-26463|Vilhelmas fon Urachas]]: Vilhelmas fon Urachas 1918 m. liepos 13 d. buvo pakviestas užimti Lietuvos sostą ir paskelbtas karaliumi Mindaugu II.
 - susijęs iš Vasario 16 Aktas: 1918 m. kovo 23 d. Berlyne Antano Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.
 - susijęs iš Berlynas: Kovo 23 dieną Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.
-- susijęs iš Vokietija: 1918 m. kovo 23 d. Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę.
 - susijęs iš Vokietija: 1918 m. kovo 23 d. Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet siejo ją su glaudžiais ryšiais su Vokietija.
 - susijęs iš [[objektai/zodynas/konstitucinė monarchija.md#claim-t-15627|konstitucinė monarchija]]: Konstitucinė monarchija liko Lietuvos Tarybos darbotvarkėje, Berlyne svarstant personalinę uniją su Saksonija arba Prūsija.
 ## Reikšmingi paminėjimai
@@ -67,3 +77,13 @@ Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijo
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f75b5253b91423b3c784ed865c19422cb58da4360bb51f2fddeeccc6e04f7677; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Wilhelmas II: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Wilhelmas II" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

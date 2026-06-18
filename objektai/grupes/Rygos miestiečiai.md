@@ -31,7 +31,7 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
   global_id: t-81605
   teiginys: 'Rygos miestiečiai ir jų arkivyskupas skelbė žinią, esą Gediminas su saviškiais noriai priimtų krikštą ir tikėjimą.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį kaip skelbtą žinią, ne kaip patvirtintą Gedimino ketinimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Epitomatorius|Epitomatorius]]; mentioned_author: [[objektai/autoriai/Jerošinas|Jerošinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_author: [[objektai/autoriai/Epitomatorius|Epitomatorius]]; mentioned_author: [[objektai/autoriai/Jerošinas|Jerošinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -43,16 +43,26 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_place: Livonija; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1330 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Eberhardas iš Manheimo.md#claim-t-60270|Eberhardas iš Manheimo]]: 1330 m. Rygos miestiečiai patikėjo miestą, šeimas, laisves ir privilegijas Livonijos magistrui Eberhardui iš Manheimo.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=718016377435939e4d14985b049a55c234be11b6e94f48d4a7a7e369c69f78db; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rygos miestiečiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rygos miestiečiai" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Epitomatorius.md#claim-t-88045|Epitomatorius]]: Epitomatorius nurodė, kad Rygos miestiečiai ir arkivyskupas skelbė apie lietuvių ir rutėnų valdovų norą priimti krikštą.
 - susijęs iš [[objektai/autoriai/Jerošinas Jeroschin.md#claim-t-88022|Jerošinas Jeroschin]]: Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.
 - susijęs iš [[objektai/autoriai/Jerošinas.md#claim-t-88047|Jerošinas]]: Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.
+- susijęs iš [[objektai/asmenys/Eberhardas iš Manheimo.md#claim-t-60270|Eberhardas iš Manheimo]]: 1330 m. Rygos miestiečiai patikėjo miestą, šeimas, laisves ir privilegijas Livonijos magistrui Eberhardui iš Manheimo.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178900|Kryžiuočių ordinas]]: 1330 m. apie Velykas Rygos miestiečiai patikėjo miestą Livonijos Teutonų ordino magistrui Eberhardui iš Manheimo ir broliams.
 - susijęs iš [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas.md#claim-t-87158|Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas]]: Jerošino teigimu, Rygos arkivyskupas ir miestiečiai pajūrio miestuose bei popiežiui platino žinią, kad Gediminas norėjęs krikštytis.
 ## Reikšmingi paminėjimai
@@ -111,3 +121,13 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=718016377435939e4d14985b049a55c234be11b6e94f48d4a7a7e369c69f78db; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rygos miestiečiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rygos miestiečiai" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

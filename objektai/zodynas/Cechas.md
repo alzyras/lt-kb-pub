@@ -40,9 +40,19 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
 - t-001
   global_id: t-54804
   teiginys: 'Cechų steigimas Vokietijos miestuose siejamas su amatų ir prekybos įsitvirtinimu XII a. antrojoje pusėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Pančiai|Pančiai]]; mentioned_place: Italija; mentioned_place: Prancūzija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Vokietija; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Pančiai|Pančiai]]; mentioned_place: Italija; mentioned_place: Prancūzija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 32686-33480; hash=539d4f31cbb5cbcfe47e308fc6ab655c1f9c823cf3c1c79a77ff0b60ba027455; match=whitespace_regex
+  sprendimo_priezastis: gap::vocabulary
+  ryšio_patikimumas: susije_su -> Vokietija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Cechas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vokietija: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cechas" parinktas kaip owner_note_path. Targetas "Vokietija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54805"></a>
 - t-002
@@ -51,6 +61,16 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto cechai|Vilniaus miesto cechai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Bełskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 821103-821791; hash=7e8b19dc2f6074bb9ffb50c6a8574ff79ef6f68c30f2554334855b760f7c5a2f; match=whitespace_regex
+  sprendimo_priezastis: gap::vocabulary
+  ryšio_patikimumas: susije_su -> Vilniaus miesto auksakalių cechas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Cechas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vilniaus miesto auksakalių cechas: mention_match, group, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cechas" parinktas kaip owner_note_path. Targetas "Vilniaus miesto auksakalių cechas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-54806"></a>
 - t-003
@@ -60,6 +80,16 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto auksakalių cechas|Vilniaus miesto auksakalių cechas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 824001-824717; hash=8a9fa723f686a27ec0742a91c6bfa1d770ab751b628edf81211b42f1ae6f2b53; match=whitespace_regex
+  sprendimo_priezastis: gap::vocabulary
+  ryšio_patikimumas: susije_su -> Antspaudas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Cechas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Antspaudas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cechas" parinktas kaip owner_note_path. Targetas "Antspaudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Vilniaus miesto auksakalių cechas.md#claim-t-55091|Vilniaus miesto auksakalių cechas]]: Vilniaus miesto auksakalių cechas ir jo senjorai inicijavo Stepono Genserio šaukimą į karaliaus teismą.
 - susijęs iš [[objektai/grupes/Vilniaus miesto auksakalių cechas.md#claim-t-55092|Vilniaus miesto auksakalių cechas]]: Cechas turėjo Aleksandro privilegiją, kurią Steponas Batoras buvo patvirtinęs.
 ## Reikšmingi paminėjimai
@@ -106,6 +136,16 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 821103-821791; hash=7e8b19dc2f6074bb9ffb50c6a8574ff79ef6f68c30f2554334855b760f7c5a2f; match=whitespace_regex
+  sprendimo_priezastis: gap::vocabulary
+  ryšio_patikimumas: susije_su -> Vilniaus miesto auksakalių cechas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Cechas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vilniaus miesto auksakalių cechas: mention_match, group, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cechas" parinktas kaip owner_note_path. Targetas "Vilniaus miesto auksakalių cechas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-003
@@ -128,4 +168,24 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 32686-33480; hash=539d4f31cbb5cbcfe47e308fc6ab655c1f9c823cf3c1c79a77ff0b60ba027455; match=whitespace_regex
+  sprendimo_priezastis: gap::vocabulary
+  ryšio_patikimumas: susije_su -> Vokietija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Cechas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vokietija: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cechas" parinktas kaip owner_note_path. Targetas "Vokietija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 824001-824717; hash=8a9fa723f686a27ec0742a91c6bfa1d770ab751b628edf81211b42f1ae6f2b53; match=whitespace_regex
+  sprendimo_priezastis: gap::vocabulary
+  ryšio_patikimumas: susije_su -> Antspaudas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Cechas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Antspaudas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cechas" parinktas kaip owner_note_path. Targetas "Antspaudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

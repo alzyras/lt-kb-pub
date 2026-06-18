@@ -33,6 +33,16 @@ Tačiau šis Statutas tarnavo išim­ tinai tik šlėktų luomui, nes miestui ku
   susije_objektai: 'mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 546108-546629; hash=38e92484a7d58cc39b98b307365fddc5b1484939d97572070baea886f78da97a; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Magdeburgo teisės: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: šlėktų luomas Magdeburgo teisės: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Magdeburgo teisės: mention_match, thing, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "šlėktų luomas Magdeburgo teisės" parinktas kaip owner_note_path. Targetas "Magdeburgo teisės" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -54,3 +64,13 @@ Tačiau šis Statutas tarnavo išim­ tinai tik šlėktų luomui, nes miestui ku
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 546108-546629; hash=38e92484a7d58cc39b98b307365fddc5b1484939d97572070baea886f78da97a; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Magdeburgo teisės: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: šlėktų luomas Magdeburgo teisės: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Magdeburgo teisės: mention_match, thing, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "šlėktų luomas Magdeburgo teisės" parinktas kaip owner_note_path. Targetas "Magdeburgo teisės" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

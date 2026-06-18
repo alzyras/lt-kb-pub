@@ -26,6 +26,16 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus Porempskis|Motiejus Porempskis]]; mentioned_person: [[objektai/asmenys/Pilypas Glazeris|Pilypas Glazeris]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 821531-822310; hash=eb3f135707355ed06209d5eec399c28e899864cc99b2d1b407f8fa1a8c788ecc; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Motiejus Porempskis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas Skvemevita: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Motiejus Porempskis: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas Skvemevita" parinktas kaip owner_note_path. Targetas "Motiejus Porempskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103051|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.
 - susijęs iš [[objektai/asmenys/Mikalojus Ungarns.md#claim-t-87789|Mikalojus Ungarns]]: Mikalojus Ungarns iš besiskundžiančiųjų pusės aiškino, kad kaltinamasis turi pripažinti civilinę teisę ir auksakalių cechą.
 - susijęs iš [[objektai/asmenys/Motiejus Porempskis.md#claim-t-87797|Motiejus Porempskis]]: Motiejus Porempskis buvo vienas iš besiskundžiančiųjų, reikalavusių kaltinamajam taikyti privilegijoje numatytą bausmę.
@@ -57,3 +67,13 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 821531-822310; hash=eb3f135707355ed06209d5eec399c28e899864cc99b2d1b407f8fa1a8c788ecc; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Motiejus Porempskis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas Skvemevita: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Motiejus Porempskis: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas Skvemevita" parinktas kaip owner_note_path. Targetas "Motiejus Porempskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

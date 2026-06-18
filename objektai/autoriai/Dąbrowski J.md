@@ -23,6 +23,9 @@ Dusburgietis teigia, kad semkowicz-Zarembina); Dąbrowski J.
   sudarymo_pagrindimas: 'Citata nurodo Dąbrowskį J. kaip darbo „Dawne dziejopisarstwo“ autorių.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 55984-56158; hash=112260bbbb765c6d3b7c313b149bcfb7bde581d1dd4fabe4e88df413be3a81fb; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -37,3 +40,6 @@ Dusburgietis teigia, kad semkowicz-Zarembina); Dąbrowski J.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 55984-56158; hash=112260bbbb765c6d3b7c313b149bcfb7bde581d1dd4fabe4e88df413be3a81fb; match=exact
+  sprendimo_priezastis: auto

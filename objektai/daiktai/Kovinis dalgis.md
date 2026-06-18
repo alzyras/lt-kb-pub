@@ -42,9 +42,19 @@ Nenurodyta
   global_id: t-39184
   teiginys: 'Antanas Mackevičius sutelkė 150 dalgiais ir šautuvais ginkluotų vyrų kovai prie Naujaberžės kaimo.'
   sudarymo_pagrindimas: 'Patikslintas veikėjas ir veiksmas, sakinys susietas su citatos kontekstu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_person: [[objektai/asmenys/Antanas Mackevičius|Antanas Mackevičius]]; mentioned_place: Kaimas; mentioned_place: Narva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kaimas; mentioned_person: [[objektai/asmenys/Antanas Mackevičius|Antanas Mackevičius]]; mentioned_place: Narva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 653417-653671; hash=dcc707d81896d9e398d3c87437cf8f37edf8006b0e4d8aaca54bd9e7031ab21a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kovinis dalgis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kovinis dalgis" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-39185"></a>
 - t-002
@@ -54,6 +64,16 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Dalgis|Dalgis]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 667709-668160; hash=0975bf9e56e66a5f6dda2d4ce3da200947f625c8cffbe7ef27acff02b2c92201; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dalgis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kovinis dalgis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Dalgis: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kovinis dalgis" parinktas kaip owner_note_path. Targetas "Dalgis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -87,4 +107,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 667709-668160; hash=0975bf9e56e66a5f6dda2d4ce3da200947f625c8cffbe7ef27acff02b2c92201; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dalgis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kovinis dalgis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Dalgis: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kovinis dalgis" parinktas kaip owner_note_path. Targetas "Dalgis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 653417-653671; hash=dcc707d81896d9e398d3c87437cf8f37edf8006b0e4d8aaca54bd9e7031ab21a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kovinis dalgis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kovinis dalgis" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

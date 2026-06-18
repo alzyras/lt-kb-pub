@@ -55,6 +55,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Reikia tiksliau įvardyti Fridrichą pagal citatą ir išlaikyti faktinę formuluotę.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 741506-742184; hash=232def42700b6b5f970e03d1c5fd559ec1689ea8cc77839cb7b7e1460c447b30; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Austrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liudviko iš Bavarijos ir Fridricho Austriečio dviguba elekcija bei konfliktas (1314–1324 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudviko iš Bavarijos ir Fridricho Austriečio dviguba elekcija bei konfliktas (1314–1324 m.)" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -80,3 +90,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 741506-742184; hash=232def42700b6b5f970e03d1c5fd559ec1689ea8cc77839cb7b7e1460c447b30; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Austrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liudviko iš Bavarijos ir Fridricho Austriečio dviguba elekcija bei konfliktas (1314–1324 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudviko iš Bavarijos ir Fridricho Austriečio dviguba elekcija bei konfliktas (1314–1324 m.)" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

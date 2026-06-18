@@ -32,6 +32,16 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Stanislovas Ciołek|Stanislovas Ciołek]]; mentioned_person: [[objektai/asmenys/Ziemovitas|Ziemovitas]]; mentioned_place: Płockas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7fbf4dc94f6a2ed83bd6e5583768f12c86d8e312d4796b474e491a9fb9e8b04d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Karūna: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: pakancleris: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pakancleris" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-70262"></a>
 - t-002
@@ -41,6 +51,17 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=50a2192e5061384d5fb69f2e1e25bbe508dc353188ace5d1a0f226fa6a65d5ea; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Karūna: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: pakancleris: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pakancleris" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Aukštutinėje tvirtovėje užsidarė lenkai, kuriems vadovavo Karūnos pakancleris Mikalojus Moskoževskis.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184707|Goštautas (vyskupas, XV a.)]]: Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51024|Jadvyga (Jogailos duktė)]]: Vytautas buvo pašauktas būti karalaitės Jadvygos globėju ir nuo tada turėjo ryškią įtaką Lenkijos reikaluose.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51028|Jadvyga (Jogailos duktė)]]: Karalaitė Jadvyga buvo pavesta Vytauto globai, nuo kurios prasidėjo ryški jo įtaka lenkų reikaluose.
@@ -53,7 +74,6 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
 - susijęs iš [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais.md#claim-t-93031|Kreipimasis į Vytautą svarbiausiais reikalais]]: Lenkų pakancleriai, vyskupai ir senatoriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami patarimo ir paramos.
 - susijęs iš [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais.md#claim-t-93034|Kreipimasis į Vytautą svarbiausiais reikalais]]: Lenkų pakancleriai, vyskupai ir senatoriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami patarimo arba paramos.
 - susijęs iš Stepono Batoro patvirtinta sutartis tarp Martyno Paleckio ir Vilniaus miesto dėl stiklo liejyklos: Po Paleckių mirties jų sūnūs turėjo perduoti privilegijas miestui ir per dvidešimt savaičių išparduoti likusį stiklą.
-- susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Aukštutinėje tvirtovėje užsidarė lenkai, kuriems vadovavo Karūnos pakancleris Mikalojus Moskoževskis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -92,4 +112,24 @@ Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to meto žymū
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7fbf4dc94f6a2ed83bd6e5583768f12c86d8e312d4796b474e491a9fb9e8b04d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Karūna: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: pakancleris: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pakancleris" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=50a2192e5061384d5fb69f2e1e25bbe508dc353188ace5d1a0f226fa6a65d5ea; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Karūna: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: pakancleris: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pakancleris" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

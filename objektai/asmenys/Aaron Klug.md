@@ -33,12 +33,22 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb850c5f09ed2c1763ea06c3399bef58a3c2b5855f1878ee948b548ff31cd793; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Afrika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aaron Klug: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Afrika: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aaron Klug" parinktas kaip owner_note_path. Targetas "Afrika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Želva: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.
 - susijęs iš [[objektai/asmenys/Bernard Lown.md#claim-t-18851|Bernard Lown]]: Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo.
 - susijęs iš [[objektai/asmenys/Czesław Miłosz.md#claim-t-75793|Czesław Miłosz]]: Czesławas Miłoszas buvo 1980 m. Nobelio literatūros premijos laureatas ir šlovino Vilnių už čia išeitą mokslą.
 - susijęs iš [[objektai/asmenys/Czesław Miłosz.md#claim-t-75795|Czesław Miłosz]]: Czesławas Miłoszas buvo 1980 m. Nobelio literatūros premijos laureatas ir šlovino Vilnių už čia išeitą mokslą.
 - susijęs iš [[objektai/asmenys/Nadine Gordimer.md#claim-t-101698|Nadine Gordimer]]: Nadine Gordimer buvo Pietų Afrikos Respublikos romanistė ir 1991 m. Nobelio literatūros premijos laureatė, kurios tėvas kilęs iš Lietuvos.
 - susijęs iš [[objektai/asmenys/Nadine Gordimer.md#claim-t-101699|Nadine Gordimer]]: Nadine Gordimer buvo Pietų Afrikos Respublikos romanistė, kurios tėvas buvo kilęs iš Lietuvos.
-- susijęs iš Želva: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,3 +75,13 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb850c5f09ed2c1763ea06c3399bef58a3c2b5855f1878ee948b548ff31cd793; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Afrika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aaron Klug: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Afrika: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aaron Klug" parinktas kaip owner_note_path. Targetas "Afrika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

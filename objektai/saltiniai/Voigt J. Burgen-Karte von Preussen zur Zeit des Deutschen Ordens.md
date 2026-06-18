@@ -23,6 +23,9 @@ Dusburgietis teigia, kad voigt J.
   sudarymo_pagrindimas: 'Citata susieja žemėlapį su J. Voigto „Geschichte Preussens“ antruoju tomu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 803907-804010; hash=ae6e383f06e14ff93fcf00e12a5badc91ea9f29e5469d47633f16362aa68bb77; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -37,3 +40,6 @@ Dusburgietis teigia, kad voigt J.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 803907-804010; hash=ae6e383f06e14ff93fcf00e12a5badc91ea9f29e5469d47633f16362aa68bb77; match=exact
+  sprendimo_priezastis: auto

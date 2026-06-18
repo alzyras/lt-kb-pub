@@ -36,27 +36,57 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 479381-479814; hash=f472d0ce5ed525656d641ac3cbac1d537298f6cf4ac745c595dbe21e95f4f176; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilniaus monetų kalykla: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilniaus monetų kalykla: mention_match, place, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrikas Hozijus" parinktas kaip owner_note_path. Targetas "Vilniaus monetų kalykla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87363"></a>
 - t-002
   global_id: t-87363
   teiginys: 'Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiesiogiai paremtas citatos sakiniu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Karališkasis malūnas Vilniuje; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Karališkasis malūnas Vilniuje; mentioned_place: Krokuva; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1536 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiesiogiai paremtas citatos sakiniu.'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 533631-534249; hash=035a1adf8268300bf5c3287831d33dd9c96da24f4c0780dedbb2b326f1460aa8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Iki gyvos galvos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Iki gyvos galvos: mention_match, thing, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrikas Hozijus" parinktas kaip owner_note_path. Targetas "Iki gyvos galvos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87364"></a>
 - t-003
   global_id: t-87364
   teiginys: 'Ulrikas Hozijus ragino pastatyti tiltą per Vilijos upę ir gavo pavedimą jį nutiesti savo lėšomis.'
   sudarymo_pagrindimas: 'Citata remia Hozijaus raginimą, pavedimą ir finansavimo sąlygą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilija; mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 534744-536588; hash=3c9b38afb5ab2526b9287964930a7a9b29dc87f81779062d199debd3dbc40631; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrikas Hozijus" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87365"></a>
 - t-004
@@ -69,41 +99,81 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   temporalinis_llm_pakomentavimas: 'Citata palaiko papildomą esminę sąlygą, o sakinys tampa tikslesnis.'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 536589-537001; hash=0f98f1a8956604f06d7dfd8ea2858032166c17349c4788acbd492b048b8bb47c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrikas Hozijus" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-87366"></a>
 - t-005
   global_id: t-87366
   teiginys: '1536 m. rugpjūčio 6 d. Ulrikui Hozijui suteikta teisė rinkti muitą iš praeivių tiltu per Vilijos upę.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir paremtas privilegijos antrašte citatoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/posakiai/Viešpaties vardu Amen|Viešpaties vardu Amen]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_place: Vilija; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/posakiai/Viešpaties vardu Amen|Viešpaties vardu Amen]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1536 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir paremtas privilegijos antrašte citatoje.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3ea6d80b6ec70df71c0b5ee9c1db2a99b98b58f8e89691375f16dd95754fe041; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=66
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrikas Hozijus" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87367"></a>
 - t-006
   global_id: t-87367
   teiginys: 'Ulrikas Hozijus greitai ir rūpestingai pastatė tiltą per Vilijos upę prie Vilniaus savo didelėmis lėšomis.'
   sudarymo_pagrindimas: 'Teiginys pilnas, gramatinis ir tiesiogiai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6a18869d9c31ed05c7bd2f13a3e6102b13f9cc73946893eea5db6ad9f861d9d9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrikas Hozijus" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87368"></a>
 - t-007
   global_id: t-87368
   teiginys: 'Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemažai pajamų karaliaus iždui.'
   sudarymo_pagrindimas: 'Teiginys pilnas, gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilniaus monetų kalykla; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilniaus monetų kalykla; mentioned_place: Vilnius; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172092|Dominikonų ordinas]]: Ulrikas Hozijus pradėjo statyti prieglaudą prie dominikonų vienuolyno ir spėjo išmūryti nemažą jos dalį.
-- susijęs iš [[objektai/ivykiai/Vilijos tilto prie Vilniaus pastatymas ir remontas Hozijų rūpesčiu.md#claim-t-86926|Vilijos tilto prie Vilniaus pastatymas ir remontas Hozijų rūpesčiu]]: Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Viliją, o iš nustatyto tilto mokesčio susigrąžino statybos išlaidas.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c336bf90fc34c1f68836f408b9bd8f440e4ce1077b936048006b53565bb4c36c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrikas Hozijus" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimanto Senojo tarėjai apžiūrėjo vietą prie Šv. Dvasios prieglaudos, kurią Ulrikas Hozijus buvo pradėjęs mūryti.
 - susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Vilijos upę, o iš tilto muito susigrąžino statybos išlaidas.
 - susijęs iš Ulriko Hozijaus tiltas per Viliją: Ulrikas Hozijus pradėjo mūryti tiltą per Viliją ir špitolę, o po jo mirties statybą užbaigė sūnus Jonas.
+- susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172092|Dominikonų ordinas]]: Ulrikas Hozijus pradėjo statyti prieglaudą prie dominikonų vienuolyno ir spėjo išmūryti nemažą jos dalį.
+- susijęs iš [[objektai/ivykiai/Vilijos tilto prie Vilniaus pastatymas ir remontas Hozijų rūpesčiu.md#claim-t-86926|Vilijos tilto prie Vilniaus pastatymas ir remontas Hozijų rūpesčiu]]: Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Viliją, o iš nustatyto tilto mokesčio susigrąžino statybos išlaidas.
 - susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): Ulrikas Hozijus įvykdė karaliaus pavedimą: per Viliją pastatė mūrinį tiltą, o po jo mirties darbus užbaigė sūnus Jonas.
 - susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.
 - susijęs iš Vilniaus tiltas per Viliją: Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.
@@ -163,6 +233,16 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3ea6d80b6ec70df71c0b5ee9c1db2a99b98b58f8e89691375f16dd95754fe041; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=66
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrikas Hozijus" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -183,6 +263,16 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 479381-479814; hash=f472d0ce5ed525656d641ac3cbac1d537298f6cf4ac745c595dbe21e95f4f176; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilniaus monetų kalykla: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilniaus monetų kalykla: mention_match, place, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrikas Hozijus" parinktas kaip owner_note_path. Targetas "Vilniaus monetų kalykla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-004
@@ -209,6 +299,16 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c336bf90fc34c1f68836f408b9bd8f440e4ce1077b936048006b53565bb4c36c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrikas Hozijus" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-005
@@ -235,6 +335,16 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6a18869d9c31ed05c7bd2f13a3e6102b13f9cc73946893eea5db6ad9f861d9d9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilija: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrikas Hozijus" parinktas kaip owner_note_path. Targetas "Vilija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-006
@@ -299,7 +409,27 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 536589-537001; hash=0f98f1a8956604f06d7dfd8ea2858032166c17349c4788acbd492b048b8bb47c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrikas Hozijus" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 533631-534249; hash=035a1adf8268300bf5c3287831d33dd9c96da24f4c0780dedbb2b326f1460aa8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Iki gyvos galvos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Iki gyvos galvos: mention_match, thing, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrikas Hozijus" parinktas kaip owner_note_path. Targetas "Iki gyvos galvos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-007
@@ -346,4 +476,24 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 534744-536588; hash=3c9b38afb5ab2526b9287964930a7a9b29dc87f81779062d199debd3dbc40631; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrikas Hozijus" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 534744-536588; hash=3c9b38afb5ab2526b9287964930a7a9b29dc87f81779062d199debd3dbc40631; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrikas Hozijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrikas Hozijus" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

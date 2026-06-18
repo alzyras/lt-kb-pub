@@ -40,9 +40,19 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   global_id: t-176955
   teiginys: 'Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.'
   sudarymo_pagrindimas: 'OCR triukšmas pašalintas, paliktas tiesiogiai cituojamas faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Suražas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Suražas; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a3eb334731d4193a752318b9e6ab2a159b9d600bd60dce81100a5e8dd2528dd1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176959"></a>
 - t-002
@@ -51,13 +61,23 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Trakai'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1ce11cba5fc76d46d7066241fc8e432d7d6d7758e251450f2a05ae3ccbe90bff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Trakai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176960"></a>
 - t-003
   global_id: t-176960
   teiginys: '1505 m. Šach Achmedas buvo atgabentas iš Vilniaus į seimą Brastoje, o vėliau pasiųstas gyventi į Trakus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šach Achmedas|Šach Achmedas]]; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Trakai; mentioned_person: [[objektai/asmenys/Šach Achmedas|Šach Achmedas]]; mentioned_place: Maskva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1505 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
@@ -80,7 +100,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - t-005
   global_id: t-176963
   teiginys: 'Brasta buvo tarp krikščioniškų Trakų kunigaikštijos sričių, kurių abu magistrai pasižadėjo nepulti.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1379 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -90,7 +110,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - t-006
   global_id: t-176964
   teiginys: 'Brastoje jėzuitų kolegija atsirado vicekanclerio Leono Kazimiero Sapiegos fundacijos pagrindu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Bobruiskas; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Kražiai; mentioned_place: Minskas; mentioned_place: Pinskas; mentioned_place: Sluckas; mentioned_place: Smolenskas; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Bobruiskas; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Kražiai; mentioned_place: Minskas; mentioned_place: Pinskas; mentioned_place: Sluckas; mentioned_place: Smolenskas; mentioned_place: Vitebskas'
   pagrindžia:
     - c-005
 
@@ -99,7 +119,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   global_id: t-176965
   teiginys: '1544 m. Brastos seime Žygimantas dar prieš mirtį perdavė sūnui Žygimantui Augustui Lietuvos valdžią.'
   sudarymo_pagrindimas: 'Reikia aiškiau įvardyti sūnų, kurį citata leidžia nustatyti.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1544 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau įvardyti sūnų, kurį citata leidžia nustatyti.'
@@ -111,12 +131,22 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   global_id: t-176966
   teiginys: 'Brastoje buvo įkurta protestantų mokykla, o pradžios mokyklų protestantai turėjo beveik kiekvienoje savo parapijoje.'
   sudarymo_pagrindimas: 'Ilgas sąrašinis sakinys sutrumpintas ir aiškiau susietas su Brasta.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalvinai|Kalvinai]]; mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_group: [[objektai/grupes/Kalvinai|Kalvinai]]'
   temporaliniai_duomenys: 'įvykio data: 1640 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Ilgas sąrašinis sakinys sutrumpintas ir aiškiau susietas su Brasta.'
   pagrindžia:
     - c-014
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=666dd309bb44c1e89855d9152f922109af7b13161d5e9e613e1f31ab3c0e80a5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176967"></a>
 - t-009
@@ -129,25 +159,55 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   temporalinis_llm_pakomentavimas: 'Reikia tiksliau parodyti, kad Brasta buvo viena iš išvardytų sričių.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e69603eaa22b5a0b2e9e3abc3ef93f0db841ec8f1449e16e949ed3041a68e092; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mikalojus Radvila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Mikalojus Radvila: mention_match, person, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Mikalojus Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176968"></a>
 - t-010
   global_id: t-176968
   teiginys: 'Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Zabluduvas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_place: Viena; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Vilnius; mentioned_place: Zabluduvas'
   temporaliniai_duomenys: 'įkūrimo data: 1553 m.; įkūrimo data: 1569 m.; įkūrimo data: 1575 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-016
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=de0a1f393d1284783e4ea50d42be9acdf785bf96064be925b3b3454c7e1791be; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176969"></a>
 - t-011
   global_id: t-176969
   teiginys: 'Vytauto laikais Brasta minima kaip galima pilies statybos vieta Palenkėje, rusėniškose LDK žemėse.'
   sudarymo_pagrindimas: 'Pradinis sakinys per ilgas, o citata Brastą mini tik kaip galimą vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_place: Palenkė; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Voluinė'
   pagrindžia:
     - c-013
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c3a172bcad227a49a4c8d5b861099f67653a0c0c3dfd32f96ceba530564a62eb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Stanislovas Augustas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Stanislovas Augustas: mention_match, person, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Stanislovas Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176970"></a>
 - t-012
@@ -157,6 +217,16 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Trakai'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f6a030b4255acd9786221755f4b1034c54a46f0e88113619e15f3544a8ad02fb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Varšuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Varšuva: mention_match, place, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Varšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176971"></a>
 - t-013
@@ -180,7 +250,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   global_id: t-176973
   teiginys: 'Brastoje Slupskis sumokėjo 38 lietuviškus grašius palūkanų nuo filipkų.'
   sudarymo_pagrindimas: 'Teiginys faktinis, tik reikėjo pašalinti OCR klaidas ir sutvarkyti sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/suma|suma]]; mentioned_person: [[objektai/asmenys/Slupskis|Slupskis]]; mentioned_person: [[objektai/asmenys/Turčinas|Turčinas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Slupskis|Slupskis]]; mentioned_object: [[objektai/zodynas/suma|suma]]; mentioned_person: [[objektai/asmenys/Turčinas|Turčinas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-017
 
@@ -188,40 +258,70 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - t-016
   global_id: t-176974
   teiginys: 'Vilniaus katedrai buvo dovanoti dideli valsčiai Drohičino, Brastos ir Dubno pavietuose.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Dubnas; mentioned_place: Lietuva; mentioned_place: Tauragnai; mentioned_place: Verkiai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Dubnas; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Lietuva; mentioned_place: Tauragnai; mentioned_place: Verkiai; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1ce11cba5fc76d46d7066241fc8e432d7d6d7758e251450f2a05ae3ccbe90bff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176975"></a>
 - t-017
   global_id: t-176975
   teiginys: 'Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'location: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Vilnius; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'kelionės data: 1544 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Augustas keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a2b05c81000ebbbb9769499d32e5613678c07ab38299e30def47b1a0051e08c9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dubnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dubnas: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Dubnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176976"></a>
 - t-018
   global_id: t-176976
   teiginys: '1792 m. liepos pabaigoje gynybai telkiantis prie Brastos, atėjo žinia apie Stanislovo Augusto prisijungimą prie Targovicos konfederacijos.'
   sudarymo_pagrindimas: 'Pašalintas perteklinis kontekstas ir suformuotas aiškus vieno sakinio teiginys.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Targovica; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis]]; mentioned_place: Targovica; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas perteklinis kontekstas ir suformuotas aiškus vieno sakinio teiginys.'
   pagrindžia:
     - c-015
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=34f875e2a233731058e9b37b28a490e2bd5fab991e543b10f034bc6728cd3dca; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Suražas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Suražas: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Suražas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176977"></a>
 - t-019
   global_id: t-176977
   teiginys: 'Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Vilnius; mentioned_place: Zabluduvas'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas'
   temporaliniai_duomenys: 'įvykio data: 1569 m.; įvykio data: 1575 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
@@ -232,18 +332,38 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - t-020
   global_id: t-176978
   teiginys: 'Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Suražas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Suražas; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 79741-80088; hash=0e4eb44bb3cc45c41b66ad5bd352b1f193a7ff22736e67e0c456a6aecf16a1cd; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=75
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176979"></a>
 - t-021
   global_id: t-176979
   teiginys: 'Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.'
   sudarymo_pagrindimas: 'Pašalintas neaiškus užstato formulavimas ir paliktas citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Raudonieji|Raudonieji]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Bobruiskas; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Kražiai; mentioned_place: Minskas; mentioned_place: Pinskas; mentioned_place: Sluckas; mentioned_place: Smolenskas; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Raudonieji|Raudonieji]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Bobruiskas; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Kražiai; mentioned_place: Minskas; mentioned_place: Pinskas; mentioned_place: Sluckas; mentioned_place: Smolenskas; mentioned_place: Vitebskas'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5c91cc7efb8e08fa2403ce0bc867f3cdba242669a4ad27373164cacf18fa57db; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Augustas: nearest_actor, person, gap=29
+  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Augustas" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 <a id="claim-t-176980"></a>
 - t-022
@@ -253,13 +373,23 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Mozūrija; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 689807-690475; hash=8067db089f246b467b965cbdcbc93fb11aa2b7cfcdc95d5bc2bd6396860b3948; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176982"></a>
 - t-023
   global_id: t-176982
   teiginys: '1544 m. Brastos seime Žygimantas dar prieš mirtį atidavė sūnui Lietuvos valdžią.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1544 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
@@ -271,7 +401,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   global_id: t-176985
   teiginys: 'LDK kariuomenė pasipriešino prie Myro ir Brastoje, o paskui be didesnių nuostolių atsitraukė prie Varšuvos.'
   sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir apkrautas šalutinėmis detalėmis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lenkija; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_place: Varšuva; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-018
 
@@ -280,7 +410,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   global_id: t-176986
   teiginys: 'Brastos paviete buvę dideli valsčiai minimi tarp valdų, kuriomis buvo aprūpinta Vilniaus katedra.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Brastos pavieto valsčius kaip dovanotų valdų dalį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Dubnas; mentioned_place: Lietuva; mentioned_place: Tauragnai; mentioned_place: Verkiai; mentioned_place: Vilniaus katedra; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilniaus katedra; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Dubnas; mentioned_place: Lietuva; mentioned_place: Tauragnai; mentioned_place: Verkiai'
   pagrindžia:
     - c-008
 
@@ -292,12 +422,22 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Legendiniam ir priešo nusiaubimą aprašančiam pasakojimui reikia atribucijos.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_place: Drohičinas; mentioned_place: Lietuva; mentioned_place: Melnikas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Drohičinas; mentioned_place: Melnikas; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1544 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Legendiniam ir priešo nusiaubimą aprašančiam pasakojimui reikia atribucijos.'
   pagrindžia:
     - c-020
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 142067-142322; hash=db51e84591a09ed8f3dac509caefc4aaa04118a88ab4e9a6f545d22e1c605712; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Gardinas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): nearest_actor, person, gap=9
+  ryšio_targeto_parinkimas: Gardinas: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Gardinas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187568"></a>
 - t-029
@@ -310,6 +450,64 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   susije_objektai: 'location: Gardinas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-021
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 689807-690475; hash=8067db089f246b467b965cbdcbc93fb11aa2b7cfcdc95d5bc2bd6396860b3948; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Sapiegos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Sapiegos: mention_match, group, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Sapiegos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Karolis Moravskis.md#claim-t-40272|Karolis Moravskis]]: Karolis Moravskis vadovavo 2-ajam regimentui, stovėjusiam prieš priemiesčius prie Lietuvos Brastos.
+- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82511|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis 1441 metais Brastoje išleista privilegija atnaujino Vilniui Magdeburgo teises.
+- susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82568|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Grįžęs į katalikybę Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
+- susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82573|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
+- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113884|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.
+- susijęs iš [[objektai/asmenys/Mykolas Sulistrovskis.md#claim-t-40362|Mykolas Sulistrovskis]]: Mykolas Sulistrovskis vadovavo 1-ajai tautinės kavalerijos brigadai prie Lietuvos Brastos.
+- susijęs iš [[objektai/asmenys/Petras Pšonka.md#claim-t-186157|Petras Pšonka]]: Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsiveržimą į Lenkijos gilumą.
+- susijęs iš [[objektai/asmenys/Slupskis.md#claim-t-87853|Slupskis]]: Slupskis Brastoje davė 38 lietuviškus grašius palūkanų nuo filipkų.
+- susijęs iš [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“.md#claim-t-40709|Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]: Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“ vaizduoja 1657 m. švedų apsiaustą Lietuvos Brastą.
+- susijęs iš [[objektai/grupes/Abiejų Tautų konfederacija.md#claim-t-19623|Abiejų Tautų konfederacija]]: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją.
+- susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72360|Latvių Tautos Taryba (institucija)]]: Latvių Tautos Taryba protestavo, kai Brastos taikoje bolševikai paliko Pabaltijį vokiečių valdžioje.
+- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187735|Ponų taryba (institucija)]]: Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu.
+- susijęs iš [[objektai/grupes/Radvilos.md#claim-t-74889|Radvilos]]: Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.
+- susijęs iš [[objektai/grupes/Targovicos konfederacija.md#claim-t-182713|Targovicos konfederacija]]: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją ir centru paskelbė Gardiną.
+- susijęs iš [[objektai/grupes/Čekų ir Silezijos savanoriai.md#claim-t-86838|Čekų ir Silezijos savanoriai]]: Čekų ir Silezijos savanorių vadai pateko į nelaisvę po nesėkmės brastoje per Šventosios upę ties Ukmerge.
+- susijęs iš [[objektai/ivykiai/1426 m. Lietuvos Brastos suvažiavimas.md#claim-t-34533|1426 m. Lietuvos Brastos suvažiavimas]]: 1426 m. Lietuvos Brastos suvažiavime kartu su Vytautu ir Jogaila dalyvavo jų didikai.
+- susijęs iš [[objektai/ivykiai/Brastos bažnytinė unija.md#claim-t-183219|Brastos bažnytinė unija (unija)]]: Brastos bažnytinę uniją 1596 m. nulėmė gausūs XV–XVI a. LDK telkęsi bažnytinės unijos bandymai.
+- susijęs iš [[objektai/ivykiai/Brastos bažnytinė unija.md#claim-t-20172|Brastos bažnytinė unija (unija)]]: Po Brastos bažnytinės unijos stačiatikiai ir graikai katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
+- susijęs iš [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare.md#claim-t-20174|Brastos pasipriešinimas 1792 m. kare]]: LDK kariuomenė, stokodama pasirengimo ir patirdama vadovavimo sunkumų, pasipriešino prie Myro ir Brastoje, o paskui atsitraukė prie Varšuvos.
+- susijęs iš [[objektai/ivykiai/Brastos seimas 1505 m..md#claim-t-186806|Brastos seimas 1505 m. (seimas, XVI a.)]]: 1971 m. leidinio pastaba nurodo, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą skiriasi nuo platesnio M. Miechovitos pasakojimo.
+- susijęs iš [[objektai/ivykiai/Brastos taikos derybos ir pasirašymas.md#claim-t-01599|Brastos taikos derybos ir pasirašymas]]: 1917 m. pabaigoje Brastoje prasidėjus bolševikų ir Vokietijos taikos deryboms, lietuviai siekė kuo greičiau grįžti į Lietuvą.
+- susijęs iš [[objektai/ivykiai/Lietuvos Brastos apsiaustis (1657 m.).md#claim-t-80678|Lietuvos Brastos apsiaustis (1657 m.)]]: 1657 m. Lietuvos Brastos apsiaustis baigėsi miesto pasidavimu priešui, po kurio miestas buvo gerokai suniokotas.
+- susijęs iš [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.).md#claim-t-66681|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]: 1792 m. liepos 23 d. Lietuvos Brastos mūšis prasidėjo rusų kavalerijos ataka, kurią lietuvių kavalerija iš pradžių atmušė.
+- susijęs iš [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.).md#claim-t-66682|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]: Mūšio prie Lietuvos Brastos padariniai buvo įvertinti kaip sunkūs, bet ne vienareikšmiškai pralaimėjimas.
+- susijęs iš [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.).md#claim-t-66683|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]: Zikaro sudarytame leidinyje Lietuvos Brastos mūšis nelaikomas nei pergale, nei pralaimėjimu, nes LDK kariuomenė pasitraukė tvarkingai.
+- susijęs iš [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.).md#claim-t-66685|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]: Lietuvos Brastos mūšis truko apie 8 valandas, o Lietuvos kariuomenė, S. Zabielos raportais, neteko apie 300 karių.
+- susijęs iš [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.).md#claim-t-66686|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]: Lietuvos Brastos mūšis prasidėjo 1792 m. liepos 23 d. auštant, kai prie lietuvių pozicijų priartėjo rusų kazokų priešakiniai daliniai.
+- susijęs iš [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.).md#claim-t-66687|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]: Lietuvos Brastos mūšis truko apie 8 valandas, o Lietuvos kariuomenė neteko apie 300 karių.
+- susijęs iš [[objektai/ivykiai/Targovicos ir Vilniaus konfederacijų susijungimas Brastoje.md#claim-t-20514|Targovicos ir Vilniaus konfederacijų susijungimas Brastoje]]: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją.
+- susijęs iš 1390 m. Vladislovo Jogailos privilegija Vilniaus kapitulai dėl Panerių: 1390 m. Vladislovo Jogailos privilegija dėl Panerių buvo patvirtinta 1518 m. didžiajame Brastos konvente.
+- susijęs iš Brastos Biblija: Po Mikalojaus Radvilos Juodojo 1553 m. Brastoje įkurtos spaustuvės po dešimtmečio pasirodė „Brastos Biblija“.
+- susijęs iš Akmenų Brasta: Melno sutarties siena senojoje jotvingių žemėje prasidėjo nuo Akmenų Brastos Luko aukštupyje, aukščiau Grajevo ir Točilovo ežerų.
+- susijęs iš Bielsko: Liepos 16 d. S. Zabiela iš stovyklos prie Bielsko išžygiavo į Lietuvos Brastą su keturiais pėstininkų pulkais.
+- susijęs iš Drohičinas: Vilniaus katedra gavo didelius valsčius Drohičino, Brastos ir Dubno pavietuose su įvairiais ten renkamais mokesčiais.
+- susijęs iš Gardinas: Kęstutis paveldėjo Trakus ir Gardiną su Palenke, arba Lietuvos Brasta.
+- susijęs iš Lietuvos Brasta: Remiantis S. Zabielos raportais, Lietuvos kariuomenė per Lietuvos Brastos mūšį neteko apie 300 karių.
+- susijęs iš Lietuvos Brasta: 1657 m. švedų apsiausta Lietuvos Brasta galiausiai pasidavė priešui ir buvo gerokai suniokota.
+- susijęs iš Lietuvos Brasta: Remiantis S. Zabielos raportais, prie Lietuvos Brastos Lietuvos kariuomenė neteko apie 300 karių.
+- susijęs iš Lietuvos Brasta: Vienas paskutinių svarbių gynybos taškų liko Lietuvos Brastos miestas, prie kurio nutarta pabandyti sustabdyti Rusijos kariuomenės veržimąsi į vakarus.
+- susijęs iš Liublinas: 1432 m. pradžioje, stringant lenkų ir lietuvių deryboms, Jogaila stovėjo Liubline, o Švitrigaila su kryžiuočių atstovais buvo Brastoje.
+- susijęs iš Luckas: Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
+- susijęs iš Luckas: Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
+- susijęs iš Muchavecas: Jokūbui Jasinskui vadovaujant Senajame Muchavece buvo užverstos dvi brastos, o prie tilto per Muchaveco upę supiltas pylimas.
+- susijęs iš Palenkė: Vytauto laikais pilys buvo statomos ir Palenkėje, tarp jų Melnike ir galbūt Brastoje.
+- susijęs iš Suražas: Jonušas, atvykęs su kariuomene į Drohičiną, puolė Suražą, Kamenecą ir apgulė Brastą.
+- susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113649|Magdeburgo teisės]]: Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m.
+- susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113656|Magdeburgo teisės]]: Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m.
+- susijęs iš [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas.md#claim-t-86492|raudonasis auksinas, taleris ir dukatas]]: Ponas Pekarskis perdavė 96 raudonuosius auksinus, imtus Brastoje po 56 lenkiškus grašius už vienetą.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176299|Algirdas (Lietuvos valdovas)]]: Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78953|Augustas II]]: 1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija.
@@ -320,25 +518,17 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - susijęs iš [[objektai/asmenys/Juozapas Bielakas.md#claim-t-40233|Juozapas Bielakas]]: Juozapo Bielako priešakinės sargybos pulkas stovėjo prieš priemiesčius su 1-osios tautinės kavalerijos brigada.
 - susijęs iš [[objektai/asmenys/Jurgis Lengvenaitis.md#claim-t-87743|Jurgis Lengvenaitis]]: Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės kartu su Švitrigaila išvengė sutriuškinimo.
 - susijęs iš [[objektai/asmenys/Juzefas Poniatovskis.md#claim-t-19045|Juzefas Poniatovskis]]: Juzefas Poniatovskis vadovavo Lenkijos kariuomenei Ukrainoje.
-- susijęs iš [[objektai/asmenys/Karolis Moravskis.md#claim-t-40272|Karolis Moravskis]]: Karolis Moravskis vadovavo 2-ajam regimentui, stovėjusiam prieš priemiesčius prie Lietuvos Brastos.
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82511|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis 1441 metais Brastoje išleista privilegija atnaujino Vilniui Magdeburgo teises.
 - susijęs iš [[objektai/asmenys/Liubartas Gediminaitis.md#claim-t-30353|Liubartas Gediminaitis]]: Liubartas Gediminaitis mirė apie 1385 m.
 - susijęs iš [[objektai/asmenys/Liudvikas XVI.md#claim-t-19111|Liudvikas XVI]]: 1793 m. sausio 21 d. Prancūzijoje buvo nukirsdintas Liudvikas XVI, o sausio 23 d. Rusija ir Prūsija įvykdė antrąjį LLV padalijimą.
 - susijęs iš [[objektai/asmenys/Markas (žydas kreditorius).md#claim-t-87547|Markas (žydas kreditorius)]]: Žydui kreditoriui Markui už šešių savaičių palūkanas nuo 250 zlotų buvo sumokėta 15 florinų.
-- susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82568|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Grįžęs į katalikybę Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
-- susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82573|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113882|Mikalojus Radvila Juodasis]]: Žygimantas rašte pabrėžė Mikalojaus Radvilos Juodojo ištikimą tarnystę karo ir taikos metu bei nuopelnus Respublikai.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113884|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.
-- susijęs iš [[objektai/asmenys/Mykolas Sulistrovskis.md#claim-t-40362|Mykolas Sulistrovskis]]: Mykolas Sulistrovskis vadovavo 1-ajai tautinės kavalerijos brigadai prie Lietuvos Brastos.
 - susijęs iš [[objektai/asmenys/Otokaras (Čekijos karalius).md#claim-t-35259|Otokaras (Čekijos karalius)]]: Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje.
 - susijęs iš [[objektai/asmenys/Pekarskis.md#claim-t-87820|Pekarskis]]: Pekarskiui buvo paskolinti 800 zlotų sidabrui, užstatytam Jo Karališkosios Didenybės reikalams.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173205|Petras Goštautas]]: Petras Goštautas pagonišką dievaičių buveinę pavertė bažnyčia ir pašventė ją Šv. Petro vardui.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54993|Petras Goštautas]]: Petras Goštautas tradicijoje vadintas kunigaikščio Algirdo laikų didiku ir Vilniaus vaivada.
-- susijęs iš [[objektai/asmenys/Petras Pšonka.md#claim-t-186157|Petras Pšonka]]: Lietuviai pasiuntė Pšonką surasti brastą per Vyslą prieš netikėtą įsiveržimą į Lenkijos gilumą.
 - susijęs iš [[objektai/asmenys/Severinas Ževuckis.md#claim-t-40418|Severinas Ževuckis]]: Severinas Ževuckis vadovavo 8-ajam regimentui, stovėjusiam prieš priemiesčius.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179645|Skirgaila]]: Skirgaila, anot citatos, gavęs valdžią aplaidumu ir žiauriu elgesiu nuteikė prieš save didesnę Lietuvos dalį.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179649|Skirgaila]]: Balińskis Skirgailos valdžios pradžią siejo su aplaidumu ir žiauriu elgesiu, kurie prieš jį nuteikė didesnę Lietuvos dalį.
-- susijęs iš [[objektai/asmenys/Slupskis.md#claim-t-87853|Slupskis]]: Slupskis Brastoje davė 38 lietuviškus grašius palūkanų nuo filipkų.
 - susijęs iš [[objektai/asmenys/Turčinas.md#claim-t-87586|Turčinas]]: Turčinas Lukove keisdamas lietuviškas monetas į lenkiškas prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių.
 - susijęs iš [[objektai/asmenys/Vaidila.md#claim-t-87462|Vaidila]]: Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-183769|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
@@ -350,41 +540,20 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173328|Žygimantas Senasis]]: 1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį perdavė Lietuvos valdžią sūnui Žygimantui Augustui.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 - susijęs iš [[objektai/autoriai/Petras Korkonas.md#claim-t-88080|Petras Korkonas]]: Petras Korkonas 1621 m. rašė, kad Petras Goštautas savo rankomis pasodino liepą priešais senosios bažnyčios duris.
-- susijęs iš [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“.md#claim-t-40709|Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]: Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“ vaizduoja 1657 m. švedų apsiaustą Lietuvos Brastą.
 - susijęs iš [[objektai/daiktai/Goštauto liepa.md#claim-t-87027|Goštauto liepa]]: 1621 metais Petras Korkonas rašė, kad Petro Goštauto pasodinta liepa buvo vešli, drūta ir vadinta Goštauto liepa.
-- susijęs iš [[objektai/grupes/Abiejų Tautų konfederacija.md#claim-t-19623|Abiejų Tautų konfederacija]]: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją.
 - susijęs iš [[objektai/grupes/Anglai.md#claim-t-172069|Anglai]]: Anglija, Škotija ir Prancūzija savanoriais papildė vokiečių riterių būrius, susirinkusius Karaliaučiuje.
 - susijęs iš [[objektai/grupes/Graikų katalikų bažnyčia.md#claim-t-74119|Graikų katalikų bažnyčia]]: Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, nuolat rezidavę Vilniuje.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172117|Jėzuitų ordinas]]: Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172118|Jėzuitų ordinas]]: 1575 m. Mikalojus Kristupas Radvila-Našlaitėlis perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui.
 - susijęs iš [[objektai/grupes/LDK Ponų Taryba.md#claim-t-187765|LDK Ponų Taryba (institucija, XV a.)]]: Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš LDK Ponų Tarybos.
-- susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72360|Latvių Tautos Taryba (institucija)]]: Latvių Tautos Taryba protestavo, kai Brastos taikoje bolševikai paliko Pabaltijį vokiečių valdžioje.
 - susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72361|Latvių Tautos Taryba (institucija)]]: Vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, siekusi kurti nepriklausomą Latviją.
 - susijęs iš [[objektai/grupes/Miestelėnų luomas.md#claim-t-34347|Miestelėnų luomas]]: Vytauto laikais miestelėnų luomo pagrindai buvo padėti miestams suteikiant pirmąsias savivaldybes, vadintas magdeburgijomis.
-- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187735|Ponų taryba (institucija)]]: Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187739|Ponų taryba (institucija)]]: Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš Ponų tarybos.
-- susijęs iš [[objektai/grupes/Radvilos.md#claim-t-74889|Radvilos]]: Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.
-- susijęs iš [[objektai/grupes/Targovicos konfederacija.md#claim-t-182713|Targovicos konfederacija]]: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją ir centru paskelbė Gardiną.
 - susijęs iš [[objektai/grupes/Vilniaus konfederacija.md#claim-t-20071|Vilniaus konfederacija]]: Vilniaus konfederacija 1792 m. birželio 25 d. pritarė Targovicos konfederacijai.
 - susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117316|Vokiečiai]]: Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus.
-- susijęs iš [[objektai/grupes/Čekų ir Silezijos savanoriai.md#claim-t-86838|Čekų ir Silezijos savanoriai]]: Čekų ir Silezijos savanorių vadai pateko į nelaisvę po nesėkmės brastoje per Šventosios upę ties Ukmerge.
 - susijęs iš [[objektai/grupes/Škotai.md#claim-t-86839|Škotai]]: Škotijos savanoriai kartu su anglais ir prancūzais papildė vokiečių riterių būrius Karaliaučiuje.
-- susijęs iš [[objektai/ivykiai/1426 m. Lietuvos Brastos suvažiavimas.md#claim-t-34533|1426 m. Lietuvos Brastos suvažiavimas]]: 1426 m. Lietuvos Brastos suvažiavime kartu su Vytautu ir Jogaila dalyvavo jų didikai.
-- susijęs iš [[objektai/ivykiai/Brastos bažnytinė unija.md#claim-t-183219|Brastos bažnytinė unija (unija)]]: Brastos bažnytinę uniją 1596 m. nulėmė gausūs XV–XVI a. LDK telkęsi bažnytinės unijos bandymai.
-- susijęs iš [[objektai/ivykiai/Brastos bažnytinė unija.md#claim-t-20172|Brastos bažnytinė unija (unija)]]: Po Brastos bažnytinės unijos stačiatikiai ir graikai katalikai LDK vaidino svarbesnį vaidmenį nei Lenkijoje.
-- susijęs iš [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare.md#claim-t-20174|Brastos pasipriešinimas 1792 m. kare]]: LDK kariuomenė, stokodama pasirengimo ir patirdama vadovavimo sunkumų, pasipriešino prie Myro ir Brastoje, o paskui atsitraukė prie Varšuvos.
-- susijęs iš [[objektai/ivykiai/Brastos seimas 1505 m..md#claim-t-186806|Brastos seimas 1505 m. (seimas, XVI a.)]]: 1971 m. leidinio pastaba nurodo, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą skiriasi nuo platesnio M. Miechovitos pasakojimo.
-- susijęs iš [[objektai/ivykiai/Brastos taikos derybos ir pasirašymas.md#claim-t-01599|Brastos taikos derybos ir pasirašymas]]: 1917 m. pabaigoje Brastoje prasidėjus bolševikų ir Vokietijos taikos deryboms, lietuviai siekė kuo greičiau grįžti į Lietuvą.
 - susijęs iš [[objektai/ivykiai/Ketverių metų seimas (1788–1792 m.).md#claim-t-78620|Ketverių metų seimas (1788–1792 m.)]]: Ketverių metų seimas 1791 m. gegužės 3 d. priėmė konstituciją ir kitus įstatymus, turėjusius reformuoti valstybę bei atsikratyti Rusijos protektorato.
-- susijęs iš [[objektai/ivykiai/Lietuvos Brastos apsiaustis (1657 m.).md#claim-t-80678|Lietuvos Brastos apsiaustis (1657 m.)]]: 1657 m. Lietuvos Brastos apsiaustis baigėsi miesto pasidavimu priešui, po kurio miestas buvo gerokai suniokotas.
-- susijęs iš [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.).md#claim-t-66681|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]: 1792 m. liepos 23 d. Lietuvos Brastos mūšis prasidėjo rusų kavalerijos ataka, kurią lietuvių kavalerija iš pradžių atmušė.
-- susijęs iš [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.).md#claim-t-66682|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]: Mūšio prie Lietuvos Brastos padariniai buvo įvertinti kaip sunkūs, bet ne vienareikšmiškai pralaimėjimas.
-- susijęs iš [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.).md#claim-t-66683|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]: Zikaro sudarytame leidinyje Lietuvos Brastos mūšis nelaikomas nei pergale, nei pralaimėjimu, nes LDK kariuomenė pasitraukė tvarkingai.
-- susijęs iš [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.).md#claim-t-66685|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]: Lietuvos Brastos mūšis truko apie 8 valandas, o Lietuvos kariuomenė, S. Zabielos raportais, neteko apie 300 karių.
-- susijęs iš [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.).md#claim-t-66686|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]: Lietuvos Brastos mūšis prasidėjo 1792 m. liepos 23 d. auštant, kai prie lietuvių pozicijų priartėjo rusų kazokų priešakiniai daliniai.
-- susijęs iš [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.).md#claim-t-66687|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]: Lietuvos Brastos mūšis truko apie 8 valandas, o Lietuvos kariuomenė neteko apie 300 karių.
 - susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186650|Parčevo seimas (seimas, XV a.)]]: Lietuvos metraštis pasakoja, kad Parčevo seime priimti sumanymai ir nutarimai liko didelė paslaptis.
-- susijęs iš [[objektai/ivykiai/Targovicos ir Vilniaus konfederacijų susijungimas Brastoje.md#claim-t-20514|Targovicos ir Vilniaus konfederacijų susijungimas Brastoje]]: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją.
 - susijęs iš [[objektai/paprociai/Gyvenviečių prie upių vardijimas su priešdėliu „pa-“.md#claim-t-87269|Gyvenviečių prie upių vardijimas su priešdėliu „pa-“]]: Lietuvoje buvo paplitęs paprotys gyvenvietes prie upių vadinti prie upės pavadinimo pridedant priešdėlį „pa-“.
 - susijęs iš [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas.md#claim-t-75363|Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]: Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir perimtas mitas apie valdovų kildinimą iš kito krašto.
 - susijęs iš [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas.md#claim-t-75364|Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]: Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir atsirado poreikis pažinti savo istoriją.
@@ -393,27 +562,21 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - susijęs iš [[objektai/paprociai/Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje.md#claim-t-77953|Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje]]: Pranciškus Skorina, pirmasis Lietuvos spaustuvininkas, 1517–1519 m. Prahoje išspausdino „Rusėnų Bibliją“, o 1522 m. įkūrė spaustuvę Vilniuje.
 - susijęs iš [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka.md#claim-t-87135|Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]: Kazimiero 1441 m. Brastoje išleista privilegija atnaujino Vilniaus Magdeburgo teises ir nustatė du didžiuosius prekymečius.
 - susijęs iš [[objektai/posakiai/Promittimus et spondemus sub fide et honore nostris.md#claim-t-86870|Promittimus et spondemus sub fide et honore nostris]]: Formule „promittimus et spondemus sub fide et honore nostris“ Vilnius su kitais miestais įsipareigojo rūpintis amžinosios taikos laikymusi.
-- susijęs iš 1390 m. Vladislovo Jogailos privilegija Vilniaus kapitulai dėl Panerių: 1390 m. Vladislovo Jogailos privilegija dėl Panerių buvo patvirtinta 1518 m. didžiajame Brastos konvente.
 - susijęs iš Altrandštato taika (1706 m.): 1706 m. Augustas Altrandštate sudarė taiką su Karoliu, atsisakė Respublikos sosto ir pripažino Leščinskį karaliumi.
-- susijęs iš Brastos Biblija: Po Mikalojaus Radvilos Juodojo 1553 m. Brastoje įkurtos spaustuvės po dešimtmečio pasirodė „Brastos Biblija“.
 - susijęs iš Petro Korkono 1621 m. raštas apie Goštauto liepą: Petras Korkonas 1621 m. rašė, kad Petras Goštautas prie senosios bažnyčios durų savo rankomis pasodino liepą.
 - susijęs iš Airiogala: Vytautas Žemaitijoje pastatė bažnyčią Airiogaloje kartu su bažnyčiomis Betygaloje, Kelmėje, Kražiuose ir kitose vietose.
-- susijęs iš Akmenų Brasta: Melno sutarties siena senojoje jotvingių žemėje prasidėjo nuo Akmenų Brastos Luko aukštupyje, aukščiau Grajevo ir Točilovo ežerų.
 - susijęs iš Altrandštatas: 1706 m. Augustas Altrandštate sudarė taiką su Karoliu, atsisakė Respublikos sosto ir pripažino Leščinskį karaliumi.
 - susijęs iš Betygala: Žemaitijoje Vytautas pastatė bažnyčias Airiogaloje, Betygaloje, Kelmėje ir kitose vietose.
-- susijęs iš Bielsko: Liepos 16 d. S. Zabiela iš stovyklos prie Bielsko išžygiavo į Lietuvos Brastą su keturiais pėstininkų pulkais.
 - susijęs iš Bobruiskas: Bobruiske atsirado jėzuitų kolegija, įkurta Triznos fundacijos pagrindu.
 - susijęs iš Bokštai: Bokštai buvo tarp valdų, kuriomis iškilmingu dovanojimo aktu buvo aprūpinta Vilniaus katedra.
 - susijęs iš Dambrava: Dambravos kaimas prie Vilniaus buvo tarp valdų, kuriomis iškilmingu aktu buvo aprūpinta Vilniaus katedra.
 - susijęs iš Dombrovica: Brastos apygardoje mokyklų buvo ir Dombrovicoje.
 - susijęs iš Drahočynas: Vytautas Drahočyne pastatė bažnyčią.
-- susijęs iš Drohičinas: Vilniaus katedra gavo didelius valsčius Drohičino, Brastos ir Dubno pavietuose su įvairiais ten renkamais mokesčiais.
 - susijęs iš Drohičinas: Drohičino paviete buvę dideli valsčiai su renkamais mokesčiais buvo skirti Vilniaus katedrai aprūpinti.
 - susijęs iš Dubnas: Dubno paviete buvę dideli valsčiai su renkamais mokesčiais buvo skirti Vilniaus katedrai aprūpinti.
 - susijęs iš Dubrovno pavietas: Dubrovno pavietas atiteko Vilniaus katedrai ir kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė.
 - susijęs iš Gardinas: Kovo mėnesį karalius, padedamas Skirgailos, šturmu užėmė Vytauto valdos sostine vadintą Gardiną.
 - susijęs iš Gardinas: Kovo mėnesį karalius, padedamas Skirgailos, šturmu užėmė Vytauto valdos sostine vadintą Gardiną.
-- susijęs iš Gardinas: Kęstutis paveldėjo Trakus ir Gardiną su Palenke, arba Lietuvos Brasta.
 - susijęs iš Gardinas: Gardine atsirado jėzuitų kolegija, funduota Smolensko vyskupo Isaikovskio ir kitų rėmėjų.
 - susijęs iš Gardinas: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją ir centru paskelbė Gardiną.
 - susijęs iš Gniezno diecezija: Vilniaus katedrai skirtų pajamų dalimi buvo turtinga Klodovo klebonija Gniezno diecezijoje.
@@ -434,27 +597,18 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - susijęs iš Lauksodis: Lauksodyje veikė viena iš mažesnių jėzuitų mokyklų.
 - susijęs iš Lenkija: Užėmęs Vytauto valdytas pilis ir Gardiną, Jogaila patvarkė Lietuvos gynybą ir grįžo į Lenkiją.
 - susijęs iš Lietuva: Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius.
-- susijęs iš Lietuvos Brasta: Remiantis S. Zabielos raportais, Lietuvos kariuomenė per Lietuvos Brastos mūšį neteko apie 300 karių.
-- susijęs iš Lietuvos Brasta: 1657 m. švedų apsiausta Lietuvos Brasta galiausiai pasidavė priešui ir buvo gerokai suniokota.
-- susijęs iš Lietuvos Brasta: Remiantis S. Zabielos raportais, prie Lietuvos Brastos Lietuvos kariuomenė neteko apie 300 karių.
-- susijęs iš Lietuvos Brasta: Vienas paskutinių svarbių gynybos taškų liko Lietuvos Brastos miestas, prie kurio nutarta pabandyti sustabdyti Rusijos kariuomenės veržimąsi į vakarus.
 - susijęs iš Liubešavas: Brastos apygardoje Liubešave veikė viena iš minimų mokyklų.
-- susijęs iš Liublinas: 1432 m. pradžioje, stringant lenkų ir lietuvių deryboms, Jogaila stovėjo Liubline, o Švitrigaila su kryžiuočių atstovais buvo Brastoje.
 - susijęs iš Liublinas: Karalius Olbrachtas su broliu karalaičiu Zigmantu išvyko į Liubliną prieš abiejų šalių ponų suvažiavimą Parčeve.
-- susijęs iš Luckas: Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
 - susijęs iš Luckas: Vytautas Volinijoje užvaldė dvi svarbiausias pilis - Lucką ir Vladimirą.
-- susijęs iš Luckas: Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
 - susijęs iš Melnikas: Lietuvos metraštyje Erdvilas su kariais, išžygiavęs iš Naugarduko, rado Melniką Batu nusiaubtą ir sunaikintą.
 - susijęs iš Melnikas: Lietuvos metraštyje Jonušas, neįveikęs Brastos, pasitraukė ir paliko įgulas Drohičine bei Melnike.
 - susijęs iš Mielnikas: 1384 m. vasarą Vytautas gavo dalį tėvo valdų, įskaitant Palenkę su Drohičinu ir Mielniku.
 - susijęs iš Minskas: Po priešo niokojamo antpuolio Minske ir kituose miestuose kilo maras.
 - susijęs iš Molėtai: Molėtų kaimas prie Vilniaus buvo vienas iš valdų, iškilmingu aktu dovanotų Vilniaus vyskupui.
-- susijęs iš Muchavecas: Jokūbui Jasinskui vadovaujant Senajame Muchavece buvo užverstos dvi brastos, o prie tilto per Muchaveco upę supiltas pylimas.
 - susijęs iš Naugardukas: Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.
 - susijęs iš Naugardėlis: Vytautas pastatė bažnyčią Naugardėlyje.
 - susijęs iš Nesvyžius: Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje.
 - susijęs iš Nesvyžius: Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje.
-- susijęs iš Palenkė: Vytauto laikais pilys buvo statomos ir Palenkėje, tarp jų Melnike ir galbūt Brastoje.
 - susijęs iš Pašiaušė: Pašiaušėje veikusi jėzuitų kolegija atsirado bajoro Beinarto fundacijos pagrindu.
 - susijęs iš Pinskas: Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias.
 - susijęs iš Raigardo ežeras: Raigardo ežeras buvo perpus dalijamas aprašytos sienos linijos.
@@ -466,7 +620,6 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - susijęs iš Senvarniai: Vytautas Žemaitijoje pastatė bažnyčias, tarp jų ir Senvarniuose.
 - susijęs iš Smolenskas: Smolenske atsirado jėzuitų kolegija, funduota klebono Lempickio ir kitų rėmėjų.
 - susijęs iš Solcas: Karališkoji didenybė vyko į Solcą, į Lietuvos pataurininkio vestuves.
-- susijęs iš Suražas: Jonušas, atvykęs su kariuomene į Drohičiną, puolė Suražą, Kamenecą ir apgulė Brastą.
 - susijęs iš Sūduva: Melno sutartimi Lietuva iš Sūduvos girių laimėjo daugiau, negu Vytautas buvo užleidęs Ordinui Salyno taika 1398 metais.
 - susijęs iš Sūduva: Melno sutartimi Lietuva iš Sūduvos girių laimėjo daugiau, negu Vytautas buvo užleidęs Ordinui Salyno taika.
 - susijęs iš Tauragnų pilis (pilis): Vilniaus katedra iškilmingu aktu buvo aprūpinta kunigaikštiška Tauragnų pilimi su visu pavietu.
@@ -485,8 +638,6 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - susijęs iš Žemaitija: Žemaitijoje Vytautas pastatė Varnių katedrą ir bažnyčias Ariogaloje, Betygaloje, Kelmėje, Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Senvarniuose ir Veliuonoje.
 - susijęs iš Žodiškiai: Žodiškiuose veikusi jėzuitų kolegija buvo Minkevičių fundacija.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113645|Magdeburgo teisės]]: 1441 m. Brastoje išleista Kazimiero privilegija Vilniui atkūrė Magdeburgo teises ir nustatė du didžiuosius prekymečius.
-- susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113649|Magdeburgo teisės]]: Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m.
-- susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113656|Magdeburgo teisės]]: Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m.
 - susijęs iš [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas.md#claim-t-22098|daugiakonfesiškumas daugiakultūriškumas]]: LDK daugiakonfesiškumą rodė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.
 - susijęs iš [[objektai/zodynas/daugiakonfesiškumas.md#claim-t-22101|daugiakonfesiškumas]]: LDK daugiakonfesiškumą rodė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.
 - susijęs iš [[objektai/zodynas/filipka.md#claim-t-86525|filipka]]: Per poną Turčiną į Vilnių pasiųsta 80 filipkų, kurias karaliaus paliepimu iždas priėmė po vieną floriną.
@@ -496,7 +647,6 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - susijęs iš [[objektai/zodynas/metropolija bažnytinė unija.md#claim-t-22231|metropolija bažnytinė unija (unija)]]: Po Brastos bažnytinės unijos Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, nuolat rezidavę Vilniuje.
 - susijęs iš [[objektai/zodynas/pavietas.md#claim-t-113662|pavietas]]: Tauragnų pilis buvo padovanota Vilniaus vyskupui kartu su visu pavietu.
 - susijęs iš [[objektai/zodynas/prekymečiai ir turgūs.md#claim-t-86610|prekymečiai ir turgūs]]: Kazimiero 1441 m. Brastoje išleista privilegija nustatė Vilniui du didžiuosius prekymečius ir savaitinius turgus.
-- susijęs iš [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas.md#claim-t-86492|raudonasis auksinas, taleris ir dukatas]]: Ponas Pekarskis perdavė 96 raudonuosius auksinus, imtus Brastoje po 56 lenkiškus grašius už vienetą.
 - susijęs iš [[objektai/zodynas/seimas.md#claim-t-187527|seimas]]: Bychovco kronikos pasakojime karalius Aleksandras Brastos seime nepagrįstai pyko ant didikų dėl Droždžai atiduotos Lydos.
 - susijęs iš [[objektai/zodynas/vietovardžių priešdėlis `pa.md#claim-t-86625|vietovardžių priešdėlis `pa]]: Lietuvoje prie upių esančių gyvenviečių vardai dažnai sudaromi prie upės pavadinimo pridedant priešdėlį pa-.
 ## Reikšmingi paminėjimai
@@ -528,6 +678,16 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 79741-80088; hash=0e4eb44bb3cc45c41b66ad5bd352b1f193a7ff22736e67e0c456a6aecf16a1cd; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drohičinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Drohičinas: mention_match, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Drohičinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-013
     - t-022
 
@@ -547,7 +707,27 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 689807-690475; hash=8067db089f246b467b965cbdcbc93fb11aa2b7cfcdc95d5bc2bd6396860b3948; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e69603eaa22b5a0b2e9e3abc3ef93f0db841ec8f1449e16e949ed3041a68e092; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mikalojus Radvila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Mikalojus Radvila: mention_match, person, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Mikalojus Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
     - t-005
 
@@ -565,6 +745,16 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1ce11cba5fc76d46d7066241fc8e432d7d6d7758e251450f2a05ae3ccbe90bff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Trakai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-012
 
 - c-005
@@ -587,6 +777,16 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f6a030b4255acd9786221755f4b1034c54a46f0e88113619e15f3544a8ad02fb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Varšuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Varšuva: mention_match, place, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Varšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-006
@@ -654,6 +854,16 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5c91cc7efb8e08fa2403ce0bc867f3cdba242669a4ad27373164cacf18fa57db; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Augustas: nearest_actor, person, gap=29
+  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Augustas" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
     - t-026
     - t-016
 
@@ -676,7 +886,27 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1ce11cba5fc76d46d7066241fc8e432d7d6d7758e251450f2a05ae3ccbe90bff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-020
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 79741-80088; hash=0e4eb44bb3cc45c41b66ad5bd352b1f193a7ff22736e67e0c456a6aecf16a1cd; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=75
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-010
@@ -699,7 +929,27 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a3eb334731d4193a752318b9e6ab2a159b9d600bd60dce81100a5e8dd2528dd1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-017
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a2b05c81000ebbbb9769499d32e5613678c07ab38299e30def47b1a0051e08c9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dubnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dubnas: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Dubnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-024
 
 - c-011
@@ -775,6 +1025,16 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c3a172bcad227a49a4c8d5b861099f67653a0c0c3dfd32f96ceba530564a62eb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Stanislovas Augustas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Stanislovas Augustas: mention_match, person, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Stanislovas Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-015
@@ -793,6 +1053,16 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=666dd309bb44c1e89855d9152f922109af7b13161d5e9e613e1f31ab3c0e80a5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-018
 
 - c-016
@@ -811,6 +1081,16 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=34f875e2a233731058e9b37b28a490e2bd5fab991e543b10f034bc6728cd3dca; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Suražas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Suražas: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Suražas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-010
 
 - c-017
@@ -835,6 +1115,16 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=de0a1f393d1284783e4ea50d42be9acdf785bf96064be925b3b3454c7e1791be; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-015
 
 - c-018
@@ -900,4 +1190,24 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 142067-142322; hash=db51e84591a09ed8f3dac509caefc4aaa04118a88ab4e9a6f545d22e1c605712; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Gardinas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): nearest_actor, person, gap=9
+  ryšio_targeto_parinkimas: Gardinas: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Gardinas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
     - t-029
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 689807-690475; hash=8067db089f246b467b965cbdcbc93fb11aa2b7cfcdc95d5bc2bd6396860b3948; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Sapiegos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Sapiegos: mention_match, group, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brasta" parinktas kaip owner_note_path. Targetas "Sapiegos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

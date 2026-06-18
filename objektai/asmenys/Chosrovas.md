@@ -37,6 +37,16 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
   temporalinis_llm_pakomentavimas: 'Perrašyta taip, kad teiginio centre būtų Chosrovas, o ne Heraklijus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=07f6c576a85895871a04e8c491abf3d6e0f9c8c9c36fe4d3c169494faf6db975; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Heraklijus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Chosrovas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Heraklijus: mention_match, person, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chosrovas" parinktas kaip owner_note_path. Targetas "Heraklijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Heraklijus.md#claim-t-184086|Heraklijus]]: Apie 600 m. imperatorius Heraklijus atstatė Dievo bažnyčias ir sutvarkė Chosrovo nuniokotą Šventąją žemę.
 - susijęs iš [[objektai/asmenys/Heraklijus.md#claim-t-60320|Heraklijus]]: Apie 600 m. imperatorius Heraklijus nugalėjo persų karalių Chosrovą ir parsigabeno Viešpaties kryžiaus dalį.
 ## Reikšmingi paminėjimai
@@ -57,4 +67,24 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=07f6c576a85895871a04e8c491abf3d6e0f9c8c9c36fe4d3c169494faf6db975; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Heraklijus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Chosrovas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Heraklijus: mention_match, person, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chosrovas" parinktas kaip owner_note_path. Targetas "Heraklijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=07f6c576a85895871a04e8c491abf3d6e0f9c8c9c36fe4d3c169494faf6db975; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Heraklijus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Chosrovas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Heraklijus: mention_match, person, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chosrovas" parinktas kaip owner_note_path. Targetas "Heraklijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

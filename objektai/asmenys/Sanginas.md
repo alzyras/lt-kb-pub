@@ -23,6 +23,9 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Sangino vadovautą grupę.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 762539-762773; hash=d6af51f4edca420bf2071546020c8805ef3be59d80292c813652e541c3fe2bee; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -38,3 +41,6 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 762539-762773; hash=d6af51f4edca420bf2071546020c8805ef3be59d80292c813652e541c3fe2bee; match=exact
+  sprendimo_priezastis: auto

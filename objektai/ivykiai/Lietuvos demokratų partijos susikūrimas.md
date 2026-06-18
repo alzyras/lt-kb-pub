@@ -48,7 +48,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo partijos susikūrimo laiką ir pagrindą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_group: [[objektai/grupes/Lietuvos demokratų partija|Lietuvos demokratų partija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_group: [[objektai/grupes/Lietuvos demokratų partija|Lietuvos demokratų partija]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]'
   temporaliniai_duomenys: 'įvykio data: 1902 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo partijos susikūrimo laiką ir pagrindą.'

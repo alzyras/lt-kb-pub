@@ -34,9 +34,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko aiškesnį faktą apie įvykius; pašalintas OCR triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Dauguva'
+  susije_objektai: 'mentioned_place: Dauguva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1325926-1326576; hash=9766273b6e2913e9f3f1bd674c9bb2f08b500236e6f7ea6100b5f691f4cabe10; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dauguva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Maskvėnų paliaubų pažeidimai prie Usviatų ir Stanislovo Paco atsakomasis žygis: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvėnų paliaubų pažeidimai prie Usviatų ir Stanislovo Paco atsakomasis žygis" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -60,3 +70,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1325926-1326576; hash=9766273b6e2913e9f3f1bd674c9bb2f08b500236e6f7ea6100b5f691f4cabe10; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dauguva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Maskvėnų paliaubų pažeidimai prie Usviatų ir Stanislovo Paco atsakomasis žygis: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvėnų paliaubų pažeidimai prie Usviatų ir Stanislovo Paco atsakomasis žygis" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

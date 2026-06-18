@@ -30,7 +30,7 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 - t-001
   global_id: t-176611
   teiginys: 'Sofijos, Maskvos kunigaikštienės, vardu buvo įteiktas protestas prieš Žemaitijos atidavimą Ordinui po jos tėvo mirties.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Maskva; mentioned_place: Tornas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Tornas'
   pagrindžia:
     - c-003
 
@@ -48,7 +48,7 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   global_id: t-176613
   teiginys: 'Žemaičių bajorai Sofijos ir Jogailos dukters Jadvygos vardu įteikė protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Sofijos vardu pateiktą protestą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-002
 
@@ -56,7 +56,7 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 - t-004
   global_id: t-176614
   teiginys: 'Jogaila, varžydamas Vytautą, be jo sutikimo uždraudė išleisti Sofiją už Maskvos kunigaikščio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-004
 
@@ -78,9 +78,19 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys labiau pabrėžia Vytauto veiksmą, todėl perrašyta aiškiau apie Sofiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Marienburgas; mentioned_place: Maskva; mentioned_place: Plockas'
+  susije_objektai: 'mentioned_place: Marienburgas; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Plockas'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a53dce12511fb1d56fda1df4f70f9301f213d94122b051c5b37f0f195f65e979; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/06_deduplication/01_deduplicate_entities.md
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sofija (Vytauto duktė): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sofija (Vytauto duktė)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Pskovas: Vytauto dukterį Sofiją lydėję asmenys iš Gdansko laivais per Pernu pasiekė Pskovą.
 ## Reikšmingi paminėjimai
 
@@ -196,3 +206,13 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
   statusas: verified
   pagrindžia:
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a53dce12511fb1d56fda1df4f70f9301f213d94122b051c5b37f0f195f65e979; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/06_deduplication/01_deduplicate_entities.md
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sofija (Vytauto duktė): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sofija (Vytauto duktė)" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

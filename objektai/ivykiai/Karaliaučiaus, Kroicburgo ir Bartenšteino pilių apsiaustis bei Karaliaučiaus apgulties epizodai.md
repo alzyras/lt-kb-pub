@@ -50,9 +50,19 @@ Nenurodyta
   global_id: t-59177
   teiginys: 'Nepajėgę jėga paimti Karaliaučiaus pilies, prūsai pasistatė daug laivų brolių maisto tiekimo laivams naikinti.'
   sudarymo_pagrindimas: 'Pradinė formuluotė per ilga ir prasideda nereikalinga atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Prūsai; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Viena'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cc4c0bbd15ecbb0bf3737df46c5e06678283321ebdef8841f7a15f75e91a9e27; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59178"></a>
 - t-002
@@ -62,6 +72,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 383292-383759; hash=19018caaabec8ef28bea3d64ba4d89f56b4cb3a63d48bbb1295aed683d7c5bfb; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59179"></a>
 - t-003
@@ -71,15 +91,35 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Prieglius; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 389856-390584; hash=894d47e22154db58298123a966a04a9d2c06ceee9a9b0c3758b1562f6a74a945; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Laivai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Laivai: mention_match, thing, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59180"></a>
 - t-004
   global_id: t-59180
   teiginys: 'Per sembų puolimą prie Karaliaučiaus vienas sembas žuvo nuo paimto arbaleto, todėl prūsai ėmė labai bijoti arbaletų.'
   sudarymo_pagrindimas: 'Citata remia užbaigtą epizodo sakinį be nutrūkusio fragmento.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Arbaletai|Arbaletai]]; mentioned_object: [[objektai/daiktai/Arbaletas|Arbaletas]]; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Arbaletai|Arbaletai]]; mentioned_object: [[objektai/daiktai/Arbaletas|Arbaletas]]; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Sembai|Sembai]]'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 390603-391849; hash=42af88603a528ada89f94475f13272f0f80cfc858b3706dd18c400f5359a5592; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kuorai: mention_match, thing, gap=101
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Kuorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59181"></a>
 - t-005
@@ -89,6 +129,16 @@ Nenurodyta
   susije_objektai: 'mentioned_place: Bartenšteinas; mentioned_place: Kroicburgas'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ce4da7287d0d984f6a8930e2deeaaeff5fb5da7b384975e5dd724bd66465c419; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-59182"></a>
 - t-006
@@ -101,6 +151,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuotas pilnas faktinis sakinys.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 393738-394232; hash=80d950e59302b226e7192bbef5ac7742228d4778b51e51cbfec6183110c5f7be; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Arbaletai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Arbaletai: mention_match, thing, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Arbaletai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59183"></a>
 - t-007
@@ -110,6 +170,16 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Bartenšteinas; mentioned_place: Kroicburgas; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 394249-395245; hash=1457e544827c8ec564313e9b4ec890be1678dafc1f76e6322d776b2f05194e13; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prieglius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Prieglius: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Prieglius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-183927"></a>
 - t-008
@@ -119,9 +189,18 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys neatitinka pateiktos citatos svarbiausio faktinio turinio.'
-  susije_objektai: 'location: Elbingas; mentioned_place: Bartenšteinas; mentioned_place: Elbingas; mentioned_place: Kroicburgas; mentioned_place: Prūsai'
+  susije_objektai: 'location: Elbingas; mentioned_place: Prūsai; mentioned_place: Bartenšteinas; mentioned_place: Elbingas; mentioned_place: Kroicburgas'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 382744-383192; hash=85fb29e619511dd80e9025e2aa233a7f8ee1d4012235c9459c0d980e102b4a84; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Elbingas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_targeto_parinkimas: Elbingas: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Elbingas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -165,6 +244,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 389856-390584; hash=894d47e22154db58298123a966a04a9d2c06ceee9a9b0c3758b1562f6a74a945; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Laivai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Laivai: mention_match, thing, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-003
@@ -181,6 +270,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 394249-395245; hash=1457e544827c8ec564313e9b4ec890be1678dafc1f76e6322d776b2f05194e13; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prieglius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Prieglius: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Prieglius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
 
 - c-004
@@ -205,6 +304,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ce4da7287d0d984f6a8930e2deeaaeff5fb5da7b384975e5dd724bd66465c419; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-006
 
 - c-005
@@ -227,6 +336,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 393738-394232; hash=80d950e59302b226e7192bbef5ac7742228d4778b51e51cbfec6183110c5f7be; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Arbaletai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Arbaletai: mention_match, thing, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Arbaletai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-006
@@ -243,6 +362,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 383292-383759; hash=19018caaabec8ef28bea3d64ba4d89f56b4cb3a63d48bbb1295aed683d7c5bfb; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-007
@@ -265,6 +394,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 390603-391849; hash=42af88603a528ada89f94475f13272f0f80cfc858b3706dd18c400f5359a5592; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kuorai: mention_match, thing, gap=101
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Kuorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-008
@@ -284,5 +423,34 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 382744-383192; hash=85fb29e619511dd80e9025e2aa233a7f8ee1d4012235c9459c0d980e102b4a84; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Elbingas: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_targeto_parinkimas: Elbingas: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Elbingas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 389856-390584; hash=894d47e22154db58298123a966a04a9d2c06ceee9a9b0c3758b1562f6a74a945; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Laivai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Laivai: mention_match, thing, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cc4c0bbd15ecbb0bf3737df46c5e06678283321ebdef8841f7a15f75e91a9e27; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

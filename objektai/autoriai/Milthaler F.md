@@ -23,6 +23,9 @@ Dusburgietis teigia, kad 136 Milthaler F.
   sudarymo_pagrindimas: 'Citata pateikia autoriaus pavardę, veikalo pavadinimą ir puslapius.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 83213-83263; hash=740f7eccc38243fc88371487198e4763c428b33fa4cc2589da30898076a16040; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -36,3 +39,6 @@ Dusburgietis teigia, kad 136 Milthaler F.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 83213-83263; hash=740f7eccc38243fc88371487198e4763c428b33fa4cc2589da30898076a16040; match=exact
+  sprendimo_priezastis: auto

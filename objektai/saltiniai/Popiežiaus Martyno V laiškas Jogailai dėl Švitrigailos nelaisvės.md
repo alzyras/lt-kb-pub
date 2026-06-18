@@ -28,12 +28,22 @@ amziai:
   global_id: t-88466
   teiginys: 'Popiežiaus Martyno V laiškas Vladislovui Jogailai dėl jo nelaisvės pas Švitrigailą buvo datuotas 1430 m. vasario 27 d.'
   sudarymo_pagrindimas: 'Citata palaiko laiško adresatą, temą ir datą, o pradiniame teiginyje yra OCR triukšmo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
   temporaliniai_duomenys: 'įvykio data: 1430 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko laiško adresatą, temą ir datą, o pradiniame teiginyje yra OCR triukšmo.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 427800-428255; hash=d475a7659869d2db08698a177ac2015ae9beea5f7eb8d326684853c373e70d56; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Popiežiaus Martyno V laiškas Jogailai dėl Švitrigailos nelaisvės: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Popiežiaus Martyno V laiškas Jogailai dėl Švitrigailos nelaisvės" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -59,3 +69,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 427800-428255; hash=d475a7659869d2db08698a177ac2015ae9beea5f7eb8d326684853c373e70d56; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Popiežiaus Martyno V laiškas Jogailai dėl Švitrigailos nelaisvės: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Popiežiaus Martyno V laiškas Jogailai dėl Švitrigailos nelaisvės" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

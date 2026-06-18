@@ -36,6 +36,16 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas turi puslapio triukšmo, o citata aiškiai sieja 1408 m. laisves su Boleslovo privilegija.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c3ee9ff09e80c60af8e5dd3cef97fbecfe43ace0d47a6716af317c420c7d82dc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žydai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Boleslovo Pamaldžiojo privilegija žydams: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Boleslovo Pamaldžiojo privilegija žydams" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -63,3 +73,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c3ee9ff09e80c60af8e5dd3cef97fbecfe43ace0d47a6716af317c420c7d82dc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žydai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Boleslovo Pamaldžiojo privilegija žydams: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Boleslovo Pamaldžiojo privilegija žydams" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

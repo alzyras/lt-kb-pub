@@ -26,6 +26,16 @@ Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis toki
   susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 468409-468747; hash=20cb9ef262b623a937d9f91feee3566671f31e342aa76bb68f67091e6c560016; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pagudėnai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liefardo malūnas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pagudėnai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liefardo malūnas" parinktas kaip owner_note_path. Targetas "Pagudėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -43,3 +53,13 @@ Dusburgietis teigia, kad persekiojami miestiečiai, nestengdami priešintis toki
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 468409-468747; hash=20cb9ef262b623a937d9f91feee3566671f31e342aa76bb68f67091e6c560016; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pagudėnai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liefardo malūnas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pagudėnai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liefardo malūnas" parinktas kaip owner_note_path. Targetas "Pagudėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

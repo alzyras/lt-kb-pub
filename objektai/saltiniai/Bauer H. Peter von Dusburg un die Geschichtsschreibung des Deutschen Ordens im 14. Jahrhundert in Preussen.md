@@ -33,6 +33,16 @@ Dusburgietis teigia, kad pAPILDYMAS Bauer H.
   temporalinis_llm_pakomentavimas: 'Bibliografinė citata pagrindžia autorių, pavadinimą, vietą ir metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 818475-818609; hash=1bb5b72079687448a652045ae9e3ed832d9cb76d5e95fe62ba0777a4322ad731; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Berlynas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bauer H. Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im 14. Jahrhundert in Preussen: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=130
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bauer H. Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im 14. Jahrhundert in Preussen" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +59,13 @@ Dusburgietis teigia, kad pAPILDYMAS Bauer H.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 818475-818609; hash=1bb5b72079687448a652045ae9e3ed832d9cb76d5e95fe62ba0777a4322ad731; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Berlynas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bauer H. Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im 14. Jahrhundert in Preussen: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=130
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bauer H. Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im 14. Jahrhundert in Preussen" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

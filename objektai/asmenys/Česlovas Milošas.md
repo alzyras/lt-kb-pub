@@ -24,6 +24,16 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=976b147c137cc2354d07713f89d424e51670317a4b73e15e377df36243975e99; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Česlovas Milošas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Česlovas Milošas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45927|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo žymus XIX a. lenkų poetas ir tapo istorinės Lietuvos dainiumi.
 - susijęs iš [[objektai/asmenys/Czesław Miłosz.md#claim-t-75794|Czesław Miłosz]]: Nobelio premijos laureatas Czesławas Miłoszas save laikė paskutiniu LDK piliečiu.
 - susijęs iš [[objektai/grupes/Jaunalietuviai.md#claim-t-19718|Jaunalietuviai]]: Jaunalietuviai XIX–XX a. sandūroje pradėjo oponuoti senalietuviams ir po poros dešimtmečių sukūrė Lietuvos Respubliką.
@@ -48,3 +58,13 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=976b147c137cc2354d07713f89d424e51670317a4b73e15e377df36243975e99; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Česlovas Milošas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Česlovas Milošas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

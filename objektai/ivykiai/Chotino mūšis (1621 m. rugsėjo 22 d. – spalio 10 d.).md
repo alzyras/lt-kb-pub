@@ -46,7 +46,7 @@ Nenurodyta
 - t-001
   global_id: t-41268
   teiginys: 'Po Chotino mūšio Turkija pasirašė paliaubas, o 1623 m. taika atstatė sieną palei Dniestrą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Chotinas; mentioned_place: Dniestras; mentioned_place: Turkija'
+  susije_objektai: 'mentioned_place: Chotinas; mentioned_place: Dniestras; mentioned_place: Turkija; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]'
   temporaliniai_duomenys: 'įvykio data: 1623 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -56,7 +56,7 @@ Nenurodyta
 - t-002
   global_id: t-41269
   teiginys: 'Chotino mūšis buvo gynybinio mūšio pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Chotinas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Chotinas; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -68,17 +68,27 @@ Nenurodyta
   susije_objektai: 'mentioned_place: Chotinas; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 479579-480011; hash=db5edda531dbbb7e5267000439a3885aef009302124724838194f9a927e61cd2; match=exact
+  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
+  ryšio_patikimumas: susije_su -> Chotinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Chotinas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)" parinktas kaip owner_note_path. Targetas "Chotinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79043|Jonas Karolis Katkevičius]]: Chotino mūšis tapo paskutine Jono Karolio Katkevičiaus pasiekta pergale.
-- susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79043|Jonas Karolis Katkevičius]]: Chotino mūšis tapo paskutine Jono Karolio Katkevičiaus pasiekta pergale.
-- susijęs iš [[objektai/autoriai/Jokūbo Beneto.md#claim-t-80748|Jokūbo Beneto]]: Jokūbo Beneto poema „Viešpaties dešinės galybė“ buvo išleista 1674 m.
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-- susijęs iš [[objektai/posakiai/vartais į Rusiją.md#claim-t-41477|vartais į Rusiją]]: 1514 m. Rusijos užgrobtas Smolenskas buvo laikomas „vartais į Rusiją“ ir tapo Lietuvos bei Rusijos karinės konfrontacijos objektu.
 - susijęs iš Viešpaties dešinės galybė (1674 m.): 1674 m. išleistoje Jokūbo Beneto poemoje „Viešpaties dešinės galybė“ buvo Chotino mūšio iliustracija.
 - susijęs iš Chotinas: 1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai.
 - susijęs iš Chotinas: Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale.
 - susijęs iš Chotinas: Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d.
 - susijęs iš Chotinas: Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d.
 - susijęs iš Chotinas: Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale.
+- susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79043|Jonas Karolis Katkevičius]]: Chotino mūšis tapo paskutine Jono Karolio Katkevičiaus pasiekta pergale.
+- susijęs iš [[objektai/autoriai/Jokūbo Beneto.md#claim-t-80748|Jokūbo Beneto]]: Jokūbo Beneto poema „Viešpaties dešinės galybė“ buvo išleista 1674 m.
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
+- susijęs iš [[objektai/posakiai/vartais į Rusiją.md#claim-t-41477|vartais į Rusiją]]: 1514 m. Rusijos užgrobtas Smolenskas buvo laikomas „vartais į Rusiją“ ir tapo Lietuvos bei Rusijos karinės konfrontacijos objektu.
 - susijęs iš Dniestras: Totoriai per Dniestrą drįsdavo keltis tik surinkę dideles pajėgas, nes bijojo kazokų.
 - susijęs iš Podolė: Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.
 - susijęs iš Podolė: Kazokai Podolei ir Rusiai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.
@@ -139,7 +149,27 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 479579-480011; hash=db5edda531dbbb7e5267000439a3885aef009302124724838194f9a927e61cd2; match=exact
+  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
+  ryšio_patikimumas: susije_su -> Chotinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Chotinas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)" parinktas kaip owner_note_path. Targetas "Chotinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 480415-480642; hash=230f49267c3d75898257070f3d98e61d53d3f518f6d5065c79fa84073b2d586d; match=exact
+  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
+  ryšio_patikimumas: susije_su -> Chotinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Chotinas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)" parinktas kaip owner_note_path. Targetas "Chotinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 ## Ryšiai

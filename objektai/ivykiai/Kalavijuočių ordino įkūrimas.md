@@ -42,6 +42,9 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 99447-99785; hash=28a829b9c659c234976353d98bb5dca99ac55574435ea555376e077399ff6ae0; match=exact
+  sprendimo_priezastis: auto
 <a id="claim-t-66585"></a>
 - t-002
   global_id: t-66585
@@ -50,6 +53,9 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 99787-100048; hash=cdab822a28ab19a581f2ea1fea8b2dfe8b6a64e7c285d27cb769e76a44b72b91; match=exact
+  sprendimo_priezastis: auto
 <a id="claim-t-66586"></a>
 - t-003
   global_id: t-66586
@@ -58,6 +64,9 @@ Nenurodyta
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f7fb28270b308cfc43b0b80d73462f9379751318028762d531bac8629cb16b69; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 <a id="claim-t-66587"></a>
 - t-004
   global_id: t-66587
@@ -66,6 +75,9 @@ Nenurodyta
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 100206-100514; hash=0775960d38c09e9fa802797fe828971230e405825c46421289aa20d76f3baa8b; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -100,6 +112,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 99447-99785; hash=28a829b9c659c234976353d98bb5dca99ac55574435ea555376e077399ff6ae0; match=exact
+  sprendimo_priezastis: auto
     - t-002
 - c-003
   santrauka: 'Kalavijuočių ordinas turėjo ginti krikščionis, padėti atversti pagonis ir veikti kaip kraštą valdžiusio vyskupo įrankis.'
@@ -115,6 +130,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 99787-100048; hash=cdab822a28ab19a581f2ea1fea8b2dfe8b6a64e7c285d27cb769e76a44b72b91; match=exact
+  sprendimo_priezastis: auto
     - t-003
 - c-004
   santrauka: 'Vos įsikūręs Kalavijuočių ordinas pradėjo vaduotis iš vyskupo priklausomybės ir gavo trečdalį užimto krašto.'
@@ -132,4 +150,10 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f7fb28270b308cfc43b0b80d73462f9379751318028762d531bac8629cb16b69; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 100206-100514; hash=0775960d38c09e9fa802797fe828971230e405825c46421289aa20d76f3baa8b; match=exact
+  sprendimo_priezastis: auto

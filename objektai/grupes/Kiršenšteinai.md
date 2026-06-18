@@ -30,10 +30,20 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
   global_id: t-86799
   teiginys: 'Kiršenšteinų giminė, vėliau gavusi pilietybę, keletą šimtmečių valdė Raudonės pilį.'
   sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Raudonė; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Strėlės|Strėlės]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Oliva; mentioned_place: Raudonė; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Raudonė; mentioned_place: Raudonė; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Strėlės|Strėlės]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Oliva; mentioned_place: Viena; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/grupes/Kiršenšteinai|Kiršenšteinai]] valdė teritoriją Raudonė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 228092-229548; hash=63933eec68aa6d4f267e517b699298c36c6f1f051f90aae44ad5165d47ae6fdc; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: valde_teritorija -> Raudonė: 1.00
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_control_local_territory
+  ryšio_subjekto_parinkimas: Kiršenšteinai: owner_note_path, group, gap=63
+  ryšio_targeto_parinkimas: Raudonė: nearest_after_predicate, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_control_local_territory". Subjektas "Kiršenšteinai" parinktas kaip owner_note_path. Targetas "Raudonė" parinktas kaip nearest_after_predicate aplink predikatą "valde_teritorija". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė): Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.
 - susijęs iš Bajerburgas Raudonė: Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.
 ## Reikšmingi paminėjimai
@@ -91,6 +101,16 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 228092-229548; hash=63933eec68aa6d4f267e517b699298c36c6f1f051f90aae44ad5165d47ae6fdc; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: valde_teritorija -> Raudonė: 1.00
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_control_local_territory
+  ryšio_subjekto_parinkimas: Kiršenšteinai: owner_note_path, group, gap=63
+  ryšio_targeto_parinkimas: Raudonė: nearest_after_predicate, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_control_local_territory". Subjektas "Kiršenšteinai" parinktas kaip owner_note_path. Targetas "Raudonė" parinktas kaip nearest_after_predicate aplink predikatą "valde_teritorija". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Kiršenšteinai valde_teritorija [[objektai/vietos/Raudonė]]

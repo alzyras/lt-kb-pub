@@ -27,14 +27,24 @@ Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Ilgas teisinis fragmentas sutrumpintas ir pataisytas į aiškų faktą apie Nemenčinę.'
-  susije_objektai: 'mentioned_place: Kernavė; mentioned_place: Paneriai; mentioned_place: Verkiai; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kernavė; mentioned_place: Vilija; mentioned_place: Paneriai; mentioned_place: Verkiai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 743946-745490; hash=281a9bcbd05b029e3fb2b4f7008258081fe8fb513678cc9585aace371c7d7629; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kernavė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nemenčinė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kernavė: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemenčinė" parinktas kaip owner_note_path. Targetas "Kernavė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/paprociai/Lietuvos krikšto apeigos.md#claim-t-93037|Lietuvos krikšto apeigos]]: Po Lietuvos krikšto bažnyčios pradėtos statyti Ukmergėje, Maišiagaloje, Medininkuose, Nemenčinėje ir kitose rytinės Lietuvos vietose.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176084|Vilniaus kapitula]]: Tarp Verkių ir Panerių, priklausiusių Vilniaus bažnyčios kapitulai, buvo uždrausta naudoti plaustus per Vilijos upę.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176095|Vilniaus kapitula]]: Tarp Verkių ir Panerių, priklausiusių Vilniaus bažnyčios kapitulai, buvo uždrausti perkėlimai plaustais per Viliją.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86880|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: 1536 m. privilegija uždraudė statyti kitą tiltą per Viliją tarp Bistryčios ir Kernavės, kad nebūtų mažinamos Vilniaus tilto muito pajamos.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86882|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: 1536 m. privilegija uždraudė naudoti plaustus per Viliją tarp Verkių ir Panerių, kad nebūtų pakenkta nustatytam tilto muitui.
-- susijęs iš [[objektai/paprociai/Lietuvos krikšto apeigos.md#claim-t-93037|Lietuvos krikšto apeigos]]: Po Lietuvos krikšto bažnyčios pradėtos statyti Ukmergėje, Maišiagaloje, Medininkuose, Nemenčinėje ir kitose rytinės Lietuvos vietose.
 - susijęs iš Kernavė: Draudimas statyti per upę mažus tiltelius galiojo nuo Nemenčinės dvaro iki Kernavės miestelio.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Perkėlimai plaustais per Viliją buvo uždrausti tarp Verkių kaimo ir Vilniaus kapitulai priklausiusio Panerių kaimo.
 - susijęs iš Paneriai: Perkėlimai plaustais per Vilijos upę buvo uždrausti tarp Verkių kaimo ir Panerių kaimo.
@@ -83,3 +93,13 @@ Nederėtų, be to, atsižvelgiant į šį mūsų draudimą ir užgynimą, niekam
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 743946-745490; hash=281a9bcbd05b029e3fb2b4f7008258081fe8fb513678cc9585aace371c7d7629; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kernavė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nemenčinė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kernavė: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nemenčinė" parinktas kaip owner_note_path. Targetas "Kernavė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

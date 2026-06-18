@@ -36,7 +36,7 @@ viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasirašius Ši
   global_id: t-41571
   teiginys: '1721 m. pasirašius Šiaurės karą užbaigusią Ništato sutartį, Rusija buvo iškilmingai paskelbta imperija.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Viena; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1721 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
@@ -48,12 +48,22 @@ viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasirašius Ši
   global_id: t-41572
   teiginys: 'Po 1721 m. Ništato sutarties Rusija buvo paskelbta imperija, o Prūsijos ir Brandenburgo unija pakėlė valstybės statusą iki karalystės.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie sutarties padarinius ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Viena; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: po 1721 m.; įvykio data: 1721 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie sutarties padarinius ir remiasi citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=144b20df0acacfc624d63e00ecdd6a58c5a4e70d883afa3de169dfdf2d53adae; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
+  ryšio_patikimumas: susije_su -> Rusija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ništato sutartis (1721 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ništato sutartis (1721 m.)" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -79,4 +89,14 @@ viena iš Europos stipriausių valstybių tapusi Rusija (1721 m. pasirašius Ši
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=144b20df0acacfc624d63e00ecdd6a58c5a4e70d883afa3de169dfdf2d53adae; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
+  ryšio_patikimumas: susije_su -> Rusija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ništato sutartis (1721 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ništato sutartis (1721 m.)" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001

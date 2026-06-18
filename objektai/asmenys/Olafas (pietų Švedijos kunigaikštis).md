@@ -39,6 +39,17 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų teiginį apie Olafo krikštą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 40947-41435; hash=adb33939b156052cb069ae3fc0f122d2100fd6021e4b9cea224adc9cefda1f3e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Švedija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Olafas (pietų Švedijos kunigaikštis): owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Švedija: exact_title_context, place, gap=9
+  ryšio_slopinti_kandidatai: Islandija: candidate; Kijevas: candidate; Kijevo Rusia: candidate; Lenkija: candidate; Lietuva: candidate; Prūsija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Olafas (pietų Švedijos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Švedija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Islandija.md", "selected": false, "strategy": "candidate", "title": "Islandija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Kijevas.md", "selected": false, "strategy": "candidate", "title": "Kijevas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Kijevo Rusia.md", "selected": false, "strategy": "candidate", "title": "Kijevo Rusia", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -57,6 +68,17 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 40947-41435; hash=adb33939b156052cb069ae3fc0f122d2100fd6021e4b9cea224adc9cefda1f3e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Švedija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Olafas (pietų Švedijos kunigaikštis): owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Švedija: exact_title_context, place, gap=9
+  ryšio_slopinti_kandidatai: Islandija: candidate; Kijevas: candidate; Kijevo Rusia: candidate; Lenkija: candidate; Lietuva: candidate; Prūsija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Olafas (pietų Švedijos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Švedija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Islandija.md", "selected": false, "strategy": "candidate", "title": "Islandija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Kijevas.md", "selected": false, "strategy": "candidate", "title": "Kijevas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Kijevo Rusia.md", "selected": false, "strategy": "candidate", "title": "Kijevo Rusia", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 ## Ryšiai
 - Olafas (pietų Švedijos kunigaikštis) buvo_valdovas [[objektai/vietos/Švedija]]

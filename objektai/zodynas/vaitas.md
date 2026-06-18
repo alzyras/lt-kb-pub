@@ -24,9 +24,19 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
   global_id: t-86556
   teiginys: 'Vaitas, tarybos nariai ir Vilniaus miestiečiai skundė Bogdaną Kievlą, kad jis perkėloje ties Vilniumi ėmė po grašį nuo krovinio.'
   sudarymo_pagrindimas: 'Teiginys išsamiai perteikia citatoje nurodytą skundą dėl mokesčio perkėloje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 442759-443442; hash=1fba7ac0d9ad33381f8c0112ed008929eb90c11028019eee75abc61581c72593; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: vaitas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "vaitas" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-86557"></a>
 - t-002
@@ -36,26 +46,42 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d13046214a01b3f2d8c7917da03e9e44e1bd06224baf1fbc72cc491ffde0e2fd; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilniaus miestiečių luomas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: vaitas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vilniaus miestiečių luomas: mention_match, group, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "vaitas" parinktas kaip owner_note_path. Targetas "Vilniaus miestiečių luomas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Eustachijus Sidorovičius.md#claim-t-87664|Eustachijus Sidorovičius]]: Eustachijus Sidorovičius buvo vienas iš graikų tikėjimo Vilniaus pirklių įgaliotinių byloje prieš vaitą Stanislovą Sabiną.
-- susijęs iš [[objektai/asmenys/Feliksas Liangurga.md#claim-t-87499|Feliksas Liangurga]]: 1527-1552 m. Vilniaus vaitas buvo Krokuvos miestietis Feliksas Liangurga.
 - susijęs iš [[objektai/asmenys/Feliksas Liangurga.md#claim-t-87500|Feliksas Liangurga]]: 1548 m. Feliksas Liangurga buvo iš Krokuvos kilęs Vilniaus vaitas ir uolus katalikas.
-- susijęs iš [[objektai/asmenys/Grigalius Čiškovičius.md#claim-t-87682|Grigalius Čiškovičius]]: Grigalius Čiškovičius buvo vienas iš įgaliotinių, per kuriuos Vilniaus graikų tikėjimo pirkliai išdėstė skundą.
 - susijęs iš [[objektai/asmenys/Jachna Laurinavičius.md#claim-t-87599|Jachna Laurinavičius]]: Jachna Laurinavičius jau 1435 metais buvo Vilniaus vaitas ir 1492 metais dar ėjo šias pareigas.
-- susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87354|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Jokūbas Vargalovskis Stefanovičius dar buvo Vilniaus vaitas 1713 ir 1721 m.
-- susijęs iš [[objektai/asmenys/Martynas Paleckis.md#claim-t-87407|Martynas Paleckis]]: Karalius Steponas patvirtino Martyno Paleckio, jo žmonos ir miesto sutartį dėl stiklo liejyklos ir stiklo supirkimo.
 - susijęs iš [[objektai/asmenys/Mykolas Küchmeisteris.md#claim-t-176559|Mykolas Küchmeisteris]]: Mykolas Küchmeisteris buvo ordino vietininkas vaitas, įsikūręs 1400 m. arti Dubysos pastatytoje Friedeburgo pilyje.
 - susijęs iš [[objektai/asmenys/Mykolas Küchmeisteris.md#claim-t-184376|Mykolas Küchmeisteris]]: Mykolas Küchmeisteris įsikūrė Friedeburgo pilyje prie Dubysos kaip Ordino vietininkas vaitas.
 - susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173214|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Povilas ginčijosi su Vilniaus vaitu, tarėjais ir miestiečių bendrija dėl turguje bei miesto aikštėje buvusių mėsinių.
 - susijęs iš [[objektai/asmenys/Povilas Mieleckis.md#claim-t-87600|Povilas Mieleckis]]: Povilo Mieleckio valdymas Vilniaus vaitu 1561 m. šaltinyje laikomas labai abejotinu.
+- susijęs iš [[objektai/asmenys/Rotundas (Augustinas Milesijus Mieleskis).md#claim-t-87456|Rotundas (Augustinas Milesijus Mieleskis)]]: Rotundas Augustinas Milesijus Mieleskis buvo Vilniaus vaitas ir 1569 m. išrinktas į komisiją Lietuvos įstatymams pataisyti.
+- susijęs iš [[objektai/grupes/Graikų apeigų išpažinėjai Vilniuje.md#claim-t-86743|Graikų apeigų išpažinėjai Vilniuje]]: 1586 m. graikų tikėjimo Vilniaus pirkliai apskundė karaliui Vilniaus vaitą Stanislovą Sabiną.
+- susijęs iš Žygimanto privilegija mėsinėms Vilniaus mieste (1543 m.): 1543 m. privilegijoje minimas ginčas tarp Vilniaus vyskupo Povilo ir Vilniaus vaito, tarėjų bei miestiečių dėl mėsinių turguje.
+- susijęs iš Vilniaus turgus ir aikštė (sujungti pirminiai pavadinimai Vilniaus turgus; Vilniaus turgus ir aikštė): Dėl mėsinių Vilniaus turguje ir aikštėje kilo ginčas tarp Vilniaus vyskupo Povilo ir miesto vaito, tarėjų bei miestiečių.
+- susijęs iš Vilniaus turgus ir aikštė: Dėl mėsinių Vilniaus turguje ir aikštėje kilo ginčas tarp Vilniaus vyskupo Povilo ir miesto vaito, tarėjų bei miestiečių.
+- susijęs iš Vilnius: Vilniaus burmistrai, tarybos nariai ir miestiečiai skundėsi, kad vaitas nesilaiko Magdeburgo teisės ir pažeidžia jų privilegijas.
+- susijęs iš [[objektai/zodynas/vaitas Vilniaus vaitystė.md#claim-t-86558|vaitas Vilniaus vaitystė]]: Vilniaus vaitas turėjo teisę sutramdyti pirklius, kurie per Velykas pagal naująjį kalendorių pardavinėjo prekes.
+- susijęs iš [[objektai/zodynas/vaitas ir tarėjai.md#claim-t-86560|vaitas ir tarėjai]]: Vilniaus vaitas ir tarėjai tvirtino, kad katedros kapitula nepagrįstai plečia jurisdikciją miesto gyventojams.
+- susijęs iš [[objektai/asmenys/Feliksas Liangurga.md#claim-t-87499|Feliksas Liangurga]]: 1527-1552 m. Vilniaus vaitas buvo Krokuvos miestietis Feliksas Liangurga.
+- susijęs iš [[objektai/asmenys/Grigalius Čiškovičius.md#claim-t-87682|Grigalius Čiškovičius]]: Grigalius Čiškovičius buvo vienas iš įgaliotinių, per kuriuos Vilniaus graikų tikėjimo pirkliai išdėstė skundą.
+- susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87354|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Jokūbas Vargalovskis Stefanovičius dar buvo Vilniaus vaitas 1713 ir 1721 m.
+- susijęs iš [[objektai/asmenys/Martynas Paleckis.md#claim-t-87407|Martynas Paleckis]]: Karalius Steponas patvirtino Martyno Paleckio, jo žmonos ir miesto sutartį dėl stiklo liejyklos ir stiklo supirkimo.
 - susijęs iš [[objektai/asmenys/Raina Sluščianka.md#claim-t-87842|Raina Sluščianka]]: Raina Sluščianka buvo Martyno Paleckio žmona ir sutarties su miestu dėl stiklo liejyklos bei stiklo supirkimo dalyvė.
 - susijęs iš [[objektai/asmenys/Rotundas (Augustinas Mieleckis).md#claim-t-87476|Rotundas (Augustinas Mieleckis)]]: 1560 m. vasario 12 d. Vilniaus vaitas Rotundas (Augustinas Mieleckis) Mikalojui Radvilai įteikė savo Lietuvos istoriją.
-- susijęs iš [[objektai/asmenys/Rotundas (Augustinas Milesijus Mieleskis).md#claim-t-87456|Rotundas (Augustinas Milesijus Mieleskis)]]: Rotundas Augustinas Milesijus Mieleskis buvo Vilniaus vaitas ir 1569 m. išrinktas į komisiją Lietuvos įstatymams pataisyti.
 - susijęs iš [[objektai/asmenys/Stanislovas Sabina.md#claim-t-87459|Stanislovas Sabina]]: 1586 m. graikų tikėjimo Vilniaus pirkliai apskundė Vilniaus vaitą Stanislovą Sabiną karaliui dėl privilegijų pažeidimo.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113984|Steponas Batoras]]: Stepono Batoro laikais Vilniuje gerokai išaugo spaustuvių skaičius.
 - susijęs iš [[objektai/autoriai/Augustinas Mieleckis Rotundas.md#claim-t-87998|Augustinas Mieleckis Rotundas]]: 1560 m. vasario 12 d. Vilniaus vaitas Augustinas Mieleckis Rotundas Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs.
 - susijęs iš [[objektai/autoriai/Augustinas Mieleckis Rotundas.md#claim-t-88001|Augustinas Mieleckis Rotundas]]: 1560 m. vasario 12 d. Vilniaus vaitas Augustinas Mieleckis Rotundas Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs.
 - susijęs iš [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu.md#claim-t-87061|Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]: 1548 metais Vilniaus miesto herbas buvo šv. Kristoforo atvaizdas raudoname fone.
-- susijęs iš [[objektai/grupes/Graikų apeigų išpažinėjai Vilniuje.md#claim-t-86743|Graikų apeigų išpažinėjai Vilniuje]]: 1586 m. graikų tikėjimo Vilniaus pirkliai apskundė karaliui Vilniaus vaitą Stanislovą Sabiną.
 - susijęs iš [[objektai/grupes/Vilniaus pirkliai.md#claim-t-172854|Vilniaus pirkliai]]: Pirkliai per Velykas pagal pataisytą kalendorių pardavinėjo prekes, nepaisydami katalikiškų švenčių.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.).md#claim-t-86887|Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]: 1533 m. Žygimantą Senąjį pasiekė Vilniaus miesto tarybos ir Vilniaus katedros kapitulos ginčas dėl kapitulos jurisdikcijos miesto gyventojams.
 - susijęs iš [[objektai/paprociai/Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje.md#claim-t-87271|Kalendorinių švenčių laikymasis ir prekybos draudimas Vilniuje]]: 1583 m. lapkričio 26 d. Steponas Batoras uždraudė Vilniuje per naujojo kalendoriaus šventes atidaryti krautuves ir pardavinėti prekes.
@@ -65,23 +91,17 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 - susijęs iš Decretum relationum Stephani Regis Poloniae inter nonnullos mercatores vilnenses et advocatum Vilnensem: 1586 m. liepos 11 d. Stepono Batoro sprendimu Vilniaus gyventojams įsakyta švęsti įprastas šventes pagal naują kalendorių.
 - susijęs iš Lepumos vaito laiškas apie Švitrigailos pašalinimą ir Žygimanto paskelbimą: Slaptajame Karaliaučiaus archyve buvo keli laiškų originalai, aprašantys Švitrigailos pabėgimą.
 - susijęs iš Stepono Batoro patvirtinta sutartis tarp Martyno Paleckio ir Vilniaus miesto dėl stiklo liejyklos: Miesto aktuose buvo karaliaus Stepono patvirtinta Martyno Paleckio, jo žmonos ir Vilniaus miesto sutartis dėl stiklo liejyklos.
-- susijęs iš Žygimanto privilegija mėsinėms Vilniaus mieste (1543 m.): 1543 m. privilegijoje minimas ginčas tarp Vilniaus vyskupo Povilo ir Vilniaus vaito, tarėjų bei miestiečių dėl mėsinių turguje.
 - susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus miesto taryba ginčijo Vilniaus katedros kapitulos jurisdikciją miesto gyventojų atžvilgiu.
 - susijęs iš Vilniaus katedros bažnyčia: Vilniaus miesto taryba ginčijo Vilniaus katedros bažnyčios kapitulos jurisdikciją miesto gyventojų atžvilgiu.
-- susijęs iš Vilniaus turgus ir aikštė (sujungti pirminiai pavadinimai Vilniaus turgus; Vilniaus turgus ir aikštė): Dėl mėsinių Vilniaus turguje ir aikštėje kilo ginčas tarp Vilniaus vyskupo Povilo ir miesto vaito, tarėjų bei miestiečių.
-- susijęs iš Vilniaus turgus ir aikštė: Dėl mėsinių Vilniaus turguje ir aikštėje kilo ginčas tarp Vilniaus vyskupo Povilo ir miesto vaito, tarėjų bei miestiečių.
 - susijęs iš Vilnius: Rengiantis 1579 m. žygiui Vilniuje buvo įsteigta patrankų liejykla.
 - susijęs iš Vilnius: Vilniaus vyskupas Povilas ir Vilniaus miesto piliečių bendrija ginčijosi dėl mėsinių turguje ir miesto aikštėje.
 - susijęs iš Vilnius: Vilniaus miesto taryba ir Vilniaus katedros kapitula ginčijosi dėl kapitulos jurisdikcijos miesto gyventojams.
-- susijęs iš Vilnius: Vilniaus burmistrai, tarybos nariai ir miestiečiai skundėsi, kad vaitas nesilaiko Magdeburgo teisės ir pažeidžia jų privilegijas.
 - susijęs iš Vilnius: Stepono Batoro laikais Vilniuje gerokai išaugo spaustuvių skaičius.
 - susijęs iš Vilnius: Rengiant 1579 m. karo žygį Vilniuje buvo įsteigta patrankų liejykla.
 - susijęs iš [[objektai/zodynas/ekskomunikacija ekskomunika.md#claim-t-86467|ekskomunikacija ekskomunika]]: Vilniaus miestiečiai anksčiau būdavo ekskomunikuojami Vilniaus vyskupo, vikaro arba oficijolo.
 - susijęs iš [[objektai/zodynas/miesto sargybos viršininkas.md#claim-t-86597|miesto sargybos viršininkas]]: 1586 m. Vilniaus miesto sargybos viršininkas Jurgis Vižikovskis su padėjėjais buvo išsiųstas į mėsines per ginčą su pirkliais.
 - susijęs iš [[objektai/zodynas/monopolis privati prekyba.md#claim-t-86487|monopolis privati prekyba]]: Vilniaus vaitas ir burmistrai siekė atšaukti Paleckio monopolio privilegiją, nes ji darė vis didesnę žalą miestui.
 - susijęs iš [[objektai/zodynas/oficijolas.md#claim-t-86600|oficijolas]]: Vilniaus miesto gyventojus anksčiau paprastai iškviesdavo, teisdavo ir ekskomunikuodavo Vilniaus vyskupas, vikaras arba oficijolas.
-- susijęs iš [[objektai/zodynas/vaitas Vilniaus vaitystė.md#claim-t-86558|vaitas Vilniaus vaitystė]]: Vilniaus vaitas turėjo teisę sutramdyti pirklius, kurie per Velykas pagal naująjį kalendorių pardavinėjo prekes.
-- susijęs iš [[objektai/zodynas/vaitas ir tarėjai.md#claim-t-86560|vaitas ir tarėjai]]: Vilniaus vaitas ir tarėjai tvirtino, kad katedros kapitula nepagrįstai plečia jurisdikciją miesto gyventojams.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -137,4 +157,24 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d13046214a01b3f2d8c7917da03e9e44e1bd06224baf1fbc72cc491ffde0e2fd; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilniaus miestiečių luomas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: vaitas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vilniaus miestiečių luomas: mention_match, group, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "vaitas" parinktas kaip owner_note_path. Targetas "Vilniaus miestiečių luomas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 442759-443442; hash=1fba7ac0d9ad33381f8c0112ed008929eb90c11028019eee75abc61581c72593; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: vaitas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "vaitas" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

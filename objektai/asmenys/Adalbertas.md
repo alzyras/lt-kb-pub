@@ -24,12 +24,22 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
   global_id: t-18754
   teiginys: 'Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.'
   sudarymo_pagrindimas: 'Citata aiškiai nurodo misijos baigtį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 997 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai nurodo misijos baigtį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 40947-41435; hash=adb33939b156052cb069ae3fc0f122d2100fd6021e4b9cea224adc9cefda1f3e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Adalbertas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adalbertas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Mieška.md#claim-t-78066|Mieška]]: Lenkijos valdovas Mieška krikštijosi 966 m.
 - susijęs iš [[objektai/asmenys/Netimeras.md#claim-t-19172|Netimeras]]: Lietuvos „karaliaus“ Netimero krikštas datuojamas 1009 m.
 - susijęs iš [[objektai/asmenys/Olafas (Norvegijos valdovas).md#claim-t-19180|Olafas (Norvegijos valdovas)]]: Norvegijos valdovas Olafas 997 m. pradėjo šalies christianizaciją.
@@ -56,3 +66,13 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 40947-41435; hash=adb33939b156052cb069ae3fc0f122d2100fd6021e4b9cea224adc9cefda1f3e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Adalbertas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adalbertas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

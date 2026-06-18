@@ -30,10 +30,19 @@ Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje. Lenkijos kar
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys apie Jurgį Narimantaitį.'
-  susije_objektai: 'territory: Kremenecas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Kremenecas'
-  semantiniai_rysiai: '[[objektai/asmenys/Jurgis Narimantaitis|Jurgis Narimantaitis]] valdė teritoriją Kremenecas'
+  susije_objektai: 'territory: Kremenecas; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kremenecas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 400027-400406; hash=4b931c6acabe1f16df0c61116904c43a266c5e3c0674d8109f87489178c62548; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: valde_teritorija -> Kremenecas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_control_local_territory
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): nearest_actor, person, gap=18
+  ryšio_targeto_parinkimas: Kremenecas: nearest_after_predicate, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_control_local_territory". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip nearest_actor. Targetas "Kremenecas" parinktas kaip nearest_after_predicate aplink predikatą "valde_teritorija". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 <a id="claim-t-186119"></a>
 - t-002
@@ -49,6 +58,16 @@ Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje. Lenkijos kar
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Kazimiero sprendimą dėl Jurgio Narimantaičio ir remiasi citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 433378-434140; hash=ef8e1b29cf88b34244905de805b1da79f65acef52c3e76041ab75c99169e100b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jurgis Narimantaitis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurgis Narimantaitis" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -97,7 +116,24 @@ Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje. Lenkijos kar
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 400027-400406; hash=4b931c6acabe1f16df0c61116904c43a266c5e3c0674d8109f87489178c62548; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: valde_teritorija -> Kremenecas: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_control_local_territory
+  ryšio_subjekto_parinkimas: Algirdas (Lietuvos valdovas): nearest_actor, person, gap=18
+  ryšio_targeto_parinkimas: Kremenecas: nearest_after_predicate, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_control_local_territory". Subjektas "Algirdas (Lietuvos valdovas)" parinktas kaip nearest_actor. Targetas "Kremenecas" parinktas kaip nearest_after_predicate aplink predikatą "valde_teritorija". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
     - t-002
-
-## Ryšiai
-- Jurgis Narimantaitis valde_teritorija [[objektai/vietos/Kremenecas]]
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 433378-434140; hash=ef8e1b29cf88b34244905de805b1da79f65acef52c3e76041ab75c99169e100b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jurgis Narimantaitis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurgis Narimantaitis" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

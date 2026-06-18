@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-71752
   teiginys: '1219 m. sutarties proga Ipatijaus metraštyje buvo paminėtas 21 Lietuvos kunigų vardas.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų laiką ir silpnai siejasi su įvykio objektu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Volinija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_place: Volinija'
   temporaliniai_duomenys: 'įvykio data: 1219 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi neaiškų laiką ir silpnai siejasi su įvykio objektu.'
@@ -57,7 +57,7 @@ Nenurodyta
   global_id: t-71753
   teiginys: '1219 m. sutarties sąraše šalia vyresniųjų Lietuvos kunigų buvo išvardyti keturi vėliau nebesutinkami Deltuvos kunigai.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir per arti pažodinio šaltinio fragmento.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_place: Deltuva; mentioned_place: Lietuva; mentioned_place: Volinija'
+  susije_objektai: 'mentioned_place: Deltuva; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_place: Volinija'
   temporaliniai_duomenys: 'įvykio data: 1219 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir per arti pažodinio šaltinio fragmento.'
@@ -75,18 +75,38 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=922b1f51172796f863c3ca2d93c212c4af2656649b157f039be2fa39d379cbf0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-71755"></a>
 - t-004
   global_id: t-71755
   teiginys: '1219 m. sutarties dalyvių sąraše tarp vyresniųjų Lietuvos kunigų minėti Živinbudas, Daujotas, Dausprungas ir Mindaugas.'
   sudarymo_pagrindimas: 'Teiginys turi faktinį predikatą ir atitinka citatoje minimus sutarties dalyvius.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_place: Deltuva; mentioned_place: Lietuva; mentioned_place: Volinija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_place: Deltuva; mentioned_place: Volinija'
   temporaliniai_duomenys: 'įvykio data: 1219 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys turi faktinį predikatą ir atitinka citatoje minimus sutarties dalyvius.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e51df50f957f6cb60451bd8a0cd4a378238f5103c87cdfacfbc2f28f6de44718; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -124,6 +144,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=922b1f51172796f863c3ca2d93c212c4af2656649b157f039be2fa39d379cbf0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-003
@@ -142,4 +172,14 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e51df50f957f6cb60451bd8a0cd4a378238f5103c87cdfacfbc2f28f6de44718; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos kunigų sutartis su Volinijos kunigaikščio Romano našle (1219 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002

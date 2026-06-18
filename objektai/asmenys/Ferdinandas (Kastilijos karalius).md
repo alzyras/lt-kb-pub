@@ -32,6 +32,16 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3797f1f78e65a9b836f9d5855f8004e6023977d2ef9542ebce5aea22bfc45653; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Saracėnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ferdinandas (Kastilijos karalius): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Saracėnai: mention_match, group, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ferdinandas (Kastilijos karalius)" parinktas kaip owner_note_path. Targetas "Saracėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60114"></a>
 - t-002
@@ -44,6 +54,9 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=58e906efa97e0004f9347d0ee7bb4c4844f97afa45baeb2ea5f29b0be31dc21a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -74,4 +87,17 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3797f1f78e65a9b836f9d5855f8004e6023977d2ef9542ebce5aea22bfc45653; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Saracėnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ferdinandas (Kastilijos karalius): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Saracėnai: mention_match, group, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ferdinandas (Kastilijos karalius)" parinktas kaip owner_note_path. Targetas "Saracėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=58e906efa97e0004f9347d0ee7bb4c4844f97afa45baeb2ea5f29b0be31dc21a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

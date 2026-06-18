@@ -32,6 +32,16 @@ Režimo ramstis buvo policija ir gerai veikiantis Valstybės saugumo departament
   susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Juozas Tūbelis|Juozas Tūbelis]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 331054-331582; hash=cec19873dfa4785fda73dfbbbab1198a1d2644742824f0d8945d9bf436895d3c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valstybės saugumo departamentas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valstybės saugumo departamentas" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -56,4 +66,24 @@ Režimo ramstis buvo policija ir gerai veikiantis Valstybės saugumo departament
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 331054-331582; hash=cec19873dfa4785fda73dfbbbab1198a1d2644742824f0d8945d9bf436895d3c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valstybės saugumo departamentas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valstybės saugumo departamentas" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 331054-331582; hash=cec19873dfa4785fda73dfbbbab1198a1d2644742824f0d8945d9bf436895d3c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valstybės saugumo departamentas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valstybės saugumo departamentas" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

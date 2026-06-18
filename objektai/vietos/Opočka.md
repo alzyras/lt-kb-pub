@@ -34,6 +34,16 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Perrašyta į aiškų faktinį sakinį apie Opočką.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d00f1a291ccc83c12ca4ccc6536dbad212cdd5dbb98c744a16bf3920a015321f; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Pskovas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Opočka: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Opočka" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-187280"></a>
 - t-002
@@ -44,6 +54,16 @@ amziai:
   susije_objektai: 'mentioned_place: Krasnogorodskoje; mentioned_place: Krasnyj Gorod'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d00f1a291ccc83c12ca4ccc6536dbad212cdd5dbb98c744a16bf3920a015321f; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Pskovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Opočka: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Opočka" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187281"></a>
 - t-003
@@ -57,6 +77,16 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Įtrauktas citatoje nurodytas rezultatas ir miesto priklausymas Pskovo miestams.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0c05789dade620edfe6ca507976e83a3724d8c83a0f02854cd0d99208609bff8; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Krasnogorodskoje: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Opočka: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krasnogorodskoje: mention_match, place, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Opočka" parinktas kaip owner_note_path. Targetas "Krasnogorodskoje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-187282"></a>
 - t-004
@@ -67,9 +97,19 @@ amziai:
   susije_objektai: 'mentioned_place: Krasnogorodskoje; mentioned_place: Krasnyj Gorod'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0c05789dade620edfe6ca507976e83a3724d8c83a0f02854cd0d99208609bff8; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Krasnogorodskoje: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Opočka: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krasnogorodskoje: mention_match, place, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Opočka" parinktas kaip owner_note_path. Targetas "Krasnogorodskoje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Krasnogorodskoje: Krasnogorodskoje lokalizuojamas 30 km į šiaurės vakarus nuo Opočkos.
-- susijęs iš Krasnogorodskoje: Krasnyj gorod komentare tapatinamas su Krasnogorodskoje.
 - susijęs iš Krasnyj Gorod: Krasnyj Gorod tapatinamas su Krasnogorodskoje, esančiu 30 km į šiaurės vakarus nuo Opočkos.
+- susijęs iš Krasnogorodskoje: Krasnyj gorod komentare tapatinamas su Krasnogorodskoje.
 - susijęs iš Krasnyj Gorod: Komentare Krasnyj gorod tapatinamas su Krasnogorodskoje.
 - susijęs iš Voronačas: 1426 m. rugpjūtį Vytautas puolė Pskovo miestus Opočką ir Voronačą, bet jų paimti negalėjo.
 ## Reikšmingi paminėjimai
@@ -85,6 +125,16 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0c05789dade620edfe6ca507976e83a3724d8c83a0f02854cd0d99208609bff8; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Krasnogorodskoje: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Opočka: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krasnogorodskoje: mention_match, place, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Opočka" parinktas kaip owner_note_path. Targetas "Krasnogorodskoje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-002
@@ -96,5 +146,35 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d00f1a291ccc83c12ca4ccc6536dbad212cdd5dbb98c744a16bf3920a015321f; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Pskovas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Opočka: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Opočka" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0c05789dade620edfe6ca507976e83a3724d8c83a0f02854cd0d99208609bff8; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Krasnogorodskoje: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Opočka: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krasnogorodskoje: mention_match, place, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Opočka" parinktas kaip owner_note_path. Targetas "Krasnogorodskoje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d00f1a291ccc83c12ca4ccc6536dbad212cdd5dbb98c744a16bf3920a015321f; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Pskovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Opočka: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Opočka" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

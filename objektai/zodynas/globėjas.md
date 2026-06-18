@@ -25,6 +25,16 @@ Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarka
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1117110-1117743; hash=ba1594da43cdf8a927e9ba86ba52c86ef4cf5417fc0eda7227202a3217be86e9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: globėjas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "globėjas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Fabijonas (Varmės vyskupas).md#claim-t-87667|Fabijonas (Varmės vyskupas)]]: Fabijonas buvo paskirtas Varmės vyskupu be valdovo pritarimo, bet jo paskyrimą vėliau sutikta pripažinti galiojančiu.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64221|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Dusburgietis nurodo, kad Verneris iš Orzelno Ordino magistru buvo išrinktas 1324 m. liepos 6 d.
 - susijęs iš [[objektai/grupes/Apaštalų Sostas.md#claim-t-172076|Apaštalų Sostas]]: Valdovas siekė išrūpinti Šventojo Tėvo patvirtinimą artikulams, kuriems turėjo pritarti Apaštalų Sostas.
@@ -62,3 +72,13 @@ Vasilijus paskyrė Glinskį mažamečio sūnaus globėju dėl jo sumanumo tvarka
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1117110-1117743; hash=ba1594da43cdf8a927e9ba86ba52c86ef4cf5417fc0eda7227202a3217be86e9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: globėjas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "globėjas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

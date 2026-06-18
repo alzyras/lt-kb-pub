@@ -32,12 +32,22 @@ periodo_grupes:
   global_id: t-78739
   teiginys: 'Aleksandro Gvanjinio knygoje „Europos Sarmatijos aprašymas“ yra iliustracija, vaizduojanti mūšį su totoriais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie autoriaus knygos iliustraciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kijevas; mentioned_place: Krymas; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kijevas; mentioned_place: Krymas; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1480 m.; įvykio data: 1482 m.; įvykio data: 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie autoriaus knygos iliustraciją.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=255d6acfe5e93f19b102e5345b6f302d968b7426f0c8b75cda46d4a63643fbb1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandro Gvanjinio: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=99
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandro Gvanjinio" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-78740"></a>
 - t-002
@@ -50,6 +60,16 @@ periodo_grupes:
   temporalinis_llm_pakomentavimas: 'Reikia išplėsti pavardę ir sutrumpinti teiginį iki aiškaus enciklopedinio sakinio.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 300316-300739; hash=446c2a7f5b458488727d0a032f2e9f2586255a7c027dec99e853bba867fe375a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herbas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandro Gvanjinio: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Herbas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandro Gvanjinio" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -84,5 +104,35 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 300316-300739; hash=446c2a7f5b458488727d0a032f2e9f2586255a7c027dec99e853bba867fe375a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herbas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandro Gvanjinio: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Herbas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandro Gvanjinio" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=255d6acfe5e93f19b102e5345b6f302d968b7426f0c8b75cda46d4a63643fbb1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandro Gvanjinio: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=99
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandro Gvanjinio" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=255d6acfe5e93f19b102e5345b6f302d968b7426f0c8b75cda46d4a63643fbb1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandro Gvanjinio: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=99
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandro Gvanjinio" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

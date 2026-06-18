@@ -35,6 +35,16 @@ Dusburgietis teigia, kad historia Pomorza / Pod red. G.
   temporalinis_llm_pakomentavimas: 'Citata palaiko leidinio redaktorių, tomo dalį, chronologinę aprėptį, vietą ir metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 774464-774543; hash=fe33e58fa197ac78212c4757f87719be584e4328862908e3a28ad425e2e113d2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Poznanė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Historia Pomorza: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Poznanė: mention_match, place, gap=88
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Historia Pomorza" parinktas kaip owner_note_path. Targetas "Poznanė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -48,3 +58,13 @@ Dusburgietis teigia, kad historia Pomorza / Pod red. G.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 774464-774543; hash=fe33e58fa197ac78212c4757f87719be584e4328862908e3a28ad425e2e113d2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Poznanė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Historia Pomorza: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Poznanė: mention_match, place, gap=88
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Historia Pomorza" parinktas kaip owner_note_path. Targetas "Poznanė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

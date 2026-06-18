@@ -32,6 +32,16 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Gečas|Jonas Gečas]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9c16a85d92fc97faed81e415496b4347dc637dc97c2adc7ea194f8db3f01fcac; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas Gečas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Audrius Butkevičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas Gečas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Audrius Butkevičius" parinktas kaip owner_note_path. Targetas "Jonas Gečas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-40046"></a>
 - t-002
@@ -44,6 +54,16 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
   temporalinis_llm_pakomentavimas: 'Citata pateikia asmenį štabo sąraše, todėl galima suformuluoti sakinį apie jo vaidmenį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1126628-1126769; hash=f82228bae01115fa070d9b55cabec4b5963039b8cfc41df55c3e2cb2a663f207; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos gynybos štabas (institucija): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Audrius Butkevičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos gynybos štabas (institucija): mention_match, group, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Audrius Butkevičius" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos gynybos štabas (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -82,4 +102,24 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1126628-1126769; hash=f82228bae01115fa070d9b55cabec4b5963039b8cfc41df55c3e2cb2a663f207; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos gynybos štabas (institucija): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Audrius Butkevičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos gynybos štabas (institucija): mention_match, group, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Audrius Butkevičius" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos gynybos štabas (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9c16a85d92fc97faed81e415496b4347dc637dc97c2adc7ea194f8db3f01fcac; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas Gečas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Audrius Butkevičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas Gečas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Audrius Butkevičius" parinktas kaip owner_note_path. Targetas "Jonas Gečas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

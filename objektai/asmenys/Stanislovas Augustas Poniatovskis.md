@@ -34,7 +34,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   global_id: t-170087
   teiginys: '1792 m. liepos 23 d. Varšuvoje Stanislovas Augustas Poniatovskis siūlė nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti reikšmingesnį faktą apie valdovo poziciją posėdyje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Targovica; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_place: Rusija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Targovica; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti reikšmingesnį faktą apie valdovo poziciją posėdyje.'
@@ -52,13 +52,23 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 160248-160569; hash=630f70f5a813cf5055eb4076fd3f0b185cc2f3f85213088e8c66d7cb03ba8298; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Stanislovas Augustas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Stanislovas Augustas Poniatovskis (valdovas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Stanislovas Augustas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanislovas Augustas Poniatovskis (valdovas)" parinktas kaip owner_note_path. Targetas "Stanislovas Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-170089"></a>
 - t-003
   global_id: t-170089
   teiginys: 'Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą faktą.'
-  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Peterburgas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Peterburgas; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1797 m.; įvykio data: 1815 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytą faktą.'
@@ -91,7 +101,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   global_id: t-170094
   teiginys: 'Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. Gardine sušaukti Seimą, turėjusį patvirtinti antrąjį LLV padalijimą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Gardinas; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1793 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai remiasi citata.'
@@ -103,23 +113,23 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   global_id: t-170095
   teiginys: 'Istorikų vertinimu, Stanislovo Augusto susitaikėliška pozicija buvo nepagrįsta, nes LLV dar turėjo galimybių priešintis Rusijai.'
   sudarymo_pagrindimas: 'Tai vertinamasis teiginys, todėl pridėta tinkama interpretacijos atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis maršalas|didysis maršalas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Soltanas|Stanislovas Soltanas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Soltanas|Stanislovas Soltanas]]; mentioned_place: Rusija; mentioned_object: [[objektai/zodynas/didysis maršalas|didysis maršalas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Tai vertinamasis teiginys, todėl pridėta tinkama interpretacijos atribucija.'
   pagrindžia:
     - c-006
-- susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63842|Kotryna II]]: Stanislovas Augustas Poniatovskis buvo Kotrynos II nurodytas kandidatas į Respublikos sostą ir jos statytinis.
-- susijęs iš [[objektai/grupes/Prancūzijos steigiamasis susirinkimas.md#claim-t-19967|Prancūzijos steigiamasis susirinkimas]]: 1791 m. vasarą Stanislovas Augustas Poniatovskis rašė Prancūzijos steigiamajam susirinkimui apie kitą tautą Europoje.
 - susijęs iš [[objektai/grupes/Saksų dinastija.md#claim-t-20001|Saksų dinastija]]: Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislovas Augustas Poniatovskis.
 - susijęs iš [[objektai/ivykiai/Stanislovo Augusto Poniatovskio išrinkimas LLV valdovu.md#claim-t-183278|Stanislovo Augusto Poniatovskio išrinkimas LLV valdovu]]: Žlugus Saksų dinastijai, 1764 m. LLV valdovu buvo išrinktas Stanislovas Augustas Poniatovskis.
 - susijęs iš [[objektai/ivykiai/Stanislovo Augusto Poniatovskio išrinkimas LLV valdovu.md#claim-t-20504|Stanislovo Augusto Poniatovskio išrinkimas LLV valdovu]]: Stanislovas Augustas Poniatovskis buvo išrinktas LLV valdovu, valdžiusiu 1764–1795 m.
-- susijęs iš [[objektai/posakiai/„yra dar viena tauta Europoje“.md#claim-t-77860|„yra dar viena tauta Europoje“]]: 1791 m. vasarą Stanislovas Augustas Poniatovskis Prancūzijos steigiamajam susirinkimui rašė, kad „yra dar viena tauta Europoje“.
-- susijęs iš Gegužės 3 d. konstitucija (1791 m.): Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.
 - susijęs iš Jekaterinos II nota Stanislovui Augustui (1792 m. liepos 21 d.): 1792 m. liepos 23 d. Stanislovas Augustas Poniatovskis siūlė nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai ir priimti Jekaterinos II notą.
 - susijęs iš Brasta: 1792 m. liepos pabaigoje gynybai telkiantis prie Brastos, atėjo žinia apie Stanislovo Augusto prisijungimą prie Targovicos konfederacijos.
-- susijęs iš Prancūzija: Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.
 - susijęs iš Varšuva: 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
+- susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63842|Kotryna II]]: Stanislovas Augustas Poniatovskis buvo Kotrynos II nurodytas kandidatas į Respublikos sostą ir jos statytinis.
+- susijęs iš [[objektai/grupes/Prancūzijos steigiamasis susirinkimas.md#claim-t-19967|Prancūzijos steigiamasis susirinkimas]]: 1791 m. vasarą Stanislovas Augustas Poniatovskis rašė Prancūzijos steigiamajam susirinkimui apie kitą tautą Europoje.
+- susijęs iš [[objektai/posakiai/„yra dar viena tauta Europoje“.md#claim-t-77860|„yra dar viena tauta Europoje“]]: 1791 m. vasarą Stanislovas Augustas Poniatovskis Prancūzijos steigiamajam susirinkimui rašė, kad „yra dar viena tauta Europoje“.
+- susijęs iš Gegužės 3 d. konstitucija (1791 m.): Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.
+- susijęs iš Prancūzija: Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.
 - susijęs iš [[objektai/zodynas/dignitoriai.md#claim-t-77793|dignitoriai]]: 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
 ## Reikšmingi paminėjimai
 
@@ -192,6 +202,16 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 160248-160569; hash=630f70f5a813cf5055eb4076fd3f0b185cc2f3f85213088e8c66d7cb03ba8298; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Stanislovas Augustas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Stanislovas Augustas Poniatovskis (valdovas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Stanislovas Augustas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanislovas Augustas Poniatovskis (valdovas)" parinktas kaip owner_note_path. Targetas "Stanislovas Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-005

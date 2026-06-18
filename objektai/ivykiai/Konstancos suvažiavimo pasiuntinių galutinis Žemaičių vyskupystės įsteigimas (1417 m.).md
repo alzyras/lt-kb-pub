@@ -40,9 +40,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet įvestyje daug OCR ir antraštės triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_place: Lvovas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lvovas; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 686709-687514; hash=84375060556db34a066accea20deb6c65da54b74d388ee6a13dac5770409bb2e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lvovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lvovas: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.)" parinktas kaip owner_note_path. Targetas "Lvovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185719"></a>
 - t-002
@@ -55,6 +65,16 @@ Nenurodyta
   susije_objektai: 'mentioned_place: Konstanca; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 689439-690135; hash=3d63ae0592ed32c9f47dc760a189785540d77dd963f7cd5e4115695f442e5076; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstanca: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Konstanca: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.)" parinktas kaip owner_note_path. Targetas "Konstanca" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -127,4 +147,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 686709-687514; hash=84375060556db34a066accea20deb6c65da54b74d388ee6a13dac5770409bb2e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lvovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lvovas: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.)" parinktas kaip owner_note_path. Targetas "Lvovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 689439-690135; hash=3d63ae0592ed32c9f47dc760a189785540d77dd963f7cd5e4115695f442e5076; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstanca: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Konstanca: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.)" parinktas kaip owner_note_path. Targetas "Konstanca" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

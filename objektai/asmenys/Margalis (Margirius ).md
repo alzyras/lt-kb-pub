@@ -32,12 +32,22 @@ lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai iliustruoj
   global_id: t-39597
   teiginys: '1329 m. lietuvių didikas Margalis dvikovoje susirėmė su Čekijos karaliumi Jonu Liuksemburgiečiu.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie Margalio dvikovą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_place: Europa; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_place: Čekija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_place: Europa'
   temporaliniai_duomenys: 'įvykio data: 1329 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkretų faktą apie Margalio dvikovą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 173007-173321; hash=de42e61b3a1c56ce1465578ac96f22153a001e3b94dfbdc311dac5b53c7893ee; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Čekija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Margalis (Margirius ): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Čekija: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Margalis (Margirius )" parinktas kaip owner_note_path. Targetas "Čekija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -54,3 +64,13 @@ lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai iliustruoj
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 173007-173321; hash=de42e61b3a1c56ce1465578ac96f22153a001e3b94dfbdc311dac5b53c7893ee; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Čekija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Margalis (Margirius ): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Čekija: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Margalis (Margirius )" parinktas kaip owner_note_path. Targetas "Čekija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

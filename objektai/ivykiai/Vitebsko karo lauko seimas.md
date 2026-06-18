@@ -46,15 +46,25 @@ Nenurodyta
   global_id: t-20553
   teiginys: 'Vitebsko karo lauko seimas pasiuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Vitebsko karo lauko seimo veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija; mentioned_place: Vitebskas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1562 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Vitebsko karo lauko seimo veiksmą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 123228-123483; hash=3dd87ee0125af18a222cbf0f538a65c16802f241ede57e618a106ec31656b0e8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vitebsko karo lauko seimas (seimas): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=70
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebsko karo lauko seimas (seimas)" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Vitebskas: 1562 m. Vitebsko karo lauko seimas siuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
 - susijęs iš [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md#claim-t-101650|Jonas Jeronimaitis Chodkevičius]]: 1562 m. Vitebsko karo lauko seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
 - susijęs iš Liublino unijos aktas (1569 m.): 1562 m. Vitebsko karo lauko seimas pasiuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
-- susijęs iš Vitebskas: 1562 m. Vitebsko karo lauko seimas siuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,3 +79,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 123228-123483; hash=3dd87ee0125af18a222cbf0f538a65c16802f241ede57e618a106ec31656b0e8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vitebsko karo lauko seimas (seimas): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=70
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebsko karo lauko seimas (seimas)" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

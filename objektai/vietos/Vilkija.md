@@ -37,18 +37,28 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai ir gramatiškai perteikia citatoje nurodytą įvykį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 986180-986702; hash=ca3a813cae28f05ec4479b21d30260493c48bfc4ecd925fd0de4a6f4de906cff; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ariogala: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilkija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ariogala: mention_match, place, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilkija" parinktas kaip owner_note_path. Targetas "Ariogala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Makarevičius A.md#claim-t-60745|Makarevičius A]]: A. Makarevičius siejo Paštuvos pilį su Jaučakių piliakalniu į rytus nuo Vilkijos.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
 - susijęs iš [[objektai/ivykiai/Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.).md#claim-t-31410|Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.)]]: 1292 ir 1294 m. ordino kariuomenė nusiaubė Gaižuvos ir prie Vilkijos buvusias Pačtuvos sritis.
-- susijęs iš [[objektai/ivykiai/Kymel pilies sunaikinimas (1295 m.).md#claim-t-31436|Kymel pilies sunaikinimas (1295 m.)]]: 1295 m. kryžiuočiai prie Nemuno sunaikino stiprią Kymel pilį.
 - susijęs iš [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.).md#claim-t-66821|Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]: Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.
-- susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą.
 - susijęs iš Ariogala: 1950 m. liepos 22 d. prie Ariogalos ir Vilkijos rajonų ribos MGB 208-ojo pulko kareiviai puolė partizanų bunkerį Daugėliškių miške.
+- susijęs iš Pačtuva: 1292 ir 1294 m. Ordino kariuomenė pasiekė Nemuno dešiniojo kranto sritis ir nusiaubė Pačtuvą prie Vilkijos.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
+- susijęs iš [[objektai/ivykiai/Kymel pilies sunaikinimas (1295 m.).md#claim-t-31436|Kymel pilies sunaikinimas (1295 m.)]]: 1295 m. kryžiuočiai prie Nemuno sunaikino stiprią Kymel pilį.
+- susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą.
 - susijęs iš Daugėliškių miškas: 1950 m. liepos 22 d. Daugėliškių miške MGB 208-ojo pulko kareiviai puolė partizanų bunkerį, per puolimą žuvo 5 partizanai.
 - susijęs iš Gaižuva: 1292 ir 1294 m. Ordino kariuomenė nusiaubė Gaižuvos sritį prie Nemuno dešiniojo kranto tarp Dubysos ir Nevėžio.
 - susijęs iš Kymel: 1295 m. kryžiuočiai sunaikino prie Nemuno stovėjusią stiprią Kymel pilį.
 - susijęs iš Lesčiai: 1950 m. liepos 22 d. Lesčių kaimo rajone, Daugėliškių miške, MGB 208-ojo pulko kareiviai puolė partizanų bunkerį.
-- susijęs iš Pačtuva: 1292 ir 1294 m. Ordino kariuomenė pasiekė Nemuno dešiniojo kranto sritis ir nusiaubė Pačtuvą prie Vilkijos.
 - susijęs iš Paštuvos valsčius: Paštuvos valsčius buvo deš.
 - susijęs iš Peštvė: Kryžiuočiai sudegino Peštvės priešpilį Seredžiuje prie Dubysos žiočių, o pati Peštvė du kartus pamečiui buvo apgulta.
 ## Reikšmingi paminėjimai
@@ -68,3 +78,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 986180-986702; hash=ca3a813cae28f05ec4479b21d30260493c48bfc4ecd925fd0de4a6f4de906cff; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ariogala: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilkija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ariogala: mention_match, place, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilkija" parinktas kaip owner_note_path. Targetas "Ariogala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

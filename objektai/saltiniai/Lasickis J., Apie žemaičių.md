@@ -24,6 +24,16 @@ Dusburgietis teigia, kad ragaina — miškų deivė (Lasickis J., Apie žemaiči
   susije_objektai: 'mentioned_place: Ragainė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 485611-485860; hash=36994aaa0a2161f75f23fa8bef5fc7ba964b9819202938a09843459809aa563f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ragainė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lasickis J., Apie žemaičių: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Ragainė: mention_match, place, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lasickis J., Apie žemaičių" parinktas kaip owner_note_path. Targetas "Ragainė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -39,3 +49,13 @@ Dusburgietis teigia, kad ragaina — miškų deivė (Lasickis J., Apie žemaiči
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 485611-485860; hash=36994aaa0a2161f75f23fa8bef5fc7ba964b9819202938a09843459809aa563f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ragainė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lasickis J., Apie žemaičių: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Ragainė: mention_match, place, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lasickis J., Apie žemaičių" parinktas kaip owner_note_path. Targetas "Ragainė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

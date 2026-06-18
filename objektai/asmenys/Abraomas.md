@@ -26,9 +26,19 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Melchizedekas|Melchizedekas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8faa4a7dd9ce7aecb69600a3aa6764dec76b75cc9c4663533ac3ccc6f835c48a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Duona: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Abraomas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Duona: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Abraomas" parinktas kaip owner_note_path. Targetas "Duona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Melchizedekas.md#claim-t-60387|Melchizedekas (kunigas)]]: Dusburgiečio pateiktame Pradžios knygos epizode karalius ir kunigas Melchizedekas Abraomui padovanojo duonos ir vyno.
-- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116740|Katalikų Bažnyčia]]: Vilniaus vyskupas Povilas teigė, kad Abraomas iš Kulvos nesilaikė vienybės su Romos katalikų Bažnyčia ir klaidino kitus.
 - susijęs iš 1542 m. Žygimanto Senojo privilegija prieš eretikus Vilniaus vyskupui: Žygimanto Senojo rašte nurodyta, kad Vilniaus vyskupas Povilas Abraomą iš Kulvos kaltino atsiskyrimu nuo Romos katalikų Bažnyčios ir kitų klaidinimu.
+- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116740|Katalikų Bažnyčia]]: Vilniaus vyskupas Povilas teigė, kad Abraomas iš Kulvos nesilaikė vienybės su Romos katalikų Bažnyčia ir klaidino kitus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,3 +60,13 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8faa4a7dd9ce7aecb69600a3aa6764dec76b75cc9c4663533ac3ccc6f835c48a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Duona: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Abraomas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Duona: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Abraomas" parinktas kaip owner_note_path. Targetas "Duona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

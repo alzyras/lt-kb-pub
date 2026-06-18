@@ -54,18 +54,38 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiksliai perteikia citatos informaciją.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c5c33c93a1252cc5d097be24d2c69d8ddd5e85b1790a03bc1f74cf98c42b4035; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Reformacijos pradžia Lietuvoje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Reformacijos pradžia Lietuvoje" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-20461"></a>
 - t-002
   global_id: t-20461
   teiginys: '1517 m. Martynas Liuteris pradėjo reformaciją, laikomą viena reikšmingiausių Naujųjų amžių apraiškų.'
   sudarymo_pagrindimas: 'Reikia lietuviškos vardo formos ir sklandesnės enciklopedinės formuluotės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Martynas Liuteris|Martynas Liuteris]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_person: [[objektai/asmenys/Martynas Liuteris|Martynas Liuteris]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
   temporaliniai_duomenys: 'įvykio data: 1517 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia lietuviškos vardo formos ir sklandesnės enciklopedinės formuluotės.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb8f0ef16012b1beaa379975f68a2f7160de8a5b17ed0a929dc81f0b4ab55698; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abraomas Kulvietis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Reformacijos pradžia Lietuvoje: owner_note_path, event
+  ryšio_targeto_parinkimas: Abraomas Kulvietis: mention_match, person, gap=1
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Reformacijos pradžia Lietuvoje" parinktas kaip owner_note_path. Targetas "Abraomas Kulvietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -100,4 +120,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb8f0ef16012b1beaa379975f68a2f7160de8a5b17ed0a929dc81f0b4ab55698; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abraomas Kulvietis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Reformacijos pradžia Lietuvoje: owner_note_path, event
+  ryšio_targeto_parinkimas: Abraomas Kulvietis: mention_match, person, gap=1
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Reformacijos pradžia Lietuvoje" parinktas kaip owner_note_path. Targetas "Abraomas Kulvietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c5c33c93a1252cc5d097be24d2c69d8ddd5e85b1790a03bc1f74cf98c42b4035; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Reformacijos pradžia Lietuvoje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Reformacijos pradžia Lietuvoje" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -34,6 +34,9 @@ Gókski, K.
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2762f915cab502ec40a78b47bc73d3423c8b89193d728d7386a96e6acd6a8c5a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-54119"></a>
 - t-002
@@ -43,6 +46,9 @@ Gókski, K.
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2762f915cab502ec40a78b47bc73d3423c8b89193d728d7386a96e6acd6a8c5a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -59,3 +65,6 @@ Gókski, K.
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2762f915cab502ec40a78b47bc73d3423c8b89193d728d7386a96e6acd6a8c5a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

@@ -37,7 +37,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   global_id: t-64799
   teiginys: 'P. Šležas 1937 m. leidinyje „Naujoji Romuva“ paskelbė straipsnį „Lietuvos krikštas“.'
   sudarymo_pagrindimas: 'Citata pateikia autoriaus, straipsnio, leidinio ir metų duomenis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]'
   temporaliniai_duomenys: 'įvykio data: 1937 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia autoriaus, straipsnio, leidinio ir metų duomenis.'

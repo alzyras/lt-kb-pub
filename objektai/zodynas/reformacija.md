@@ -36,7 +36,7 @@ amziai:
   global_id: t-77786
   teiginys: 'Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią.'
   sudarymo_pagrindimas: 'Sakinys per ilgas ir gali būti glaustiau susietas su reformacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1563 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys per ilgas ir gali būti glaustiau susietas su reformacija.'
@@ -54,12 +54,23 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Reikia aiškiai susieti teiginį su reformacija, nes tai yra įrašo objektas.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Aleksandras (didysis kunigaikštis).md#claim-t-75650|Aleksandras (didysis kunigaikštis)]]: XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113887|Mikalojus Radvila Juodasis]]: Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kalbą dėl to, kad „būtų liaudžiai suprantama“.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb8f0ef16012b1beaa379975f68a2f7160de8a5b17ed0a929dc81f0b4ab55698; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: reformacija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "reformacija" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113894|Mikalojus Radvila Rudasis]]: Po Radvilos Juodojo mirties Mikalojus Radvila Rudasis vadovavo kalvinistinei reformacijai.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173333|Žygimantas Senasis]]: Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-74888|Radvilos]]: Po Mikalojaus Radvilos Juodojo mirties kalvinistinei reformacijai vadovavo jo pusbrolis Mikalojus Radvila Rudasis.
 - susijęs iš [[objektai/ivykiai/Reformacijos pradžia Lietuvoje.md#claim-t-20461|Reformacijos pradžia Lietuvoje]]: 1517 m. Martynas Liuteris pradėjo reformaciją, laikomą viena reikšmingiausių Naujųjų amžių apraiškų.
+- susijęs iš [[objektai/zodynas/reformacija protestantizmas kalvinizmas.md#claim-t-22263|reformacija protestantizmas kalvinizmas]]: Lietuvoje reformacija, palyginti su Vakarų Europa, vėlavo 22 metus ir siejama su 1539 m.
+- susijęs iš [[objektai/asmenys/Aleksandras (didysis kunigaikštis).md#claim-t-75650|Aleksandras (didysis kunigaikštis)]]: XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių.
+- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113887|Mikalojus Radvila Juodasis]]: Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kalbą dėl to, kad „būtų liaudžiai suprantama“.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173333|Žygimantas Senasis]]: Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos.md#claim-t-20595|Žygimanto Senojo ir Bonos Sforcos vedybos]]: Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.
 - susijęs iš [[objektai/paprociai/Itališkos mados perėmimas Lietuvos diduomenėje.md#claim-t-77946|Itališkos mados perėmimas Lietuvos diduomenėje]]: Bona Sforca į Lenkiją ir Lietuvą atsivežė italų menininkų, o Lietuvos diduomenė pamažu perėmė itališką madą.
 - susijęs iš [[objektai/paprociai/Lenkų kalbos pasirinkimas LDK protestantiškoje ir politinio elito raštijoje.md#claim-t-183317|Lenkų kalbos pasirinkimas LDK protestantiškoje ir politinio elito raštijoje]]: Lietuvos istorijos autoriai Reformaciją apibūdina kaip naują LDK lenkėjimo postūmį.
@@ -68,7 +79,6 @@ amziai:
 - susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
 - susijęs iš Brastos Biblija: Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų kalbą, nes ji būtų suprantama liaudžiai.
 - susijęs iš Vilnius: Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradėjo liuteronas Abraomas Kulvietis.
-- susijęs iš [[objektai/zodynas/reformacija protestantizmas kalvinizmas.md#claim-t-22263|reformacija protestantizmas kalvinizmas]]: Lietuvoje reformacija, palyginti su Vakarų Europa, vėlavo 22 metus ir siejama su 1539 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -111,4 +121,14 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb8f0ef16012b1beaa379975f68a2f7160de8a5b17ed0a929dc81f0b4ab55698; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: reformacija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "reformacija" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001

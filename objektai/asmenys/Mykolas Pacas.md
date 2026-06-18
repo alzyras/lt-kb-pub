@@ -36,6 +36,9 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas su objektu tiesiogiai susijęs faktas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ec7b44fc4dbf5e9f6527f1999dfe694f518cd4bb8f1c261b9db80d75cfb89836; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš Antakalnis: Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią.
 ## Reikšmingi paminėjimai
 
@@ -70,4 +73,7 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ec7b44fc4dbf5e9f6527f1999dfe694f518cd4bb8f1c261b9db80d75cfb89836; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-001

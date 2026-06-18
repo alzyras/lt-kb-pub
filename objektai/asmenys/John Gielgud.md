@@ -35,6 +35,16 @@ periodo_grupes:
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nutrūkęs ir perkrautas kitų asmenų pavyzdžiais.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b3065362d39eaa2050a2b76bff0a814cc9ac06061969f50553ff273c153ddde4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: John Gielgud: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "John Gielgud" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Davidas Suchetas.md#claim-t-18874|Davidas Suchetas]]: Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
 - susijęs iš [[objektai/asmenys/Eimuntas Nekrošius.md#claim-t-78050|Eimuntas Nekrošius]]: Eimuntas Nekrošius citatoje įvardytas kaip teatro režisierius, kūręs spektaklius įsivaizduojamoje „idealiojoje Lietuvoje“.
 - susijęs iš [[objektai/asmenys/Robertas Zemeckis.md#claim-t-19204|Robertas Zemeckis]]: Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje.
@@ -62,3 +72,13 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b3065362d39eaa2050a2b76bff0a814cc9ac06061969f50553ff273c153ddde4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: John Gielgud: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "John Gielgud" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -40,12 +40,22 @@ Santykinis datos nusakymas pagal bažnytinį kalendorių.
   teiginys: 'Formulė „penktadieni prieš Sekmines“ 1971 m. leidinio pastaboje siejama su Kazimiero išvykimu iš Krokuvos į Lietuvą 1440 m. gegužės 13 d.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata leidžia pateikti konkretesnį faktą apie datą ir įvykį.'
-  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Lenkija; mentioned_place: Mazovija'
   temporaliniai_duomenys: 'įvykio data: 1440 m.; įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia pateikti konkretesnį faktą apie datą ir įvykį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=efb31027fc708106b299aff9f5eaae8f84450229a51d32b830352acd66f33765; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/07_extract_sayings_notes.md
+  ryšio_patikimumas: susije_su -> Krokuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: penktadieni prieš Sekmines: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=88
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "penktadieni prieš Sekmines" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -64,3 +74,13 @@ Santykinis datos nusakymas pagal bažnytinį kalendorių.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=efb31027fc708106b299aff9f5eaae8f84450229a51d32b830352acd66f33765; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/07_extract_sayings_notes.md
+  ryšio_patikimumas: susije_su -> Krokuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: penktadieni prieš Sekmines: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=88
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "penktadieni prieš Sekmines" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

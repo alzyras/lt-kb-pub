@@ -32,6 +32,9 @@ Dusburgietis teigia, kad nalepa J.
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia pavadinimą, leidimo metus, tomą ir puslapius.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 787689-787810; hash=3942efe636050e49ab024da814655ac3070937bbab18e11f0f131bf2f50d3ba0; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +49,6 @@ Dusburgietis teigia, kad nalepa J.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 787689-787810; hash=3942efe636050e49ab024da814655ac3070937bbab18e11f0f131bf2f50d3ba0; match=exact
+  sprendimo_priezastis: auto

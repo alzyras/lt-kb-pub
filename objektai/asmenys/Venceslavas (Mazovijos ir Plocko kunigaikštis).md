@@ -33,13 +33,23 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
   global_id: t-87880
   teiginys: 'Venceslavas tuo tarpsniu valdė Mazoviją ir Plocką, o 1321 m. sudarė sutartį su kryžiuočių Ordinu.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Venceslavo valdžią ir sutartį.'
-  susije_objektai: 'territory: Mazovija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Mazovija; mentioned_place: Plockas'
+  susije_objektai: 'territory: Mazovija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Mazovija; mentioned_place: Plockas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   semantiniai_rysiai: '[[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis)|Venceslavas (Mazovijos ir Plocko kunigaikštis)]] valdė teritoriją Mazovija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1321 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Venceslavas (Mazovijos ir Plocko kunigaikštis) valdė teritoriją Mazovija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Venceslavo valdžią ir sutartį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=70a64932d19776a6b83f8593211ea86f63868f19d8b318aec65db7ef74595be3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: valde_teritorija -> Mazovija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_control_local_territory
+  ryšio_subjekto_parinkimas: Venceslavas (Mazovijos ir Plocko kunigaikštis): owner_note_path, person, gap=25
+  ryšio_targeto_parinkimas: Mazovija: nearest_after_predicate, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_control_local_territory". Subjektas "Venceslavas (Mazovijos ir Plocko kunigaikštis)" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip nearest_after_predicate aplink predikatą "valde_teritorija". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -65,6 +75,16 @@ Savo dviejuose laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonislavas, 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=70a64932d19776a6b83f8593211ea86f63868f19d8b318aec65db7ef74595be3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: valde_teritorija -> Mazovija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_control_local_territory
+  ryšio_subjekto_parinkimas: Venceslavas (Mazovijos ir Plocko kunigaikštis): owner_note_path, person, gap=25
+  ryšio_targeto_parinkimas: Mazovija: nearest_after_predicate, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_control_local_territory". Subjektas "Venceslavas (Mazovijos ir Plocko kunigaikštis)" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip nearest_after_predicate aplink predikatą "valde_teritorija". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Venceslavas (Mazovijos ir Plocko kunigaikštis) valde_teritorija [[objektai/vietos/Mazovija]]

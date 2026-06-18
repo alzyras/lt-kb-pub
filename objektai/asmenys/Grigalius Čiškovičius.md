@@ -23,9 +23,19 @@ Pirkliai reikalą išdėstė per įgaliotinius: Eustachijų Sidorovičių ir Gri
   global_id: t-87682
   teiginys: 'Grigalius Čiškovičius buvo vienas iš įgaliotinių, per kuriuos Vilniaus graikų tikėjimo pirkliai išdėstė skundą.'
   sudarymo_pagrindimas: 'Pradinis tekstas negramatiškas; citata palaiko asmens vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus pirkliai|Vilniaus pirkliai]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus pirkliai|Vilniaus pirkliai]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 594682-595434; hash=3e3f7607bf56dadfc749bf2c04ef2388339c6cb62c34634333319ee616ca7b07; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilniaus pirkliai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Grigalius Čiškovičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilniaus pirkliai: mention_match, group, gap=62
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grigalius Čiškovičius" parinktas kaip owner_note_path. Targetas "Vilniaus pirkliai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -59,3 +69,13 @@ Pirkliai reikalą išdėstė per įgaliotinius: Eustachijų Sidorovičių ir Gri
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 594682-595434; hash=3e3f7607bf56dadfc749bf2c04ef2388339c6cb62c34634333319ee616ca7b07; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilniaus pirkliai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Grigalius Čiškovičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilniaus pirkliai: mention_match, group, gap=62
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grigalius Čiškovičius" parinktas kaip owner_note_path. Targetas "Vilniaus pirkliai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

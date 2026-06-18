@@ -24,6 +24,9 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
   sudarymo_pagrindimas: 'Pradinis teiginys yra OCR fragmentas, bet citata aiškiai remia privilegijų atšaukimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 495947-497071; hash=4e540f9134f3771e86530b11cb1a6d4e34fc658465bc5676f74b81474a843edd; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -56,3 +59,6 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 495947-497071; hash=4e540f9134f3771e86530b11cb1a6d4e34fc658465bc5676f74b81474a843edd; match=whitespace_regex
+  sprendimo_priezastis: auto

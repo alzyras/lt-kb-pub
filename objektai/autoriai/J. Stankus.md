@@ -30,12 +30,22 @@ Stankus, J. — Stankus, J.
   global_id: t-30701
   teiginys: 'J. Stankus 1970 m. paskelbė darbą „Geležinių įrankių gamybos technologija Lietuvoje IX-XIII amžiais“.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas bibliografinis faktas, paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Skydai|Skydai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Skydai|Skydai]]'
   temporaliniai_duomenys: 'įvykio data: 1970 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas bibliografinis faktas, paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1e5068401646005e7ec04ed694c614e0fd22c3c983b51a49d4116e7fdb4a1d27; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Stankus: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=74
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Stankus" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/E. Radzvilovaitė.md#claim-t-30596|E. Radzvilovaitė]]: Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179535|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Pakarklis gvildeno Lietuvos istorijos klausimus ir ypač rašė apie teutonų ordinus.
 - susijęs iš [[objektai/daiktai/Geležiniai įrankiai.md#claim-t-31107|Geležiniai įrankiai]]: J. Stankus rašė apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII a.
@@ -59,3 +69,13 @@ Stankus, J. — Stankus, J.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1e5068401646005e7ec04ed694c614e0fd22c3c983b51a49d4116e7fdb4a1d27; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Stankus: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=74
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Stankus" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

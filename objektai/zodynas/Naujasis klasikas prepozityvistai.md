@@ -23,6 +23,9 @@ Svarbi tyrinėtojos išvada, jog „susidaro įspūdis, kad jis niekuomet ir neb
   sudarymo_pagrindimas: 'Citata palaiko faktą apie sąvokų skirtį, tačiau pradinė formuluotė buvo fragmentiška.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 2282-2670; hash=a4998f7f20be2ce9244c33f1c03111cb35d553d459cab3546cb57de3c3ab3e48; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -42,3 +45,6 @@ Svarbi tyrinėtojos išvada, jog „susidaro įspūdis, kad jis niekuomet ir neb
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 2282-2670; hash=a4998f7f20be2ce9244c33f1c03111cb35d553d459cab3546cb57de3c3ab3e48; match=whitespace_regex
+  sprendimo_priezastis: auto

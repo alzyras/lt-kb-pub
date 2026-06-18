@@ -27,10 +27,20 @@ Po Vilniaus sufragano Albino mirties ka­ pitula jo biblioteką atidavė jėzuit
   susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172130|Jėzuitų ordinas]]: Iš Braunsbergo atvykusiems jėzuitams iš pradžių buvo sunku įsitvirtinti Vilniuje.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 572998-573457; hash=b1dba92d88a0d1c4acbc8944218c4386728e12a55be79d67d2fa9a6d15ecc6b9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> kapitula: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albinas (Vilniaus sufraganas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: kapitula: mention_match, thing, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albinas (Vilniaus sufraganas)" parinktas kaip owner_note_path. Targetas "kapitula" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176083|Vilniaus kapitula]]: Po Vilniaus sufragano Albino mirties Vilniaus kapitula jo biblioteką atidavė jėzuitams.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176087|Vilniaus kapitula]]: Po Vilniaus sufragano Albino mirties Vilniaus kapitula jo biblioteką atidavė jėzuitams.
 - susijęs iš [[objektai/zodynas/sufraganas kleras arkipresbiteris.md#claim-t-86551|sufraganas kleras arkipresbiteris]]: Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.
+- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172130|Jėzuitų ordinas]]: Iš Braunsbergo atvykusiems jėzuitams iš pradžių buvo sunku įsitvirtinti Vilniuje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,3 +63,13 @@ Po Vilniaus sufragano Albino mirties ka­ pitula jo biblioteką atidavė jėzuit
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 572998-573457; hash=b1dba92d88a0d1c4acbc8944218c4386728e12a55be79d67d2fa9a6d15ecc6b9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> kapitula: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albinas (Vilniaus sufraganas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: kapitula: mention_match, thing, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albinas (Vilniaus sufraganas)" parinktas kaip owner_note_path. Targetas "kapitula" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

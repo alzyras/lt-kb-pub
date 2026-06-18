@@ -45,7 +45,7 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
   global_id: t-11263
   teiginys: 'Istorikas Józef Wolff teigė, kad sunku Patirgą ir Ringailę laikyti vienos motinos vaikais.'
   sudarymo_pagrindimas: 'Pašalintas šaltinio boilerplate, paliktas paremtas teiginys.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Patirgas|Patirgas]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Patirgas|Patirgas]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_place: Viena; mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 - susijęs iš Ród Gediminą: Józefo Wolffo veikalas „Ród Gediminą“ buvo išleistas Krokuvoje 1886 m.

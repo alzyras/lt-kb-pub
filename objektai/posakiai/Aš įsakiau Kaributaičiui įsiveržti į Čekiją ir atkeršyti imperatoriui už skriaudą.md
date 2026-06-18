@@ -22,9 +22,19 @@ Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta į pilną sakinį su aiškiu veikėju ir be šaltinio boilerplate.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Čekija; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 703451-703851; hash=89d42a59301710d7f7c84759c66d092c5a44c655a29ff1fef0fe53e374e12a8c; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Čekai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Čekai: mention_match, group, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą" parinktas kaip owner_note_path. Targetas "Čekai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185468"></a>
 - t-002
@@ -34,9 +44,19 @@ Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko aiškų teiginį apie Vytauto pasakymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Čekija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 708080-708761; hash=6a0d9b37a9b599efd4a6448949f08990cd80adb0e5817076d93032d8e4cfe6f8; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Čekai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Čekai: mention_match, group, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą" parinktas kaip owner_note_path. Targetas "Čekai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -83,4 +103,24 @@ Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 703451-703851; hash=89d42a59301710d7f7c84759c66d092c5a44c655a29ff1fef0fe53e374e12a8c; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Čekai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Čekai: mention_match, group, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą" parinktas kaip owner_note_path. Targetas "Čekai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 708080-708761; hash=6a0d9b37a9b599efd4a6448949f08990cd80adb0e5817076d93032d8e4cfe6f8; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Čekai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Čekai: mention_match, group, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą" parinktas kaip owner_note_path. Targetas "Čekai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

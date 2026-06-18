@@ -26,6 +26,9 @@ Varšuvos recesas: tuo metu buvo surašytas specialus aktas, į kurį buvo įtra
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 454891-455258; hash=4ecc9faf4009cbf8ed0471607060493c5ad7c4fa2adebc5125a45afd07aa6cd5; match=exact
+  sprendimo_priezastis: auto
 <a id="claim-t-67558"></a>
 - t-002
   global_id: t-67558
@@ -34,6 +37,9 @@ Varšuvos recesas: tuo metu buvo surašytas specialus aktas, į kurį buvo įtra
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ac2ae6725d4b51cfb827bcacf007a104f5e2ba82ebdf7a9ac1e7d2de105f2075; match=normalized; occurrences=1
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -74,4 +80,10 @@ Varšuvos recesas: tuo metu buvo surašytas specialus aktas, į kurį buvo įtra
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ac2ae6725d4b51cfb827bcacf007a104f5e2ba82ebdf7a9ac1e7d2de105f2075; match=normalized; occurrences=1
+  sprendimo_priezastis: auto
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 454891-455258; hash=4ecc9faf4009cbf8ed0471607060493c5ad7c4fa2adebc5125a45afd07aa6cd5; match=exact
+  sprendimo_priezastis: auto

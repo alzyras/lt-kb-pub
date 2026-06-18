@@ -54,18 +54,38 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citatos duomenimis.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=130128dfa97bb2fc65b3ab62c04b2f954374b0ab1b880961dad2f1d59909c47c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Balinskio apkaltinimas „lenkiškuoju patriotizmu“ Varšuvoje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=69
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Balinskio apkaltinimas „lenkiškuoju patriotizmu“ Varšuvoje" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86921"></a>
 - t-002
   global_id: t-86921
   teiginys: '1838 m. Mykolas Balinskis rusų valdžiai Varšuvoje aiškino, kad jo „Vilniaus miesto istorijos“ tikslas buvo Lietuva ir jos senoji sostinė.'
   sudarymo_pagrindimas: 'Citata remia aiškinimą, bet teiginį geriau sutrumpinti ir išplėsti asmens vardą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: po 1818 m.; įvykio data: 1818 m.; įvykio data: 1838 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia aiškinimą, bet teiginį geriau sutrumpinti ir išplėsti asmens vardą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 14074-14669; hash=b12e661945b1087d667945e294b7b3f748f927cc22d5bca5e8e85b38358df781; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Balinskio apkaltinimas „lenkiškuoju patriotizmu“ Varšuvoje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Balinskio apkaltinimas „lenkiškuoju patriotizmu“ Varšuvoje" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -102,4 +122,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 14074-14669; hash=b12e661945b1087d667945e294b7b3f748f927cc22d5bca5e8e85b38358df781; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Balinskio apkaltinimas „lenkiškuoju patriotizmu“ Varšuvoje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Balinskio apkaltinimas „lenkiškuoju patriotizmu“ Varšuvoje" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=130128dfa97bb2fc65b3ab62c04b2f954374b0ab1b880961dad2f1d59909c47c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Balinskio apkaltinimas „lenkiškuoju patriotizmu“ Varšuvoje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=69
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Balinskio apkaltinimas „lenkiškuoju patriotizmu“ Varšuvoje" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

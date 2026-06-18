@@ -23,9 +23,19 @@ Tos vė­ liavos buvusios smolenskiečių.
   global_id: t-34366
   teiginys: 'Smolenskiečių vėliavos Žalgirio mūšyje liko kairiajame sparne arčiau lenkų ir narsiai kovėsi.'
   sudarymo_pagrindimas: 'Reikia aiškiau įvardyti mūšio kontekstą ir pašalinti neapibrėžtumą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 232871-233049; hash=52c97eaf9188291cce52aaba1727fc02545b0443dce20e0ffee0f62203c76ac0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Smolenskiečiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=69
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smolenskiečiai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187745"></a>
 - t-002
@@ -35,9 +45,19 @@ Tos vė­ liavos buvusios smolenskiečių.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie smolenskiečių veiksmą Oršoje. Nepalikta neaiškių įvardžių ar platesnio mūšio konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Kijevas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kijevas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 208726-209305; hash=37ed5b78b586220aa9ba205e8b85f446a5afa577f488067d3a1ae3d387afee37; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žygimantas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Smolenskiečiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Žygimantas: mention_match, person, gap=86
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smolenskiečiai" parinktas kaip owner_note_path. Targetas "Žygimantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Andrius Sakavičius.md#claim-t-186033|Andrius Sakavičius]]: Andrius Sakavičius atrėmė pirmą smolenskiečių antpuolį, atvėręs vartus ir paleidęs prieš užpuolėjus raituosius ietininkus.
 - susijęs iš [[objektai/ivykiai/Smolensko atėmimas iš Jurijaus ir valdžios perdavimas Glėbui.md#claim-t-185828|Smolensko atėmimas iš Jurijaus ir valdžios perdavimas Glėbui]]: Jurijui pabėgus iš Smolensko pas uošvį, smolenskiečiai atidavė pilį ir visą žemę Vytautui.
 - susijęs iš [[objektai/posakiai/šuns kfauju.md#claim-t-186886|šuns kfauju]]: Posakiu „šuns kfauju“, kaip nurodo Lietuvos metraščio komentaras, Bychovco kronikos originaliajame tekste vadinami valstiečiai.
@@ -79,4 +99,24 @@ Tos vė­ liavos buvusios smolenskiečių.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 232871-233049; hash=52c97eaf9188291cce52aaba1727fc02545b0443dce20e0ffee0f62203c76ac0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Smolenskiečiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=69
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smolenskiečiai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 208726-209305; hash=37ed5b78b586220aa9ba205e8b85f446a5afa577f488067d3a1ae3d387afee37; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žygimantas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Smolenskiečiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Žygimantas: mention_match, person, gap=86
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smolenskiečiai" parinktas kaip owner_note_path. Targetas "Žygimantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

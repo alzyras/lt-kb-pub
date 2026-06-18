@@ -39,18 +39,38 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir citata pagrindžia Liangurgos pareigas, kilmę ir laikotarpį.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 518842-519483; hash=7137075d5f78ca8d413ed4096b77f26be2233f92619939878e5cbec2da8d6c9e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Feliksas Liangurga: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Feliksas Liangurga" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-87500"></a>
 - t-002
   global_id: t-87500
   teiginys: '1548 m. Feliksas Liangurga buvo iš Krokuvos kilęs Vilniaus vaitas ir uolus katalikas.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citatoje nurodytais 1548 m. duomenimis.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Krokuva; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]'
   temporaliniai_duomenys: 'įvykio data: 1548 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir paremtas citatoje nurodytais 1548 m. duomenimis.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 562550-563026; hash=2d0840235077d187b5758728e7e91751a6b2e7724ec9f64db3e118da4cb7b5ae; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Feliksas Liangurga: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Feliksas Liangurga" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš 1527 m. privilegija Feliksui Liangurgai ir 1547 m. aktas dėl jo statuso: 1547 m. akte Feliksas Liangurga vadintas bajoru.
 ## Reikšmingi paminėjimai
 
@@ -104,4 +124,24 @@ Miesto archyvas, kaip sostinės piliečių lais­ vių ir privilegijų lobynas, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 562550-563026; hash=2d0840235077d187b5758728e7e91751a6b2e7724ec9f64db3e118da4cb7b5ae; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Feliksas Liangurga: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Feliksas Liangurga" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 518842-519483; hash=7137075d5f78ca8d413ed4096b77f26be2233f92619939878e5cbec2da8d6c9e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Feliksas Liangurga: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Feliksas Liangurga" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

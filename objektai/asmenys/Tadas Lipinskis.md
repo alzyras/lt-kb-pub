@@ -22,9 +22,19 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
   global_id: t-87867
   teiginys: 'Tadas Lipinskis kartu su Michału Balińskiu parengė tris „Senovės Lenkijos“ tomus.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Tado Lipinskio bendraautorystę, bet pradinė formuluotė turi OCR triukšmo.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4df4139c2421e758ff8759dfbd3d4b8d3663e717c418140f44fea68c3ab0faf8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tadas Lipinskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tadas Lipinskis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -44,3 +54,13 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4df4139c2421e758ff8759dfbd3d4b8d3663e717c418140f44fea68c3ab0faf8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tadas Lipinskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tadas Lipinskis" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

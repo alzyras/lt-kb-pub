@@ -33,12 +33,22 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   global_id: t-19167
   teiginys: 'Napoleonas Bonapartas 1806 m. įkūrė Varšuvos kunigaikštiją.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus ir citata jį tiesiogiai patvirtina.'
-  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Užnemunė; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_place: Varšuva; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Užnemunė'
   temporaliniai_duomenys: 'įkūrimo data: iki 1806 m.; įkūrimo data: 1795 m.; įkūrimo data: 1806 m.; įkūrimo data: 1815 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įkūrimo data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus ir citata jį tiesiogiai patvirtina.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=79bfb6e4348e75b4aa7f364deba8771f6bcbe20f4d9b5ff36aa4073c631bb43a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Varšuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Napoleonas Bonapartas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Varšuva: mention_match, place, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Napoleonas Bonapartas" parinktas kaip owner_note_path. Targetas "Varšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-19168"></a>
 - t-002
@@ -51,18 +61,38 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   temporalinis_llm_pakomentavimas: 'Sakinys pilnas, aiškus ir pagrįstas pateikta citata.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d646227c78254a2c4d8630929faf8f4e00a26cd59c00875df25b636d348fef65; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Užnemunė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Napoleonas Bonapartas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Užnemunė: mention_match, place, gap=83
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Napoleonas Bonapartas" parinktas kaip owner_note_path. Targetas "Užnemunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-19169"></a>
 - t-003
   global_id: t-19169
   teiginys: 'Napoleonas Bonapartas įkūrė Varšuvos kunigaikštystę, kuriai 1807–1814 m. priklausė Užnemunė.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo apie teritoriją, perrašyta kaip faktas apie asmenį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Lietuva; mentioned_place: Užnemunė; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_place: Užnemunė; mentioned_place: Varšuva; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įkūrimo data: iki 1807 m.; įkūrimo data: 1807 m.; įkūrimo data: 1807-1814; įkūrimo data: 1814 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įkūrimo data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo apie teritoriją, perrašyta kaip faktas apie asmenį.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9b90050144b84a0ac45ad7f70c0c90c9a41c774cf619254a1d7cbff297729790; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Napoleonas Bonapartas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Napoleonas Bonapartas" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -93,6 +123,16 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=79bfb6e4348e75b4aa7f364deba8771f6bcbe20f4d9b5ff36aa4073c631bb43a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Varšuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Napoleonas Bonapartas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Varšuva: mention_match, place, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Napoleonas Bonapartas" parinktas kaip owner_note_path. Targetas "Varšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -112,4 +152,24 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9b90050144b84a0ac45ad7f70c0c90c9a41c774cf619254a1d7cbff297729790; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Napoleonas Bonapartas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Napoleonas Bonapartas" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d646227c78254a2c4d8630929faf8f4e00a26cd59c00875df25b636d348fef65; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Užnemunė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Napoleonas Bonapartas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Užnemunė: mention_match, place, gap=83
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Napoleonas Bonapartas" parinktas kaip owner_note_path. Targetas "Užnemunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

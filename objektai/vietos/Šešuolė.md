@@ -22,18 +22,28 @@ tags:
   global_id: t-42360
   teiginys: 'Giedraičius gynęs 2-asis pulkas atsitraukė į Šešuolės ir Virintos upių liniją.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata apie atsitraukimą į Šešuolės ir Virintos upių liniją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Giedraičiai; mentioned_place: Ukmergė; mentioned_place: Virinta'
+  susije_objektai: 'mentioned_place: Virinta; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Giedraičiai; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/paprociai/Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis.md#claim-t-87218|Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis]]: Pabaisko parapijos ribose neturėjo veikti kita parapinė bažnyčia, o savavališkai pastatytos bažnyčios turėjo tapti Pabaisko filijomis.
-- susijęs iš [[objektai/paprociai/Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis.md#claim-t-87219|Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis]]: Pabaisko parapijos ribose neturėjo būti statoma ar veikti kita parapinė bažnyčia, kad ji nedarytų nuostolio Pabaisko bažnyčiai.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c576479c2e29dcb1893320678ed177543f836c2554cdeba70e4053a9c78200d8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Virinta: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šešuolė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Virinta: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šešuolė" parinktas kaip owner_note_path. Targetas "Virinta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Kertuša: Pabaisko parapijos ribos ėjo nuo Širvintos iki Šventosios ir buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos.
 - susijęs iš Kertuša: Pabaisko parapijos ribos buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės.
-- susijęs iš Pabaisko bažnyčia ir parapija: Pabaisko parapijos ribos turėjo eiti nuo Širvintos upės iki Šventosios ir būti juosiamos Kertušos upės.
 - susijęs iš Skočiūnų dvaras: Pabaisko parapijos riba ėjo ties Skočiūnų dvaru, kur Šešulka, dar vadinama Šešuolėle, įteka į Šventąją.
+- susijęs iš Šešuolės miškas: Kertušos upė tekėjo per Šešuolės mišką iki Šesarkos upės.
+- susijęs iš [[objektai/paprociai/Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis.md#claim-t-87218|Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis]]: Pabaisko parapijos ribose neturėjo veikti kita parapinė bažnyčia, o savavališkai pastatytos bažnyčios turėjo tapti Pabaisko filijomis.
+- susijęs iš [[objektai/paprociai/Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis.md#claim-t-87219|Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis]]: Pabaisko parapijos ribose neturėjo būti statoma ar veikti kita parapinė bažnyčia, kad ji nedarytų nuostolio Pabaisko bažnyčiai.
+- susijęs iš Pabaisko bažnyčia ir parapija: Pabaisko parapijos ribos turėjo eiti nuo Širvintos upės iki Šventosios ir būti juosiamos Kertušos upės.
 - susijęs iš Šesarka: Pabaisko parapijos riba ėjo iki Šesarkos upės, kur ties Skočiūnų dvaru Šešulka įteka į Šventąją.
 - susijęs iš Šešulka: Šešulka ties Skočiūnų dvaru įteka į Šventąją.
-- susijęs iš Šešuolės miškas: Kertušos upė tekėjo per Šešuolės mišką iki Šesarkos upės.
 - susijęs iš Širvinta: Pabaisko parapijos ribos ėjo nuo Širvintos upės iki Šventosios.
 - susijęs iš Širvinta: Pabaisko parapijos riba ėjo nuo Širvintos upės iki Šventosios.
 - susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86419|fundacija]]: Remiantis prisiekusių liudininkų duomenimis apie Pabaisko bažnyčios fundaciją, Valentinui iš Pilzno suteikta nauja privilegija.
@@ -53,3 +63,13 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c576479c2e29dcb1893320678ed177543f836c2554cdeba70e4053a9c78200d8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Virinta: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šešuolė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Virinta: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šešuolė" parinktas kaip owner_note_path. Targetas "Virinta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

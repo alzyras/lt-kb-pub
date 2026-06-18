@@ -40,19 +40,29 @@ amziai:
   global_id: t-02336
   teiginys: 'Angerburgo pilis minima tarp Lietuvai artimesnių pilių, įkurtų 1335 metais.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra ilgas sąrašas, todėl geriau palikti tik su objektu susijusį faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Alenšteinas; mentioned_place: Girdava; mentioned_place: Johanisburgas; mentioned_place: Klaipėda; mentioned_place: Lietuva; mentioned_place: Lotzenburgas; mentioned_place: Ortelsburgas; mentioned_place: Ragainė; mentioned_place: Rastenburgas; mentioned_place: Röselis; mentioned_place: Tilžė; mentioned_place: Vėluva; mentioned_place: Įsrutis'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Lietuva; mentioned_place: Alenšteinas; mentioned_place: Girdava; mentioned_place: Johanisburgas; mentioned_place: Klaipėda; mentioned_place: Lotzenburgas; mentioned_place: Ortelsburgas; mentioned_place: Ragainė; mentioned_place: Rastenburgas; mentioned_place: Röselis; mentioned_place: Tilžė; mentioned_place: Vėluva; mentioned_place: Įsrutis'
   temporaliniai_duomenys: 'įvykio data: 1252 m.; įvykio data: 1289 m.; įvykio data: 1293 m.; įvykio data: 1325 m.; įvykio data: 1335 m.; įvykio data: 1337 m.; įvykio data: 1340 m.; įvykio data: apie 1340 m.; įvykio data: 1345 m.; įvykio data: 1353 m.; įvykio data: 1395 m.; įvykio data: 1398 m.; įvykio data: 1435 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra ilgas sąrašas, todėl geriau palikti tik su objektu susijusį faktą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bf0d0827aa768fce70a57a293f28d7be1975c858872c4aea7d9935cb104aa734; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Angerburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Angerburgas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Vėluva: Vėluvos ir Angerburgo pilys nurodytos kaip įkurtos 1335 metais.
 - susijęs iš Girdava: Girdavos pilis buvo įkurta 1325 m.
 - susijęs iš Johanisburgas: Johanisburgas buvo viena Lietuvai artimesniųjų pilių, įkurta 1345 m.
 - susijęs iš Lotzenburgas: Lotzenburgas buvo viena iš Lietuvai artimesnių pilių, įkurta apie 1340 m.
 - susijęs iš Rastenburgas: Rastenburgo pilis buvo įkurta 1345 m.
 - susijęs iš Röselis: Röselio pilis priskiriama prie Lietuvai artimesnių pilių ir nurodoma įkurta 1337 m.
 - susijęs iš Vėluva: Žygis Ordino žemėse pasiekė Įsručio ir Vėluvos apylinkes.
-- susijęs iš Vėluva: Vėluvos ir Angerburgo pilys nurodytos kaip įkurtos 1335 metais.
 - susijęs iš Vėluva: Ordino žemėse vykusio žygio metu buvo pasiektos Įsruties ir Vėluvos apylinkės.
 ## Reikšmingi paminėjimai
 
@@ -74,3 +84,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bf0d0827aa768fce70a57a293f28d7be1975c858872c4aea7d9935cb104aa734; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Angerburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Angerburgas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

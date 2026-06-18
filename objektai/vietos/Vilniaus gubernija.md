@@ -32,7 +32,7 @@ amziai:
   global_id: t-126076
   teiginys: 'Po 1843 m. pertvarkos caro valdžia Vilniaus guberniją priskyrė prie baltarusiškų, nors jos vakarinėje dalyje tebevyravo lietuviškai kalbantieji.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Minskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Minskas'
   temporaliniai_duomenys: 'įvykio data: po 1843 m.; įvykio data: 1843 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -44,7 +44,7 @@ amziai:
   global_id: t-126077
   teiginys: '1840 m. Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.'
   sudarymo_pagrindimas: 'Teiginį verta sutrumpinti ir aiškiau susieti su data bei gubernijų pavadinimais.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Vilnius; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1840 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginį verta sutrumpinti ir aiškiau susieti su data bei gubernijų pavadinimais.'
@@ -56,7 +56,7 @@ amziai:
   global_id: t-126078
   teiginys: 'Minėtų grupuočių teritorinės aspiracijos apėmė istorines etnines lietuvių žemes Vilniaus, Kauno, Suvalkų ir Gardino gubernijose.'
   sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir nutrūkęs, bet citata paremia glaustesnį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Suvalkai'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Suvalkai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -65,7 +65,7 @@ amziai:
   global_id: t-126079
   teiginys: '1917 m. Berno konferencijoje būsimos Lietuvos teritorijai priskirta kone visa Vilniaus gubernija, išskyrus stačiatikiškas apskritis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Vilniaus guberniją ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/posakiai/„Lithuania Propria“|„Lithuania Propria“]]; mentioned_place: Alūkšta; mentioned_place: Bernas; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Klaipėda; mentioned_place: Kuršas; mentioned_place: Liepoja; mentioned_place: Lietuva; mentioned_place: Slanimas; mentioned_place: Suvalkai; mentioned_place: Valkaviskas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Lithuania Propria“|„Lithuania Propria“]]; mentioned_place: Alūkšta; mentioned_place: Bernas; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Klaipėda; mentioned_place: Kuršas; mentioned_place: Liepoja; mentioned_place: Lietuva; mentioned_place: Slanimas; mentioned_place: Suvalkai; mentioned_place: Valkaviskas; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Vilniaus guberniją ir tiksliai remiasi citata.'
@@ -87,9 +87,10 @@ amziai:
   global_id: t-126081
   teiginys: 'Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, kuriame Vilniaus gubernija įtraukta į teritorinių pretenzijų objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Suvalkai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Suvalkai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-005
+- susijęs iš Kauno gubernija: 1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.
 - susijęs iš [[objektai/asmenys/Jurgis Šaulys.md#claim-t-19033|Jurgis Šaulys]]: Jurgis Šaulys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/autoriai/Jornandesas.md#claim-t-88069|Jornandesas]]: Jornandesas Vyslos žiotyse gyvenusiai tautai suteikė vidivarijų vardą.
@@ -101,7 +102,6 @@ amziai:
 - susijęs iš Alūkšta: 1917 m. Berno konferencijoje Alūkštos apskritį Kurše iki Dauguvos upės numatyta įtraukti į būsimos Lietuvos teritoriją.
 - susijęs iš Gardinas: 1917 m. Berno konferencijoje Lietuvos teritorijai siūlyta priskirti Balstogės, Gardino, Slanimo ir Valkavisko apskritis.
 - susijęs iš Gardinas: Užsienio lietuvių atstovai siūlė į „Lithuania Propria“ ribas įtraukti Gardino apskritį.
-- susijęs iš Kauno gubernija: 1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.
 - susijęs iš Liepoja: 1917 m. lapkričio 2–10 d. Berno konferencijoje lietuvių atstovai numatė reikalauti Liepojos uosto.
 - susijęs iš Slanimas: 1917 m. Berno konferencijoje Slanimo apskritis įtraukta į etnografiniu principu siūlytą Lietuvos teritoriją.
 - susijęs iš Valkaviskas: Valkavisko apskritis buvo įtraukta į Lietuvos teritorijos projektą, grindžiamą „Lithuania Propria“ ribomis.

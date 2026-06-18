@@ -71,12 +71,22 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   global_id: t-171500
   teiginys: 'Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.'
   sudarymo_pagrindimas: 'Citatoje tiesiogiai nurodyta Karolio Zikaro funkcija leidinyje.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Alfredas Bumblauskas|Alfredas Bumblauskas]]; mentioned_author: [[objektai/autoriai/Algimantas Daugirdas|Algimantas Daugirdas]]; mentioned_author: [[objektai/autoriai/Arvydas Pociūnas|Arvydas Pociūnas]]; mentioned_author: [[objektai/autoriai/Darius Baronas|Darius Baronas]]; mentioned_author: [[objektai/autoriai/Eduardas Brusokas|Eduardas Brusokas]]; mentioned_author: [[objektai/autoriai/Gintautas Jakštys|Gintautas Jakštys]]; mentioned_author: [[objektai/autoriai/Gintautas Sliesoriūnas|Gintautas Sliesoriūnas]]; mentioned_author: [[objektai/autoriai/R. Batūra|R. Batūra]]; mentioned_event: [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.)|Aizkrauklės mūšis (1279 m. kovo 5 d.)]]; mentioned_event: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]; mentioned_event: [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.)|Bezdežo (Antopolio) mūšis (1771 m.)]]; mentioned_event: [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.)|Biržų (Medeikių) mūšis (1863 m.)]]; mentioned_event: [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]; mentioned_event: [[objektai/ivykiai/Durbės mūšis (1260 m.)|Durbės mūšis (1260 m.)]]; mentioned_event: [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)|Karusės mūšis (1270 m. vasario 16 d.)]]; mentioned_event: [[objektai/ivykiai/Klecko mūšis|Klecko mūšis]]; mentioned_event: [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|K. Radvilos Perkūno reidas (1581 m. liepa-spalis)]]; mentioned_event: [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)|Kuoknesės mūšis (1601 m. birželio 23 d.)]]; mentioned_event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės|Kėdainių-Šėtos kautynės]]; mentioned_event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_event: [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]; mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_event: [[objektai/ivykiai/Oršos mūšis (1514 m.)|Oršos mūšis (1514 m.)]]; mentioned_event: [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)|Prostkų mūšis (1656 m. spalio 8 d.)]]; mentioned_event: [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]; mentioned_event: [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)|Saulės mūšis (1236 m. rugsėjo 22 d.)]]; mentioned_event: [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)|Smolensko apgultis (1632–1634 m.)]]; mentioned_event: [[objektai/ivykiai/Strėvos mūšis (1348 m.)|Strėvos mūšis (1348 m.)]]; mentioned_event: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_event: [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)|Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]; mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_event: [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/Nepriklausomybės kovos|Nepriklausomybės kovos]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_place: Aizkrauklė; mentioned_place: Brasta; mentioned_place: Chotinas; mentioned_place: Durbė; mentioned_place: Irpenė; mentioned_place: Jieznas; mentioned_place: Kaunas; mentioned_place: Kuoknesė; mentioned_place: Lesčiai; mentioned_place: Lietuva; mentioned_place: Lojevas; mentioned_place: Marienverderis; mentioned_place: Maskva; mentioned_place: Paneriai; mentioned_place: Prostkai; mentioned_place: Salacgryva; mentioned_place: Smolenskas; mentioned_place: Strėva; mentioned_place: Utena; mentioned_place: Valkininkai; mentioned_place: Vilnius; mentioned_place: Vorskla; mentioned_place: Zarasai; mentioned_place: Šklovas'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]; mentioned_author: [[objektai/autoriai/Alfredas Bumblauskas|Alfredas Bumblauskas]]; mentioned_author: [[objektai/autoriai/Algimantas Daugirdas|Algimantas Daugirdas]]; mentioned_author: [[objektai/autoriai/Arvydas Pociūnas|Arvydas Pociūnas]]; mentioned_author: [[objektai/autoriai/Darius Baronas|Darius Baronas]]; mentioned_author: [[objektai/autoriai/Eduardas Brusokas|Eduardas Brusokas]]; mentioned_author: [[objektai/autoriai/Gintautas Jakštys|Gintautas Jakštys]]; mentioned_author: [[objektai/autoriai/Gintautas Sliesoriūnas|Gintautas Sliesoriūnas]]; mentioned_author: [[objektai/autoriai/R. Batūra|R. Batūra]]; mentioned_event: [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.)|Aizkrauklės mūšis (1279 m. kovo 5 d.)]]; mentioned_event: [[objektai/ivykiai/Bezdežo (Antopolio) mūšis (1771 m.)|Bezdežo (Antopolio) mūšis (1771 m.)]]; mentioned_event: [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.)|Biržų (Medeikių) mūšis (1863 m.)]]; mentioned_event: [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]; mentioned_event: [[objektai/ivykiai/Durbės mūšis (1260 m.)|Durbės mūšis (1260 m.)]]; mentioned_event: [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.)|Karusės mūšis (1270 m. vasario 16 d.)]]; mentioned_event: [[objektai/ivykiai/Klecko mūšis|Klecko mūšis]]; mentioned_event: [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|K. Radvilos Perkūno reidas (1581 m. liepa-spalis)]]; mentioned_event: [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.)|Kuoknesės mūšis (1601 m. birželio 23 d.)]]; mentioned_event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės|Kėdainių-Šėtos kautynės]]; mentioned_event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_event: [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]; mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_event: [[objektai/ivykiai/Oršos mūšis (1514 m.)|Oršos mūšis (1514 m.)]]; mentioned_event: [[objektai/ivykiai/Prostkų mūšis (1656 m. spalio 8 d.)|Prostkų mūšis (1656 m. spalio 8 d.)]]; mentioned_event: [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.)|Salaspilio (Kircholmo) mūšis (1605 m.)]]; mentioned_event: [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)|Saulės mūšis (1236 m. rugsėjo 22 d.)]]; mentioned_event: [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.)|Smolensko apgultis (1632–1634 m.)]]; mentioned_event: [[objektai/ivykiai/Strėvos mūšis (1348 m.)|Strėvos mūšis (1348 m.)]]; mentioned_event: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_event: [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)|Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]; mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_event: [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/Nepriklausomybės kovos|Nepriklausomybės kovos]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_place: Aizkrauklė; mentioned_place: Brasta; mentioned_place: Chotinas; mentioned_place: Durbė; mentioned_place: Irpenė; mentioned_place: Jieznas; mentioned_place: Kaunas; mentioned_place: Kuoknesė; mentioned_place: Lesčiai; mentioned_place: Lietuva; mentioned_place: Lojevas; mentioned_place: Marienverderis; mentioned_place: Maskva; mentioned_place: Paneriai; mentioned_place: Prostkai; mentioned_place: Salacgryva; mentioned_place: Smolenskas; mentioned_place: Strėva; mentioned_place: Utena; mentioned_place: Valkininkai; mentioned_place: Vilnius; mentioned_place: Vorskla; mentioned_place: Zarasai; mentioned_place: Šklovas'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citatoje tiesiogiai nurodyta Karolio Zikaro funkcija leidinyje.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1077650-1077885; hash=671c1229170641a07b6212fe9829e62e9915cf97e303fbbf3e7eb00c0c8c2aea; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karolis Zikaras: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis Zikaras" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-171501"></a>
 - t-006
@@ -96,13 +106,23 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 764-3003; hash=a6eb4b69cef0f8621fada364ba9d89996845ec453ca07c2adabb126e8aa73823; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Algirdo žygiai į Maskvą: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karolis Zikaras: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Algirdo žygiai į Maskvą: mention_match, event, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis Zikaras" parinktas kaip owner_note_path. Targetas "Algirdo žygiai į Maskvą" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-171504"></a>
 - t-008
   global_id: t-171504
   teiginys: 'Karolis Zikaras nurodytas prie tekstų „1991 m. Sausio 13 d.“ ir „1991 m. Rugpjūčio Maskvos pučas“.'
   sudarymo_pagrindimas: 'Citata pagrindžia Zikaro priskyrimą dviem tekstams.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Zikaro priskyrimą dviem tekstams.'
@@ -117,6 +137,16 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1126771-1126975; hash=2889494efad05eeaf5a32f6eef1bd45e645ed75d00fb923b4329601a0a31f308; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karolis Zikaras: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis Zikaras" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-171506"></a>
 - t-010
@@ -125,6 +155,16 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   sudarymo_pagrindimas: 'Citata pagrindžia Zikaro priskyrimą dviem tekstams.'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1127028-1127086; hash=622fe6df744b4da757548a466c74900bbdeb58e4354e1ea30adf4c3dc083af16; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karolis Zikaras: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis Zikaras" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-171507"></a>
 - t-011
@@ -137,6 +177,16 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia bendraautorystę ir leidžia pašalinti fragmentišką pradžią.'
   pagrindžia:
     - c-012
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=361495e40c678b83c93a6fe991c14a5519af8a9d08f7041377726c06dfe4a0fe; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Artilerija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karolis Zikaras: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis Zikaras" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-171508"></a>
 - t-012
@@ -146,14 +196,28 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Dalius Žygelis|Dalius Žygelis]]; mentioned_author: [[objektai/autoriai/Loreta Uzdraitė|Loreta Uzdraitė]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6a0d08d50906b1e9312ccfc7438e6279913d933397f7fcf055621a4409fa23b4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lesčiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karolis Zikaras: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lesčiai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis Zikaras" parinktas kaip owner_note_path. Targetas "Lesčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Andžej Geglis.md#claim-t-71496|Andžej Geglis]]: Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris.
 - susijęs iš [[objektai/autoriai/Andžej Geglis.md#claim-t-71503|Andžej Geglis]]: Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris.
-- susijęs iš [[objektai/autoriai/Arvydas Anušauskas.md#claim-t-78743|Arvydas Anušauskas]]: Arvydas Anušauskas yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autorius.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78780|Loreta Uzdraitė]]: Loreta Uzdraitė, Karolis Zikaras ir Dalius Žygelis nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78782|Loreta Uzdraitė]]: Loreta Uzdraitė, Arvydas Anušauskas ir Karolis Zikaras yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78783|Loreta Uzdraitė]]: Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kryžininkų pajėgų telkimas prieš Lietuvą 1236 m.“ autoriai.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78784|Loreta Uzdraitė]]: Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę“ autoriai.
 - susijęs iš [[objektai/autoriai/Paulius Bugys.md#claim-t-40666|Paulius Bugys]]: Paulius Bugys kartu su Vidmantu Airini ir Karoliu Zikaru siejamas su leidinio iliustracija „Alebardos“.
+- susijęs iš HUSARŲ ORGANIZACIJA XVII A: „Husarų organizacija XVII a.“ autoriumi nurodytas Andžej Geglis, o Karolis Zikaras paminėtas prie šios medžiagos.
+- susijęs iš LIETUVOS KARIUOMENĖ XVI A: Informacinį bloką „Lietuvos kariuomenė XVI a.“ parengė Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras.
+- susijęs iš LIETUVOS KARIUOMENĖS ORGANIZACIJA IR PERMAINOS XVII A: Prie informacinio bloko „Lietuvos kariuomenės organizacija ir permainos XVII a.“ nurodyti Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras.
+- susijęs iš ŽYMIAUSI LIETUVOS PARTIZANŲ MŪŠIAI PRIEŠ SOVIETŲ PAJĖGAS: Straipsnio „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai yra Arvydas Anušauskas, Karolis Zikaras ir Loreta Uzdraitė.
+- susijęs iš [[objektai/autoriai/Arvydas Anušauskas.md#claim-t-78743|Arvydas Anušauskas]]: Arvydas Anušauskas yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autorius.
 - susijęs iš [[objektai/autoriai/Vidmantas Airini.md#claim-t-40674|Vidmantas Airini]]: Vidmantas Airini buvo vienas teksto „Alebardos“ autorių.
 - susijęs iš [[objektai/daiktai/Būgnas-timpanas (būgnas-katilas).md#claim-t-40701|Būgnas-timpanas (būgnas-katilas)]]: Būgnas-timpanas buvo vienas iš dviejų Vilniaus Šv. apaštalų Petro ir Povilo bažnyčioje saugomų būgnų.
 - susijęs iš [[objektai/daiktai/Sausio 13-osios dienos brolijos ženklelis.md#claim-t-40760|Sausio 13-osios dienos brolijos ženklelis]]: Sausio 13-osios dienos brolijos ženklelio dailininkas buvo Domantas Vildžiūnas.
@@ -161,12 +225,8 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 - susijęs iš [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.).md#claim-t-78642|Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]: Karolio Zikaro sudarytame leidinyje Valkininkų mūšis siejamas su suirutės Lietuvoje pradžia ir kaimynų įtakos stiprėjimu.
 - susijęs iš Didysis artilerijos menas: Karolis Zikaras yra skyriaus „Didysis artilerijos menas“, prasidedančio 115 puslapyje, autorius.
 - susijęs iš GEDIMINO UŽSIENIO POLITIKA: P-34, „GEDIMINO UŽSIENIO POLITIKA“, Romas Batūra.
-- susijęs iš HUSARŲ ORGANIZACIJA XVII A: „Husarų organizacija XVII a.“ autoriumi nurodytas Andžej Geglis, o Karolis Zikaras paminėtas prie šios medžiagos.
 - susijęs iš LEIČIAI - VALDOVO VALIOS ĮGYVENDINTOJAI: Karolis Zikaras parengė informacinį bloką „Leičiai - valdovo valios įgyvendintojai“.
-- susijęs iš LIETUVOS KARIUOMENĖ XVI A: Informacinį bloką „Lietuvos kariuomenė XVI a.“ parengė Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras.
-- susijęs iš LIETUVOS KARIUOMENĖS ORGANIZACIJA IR PERMAINOS XVII A: Prie informacinio bloko „Lietuvos kariuomenės organizacija ir permainos XVII a.“ nurodyti Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras.
 - susijęs iš LIETUVOS KARYBA XIII A: Karolis Zikaras parengė informacinį bloką „Lietuvos karyba XIII a.“.
-- susijęs iš ŽYMIAUSI LIETUVOS PARTIZANŲ MŪŠIAI PRIEŠ SOVIETŲ PAJĖGAS: Straipsnio „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai yra Arvydas Anušauskas, Karolis Zikaras ir Loreta Uzdraitė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -288,6 +348,16 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 764-3003; hash=a6eb4b69cef0f8621fada364ba9d89996845ec453ca07c2adabb126e8aa73823; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Algirdo žygiai į Maskvą: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karolis Zikaras: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Algirdo žygiai į Maskvą: mention_match, event, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis Zikaras" parinktas kaip owner_note_path. Targetas "Algirdo žygiai į Maskvą" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-003
@@ -305,6 +375,16 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1077650-1077885; hash=671c1229170641a07b6212fe9829e62e9915cf97e303fbbf3e7eb00c0c8c2aea; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karolis Zikaras: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis Zikaras" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-004
@@ -351,6 +431,16 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1126771-1126975; hash=2889494efad05eeaf5a32f6eef1bd45e645ed75d00fb923b4329601a0a31f308; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karolis Zikaras: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis Zikaras" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-006
@@ -393,6 +483,16 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1127028-1127086; hash=622fe6df744b4da757548a466c74900bbdeb58e4354e1ea30adf4c3dc083af16; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karolis Zikaras: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis Zikaras" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-009
@@ -424,6 +524,16 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6a0d08d50906b1e9312ccfc7438e6279913d933397f7fcf055621a4409fa23b4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lesčiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karolis Zikaras: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lesčiai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis Zikaras" parinktas kaip owner_note_path. Targetas "Lesčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-006
 
 - c-011
@@ -457,3 +567,13 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
   statusas: verified
   pagrindžia:
     - t-011
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=361495e40c678b83c93a6fe991c14a5519af8a9d08f7041377726c06dfe4a0fe; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Artilerija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karolis Zikaras: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis Zikaras" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

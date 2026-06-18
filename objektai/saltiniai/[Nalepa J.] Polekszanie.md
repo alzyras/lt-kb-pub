@@ -33,6 +33,16 @@ Dusburgietis teigia, kad [Nalepa J.] Polekszanie.—SSS, 1970, t.
   temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinę informaciją apie straipsnį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 787625-787686; hash=4e51315c740fd9efcfb52d504316f48311084eb5c5a9c29abe17a2336d22c762; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: [Nalepa J.] Polekszanie: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=62
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "[Nalepa J.] Polekszanie" parinktas kaip owner_note_path. Targetas "Tomas (Hertvigo iš Pokarvių sūnus)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +56,13 @@ Dusburgietis teigia, kad [Nalepa J.] Polekszanie.—SSS, 1970, t.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 787625-787686; hash=4e51315c740fd9efcfb52d504316f48311084eb5c5a9c29abe17a2336d22c762; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: [Nalepa J.] Polekszanie: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=62
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "[Nalepa J.] Polekszanie" parinktas kaip owner_note_path. Targetas "Tomas (Hertvigo iš Pokarvių sūnus)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

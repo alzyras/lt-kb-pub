@@ -25,6 +25,16 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 818368-818899; hash=bb7e2b19c0aa3ecceecb969fcf43eab1011006de5166449c076bc512ac810ccf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Astikas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas (karalius, Kazimiero brolis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Astikas: mention_match, person, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas (karalius, Kazimiero brolis)" parinktas kaip owner_note_path. Targetas "Astikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-186022"></a>
 - t-002
@@ -34,9 +44,19 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas ir neaiškus; citata remia aiškesnį faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 833664-833948; hash=bc3bd0c9b8e99acec912e6406454fae80897aa64adcc92dca4545bc7262abbd0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vladislovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas (karalius, Kazimiero brolis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vladislovas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas (karalius, Kazimiero brolis)" parinktas kaip owner_note_path. Targetas "Vladislovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186023"></a>
 - t-003
@@ -46,10 +66,21 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta perteklinė autorinė įžanga ir gandų dalis.'
-  susije_objektai: 'territory: Vengrija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
+  susije_objektai: 'territory: Vengrija; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
   semantiniai_rysiai: '[[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)|Vladislovas (karalius, Kazimiero brolis)]] buvo valdovas Vengrija'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 841952-842685; hash=7e99b8049e87f1943b5b348ee231f8e24be1e29c54fc7504aa0954b5eaac2a6c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Vengrija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Vladislovas (karalius, Kazimiero brolis): owner_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Vengrija: exact_title_context, place, gap=10
+  ryšio_slopinti_kandidatai: Lenkija: candidate; Lietuva: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vladislovas (karalius, Kazimiero brolis)" parinktas kaip owner_after_title. Targetas "Vengrija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 <a id="claim-t-186024"></a>
 - t-004
@@ -62,6 +93,16 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
   susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Piotrkovas'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 845045-845962; hash=0c9f4b8ce949a8018606aabaa074a1bb09d83131bf64c2f5d2836a6bf08b008e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas (karalius, Kazimiero brolis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas (karalius, Kazimiero brolis)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -99,6 +140,16 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 818368-818899; hash=bb7e2b19c0aa3ecceecb969fcf43eab1011006de5166449c076bc512ac810ccf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Astikas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas (karalius, Kazimiero brolis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Astikas: mention_match, person, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas (karalius, Kazimiero brolis)" parinktas kaip owner_note_path. Targetas "Astikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-003
@@ -131,6 +182,16 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 833664-833948; hash=bc3bd0c9b8e99acec912e6406454fae80897aa64adcc92dca4545bc7262abbd0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vladislovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas (karalius, Kazimiero brolis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vladislovas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas (karalius, Kazimiero brolis)" parinktas kaip owner_note_path. Targetas "Vladislovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -165,7 +226,28 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 841952-842685; hash=7e99b8049e87f1943b5b348ee231f8e24be1e29c54fc7504aa0954b5eaac2a6c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Vengrija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Vladislovas (karalius, Kazimiero brolis): owner_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Vengrija: exact_title_context, place, gap=10
+  ryšio_slopinti_kandidatai: Lenkija: candidate; Lietuva: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vladislovas (karalius, Kazimiero brolis)" parinktas kaip owner_after_title. Targetas "Vengrija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lenkija.md", "selected": false, "strategy": "candidate", "title": "Lenkija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 845045-845962; hash=0c9f4b8ce949a8018606aabaa074a1bb09d83131bf64c2f5d2836a6bf08b008e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas (karalius, Kazimiero brolis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas (karalius, Kazimiero brolis)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
 - Vladislovas (karalius, Kazimiero brolis) buvo_valdovas [[objektai/vietos/Vengrija]]

@@ -26,6 +26,16 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Danilavičius|Danilavičius]]; mentioned_author: [[objektai/autoriai/Koneczny|Koneczny]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=471899bcfb8bd464525fc0900cc0592167f1e22a422464f15b9eb35b2cb955d6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Danilavičius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prochaska: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Danilavičius: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prochaska" parinktas kaip owner_note_path. Targetas "Danilavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Antoni Prochaska.md#claim-t-35431|Antoni Prochaska]]: Antoni Prochaska dokumentą, kurį Danilavičius ir Koneczny laikė falsifikatu, pripažino autentišku.
 - susijęs iš [[objektai/autoriai/Danilavičius.md#claim-t-35432|Danilavičius]]: Danilavičius ir Koneczny šią sutartį laikė falsifikatu, nors Prochaska ją priėmė kaip autentišką.
 - susijęs iš [[objektai/autoriai/Koneczny.md#claim-t-35455|Koneczny]]: Koneczny kartu su Danilavičiumi tą dokumentą laikė falsifikatu, nors Prochaska jį priėmė kaip autentišką.
@@ -48,3 +58,13 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=471899bcfb8bd464525fc0900cc0592167f1e22a422464f15b9eb35b2cb955d6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Danilavičius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prochaska: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Danilavičius: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prochaska" parinktas kaip owner_note_path. Targetas "Danilavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

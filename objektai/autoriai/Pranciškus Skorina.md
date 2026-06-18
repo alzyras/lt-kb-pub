@@ -36,7 +36,7 @@ Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku; jis Prahoje pare
 - t-001
   global_id: t-64821
   teiginys: 'Pranciškus Skorina 1517–1519 m. Prahoje parengė ir išspausdino psalmyną bei 22 Senojo Testamento knygas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva; mentioned_place: Paduva; mentioned_place: Polockas; mentioned_place: Praha; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Praha; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva; mentioned_place: Paduva; mentioned_place: Polockas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1517-1519; įvykio data: 1519 m.; įvykio data: 1522 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -46,7 +46,7 @@ Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku; jis Prahoje pare
 - t-002
   global_id: t-64822
   teiginys: 'Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lietuva; mentioned_place: Paduva; mentioned_place: Polockas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Paduva; mentioned_place: Polockas; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1517-1519; įvykio data: 1519 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -57,17 +57,17 @@ Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku; jis Prahoje pare
   global_id: t-64824
   teiginys: 'Pranciškus Skorina buvo iš rusėnų kultūrinės aplinkos kilęs pirmasis Lietuvos spaustuvininkas, gimęs Polocko pirklių šeimoje.'
   sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina Pranciškų Skoriną ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lietuva; mentioned_place: Paduva; mentioned_place: Polockas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Paduva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1517-1519; įvykio data: 1519 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai apibūdina Pranciškų Skoriną ir yra paremtas citata.'
   pagrindžia:
     - c-002
+- susijęs iš [[objektai/paprociai/Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje.md#claim-t-77953|Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje]]: Pranciškus Skorina, pirmasis Lietuvos spaustuvininkas, 1517–1519 m. Prahoje išspausdino „Rusėnų Bibliją“, o 1522 m. įkūrė spaustuvę Vilniuje.
 - susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74904|Rusėnai]]: Pranciškus Skorina kilo iš rusėnų kultūrinės aplinkos ir buvo pirmasis Lietuvos spaustuvininkas.
 - susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74909|Rusėnai]]: Pranciškus Skorina buvo iš rusėnų kultūrinės aplinkos kilęs pirmasis Lietuvos spaustuvininkas.
 - susijęs iš [[objektai/ivykiai/Pranciškaus Skorinos spaustuvės įkūrimas Vilniuje.md#claim-t-183267|Pranciškaus Skorinos spaustuvės įkūrimas Vilniuje]]: 1522 m. Pranciškus Skorina įkūrė spaustuvę Vilniuje.
 - susijęs iš [[objektai/ivykiai/Pranciškaus Skorinos spaustuvės įkūrimas Vilniuje.md#claim-t-20458|Pranciškaus Skorinos spaustuvės įkūrimas Vilniuje]]: Pranciškus Skorina buvo pirmasis Lietuvos spaustuvininkas, kilęs iš rusėnų kultūrinės aplinkos ir gimęs Polocko pirklių šeimoje.
-- susijęs iš [[objektai/paprociai/Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje.md#claim-t-77953|Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje]]: Pranciškus Skorina, pirmasis Lietuvos spaustuvininkas, 1517–1519 m. Prahoje išspausdino „Rusėnų Bibliją“, o 1522 m. įkūrė spaustuvę Vilniuje.
 - susijęs iš Rusėnų Biblija: 1517–1519 m. Prahoje Pranciškus Skorina parengė ir išspausdino psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų Biblija“.
 - susijęs iš Paduva: Pranciškus Skorina baigė Paduvos universitetą ir ten įgijo medicinos daktaro laipsnį.
 - susijęs iš Polockas: Pranciškus Skorina gimė Polocko pirklių šeimoje ir 1517–1519 m. Prahoje išspausdino „Rusėnų Biblijos“ knygas.

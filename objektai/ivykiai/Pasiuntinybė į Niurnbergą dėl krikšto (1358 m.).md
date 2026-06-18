@@ -45,7 +45,7 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
   global_id: t-66816
   teiginys: '1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Ordinas grąžintų žemes iki Deimės ir Alės upių ir keltųsi kovoti su totoriais.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia aiškiai susieti su įvykiu ir sutvarkyti formuluotę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1358 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet reikia aiškiai susieti su įvykiu ir sutvarkyti formuluotę.'
@@ -57,7 +57,7 @@ Derybos neįvyko valdovų sąlygomis, todėl buvo grįžta prie karo.
   global_id: t-66817
   teiginys: '1358 m. Niurnbergo seimui pateiktas krikšto pasiūlymas buvo politinis manevras, nes jo sąlygos deryboms netiko.'
   sudarymo_pagrindimas: 'Reikia tiksliau įvardyti Niurnbergo seimą ir pašalinti neaiškų junginį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Niurnbergas; mentioned_place: Prūsai; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Niurnbergas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1358 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia tiksliau įvardyti Niurnbergo seimą ir pašalinti neaiškų junginį.'

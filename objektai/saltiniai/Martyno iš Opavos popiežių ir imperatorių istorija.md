@@ -42,6 +42,16 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   temporalinis_llm_pakomentavimas: 'Teiginys yra išbaigtas ir tiesiogiai paremtas citata apie Martyno iš Opavos veikalą.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 71302-71643; hash=2d71e639a5591e1d69975c5da13ae485c371c351634687737a39a5609a88ea6e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60880"></a>
 - t-002
@@ -54,6 +64,16 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir visiškai paremtas citata.'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e4d6ea43dcceb8d85a45831bb3e6b000e4421eefa43896070190e24c508421b1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fridrichas II: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Fridrichas II: mention_match, person, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Fridrichas II" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60881"></a>
 - t-003
@@ -66,6 +86,16 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia aiškų vieno sakinio pasakojimą be nutrūkusių fragmentų.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5e03ba28a3093acd5073284a75c1d6d8b5f5729864421352fe29a6a6547ca855; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Altorius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Altorius: mention_match, thing, gap=76
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Altorius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60882"></a>
 - t-004
@@ -75,6 +105,16 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=543635b2b5c651b9797d28a446684ef1ed5345246a9777269216316ccf2b0409; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Popiežius Honorijus III: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source
+  ryšio_targeto_parinkimas: Popiežius Honorijus III: mention_match, person, gap=97
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Popiežius Honorijus III" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60883"></a>
 - t-005
@@ -87,6 +127,16 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   temporalinis_llm_pakomentavimas: 'Citata remia įvykio pasakojimą, o „esą“ išlaiko šaltinio pobūdį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b819b863df63f632a892865e930425d0cfcdcc88652412065d836ecaedd09c81; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Druska: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Druska: mention_match, thing, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Druska" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-60884"></a>
 - t-006
@@ -99,6 +149,16 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia datavimą, pradinis teiginys nutrūkęs.'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 698099-698773; hash=4645fd625cded60e05c79b29c0c50b212f3fce370c72de716856a956bf1872d5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Adomas (auksakalys): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Adomas (auksakalys): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Adomas (auksakalys)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-60885"></a>
 - t-007
@@ -108,6 +168,16 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_person: [[objektai/asmenys/Inocentas III|Inocentas III]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 733186-733970; hash=1a6926aa977aca430ad5969abcd29d50cb0a549681fb2e22847dc5d0f787fb4d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prancūzija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Prancūzija: mention_match, place, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60886"></a>
 - t-008
@@ -117,15 +187,35 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lionas; mentioned_place: Prancūzija'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7573e2d5ff270196650816ad4c4f99294d41e293921c29cc768431676e7ec657; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60887"></a>
 - t-009
   global_id: t-60887
   teiginys: 'Popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo nesantarvė kilo dėl popiežiaus teiginio apie Prancūzijos reikalų pavaldumą apaštališkajam sostui.'
   sudarymo_pagrindimas: 'Perrašyta aiškiau nurodant nesantarvės priežastį ir veikėjus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/reskriptas|reskriptas]]; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_place: Prancūzija; mentioned_object: [[objektai/zodynas/reskriptas|reskriptas]]'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3b2f5b5a7e4257f5628bb3e3fcba13ee9b48daca9594c67e0658c7b024f17a1e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=70
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -156,6 +246,16 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b819b863df63f632a892865e930425d0cfcdcc88652412065d836ecaedd09c81; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Druska: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Druska: mention_match, thing, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Druska" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
 
 - c-003
@@ -175,6 +275,16 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=543635b2b5c651b9797d28a446684ef1ed5345246a9777269216316ccf2b0409; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Popiežius Honorijus III: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source
+  ryšio_targeto_parinkimas: Popiežius Honorijus III: mention_match, person, gap=97
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Popiežius Honorijus III" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -189,6 +299,16 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5e03ba28a3093acd5073284a75c1d6d8b5f5729864421352fe29a6a6547ca855; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Altorius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Altorius: mention_match, thing, gap=76
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Altorius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-005
@@ -209,6 +329,16 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 71302-71643; hash=2d71e639a5591e1d69975c5da13ae485c371c351634687737a39a5609a88ea6e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
 
 - c-006
@@ -223,6 +353,16 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3b2f5b5a7e4257f5628bb3e3fcba13ee9b48daca9594c67e0658c7b024f17a1e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=70
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-007
 
 - c-007
@@ -236,6 +376,16 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 733186-733970; hash=1a6926aa977aca430ad5969abcd29d50cb0a549681fb2e22847dc5d0f787fb4d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prancūzija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Prancūzija: mention_match, place, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-008
@@ -251,6 +401,16 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 698099-698773; hash=4645fd625cded60e05c79b29c0c50b212f3fce370c72de716856a956bf1872d5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Adomas (auksakalys): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Adomas (auksakalys): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Adomas (auksakalys)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-009
@@ -268,4 +428,24 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e4d6ea43dcceb8d85a45831bb3e6b000e4421eefa43896070190e24c508421b1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fridrichas II: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Fridrichas II: mention_match, person, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Fridrichas II" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7573e2d5ff270196650816ad4c4f99294d41e293921c29cc768431676e7ec657; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martyno iš Opavos popiežių ir imperatorių istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martyno iš Opavos popiežių ir imperatorių istorija" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

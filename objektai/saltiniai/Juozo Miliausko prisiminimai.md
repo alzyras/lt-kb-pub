@@ -62,6 +62,16 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 659116-659502; hash=da75ab4928185b803654ebc51ddf5586b579709ab4c4aa1075dc8e07d883b4c7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Juozas Miliauskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Juozo Miliausko prisiminimai: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Juozas Miliauskas: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozo Miliausko prisiminimai" parinktas kaip owner_note_path. Targetas "Juozas Miliauskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-78854"></a>
 - t-005
@@ -70,6 +80,16 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Juozas Miliauskas|Juozas Miliauskas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 659422-660092; hash=90a291dac94d1b003724227a51ab93a3967f9c9ec9a41eb5f1eb9bbdbf1f5f8d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Juozo Miliausko prisiminimai: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozo Miliausko prisiminimai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -140,4 +160,24 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 659422-660092; hash=90a291dac94d1b003724227a51ab93a3967f9c9ec9a41eb5f1eb9bbdbf1f5f8d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Juozo Miliausko prisiminimai: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozo Miliausko prisiminimai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 659116-659502; hash=da75ab4928185b803654ebc51ddf5586b579709ab4c4aa1075dc8e07d883b4c7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Juozas Miliauskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Juozo Miliausko prisiminimai: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Juozas Miliauskas: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozo Miliausko prisiminimai" parinktas kaip owner_note_path. Targetas "Juozas Miliauskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

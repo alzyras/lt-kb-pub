@@ -49,7 +49,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   global_id: t-71832
   teiginys: 'Vasario 16 Aktas tapo nacijos laisvės ir suverenumo simboliu bei Lietuvos Nepriklausomybės diena.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatoje pateiktą Akto reikšmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Lenkija'
   pagrindžia:
     - c-004
 
@@ -70,7 +70,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   global_id: t-71834
   teiginys: 'Vasario 16 Aktas tapo nacijos laisvės ir suverenumo simboliu bei davė pradžią tikrai Lietuvos nepriklausomybei.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Vasario 16 Akto reikšmę ir pasekmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Lenkija'
   pagrindžia:
     - c-004
 
@@ -91,7 +91,7 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
   global_id: t-71837
   teiginys: '1918 m. kovo 23 d. Berlyne Antano Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, vietą, veikėjus ir deklaracijos pristatymą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Wilhelmas II|Wilhelmas II]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Berlynas; mentioned_place: Vokietija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Wilhelmas II|Wilhelmas II]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, vietą, veikėjus ir deklaracijos pristatymą.'

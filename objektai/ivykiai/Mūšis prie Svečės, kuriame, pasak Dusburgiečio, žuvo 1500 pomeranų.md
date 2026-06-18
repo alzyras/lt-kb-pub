@@ -51,9 +51,19 @@ Nenurodyta
   teiginys: 'Prie Svečės pilies broliai užpuolė Sventopelko kariuomenę ir, pasak Dusburgiečio, tą dieną nukovė 1500 Pomeranijos vyrų.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Reikia atribucijos, nes skaičius pateiktas kaip Dusburgiečio pranešimas ir yra ginčijamas kitų šaltinių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Svečė; mentioned_place: Viena; mentioned_place: Višogrudas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija; mentioned_place: Svečė; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Kulmas; mentioned_place: Viena; mentioned_place: Višogrudas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 313401-314348; hash=3fb15bd64f7ba2ca88b4acb71048ddc1b1efa1fb07897d627edc36246952f23e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pomeranai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Pomeranai: mention_match, group, gap=103
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)" parinktas kaip owner_note_path. Targetas "Pomeranai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-62405"></a>
 - t-002
@@ -67,6 +77,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Citata yra redakcinis komentaras, todėl būtina atribucija; data tiesiogiai paremta.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 315741-315902; hash=924f0121de737998a33ce34121fc5b9fbf3e79cf29d0eaca74536e9db79c613c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Svečė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Svečė: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)" parinktas kaip owner_note_path. Targetas "Svečė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -102,4 +122,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 313401-314348; hash=3fb15bd64f7ba2ca88b4acb71048ddc1b1efa1fb07897d627edc36246952f23e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pomeranai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Pomeranai: mention_match, group, gap=103
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)" parinktas kaip owner_note_path. Targetas "Pomeranai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 315741-315902; hash=924f0121de737998a33ce34121fc5b9fbf3e79cf29d0eaca74536e9db79c613c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Svečė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Svečė: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)" parinktas kaip owner_note_path. Targetas "Svečė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

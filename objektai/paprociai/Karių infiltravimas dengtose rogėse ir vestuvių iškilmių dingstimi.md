@@ -50,18 +50,38 @@ Nenurodyta
   global_id: t-87211
   teiginys: 'Strijkovskis ir Kojalavičius rašė, kad Vytautas kelionę į Vilnių dangstė sesers Ringailės vestuvių su Mazovijos kunigaikščiu Henriku dingstimi.'
   sudarymo_pagrindimas: 'Citata remia vestuvių dingstį, bet pradinis teiginys nutrūkęs ir su OCR klaidomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sudimantas|Sudimantas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mazovija; mentioned_place: Polockas; mentioned_place: Poznanė; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mazovija; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sudimantas|Sudimantas]]; mentioned_place: Polockas; mentioned_place: Poznanė; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 255045-257194; hash=45556bdcf60c008152ba55e94aae0cd5e99debc8417d957964f0407751086d13; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Sudimantas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Sudimantas: mention_match, person, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi" parinktas kaip owner_note_path. Targetas "Sudimantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87212"></a>
 - t-002
   global_id: t-87212
   teiginys: 'Vytauto žmonės dengtose rogėse pateko į Žemutinę pilį, bet Sudimantas, perspėtas gyventojų, sutrukdė mėginimą užimti Vilnių.'
   sudarymo_pagrindimas: 'Pradinis teiginys pagrįstas, tačiau su OCR triukšmu ir per daug priklausomas nuo šaltinio formuluotės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sudimantas|Sudimantas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mazovija; mentioned_place: Polockas; mentioned_place: Poznanė; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sudimantas|Sudimantas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mazovija; mentioned_place: Polockas; mentioned_place: Poznanė; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 255045-257194; hash=45556bdcf60c008152ba55e94aae0cd5e99debc8417d957964f0407751086d13; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mazovija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=89
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183825"></a>
 - t-003
@@ -71,9 +91,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pagrįstas citata, bet reikia pašalinti OCR triukšmą ir suformuluoti užbaigtą sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sudimantas|Sudimantas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mazovija; mentioned_place: Polockas; mentioned_place: Poznanė; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sudimantas|Sudimantas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mazovija; mentioned_place: Polockas; mentioned_place: Poznanė; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 255045-257194; hash=45556bdcf60c008152ba55e94aae0cd5e99debc8417d957964f0407751086d13; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Sudimantas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Sudimantas: mention_match, person, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi" parinktas kaip owner_note_path. Targetas "Sudimantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -136,5 +166,35 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 255045-257194; hash=45556bdcf60c008152ba55e94aae0cd5e99debc8417d957964f0407751086d13; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mazovija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=89
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 255045-257194; hash=45556bdcf60c008152ba55e94aae0cd5e99debc8417d957964f0407751086d13; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Sudimantas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Sudimantas: mention_match, person, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi" parinktas kaip owner_note_path. Targetas "Sudimantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 255045-257194; hash=45556bdcf60c008152ba55e94aae0cd5e99debc8417d957964f0407751086d13; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Sudimantas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Sudimantas: mention_match, person, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi" parinktas kaip owner_note_path. Targetas "Sudimantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

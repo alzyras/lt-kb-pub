@@ -27,12 +27,22 @@ amziai:
   global_id: t-21284
   teiginys: 'Isaacas Tayloras veikale „The Origins of the Aryans“ spėliojo, kad arijų kalbos lopšys galėjo būti lietuvių apgyventoje teritorijoje.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų teiginį apie autorių ir jo mintį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Isaac Taylor|Isaac Taylor]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/posakiai/„Po kuo būti geriau – rusais ar vokiečiais“|„Po kuo būti geriau – rusais ar vokiečiais“]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Po kuo būti geriau – rusais ar vokiečiais“|„Po kuo būti geriau – rusais ar vokiečiais“]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Isaac Taylor|Isaac Taylor]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: SSRS; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškų teiginį apie autorių ir jo mintį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=069a256500ee92d4b78e5c0fd5f7151fa1e35f9ef48c7dd0036eb44f0db2f7a4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: The Origins of the Aryans: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=73
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "The Origins of the Aryans" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -65,3 +75,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=069a256500ee92d4b78e5c0fd5f7151fa1e35f9ef48c7dd0036eb44f0db2f7a4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: The Origins of the Aryans: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=73
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "The Origins of the Aryans" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

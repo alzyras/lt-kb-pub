@@ -23,6 +23,9 @@ tags:
   sudarymo_pagrindimas: 'Citata palaiko bibliografinį faktą apie May kūrinio vertimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 729326-729448; hash=7d0b95ff193d65e173564abcbd652d47f283a7af89a934489eea353e7f8be9d2; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -37,3 +40,6 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 729326-729448; hash=7d0b95ff193d65e173564abcbd652d47f283a7af89a934489eea353e7f8be9d2; match=exact
+  sprendimo_priezastis: auto

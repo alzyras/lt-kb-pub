@@ -48,6 +48,16 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   temporalinis_llm_pakomentavimas: 'Sakinys pilnas ir paaiškina stribų ryšį su naikintojų batalionais.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 434079-434463; hash=cac5684103eb531054ae2bbf2fb96cfe222786a11c6e04761be90e9689fce4af; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: stribai naikintojų batalionai liaudies gynėjai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "stribai naikintojų batalionai liaudies gynėjai" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -94,5 +104,25 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 434079-434463; hash=cac5684103eb531054ae2bbf2fb96cfe222786a11c6e04761be90e9689fce4af; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: stribai naikintojų batalionai liaudies gynėjai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "stribai naikintojų batalionai liaudies gynėjai" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 433379-434078; hash=8300546b23cf16c38a4cc3560871d571831bafe5eec45c72bdcf084d597d0673; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: stribai naikintojų batalionai liaudies gynėjai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "stribai naikintojų batalionai liaudies gynėjai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001

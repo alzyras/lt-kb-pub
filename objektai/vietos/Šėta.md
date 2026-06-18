@@ -22,9 +22,19 @@ Bolševikai tos pačios dienos vakare buvo priversi palikti Kėdainių apylinkes
   global_id: t-42387
   teiginys: 'Po nesėkmingo puolimo Kėdainių apylinkėse bolševikai tą vakarą atsitraukė į Šėtą.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo kontekstinis, todėl patikslintas į savarankišką sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaimas; mentioned_place: Kolupiai; mentioned_place: Kėdainiai'
+  susije_objektai: 'mentioned_place: Kėdainiai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaimas; mentioned_place: Kolupiai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f8119828b8e95361f59a84477e1919c036cc05a2ea501bfe55271c9232fa298d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kėdainiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šėta: owner_note_path, place
+  ryšio_targeto_parinkimas: Kėdainiai: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šėta" parinktas kaip owner_note_path. Targetas "Kėdainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -48,3 +58,13 @@ Bolševikai tos pačios dienos vakare buvo priversi palikti Kėdainių apylinkes
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f8119828b8e95361f59a84477e1919c036cc05a2ea501bfe55271c9232fa298d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kėdainiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šėta: owner_note_path, place
+  ryšio_targeto_parinkimas: Kėdainiai: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šėta" parinktas kaip owner_note_path. Targetas "Kėdainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

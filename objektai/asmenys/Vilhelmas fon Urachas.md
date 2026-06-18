@@ -30,12 +30,22 @@ Lietuvos Tarybos konservatoriai ir monarchistai 1918 m. liepos 13 d., blokuodami
   global_id: t-26463
   teiginys: 'Vilhelmas fon Urachas 1918 m. liepos 13 d. buvo pakviestas užimti Lietuvos sostą ir paskelbtas karaliumi Mindaugu II.'
   sudarymo_pagrindimas: 'Geriau sakinį pradėti note objekto vardu ir pašalinti perteklinį kontekstą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba]]; mentioned_object: [[objektai/zodynas/konstitucinė monarchija|konstitucinė monarchija]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_person: [[objektai/asmenys/Wilhelmas II|Wilhelmas II]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: Saksonija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_person: [[objektai/asmenys/Wilhelmas II|Wilhelmas II]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_object: [[objektai/zodynas/konstitucinė monarchija|konstitucinė monarchija]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Berlynas; mentioned_place: Saksonija; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Geriau sakinį pradėti note objekto vardu ir pašalinti perteklinį kontekstą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a1a7bd80d8b3669ed4f4d2485f4eb5008ee7eea568a12003259fa6e6687ff229; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilhelmas fon Urachas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=66
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilhelmas fon Urachas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Matijas Ercbergeris.md#claim-t-26455|Matijas Ercbergeris]]: Matijas Ercbergeris rėmė Lietuvos Tarybos monarchistus, kai 1918 m. liepos 13 d. Vilhelmas fon Urachas buvo pakviestas į Lietuvos sostą.
 ## Reikšmingi paminėjimai
 
@@ -67,3 +77,13 @@ Lietuvos Tarybos konservatoriai ir monarchistai 1918 m. liepos 13 d., blokuodami
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a1a7bd80d8b3669ed4f4d2485f4eb5008ee7eea568a12003259fa6e6687ff229; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilhelmas fon Urachas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=66
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilhelmas fon Urachas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

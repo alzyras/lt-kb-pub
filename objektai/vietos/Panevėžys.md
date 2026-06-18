@@ -48,6 +48,9 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   sudarymo_pagrindimas: 'Citata leidžia papildyti datą, laiką ir puolimo baigtį.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=176c418551de09c24826d66f666df0bb186de54863119889faf78f7121bc625d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-183069"></a>
 - t-003
@@ -69,7 +72,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir sakinys pritaikytas vietos objektui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Jutrzenka|Jutrzenka]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Oswiata|Oswiata]]; mentioned_group: [[objektai/grupes/Pochodnia|Pochodnia]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Jutrzenka|Jutrzenka]]; mentioned_group: [[objektai/grupes/Oswiata|Oswiata]]; mentioned_group: [[objektai/grupes/Pochodnia|Pochodnia]]'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/asmenys/Konradas Valenrodas.md#claim-t-87397|Konradas Valenrodas]]: Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas didžiuoju magistru, o 1393 m. liepos 25 d. mirė.
@@ -137,6 +140,9 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=176c418551de09c24826d66f666df0bb186de54863119889faf78f7121bc625d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-003
 
 - c-004

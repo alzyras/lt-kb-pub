@@ -22,9 +22,20 @@ Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Liet
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis tekstas sugadintas OCR ir turi antraštės triukšmo; citata palaiko konkrečią sutarties sąlygą.'
-  susije_objektai: 'territory: Maskva; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dimitrijus|Dimitrijus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Možaiskas'
+  susije_objektai: 'territory: Maskva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dimitrijus|Dimitrijus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Možaiskas; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 390019-390626; hash=6c5f02606fc2ec6658f5767cce146ad3d56445b09f5cc80d56afff97d39ac64a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Dimitrijus: nearest_actor_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Lietuva: candidate; Možaiskas: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Dimitrijus" parinktas kaip nearest_actor_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 53, "match_index": 74, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": 96, "match_index": 117, "path": "objektai/vietos/Možaiskas.md", "selected": false, "strategy": "candidate", "title": "Možaiskas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -51,3 +62,14 @@ Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Liet
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 390019-390626; hash=6c5f02606fc2ec6658f5767cce146ad3d56445b09f5cc80d56afff97d39ac64a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Dimitrijus: nearest_actor_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Lietuva: candidate; Možaiskas: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Dimitrijus" parinktas kaip nearest_actor_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 53, "match_index": 74, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": 96, "match_index": 117, "path": "objektai/vietos/Možaiskas.md", "selected": false, "strategy": "candidate", "title": "Možaiskas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.

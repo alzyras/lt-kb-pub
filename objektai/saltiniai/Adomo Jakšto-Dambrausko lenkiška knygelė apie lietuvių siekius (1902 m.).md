@@ -29,12 +29,22 @@ amziai:
   global_id: t-20995
   teiginys: 'Knygelėje Lietuvos bajorai raginti kalbėti lietuviškai, mylėti savo kraštą, jam dirbti ir rūpintis liaudies švietimu.'
   sudarymo_pagrindimas: 'Citata nemini Adomo Jakšto-Dambrausko, todėl teiginys suformuluotas pagal tiesiogiai paremtą turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_person: [[objektai/asmenys/Adomas Jakštas-Dambrauskas|Adomas Jakštas-Dambrauskas]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_person: [[objektai/asmenys/Adomas Jakštas-Dambrauskas|Adomas Jakštas-Dambrauskas]]; mentioned_place: Kaimas'
   temporaliniai_duomenys: 'įvykio data: 1902 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata nemini Adomo Jakšto-Dambrausko, todėl teiginys suformuluotas pagal tiesiogiai paremtą turinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=272ce56718f69ba43a6c19fdea5bbeed5e2c86381aa05439f17e0fed69ef7408; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Adomo Jakšto-Dambrausko lenkiška knygelė apie lietuvių siekius (1902 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adomo Jakšto-Dambrausko lenkiška knygelė apie lietuvių siekius (1902 m.)" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -56,3 +66,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=272ce56718f69ba43a6c19fdea5bbeed5e2c86381aa05439f17e0fed69ef7408; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Adomo Jakšto-Dambrausko lenkiška knygelė apie lietuvių siekius (1902 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adomo Jakšto-Dambrausko lenkiška knygelė apie lietuvių siekius (1902 m.)" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

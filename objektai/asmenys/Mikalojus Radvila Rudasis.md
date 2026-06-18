@@ -26,25 +26,45 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   global_id: t-113890
   teiginys: 'Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, įsakė nedelsiant užkirsti kelią jo kariuomenei.'
   sudarymo_pagrindimas: 'Reikia aiškiau įvardyti, kam buvo siekiama užkirsti kelią.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Lietuva; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Lietuva; mentioned_place: Polockas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9de9ee5d44c9e844251782e372de484b7b36c254edbb92e2938c77c465155dcb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mikalojus Radvila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila Rudasis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mikalojus Radvila: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Rudasis" parinktas kaip owner_note_path. Targetas "Mikalojus Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-113891"></a>
 - t-002
   global_id: t-113891
   teiginys: 'Mikalojus Radvila Rudasis žvalgų buvo greitai informuotas, kad P. Šuiskis sausio 23 d. su kariuomene pajudėjo iš Polocko.'
   sudarymo_pagrindimas: 'Claimas yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Lietuva; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Polockas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2bb6280d0c3c6eddd3d14f034646d3c1f42721f898870918ea39441ac4025be7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mikalojus Radvila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila Rudasis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mikalojus Radvila: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Rudasis" parinktas kaip owner_note_path. Targetas "Mikalojus Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-113892"></a>
 - t-003
   global_id: t-113892
   teiginys: 'Mikalojus Radvila Rudasis žvalgų buvo greitai informuotas apie P. Šuiskio žygį iš Polocko ir tuo metu buvo Lukomlyje.'
   sudarymo_pagrindimas: 'Perrašyta į vientisą sakinį, išlaikant citatos palaikomus faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Lietuva; mentioned_place: Lukomlis; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Lukomlis; mentioned_place: Polockas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -53,9 +73,19 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   global_id: t-113893
   teiginys: 'Mikalojus Radvila Rudasis užstojo Vilniaus pirklius ir gyventojus, prašydamas karaliaus atidėti muitus iki būsimo seimo.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, reikia išplėsti dalinę nuorodą į asmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus pirkliai|Vilniaus pirkliai]]; mentioned_object: [[objektai/zodynas/Czopowe|Czopowe]]; mentioned_object: [[objektai/zodynas/Szosowe|Szosowe]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Torunė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus pirkliai|Vilniaus pirkliai]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/Czopowe|Czopowe]]; mentioned_object: [[objektai/zodynas/Szosowe|Szosowe]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Torunė'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9de9ee5d44c9e844251782e372de484b7b36c254edbb92e2938c77c465155dcb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lukomlis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila Rudasis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lukomlis: mention_match, place, gap=107
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Rudasis" parinktas kaip owner_note_path. Targetas "Lukomlis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-113894"></a>
 - t-005
@@ -71,7 +101,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   global_id: t-113895
   teiginys: 'Mikalojus Radvila Rudasis galėjo turėti tik nuo 4 iki 6 tūkstančių raitelių.'
   sudarymo_pagrindimas: 'Claimas yra pilnas faktinis sakinys apie asmenį ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]'
   pagrindžia:
     - c-003
 
@@ -80,7 +110,7 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   global_id: t-113896
   teiginys: 'Mikalojus Radvila Rudasis buvo Dubingių ir Biržų kunigaikštis, Vilniaus vaivada, LDK vyriausiasis kancleris, Mozyriaus ir Lydos seniūnas.'
   sudarymo_pagrindimas: 'Citata pateikia asmens titulus ir pareigas, todėl galima suformuluoti glaustą faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Dubingiai; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Dubingiai; mentioned_place: Mozyrius; mentioned_place: Vilnius; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 
@@ -92,6 +122,16 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ea1b1003dffa033f464c61f090b4c4d638681bbd368bc97a397c05c98d52635f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mikalojus Radvila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila Rudasis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mikalojus Radvila: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Rudasis" parinktas kaip owner_note_path. Targetas "Mikalojus Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78383|Livonijos kunigaikštystė]]: Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis.
 - susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78385|Livonijos kunigaikštystė]]: Steponas Batoras ir Mikalojus Radvila Rudasis laikė būtina atkirsti Livonijos teritoriją nuo Rusijos ir perkelti karo veiksmus.
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-74888|Radvilos]]: Po Mikalojaus Radvilos Juodojo mirties kalvinistinei reformacijai vadovavo jo pusbrolis Mikalojus Radvila Rudasis.
@@ -118,6 +158,16 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   pagrindžia:
     - t-003
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2bb6280d0c3c6eddd3d14f034646d3c1f42721f898870918ea39441ac4025be7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mikalojus Radvila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila Rudasis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mikalojus Radvila: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Rudasis" parinktas kaip owner_note_path. Targetas "Mikalojus Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-002
@@ -130,6 +180,16 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9de9ee5d44c9e844251782e372de484b7b36c254edbb92e2938c77c465155dcb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mikalojus Radvila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila Rudasis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mikalojus Radvila: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Rudasis" parinktas kaip owner_note_path. Targetas "Mikalojus Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-003
@@ -150,6 +210,16 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ea1b1003dffa033f464c61f090b4c4d638681bbd368bc97a397c05c98d52635f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mikalojus Radvila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila Rudasis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mikalojus Radvila: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Rudasis" parinktas kaip owner_note_path. Targetas "Mikalojus Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-004
@@ -192,6 +262,16 @@ Lietuvoje protestantų židinys buvo galingieji biržiečiai Radvilos. Neprisiš
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9de9ee5d44c9e844251782e372de484b7b36c254edbb92e2938c77c465155dcb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lukomlis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila Rudasis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lukomlis: mention_match, place, gap=107
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila Rudasis" parinktas kaip owner_note_path. Targetas "Lukomlis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-006

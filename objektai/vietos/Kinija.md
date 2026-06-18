@@ -31,6 +31,16 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krokuva; mentioned_place: Maskva; mentioned_place: Peterburgas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=56d04c83b34acd6b6354626312109ba58c1759eb230697e5194cf4a92474f92d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kinija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kinija" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-76526"></a>
 - t-002
@@ -43,6 +53,16 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
   temporalinis_llm_pakomentavimas: 'Pašalintas ilgas kontekstas ir suformuluotas konkretus citata pagrįstas sakinys.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c3f8fac9e1e8830d77ae9dd23062010690b44fc0660c93f660bf49d130e1e58a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Andrius Rudamina: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kinija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Andrius Rudamina: mention_match, author, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kinija" parinktas kaip owner_note_path. Targetas "Andrius Rudamina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-76527"></a>
 - t-003
@@ -55,11 +75,21 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
   temporalinis_llm_pakomentavimas: 'Sutrumpinta iki aiškaus fakto apie Kiniją, pašalintas konteksto perteklius.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c3f8fac9e1e8830d77ae9dd23062010690b44fc0660c93f660bf49d130e1e58a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Andrius Rudamina: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kinija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Andrius Rudamina: mention_match, author, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kinija" parinktas kaip owner_note_path. Targetas "Andrius Rudamina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-23222|Andrius Rudamina]]: Rudamina 1626–1634 m. misionieriavo Kinijoje.
 - susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-23223|Andrius Rudamina]]: Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.
 - susijęs iš [[objektai/autoriai/Andrius Rudamina.md#claim-t-23224|Andrius Rudamina]]: Andrius Rudamina, Vilniaus universiteto auklėtinis, 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.
-- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172131|Jėzuitų ordinas]]: 1569 m. vyskupo kvietimu į Vilnių atvykę jėzuitai gavo lėšų kolegijai ir planavo ją pertvarkyti į universitetą.
 - susijęs iš [[objektai/posakiai/„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“.md#claim-t-77854|„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“]]: Vilniaus akademiją steigęs jėzuitas rašė, kad iš Vilniaus atsiveria kelias į Maskoviją, o per totorius galima pasiekti Kiniją.
+- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172131|Jėzuitų ordinas]]: 1569 m. vyskupo kvietimu į Vilnių atvykę jėzuitai gavo lėšų kolegijai ir planavo ją pertvarkyti į universitetą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -77,6 +107,16 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
   statusas: verified
   pagrindžia:
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c3f8fac9e1e8830d77ae9dd23062010690b44fc0660c93f660bf49d130e1e58a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Andrius Rudamina: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kinija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Andrius Rudamina: mention_match, author, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kinija" parinktas kaip owner_note_path. Targetas "Andrius Rudamina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-002
@@ -93,4 +133,24 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c3f8fac9e1e8830d77ae9dd23062010690b44fc0660c93f660bf49d130e1e58a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Andrius Rudamina: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kinija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Andrius Rudamina: mention_match, author, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kinija" parinktas kaip owner_note_path. Targetas "Andrius Rudamina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=56d04c83b34acd6b6354626312109ba58c1759eb230697e5194cf4a92474f92d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kinija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kinija" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -24,6 +24,9 @@ Reikia tiesiog būti stipresniais.
   sudarymo_pagrindimas: 'Pradinis tekstas yra tik posakis, o citata paaiškina jo kontekstą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 43825-44159; hash=5a0646abe07c7694eee16d6280a24c8ab568e9841146415a245880da08f9baeb; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -42,3 +45,6 @@ Reikia tiesiog būti stipresniais.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 43825-44159; hash=5a0646abe07c7694eee16d6280a24c8ab568e9841146415a245880da08f9baeb; match=exact
+  sprendimo_priezastis: auto

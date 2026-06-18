@@ -22,9 +22,19 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
   global_id: t-32037
   teiginys: 'Melno sutarties siena senojoje jotvingių žemėje prasidėjo nuo Akmenų Brastos Luko aukštupyje, aukščiau Grajevo ir Točilovo ežerų.'
   sudarymo_pagrindimas: 'Perrašyta į sklandų enciklopedinį sakinį, pašalinant perteklines kabutes ir variantą skliaustuose.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Salyno sutartis|Salyno sutartis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brasta; mentioned_place: Grajevo; mentioned_place: Lietuva; mentioned_place: Lukas; mentioned_place: Salynas; mentioned_place: Sūduva'
+  susije_objektai: 'mentioned_place: Brasta; mentioned_place: Grajevo; mentioned_place: Lukas; mentioned_event: [[objektai/ivykiai/Salyno sutartis|Salyno sutartis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Salynas; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=35cfea8b7a5d4056ed049088bafc88d65e0d486c5140b94ec1c62e2037588871; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Brasta: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Akmenų Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Brasta: mention_match, place, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Akmenų Brasta" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -44,3 +54,13 @@ Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų Brastos » (« Ka
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=35cfea8b7a5d4056ed049088bafc88d65e0d486c5140b94ec1c62e2037588871; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Brasta: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Akmenų Brasta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Brasta: mention_match, place, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Akmenų Brasta" parinktas kaip owner_note_path. Targetas "Brasta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

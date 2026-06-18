@@ -29,12 +29,22 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
   global_id: t-20990
   teiginys: 'Atkuriant valstybę reikėjo atkurti paskutinės nepriklausomos Lietuvos konstitucijos galiojimą.'
   sudarymo_pagrindimas: 'Patikslinta, kad kalbama apie konstitucijos galiojimą, be neaiškaus konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Aukščiausioji Taryba|Aukščiausioji Taryba]]'
   temporaliniai_duomenys: 'įvykio data: 1918-1940; įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslinta, kad kalbama apie konstitucijos galiojimą, be neaiškaus konteksto.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=58075c5a2a1441ddbc58b6d0a5736728009f91e9436f7db489a7b3d96da96763; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: 1938 metų gegužės 12 dienos Lietuvos Konstitucija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "1938 metų gegužės 12 dienos Lietuvos Konstitucija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183351"></a>
 - t-002
@@ -50,6 +60,16 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie konstitucijos galiojimo atkūrimo įstatymą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 498427-499170; hash=19cc1e92f70ff070af9dd05bda5239746e1df1922899fe9133c001f8feb2fd6c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: 1938 metų gegužės 12 dienos Lietuvos Konstitucija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "1938 metų gegužės 12 dienos Lietuvos Konstitucija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -89,4 +109,24 @@ Tam reikėjo nutraukti svetimos valstybės konstitucinių aktų galiojimą Lietu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=58075c5a2a1441ddbc58b6d0a5736728009f91e9436f7db489a7b3d96da96763; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: 1938 metų gegužės 12 dienos Lietuvos Konstitucija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "1938 metų gegužės 12 dienos Lietuvos Konstitucija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 498427-499170; hash=19cc1e92f70ff070af9dd05bda5239746e1df1922899fe9133c001f8feb2fd6c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: 1938 metų gegužės 12 dienos Lietuvos Konstitucija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "1938 metų gegužės 12 dienos Lietuvos Konstitucija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

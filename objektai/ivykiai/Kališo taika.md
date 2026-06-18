@@ -39,6 +39,16 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Kalita|Jonas Kalita]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_place: Kairėnai; mentioned_place: Kaltinėnai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=718b118712e60da9942fce13c87618356d722ad56e64bffd025a6de92e9a842b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas Kalita: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kališo taika: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jonas Kalita: mention_match, person, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kališo taika" parinktas kaip owner_note_path. Targetas "Jonas Kalita" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -71,3 +81,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=718b118712e60da9942fce13c87618356d722ad56e64bffd025a6de92e9a842b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas Kalita: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kališo taika: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jonas Kalita: mention_match, person, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kališo taika" parinktas kaip owner_note_path. Targetas "Jonas Kalita" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

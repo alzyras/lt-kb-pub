@@ -46,11 +46,21 @@ Nenurodyta
 - t-001
   global_id: t-66984
   teiginys: 'Vyriausiasis Lietuvos tribunolas buvo svarstytas keliuose Lietuvos seimuose ir galutinai įkurtas 1581 m.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vyriausiasis Lietuvos tribunolas|Vyriausiasis Lietuvos tribunolas]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vyriausiasis Lietuvos tribunolas|Vyriausiasis Lietuvos tribunolas]]; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1578 m.; įvykio data: 1581 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fd71ee642969fd563fd99478f2125d398f2723ba4d0d976af45fe05a13b6f9f4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -71,3 +81,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fd71ee642969fd563fd99478f2125d398f2723ba4d0d976af45fe05a13b6f9f4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -37,6 +37,9 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
   temporalinis_llm_pakomentavimas: 'Claimas yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=50f3b088b4663a14a907c8a708442e172ad67e1e629441e717fa420ddf6e67bc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-79111"></a>
 - t-002
@@ -48,6 +51,9 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
   temporalinis_llm_pakomentavimas: 'Claimas yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=50f3b088b4663a14a907c8a708442e172ad67e1e629441e717fa420ddf6e67bc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -75,4 +81,10 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=50f3b088b4663a14a907c8a708442e172ad67e1e629441e717fa420ddf6e67bc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=50f3b088b4663a14a907c8a708442e172ad67e1e629441e717fa420ddf6e67bc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

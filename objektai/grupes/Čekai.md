@@ -37,6 +37,16 @@ amziai:
   susije_objektai: 'mentioned_place: Konstancija; mentioned_place: Čekija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 304164-304466; hash=9a65bf474e7431560bab52e91e1c4a4c8398f88eea553c789f0af8236631e148; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čekai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čekai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-50767"></a>
 - t-002
@@ -49,6 +59,16 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 304467-304831; hash=0e6eababf8293eb680c53929c66b0f6a9097b69482a2144f1bde8e7409743bae; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstancija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čekai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Konstancija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čekai" parinktas kaip owner_note_path. Targetas "Konstancija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-50768"></a>
 - t-003
@@ -59,6 +79,16 @@ amziai:
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 342705-343228; hash=52cc2ff8fb4a6bf30713e05dcd40533da569fbf6700926c01d7916863e120f3b; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hinka iš Valdšteino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čekai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Hinka iš Valdšteino: mention_match, person, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čekai" parinktas kaip owner_note_path. Targetas "Hinka iš Valdšteino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-50769"></a>
 - t-004
@@ -68,6 +98,16 @@ amziai:
   susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 654331-654713; hash=ae0b850a6a5a3c50d742ad7eb3a0124ec9178a55aff5f7f11d0e9675097cc9bf; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Husitai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čekai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Husitai: mention_match, group, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čekai" parinktas kaip owner_note_path. Targetas "Husitai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184589"></a>
 - t-006
@@ -83,6 +123,16 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir palikta tik citatos paremta mintis apie čekus.'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 698471-699245; hash=fd17a9608fa6e8c9a5cf1b37ab4a2a16511d1d1448077f2803e12c0b2ff25e6f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čekai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čekai" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184590"></a>
 - t-007
@@ -94,11 +144,42 @@ amziai:
   sudarymo_pagrindimas: 'Teiginys perrašytas į aiškų faktinį sakinį be autorinio boilerplate.'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 699796-700048; hash=2fde76827256c747b8535fbb316cab146be23dac99da40f87df30fdf7f373342; match=exact
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176307|Algirdas (Lietuvos valdovas)]]: Algirdo ir Kęstučio laikais Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.
+- susijęs iš [[objektai/asmenys/Lada.md#claim-t-186231|Lada]]: Lada, čekų kilmės Krokuvos miestietis, bandė su šimtine pėstininkų nusigauti į Maskvą, bet pasienyje buvo sugautas.
+- susijęs iš [[objektai/asmenys/Martynas iš Opavos.md#claim-t-60385|Martynas iš Opavos (arkivyskupas, XIII a.)]]: Martynas iš Opavos, čekų vienuolis, 1278 m. buvo paskirtas Gnezno arkivyskupu, bet mirė ten nenuvykęs.
+- susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176652|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Tų metų rugpjūtį Vytautas Didysis su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176671|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1422 m. Vytautas į Prahą pasiuntė savo sūnėną Žygimantą Kaributaitį kaip čekų pageidaujamą valdovą.
+- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176867|Zigmantas Kaributas]]: Vytautas pasiuntė savo sūnėną Zigmantą Kaributą į Čekiją vietininku su keliolika tūkstančių kareivių.
+- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176869|Zigmantas Kaributas]]: Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas.
+- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176882|Zigmantas Liuksemburgietis]]: Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.
+- susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-114098|Žygimantas Kaributaitis]]: 1422 m. Vytautas išsiuntė savo sūnėną Žygimantą Kaributaitį į Prahą kaip čekų pageidaujamą valdovą.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173335|Žygimantas Senasis]]: Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-183855|Žygimantas Senasis]]: Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis.
+- susijęs iš [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje.md#claim-t-87080|Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]: Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis.
+- susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12318|Lietuvos pinigai]]: Vytauto laikais Jogailos ir Vytauto rūmuose kartais mokėta rubliais, o Lietuvoje kursavo ir buvo kalami čekų grašiai.
+- susijęs iš [[objektai/grupes/Čekų ir Silezijos savanoriai.md#claim-t-86838|Čekų ir Silezijos savanoriai]]: Čekų ir Silezijos savanorių vadai pateko į nelaisvę po nesėkmės brastoje per Šventosios upę ties Ukmerge.
+- susijęs iš [[objektai/grupes/Čekų karalystė.md#claim-t-187785|Čekų karalystė]]: Lietuvos metraštis Čekų karalystę vaizduoja teikusią didžią garbę šlovingajam valdovui.
+- susijęs iš [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją.md#claim-t-34539|Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]: Jogaila atsisakė čekų husitų siūlyto karališko vainiko, o Vytautas vėliau sutiko rūpintis jų reikalais.
+- susijęs iš [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.).md#claim-t-35843|Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]: Lietuvių santykiai su husitais baigėsi, kai Kaributas po derybų su popiežiumi buvo išvytas iš Čekijos.
+- susijęs iš Torno taika (1411 m.): Torno taika Žemaičius Lietuvai pripažino tik iki Vytauto ir Jogailos gyvos galvos, o ordinas turėjo sumokėti 100000 kapų čekų grašių.
+- susijęs iš [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.).md#claim-t-34521|Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]: 1426 m. rugpjūtį Vytautas su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą, bet miesto paimti nepavyko.
+- susijęs iš [[objektai/ivykiai/Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.).md#claim-t-185676|Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.)]]: Kojelavičius perteikia Jogailos atsakymą čekų pasiuntiniams, kad jis esą patenkintas Dievo duota valdžia ir netrokšta svetimų valdų.
+- susijęs iš [[objektai/ivykiai/Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.).md#claim-t-185677|Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.)]]: Vytautas ilgai dvejojo dėl čekų pasiūlymo priimti karaliaus vainiką, bet nuodugniau apsvarstęs padėtį jį atmetė.
+- susijęs iš [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.).md#claim-t-92951|Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]: Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą į Pragą savo vietininku.
+- susijęs iš [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.).md#claim-t-92953|Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]: Vytautas, nepaisydamas lenkų pasipriešinimo, sutiko priimti čekų karūną ir vėliau šio sumanymo atsisakė.
+- susijęs iš [[objektai/posakiai/Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.md#claim-t-185467|Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą]]: Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų nepalankumo sau ir žalos čekams.
+- susijęs iš [[objektai/posakiai/Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.md#claim-t-185468|Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą]]: Vytautas pareiškė įsakęs Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.
+- susijęs iš Vytauto raštas čekams husitams: Vytautas rašte čekams husitams teigė nerėmęs jų mokslo ir siūlė tarpininkauti tarp jų ir Zigmanto, jeigu jie atsisakytų erezijos.
+- susijęs iš Semba: Nusiaubus Sembą, buvo apsuptas neseniai čekų karaliaus Otokaro įkurtas Karaliaučiaus miestas.
+- susijęs iš Čekija: Vytautas galėjo įsikišti į husitų reikalus Čekijoje, kurią Zigmantas siekė paveldėti po Vaclovo mirties 1419 m.
 - susijęs iš [[objektai/asmenys/Abelis.md#claim-t-56962|Abelis]]: Dusburgietis pasakoja, kad Abelis nužudė savo brolį Henriką, siekdamas karaliauti jo vietoje.
 - susijęs iš [[objektai/asmenys/Abelis.md#claim-t-56963|Abelis]]: 1250 m. Abelis nužudė savo vyresnįjį brolį Danijos karalių Henriką, norėdamas užimti jo sostą, bet kitais metais jį nužudė frizai.
 - susijęs iš [[objektai/asmenys/Abelis.md#claim-t-56964|Abelis]]: Kitais metais Abelis žuvo nuo frizų ir taip nepasinaudojo savo piktadaryste.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176307|Algirdas (Lietuvos valdovas)]]: Algirdo ir Kęstučio laikais Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.
 - susijęs iš [[objektai/asmenys/Bajazitas.md#claim-t-40062|Bajazitas]]: Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (prancūzai, vengrai, vokiečiai, britai, italai, čekai ir kiti), kovoję be vieningos vadovybės, buvo sutriuškinti Osmanų imperijos sultono Bajazito kariuomenės.
 - susijęs iš [[objektai/asmenys/Boleslovas Maldingasis.md#claim-t-35039|Boleslovas Maldingasis]]: Boleslovo Maldingojo 1264 m. privilegijos buvo vienas iš pavyzdžių privilegijoms, pagal kurias žydai Lietuvoje gyveno ilgus šimtmečius.
 - susijęs iš [[objektai/asmenys/Enejas Silvijus Picolomini.md#claim-t-35060|Enejas Silvijus Picolomini]]: Enejas Silvijus Picolomini pasakojo, kad Vytauto valdiniai, bijodami jį supykinti, net patys ėjo kartis.
@@ -109,36 +190,23 @@ amziai:
 - susijęs iš [[objektai/asmenys/Jurgis (Maskvos kunigaikštis).md#claim-t-87738|Jurgis (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Jurgis kartu su savo dėde Švitrigaila išvengė sutriuškinimo po pralaimėjimo prie Ukmergės.
 - susijęs iš [[objektai/asmenys/Jurgis Lengvenaitis.md#claim-t-87743|Jurgis Lengvenaitis]]: Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės kartu su Švitrigaila išvengė sutriuškinimo.
 - susijęs iš [[objektai/asmenys/Karolis.md#claim-t-186124|Karolis]]: Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatorius, atvyko su moravais į kovą.
-- susijęs iš [[objektai/asmenys/Lada.md#claim-t-186231|Lada]]: Lada, čekų kilmės Krokuvos miestietis, bandė su šimtine pėstininkų nusigauti į Maskvą, bet pasienyje buvo sugautas.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184436|Martynas V]]: Martynas V keliais atvejais ragino Vytautą pasitraukti nuo husitų.
-- susijęs iš [[objektai/asmenys/Martynas iš Opavos.md#claim-t-60385|Martynas iš Opavos (arkivyskupas, XIII a.)]]: Martynas iš Opavos, čekų vienuolis, 1278 m. buvo paskirtas Gnezno arkivyskupu, bet mirė ten nenuvykęs.
 - susijęs iš [[objektai/asmenys/Otokaras (Čekijos karalius).md#claim-t-35259|Otokaras (Čekijos karalius)]]: Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje.
-- susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
 - susijęs iš [[objektai/asmenys/Rusdorfas.md#claim-t-113964|Rusdorfas]]: Magistrui Rusdorfui buvo rašyti Vytauto laiškai dėl Lietuvos karūnos, saugoti Kryžiuočių Slaptajame archyve Karaliaučiuje.
 - susijęs iš [[objektai/asmenys/Russdorfas.md#claim-t-35271|Russdorfas]]: Russdorfas buvo numatytos sąjungos su Vytautu ir Zigmantu dalyvis; ši sąjunga turėjo būti nukreipta prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Vaclovas (čekų kunigaikštis).md#claim-t-60455|Vaclovas (čekų kunigaikštis)]]: Dusburgiečio pasakojime šventas čekų kunigaikštis Vaclovas išpranašavo Danijos karaliaus Henriko nužudymą.
 - susijęs iš [[objektai/asmenys/Vaclovas Pragiečius.md#claim-t-34763|Vaclovas Pragiečius]]: Čekų karaliui Vaclovui įsikišus, tarp kariaujančių pusių buvo sudarytos vienų metų paliaubos.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176652|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Tų metų rugpjūtį Vytautas Didysis su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176660|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Žalgirio mūšio metu Vytautas Didysis pats vedė savo kariuomenę ir vadovavo visai sąjunginei kariuomenei.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176671|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1422 m. Vytautas į Prahą pasiuntė savo sūnėną Žygimantą Kaributaitį kaip čekų pageidaujamą valdovą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176730|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1422 m. Vytautas pasiuntė į Prahą savo sūnėną Žygimantą Kaributaitį kaip pageidaujamą valdovą.
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176850|Zbignievas Olesnickis]]: Krokuvos vyskupas Zbignievas Olesnickis buvo įtakingas karaliaus dvare ir priešinosi nepriklausomai Vytauto politikai.
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176852|Zbignievas Olesnickis]]: Krokuvos vyskupas Zbignievas Olesnickis karaliaus dvare įgijo daug įtakos ir buvo laikomas nepriklausomos Vytauto politikos priešininku.
 - susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-87381|Zigmantas (Romos imperatorius)]]: Imperatorius Zigmantas ir didysis magistras siekė nutraukti Lietuvos ir Lenkijos sąjungą, tačiau jų sumanymai žlugo.
 - susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176865|Zigmantas Kaributas]]: Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku.
-- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176867|Zigmantas Kaributas]]: Vytautas pasiuntė savo sūnėną Zigmantą Kaributą į Čekiją vietininku su keliolika tūkstančių kareivių.
 - susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176868|Zigmantas Kaributas]]: Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku.
-- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176869|Zigmantas Kaributas]]: Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas.
 - susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-184296|Zigmantas Kaributas]]: Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku.
-- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176882|Zigmantas Liuksemburgietis]]: Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179702|Švitrigaila]]: Švitrigaila su sūnėnu Maskvos kunigaikščiu Jurgiu išvengė sutriuškinimo po nesėkmės ties Ukmerge.
-- susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-114098|Žygimantas Kaributaitis]]: 1422 m. Vytautas išsiuntė savo sūnėną Žygimantą Kaributaitį į Prahą kaip čekų pageidaujamą valdovą.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173335|Žygimantas Senasis]]: Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-183855|Žygimantas Senasis]]: Žygimantas Senasis rėmė mokslus ir Vilniaus pilyje saugojo knygas lotynų, lenkų, rusų ir čekų kalbomis.
 - susijęs iš [[objektai/daiktai/Dryžuotos gūnios ir dovanos ant kupranugarių.md#claim-t-87109|Dryžuotos gūnios ir dovanos ant kupranugarių]]: Totorių chanas Jedigėjus Vytautui siųsdavo kupranugarius, apdengtus dryžuotomis gūniomis ir apkrautus dovanomis.
 - susijęs iš [[objektai/daiktai/Iždo ir pilių raktai.md#claim-t-64931|Iždo ir pilių raktai]]: Prahos gyventojai Kaributui įdavė miesto raktus ir pavedė jam karo vadovybę.
-- susijęs iš [[objektai/daiktai/Karaliaus Žygimanto Senojo knygos Vilniaus pilyje.md#claim-t-87080|Karaliaus Žygimanto Senojo knygos Vilniaus pilyje]]: Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis.
-- susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12318|Lietuvos pinigai]]: Vytauto laikais Jogailos ir Vytauto rūmuose kartais mokėta rubliais, o Lietuvoje kursavo ir buvo kalami čekų grašiai.
 - susijęs iš [[objektai/daiktai/Pragos miesto raktai.md#claim-t-35550|Pragos miesto raktai (miestas)]]: Pragos gyventojai iškilmingai sutiko Kaributą, įteikė jam miesto raktus ir pavedė karo vadovybę.
 - susijęs iš [[objektai/daiktai/Šv. Vaclovo karūna.md#claim-t-35569|Šv. Vaclovo karūna]]: Vytautas sutiko priimti čekų karūną ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą.
 - susijęs iš [[objektai/daiktai/Šv. Vaclovo karūna.md#claim-t-35570|Šv. Vaclovo karūna]]: Čekai pasiūlė Vytautui karūnuotis Čekijos karaliaus karūna.
@@ -158,25 +226,13 @@ amziai:
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171400|Totoriai]]: Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo jam turtingomis dovanomis apkrautus kupranugarius.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171430|Totoriai]]: Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo į Vilnių kupranugarius su turtingomis dovanomis.
 - susijęs iš [[objektai/grupes/Tverės ir Riazanės kunigaikščiai.md#claim-t-86772|Tverės ir Riazanės kunigaikščiai]]: 1430 m. Tverės ir Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
-- susijęs iš [[objektai/grupes/Čekų ir Silezijos savanoriai.md#claim-t-86838|Čekų ir Silezijos savanoriai]]: Čekų ir Silezijos savanorių vadai pateko į nelaisvę po nesėkmės brastoje per Šventosios upę ties Ukmerge.
-- susijęs iš [[objektai/grupes/Čekų karalystė.md#claim-t-187785|Čekų karalystė]]: Lietuvos metraštis Čekų karalystę vaizduoja teikusią didžią garbę šlovingajam valdovui.
-- susijęs iš [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją.md#claim-t-34539|Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]: Jogaila atsisakė čekų husitų siūlyto karališko vainiko, o Vytautas vėliau sutiko rūpintis jų reikalais.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.).md#claim-t-185602|Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]: Karalius, labiau troškęs taikos nei karo, sutiko su kryžiuočiais sudaryti paliaubas iki kitų metų birželio.
-- susijęs iš [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.).md#claim-t-35843|Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]: Lietuvių santykiai su husitais baigėsi, kai Kaributas po derybų su popiežiumi buvo išvytas iš Čekijos.
 - susijęs iš [[objektai/ivykiai/Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.).md#claim-t-185816|Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.)]]: 1421 m. Vytautas sušaukė Lietuvos luomų seimą ir, visiems pritariant, parūpino valstybinius raštus dėl Medininkų vyskupystės.
-- susijęs iš Torno taika (1411 m.): Torno taika Žemaičius Lietuvai pripažino tik iki Vytauto ir Jogailos gyvos galvos, o ordinas turėjo sumokėti 100000 kapų čekų grašių.
 - susijęs iš [[objektai/ivykiai/Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.).md#claim-t-34558|Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)]]: Įsikišus Čekijos karaliui Vaclovui, kariaujančios pusės sudarė vienerių metų paliaubas.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis į Pskovą ir Pskovo taika (1426 m.).md#claim-t-34521|Vytauto žygis į Pskovą ir Pskovo taika (1426 m.)]]: 1426 m. rugpjūtį Vytautas su lietuvių, lenkų, čekų ir totorių kariuomene užpuolė Pskovą, bet miesto paimti nepavyko.
 - susijęs iš [[objektai/ivykiai/Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.).md#claim-t-185675|Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.)]]: Čekai, tikėdamiesi Jogailos ir Vytauto paramos prieš imperatorių Zigmantą, pasiūlė jiems Čekijos karaliaus vainiką.
-- susijęs iš [[objektai/ivykiai/Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.).md#claim-t-185676|Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.)]]: Kojelavičius perteikia Jogailos atsakymą čekų pasiuntiniams, kad jis esą patenkintas Dievo duota valdžia ir netrokšta svetimų valdų.
-- susijęs iš [[objektai/ivykiai/Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.).md#claim-t-185677|Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.)]]: Vytautas ilgai dvejojo dėl čekų pasiūlymo priimti karaliaus vainiką, bet nuodugniau apsvarstęs padėtį jį atmetė.
-- susijęs iš [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.).md#claim-t-92951|Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]: Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą į Pragą savo vietininku.
 - susijęs iš [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.).md#claim-t-92952|Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]: 1420 m. husitai pasiūlė Jogailai šv. Vaclovo karūną, bet jis atsakė negalįs jos priimti nepasitaręs su Vytautu.
-- susijęs iš [[objektai/ivykiai/Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.).md#claim-t-92953|Šv. Vaclovo karūnos pasiūlymas Jogailai ir Vytauto sutikimas priimti čekų karūną (1420–1421 m.)]]: Vytautas, nepaisydamas lenkų pasipriešinimo, sutiko priimti čekų karūną ir vėliau šio sumanymo atsisakė.
 - susijęs iš [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika.md#claim-t-54230|Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]: Lietuvos Metrikos dokumentai laikomi svarbiausiu LDK istorijos šaltiniu.
 - susijęs iš [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime.md#claim-t-87169|Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]: 1422 m. Vilniui leista kartu su svarbiausiais karalystės miestais laiduoti sutartį su kryžiuočiais prie Osos upės.
-- susijęs iš [[objektai/posakiai/Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.md#claim-t-185467|Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą]]: Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų nepalankumo sau ir žalos čekams.
-- susijęs iš [[objektai/posakiai/Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.md#claim-t-185468|Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą]]: Vytautas pareiškė įsakęs Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.
 - susijęs iš [[objektai/posakiai/Tėve mūsų ir Tikiu Dievą.md#claim-t-35986|Tėve mūsų ir Tikiu Dievą]]: Jogaila išvertė į lietuvių kalbą maldas „Tėve mūsų“ ir „Tikiu Dievą“.
 - susijęs iš [[objektai/posakiai/in odium Sigismundi.md#claim-t-34391|in odium Sigismundi]]: Formulė „in odium Sigismundi“ aiškino Vytauto pagalbą husitams pykčiu Zigmantui, pripažinusiam Ordinui Žemaičius.
 - susijęs iš [[objektai/posakiai/senesnė ir garbingesnė, negu lenkų.md#claim-t-186887|senesnė ir garbingesnė, negu lenkų]]: Bychovco kronika Lietuvos bajorų kilmę ir garbę vaizduoja kaip viršesnę už lenkų.
@@ -188,7 +244,6 @@ amziai:
 - susijęs iš Vytauto laiškai magistrui Rusdorfui dėl Lietuvos karūnos: 1430 m. rugpjūtį Vytautas laiške magistrui Rusdorfui pranešė apie Maskvos ir Tverės kunigaikščių atvykimą į Lietuvą.
 - susijęs iš Vytauto laiškai popiežiui Martynui V: Vėlesniame laiške popiežiui Martynui V Vytautas teigė nenutraukiantis ryšių su Bažnyčia ir prašė sustabdyti kryžiaus karus.
 - susijęs iš Vytauto laiškai popiežiui Martynui V: Vytautas laiške popiežiui Martynui V teigė, kad Kaributo siuntimas yra kelias husitams grąžinti į katalikų Bažnyčią.
-- susijęs iš Vytauto raštas čekams husitams: Vytautas rašte čekams husitams teigė nerėmęs jų mokslo ir siūlė tarpininkauti tarp jų ir Zigmanto, jeigu jie atsisakytų erezijos.
 - susijęs iš Heilsbergas: Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
 - susijęs iš Karaliaučius: Nusiaubus Sembą, buvo apsuptas neseniai čekų karaliaus Otokaro įkurtas Karaliaučiaus miestas.
 - susijęs iš Karšuva: Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
@@ -205,14 +260,12 @@ amziai:
 - susijęs iš Roma: Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą.
 - susijęs iš Rusia Rusios žemės: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
 - susijęs iš Rusia: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
-- susijęs iš Semba: Nusiaubus Sembą, buvo apsuptas neseniai čekų karaliaus Otokaro įkurtas Karaliaučiaus miestas.
 - susijęs iš Ukmergė: Persekiojami priešininkai patyrė naują nesėkmę brastoje per Šventąją ties Ukmerge, kur daug jų kareivių nuskendo.
 - susijęs iš Ukmergė: Prie Šventosios brastos ties Ukmerge nugalėtojai persekiojo priešininką ir nuskandino daug jo kareivių.
 - susijęs iš Viktorijos upelis: Balińskis Viktorijos upelį apibūdino kaip mažą, bet vertą gražaus vardo.
 - susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Karalius Žygimantas savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.
 - susijęs iš Vilniaus pilys: Karalius Žygimantas savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.
 - susijęs iš Vilnius: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.
-- susijęs iš Čekija: Vytautas galėjo įsikišti į husitų reikalus Čekijoje, kurią Zigmantas siekė paveldėti po Vaclovo mirties 1419 m.
 - susijęs iš Žemaitija: Sudeginus Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
 - susijęs iš [[objektai/zodynas/atskala.md#claim-t-185347|atskala]]: Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdovą, daugiau neremti husitų atskalos.
 - susijęs iš [[objektai/zodynas/ekskomunika.md#claim-t-36780|ekskomunika]]: Vytautas prašė popiežiaus sustabdyti kryžiaus karus ir nuimti ekskomuniką, nes griežtos priemonės galėjo nepasiekti tikslo.
@@ -251,6 +304,16 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 304467-304831; hash=0e6eababf8293eb680c53929c66b0f6a9097b69482a2144f1bde8e7409743bae; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstancija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čekai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Konstancija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čekai" parinktas kaip owner_note_path. Targetas "Konstancija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-003
@@ -269,6 +332,16 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 304164-304466; hash=9a65bf474e7431560bab52e91e1c4a4c8398f88eea553c789f0af8236631e148; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čekai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čekai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -286,6 +359,16 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 342705-343228; hash=52cc2ff8fb4a6bf30713e05dcd40533da569fbf6700926c01d7916863e120f3b; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hinka iš Valdšteino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čekai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Hinka iš Valdšteino: mention_match, person, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čekai" parinktas kaip owner_note_path. Targetas "Hinka iš Valdšteino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-005
@@ -303,6 +386,16 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 654331-654713; hash=ae0b850a6a5a3c50d742ad7eb3a0124ec9178a55aff5f7f11d0e9675097cc9bf; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Husitai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čekai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Husitai: mention_match, group, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čekai" parinktas kaip owner_note_path. Targetas "Husitai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-006
@@ -337,6 +430,16 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 304327-304663; hash=bddea83fc34b7a6ae030e5336044331d0f572489fb74d4f386b3dc5e6a369be7; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Praga: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čekai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Praga: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čekai" parinktas kaip owner_note_path. Targetas "Praga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-006
 
 - c-007
@@ -353,7 +456,20 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 698471-699245; hash=fd17a9608fa6e8c9a5cf1b37ab4a2a16511d1d1448077f2803e12c0b2ff25e6f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čekai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čekai" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 699796-700048; hash=2fde76827256c747b8535fbb316cab146be23dac99da40f87df30fdf7f373342; match=exact
+  sprendimo_priezastis: auto
 
 ## Ryšiai
 - [[objektai/asmenys/Prokopas]] kariavo_pries Čekai

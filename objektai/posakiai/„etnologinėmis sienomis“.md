@@ -38,6 +38,16 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti perteklinį kablelį ir suformuluoti sklandesnį sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 295954-296571; hash=75fa7360c37ecd429704c6d4b1b7d9b67d273174955295de8bfded854b2367f1; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aleksandras Stulginskis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: „etnologinėmis sienomis“: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Aleksandras Stulginskis: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„etnologinėmis sienomis“" parinktas kaip owner_note_path. Targetas "Aleksandras Stulginskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-183491"></a>
 - t-002
@@ -53,6 +63,16 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi perteklinių fragmentų.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 295954-296571; hash=75fa7360c37ecd429704c6d4b1b7d9b67d273174955295de8bfded854b2367f1; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aleksandras Stulginskis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: „etnologinėmis sienomis“: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Aleksandras Stulginskis: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„etnologinėmis sienomis“" parinktas kaip owner_note_path. Targetas "Aleksandras Stulginskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -74,4 +94,24 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 295954-296571; hash=75fa7360c37ecd429704c6d4b1b7d9b67d273174955295de8bfded854b2367f1; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aleksandras Stulginskis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: „etnologinėmis sienomis“: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Aleksandras Stulginskis: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„etnologinėmis sienomis“" parinktas kaip owner_note_path. Targetas "Aleksandras Stulginskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 295954-296571; hash=75fa7360c37ecd429704c6d4b1b7d9b67d273174955295de8bfded854b2367f1; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aleksandras Stulginskis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: „etnologinėmis sienomis“: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Aleksandras Stulginskis: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„etnologinėmis sienomis“" parinktas kaip owner_note_path. Targetas "Aleksandras Stulginskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

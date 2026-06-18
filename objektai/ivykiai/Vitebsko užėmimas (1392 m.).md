@@ -45,12 +45,22 @@ Nenurodyta
   global_id: t-31488
   teiginys: 'Vytautas su Jogailos žinia ir kartu su Skirgaila 1392 m. paėmė Vitebską.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėjus, datą ir veiksmą, o citata tai patvirtina.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brianskas; mentioned_place: Naugardas; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_place: Vitebskas; mentioned_person: [[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brianskas; mentioned_place: Naugardas'
   temporaliniai_duomenys: 'įvykio data: 1392 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo veikėjus, datą ir veiksmą, o citata tai patvirtina.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9ec65edc7b3006b04e860e50316f3da687d486dfa462740ee6803e4b22ccafe7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vitebskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vitebsko užėmimas (1392 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Vitebskas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebsko užėmimas (1392 m.)" parinktas kaip owner_note_path. Targetas "Vitebskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -69,3 +79,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9ec65edc7b3006b04e860e50316f3da687d486dfa462740ee6803e4b22ccafe7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vitebskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vitebsko užėmimas (1392 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Vitebskas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitebsko užėmimas (1392 m.)" parinktas kaip owner_note_path. Targetas "Vitebskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

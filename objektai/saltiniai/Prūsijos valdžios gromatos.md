@@ -37,24 +37,44 @@ Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Pr�
   global_id: t-61002
   teiginys: 'Lietuviai prūsų kraštą vadino vardais Prūsai, Prūsa, Prūsų žemė ir sulotynintu vardu Prūsija.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytus Prūsijos vardus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Prūsų žemė'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Prūsų žemė'
   temporaliniai_duomenys: 'įvykio data: 1589 m.; įvykio data: 1639 m.; įvykio data: 1722 m.; įvykio data: 1739 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytus Prūsijos vardus.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 172296-172636; hash=9c37fdb72676b485488d46e15be101c6c93848cc3b5c5f1d2a470bc5b2427165; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsijos valdžios gromatos: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos valdžios gromatos" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-61003"></a>
 - t-002
   global_id: t-61003
   teiginys: '1737 m. „Prūsijos valdžios gromatose“ užfiksuotas valsčiaus termino vartojimas Prūsų žemės kontekste.'
   sudarymo_pagrindimas: 'Citata leidžia teigti apie termino vartojimą šiame šaltinyje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1387 m.; įvykio data: 1737 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia teigti apie termino vartojimą šiame šaltinyje.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 179079-179851; hash=87e8cc09ffdd1171d67d964f401c6fc4958d8874da52ecb14234d9ef99da0e99; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsijos valdžios gromatos: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos valdžios gromatos" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -90,4 +110,24 @@ Dusburgietis teigia, kad prūsų kraštą lietuviai vadino žodžiu Prūsai, Pr�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 179079-179851; hash=87e8cc09ffdd1171d67d964f401c6fc4958d8874da52ecb14234d9ef99da0e99; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsijos valdžios gromatos: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos valdžios gromatos" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 172296-172636; hash=9c37fdb72676b485488d46e15be101c6c93848cc3b5c5f1d2a470bc5b2427165; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsijos valdžios gromatos: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos valdžios gromatos" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

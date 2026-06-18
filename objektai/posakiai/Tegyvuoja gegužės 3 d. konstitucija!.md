@@ -26,6 +26,9 @@ Po šūkio „Tegyvuoja gegužės 3 d. konstitucija!“ užrašymo prasidėjo mo
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=56ed0449507b95b1efd995339d9a70a99afb08e1c964220e953f8bcabebd1af0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -44,3 +47,6 @@ Po šūkio „Tegyvuoja gegužės 3 d. konstitucija!“ užrašymo prasidėjo mo
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=56ed0449507b95b1efd995339d9a70a99afb08e1c964220e953f8bcabebd1af0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

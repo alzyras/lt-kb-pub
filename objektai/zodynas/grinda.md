@@ -26,6 +26,16 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 264933-265223; hash=d5b9a863b95577db55953585a706c64526fec422156a654048816f6b18bbfb3b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Malūnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: grinda: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Malūnas: mention_match, thing, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "grinda" parinktas kaip owner_note_path. Targetas "Malūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58849"></a>
 - t-002
@@ -35,6 +45,16 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
   susije_objektai: 'mentioned_place: Baiga'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 266426-266657; hash=76a380db831e21957a97f9db9080127074021ff626bb6babb8252a8388ef7265; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baiga: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: grinda: owner_note_path, thing
+  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "grinda" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -63,4 +83,24 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 266426-266657; hash=76a380db831e21957a97f9db9080127074021ff626bb6babb8252a8388ef7265; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baiga: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: grinda: owner_note_path, thing
+  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "grinda" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 264933-265223; hash=d5b9a863b95577db55953585a706c64526fec422156a654048816f6b18bbfb3b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Malūnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: grinda: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Malūnas: mention_match, thing, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "grinda" parinktas kaip owner_note_path. Targetas "Malūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

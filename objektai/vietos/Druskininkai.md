@@ -35,15 +35,15 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Estija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/daiktai/Vokiškas universalusis kulkosvaidis MG 42.md#claim-t-183689|Vokiškas universalusis kulkosvaidis MG 42]]: Vokiškas universalusis kulkosvaidis MG 42 naudojo 7,92x57 mm Mauser šovinius, svėrė 11,57 kg be trikojo ir šaudė 900–1500 šūvių per minutę.
 - susijęs iš [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga).md#claim-t-66461|Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]: Rugsėjo 23 d. lenkų divizijos perėjo tiltą per Nemuną Druskininkuose, o rugsėjo 28 d. lenkai užėmė Lydą ir puolė Varėnos kryptimi.
+- susijęs iš Vilniaus kraštas: Derybose su sovietais lietuviai siekė atgauti kelis lietuviškus Vilniaus krašto rajonus, tarp jų Švenčionis ir Druskininkus.
+- susijęs iš Švenčionys: 1939 m. derybose Lietuva siekė atgauti lietuviškus Vilniaus krašto rajonus, tarp jų Švenčionis ir Druskininkus.
+- susijęs iš [[objektai/daiktai/Vokiškas universalusis kulkosvaidis MG 42.md#claim-t-183689|Vokiškas universalusis kulkosvaidis MG 42]]: Vokiškas universalusis kulkosvaidis MG 42 naudojo 7,92x57 mm Mauser šovinius, svėrė 11,57 kg be trikojo ir šaudė 900–1500 šūvių per minutę.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66776|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Per Merkinės puolimą partizanai užėmė NKVD būstinę, paštą, valsčiaus ir milicijos įstaigas.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66777|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Druskininkų bataliono grupei nenutraukus ryšio linijų tarp Merkinės ir Druskininkų, sovietai susisiekė su Alytumi ir išsikvietė pagalbą.
 - susijęs iš Ežeronis: Projekte Lietuvos siena nuo Druskininkų turėjo eiti per Ežeronis ligi Volios.
 - susijęs iš Lazdijai: Spalio 1-2 d. lenkai netoli Lazdijų sumušė Lietuvos kariuomenės dalį.
-- susijęs iš Vilniaus kraštas: Derybose su sovietais lietuviai siekė atgauti kelis lietuviškus Vilniaus krašto rajonus, tarp jų Švenčionis ir Druskininkus.
 - susijęs iš Volia: Projekte Lietuvos siena nuo Druskininkų turėjo eiti per Ežeronis iki Volios, toliau Nemunu iki Beržūnės.
-- susijęs iš Švenčionys: 1939 m. derybose Lietuva siekė atgauti lietuviškus Vilniaus krašto rajonus, tarp jų Švenčionis ir Druskininkus.
 ## Reikšmingi paminėjimai
 
 - c-001

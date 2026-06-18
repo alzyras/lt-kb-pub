@@ -31,20 +31,26 @@ Taip pat du kartu (1292, 1294) ordino kariuomenė pasiekė Nemuno dešiniojo kra
   global_id: t-32157
   teiginys: '1292 ir 1294 m. Ordino kariuomenė nusiaubė Gaižuvos sritį prie Nemuno dešiniojo kranto tarp Dubysos ir Nevėžio.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Gaižuvos srities nusiaubimą ir vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dubysa; mentioned_place: Kymel; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Pačtuva; mentioned_place: Peštvė; mentioned_place: Vilkija'
+  susije_objektai: 'mentioned_place: Dubysa; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kymel; mentioned_place: Pačtuva; mentioned_place: Peštvė; mentioned_place: Vilkija'
   temporaliniai_duomenys: 'įvykio data: 1294 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Gaižuvos srities nusiaubimą ir vietą.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Bertoldas Briuhavenas.md#claim-t-186098|Bertoldas Briuhavenas]]: Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įrenginius, bet antpuolis buvo atremtas.
-- susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184679|Boleslovas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Boleslovas Viznoje laikė lietuvių įgulą, nors mozūrai ir kryžiuočiai tuo metu buvo sudarę sąjungą.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2f92eb69278c48de2a25e1990139d4ae51bd7015b1153bd682d6f569374721e8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dubysa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gaižuva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dubysa: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gaižuva" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas.md#claim-t-183910|1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]: Per 1294 m. žiemos Paštuvos ir Gaižuvos valsčių puolimą buvo nužudyta arba paimta į nelaisvę 100 žmonių, o kariuomenė grįžo su dideliu grobiu.
 - susijęs iš [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas.md#claim-t-62737|1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]: 1294 m. žiemą magistras padalijo kariuomenę į dvi dalis, kurios įsiveržė į Paštuvos ir Gaižuvos valsčius ir juos nusiaubė gaisrais.
 - susijęs iš [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas.md#claim-t-62738|1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]: Per 1294 m. žiemos žygį Paštuvos ir Gaižuvos valsčius puolusi kariuomenė vidurnaktį ginkluota perėjo Nemuną ledu.
 - susijęs iš [[objektai/ivykiai/Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.).md#claim-t-31410|Gaižuvos ir Pačtuvos sričių nusiaubimas (1292 ir 1294 m.)]]: 1292 ir 1294 m. ordino kariuomenė nusiaubė Gaižuvos ir prie Vilkijos buvusias Pačtuvos sritis.
-- susijęs iš [[objektai/ivykiai/Kymel pilies sunaikinimas (1295 m.).md#claim-t-31436|Kymel pilies sunaikinimas (1295 m.)]]: 1295 m. kryžiuočiai prie Nemuno sunaikino stiprią Kymel pilį.
 - susijęs iš [[objektai/ivykiai/Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis.md#claim-t-185754|Meinhardo žygis į Paštuvos ir Gaižuvos valsčius ir Jazbuto žūtis]]: Magistras Meinhardas su didesne kariauna įsiveržė į Lietuvą ir ugnimi nusiaubė Paštuvos bei Gaižuvos valsčius.
 - susijęs iš [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.).md#claim-t-66821|Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]: Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.
 - susijęs iš [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.).md#claim-t-66822|Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]: Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir niokojo juos gaisrais.
@@ -52,11 +58,15 @@ Taip pat du kartu (1292, 1294) ordino kariuomenė pasiekė Nemuno dešiniojo kra
 - susijęs iš Gaižuvos valsčius: 1294 m. žiemą viena Ordino kariuomenės dalis patraukė į Gaižuvos valsčių ir kartu su kita dalimi nusiaubė Gaižuvą bei Paštuvą.
 - susijęs iš Gaižuvos valsčius: Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir juos niokojo gaisrais.
 - susijęs iš Gaižuvos valsčius: 1294 m. žiemą magistras, atsisakęs žygio į Ariogalos valsčių, nukreipė dalį kariuomenės į Gaižuvos valsčių.
+- susijęs iš Paštuvos valsčius: 1294 m. žiemą magistras padalijo kariuomenę į dvi dalis, kurių viena įsiveržė į Paštuvos valsčių, o kita patraukė į Gaižuvos valsčių.
+- susijęs iš Paštuvos valsčius: 1294 m. žiemą Ragainės broliai su sembais įsiveržė į Paštuvos valsčių, o kita kariuomenės dalis patraukė į Gaižuvos valsčių.
+- susijęs iš [[objektai/asmenys/Bertoldas Briuhavenas.md#claim-t-186098|Bertoldas Briuhavenas]]: Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įrenginius, bet antpuolis buvo atremtas.
+- susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184679|Boleslovas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Boleslovas Viznoje laikė lietuvių įgulą, nors mozūrai ir kryžiuočiai tuo metu buvo sudarę sąjungą.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
+- susijęs iš [[objektai/ivykiai/Kymel pilies sunaikinimas (1295 m.).md#claim-t-31436|Kymel pilies sunaikinimas (1295 m.)]]: 1295 m. kryžiuočiai prie Nemuno sunaikino stiprią Kymel pilį.
 - susijęs iš Kymel: 1295 m. kryžiuočiai sunaikino prie Nemuno stovėjusią stiprią Kymel pilį.
 - susijęs iš Pačtuva: 1292 ir 1294 m. Ordino kariuomenė pasiekė Nemuno dešiniojo kranto sritis ir nusiaubė Pačtuvą prie Vilkijos.
 - susijęs iš Paštuvos valsčius: Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir niokojo juos gaisrais.
-- susijęs iš Paštuvos valsčius: 1294 m. žiemą magistras padalijo kariuomenę į dvi dalis, kurių viena įsiveržė į Paštuvos valsčių, o kita patraukė į Gaižuvos valsčių.
-- susijęs iš Paštuvos valsčius: 1294 m. žiemą Ragainės broliai su sembais įsiveržė į Paštuvos valsčių, o kita kariuomenės dalis patraukė į Gaižuvos valsčių.
 - susijęs iš Peštvė: Kryžiuočiai sudegino Peštvės priešpilį Seredžiuje prie Dubysos žiočių, o pati Peštvė du kartus pamečiui buvo apgulta.
 ## Reikšmingi paminėjimai
 
@@ -76,3 +86,13 @@ Taip pat du kartu (1292, 1294) ordino kariuomenė pasiekė Nemuno dešiniojo kra
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2f92eb69278c48de2a25e1990139d4ae51bd7015b1153bd682d6f569374721e8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dubysa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gaižuva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dubysa: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gaižuva" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

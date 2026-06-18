@@ -47,9 +47,19 @@ Nenurodyta
   teiginys: 'Vyteniui įsiveržus į Livoniją, Karaliaučiaus komtūras Bertoldas pasiuntė Henriko Cutsverto vadovaujamą kariuomenę į Lietuvą.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys nukreiptas į kontekstą, bet citata leidžia suformuluoti aiškų įvykio pagrindą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Pilėnai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Pilėnai'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 598311-599130; hash=e49cf284986d4467e01a3bd697bd6952dc884a938d6fcc1737aa3cf7818ab828; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=116
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-62886"></a>
 - t-002
@@ -57,10 +67,20 @@ Nenurodyta
   teiginys: 'Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir sužeistų krikščionių pasitraukė nepasiekęs tikslo.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir remiasi neaiškiu įvardžiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Henrikas Cutsvertas|Henrikas Cutsvertas]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Pilėnai'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Pilėnai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Henrikas Cutsvertas|Henrikas Cutsvertas]]; mentioned_place: Baiga; mentioned_place: Kulmas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a7cd9a02eb922ae55c36638f7d6def3782d4f4bda4c72302a154880f5f61b03c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -107,6 +127,46 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a7cd9a02eb922ae55c36638f7d6def3782d4f4bda4c72302a154880f5f61b03c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 598311-599130; hash=e49cf284986d4467e01a3bd697bd6952dc884a938d6fcc1737aa3cf7818ab828; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=116
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a7cd9a02eb922ae55c36638f7d6def3782d4f4bda4c72302a154880f5f61b03c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 598311-599130; hash=e49cf284986d4467e01a3bd697bd6952dc884a938d6fcc1737aa3cf7818ab828; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=116
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nesėkmingas Gardino pilies puolimas Vyteniui išvykus į Livoniją (1296 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

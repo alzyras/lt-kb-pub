@@ -43,6 +43,16 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 946830-947280; hash=66c1d0c65776afba108cf3681fa6b132c31c2d88c7c8a8e75ed770b094e4eba0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas Olbrachtas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jonas Olbrachtas: mention_match, person, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)" parinktas kaip owner_note_path. Targetas "Jonas Olbrachtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185578"></a>
 - t-002
@@ -52,13 +62,23 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys sugadintas OCR triukšmu ir nutrūkęs.'
-  susije_objektai: 'event: [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)|Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]]'
+  susije_objektai: 'event: [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)|Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]]'
   semantiniai_rysiai: '[[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]] dalyvavo mūšyje [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)|Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]'
   temporaliniai_duomenys: 'mūšio data: 1491 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Olbrachtas dalyvavo mūšyje Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys sugadintas OCR triukšmu ir nutrūkęs.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 947131-947672; hash=68895c244400fdeb58acbfd055051046c103b78a7129a7623687c01dfdbaff02; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: dalyvavo_musyje -> Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.): 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_event_participation
+  ryšio_subjekto_parinkimas: Jonas Olbrachtas: participant_match, person, gap=25
+  ryšio_targeto_parinkimas: Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.): event_owner_or_first_target, event, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_event_participation". Subjektas "Jonas Olbrachtas" parinktas kaip participant_match. Targetas "Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)" parinktas kaip event_owner_or_first_target aplink predikatą "dalyvavo_musyje". Patikimumą lėmė: single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185579"></a>
 - t-003
@@ -71,6 +91,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 947582-947927; hash=8a80ff7f1f67b4c7cff3c24cc46abed6ef4ee54c7fbbf0160ff2de8e9aea146f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vengrai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Vengrai: mention_match, group, gap=73
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)" parinktas kaip owner_note_path. Targetas "Vengrai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -129,6 +159,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 946830-947280; hash=66c1d0c65776afba108cf3681fa6b132c31c2d88c7c8a8e75ed770b094e4eba0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas Olbrachtas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jonas Olbrachtas: mention_match, person, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)" parinktas kaip owner_note_path. Targetas "Jonas Olbrachtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-003
@@ -146,7 +186,27 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 947131-947672; hash=68895c244400fdeb58acbfd055051046c103b78a7129a7623687c01dfdbaff02; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: dalyvavo_musyje -> Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.): 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_event_participation
+  ryšio_subjekto_parinkimas: Jonas Olbrachtas: participant_match, person, gap=25
+  ryšio_targeto_parinkimas: Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.): event_owner_or_first_target, event, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_event_participation". Subjektas "Jonas Olbrachtas" parinktas kaip participant_match. Targetas "Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)" parinktas kaip event_owner_or_first_target aplink predikatą "dalyvavo_musyje". Patikimumą lėmė: single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 947582-947927; hash=8a80ff7f1f67b4c7cff3c24cc46abed6ef4ee54c7fbbf0160ff2de8e9aea146f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vengrai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Vengrai: mention_match, group, gap=73
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)" parinktas kaip owner_note_path. Targetas "Vengrai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/asmenys/Jonas Olbrachtas]] dalyvavo_musyje Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)

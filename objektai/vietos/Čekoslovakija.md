@@ -35,11 +35,21 @@ S-gą suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo padaryt
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau perteikti citatoje minimą sutarties pobūdį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=357802662d9edda5ba875e8e946a8a7e030f4607b87031c3bd5eaf72777f5213; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Estija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čekoslovakija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Estija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čekoslovakija" parinktas kaip owner_note_path. Targetas "Estija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Kauno IX fortas: Kauno IX forte sušaudyta apie 6–8 tūkst. žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos.
 - susijęs iš [[objektai/asmenys/V. Leninas.md#claim-t-19295|V. Leninas]]: Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.
 - susijęs iš [[objektai/asmenys/Vladimiras Leninas.md#claim-t-64247|Vladimiras Leninas]]: Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie Vladimirą Leniną.
 - susijęs iš [[objektai/grupes/Lietuvių policijos savisaugos batalionai.md#claim-t-19813|Lietuvių policijos savisaugos batalionai]]: Dalis lietuvių policijos savisaugos batalionų buvo panaudota akcijose prieš civilius Baltarusijoje, Lenkijoje ir Ukrainoje.
 - susijęs iš [[objektai/ivykiai/Lietuvos priėmimas į Tautų Sąjungą (1921 m. rugsėjo 22 d.).md#claim-t-01734|Lietuvos priėmimas į Tautų Sąjungą (1921 m. rugsėjo 22 d.)]]: 1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą ir įėjo lygiomis teisėmis į pasaulio valstybių draugiją.
-- susijęs iš Kauno IX fortas: Kauno IX forte sušaudyta apie 6–8 tūkst. žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,3 +73,13 @@ S-gą suvaržyti pasižadėjimais saugoti mažumų teises, kaip tat buvo padaryt
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=357802662d9edda5ba875e8e946a8a7e030f4607b87031c3bd5eaf72777f5213; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Estija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čekoslovakija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Estija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čekoslovakija" parinktas kaip owner_note_path. Targetas "Estija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

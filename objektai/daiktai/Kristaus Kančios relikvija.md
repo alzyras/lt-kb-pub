@@ -51,6 +51,16 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=da6c4d1a44936db538bbbb4a1399c0a96ed616fb0ef1bc2657aa95e5a1599553; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristaus Kančios relikvija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristaus Kančios relikvija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-186860"></a>
 - t-002
@@ -60,6 +70,16 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=88532115cda4ec25557ff07738f47f2255f35b730ec74207d6f0b63bd7d1a242; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
+  ryšio_patikimumas: susije_su -> Maskva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristaus Kančios relikvija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristaus Kančios relikvija" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-186861"></a>
 - t-003
@@ -70,6 +90,16 @@ Nenurodyta
   susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_place: Lenkija; mentioned_place: Sandomiras; mentioned_place: Volynė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f36ee6883b276e8c5145d08656116dc220366b2efed9d7873e97b41d198b73f8; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
+  ryšio_patikimumas: susije_su -> Dlugošas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristaus Kančios relikvija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristaus Kančios relikvija" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -108,6 +138,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f36ee6883b276e8c5145d08656116dc220366b2efed9d7873e97b41d198b73f8; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
+  ryšio_patikimumas: susije_su -> Dlugošas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristaus Kančios relikvija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristaus Kančios relikvija" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-003
@@ -126,4 +166,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=88532115cda4ec25557ff07738f47f2255f35b730ec74207d6f0b63bd7d1a242; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
+  ryšio_patikimumas: susije_su -> Maskva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristaus Kančios relikvija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristaus Kančios relikvija" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=da6c4d1a44936db538bbbb4a1399c0a96ed616fb0ef1bc2657aa95e5a1599553; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristaus Kančios relikvija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristaus Kančios relikvija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

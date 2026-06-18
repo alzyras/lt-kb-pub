@@ -34,9 +34,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Jazbuto veiksmą, pralaimėjimą ir vietą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Aukaimis; mentioned_place: Baiga; mentioned_place: Lenkija; mentioned_place: Narevas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Lenkija; mentioned_place: Narevas; mentioned_place: Aukaimis; mentioned_place: Baiga'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 280506-281145; hash=d608449f8bce6e2a0f40fda65cd2a2a34e74a47b3f48c6b391d3693cac47f321; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jazbutas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jazbuto pralaimėjimas tarp Alnos ir Narevo upių: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jazbutas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jazbuto pralaimėjimas tarp Alnos ir Narevo upių" parinktas kaip owner_note_path. Targetas "Jazbutas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -65,3 +75,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 280506-281145; hash=d608449f8bce6e2a0f40fda65cd2a2a34e74a47b3f48c6b391d3693cac47f321; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jazbutas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jazbuto pralaimėjimas tarp Alnos ir Narevo upių: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jazbutas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jazbuto pralaimėjimas tarp Alnos ir Narevo upių" parinktas kaip owner_note_path. Targetas "Jazbutas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

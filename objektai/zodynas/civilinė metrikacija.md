@@ -35,6 +35,9 @@ Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civili
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir apkrautas kitais su civiline metrikacija nesusijusiais faktais.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 312095-312725; hash=5b16c5aae214e66c565542c53b3105376c220b9245433793d51774e1d50bf39b; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -57,3 +60,6 @@ Naujoji valdžia, taupydama lėšas, mažino atlyginimus, planavo įvesti civili
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 312095-312725; hash=5b16c5aae214e66c565542c53b3105376c220b9245433793d51774e1d50bf39b; match=whitespace_regex
+  sprendimo_priezastis: auto

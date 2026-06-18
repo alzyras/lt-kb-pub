@@ -33,6 +33,16 @@ Dusburgietis teigia, kad włodarski В.
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia straipsnio pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 803786-803904; hash=35fb517f9b50216b1cda28b28279838ba93c022b734992eb0ffd249ad6408eba; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Torunė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Włodarski В. Problem jaćwiński w stosunkach polsko-ruskich: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Torunė: mention_match, place, gap=81
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Włodarski В. Problem jaćwiński w stosunkach polsko-ruskich" parinktas kaip owner_note_path. Targetas "Torunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +57,13 @@ Dusburgietis teigia, kad włodarski В.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 803786-803904; hash=35fb517f9b50216b1cda28b28279838ba93c022b734992eb0ffd249ad6408eba; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Torunė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Włodarski В. Problem jaćwiński w stosunkach polsko-ruskich: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Torunė: mention_match, place, gap=81
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Włodarski В. Problem jaćwiński w stosunkach polsko-ruskich" parinktas kaip owner_note_path. Targetas "Torunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

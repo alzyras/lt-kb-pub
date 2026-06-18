@@ -38,9 +38,19 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
   global_id: t-68858
   teiginys: 'Broliai su kariuomene patraukė prieš Pabečių valsčių, nusiaubė Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi nutrūkusią pabaigą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Dramenava; mentioned_place: Kvedenava; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Dramenava; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Kvedenava; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6a41dd4a3f10e5aee4d66660c1aa187cb6985e3ccb8324f74cf9ffef5bb668e1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuršiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pabečiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kuršiai: mention_match, group, gap=75
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pabečiai" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-68860"></a>
 - t-002
@@ -50,6 +60,16 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Semba'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6d68037e7ef13f1cceb03896f1134f777fd5e94dbde82f5c4fe2cec3dfb47b6c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kvedenava: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pabečiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kvedenava: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pabečiai" parinktas kaip owner_note_path. Targetas "Kvedenava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-68861"></a>
 - t-003
@@ -59,15 +79,15 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Bansas.md#claim-t-60089|Bansas]]: Bansas, Pabečių valsčiaus kamerarijus, buvo kaltinamas sukurstęs prūsus atsimesti nuo krikščionybės.
-- susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89912|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis su broliais įsiveržė į Pagudės žemę, ją nusiaubė, apiplėšė ir išsivarė moteris bei vaikus į nelaisvę.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179301|Lietuviai]]: 1283 m. žiemą 800 raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
 - susijęs iš [[objektai/ivykiai/1283 m. žiemos lietuvių antpuolis Sembos žemėje.md#claim-t-62736|1283 m. žiemos lietuvių antpuolis Sembos žemėje]]: 1283 m. žiemą 800 lietuvių raitelių per Kuršių neriją įsiveržė į Sembą, nusiaubė Abendos ir Pabečių valsčius, nužudė 150 krikščionių ir grįžo be pasipriešinimo.
+- susijęs iš Abenda: 1283 m. žiemą Lietuvos raiteliai įsiveržė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
+- susijęs iš Dramenava: Dramenava, vėliau vadinta Drebnau, buvo kaimas į pietus nuo Pabečių.
+- susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89912|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis su broliais įsiveržė į Pagudės žemę, ją nusiaubė, apiplėšė ir išsivarė moteris bei vaikus į nelaisvę.
 - susijęs iš [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas.md#claim-t-89360|Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]: Broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių, bet grįžtančius juos užpuolė sembai.
 - susijęs iš Abenda: Manoma, kad Abendos vardas galėjęs būti Betin, t.
-- susijęs iš Abenda: 1283 m. žiemą Lietuvos raiteliai įsiveržė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
 - susijęs iš Dramenava: Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė belaisvių ir išžudė daug žmonių.
 - susijęs iš Dramenava: Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą ir grįžo su dideliu grobiu.
-- susijęs iš Dramenava: Dramenava, vėliau vadinta Drebnau, buvo kaimas į pietus nuo Pabečių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -87,6 +107,16 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6a41dd4a3f10e5aee4d66660c1aa187cb6985e3ccb8324f74cf9ffef5bb668e1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuršiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pabečiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kuršiai: mention_match, group, gap=75
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pabečiai" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-002
@@ -101,3 +131,13 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6d68037e7ef13f1cceb03896f1134f777fd5e94dbde82f5c4fe2cec3dfb47b6c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kvedenava: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pabečiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kvedenava: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pabečiai" parinktas kaip owner_note_path. Targetas "Kvedenava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

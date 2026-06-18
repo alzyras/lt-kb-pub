@@ -33,6 +33,16 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Noliubas|Noliubas]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 388279-389399; hash=3ae508129bbeaf3666665fd9772eb0ccb900f1923ef5828a165b348426ba63b8; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prakeiktasis Noliube, eik dabar ir būk valkata: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prakeiktasis Noliube, eik dabar ir būk valkata" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-89602"></a>
 - t-002
@@ -42,6 +52,16 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Vargulis|Vargulis]]; mentioned_place: Kvedenava; mentioned_place: Sklunija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 389207-389680; hash=8bc5aeffc64b7196cc9ce18fa095a1c9f005cf8cc57ac2c8646faacd9260a8ed; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Noliubas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prakeiktasis Noliube, eik dabar ir būk valkata: owner_note_path, thing
+  ryšio_targeto_parinkimas: Noliubas: mention_match, person, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prakeiktasis Noliube, eik dabar ir būk valkata" parinktas kaip owner_note_path. Targetas "Noliubas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89603"></a>
 - t-003
@@ -51,6 +71,16 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Noliubas|Noliubas]]; mentioned_person: [[objektai/asmenys/Vargulis|Vargulis]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 389207-389680; hash=8bc5aeffc64b7196cc9ce18fa095a1c9f005cf8cc57ac2c8646faacd9260a8ed; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Noliubas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prakeiktasis Noliube, eik dabar ir būk valkata: owner_note_path, thing
+  ryšio_targeto_parinkimas: Noliubas: mention_match, person, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prakeiktasis Noliube, eik dabar ir būk valkata" parinktas kaip owner_note_path. Targetas "Noliubas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -95,5 +125,35 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 389207-389680; hash=8bc5aeffc64b7196cc9ce18fa095a1c9f005cf8cc57ac2c8646faacd9260a8ed; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Noliubas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prakeiktasis Noliube, eik dabar ir būk valkata: owner_note_path, thing
+  ryšio_targeto_parinkimas: Noliubas: mention_match, person, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prakeiktasis Noliube, eik dabar ir būk valkata" parinktas kaip owner_note_path. Targetas "Noliubas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 389207-389680; hash=8bc5aeffc64b7196cc9ce18fa095a1c9f005cf8cc57ac2c8646faacd9260a8ed; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Noliubas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prakeiktasis Noliube, eik dabar ir būk valkata: owner_note_path, thing
+  ryšio_targeto_parinkimas: Noliubas: mention_match, person, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prakeiktasis Noliube, eik dabar ir būk valkata" parinktas kaip owner_note_path. Targetas "Noliubas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 388279-389399; hash=3ae508129bbeaf3666665fd9772eb0ccb900f1923ef5828a165b348426ba63b8; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prakeiktasis Noliube, eik dabar ir būk valkata: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prakeiktasis Noliube, eik dabar ir būk valkata" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

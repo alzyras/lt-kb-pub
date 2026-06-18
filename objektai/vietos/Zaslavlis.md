@@ -32,7 +32,7 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   global_id: t-172045
   teiginys: 'Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno.'
   sudarymo_pagrindimas: 'Sakinys pataisytas, kad aiškiai įvardytų veikėją ir pašalintų neapibrėžtą nuorodą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Viena'
+  susije_objektai: 'territory: Lietuva; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -44,7 +44,7 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Zaslavlį ir atitinka citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Pinskas; mentioned_place: Podolė; mentioned_place: Polesė; mentioned_place: Turovas; mentioned_place: Volinija'
+  susije_objektai: 'mentioned_place: Podolė; mentioned_place: Volinija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Pinskas; mentioned_place: Polesė; mentioned_place: Turovas'
   pagrindžia:
     - c-002
 
@@ -56,14 +56,24 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus geografinis faktas, tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Maskva; mentioned_place: Minskas'
+  susije_objektai: 'mentioned_place: Minskas; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1366 m.; įvykio data: apie 1366 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus geografinis faktas, tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184664|Algirdas (Lietuvos valdovas)]]: Kęstutis ir Algirdas sutarė, kad Algirdas gaus didžiojo kunigaikščio titulą, o kitą valdžią jie dalysis lygiomis.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 392030-392405; hash=0576afafa9d6b8870cecb49447a2a532fa341368c39b04decf325aab48c21977; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Minskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zaslavlis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Minskas: mention_match, place, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zaslavlis" parinktas kaip owner_note_path. Targetas "Minskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184664|Algirdas (Lietuvos valdovas)]]: Kęstutis ir Algirdas sutarė, kad Algirdas gaus didžiojo kunigaikščio titulą, o kitą valdžią jie dalysis lygiomis.
 - susijęs iš Luckas: Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke.
 - susijęs iš Minskas: Rytiniame lietuvių etnografinės sienos pakraštyje Minskas minimas tarp paskutinių rytinių slavų pilių.
 - susijęs iš Polesė: Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus.
@@ -146,3 +156,13 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
   statusas: verified
   pagrindžia:
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 392030-392405; hash=0576afafa9d6b8870cecb49447a2a532fa341368c39b04decf325aab48c21977; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Minskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zaslavlis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Minskas: mention_match, place, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zaslavlis" parinktas kaip owner_note_path. Targetas "Minskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

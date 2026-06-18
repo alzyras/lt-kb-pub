@@ -38,7 +38,7 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   global_id: t-95147
   teiginys: 'Vytauto laikais Ryga buvo vienas iš prekybos centrų, buvusių netoli Lietuvos.'
   sudarymo_pagrindimas: 'Pirminis tekstas buvo tik sąrašo fragmentas, citata palaiko pilną sakinį.'
-  susije_objektai: 'mentioned_place: Dauguva; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Dauguva'
   temporaliniai_duomenys: 'įvykio data: 1621 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis tekstas buvo tik sąrašo fragmentas, citata palaiko pilną sakinį.'
@@ -113,6 +113,9 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   sudarymo_pagrindimas: 'Sutvarkyta gramatika, OCR triukšmas ir išlaikyti citatos faktai.'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c992f060b5099e4b5c34397759124e15908489f2ad141a283f117f0fdb3dc0fb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-95159"></a>
 - t-009
@@ -125,6 +128,24 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   temporalinis_llm_pakomentavimas: 'Pašalintas konteksto fragmentiškumas ir paliktas citata paremtas faktas apie Rygą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 346536-346949; hash=6bf8240b7d87a16e509f40d837d81981b967f8be879ea3e51e9f61ded5233b48; match=exact
+  sprendimo_priezastis: auto
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176835|Vytenis]]: XIII a. pabaigoje ir XIV a. pradžioje Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178830|Kryžiuočių ordinas]]: Popiežiaus rūmuose Avinjone buvo svarstomi Kryžiuočių ordino santykiai su Lenkija, Ryga ir Lietuvos valdovu.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179377|Livonijos ordinas]]: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku.
+- susijęs iš [[objektai/ivykiai/Livonijos karai.md#claim-t-45427|Livonijos karai]]: Livonijos karuose 1558–1583 m. Lietuva ir Lenkija gavo didžiąją Livonijos dalį kartu su Ryga.
+- susijęs iš [[objektai/ivykiai/Rygos atitekimas švedams (1621 m.).md#claim-t-01794|Rygos atitekimas švedams (1621 m.)]]: 1621 m. Rygai atitekus švedams, Lietuvos laisvajai prekybai užsidarė Dauguvos kelias per Rygą.
+- susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103835|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga.
+- susijęs iš [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną.md#claim-t-62691|Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]: Vytenio valdymo metu Lietuva su Ryga kariavo ir diplomatiškai veikė prieš Ordiną, siekdama pralaužti ekonominę blokadą.
+- susijęs iš Latgala: Štumdorfo taika Lietuvai ir Lenkijai grąžino tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai.
+- susijęs iš Livonija: 1629 m. Altmarko paliaubomis Livonija anapus Dauguvos su Ryga buvo palikta švedams.
+- susijęs iš Livonija: Štumdorfo taika grąžino Lietuvai ir Lenkijai tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai.
+- susijęs iš Livonija: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio žemės danų vietininku.
+- susijęs iš Rundborgas: Rundborgas minimas tarp Livonijos pilių kartu su Kokenhauzenu, Diunamunde, Ryga ir Šmetene.
+- susijęs iš Vilnius: 1323 m. Gediminas gyveno Vilniuje, iš čia rašė laiškus ir derėjosi su Ryga bei Ordinu, o Vilnius tapo nuolatine Lietuvos sostine.
+- susijęs iš Vilnius: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, danų vietininku, Livonijos ordinu ir Ryga.
+- susijęs iš [[objektai/zodynas/tautiška politika.md#claim-t-72768|tautiška politika]]: Vytenis, vykdydamas tautišką politiką prieš Ordiną, sudarė sąjungą su Ryga ir Rygos arkivyskupu.
 - susijęs iš [[objektai/asmenys/Albertas (Rygos vyskupas).md#claim-t-09984|Albertas (Rygos vyskupas)]]: Rygos vyskupas Albertas nugalėjo Visvaldį.
 - susijęs iš [[objektai/asmenys/Albertas.md#claim-t-78932|Albertas]]: Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176302|Algirdas (Lietuvos valdovas)]]: Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą.
@@ -206,7 +227,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79220|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/asmenys/Vytenis (Lietuvos karalius).md#claim-t-39419|Vytenis (Lietuvos karalius)]]: 1311 m. per Užgavėnes Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176835|Vytenis]]: XIII a. pabaigoje ir XIV a. pradžioje Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176838|Vytenis]]: XIII a. pabaigoje ir XIV a. pradžioje Vytenis bandė pasinaudoti Livonijos vidaus prieštaravimais.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176839|Vytenis]]: Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179696|Švitrigaila]]: Didysis magistras apstatė Švitrigailą savo parankiniais, siekdamas silpninti Lietuvos ir Lenkijos vienybę.
@@ -243,7 +263,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - susijęs iš [[objektai/grupes/Husitai.md#claim-t-172100|Husitai]]: Popiežius draudė Vytautui siųsti Kaributą ir grasė paskelbti Lietuvai kryžiaus žygį, jei jis nenutrauks ryšių su husitais.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184564|Kalavijuočių ordinas]]: Livonijos ordino ir Lietuvos sutaikymą bandė tarpininkauti Rygos vyskupas Fridrichas, pasitelkęs popiežiaus Jono XXII autoritetą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178789|Kryžiuočių ordinas]]: Balińskis teigė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus, siekdamas apšmeižti Kryžiuočių ordiną.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178830|Kryžiuočių ordinas]]: Popiežiaus rūmuose Avinjone buvo svarstomi Kryžiuočių ordino santykiai su Lenkija, Ryga ir Lietuvos valdovu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178855|Kryžiuočių ordinas]]: Gedimino laiške teigta, kad Vytenis prašė atsiųsti minoritų, bet Ordinas, tai sužinojęs, pasiuntė ginkluotą būrį sudeginti bažnyčios.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178859|Kryžiuočių ordinas]]: Balińskis rašė, kad Švitrigailos laikais Kryžiuočių ordinas turėjo itin didelę įtaką Lietuvos reikalams.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178866|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo paplitusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
@@ -271,7 +290,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - susijęs iš [[objektai/grupes/Livonijos konfederacija.md#claim-t-41065|Livonijos konfederacija]]: 1561 m. sutartimi su LDK Livonijos konfederacija buvo panaikinta, o didesnė Livonijos dalis tapo Lietuvos dalimi.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179351|Livonijos ordinas]]: 1418 m. rugpjūčio 11 d. Livonijos ordino magistras iš Rygos rašė laišką Prūsijos magistrui.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179368|Livonijos ordinas]]: Livonijos ordinas nebenorėjo paklusti Rygos arkivyskupui, pas kurį krikštijosi Tautvilas.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179377|Livonijos ordinas]]: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179388|Livonijos ordinas]]: Gedimino vardu rašytų laiškų klastojimas citatoje siejamas su Rygos arkivyskupo ir Livonijos ordino brolių konfliktu.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179398|Livonijos ordinas]]: Taikos sutartyje Livonijos ordino pusėje buvo minimi tarpininkai, tarp jų Rygos arkivyskupas, kapitula ir miesto atstovai.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179420|Livonijos ordinas]]: Taikos sutartyje iš Livonijos ordino atstovų paminėti tik Mintaujos komtūras Jonas de Lovenbinkė ir brolis Otto iš Eželio.
@@ -307,7 +325,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - susijęs iš [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.).md#claim-t-28779|Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]: Specialiu raštu panaikindamas Rygos arkivyskupo jurisdikciją Lietuvai, Inocentas IV Mindaugui pranešė apie Lietuvos vyskupijos išskyrimą iš kaimyninės metropolito jurisdikcijos.
 - susijęs iš [[objektai/ivykiai/Lietuvių žygis į Dobrynę ir Kulmo kraštą (1300-1301 m.).md#claim-t-185608|Lietuvių žygis į Dobrynę ir Kulmo kraštą (1300-1301 m.)]]: Šeši tūkstančiai lietuvių karių iš Livonijos staigiai įsiveržė į Dobrynę ir nuniokojo visą kraštą.
 - susijęs iš [[objektai/ivykiai/Lietuvos pasiuntinių derybos Rygoje (1298 m.).md#claim-t-31447|Lietuvos pasiuntinių derybos Rygoje (1298 m.)]]: 1298 m. į Rygą atvykę Lietuvos pasiuntiniai pareiškė, kad lietuviai nori jungtis su krikščionimis ir krikštytis.
-- susijęs iš [[objektai/ivykiai/Livonijos karai.md#claim-t-45427|Livonijos karai]]: Livonijos karuose 1558–1583 m. Lietuva ir Lenkija gavo didžiąją Livonijos dalį kartu su Ryga.
 - susijęs iš [[objektai/ivykiai/Livonijos žemės atvertimas į tikėjimą (1204 m.).md#claim-t-62381|Livonijos žemės atvertimas į tikėjimą (1204 m.)]]: 1204 m. Livonija, Rygos provincijos žemė, popiežiaus Inocento rūpesčiu buvo atversta į Kristaus tikėjimą.
 - susijęs iš [[objektai/ivykiai/Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia).md#claim-t-71756|Mindaugo ir Livonijos ordino taika bei Mindaugo krikštas (1250 m. gale – 1251 m. pradžia)]]: Mindaugas susitaikė su Livonijos ordino magistru Andriumi von Stirland, kuris su juo padarė taiką ir skatino krikštytis.
 - susijęs iš [[objektai/ivykiai/Mūšis prie Treiderės upės (1298 m. birželio 1 d.).md#claim-t-62880|Mūšis prie Treiderės upės (1298 m. birželio 1 d.)]]: 1298 m. birželio 1 d. prie Treiderės upės Vytenis nugalėjo Livonijos magistrą Brunoną, nukovęs magistrą, 22 brolius ir 1500 krikščionių.
@@ -321,13 +338,11 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - susijęs iš [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.).md#claim-t-97035|Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]: Kryžiuočiai kliudė Lietuvai užmegzti ryšius su krikščioniškomis valstybėmis, laikydami lietuvių krikštijimą savo monopoline teise.
 - susijęs iš [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.).md#claim-t-97036|Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]: 1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas paskelbė Ordinui interdiktą už Lietuvos krikšto sutrukdymą.
 - susijęs iš [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.).md#claim-t-97037|Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]: Atidėjus krikšto klausimą, Gediminui svarbiausia liko naujai sudaryta taika.
-- susijęs iš [[objektai/ivykiai/Rygos atitekimas švedams (1621 m.).md#claim-t-01794|Rygos atitekimas švedams (1621 m.)]]: 1621 m. Rygai atitekus švedams, Lietuvos laisvajai prekybai užsidarė Dauguvos kelias per Rygą.
 - susijęs iš [[objektai/ivykiai/Rygos ir Polocko pirklių laisvos prekybos sutartis (1405–1406 m.).md#claim-t-34554|Rygos ir Polocko pirklių laisvos prekybos sutartis (1405–1406 m.)]]: 1405 m. Rygoje Rygos ir Polocko pirkliai sudarė sutartį laisvai prekiauti net kilus karui tarp Livonijos ordino ir Vytauto.
 - susijęs iš [[objektai/ivykiai/Rygos sąjungininkų įsiveržimas į Livoniją ir pralaimėjimas prie Dobės (1305 m.).md#claim-t-31474|Rygos sąjungininkų įsiveržimas į Livoniją ir pralaimėjimas prie Dobės (1305 m.)]]: 1305 m. lietuviai kaip Rygos sąjungininkai įsiveržė į Livoniją, pralaimėjo prie Dobės, bet karo veiksmus tęsė iki 1307 m. vasaros.
 - susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-186374|Salaspilio (Kircholmo) mūšis (1605 m.)]]: 1605 m. prie Kirchholmo netoli Rygos Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų.
 - susijęs iš [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale).md#claim-t-97044|Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]: Išvykdami iš Livonijos popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, tikėdamiesi jo krikšto.
 - susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103829|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: Kryžiuočių ordinas siekė sužlugdyti 1323 m. spalio 2 d. Vilniaus taiką ir 1324 m. tęsė puolimus prieš Lietuvos žemes.
-- susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103835|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga.
 - susijęs iš [[objektai/ivykiai/Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.).md#claim-t-35898|Vilniaus užėmimas ir Vytauto bandymas jį atsiimti (1382 m. birželio 12 d.)]]: 1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių, šalininkų remiamas jį paėmė, o Rygos pirklys Hanulo įteikė jam pilies raktus.
 - susijęs iš [[objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.).md#claim-t-62953|Vytenio užimta Karkuso pilis (1298 m.)]]: 1298 m. Rygos miestiečių pakviestas Lietuvos karalius Vytenis užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes.
 - susijęs iš [[objektai/ivykiai/Šiaurės karas.md#claim-t-20574|Šiaurės karas]]: Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.
@@ -338,7 +353,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - susijęs iš [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skaitymas ir svarstymas miesto institucijose.md#claim-t-87206|Gedimino vardu rašytų laiškų viešas skaitymas ir svarstymas miesto institucijose]]: 1323 m. liepos 18 d. Liubeko rotušėje Gedimino vardu rašyti laiškai buvo perskaityti ir aptarti miesto tarybos aplinkoje.
 - susijęs iš [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas.md#claim-t-87158|Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas]]: Jerošino teigimu, Rygos arkivyskupas ir miestiečiai pajūrio miestuose bei popiežiui platino žinią, kad Gediminas norėjęs krikštytis.
 - susijęs iš [[objektai/paprociai/Kolonistų vadovavimasis Rygos miesto civiline teise.md#claim-t-87244|Kolonistų vadovavimasis Rygos miesto civiline teise]]: Gediminas laiške pranešė, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise, kol bus sukurti geresni įstatymai.
-- susijęs iš [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną.md#claim-t-62691|Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]: Vytenio valdymo metu Lietuva su Ryga kariavo ir diplomatiškai veikė prieš Ordiną, siekdama pralaužti ekonominę blokadą.
 - susijęs iš [[objektai/paprociai/Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus.md#claim-t-87180|Popiežiaus kurijos ginčo svarstymas, sprendimo paskelbimas ir iškilminga priesaika vykdyti nurodymus]]: Popiežius su kardinolais viešoje konsistorijoje svarstė Rygos arkivyskupo ginčą su Livonijos ordinu ir paskelbė sprendimą.
 - susijęs iš [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika.md#claim-t-87147|Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]: Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
 - susijęs iš [[objektai/paprociai/Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas.md#claim-t-87253|Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas]]: Taikos sutarties tarpininkais minėti arkivyskupas, Rygos kapitula, Eželio ir Dorpato vyskupai, Vokiečių ordinas ir Rygos miestas.
@@ -409,7 +423,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - susijęs iš Kuoknesė: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
 - susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
 - susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Latgala: Štumdorfo taika Lietuvai ir Lenkijai grąžino tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai.
 - susijęs iš Lietuva: Po Vytauto mirties Vladislovas Jogaila netrukus paskyrė savo vietininką Lietuvai.
 - susijęs iš Lietuva: Gedimino misija popiežiui pranešė apie valdovo ryžtą pereiti į naują tikėjimą ir prašė siųsti mokytų tikėjimo vyrų į Lietuvą.
 - susijęs iš Lietuva: Rygos vyskupas ir katedros klebonas manė, kad neišvarius Tautvilos iš Lietuvos lietuviai būtų priėmę krikštą.
@@ -417,10 +430,7 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - susijęs iš Liubekas: Gediminas laiške Liubekui ir kitiems miestams pranešė, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto teise.
 - susijęs iš Liubekas: Gedimino laiške Liubeko ir kitų miestų gyventojams skelbta, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto civiline teise.
 - susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
-- susijęs iš Livonija: 1629 m. Altmarko paliaubomis Livonija anapus Dauguvos su Ryga buvo palikta švedams.
-- susijęs iš Livonija: Štumdorfo taika grąžino Lietuvai ir Lenkijai tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai.
 - susijęs iš Livonija: 1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių ekspedicinis korpusas.
-- susijęs iš Livonija: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio žemės danų vietininku.
 - susijęs iš Livonija: Gedimino misija prašė popiežiaus į Livoniją ir Lietuvą atsiųsti tikėjimo mokymą išmanančių vyrų.
 - susijęs iš Livonija: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
 - susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
@@ -454,7 +464,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - susijęs iš Prūsų žemė: Prūsų žemė tapo svarbiu ginkluotų misijų kraštu ir rimtu Livonijos riterių bei kryžininkų prieaugliui varžovu.
 - susijęs iš Pskovas: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
 - susijęs iš Pskovas: Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
-- susijęs iš Rundborgas: Rundborgas minimas tarp Livonijos pilių kartu su Kokenhauzenu, Diunamunde, Ryga ir Šmetene.
 - susijęs iš Rusija: Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos.
 - susijęs iš Rygos arkivyskupija: Popiežius paskyrė Vytautą Rygos arkivyskupijos protektoriumi, siekdamas patraukti jį į savo pusę.
 - susijęs iš Saremas: Eželis, dabartinis Saremas, minimas tarp taikos sutarties tarpininkų atstovautų vyskupijų.
@@ -471,14 +480,12 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - susijęs iš Veliuona: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies, per mylią nuo Veliuonos.
 - susijęs iš Viljandis: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
 - susijęs iš Viljandis: Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį.
-- susijęs iš Vilnius: 1323 m. Gediminas gyveno Vilniuje, iš čia rašė laiškus ir derėjosi su Ryga bei Ordinu, o Vilnius tapo nuolatine Lietuvos sostine.
 - susijęs iš Vilnius: Popiežiui buvo įteiktas 1323 m. Vilniuje sudarytos sutarties nuorašas, išverstas iš vokiečių į lotynų kalbą.
 - susijęs iš Vilnius: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
 - susijęs iš Vilnius: Gediminas laiške skelbė pastatęs pranciškonų bažnyčią savo karališkajame mieste Vilniuje.
 - susijęs iš Vilnius: Gedimino valdymo metu Vilnius ėmė tapti gana svarbiu prekybos centru.
 - susijęs iš Vilnius: Pagal šaltinyje pateiktą sąrašą Vilnius 1387 m. iš Vladislovo Jogailos gavo Magdeburgo teisę.
 - susijęs iš Vilnius: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė sutartį su Švitrigaila.
-- susijęs iš Vilnius: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, danų vietininku, Livonijos ordinu ir Ryga.
 - susijęs iš Vilnius: Gedimino rūpesčiu Vilnius iškilo iš mažareikšmės gyvenvietės į galingos valstybės sostinę.
 - susijęs iš Vilnius: Gedimino laiške Vilnius minimas kaip valdovo miestas, kuriame pastatyta bažnyčia minoritams.
 - susijęs iš Vilnius: Gedimino valdymo laikais Vilnius ėmė darytis svarbiu prekybos centru.
@@ -511,7 +518,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
 - susijęs iš [[objektai/zodynas/naujakrikščiai.md#claim-t-86565|naujakrikščiai]]: Rygos arkivyskupas skundėsi, kad kryžiuočiai naujakrikščius apkrovė nepakeliama prievolių našta.
 - susijęs iš [[objektai/zodynas/popiežiaus legatas.md#claim-t-86569|popiežiaus legatas]]: Karalius Vytenis legatui Pranciškui siuntė laišką, prašydamas atsiųsti du pranciškonų ordino brolius.
 - susijęs iš [[objektai/zodynas/protektorium.md#claim-t-36824|protektorium]]: Popiežius paskyrė Vytautą Rygos arkivyskupijos protektoriumi, siekdamas patraukti jį į savo pusę.
-- susijęs iš [[objektai/zodynas/tautiška politika.md#claim-t-72768|tautiška politika]]: Vytenis, vykdydamas tautišką politiką prieš Ordiną, sudarė sąjungą su Ryga ir Rygos arkivyskupu.
 - susijęs iš [[objektai/zodynas/šv. Petro skatiko rinkliava.md#claim-t-86643|šv. Petro skatiko rinkliava]]: Lenkų vyskupų ginčai dėl dešimtinės ir šv. Petro skatiko rinkliavų buvo svarstyti popiežiaus rūmuose Avinjone.
 ## Reikšmingi paminėjimai
 
@@ -539,6 +545,9 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 346536-346949; hash=6bf8240b7d87a16e509f40d837d81981b967f8be879ea3e51e9f61ded5233b48; match=exact
+  sprendimo_priezastis: auto
     - t-003
 
 - c-003
@@ -672,4 +681,7 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c992f060b5099e4b5c34397759124e15908489f2ad141a283f117f0fdb3dc0fb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-001

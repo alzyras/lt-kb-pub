@@ -33,12 +33,22 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
   global_id: t-60327
   teiginys: 'Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais.'
   sudarymo_pagrindimas: 'Nutrūkęs fragmentas perrašytas į pilną faktinį sakinį apie asmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_person: [[objektai/asmenys/Bertoldas iš Nordhauzeno|Bertoldas iš Nordhauzeno]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Baiga; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Bertoldas iš Nordhauzeno|Bertoldas iš Nordhauzeno]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: iki 1277 m.; įvykio data: po 1262 m.; įvykio data: 1262 m.; įvykio data: apie 1262 m.; įvykio data: po 1276 m.; įvykio data: 1276 m.; įvykio data: po 1277 m.; įvykio data: 1277 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Nutrūkęs fragmentas perrašytas į pilną faktinį sakinį apie asmenį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 505397-506829; hash=be639b61db90dcd5ba4d774c298c286817a4610e009343559534f2f9bbc91d79; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bertoldas iš Nordhauzeno: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Hermanas iš Šenenbergo (karvedys, XIII a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bertoldas iš Nordhauzeno: mention_match, person, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas iš Šenenbergo (karvedys, XIII a.)" parinktas kaip owner_note_path. Targetas "Bertoldas iš Nordhauzeno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -71,3 +81,13 @@ Dusburgietis teigia, kad galop magistras paskyrė šios žemės krašto komtūru
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 505397-506829; hash=be639b61db90dcd5ba4d774c298c286817a4610e009343559534f2f9bbc91d79; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bertoldas iš Nordhauzeno: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Hermanas iš Šenenbergo (karvedys, XIII a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bertoldas iš Nordhauzeno: mention_match, person, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas iš Šenenbergo (karvedys, XIII a.)" parinktas kaip owner_note_path. Targetas "Bertoldas iš Nordhauzeno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

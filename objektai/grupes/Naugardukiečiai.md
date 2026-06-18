@@ -25,12 +25,22 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Treniota|Treniota]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 181105-181490; hash=c4542dbf08167be8bbc66e16317bf656858e1ed7b39cb13f5ff9b2cc5dca688c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Treniota: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Naugardukiečiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Treniota: mention_match, person, gap=73
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukiečiai" parinktas kaip owner_note_path. Targetas "Treniota" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184594|Žemaičiai]]: Treniotai turėjo padėti jam atsidavusi žemaičių kariuomenė ir naugardukiečių kariai.
-- susijęs iš [[objektai/ivykiai/Gedimino karas Volynėje Vladimiro apsiaustis, kunigaikščio žūtis ir Lucko, Drohičino bei Bresto užėmimas (1319-1320 m.).md#claim-t-185504|Gedimino karas Volynėje Vladimiro apsiaustis, kunigaikščio žūtis ir Lucko, Drohičino bei Bresto užėmimas (1319-1320 m.)]]: Gediminas pirmąjį smūgį Volynės pasienyje nukreipė į Vladimirą ir apsupo kunigaikščio Vladimiro sostinę.
-- susijęs iš [[objektai/ivykiai/Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu.md#claim-t-185590|Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu]]: Kernavės susirinkime dėl Vaišvilko valdžios abi ginčo pusės triukšmavo ir užsipuldinėjo viena kitą.
 - susijęs iš [[objektai/ivykiai/Vaišvilko sugrįžimas į Lietuvą kunigaikščiauti.md#claim-t-186567|Vaišvilko sugrįžimas į Lietuvą kunigaikščiauti]]: Lietuvos metraščio pasakojimu, Vaišvilkas su pinskiečiais ir naugardukiečiais parvyko į Lietuvą kunigaikščiauti, o Lietuva jį sutiko kaip valdovo sūnų.
 - susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
 - susijęs iš Pinskas: Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
+- susijęs iš [[objektai/ivykiai/Gedimino karas Volynėje Vladimiro apsiaustis, kunigaikščio žūtis ir Lucko, Drohičino bei Bresto užėmimas (1319-1320 m.).md#claim-t-185504|Gedimino karas Volynėje Vladimiro apsiaustis, kunigaikščio žūtis ir Lucko, Drohičino bei Bresto užėmimas (1319-1320 m.)]]: Gediminas pirmąjį smūgį Volynės pasienyje nukreipė į Vladimirą ir apsupo kunigaikščio Vladimiro sostinę.
+- susijęs iš [[objektai/ivykiai/Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu.md#claim-t-185590|Kernavės susirinkimas ir Vaišvilko išrinkimas valdovu]]: Kernavės susirinkime dėl Vaišvilko valdžios abi ginčo pusės triukšmavo ir užsipuldinėjo viena kitą.
 - susijęs iš Polockas: Gediminas laukė pagrindinių dalinių, kuriems į pagalbą turėjo ateiti naugardukiečiai ir polockiečiai.
 - susijęs iš Vladimiras: Gediminas pirmąjį smūgį nukreipė į Volynės pasienį ir apsupo Vladimirą, kunigaikščio Vladimiro sostinę.
 ## Reikšmingi paminėjimai
@@ -52,3 +62,16 @@ Treniotai buvo žadama, kad prireikus jėgos atvyks žemaičių kariuomenė ir n
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 181105-181490; hash=c4542dbf08167be8bbc66e16317bf656858e1ed7b39cb13f5ff9b2cc5dca688c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Treniota: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Naugardukiečiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Treniota: mention_match, person, gap=73
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Naugardukiečiai" parinktas kaip owner_note_path. Targetas "Treniota" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Naugardukiečiai keliavo_i [[objektai/vietos/Lietuva]]

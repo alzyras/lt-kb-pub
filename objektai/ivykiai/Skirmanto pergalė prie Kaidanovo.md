@@ -36,9 +36,19 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojime Skirmantas liepė sužaloti Balaklajaus pasiuntinius, o kitais metais chanas patraukė į Rusų žemę.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Pašalintas nepagrįstas priežastinis „išprovokavo“ ir moralinis vertinimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cfdee5419fc256fd509f03b4f8ab525c11406974aaee276414f172255802777c; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: susije_su -> Skirmantas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skirmanto pergalė prie Kaidanovo: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Skirmantas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirmanto pergalė prie Kaidanovo" parinktas kaip owner_note_path. Targetas "Skirmantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187489"></a>
 - t-002
@@ -46,9 +56,19 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis teigia, kad Skirmantas prie Kaidanovo nugalėjo chaną Balaklajų ir nukovė jį mūšyje.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys pilnas ir legendinį karo epizodą tinkamai atribuuoja metraščiui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Kaidanovas; mentioned_place: Karačevas; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Starodubas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Kaidanovas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_place: Karačevas; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Starodubas; mentioned_place: Viena'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cfdee5419fc256fd509f03b4f8ab525c11406974aaee276414f172255802777c; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skirmanto pergalė prie Kaidanovo: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=86
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirmanto pergalė prie Kaidanovo" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187490"></a>
 - t-003
@@ -56,9 +76,19 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Kaidanovas; mentioned_place: Karačevas; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Starodubas; mentioned_place: Viena'
+  susije_objektai: 'territory: Starodubas; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Karačevas; mentioned_place: Mozyrius; mentioned_place: Starodubas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_place: Kaidanovas; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b8f6406daa213cbdd02a9baa61bdb21a8a64cccb041a628f3840f3f4b3d994aa; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: susije_su -> Kaidanovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skirmanto pergalė prie Kaidanovo: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kaidanovas: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirmanto pergalė prie Kaidanovo" parinktas kaip owner_note_path. Targetas "Kaidanovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187491"></a>
 - t-004
@@ -66,9 +96,19 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojime Užvolgio chanas Balaklajus pareikalavo, kad Skirmantas mokėtų duoklę ir laikytų jo baskakus miestuose.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sukonkretintas reikalavimo turinys ir palikta legendinio pasakojimo atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b8f6406daa213cbdd02a9baa61bdb21a8a64cccb041a628f3840f3f4b3d994aa; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: uzeme -> Starodubas: 0.87
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: Skirmantas: nearest_actor, person, gap=11
+  ryšio_targeto_parinkimas: Starodubas: nearest_after_predicate, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Skirmantas" parinktas kaip nearest_actor. Targetas "Starodubas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
 
 ## Reikšmingi paminėjimai
 
@@ -91,6 +131,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b8f6406daa213cbdd02a9baa61bdb21a8a64cccb041a628f3840f3f4b3d994aa; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: uzeme -> Starodubas: 0.87
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: Skirmantas: nearest_actor, person, gap=11
+  ryšio_targeto_parinkimas: Starodubas: nearest_after_predicate, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Skirmantas" parinktas kaip nearest_actor. Targetas "Starodubas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
     - t-001
 
 - c-002
@@ -109,5 +159,35 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cfdee5419fc256fd509f03b4f8ab525c11406974aaee276414f172255802777c; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: susije_su -> Skirmantas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skirmanto pergalė prie Kaidanovo: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Skirmantas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirmanto pergalė prie Kaidanovo" parinktas kaip owner_note_path. Targetas "Skirmantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cfdee5419fc256fd509f03b4f8ab525c11406974aaee276414f172255802777c; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skirmanto pergalė prie Kaidanovo: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=86
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirmanto pergalė prie Kaidanovo" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b8f6406daa213cbdd02a9baa61bdb21a8a64cccb041a628f3840f3f4b3d994aa; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: susije_su -> Kaidanovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skirmanto pergalė prie Kaidanovo: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kaidanovas: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirmanto pergalė prie Kaidanovo" parinktas kaip owner_note_path. Targetas "Kaidanovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

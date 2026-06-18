@@ -23,6 +23,9 @@ Jie arba išmovė pas Abraomą, arba išbaigė šovinius.
   sudarymo_pagrindimas: 'Pirminis teiginys be konteksto neaiškus, o citata pagrindžia, kas ir kokiomis aplinkybėmis pasakyta.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1010698-1010838; hash=9fa221ceb08d65e4caf89adaf1b1c209c0f911c9e4c9b3995951c276bc213aca; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -36,3 +39,6 @@ Jie arba išmovė pas Abraomą, arba išbaigė šovinius.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1010698-1010838; hash=9fa221ceb08d65e4caf89adaf1b1c209c0f911c9e4c9b3995951c276bc213aca; match=exact
+  sprendimo_priezastis: auto

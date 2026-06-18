@@ -33,6 +33,16 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
   temporalinis_llm_pakomentavimas: 'Sutrumpinta iki aiškaus, Rainiams skirto fakto iš citatos.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fc7c24723de5bcc6719fd525e08faf81883e0f6d51160ef6dfcb0d6811673443; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rainiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rainiai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-183624"></a>
 - t-002
@@ -48,6 +58,16 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir sutelktas į Rainius, pašalinant šalutinius sąrašinius duomenis.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 393612-393957; hash=378e3a656c4c03e6f18810aa1ce38183790099c0e9db5a6960762a7754eb706c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rainiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rainiai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Pravieniškių įkalinimo kolonija: 1941 m. birželį Pravieniškių įkalinimo kolonijoje per masines kalinių žudynes nužudyta apie 230 asmenų.
 - susijęs iš Pravieniškių įkalinimo kolonija: 1941 m. birželį Pravieniškių įkalinimo kolonijoje per masines kalinių žudynes nužudyta apie 230 asmenų.
 ## Reikšmingi paminėjimai
@@ -82,4 +102,24 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fc7c24723de5bcc6719fd525e08faf81883e0f6d51160ef6dfcb0d6811673443; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rainiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rainiai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 393612-393957; hash=378e3a656c4c03e6f18810aa1ce38183790099c0e9db5a6960762a7754eb706c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rainiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rainiai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

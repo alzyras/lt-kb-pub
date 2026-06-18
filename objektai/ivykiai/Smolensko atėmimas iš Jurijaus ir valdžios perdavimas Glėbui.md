@@ -34,9 +34,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir pagrįstas citatoje pateiktu įvykiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Smolenskiečiai|Smolenskiečiai]]; mentioned_place: Riazanė; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Smolenskiečiai|Smolenskiečiai]]; mentioned_place: Smolenskas; mentioned_place: Riazanė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 608053-608840; hash=902f8a920cb92270d7a287d13998755b7aaa8c0cb71e2303bb37f44f6830adf2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Smolensko atėmimas iš Jurijaus ir valdžios perdavimas Glėbui: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smolensko atėmimas iš Jurijaus ir valdžios perdavimas Glėbui" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -73,3 +83,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 608053-608840; hash=902f8a920cb92270d7a287d13998755b7aaa8c0cb71e2303bb37f44f6830adf2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Smolensko atėmimas iš Jurijaus ir valdžios perdavimas Glėbui: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smolensko atėmimas iš Jurijaus ir valdžios perdavimas Glėbui" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

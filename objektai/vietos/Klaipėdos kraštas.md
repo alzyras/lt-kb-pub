@@ -33,7 +33,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   global_id: t-182764
   teiginys: 'Jono Budrio vadovaujamas Klaipėdos sukilimas padėjo Lietuvai XX a. pirmoje pusėje susigrąžinti Klaipėdos kraštą.'
   sudarymo_pagrindimas: 'Išplėstas inicialas ir pašalintas nutrūkęs fragmentas, faktas paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
 
@@ -57,7 +57,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai pagrįstas citata apie Klaipėdos krašto atskyrimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/lietuvininkai|lietuvininkai]]; mentioned_place: Dancigas; mentioned_place: Gdanskas; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/lietuvininkai|lietuvininkai]]; mentioned_place: Dancigas; mentioned_place: Gdanskas; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai pagrįstas citata apie Klaipėdos krašto atskyrimą.'
@@ -84,7 +84,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas neaiškus subjektas „abi šalys“, kurio citatos ištrauka neįvardija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Berlynas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Berlynas'
   pagrindžia:
     - c-005
 
@@ -96,7 +96,7 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo integravimo sunkumų priežastį ir yra pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Klaipėda; mentioned_place: Viena; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Klaipėda; mentioned_place: Vokietija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Viena'
   pagrindžia:
     - c-006
 
@@ -120,17 +120,17 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai pagrįstas citata apie Klaipėdos krašto išsivystymą.'
-  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Baltija'
   pagrindžia:
     - c-008
 - susijęs iš [[objektai/paprociai/Klaipėdos krašto autonominis režimas.md#claim-t-67120|Klaipėdos krašto autonominis režimas (kraštas)]]: Klaipėdos kraštas turėjo autonominę valdžią, o Lietuvos Respublikos vyriausybei ten atstovavo prezidento skiriamas gubernatorius.
 - susijęs iš Klaipėdos konvencija: 1924 m. Paryžiuje pasirašyta Klaipėdos konvencija oficialiai pavertė Klaipėdos kraštą Lietuvos Respublikos autonomine dalimi.
+- susijęs iš [[objektai/zodynas/Klaipėdiškiai.md#claim-t-183433|Klaipėdiškiai]]: Lietuva dėl socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius klaipėdiškius.
+- susijęs iš [[objektai/zodynas/klaipėdiečiai klaipėdiškiai.md#claim-t-183432|klaipėdiečiai klaipėdiškiai]]: Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie vietos seimelio rinkimuose balsavo už vokiškas partijas.
 - susijęs iš Estija: SSRS unifikacinė politika nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai pasivyti kaimynes pagal visus parametrus.
 - susijęs iš Latvija: SSRS unifikacinė politika, autorių vertinimu, nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai juos pasivyti.
 - susijęs iš Lietuva: Sovietmečiu lietuviai gerai išmoko rusų kalbą ir galėjo tiesiogiai naudotis rusų kultūros pasiekimais.
-- susijęs iš [[objektai/zodynas/Klaipėdiškiai.md#claim-t-183433|Klaipėdiškiai]]: Lietuva dėl socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius klaipėdiškius.
 - susijęs iš [[objektai/zodynas/autonominis vienetas.md#claim-t-02958|autonominis vienetas]]: Klaipėdos kraštas prie Lietuvos valstybės buvo priskirtas suteikiant jam autonominį režimą.
-- susijęs iš [[objektai/zodynas/klaipėdiečiai klaipėdiškiai.md#claim-t-183432|klaipėdiečiai klaipėdiškiai]]: Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie vietos seimelio rinkimuose balsavo už vokiškas partijas.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -72,6 +72,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 465839-466081; hash=225269ed30d5575527e47e2fa7831de862c842efb34d2f300ef1b5184bce30e2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-12292"></a>
 - t-004
@@ -82,15 +92,35 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 466082-466469; hash=92b83efa12a005695b7cfa3dedbc294d2e777898f884cddebeee09e024f9e383; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herbas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-92960"></a>
 - t-005
   global_id: t-92960
   teiginys: 'Lietuvos istorikai teigė, kad lenkai herbus pasisavino iš čekų, o šie juos perėmė iš romėnų.'
   sudarymo_pagrindimas: 'Reikia pašalinti kontekstinę pradžią ir sutrumpinti iki paremto fakto apie herbus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1fe07b80e898c8342e13d939985d1feeb33f4015a811248419cb1921647d723d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminaičiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Gediminaičiai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Gediminaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-92961"></a>
 - t-006
@@ -100,39 +130,79 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_place: Europa; mentioned_place: Horodlė; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 710182-710428; hash=40bed2be37ae11d7d41328622527576356f57f93d65e73023d891750a28af701; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-92962"></a>
 - t-007
   global_id: t-92962
   teiginys: 'Herbyne „Stemmata Polonica“ užfiksuotas XVI a. vidurio LDK herbas Vytis.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo ir nesusijusių fragmentų, o citata pagrindžia tik faktą apie Vytį herbyne.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_person: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius]]; mentioned_person: [[objektai/asmenys/Julius Slovackis|Julius Slovackis]]; mentioned_place: Austrija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_author: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius]]; mentioned_person: [[objektai/asmenys/Julius Slovackis|Julius Slovackis]]; mentioned_place: Austrija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1791 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR triukšmo ir nesusijusių fragmentų, o citata pagrindžia tik faktą apie Vytį herbyne.'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=23a3e3867ad0af84a579f16c9c41c92ca3aa8decd644800de9ff033662a0bc93; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herbas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-92963"></a>
 - t-008
   global_id: t-92963
   teiginys: 'Gedimino stulpai ir Jogailos kryžius XVI a. viduryje buvo pavaizduoti herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.'
   sudarymo_pagrindimas: 'Pradinė formuluotė yra antraštinis fragmentas, bet citata pagrindžia pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Paryžius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0a592d52ebd75565d6d91151fdc6a80f414c79be834d68d99a121c53a66978de; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Paryžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Paryžius: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Paryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-92964"></a>
 - t-009
   global_id: t-92964
   teiginys: 'LDK herbas Vytis XVI a. viduryje buvo pavaizduotas herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.'
   sudarymo_pagrindimas: 'Pradinė formuluotė yra iliustracijos antraštė, todėl ją reikia paversti faktiniu sakiniu.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_person: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius]]; mentioned_person: [[objektai/asmenys/Julius Slovackis|Julius Slovackis]]; mentioned_place: Austrija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Paryžius; mentioned_author: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius]]; mentioned_person: [[objektai/asmenys/Julius Slovackis|Julius Slovackis]]; mentioned_place: Austrija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1791 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė yra iliustracijos antraštė, todėl ją reikia paversti faktiniu sakiniu.'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=23a3e3867ad0af84a579f16c9c41c92ca3aa8decd644800de9ff033662a0bc93; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herbas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-92965"></a>
 - t-010
@@ -142,6 +212,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f9bf83d5b3ac787dd1024e04fd9aa1d89e557ec37ad1e3358555ffb64a2dc929; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-92966"></a>
 - t-011
@@ -151,17 +231,27 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Gediminaičiai|Gediminaičiai]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1fe07b80e898c8342e13d939985d1feeb33f4015a811248419cb1921647d723d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminaičiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Gediminaičiai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Gediminaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Herbas.md#claim-t-34572|Herbas]]: Horodlės unijos 18 paragrafu 47 lietuvių bajorams buvo suteikti 47 lenkų bajorų herbai.
 - susijęs iš [[objektai/daiktai/Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai.md#claim-t-87100|Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai]]: Gardino seimo privilegija leido Vilniaus magistrato pareigas ėjusiems miestiečiams priimti bajorų herbus tik gavus atitinkamos giminės sutikimą.
-- susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50695|Lietuvių bajorija]]: Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga.
 - susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50696|Lietuvių bajorija]]: Vytauto laikais lietuvių bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų bei luominės savivokos bruožų.
 - susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-96707|Lietuvos bajorija]]: Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų.
 - susijęs iš [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas.md#claim-t-92925|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]: Horodlės unijoje 47 Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.
 - susijęs iš [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas.md#claim-t-92926|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]: Horodlės unijoje 47 Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems savo herbus.
-- susijęs iš [[objektai/posakiai/senesnė ir garbingesnė, negu lenkų.md#claim-t-186887|senesnė ir garbingesnė, negu lenkų]]: Bychovco kronika Lietuvos bajorų kilmę ir garbę vaizduoja kaip viršesnę už lenkų.
 - susijęs iš 1568 m. Gardino seimo privilegija Vilniaus miestiečiams: 1568 m. privilegija leido tokiems Vilniaus miestiečiams priimti bajorų herbus tik gavus bent vienos tą herbą turinčios šeimos sutikimą.
-- susijęs iš [[objektai/zodynas/luomas.md#claim-t-169920|luomas]]: Vytauto laikais Lietuvos bajorija gavo herbus, įgijo luomo savygarbą ir iš visuomenės sluoksnio virto luomu.
 - susijęs iš [[objektai/zodynas/nobilitetas.md#claim-t-36817|nobilitetas]]: Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius – herbus.
+- susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50695|Lietuvių bajorija]]: Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga.
+- susijęs iš [[objektai/posakiai/senesnė ir garbingesnė, negu lenkų.md#claim-t-186887|senesnė ir garbingesnė, negu lenkų]]: Bychovco kronika Lietuvos bajorų kilmę ir garbę vaizduoja kaip viršesnę už lenkų.
+- susijęs iš [[objektai/zodynas/luomas.md#claim-t-169920|luomas]]: Vytauto laikais Lietuvos bajorija gavo herbus, įgijo luomo savygarbą ir iš visuomenės sluoksnio virto luomu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -241,6 +331,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 466082-466469; hash=92b83efa12a005695b7cfa3dedbc294d2e777898f884cddebeee09e024f9e383; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herbas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-006
@@ -259,6 +359,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1fe07b80e898c8342e13d939985d1feeb33f4015a811248419cb1921647d723d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminaičiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Gediminaičiai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Gediminaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-010
 
 - c-007
@@ -291,7 +401,27 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f9bf83d5b3ac787dd1024e04fd9aa1d89e557ec37ad1e3358555ffb64a2dc929; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=23a3e3867ad0af84a579f16c9c41c92ca3aa8decd644800de9ff033662a0bc93; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herbas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-008
@@ -312,6 +442,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=23a3e3867ad0af84a579f16c9c41c92ca3aa8decd644800de9ff033662a0bc93; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herbas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-009
@@ -332,7 +472,27 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0a592d52ebd75565d6d91151fdc6a80f414c79be834d68d99a121c53a66978de; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Paryžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Paryžius: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Paryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 465839-466081; hash=225269ed30d5575527e47e2fa7831de862c842efb34d2f300ef1b5184bce30e2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-011
 
 - c-010
@@ -353,4 +513,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1fe07b80e898c8342e13d939985d1feeb33f4015a811248419cb1921647d723d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminaičiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Gediminaičiai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Gediminaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 710182-710428; hash=40bed2be37ae11d7d41328622527576356f57f93d65e73023d891750a28af701; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herbai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herbai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

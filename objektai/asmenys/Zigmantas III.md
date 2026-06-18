@@ -22,12 +22,22 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
   global_id: t-87594
   teiginys: 'Zigmantas III, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia pašalinti OCR triukšmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Rūdninkai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Rūdninkai; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 511762-512274; hash=1e2bd4d461212c0b093c7039afc19432bd135ffc0e1269ccd7906f35e9e9b657; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rūdninkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zigmantas III: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rūdninkai: mention_match, place, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas III" parinktas kaip owner_note_path. Targetas "Rūdninkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Zigmantas Vaza.md#claim-t-82987|Zigmantas Vaza]]: 1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.
 - susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87438|Kazimieras IV]]: Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo.
 - susijęs iš [[objektai/asmenys/Vladislovas IV.md#claim-t-87593|Vladislovas IV]]: Vladislovas IV, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.
-- susijęs iš [[objektai/asmenys/Zigmantas Vaza.md#claim-t-82987|Zigmantas Vaza]]: 1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80783|Abiejų Tautų Respublika]]: Zigmantas III Vaza 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu.
 - susijęs iš Rūdninkai: Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, o Rūdninkai labiau išgarsėjo Žygimanto Senojo ir Žygimanto Augusto laikais.
 - susijęs iš Rūdninkų vartai ir Rūdninkų gatvė Vilniuje: Žygimantų laikais Vilniuje atsiradę nauji vartai ir nuo jų vingiuojanti gatvė gavo Rūdninkų vardą.
@@ -51,3 +61,13 @@ Vė­ liau Zigmantas III ir Vladislovas IV, atvykę į Lietuvą, visa­ da Rūdn
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 511762-512274; hash=1e2bd4d461212c0b093c7039afc19432bd135ffc0e1269ccd7906f35e9e9b657; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rūdninkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zigmantas III: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rūdninkai: mention_match, place, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmantas III" parinktas kaip owner_note_path. Targetas "Rūdninkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

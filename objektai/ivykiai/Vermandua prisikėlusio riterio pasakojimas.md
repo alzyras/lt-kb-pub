@@ -40,6 +40,9 @@ Nenurodyta
   sudarymo_pagrindimas: 'Teiginys yra apie pasakojimą, todėl reikia atribucijos ir pašalinti nutrūkusį šaltinio fragmentą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 693231-693456; hash=79fa57e0be3723e51dcbabbd1d1d69119ead31e468a7501af78fc266078a4a98; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -57,3 +60,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 693231-693456; hash=79fa57e0be3723e51dcbabbd1d1d69119ead31e468a7501af78fc266078a4a98; match=exact
+  sprendimo_priezastis: auto

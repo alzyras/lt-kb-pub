@@ -65,7 +65,7 @@ Nenurodyta
   global_id: t-71781
   teiginys: 'Alytaus NKVD 1945 m. rugpjūčio 18 d. slaptame pranešime rašyta, kad per Žuvinto Palių operaciją nukauta 17 partizanų.'
   sudarymo_pagrindimas: 'Sakinys papildytas data ir objektu, remiantis citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Alytus; mentioned_place: Žuvintas'
+  susije_objektai: 'mentioned_place: Žuvintas; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Alytus'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys papildytas data ir objektu, remiantis citata.'
@@ -83,15 +83,35 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1632fd15e04fd43c0ad0664aa728d06ec84c2d58946205daad1697dfbb4fd4e4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Buktos (Žaliosios) miškas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Buktos (Žaliosios) miškas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)" parinktas kaip owner_note_path. Targetas "Buktos (Žaliosios) miškas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-71783"></a>
 - t-005
   global_id: t-71783
   teiginys: 'Žuvinto Palių kautynėse enkavėdistai, pritrūkę valčių, kluonų durimis kaip plaustais plaukė per ežerą.'
   sudarymo_pagrindimas: 'Perrašyta susiejant veiksmą su kautynių objektu ir sutrumpinant sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Valtys|Valtys]]; mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Žuvintas; mentioned_place: Žuvinto ežeras'
+  susije_objektai: 'mentioned_place: Žuvintas; mentioned_place: Žuvinto ežeras; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Valtys|Valtys]]; mentioned_place: Buktos (Žaliosios) miškas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=79a52546458d7e239a45b58dfb20f158d49e14d9dda2c9d7ce86779c4c13c27f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žuvintas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Žuvintas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)" parinktas kaip owner_note_path. Targetas "Žuvintas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
 - susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
 - susijęs iš [[objektai/grupes/Varniškių būrys.md#claim-t-41192|Varniškių būrys]]: 1945 m. balandį Varniškių būrio partizanai veikė Paliose.
@@ -141,6 +161,16 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=79a52546458d7e239a45b58dfb20f158d49e14d9dda2c9d7ce86779c4c13c27f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žuvintas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Žuvintas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)" parinktas kaip owner_note_path. Targetas "Žuvintas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-002
@@ -159,6 +189,26 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=79a52546458d7e239a45b58dfb20f158d49e14d9dda2c9d7ce86779c4c13c27f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Alytus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.): owner_note_path, event
+  ryšio_targeto_parinkimas: Alytus: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)" parinktas kaip owner_note_path. Targetas "Alytus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
     - t-003
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1632fd15e04fd43c0ad0664aa728d06ec84c2d58946205daad1697dfbb4fd4e4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Buktos (Žaliosios) miškas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Buktos (Žaliosios) miškas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)" parinktas kaip owner_note_path. Targetas "Buktos (Žaliosios) miškas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

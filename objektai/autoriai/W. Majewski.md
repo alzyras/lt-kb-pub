@@ -32,6 +32,9 @@ Majewski, W.
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d6b8f8e0f54b9382a62c47c51a5e16276888e7943c0b3a23827a65cc24fac054; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +52,6 @@ Majewski, W.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d6b8f8e0f54b9382a62c47c51a5e16276888e7943c0b3a23827a65cc24fac054; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

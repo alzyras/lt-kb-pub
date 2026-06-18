@@ -26,6 +26,16 @@ Dusburgietis teigia, kad batakių dvaras atsirado XV a., o miestelis XVI a,— L
   susije_objektai: 'mentioned_place: Aukaimis; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 549950-550102; hash=8a3f280061183b8ddd59b7f8111fadeeacfbca0a612f34c5d486a42be3ab3fdc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukaimis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Miškinis A: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Aukaimis: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Miškinis A" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -41,3 +51,13 @@ Dusburgietis teigia, kad batakių dvaras atsirado XV a., o miestelis XVI a,— L
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 549950-550102; hash=8a3f280061183b8ddd59b7f8111fadeeacfbca0a612f34c5d486a42be3ab3fdc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukaimis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Miškinis A: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Aukaimis: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Miškinis A" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

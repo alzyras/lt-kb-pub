@@ -32,12 +32,22 @@ periodo_grupes:
   global_id: t-87842
   teiginys: 'Raina Sluščianka buvo Martyno Paleckio žmona ir sutarties su miestu dėl stiklo liejyklos bei stiklo supirkimo dalyvė.'
   sudarymo_pagrindimas: 'Citata pagrindžia jos ryšį su Paleckiu ir sutartimi.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1619 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia jos ryšį su Paleckiu ir sutartimi.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ad01b4d3882b67996f8ac630a60368f0958f44a1302825eae7e247a36ebb3b26; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Raina Sluščianka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Raina Sluščianka" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -64,3 +74,13 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ad01b4d3882b67996f8ac630a60368f0958f44a1302825eae7e247a36ebb3b26; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Raina Sluščianka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Raina Sluščianka" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

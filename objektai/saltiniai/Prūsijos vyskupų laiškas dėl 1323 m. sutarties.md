@@ -34,21 +34,41 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
 - t-001
   global_id: t-55232
   teiginys: 'Prūsijos vyskupų laiškas dėl Vilniaus sutarties buvo parengtas Elbinge ir siųstas Livonijos bei Estijos bažnytiniams ir pasaulietiniams adresatams.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_place: Dorpatas; mentioned_place: Elbingas; mentioned_place: Elbliongas; mentioned_place: Estija; mentioned_place: Livonija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba; mentioned_place: Varmė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Estija; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_place: Dorpatas; mentioned_place: Elbliongas; mentioned_place: Pomezanija; mentioned_place: Revelis; mentioned_place: Semba; mentioned_place: Varmė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 176021-177149; hash=bef9323d457b3864381f9e14cced233651c83ed30c1377342d1e8ca7aa35c562; match=whitespace_regex
+  sprendimo_priezastis: gap::sources
+  ryšio_patikimumas: susije_su -> Elbingas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsijos vyskupų laiškas dėl 1323 m. sutarties: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos vyskupų laiškas dėl 1323 m. sutarties" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-55233"></a>
 - t-002
   global_id: t-55233
   teiginys: 'Prūsijos vyskupų laiškas ragino atmesti 1323 m. sutartį ir nenutraukti kovos su priešu.'
   sudarymo_pagrindimas: 'Reikia aiškiai įvardyti laišką ir sutartį pagal objekto pavadinimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dobrynė; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Oliva; mentioned_place: Pelplinas; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dobrynė; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Oliva; mentioned_place: Pelplinas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti laišką ir sutartį pagal objekto pavadinimą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 178036-179381; hash=3ae992c9057a2c2e1c9ecee2c9493c1d25a7a759bae1abe1324d020cb86e8220; match=whitespace_regex
+  sprendimo_priezastis: gap::sources
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsijos vyskupų laiškas dėl 1323 m. sutarties: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos vyskupų laiškas dėl 1323 m. sutarties" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-55234"></a>
 - t-003
@@ -59,18 +79,38 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 179519-180230; hash=d2f599a512f2372962491d671391b725b9cc151d19ef8a09b42f5b7cbe0feaa6; match=whitespace_regex
+  sprendimo_priezastis: gap::sources
+  ryšio_patikimumas: susije_su -> Elbingas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsijos vyskupų laiškas dėl 1323 m. sutarties: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos vyskupų laiškas dėl 1323 m. sutarties" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-82034"></a>
 - t-004
   global_id: t-82034
   teiginys: 'Prūsijos vyskupai laiške 1323 m. taikos sutartį vadino velnio žabangomis ir gėda krikščioniškajam pasauliui.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko Prūsijos vyskupų laiško vertinimą dėl sutarties.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_place: Dorpatas; mentioned_place: Elbliongas; mentioned_place: Estija; mentioned_place: Livonija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_place: Dorpatas; mentioned_place: Elbliongas; mentioned_place: Estija; mentioned_place: Livonija; mentioned_place: Pomezanija; mentioned_place: Revelis; mentioned_place: Semba; mentioned_place: Varmė'
   temporaliniai_duomenys: 'įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai palaiko Prūsijos vyskupų laiško vertinimą dėl sutarties.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 176021-177149; hash=bef9323d457b3864381f9e14cced233651c83ed30c1377342d1e8ca7aa35c562; match=whitespace_regex
+  sprendimo_priezastis: gap::sources
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsijos vyskupų laiškas dėl 1323 m. sutarties: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos vyskupų laiškas dėl 1323 m. sutarties" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -102,6 +142,16 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 176021-177149; hash=bef9323d457b3864381f9e14cced233651c83ed30c1377342d1e8ca7aa35c562; match=whitespace_regex
+  sprendimo_priezastis: gap::sources
+  ryšio_patikimumas: susije_su -> Elbingas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsijos vyskupų laiškas dėl 1323 m. sutarties: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos vyskupų laiškas dėl 1323 m. sutarties" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-002
@@ -135,6 +185,16 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 176021-177149; hash=bef9323d457b3864381f9e14cced233651c83ed30c1377342d1e8ca7aa35c562; match=whitespace_regex
+  sprendimo_priezastis: gap::sources
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsijos vyskupų laiškas dėl 1323 m. sutarties: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos vyskupų laiškas dėl 1323 m. sutarties" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -166,4 +226,24 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 178036-179381; hash=3ae992c9057a2c2e1c9ecee2c9493c1d25a7a759bae1abe1324d020cb86e8220; match=whitespace_regex
+  sprendimo_priezastis: gap::sources
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsijos vyskupų laiškas dėl 1323 m. sutarties: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos vyskupų laiškas dėl 1323 m. sutarties" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 179519-180230; hash=d2f599a512f2372962491d671391b725b9cc151d19ef8a09b42f5b7cbe0feaa6; match=whitespace_regex
+  sprendimo_priezastis: gap::sources
+  ryšio_patikimumas: susije_su -> Elbingas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsijos vyskupų laiškas dėl 1323 m. sutarties: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsijos vyskupų laiškas dėl 1323 m. sutarties" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

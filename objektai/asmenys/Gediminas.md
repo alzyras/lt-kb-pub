@@ -42,7 +42,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - t-001
   global_id: t-05167
   teiginys: 'Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_place: Liublinas'
   temporaliniai_duomenys: 'įvykio data: 1386 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -53,7 +53,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   global_id: t-05168
   teiginys: '1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vilnius; mentioned_place: Volga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Volga'
   temporaliniai_duomenys: 'įvykio data: 1315 m.; įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
@@ -64,7 +64,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - t-003
   global_id: t-05169
   teiginys: 'Matydamas užtruksiančią kovą su kryžiuočiais, Gediminas susirado talkininką Lenkijos Vladislovo Lokietkos asmenyje.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-054
 
@@ -72,7 +72,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - t-004
   global_id: t-05170
   teiginys: 'Gediminas iki gyvenimo galo liko pagonis, nieko dėl religinių priežasčių nepersekiojo ir Naugarduke palaikė atskirą Lietuvos stačiatikių arkivyskupiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Naugardukas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_place: Liublinas'
   temporaliniai_duomenys: 'įvykio data: 1386 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -90,7 +90,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - t-006
   global_id: t-05173
   teiginys: 'Gediminas buvo apibūdintas ne tik kaip karys, bet ir kaip valstybininkas, veikęs diplomatija.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]'
   pagrindžia:
     - c-018
 
@@ -99,7 +99,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   global_id: t-05174
   teiginys: 'Gediminas išgarsėjo kaip sėkmingas rytinių rusų žemių jungėjas prie Lietuvos.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai atitinka citatos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1392 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai atitinka citatos turinį.'
@@ -114,6 +114,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Tverė; mentioned_place: Volga'
   pagrindžia:
     - c-016
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=41de0b3d4fe8c4319b53b9109fcfc97b4d52b624441edebfacccab6c369cbeb4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-05176"></a>
 - t-009
@@ -124,30 +134,60 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-060
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=21fe911c4a1313f4c8b6676179f441fc039bff9822f8377f8a3117e7b04544a0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-10675"></a>
 - t-010
   global_id: t-10675
   teiginys: 'Gediminas sudarė sąjungą su Lenkija ir plėtė valstybę gudria politika bei dinastinėmis vedybomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e5c0adc7f8a8ef9fbb1572c95e3d132bcc45528450335359e483d101eef83b30; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-10677"></a>
 - t-011
   global_id: t-10677
   teiginys: '1323 m. Gediminas laiškais kvietė į Lietuvą amatininkus, pirklius, žemdirbius ir riterius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Europa; mentioned_place: Kelnas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Revelis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Europa; mentioned_place: Kelnas; mentioned_place: Livonija; mentioned_place: Revelis; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1323 m.; įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=41de0b3d4fe8c4319b53b9109fcfc97b4d52b624441edebfacccab6c369cbeb4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=116
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-10678"></a>
 - t-012
   global_id: t-10678
   teiginys: 'Gedimino laikais Vilnius tapo nuolatine Lietuvos sostine.'
-  susije_objektai: 'mentioned_place: Kristmemelis; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rezeknė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Kristmemelis; mentioned_place: Nemunas; mentioned_place: Rezeknė'
   temporaliniai_duomenys: 'įvykio data: po 1324 m.; įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -161,6 +201,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-022
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=97f27db6f00ff8625d74758d095cf98dd0a3d1875f021e5e4578d360d37e5d25; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176323"></a>
 - t-014
@@ -168,6 +218,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginys: 'Balińskis teigė, kad Gediminas neturėjo minties priimti krikščioniškojo tikėjimo.'
   pagrindžia:
     - c-063
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c7a231bd33ecf4b25c573ecfe14ffdb622a9623607f041837172c36376672ba1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> diplomatija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: diplomatija: mention_match, thing, gap=81
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "diplomatija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176324"></a>
 - t-015
@@ -176,6 +236,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Vokietija'
   pagrindžia:
     - c-025
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a4ee61a06fd8faa62a665e9b778712813f63f281a1bc4c9a1408b6a58abec239; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=68
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176325"></a>
 - t-016
@@ -185,25 +255,55 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-043
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=22006b54394d973858f94c4f2d42bc555b75f11b470acd2df712660b7629097e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176326"></a>
 - t-017
   global_id: t-176326
   teiginys: 'Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bajerburgas; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_place: Bajerburgas; mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1337 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-030
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9cf84b7b23319e52d19bccc040f86d0bd512f8b6557f2cb6dc1ef887c130814b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aldona Gediminaitė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Aldona Gediminaitė: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Aldona Gediminaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176327"></a>
 - t-018
   global_id: t-176327
   teiginys: 'Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu ir rodo nuoseklią Lietuvos europėjimo programą.'
   sudarymo_pagrindimas: 'Perrašyta į aiškesnį sakinį su Gediminu kaip subjektu.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=95bd7f9e64572ed5edcafe5857fbd2ae7cb8a053ca0186ef8563075e8cd3d2b0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176328"></a>
 - t-019
@@ -212,57 +312,117 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_place: Bajerburgas; mentioned_place: Gedimino kalnas; mentioned_place: Veliuona'
   pagrindžia:
     - c-062
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=12bd839c6020cbec81b604b56924314559e40f986ff694a909682772a2c4addb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnelė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnelė: mention_match, place, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Vilnelė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176329"></a>
 - t-020
   global_id: t-176329
   teiginys: 'Pasak Strijkovskio ir Kojelavičiaus, Gediminas po sapno pastatydino Aukštutinę mūro pilį ir medinę pilį, pavadintą Vilniumi.'
   sudarymo_pagrindimas: 'Citata remia geresnį enciklopedinį sakinį apie Gediminui priskirtą veiksmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Aukštutinė pilis; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija'
   pagrindžia:
     - c-017
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a2120afacf226d6f9b067043dbc55472c591642430678af758d59827c6188012; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176330"></a>
 - t-021
   global_id: t-176330
   teiginys: 'Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.'
   sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą ir predikatą, citata jį pagrindžia.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-038
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3d271c0059e87caed8577ec65527e95148e1db6c290904fe5bd57743357551d4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176331"></a>
 - t-022
   global_id: t-176331
   teiginys: 'Valdant Gediminui pagoniška Lietuvos visuomenė ir jos ūkinė, socialinė, politinė bei dvasinė struktūra įgijo brandžiausią pavidalą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]'
   temporaliniai_duomenys: 'įvykio data: iki 1572 m.; įvykio data: 1572 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys, tiesiogiai paremtas citata.'
   pagrindžia:
     - c-058
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 73966-74514; hash=8aa3b3dc5af7a5bc0299cff02b47b8f8a31ef93a86f57e546a9492206bff7a48; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176332"></a>
 - t-023
   global_id: t-176332
   teiginys: 'Apie 1320 m. Gediminas išleido savo dukterį už Plocko kunigaikščio Vaclovo, dar vadinto Vanka.'
   sudarymo_pagrindimas: 'Pašalinta boilerplate įžanga, faktas tiesiogiai remiasi citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Plockas'
+  susije_objektai: 'mentioned_place: Plockas; mentioned_place: Lietuva; mentioned_place: Mazovija'
   temporaliniai_duomenys: 'įvykio data: 1320 m.; įvykio data: apie 1320 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Pašalinta boilerplate įžanga, faktas tiesiogiai remiasi citata.'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=986f056cd8d133314cfb2ea02a9a055d09224097dc18ec6fa71f67ac711856d3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176333"></a>
 - t-024
   global_id: t-176333
   teiginys: 'Gedimino sąjungininkas Vladislovas Lokietka stojo į ginkluotą kovą prieš Ordiną, siekdamas atgauti Pamarį.'
   sudarymo_pagrindimas: 'Teiginys susieja Gediminą su jo sąjungininku ir yra paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Pamaris'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Pamaris; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-050
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0ef0f495dc9763daad835f6f258e5aa480a1b240fda298cabf2e7faa004e9235; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajerburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176334"></a>
 - t-025
@@ -275,13 +435,23 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   temporalinis_llm_pakomentavimas: 'Reikia tiksliau perteikti citatos akcentą apie pirmą autentišką paliudijimą.'
   pagrindžia:
     - c-055
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fffb04bb865dbf9529ca28c5b7cc2ef69563ff3fe35453b42be2c2e22dfc3cae; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Šventaragis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Šventaragis: mention_match, person, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Šventaragis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176335"></a>
 - t-026
   global_id: t-176335
   teiginys: '1324 m. Gedimino Lietuva surengė atsakomuosius smūgius prieš Kristmemelio pilį, Rezeknės apylinkes Livonijoje ir Mazoviją.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs, citata pagrindžia užbaigtą faktinį sakinį.'
-  susije_objektai: 'mentioned_place: Kristmemelis; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Nemunas; mentioned_place: Rezeknė'
+  susije_objektai: 'mentioned_place: Kristmemelis; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Rezeknė; mentioned_place: Nemunas'
   temporaliniai_duomenys: 'įvykio data: po 1324 m.; įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūkęs, citata pagrindžia užbaigtą faktinį sakinį.'
@@ -296,24 +466,54 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_place: Ryga; mentioned_place: Viena'
   pagrindžia:
     - c-051
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bbf415e08c47a1fdd58a05cc7304cf7162eee3855db23ea69e95c1c59455247a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176337"></a>
 - t-028
   global_id: t-176337
   teiginys: 'Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi OCR fragmentų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„ir mes turime vieną Dievą…“|„ir mes turime vieną Dievą…“]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„ir mes turime vieną Dievą…“|„ir mes turime vieną Dievą…“]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Lizdeika|Lizdeika]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-070
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=37685f1be0cef623a3e2cefbe37d95d3adde82947fee89b27920d195bb9eedd8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176338"></a>
 - t-029
   global_id: t-176338
   teiginys: 'Gediminas, Algirdas ir Kęstutis mėgino įvesti Lietuvoje katalikų tikėjimą.'
   sudarymo_pagrindimas: 'Citata pagrindžia glaustesnį faktą apie Gediminą ir kitus valdovus, pašalinus perteklinį aiškinimą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas]]; mentioned_group: [[objektai/grupes/Domininkonų ordinas|Domininkonų ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_event: [[objektai/ivykiai/Mindaugo krikštas|Mindaugo krikštas]]; mentioned_group: [[objektai/grupes/Domininkonų ordinas|Domininkonų ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-036
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a4b7020989e943f2b2b5a89b679dfcc31bcb50d8e192f1ba3b6d09a6df5a725c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hanza: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Hanza: mention_match, group, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Hanza" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176339"></a>
 - t-030
@@ -324,6 +524,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-055
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d8cec26d7d15077c82ac9af1f2deadb3c6af1a280c6ebe2f8ea01a65e41d4055; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176340"></a>
 - t-031
@@ -332,6 +542,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Gotfridas fon Ustas|Gotfridas fon Ustas]]'
   pagrindžia:
     - c-064
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 153532-154639; hash=91de0d74f2441b5cf1861284643b1d8b7066baca9e88232a3e347296b7d9cfd5; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Naugardukas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Naugardukas: mention_match, place, gap=67
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Naugardukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176341"></a>
 - t-032
@@ -341,6 +561,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-015
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=35853d48dde497ccf496c31fd2ae5d875f240e03d74c291ccb55864068c289f2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176342"></a>
 - t-033
@@ -353,15 +583,35 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo ne sakinys, o chronologijos fragmentas.'
   pagrindžia:
     - c-048
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=17e5c9f475f0a8fc704ae1a2959e5e2a0ecaafe290992324c2cdb8e9873592ae; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176343"></a>
 - t-034
   global_id: t-176343
   teiginys: 'Gedimino rūpesčiu Vilnius iš mažareikšmės gyvenvietės iškilo į galingos valstybės sostinę.'
   sudarymo_pagrindimas: 'Pradinis sakinys nutrūkęs; citata palaiko aiškų teiginį apie Gedimino vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_place: Bajerburgas; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_place: Bajerburgas; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Ryga'
   pagrindžia:
     - c-030
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1fcfa0abfdad63fd7c5b99d2b0684d1d34d67c278d535c8cedeab7a5c7c1009e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=105
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176344"></a>
 - t-035
@@ -371,6 +621,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Ryga'
   pagrindžia:
     - c-033
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dbe703df52cccdd6245a6e69606c9b348b28508da96c265150d7ffb60719ff73; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176345"></a>
 - t-036
@@ -379,26 +639,49 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-041
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 183693-184262; hash=b50ecbd9358bf867bd6acbe78ddc3cebf0f4ccf98bfa2e0aef3dab29272fb390; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176346"></a>
 - t-037
   global_id: t-176346
   teiginys: 'Gediminas, matydamas kryžiuočius kuriantis priešais jo Veliuonos pilį, nusprendė juos iš ten išvyti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bajerburgas; mentioned_place: Prūsija; mentioned_place: Veliuona; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Veliuona; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bajerburgas; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-040
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d962e4d7f4f534acf601dcb924503585f7921f8186ac232c64f60e2603ce3805; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176347"></a>
 - t-038
   global_id: t-176347
   teiginys: '1323 ir 1324 m. Gediminas su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dobrynė; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Dobrynė; mentioned_place: Mazovija; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-045
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=102c739e3e6b726cedfca268e9e6e709b6417623b87d4acea44b1d681206ebf6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-176348"></a>
 - t-039
@@ -408,55 +691,115 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=31849ccce8f3d7877ae3ae407875115be110267833bc29b830582d647f102b35; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vokietija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vokietija: mention_match, place, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Vokietija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176349"></a>
 - t-040
   global_id: t-176349
   teiginys: 'Gediminas dar labiau sutvirtino Mindaugo įkurtą Lietuvos valstybę ir davė pradžią naujai galingai dinastijai.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia faktą, bet reikia išskleisti įvardį ir pašalinti OCR triukšmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-053
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3a6aaa9d6f918e8db5735c7f336337ee13e79f7b1786bba9a41635ce5b141a1f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176351"></a>
 - t-041
   global_id: t-176351
   teiginys: 'Balińskis manė, kad Gediminas, statydindamas pilį Rusios belaisvių rankomis, iškasė Vilnelei kitą vagą ir paaukštino Pilies kalną.'
   sudarymo_pagrindimas: 'Citata pateikia autoriaus nuomonę, ne neutraliai patvirtintą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sandara|Sandara]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnelė; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Vilnelė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sandara|Sandara]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-013
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1c46ff131196122485e495d26880ee156d3c31ffedb00c9b5362322d69134824; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antspaudas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Antspaudas: mention_match, thing, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Antspaudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176352"></a>
 - t-042
   global_id: t-176352
   teiginys: 'Matydamas užsitęsiančią kovą su kryžiuočiais, Gediminas talkininku pasirinko Lenkijos valdovą Vladislovą Lokietką.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir sukonkretintas be perteklinės formuluotės.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dancigas; mentioned_place: Lenkija; mentioned_place: Pamaris'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dancigas; mentioned_place: Pamaris'
   pagrindžia:
     - c-037
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2a6729ee2443296e7c3088777cdca5da860bf533c2ead7975a2627da9b2128ea; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antspaudas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Antspaudas: mention_match, thing, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Antspaudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176353"></a>
 - t-043
   global_id: t-176353
   teiginys: 'Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse prie Nemuno.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas iki citatos remiamos faktinės žinios apie Gediminą.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Jurbarkas; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Veliuona'
+  susije_objektai: 'counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Nemunas; mentioned_place: Veliuona; mentioned_place: Jurbarkas; mentioned_place: Prūsija'
   semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-031
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=86da6ef375bc6ea2c80e19d1aa4332e0e6b866a7ae17b29f7d30a400306feb85; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176354"></a>
 - t-044
   global_id: t-176354
   teiginys: 'Gediminas, siekdamas išvyti kryžiuočius iš Bajerburgo, surinko kariuomenę ir 1337 m. birželio 15 d. sustojo ties pilimi.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir suformuotas vientisas citata pagrįstas sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bajerburgas; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Bajerburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsija; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1337 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir suformuotas vientisas citata pagrįstas sakinys.'
   pagrindžia:
     - c-040
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 223377-223913; hash=5dc14196e9122e881a092358db2fcd652edf57abe67d943d2d783ad5a5d6dc26; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 1.00
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_combat_counterparty
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=17
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: counterparty_iteration, group, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176355"></a>
 - t-045
@@ -465,6 +808,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-015
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=629c48cee25874df630408112e3e12e1431ff2000177d01aadec599a69bf105b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajerburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176356"></a>
 - t-046
@@ -474,6 +827,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Vokietija'
   pagrindžia:
     - c-025
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f3e3fb424ae7402769c04544c63a49954ebe025761013dc041f9aeb33b165377; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Veliuona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Veliuona: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Veliuona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176357"></a>
 - t-047
@@ -486,26 +849,56 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f742312b72a2cf1d1441dee71a0aff1e7dd017b0329a1cbda4acf82fbedcceb6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajerburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176359"></a>
 - t-048
   global_id: t-176359
   teiginys: 'Gediminas prašė pranciškonų prie jo pastatytų bažnyčių Vilniuje ir Naugarduke paskirti keturis kalbas mokančius brolius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Naugardukas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Naugardukas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena'
   pagrindžia:
     - c-014
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 29692-29910; hash=5ebc76ff7fd33537fb91fa62b2f8896e29d9b8ecad88b2960c548238e0484fdf; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176360"></a>
 - t-049
   global_id: t-176360
   teiginys: 'Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Teofilis (arkivyskupas)|Teofilis (arkivyskupas)]]; mentioned_place: Lietuva; mentioned_place: Naugardukas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Teofilis (arkivyskupas)|Teofilis (arkivyskupas)]]'
   temporaliniai_duomenys: 'įvykio data: 1330 m.; įvykio data: apie 1330 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, faktinis ir paremtas citata.'
   pagrindžia:
     - c-042
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 41603-42380; hash=b8b503f728743fab267cd9fca064b6dfcb612c606ffeb9821a17dc4920522ccf; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176361"></a>
 - t-050
@@ -515,6 +908,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-066
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 42381-42840; hash=5baf6897baeb28138cc4889cd926c7df71afdb4f64a5f8878fc038e58fb2008d; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176362"></a>
 - t-051
@@ -524,6 +927,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga'
   pagrindžia:
     - c-019
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 52609-53149; hash=786bda1d3eef320843ee43a1a59fd74180ed7027edfaa559d1fae8ad4d505cc6; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176363"></a>
 - t-052
@@ -539,9 +952,19 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   global_id: t-176364
   teiginys: 'Gediminas nustebo, pamatęs tarp atvertų Bajerburgo vartų pakartą išdaviką, bet vis tiek puolė tvirtovę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatos pirmąjį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Henrikas Duseneris|Henrikas Duseneris]]; mentioned_place: Bajerburgas; mentioned_place: Reinas'
+  susije_objektai: 'mentioned_place: Bajerburgas; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Henrikas Duseneris|Henrikas Duseneris]]; mentioned_place: Reinas'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 53725-54275; hash=208de4dc36e74cef3113457767c225026a472180fabb12c71640e7fef4802dab; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.): mention_match, event, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176365"></a>
 - t-054
@@ -566,6 +989,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Gediminą ir dinastijos vardą.'
   pagrindžia:
     - c-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 55475-55954; hash=c16ad51689674ebb8d8318d2c9379c99261c98063f8bc9370b6c1cac7e9321e0; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176367"></a>
 - t-056
@@ -575,6 +1008,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Ryga'
   pagrindžia:
     - c-033
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 58742-59169; hash=4c873242c77dc028a85a7eb222fa7b22884db44c1cfea358d4d0c1a632581a74; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=81
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176368"></a>
 - t-057
@@ -584,6 +1027,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-028
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f2ea4d2806e5dae35b712446cbc79202ab9a3c62f1b95fe9cb6571165d228491; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltoji Rusia: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Baltoji Rusia: mention_match, place, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Baltoji Rusia" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176370"></a>
 - t-058
@@ -592,6 +1045,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
   pagrindžia:
     - c-017
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 61818-62274; hash=b8796bd2e12d8d0c382ee0e383e808861e0db2118d5858b811fe1d6abc1ebf8d; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176371"></a>
 - t-059
@@ -602,13 +1065,23 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-071
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 52183-52630; hash=ab13b191b488cde2700cfb151ce6001a87afd7cd8c18ab75f8de362cdaf2d624; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176372"></a>
 - t-060
   global_id: t-176372
   teiginys: 'Gediminas nuolat kovojo su Ordinu Veliuonos apylinkėse.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir tiesiogiai susietas su Gediminu.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Jurbarkas; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Veliuona'
+  susije_objektai: 'counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Veliuona; mentioned_place: Jurbarkas; mentioned_place: Nemunas; mentioned_place: Prūsija'
   semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-031
@@ -621,6 +1094,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_place: Bajerburgas; mentioned_place: Veliuona'
   pagrindžia:
     - c-067
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 41896-42350; hash=43af96a82cb038a5b5a8d9b87621f73596d94083b5f1462f60080bb7acb57a10; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176374"></a>
 - t-062
@@ -629,39 +1112,79 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Saksonija'
   pagrindžia:
     - c-032
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a2120afacf226d6f9b067043dbc55472c591642430678af758d59827c6188012; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176375"></a>
 - t-063
   global_id: t-176375
   teiginys: '1326 m. Gediminas, Lokietkos prašymu, pasiuntė Lenkijos karaliui 1200 raitelių iš savo krašto.'
   sudarymo_pagrindimas: 'Citata aiškiai remia faktą, o pradinis teiginys turi OCR triukšmo ir nutrūksta.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1326 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai remia faktą, o pradinis teiginys turi OCR triukšmo ir nutrūksta.'
   pagrindžia:
     - c-044
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3d271c0059e87caed8577ec65527e95148e1db6c290904fe5bd57743357551d4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176376"></a>
 - t-064
   global_id: t-176376
   teiginys: '1325 m. Vilniuje Gediminas sudarė sutartį su Vladislovu Lokietka dėl bendros kovos su Prūsijos ordinu.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir pataisytas pagal citatoje nurodytą įvykį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Livonija; mentioned_place: Revelis; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir pataisytas pagal citatoje nurodytą įvykį.'
   pagrindžia:
     - c-026
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 73966-74514; hash=8aa3b3dc5af7a5bc0299cff02b47b8f8a31ef93a86f57e546a9492206bff7a48; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176377"></a>
 - t-065
   global_id: t-176377
   teiginys: 'Olivos metraščiai teigė, kad Gediminas žuvo nuo Marijano paleisto šūvio iš bombardos.'
   sudarymo_pagrindimas: 'Pradinis tekstas sugadintas, bet citata pateikia aiškų faktą apie Gedimino žūtį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Olivos metraščiai|Olivos metraščiai]]; mentioned_object: [[objektai/daiktai/Bombardos|Bombardos]]; mentioned_object: [[objektai/daiktai/Strėlės|Strėlės]]; mentioned_place: Lietuva; mentioned_place: Oliva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bombardos|Bombardos]]; mentioned_author: [[objektai/autoriai/Olivos metraščiai|Olivos metraščiai]]; mentioned_object: [[objektai/daiktai/Strėlės|Strėlės]]; mentioned_place: Lietuva; mentioned_place: Oliva'
   pagrindžia:
     - c-029
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0ef0f495dc9763daad835f6f258e5aa480a1b240fda298cabf2e7faa004e9235; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176378"></a>
 - t-066
@@ -671,6 +1194,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Ryga'
   pagrindžia:
     - c-011
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d8cec26d7d15077c82ac9af1f2deadb3c6af1a280c6ebe2f8ea01a65e41d4055; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176379"></a>
 - t-067
@@ -679,24 +1212,54 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Skyrai|Skyrai]]'
   pagrindžia:
     - c-069
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 153532-154639; hash=91de0d74f2441b5cf1861284643b1d8b7066baca9e88232a3e347296b7d9cfd5; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pranciškonų ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176380"></a>
 - t-068
   global_id: t-176380
   teiginys: 'Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę).'
   sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie Gediminą ir Algirdą, paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kondominiumas|kondominiumas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kondominiumas|kondominiumas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-024
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 174288-175183; hash=a0016b9d52fe1aad71050fbdcbeadbf7a74bcaf263914228708704a5ee204d48; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176382"></a>
 - t-070
   global_id: t-176382
   teiginys: 'Gediminas Vilniuje pastatydino mūro tvirtovę, saugomą aukštų sienų ir trijų bokštų.'
   sudarymo_pagrindimas: 'Pašalintas aprašomasis perteklius ir paliktas faktas apie Gedimino veiksmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Bokštai; mentioned_place: Lietuva; mentioned_place: Vilnelė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Bokštai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Lietuva; mentioned_place: Vilnelė'
   pagrindžia:
     - c-057
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3a6aaa9d6f918e8db5735c7f336337ee13e79f7b1786bba9a41635ce5b141a1f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176383"></a>
 - t-071
@@ -705,6 +1268,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Gedimino antspaudas|Gedimino antspaudas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]'
   pagrindžia:
     - c-049
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=86da6ef375bc6ea2c80e19d1aa4332e0e6b866a7ae17b29f7d30a400306feb85; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=75
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176384"></a>
 - t-072
@@ -714,25 +1287,55 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Ryga'
   pagrindžia:
     - c-027
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 223377-223913; hash=5dc14196e9122e881a092358db2fcd652edf57abe67d943d2d783ad5a5d6dc26; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 1.00
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_combat_counterparty
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=17
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: counterparty_iteration, group, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176386"></a>
 - t-073
   global_id: t-176386
   teiginys: 'Gediminas esą prisipažino nerašęs laiškų nei popiežiui, nei Vokietijos miestams ir nepareiškęs noro krikštytis.'
   sudarymo_pagrindimas: 'Teiginys perrašytas į aiškų vientisą sakinį be kontekstinio įvado.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Papam vestrum nec novi, nec nosse cupio|Papam vestrum nec novi, nec nosse cupio]]; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Vokietija; mentioned_object: [[objektai/posakiai/Papam vestrum nec novi, nec nosse cupio|Papam vestrum nec novi, nec nosse cupio]]'
   pagrindžia:
     - c-039
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 225190-225604; hash=e7d02b75fb759295bd67672a6f49501a362796f10685cd05998c3ca2aa9d72f4; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajerburgas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176387"></a>
 - t-074
   global_id: t-176387
   teiginys: 'Balińskis manė, kad Gediminas greičiau buvo palaidotas Veliuonoje, Gedimino kalne, o ne Vilniuje.'
   sudarymo_pagrindimas: 'Citata palaiko autoriaus nuomonę apie Gedimino palaidojimo vietą.'
-  susije_objektai: 'location: Vilnius; mentioned_place: Lietuva; mentioned_place: Veliuona; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] mirė Vilnius'
+  susije_objektai: 'burial_place: Vilnius; location: Vilnius; mentioned_place: Veliuona; mentioned_place: Vilnius; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] buvo palaidotas Vilnius; [[objektai/asmenys/Gediminas|Gediminas]] mirė Vilnius'
   pagrindžia:
     - c-020
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f3e3fb424ae7402769c04544c63a49954ebe025761013dc041f9aeb33b165377; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajerburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176388"></a>
 - t-075
@@ -742,6 +1345,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-059
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 227669-228220; hash=d1501dbc9355f740fb2b697e987e0e4f9f995b732e153440cb0022d2fffd1fce; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_palaidotas -> Vilnius: 1.00
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_burial_local_place
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=24
+  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_burial_local_place". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "palaidotas". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176389"></a>
 - t-076
@@ -750,23 +1363,53 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/vergas|vergas]]; mentioned_place: Gotlandas; mentioned_place: Viena; mentioned_place: Štetinas'
   pagrindžia:
     - c-021
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 228092-228553; hash=5fccb0e8e21b2002dad43a63e84bbe082626b8d894b28be5c61692505fcf53fd; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bombardos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bombardos: mention_match, thing, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Bombardos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176391"></a>
 - t-077
   global_id: t-176391
   teiginys: 'Gediminas, pasak Balińskio, plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus ir ant kalno statydino mūro tvirtovę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilija'
   pagrindžia:
     - c-035
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 232817-233377; hash=bfe98eeaea6cffd3087f6fa909bd58a38ebccf49db9dd6c91884e593ba8f813a; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bokštai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bokštai: mention_match, place, gap=76
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Bokštai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176393"></a>
 - t-078
   global_id: t-176393
   teiginys: 'Gediminas laiške pranciškonams prisistatė lietuvių ir rusų karaliumi bei Žemgalijos valdovu ir kunigaikščiu.'
   sudarymo_pagrindimas: 'Fragmentas paverstas pilnu sakiniu apie Gedimino laiške vartotą titulą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Saksonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Saksonija'
   pagrindžia:
     - c-032
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 237121-237565; hash=f1dae65993bee22a8a878bf107c1cb92cbd57792fe3a79946c1463e77fb6e220; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176394"></a>
 - t-079
@@ -787,42 +1430,92 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   temporalinis_llm_pakomentavimas: 'Citata aiškiai patvirtina Gedimino gautą popiežiaus raginimą.'
   pagrindžia:
     - c-065
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 147364-147625; hash=7a5523e437f37ae8f3b26d6e5dd7298da53c5e965e153114cbdc3860498d8931; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176396"></a>
 - t-081
   global_id: t-176396
   teiginys: 'Gediminas, kaip skelbė Prūsijoje pasklidęs gandas, į visas šalis išsiuntinėjo laiškus apie norą priimti krikštą.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo, kad tai buvo gandas, ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Prūsija; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Ryga'
   pagrindžia:
     - c-046
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 155742-156052; hash=000ad94931db6fd6902a4353f05f43f33be16a3849bd7a83220791cd9dcf3f07; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176397"></a>
 - t-082
   global_id: t-176397
   teiginys: 'Gediminas 1323 ir 1324 metais su ginkluota kariauna įsiveržė į Mazoviją ir Dobrynės žemę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dobrynė; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Dobrynė; mentioned_place: Mazovija; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-045
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 165942-166286; hash=b881e041f62f7e788f577ea469dc092070c0d5a778a43140501ab816a930c72f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kristmemelis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kristmemelis: mention_match, place, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kristmemelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176398"></a>
 - t-083
   global_id: t-176398
   teiginys: 'Gediminas savo monarchijos galią grindė lietuvių ir rusų riterių priklausomybe aukščiausiajai feodalinei valdžiai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-047
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 34131-34351; hash=bedbe61cc2636f2e5bb4c9a12525db45c48c9b7130028127f5bba6ec6358d49e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Plockas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Plockas: mention_match, place, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Plockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176399"></a>
 - t-084
   global_id: t-176399
   teiginys: 'Gediminas apibūdinamas kaip darnesnio feodalizmo kūrėjas ir miestų steigėjas Lietuvoje.'
   sudarymo_pagrindimas: 'Citata palaiko apibendrintą faktinį teiginį apie Gedimino vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-068
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 45021-45544; hash=a28f5c4a3817401f0421ba69b34a0fe71ea8586159b5b00ce382fb24d726e205; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pamaris: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Pamaris: mention_match, place, gap=99
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Pamaris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176400"></a>
 - t-085
@@ -832,18 +1525,38 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
   pagrindžia:
     - c-017
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 45357-45818; hash=46d3741c96223683d750fbde3f76e1bc19ea57c5723cf07b22ceb57f62cf425d; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-176401"></a>
 - t-086
   global_id: t-176401
   teiginys: 'Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.'
   sudarymo_pagrindimas: 'Pradinis teiginys apima platesnį kontekstą; sutrumpinta iki faktų, tiesiogiai siejamų su Gediminu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Mongolų imperija|Mongolų imperija]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didvalstybė|didvalstybė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Baltarusija; mentioned_place: Baltoji Rusia; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Rusia; mentioned_place: Vitebskas; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Baltoji Rusia; mentioned_place: Lietuva; mentioned_place: Rusia; mentioned_place: Voluinė; mentioned_group: [[objektai/grupes/Mongolų imperija|Mongolų imperija]]; mentioned_object: [[objektai/zodynas/didvalstybė|didvalstybė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Baltarusija; mentioned_place: Kijevas; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1307 m.; įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1340 m.; įvykio data: 1362 m.; įvykio data: 1363 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys apima platesnį kontekstą; sutrumpinta iki faktų, tiesiogiai siejamų su Gediminu.'
   pagrindžia:
     - c-056
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 87688-88118; hash=2836da08b1ced98b5b50f4b2a35cfd9f07622ec075e8f66760f50bd0b60a00dd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184699"></a>
 - t-088
@@ -853,9 +1566,19 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Taisytinas OCR triukšmas ir reikia aiškiai suformuluoti autoriaus interpretaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]; mentioned_place: Livonija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]; mentioned_place: Livonija; mentioned_place: Prūsija'
   pagrindžia:
     - c-073
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 680077-681180; hash=45d37901a91f954a9fdd4d7fd02472810cda973fbec0b2be79230cb6b03caa0c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184700"></a>
 - t-089
@@ -868,6 +1591,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   susije_objektai: 'mentioned_object: [[objektai/posakiai/Kijevo ir Rusios didįjį kunigaikštį|Kijevo ir Rusios didįjį kunigaikštį]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Kijevas; mentioned_place: Severskas; mentioned_place: Čerkasai'
   pagrindžia:
     - c-074
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 686510-686911; hash=64387a15f214e5e1a8c08ceefd50ee7b61b0a06c0b76ceb9e700b72026736eba; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184701"></a>
 - t-090
@@ -889,391 +1622,160 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinė formuluotė per ilga ir su OCR klaidomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aldona Gediminaitė|Aldona Gediminaitė]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-076
-- susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90067|Vladislovas Lokietka]]: Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Fridrichas de Libencelė.md#claim-t-87674|Fridrichas de Libencelė]]: 1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.
-- susijęs iš Ragainė: 1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.
-- susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60006|Albrechtas iš Hageno]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių.
-- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-05154|Aldona Gediminaitė]]: Aldona šiame šaltinyje tiesiogiai vadinama Gedimino dukterimi.
-- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97302|Aldona Gediminaitė]]: 1325 m. Aldona-Ona buvo ištekinta už Kazimiero.
-- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97304|Aldona Gediminaitė]]: 1325 m. sutartį tarp Lietuvos ir Vladislovo Lokietkos sutvirtino Aldonos Gediminaitės ir Kazimiero jungtuvės.
-- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97305|Aldona Gediminaitė]]: Gedimino duktė Aldona 1325 m. ištekėjo už Vladislovo I Lokietkos sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.
-- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97308|Aldona Gediminaitė]]: 1325 m. Gedimino dukters Aldonos ir Vladislovo Lokietkos sūnaus Kazimiero jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį.
-- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97309|Aldona Gediminaitė]]: Gedimino duktė Aldona ištekėjo už Lokietkos sūnaus Kazimiero, sutvirtinant sąjungininkų taikos sutartį.
-- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97313|Aldona Gediminaitė]]: 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis.
-- susijęs iš [[objektai/asmenys/Aldona Ona.md#claim-t-39997|Aldona Ona]]: Aldona Ona 1325 m. buvo ištekinta už Lenkijos sosto įpėdinio Kazimiero, Lokietkos sūnaus.
-- susijęs iš [[objektai/asmenys/Aleksandras (Mykolo sūnus).md#claim-t-184369|Aleksandras (Mykolo sūnus)]]: Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų).
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-05159|Algirdas (Lietuvos valdovas)]]: Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10670|Algirdas (Lietuvos valdovas)]]: 1362 m. Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, paėmė Kijevą ir pasodino ten savo sūnų Vladimirą.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=af6163fb0d6ea41aef719027e4f1707abb70c9cb065f6055c536e7448e42e308; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184420|Kazimieras Didysis]]: Kazimieras Didysis vedė Gedimino dukterį Aldoną, per krikštą pavadintą Ona.
+- susijęs iš [[objektai/asmenys/Vaclovas (Vanka).md#claim-t-60452|Vaclovas (Vanka)]]: Apie 1320 m. Plocko kunigaikštis Vaclovas Vanka vedė Gedimino dukterį.
+- susijęs iš [[objektai/asmenys/Vaclovas (Wanko) iš Płocko.md#claim-t-100079|Vaclovas (Wanko) iš Płocko]]: Vaclovas (Wanko) iš Płocko vedė Gedimino dukterį.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176843|Vytenis]]: Vytenio brolis Gediminas davė vardą Gediminaičių dinastijai ir valdė 1316–1341 m.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176274|Algirdas (Lietuvos valdovas)]]: Algirdas buvo Gedimino sūnus ir Jogailos tėvas.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176276|Algirdas (Lietuvos valdovas)]]: Algirdas, laimėjęs sostą ir įsitraukęs į karus su Rusia, netrukus išvyko iš Vilniaus.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176279|Algirdas (Lietuvos valdovas)]]: Lietuvos metraščiuose užrašyti Ldk Algirdo žygiai į Maskvą laikomi epinius pasakojimus atitinkančiu siužetu.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176281|Algirdas (Lietuvos valdovas)]]: 1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176283|Algirdas (Lietuvos valdovas)]]: Algirdas iš senosios Kijevo Rusios įsigijo plačias teritorijas.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176287|Algirdas (Lietuvos valdovas)]]: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats miestas perėjo į Algirdo rankas.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176289|Algirdas (Lietuvos valdovas)]]: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176293|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176300|Algirdas (Lietuvos valdovas)]]: Algirdas viešpatavo Vitebske ir Krėvoje ir dar Gediminui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176305|Algirdas (Lietuvos valdovas)]]: Algirdas leido Romos vienuoliams Vilniuje skelbti evangeliją, o graikų apeigų dvasininkams atlikti savo tikėjimo apeigas.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176310|Algirdas (Lietuvos valdovas)]]: Labiau linkstama manyti, kad Algirdas prijungė Kijevą po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-183725|Algirdas (Lietuvos valdovas)]]: Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.
-- susijęs iš [[objektai/asmenys/Baltramiejus (vyskupas).md#claim-t-30210|Baltramiejus (vyskupas)]]: Vyskupas Baltramiejus 1324 m. vasarop atvyko į Rygą kaip vienas iš dviejų Avinjono legatų.
-- susijęs iš [[objektai/asmenys/Bernardas (abatas).md#claim-t-30211|Bernardas (abatas)]]: Abatas Bernardas 1324 m. vasarop su vyskupu Baltramiejumi atvyko iš Avinjono į Rygą kaip popiežiaus legatas.
-- susijęs iš [[objektai/asmenys/Bertoldas (pranciškonas).md#claim-t-30212|Bertoldas (pranciškonas)]]: Pranciškonas Bertoldas su Henriku į Gedimino laišką veikiausiai įrašė daugiau, negu Gediminas buvo ketinęs.
-- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176317|Birutė]]: Birutės ir Kęstučio meilės istorija laikoma vienu iš Lietuvos metraščiuose užrašytų epinių pasakojimų siužetų.
-- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176318|Birutė]]: Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei.
-- susijęs iš [[objektai/asmenys/Boleslovas Jurgis Traidenaitis.md#claim-t-35038|Boleslovas Jurgis Traidenaitis]]: Boleslovas Jurgis Traidenaitis mirė 1340 m., o po jo dėl Haličo ir Volynijos varžėsi Kazimieras Didysis ir Liubartas.
-- susijęs iš [[objektai/asmenys/Boleslovas.md#claim-t-89676|Boleslovas]]: Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.
-- susijęs iš [[objektai/asmenys/Bonislavas (Mazovijos kunigaikštis ).md#claim-t-87639|Bonislavas (Mazovijos kunigaikštis )]]: Gedimino laiškų rašytojas dviejuose laiškuose Mazovijos kunigaikštį vadino Bonislavu, nors Balińskis tokio kunigaikščio nerado.
-- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184689|Daumantas (kunigaikštis, XV a.)]]: 1441 m. žemaičiai, pašalinę Kęsgailos paliktus pareigūnus, išsirinko Daumantą kunigaikščiu ir rėmė Mykolą.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176528|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis buvo Gedimino sūnus ir vienas iš Lietuvos kunigaikščių.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176532|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176534|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas.
+- susijęs iš [[objektai/asmenys/Lokietka.md#claim-t-40309|Lokietka]]: 1325 m. Lokietkos sūnus Kazimieras vedė Gedimino dukrą Aldoną Oną, taip stiprindamas Gedimino suartėjimą su Lenkija.
+- susijęs iš [[objektai/asmenys/Lokietka.md#claim-t-40309|Lokietka]]: 1325 m. Lokietkos sūnus Kazimieras vedė Gedimino dukrą Aldoną Oną, taip stiprindamas Gedimino suartėjimą su Lenkija.
+- susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90067|Vladislovas Lokietka]]: Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną.
+- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97305|Aldona Gediminaitė]]: Gedimino duktė Aldona 1325 m. ištekėjo už Vladislovo I Lokietkos sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.
+- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97309|Aldona Gediminaitė]]: Gedimino duktė Aldona ištekėjo už Lokietkos sūnaus Kazimiero, sutvirtinant sąjungininkų taikos sutartį.
 - susijęs iš [[objektai/asmenys/Dimitras (Tverės kunigaikštis).md#claim-t-97314|Dimitras (Tverės kunigaikštis)]]: Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro, Mykolo sūnaus.
 - susijęs iš [[objektai/asmenys/Dimitras (Tverės kunigaikštis).md#claim-t-97315|Dimitras (Tverės kunigaikštis)]]: Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro, Mykolo sūnaus.
+- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184410|Kazimieras Didysis]]: 1325 m. Gedimino duktė Aldona (Ona) buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimo Kazimiero III Didžiojo.
+- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-12193|Liubartas]]: 1340 m., mirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Kazimieras Didysis.
+- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93463|Liubartas]]: 1340 m. dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Boleslovo giminaitis Kazimieras Didysis.
+- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-05154|Aldona Gediminaitė]]: Aldona šiame šaltinyje tiesiogiai vadinama Gedimino dukterimi.
+- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97304|Aldona Gediminaitė]]: 1325 m. sutartį tarp Lietuvos ir Vladislovo Lokietkos sutvirtino Aldonos Gediminaitės ir Kazimiero jungtuvės.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176274|Algirdas (Lietuvos valdovas)]]: Algirdas buvo Gedimino sūnus ir Jogailos tėvas.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176293|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176300|Algirdas (Lietuvos valdovas)]]: Algirdas viešpatavo Vitebske ir Krėvoje ir dar Gediminui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu.
+- susijęs iš [[objektai/asmenys/Bertoldas (pranciškonas).md#claim-t-30212|Bertoldas (pranciškonas)]]: Pranciškonas Bertoldas su Henriku į Gedimino laišką veikiausiai įrašė daugiau, negu Gediminas buvo ketinęs.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59952|Ditrichas iš Altenburgo]]: 1324 m. gegužės 22 d. Ditrichas iš Altenburgo, Ragainės komtūras, su broliais ir kariais užpuolė Gedimino pilies papilį.
 - susijęs iš [[objektai/asmenys/Dmitrijus Michailovičius.md#claim-t-87653|Dmitrijus Michailovičius]]: Rusios didysis kunigaikštis Dmitrijus Michailovičius buvo vedęs vieną iš Gedimino dukterų ir 1326 m. spalio 15 d. nužudytas totorių chano Uzbeko įsakymu.
-- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173128|Dovydas (Gardino pilininkas)]]: Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasarį užpuolė Revelio žemę.
-- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173130|Dovydas (Gardino pilininkas)]]: 1324 m. kovo mėnesį kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, o vėliau puolė Gardiną.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173133|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.
-- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173134|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gedimino kariuomenė, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę.
-- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173139|Dovydas (Gardino pilininkas)]]: 1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė Revelio žemę.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173141|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173142|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.
-- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173145|Dovydas (Gardino pilininkas)]]: Dusburgietis pasakoja, kad 1324 m. Gediminas pasiuntė Dovydą niokoti Mazovijos žemės.
 - susijęs iš [[objektai/asmenys/Dovydas Gardiniškis.md#claim-t-30225|Dovydas Gardiniškis]]: Pagal M. Stryjkovskio kroniką, Dovydo Gardiniškio žmona buvo Gediminaitė.
-- susijęs iš [[objektai/asmenys/Eberhardas de Virnemburgas.md#claim-t-87656|Eberhardas de Virnemburgas]]: 1304 m. Eberhardas de Virnemburgas nusiaubė Lietuvos valsčių, vadintą Pagraudene.
-- susijęs iš [[objektai/asmenys/Edividas.md#claim-t-35053|Edividas]]: Mindaugo sūnėnas Edividas įsigyveno Drutske, kai Lietuvos valdžia plito Baltojoje Rusijoje.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54964|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54966|Fridrichas (Rygos arkivyskupas)]]: Vytenis laišku prašė Rygos arkivyskupo Fridricho ir popiežiaus legato Pranciškaus atsiųsti jam minoritų.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54967|Fridrichas (Rygos arkivyskupas)]]: Šaltinio pasakojime Rygos arkivyskupas kaltinamas Gedimino vardu parengęs ir išsiuntinėjęs laiškus prieš Kryžiuočių ordiną.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54968|Fridrichas (Rygos arkivyskupas)]]: 1325 m. balandį po Gedimino laiškų paskelbimo Rygos arkivyskupas nuvyko į popiežiaus rūmus.
-- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89710|Fridrichas (Rygos arkivyskupas)]]: Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti jam minoritų.
-- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89713|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočiai manė, kad Rygos arkivyskupas Fridrichas iš senos neapykantos atsikvietė lietuvių priešą į Livoniją.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89716|Fridrichas (Rygos arkivyskupas)]]: Balińskis manė, kad Rygos arkivyskupas Fridrichas Gedimino vardu parengė ir išsiuntinėjo laiškus prieš Kryžiuočių ordiną.
-- susijęs iš [[objektai/asmenys/Fridrichas (Rygos vyskupas).md#claim-t-186204|Fridrichas (Rygos vyskupas)]]: Rygos vyskupas Fridrichas bandė sutaikyti Livonijos ordiną ir Lietuvą, pasitelkęs popiežiaus Jono XXII autoritetą.
-- susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59858|Fridrichas II]]: M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.
-- susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59960|Fridrichas Kvicas]]: Broliai Hartmanas ir Fridrichas Kvicas su 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė.
 - susijęs iš [[objektai/asmenys/Fridrichas de Libencelė.md#claim-t-87674|Fridrichas de Libencelė]]: 1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.
-- susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59953|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Eberhardas, Varmės vyskupas, Fridricho iš Libencelės pastangomis pastatydino Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59955|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.
-- susijęs iš [[objektai/asmenys/Germantas.md#claim-t-87426|Germantas]]: Balińskis teigė, kad Germantas Šventaragio slėnyje plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus.
-- susijęs iš [[objektai/asmenys/Germantas.md#claim-t-87427|Germantas]]: Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms.
 - susijęs iš [[objektai/asmenys/Gotfridas fon Ustas.md#claim-t-87506|Gotfridas fon Ustas]]: Gotfridas fon Ostas buvo vienas iš Ordino riterių Liubeke, kurių patarimo nutarta prašyti dėl Gedimino laiškų.
-- susijęs iš [[objektai/asmenys/Guillaume de Machaut.md#claim-t-30258|Guillaume de Machaut]]: Prancūzų poetas Guillaume de Machaut dalyvavo šiame žygyje ir 1357 m. jį paminėjo veikale „Confort d’Ami“.
-- susijęs iš [[objektai/asmenys/Hartmanas.md#claim-t-60299|Hartmanas]]: 1317 m. brolis Hartmanas su Fridrichu Kvicu ir 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė.
 - susijęs iš [[objektai/asmenys/Henrikas Duseneris.md#claim-t-87686|Henrikas Duseneris]]: Ordino maršalas Henrikas Duseneris su Reino palatinu atvyko į pagalbą Bajerburgo pilies gynėjams per Gedimino apsiaustį.
-- susijęs iš [[objektai/asmenys/Isamas (Rygos arkivyskupas).md#claim-t-87518|Isamas (Rygos arkivyskupas)]]: Rygos arkivyskupui Isamui tarpininkaujant buvo sudaryta lietuvių taikos sutartis su Vokiečių ordinu.
-- susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176416|Jadvyga Jogailienė]]: Jadvyga Jogailienė 1387 metų sausį atvyko į Vilnių kartu su Vladislovu Jogaila ir kitais krikščionybės skleidėjais.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176438|Jaunutis (valdovas, XIV a.)]]: Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176439|Jaunutis (valdovas, XIV a.)]]: Jaunutis gyveno prie tėvų Vilniuje, o po Gedimino mirties tapo Vilniaus ir gretimų sričių valdovu.
-- susijęs iš [[objektai/asmenys/Jaunė (Jievna).md#claim-t-34795|Jaunė (Jievna)]]: Gedimino našlė Jaunė tikriausiai buvo jungiantis veiksnys, kai Vilniuje gyveno kartu su Jaunučiu.
 - susijęs iš [[objektai/asmenys/Jonas (popiežius).md#claim-t-87522|Jonas (popiežius)]]: Popiežius Jonas turėjo atsiųsti pasiuntinius Gediminui, tačiau jų delsimas Gediminui kėlė didelį susirūpinimą.
-- susijęs iš [[objektai/asmenys/Jonas (popiežius).md#claim-t-87523|Jonas (popiežius)]]: Gediminas pasiuntė laišką popiežiui Jonui, prašydamas, kad šis jį apvilktų pirmuoju krikšto rūbu.
-- susijęs iš [[objektai/asmenys/Jonas Kalita.md#claim-t-30308|Jonas Kalita]]: Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.
-- susijęs iš [[objektai/asmenys/Jonas Kalita.md#claim-t-30309|Jonas Kalita]]: Totorių palaikomas Jonas Kalita savo valdžion užiminėjo rusų žemes.
-- susijęs iš [[objektai/asmenys/Jonas Liuksemburgietis.md#claim-t-30310|Jonas Liuksemburgietis]]: 1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius.
 - susijęs iš [[objektai/asmenys/Jonas Rygietis.md#claim-t-87528|Jonas Rygietis]]: Jonas Rygietis su Rygos tarėju Henriku fon Calmaru 1323 m. liepos 18 d. Liubeko rotušėje įteikė tariamus Gedimino laiškus.
 - susijęs iš [[objektai/asmenys/Jonas XXII (popiežius).md#claim-t-97447|Jonas XXII (popiežius)]]: 1317 m. popiežius Jonas XXII paragino Gediminą krikštytis.
 - susijęs iš [[objektai/asmenys/Jonas XXII (popiežius).md#claim-t-97448|Jonas XXII (popiežius)]]: Popiežius Jonas XXII 1317 m. ragino Gediminą krikštytis.
 - susijęs iš [[objektai/asmenys/Jonas XXII.md#claim-t-183545|Jonas XXII (arkivyskupas, XIV a.)]]: Popiežius Jonas XXII kėlė bažnytinės unijos idėją, o Gediminas jam siuntė laiškus dėl krikšto.
-- susijęs iš [[objektai/asmenys/Jonas iš Endorfo.md#claim-t-60345|Jonas iš Endorfo]]: 1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis ėjo iš bažnyčios.
-- susijęs iš [[objektai/asmenys/Jurgis (Danieliaus sūnus).md#claim-t-30316|Jurgis (Danieliaus sūnus)]]: Maskvos kunigaikštis Jurgis, Danieliaus sūnus, 1325 m. žuvo totorių ordoje.
-- susijęs iš [[objektai/asmenys/Karolis IV.md#claim-t-89885|Karolis IV]]: 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes.
 - susijęs iš [[objektai/asmenys/Kazimieras (Lokietkos sūnus).md#claim-t-30329|Kazimieras (Lokietkos sūnus)]]: Lokietkos sūnus Kazimieras 1325 m. taikos sutartį sutvirtino vedybomis su Gedimino dukterimi Aldona.
-- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184410|Kazimieras Didysis]]: 1325 m. Gedimino duktė Aldona (Ona) buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimo Kazimiero III Didžiojo.
-- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184413|Kazimieras Didysis]]: 1325 m. Gedimino dukters Aldonos ir būsimojo Kazimiero Didžiojo jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį.
-- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184414|Kazimieras Didysis]]: Kazimieras III Dobrynės žemę buvo atidavęs Vladislovui iš Opolės.
 - susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184417|Kazimieras Didysis]]: Kazimieras 1325 m. buvo sutuoktas su Gedimino dukra Aldona Ona ir tuo metu buvo Lenkijos sosto įpėdinis.
 - susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184420|Kazimieras Didysis]]: Kazimieras Didysis vedė Gedimino dukterį Aldoną, per krikštą pavadintą Ona.
-- susijęs iš [[objektai/asmenys/Kiršenšteinas.md#claim-t-87913|Kiršenšteinas]]: Prūsijoje lietuvių paimtos karo belaisvės sūnus buvo vadinamas Kiršenšteinu, o jo giminė vėliau valdė Raudonės pilį.
-- susijęs iš [[objektai/asmenys/Konradas Lichtenhagenas.md#claim-t-87759|Konradas Lichtenhagenas]]: Brandenburgo komtūras Konradas Lichtenhagenas atėjo į Gardino valsčių ir pilį po žygio į Pagraudenės valsčių.
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-05189|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: 1381 m. Kęstutis, išvaręs Jogailą, tapo vyriausiuoju Lietuvos valdovu ir atsisėdo Vilniaus pilyje.
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-10689|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis pastatė mūro pilį Trakų ežero saloje.
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176516|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei kunigaikščių buveinei.
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176519|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: 1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176520|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176528|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis buvo Gedimino sūnus ir vienas iš Lietuvos kunigaikščių.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176531|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis valdė Žemaitijoje ir dar Gediminui gyvam esant buvo išgarsėjęs mūšiais su Mazovija, Rusia ir Prūsijos ordinu.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176532|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176534|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-05195|Liubartas]]: Liubartas buvo vienas iš Gedimino sūnų, kurie, gavę dalis stačiatikių srityse, priėmė jų tikėjimą.
-- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-12192|Liubartas]]: Liubartas vedė paskutinio Volynijos kunigaikščio vienturtę dukterį.
-- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-12193|Liubartas]]: 1340 m., mirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Kazimieras Didysis.
-- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93458|Liubartas]]: Liubartas vedė vienturtę Volynijos kunigaikščio įpėdinę.
-- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93461|Liubartas]]: Prieš Gedimino mirtį Liubartas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės.
-- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93463|Liubartas]]: 1340 m. dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Boleslovo giminaitis Kazimieras Didysis.
 - susijęs iš [[objektai/asmenys/Lokietka.md#claim-t-40309|Lokietka]]: 1325 m. Lokietkos sūnus Kazimieras vedė Gedimino dukrą Aldoną Oną, taip stiprindamas Gedimino suartėjimą su Lenkija.
-- susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-87374|Manvydas]]: Manvydas buvo vienas garsiausių Lietuvos didikų, kurio didžiuliai rūmai stovėjo Vilniuje pilies kalno pietų pusėje, tarp kalno ir Vilnelės.
-- susijęs iš [[objektai/asmenys/Marija (Algirdo žmona).md#claim-t-87545|Marija (Algirdo žmona)]]: Marija buvo Tverės kunigaikštytė ir Algirdo žmona.
-- susijęs iš [[objektai/asmenys/Marija (Gedimino duktė).md#claim-t-82550|Marija (Gedimino duktė)]]: Gedimino duktė Marija buvo ištekinta už Rusios kunigaikščio Boleslovo.
-- susijęs iš [[objektai/asmenys/Marija (Gedimino duktė).md#claim-t-82552|Marija (Gedimino duktė)]]: Gedimino duktė Marija politinėmis vedybomis ištekėjo už didžiojo Tverės kunigaikščio Dimitro.
-- susijęs iš [[objektai/asmenys/Marija (Haličo-Volinijos giminės).md#claim-t-97463|Marija (Haličo-Volinijos giminės)]]: Marija buvo vienintelė likusi Haličo-Volinijos Riurikaičių giminės atžala ir žuvusių brolių sesuo.
-- susijęs iš [[objektai/asmenys/Marija (Vitebsko sosto įpėdinė).md#claim-t-30356|Marija (Vitebsko sosto įpėdinė)]]: Marija buvo vienintelė Vitebsko kunigaikščio sosto įpėdinė, o ją vedęs Algirdas po uošvio mirties paveldėjo Vitebską.
-- susijęs iš [[objektai/asmenys/Mikalojus fon Parsau.md#claim-t-87552|Mikalojus fon Parsau]]: 1323 m. Liubeke prieš sprendimą dėl Gedimino laiškų nutarta prašyti patarimo Karkuso valdytojo Mikalojaus fon Parsau.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113903|Mindaugas (valdovas, XIII a.)]]: Mindaugo krikštas ir karalystė nepanaikino pagoniškų dievų vaidmens Lietuvoje.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113904|Mindaugas (valdovas, XIII a.)]]: Gediminas laiške popiežiui ir kardinolams rašė, kad karalius Mindaugas su visa tauta buvo priėmęs krikščioniškąjį tikėjimą.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113917|Mindaugas (valdovas, XIII a.)]]: Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet vėliau nuo jo atkrito.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113924|Mindaugas (valdovas, XIII a.)]]: Balińskis Gedimino laiškuose išskyrė užuominą apie karaliaus Mindaugo grįžimą prie pagonybės dėl Kryžiuočių ordino kaltės.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113925|Mindaugas (valdovas, XIII a.)]]: Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl teutonų išdavysčių nuo jo atkrito.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113929|Mindaugas (valdovas, XIII a.)]]: Gedimino laiške teigta, kad karalius Mindaugas su tauta priėmė krikščionybę, bet dėl kryžiuočių smurto nuo jos atsimetė.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113933|Mindaugas (valdovas, XIII a.)]]: Gedimino laikais įsitvirtinus leniniam valdymui, buvo įgyvendintos Mindaugo politinės pastangos.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113934|Mindaugas (valdovas, XIII a.)]]: Balińskis teigė, kad Gedimino veiklumo dėka buvo įgyvendintos Mindaugo pastangos.
-- susijęs iš [[objektai/asmenys/Mykolas Zaleskis.md#claim-t-87804|Mykolas Zaleskis]]: Mykolui Zaleskiui priklausė Veliuona.
-- susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
 - susijęs iš [[objektai/asmenys/Paulius iš Olivos.md#claim-t-87818|Paulius iš Olivos]]: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173208|Petras Goštautas]]: Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173210|Petras Goštautas]]: Waddyngas ir Antoni Melissanius de Macro pasakoja, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų vienuolių.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54989|Petras Goštautas]]: Apie 1345 m. prieš pranciškonų žudynes Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54990|Petras Goštautas]]: Pagal Waddyngo pasakojimą Petras Goštautas 1333 m. atkvietė į Vilnių keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.
-- susijęs iš [[objektai/asmenys/Pranciškus (popiežiaus legatas).md#claim-t-87564|Pranciškus (popiežiaus legatas)]]: Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų į pastatytą bažnyčią.
 - susijęs iš [[objektai/asmenys/Reimaras fon Hanė.md#claim-t-87566|Reimaras fon Hanė]]: Reimaras fon Hanė buvo Vendeno komtūras, kurio patarimo ketinta prašyti prieš apsisprendžiant dėl Gedimino laiškų.
-- susijęs iš [[objektai/asmenys/Stanislovas.md#claim-t-186018|Stanislovas]]: Stanislovas pabėgo į Riazanę, kur neturėjo nei kariuomenės, nei valdžios ir atsisakė vilčių.
-- susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-60211|Sudargas]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą ir sudegino jį drauge su aplinkiniais kaimais.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90019|Sventopelkas]]: Petras Dusburgietis Pamario kunigaikštį Sventopelką vadina išdaviku dėl bendradarbiavimo su prūsais prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121172|Tautvilas]]: Mindaugo sūnėnas Tautvilas įsitvirtino Polocke, kai Lietuvos valdžia plito Baltojoje Rusijoje.
-- susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64173|Teodoras (Liubarto sūnus)]]: Liubarto sūnus Teodoras pabėgo į Vengriją, kur prie jo prisijungė Teodoras Karijotaitis.
-- susijęs iš [[objektai/asmenys/Teodoras.md#claim-t-79203|Teodoras]]: 1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve.
-- susijęs iš [[objektai/asmenys/Teofilis (arkivyskupas).md#claim-t-97510|Teofilis (arkivyskupas)]]: Po arkivyskupo Teofilio mirties apie 1330 m. nebuvo paskirtas naujas įpėdinis.
-- susijęs iš [[objektai/asmenys/Teofilis (arkivyskupas).md#claim-t-97511|Teofilis (arkivyskupas)]]: Po arkivyskupo Teofilio mirties apie 1330 m. Naugarduko arkivyskupija žlugo, nes nebuvo paskirtas naujas įpėdinis.
 - susijęs iš [[objektai/asmenys/Tilemannas Zunpachas.md#claim-t-87868|Tilemannas Zunpachas]]: Kryžiuotis Tilemannas Zunpachas, šaulių vadas, ugniniu šūviu mirtinai sužeidė Gediminą.
 - susijęs iš [[objektai/asmenys/Tomas Aldenburgas.md#claim-t-87584|Tomas Aldenburgas]]: Tomas Aldenburgas su 44 broliais ir 400 vyrų auštant įsiveržė į Gedimino pilies papilį ir jį sudegino.
 - susijęs iš [[objektai/asmenys/Tomas Aldenburgas.md#claim-t-87585|Tomas Aldenburgas]]: 1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas su broliais ir vyrais užpuolė Gedimino pilies papilį.
-- susijęs iš [[objektai/asmenys/Traidenis I.md#claim-t-30401|Traidenis I]]: Traidenis I buvo Mozūrijos, Čersko ir Sochačevo kunigaikštis 1316-1341 m.
 - susijęs iš [[objektai/asmenys/Vaclovas (Vanka).md#claim-t-60452|Vaclovas (Vanka)]]: Apie 1320 m. Plocko kunigaikštis Vaclovas Vanka vedė Gedimino dukterį.
 - susijęs iš [[objektai/asmenys/Vaclovas (Wanko) iš Płocko.md#claim-t-100079|Vaclovas (Wanko) iš Płocko]]: Vaclovas (Wanko) iš Płocko vedė Gedimino dukterį.
-- susijęs iš [[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis).md#claim-t-87880|Venceslavas (Mazovijos ir Plocko kunigaikštis)]]: Venceslavas tuo tarpsniu valdė Mazoviją ir Plocką, o 1321 m. sudarė sutartį su kryžiuočių Ordinu.
-- susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64229|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį.
-- susijęs iš [[objektai/asmenys/Vikintas.md#claim-t-34831|Vikintas]]: Vikintas, Mindaugo sūnėnų Tautvilo ir Edivido dėdė iš motinos pusės, buvo įsigyvenęs Vitebske.
-- susijęs iš [[objektai/asmenys/Vilhelmas iš Modenos.md#claim-t-60076|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]: M. Poliakuvna atkreipė dėmesį į dokumentus, susijusius su popiežiaus pasiuntinio Vilhelmo iš Modenos veikla Prūsijoje.
-- susijęs iš [[objektai/asmenys/Vladimiras Algirdaitis.md#claim-t-182865|Vladimiras Algirdaitis]]: 1396 m. Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, o sau pasiliko Žitomiro ir Ovručio plačius valsčius.
-- susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-184378|Vladislovas Lokietka]]: Gediminas, matydamas užsitęsiančią kovą su kryžiuočiais, rado sąjungininką Lenkijos valdovo Vladislovo Lokietkos asmenyje.
-- susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90067|Vladislovas Lokietka]]: Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90068|Vladislovas Lokietka]]: 1326 m. Lokietka paprašė Lietuvos karaliaus Gedimino atsiųsti karių, ir Gediminas jam davė 1200 raitelių.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90071|Vladislovas Lokietka]]: Dusburgietis Vladislovą Lokietką vaizduoja kaip Gedimino sąjungininką, kovojusį prieš Ordiną dėl Pamario.
 - susijęs iš [[objektai/asmenys/Vladislovas Łokietka.md#claim-t-35327|Vladislovas Łokietka]]: 1325 m. Vladislovas Łokietka sudarė sutartį su Gedimino valdoma Lietuva, kurią sutvirtino Aldonos ir Kazimiero jungtuvės.
-- susijęs iš [[objektai/asmenys/Vladislovas.md#claim-t-184855|Vladislovas]]: Gediminas padėjo Vladislovui kariauti su Brandenburgo markgrafu Voldemaru.
-- susijęs iš [[objektai/asmenys/Vladislovas.md#claim-t-184856|Vladislovas]]: Gediminas atskubėjo į pagalbą Vladislovui ir kariuomenės dalinius patikėjo vadovauti savo sūnums.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176640|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis, Kęstučio sūnus, valdė 1392–1430 m. ir šaltinyje vadinamas iškiliausiu Gediminaičių dinastijos atstovu.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176646|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kęstučio sūnus Vytautas Didysis valdė 1392–1430 m. ir laikytas iškiliausiu dinastijos atstovu.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176657|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1410 m. Vytautas, su kariuomene įžengęs į Prūsiją, rado jam palankių prūsų bajorų.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176672|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176700|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis buvo Kęstučio sūnus ir valdė 1392–1430 m.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176833|Vytenis]]: Karamzinas abejojo prielaida, kad Vytenis, lietuvis pagonis, galėjo būti rusino Vido Dovydavičiaus vaikaitis.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176843|Vytenis]]: Vytenio brolis Gediminas davė vardą Gediminaičių dinastijai ir valdė 1316–1341 m.
-- susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-87898|Šventaragis]]: Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas.
 - susijęs iš [[objektai/autoriai/A. Prochaska.md#claim-t-47872|A. Prochaska]]: A. Prochaska gynė Gedimino laiškų autentiškumą.
-- susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-102832|A. Vijūkas Kojelavičius]]: A. Vijūkas Kojelavičius Pagraudenę vadino Žemaitijos apylinke.
-- susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-102833|A. Vijūkas Kojelavičius]]: Kojelavičius Pagraudenę vadino apylinke Žemaitijoje.
 - susijęs iš [[objektai/autoriai/Albertas Krantzas.md#claim-t-54997|Albertas Krantzas]]: Albertas Krantzas priskirtas vėlesniems kronikininkams, kurie Gedimino laiškų klausimą siejo su arkivyskupu.
 - susijęs iš [[objektai/autoriai/Albertas Krantzas.md#claim-t-54998|Albertas Krantzas]]: Pasak Alberto Krantzo, Gediminas pareiškė, kad popiežiaus nei pažinojo, nei troško pažinti.
 - susijęs iš [[objektai/autoriai/Albertas Krantzas.md#claim-t-81884|Albertas Krantzas]]: Albertas Krantzas teigė, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.
-- susijęs iš [[objektai/autoriai/Antoni Melissanius de Macro.md#claim-t-88053|Antoni Melissanius de Macro]]: Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.
 - susijęs iš [[objektai/autoriai/August von Kotzebue.md#claim-t-87942|August von Kotzebue]]: Kotzebue tikėjosi Gedimino laiškų originalus rasti Ordino archyve ir apkaltinti Ordiną nauja piktadaryste.
 - susijęs iš [[objektai/autoriai/Dreyer.md#claim-t-88055|Dreyer]]: Dreyerio veikale buvo paskelbtas Gedimino laiškas Šiaurės Vokietijos pajūrio miestams.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102840|Dusburgas]]: Dusburgas laikytas aprašomų įvykių amžininku ir patikimu liudytoju apie Gedimino pilį.
-- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102843|Dusburgas]]: Dusburgas prie 1304 m. pirmą kartą paminėjo Pagraudenę, pasakodamas apie Eberhardo de Virnemburgo įsiveržimą į Lietuvą.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102846|Dusburgas]]: Dusburgas pranešė, kad Gedimino pasiuntinys paneigė valdovo valia siųstus laiškus dėl krikšto.
-- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102849|Dusburgas]]: 1985 m. leidinio įžangoje Petras iš Dusburgo apibūdinamas kaip Kryžiuočių ordino brolis kunigas, 1326 m. užbaigęs savo kroniką; nurodoma, kad ji pratęsta iki 1330 m.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102851|Dusburgas]]: Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.
-- susijęs iš [[objektai/autoriai/Hartknochas.md#claim-t-88023|Hartknochas]]: Hartknocho prielaida, kad Vilnius buvo vadinamas Castrum Gedemini, Balińskio tekste atmetama.
 - susijęs iš [[objektai/autoriai/Hermanas Corneris Korneris.md#claim-t-88025|Hermanas Corneris Korneris]]: Hermano Kornerio kronikoje teigta, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.
 - susijęs iš [[objektai/autoriai/Hermanas Corneris.md#claim-t-54637|Hermanas Corneris]]: Hermanas Corneris savo kronikoje Gedimino laiškų neminėjo ir viską priskyrė Rygos arkivyskupui.
 - susijęs iš [[objektai/autoriai/Hermanas Korneris.md#claim-t-88062|Hermanas Korneris]]: Hermano Kornerio kronikoje teigta, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.
 - susijęs iš [[objektai/autoriai/I. Štai.md#claim-t-88063|I. Štai]]: I. Štai kartu su V. Pašuta parengė leidinį „Gedimino laiškai“, kuriuo remiamasi cituojant laiško vertimą.
-- susijęs iš [[objektai/autoriai/J. Adamus.md#claim-t-30654|J. Adamus]]: J. Adamus 1930 m. žurnale KH paskelbė darbą „O tytule panującego i państwa litewskiego“.
-- susijęs iš [[objektai/autoriai/J. Jakštas.md#claim-t-100099|J. Jakštas]]: J. Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje viduramžių istorijoje, kurią docento teisėmis dėstė Vilniaus universitete 1940–1944 m.
-- susijęs iš [[objektai/autoriai/J. Puzyna.md#claim-t-30698|J. Puzyna]]: J. Puzyna 1930 m. paskelbė darbą „Korjat i Korjatowicze“, o 1936 m. pasirodė jo papildymai.
 - susijęs iš [[objektai/autoriai/Jakštas, J.md#claim-t-71515|Jakštas, J]]: J. Jakštas Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.
 - susijęs iš [[objektai/autoriai/Jakštas, J.md#claim-t-71517|Jakštas, J]]: J. Jakštas paskelbė studiją apie Vokiečių ordiną ir Lietuvą Vytenio bei Gedimino laikais ir nagrinėjo Jogailos bei Vytauto kovas su Ordinu.
 - susijęs iš [[objektai/autoriai/Jakštas, J.md#claim-t-71518|Jakštas, J]]: J. Jakštas yra veikalo Vokiečių Ordinas ir Lietuva Vytenio ir Gedimino metu autorius.
 - susijęs iš [[objektai/autoriai/Jerošinas Jeroschin.md#claim-t-88021|Jerošinas Jeroschin]]: Jerošinas teigė, kad Gediminas per pasiuntinius neigė savo valia siuntęs laiškus miestams, šalims ar popiežiui.
 - susijęs iš [[objektai/autoriai/Jerošinas.md#claim-t-88046|Jerošinas]]: Jerošinas teigė, kad Gediminas per pasiuntinius neigė savo valia siuntęs laiškus miestams, šalims ar popiežiui.
-- susijęs iš [[objektai/autoriai/K. Chodynicki.md#claim-t-30729|K. Chodynicki]]: K. Chodynicki 1926 m. paskelbė darbą „Geneza dynastii Giedymina“.
 - susijęs iš [[objektai/autoriai/K. Chodynicki.md#claim-t-30731|K. Chodynicki]]: K. Chodynicki gynė Gedimino laiškų autentiškumą.
 - susijęs iš [[objektai/autoriai/K. Forstreuter.md#claim-t-100105|K. Forstreuter]]: K. Forstreuteris Gedimino laiškus laikė rygiečių falsifikatais arba bent stipriai įtartinais.
-- susijęs iš [[objektai/autoriai/Kojałowicz Kojelavičius.md#claim-t-87997|Kojałowicz Kojelavičius]]: Kojelavičius Pagraudenę vadino Žemaitijos apylinke.
 - susijęs iš [[objektai/autoriai/Kurt Forstreuter.md#claim-t-100101|Kurt Forstreuter]]: Kurtas Forstreuteris Gedimino laiškus laikė rygiečių falsifikatais arba bent stipriai įtartinais.
 - susijęs iš [[objektai/autoriai/Kučinskas, A.md#claim-t-30774|Kučinskas, A]]: A. Kučinskas nurodomas 1934 m. Kaune paskelbto teksto „Gedimino dinastijos kilmė“ autoriumi.
-- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78779|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Karoliu Zikaru parengė kartoschemą „Mindaugo valdoma Lietuva iki 1263 m.“.
-- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78789|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą apie Lietuvos teritoriją iki 1341 m.
 - susijęs iš [[objektai/autoriai/M. Ročka.md#claim-t-88030|M. Ročka]]: M. Ročka vertė 1966 m. leidyklos „Mintis“ išleistus „Gedimino laiškus“.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172933|M. Strijkovskis Stryjkowski]]: Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172902|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis XVI a. antrojoje pusėje rašė, kad Gediminas mūšyje prie Irpenės smogė rusams iš šono ir juos sumušė.
-- susijęs iš [[objektai/autoriai/Naruszewicz Naruševičius.md#claim-t-87996|Naruszewicz Naruševičius]]: Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
-- susijęs iš [[objektai/autoriai/Naruszewicz.md#claim-t-87991|Naruszewicz]]: Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
 - susijęs iš [[objektai/autoriai/Olivos metraščiai.md#claim-t-88077|Olivos metraščiai]]: Olivos metraščiai rašo, kad Gediminui ar jo kariui stumiant karinę mašiną pataikė Marijano iš bombardos paleistas šūvis.
-- susijęs iš [[objektai/autoriai/P. Būtėnas.md#claim-t-97201|P. Būtėnas]]: P. Būtėnas 1973 m. žurnale „Karys“ paskelbė straipsnius apie Vilnių ir jo pradžią.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181461|Petras Dusburgietis]]: Petras Dusburgietis 1326 m. užbaigė savo kroniką, įteikė ją magistrui, o kūrinys buvo pratęstas iki 1330 m.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181466|Petras Dusburgietis]]: Petras iš Dusburgo 1326 m. užbaigė savo kroniką ir įteikė ją magistrui.
-- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181473|Petras Dusburgietis]]: Petras iš Dusburgo šiame šaltinyje apibūdinamas kaip Ordino brolis kunigas, 1326 m. užbaigęs savo kroniką ir įteikęs ją magistrui.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47901|Rusų ir ukrainiečių istorikai]]: Odesos universiteto istorikas V. V. Antonovičius iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties.
 - susijęs iš [[objektai/autoriai/Rygos arkivyskupas Fridrichas.md#claim-t-88043|Rygos arkivyskupas Fridrichas]]: Balińskis manė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus ir siekė palankaus popiežiaus sprendimo ginče su kryžiuočiais.
-- susijęs iš [[objektai/autoriai/St. Smolka.md#claim-t-54136|St. Smolka]]: St. Smolka 1889 m. paskelbė veikalą „Kiejstut i Jagiełło“.
 - susijęs iš [[objektai/autoriai/Stryjkowski Strijkovskis.md#claim-t-88007|Stryjkowski Strijkovskis]]: Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.
-- susijęs iš [[objektai/autoriai/V. Urbanavičius.md#claim-t-31051|V. Urbanavičius]]: V. Urbanavičius parašė darbą „Rumšiškėnai XIV-XVI amžiais“, išleistą Vilniuje 1970 m.
 - susijęs iš [[objektai/autoriai/V. V. Antonovičius.md#claim-t-31053|V. V. Antonovičius]]: V. V. Antonovičius, Odesos universiteto istorikas, iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties.
-- susijęs iš [[objektai/autoriai/Waddyngas Luca Vaddingo.md#claim-t-88049|Waddyngas Luca Vaddingo]]: Waddyngas ir Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.
 - susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-05581|Zenonas Ivinskis]]: Zenonas Ivinskis Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.
-- susijęs iš [[objektai/daiktai/Aukuras.md#claim-t-81841|Aukuras]]: Pasak legendos, Birutė pasitraukė nuo dievų aukuro į šeimos židinį ir išaugino Vytautą.
-- susijęs iš [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės.md#claim-t-13281|Baltijos kelio gedulo kaspinai ir žvakutės]]: Baltijos kelio gedulo kaspinai ir žvakutės priminė aukas ir didelių netekčių skausmą.
-- susijęs iš [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės.md#claim-t-13282|Baltijos kelio gedulo kaspinai ir žvakutės]]: Baltijos kelyje plevėsavo juodi gedulo kaspinai ir degė žvakutės.
-- susijęs iš [[objektai/daiktai/Druska.md#claim-t-31104|Druska]]: Druska buvo vienas būtiniausių dalykų, kuriuos Lietuva per Rygą gabendavosi iš Vakarų.
 - susijęs iš [[objektai/daiktai/Gediminaičių stulpai.md#claim-t-169858|Gediminaičių stulpai]]: Gediminaičių stulpai buvo panaudoti Sąjūdžio ženkle, kurį kūrė Giedrius Reimeris ir Algimantas Nasvytis.
 - susijęs iš [[objektai/daiktai/Gedimino antspaudas.md#claim-t-55035|Gedimino antspaudas]]: Kryžiuočiai Gedimino antspaudą įmetė į ugnį, o jo tikrumą ginčijantys asmenys laiškuose buvo pasmerkti.
 - susijęs iš [[objektai/daiktai/Gedimino antspaudas.md#claim-t-81845|Gedimino antspaudas]]: Gediminas prie laiško pridėjo antspaudą, kurį buvo siuntęs popiežiui ir kurį kryžiuočiai įmetė į ugnį.
 - susijęs iš [[objektai/daiktai/Gedimino antspaudas.md#claim-t-81846|Gedimino antspaudas]]: Gediminas savo karališkuoju antspaudu sutvirtino laišką, kuriame žadėjo pasiuntiniams nustatyti tarpusavio taiką.
 - susijęs iš [[objektai/daiktai/Gedimino antspaudas.md#claim-t-81847|Gedimino antspaudas]]: Kryžiuočiai sudegino Gedimino antspaudą, siekdami užgniaužti jo pradėtą darbą ir apdumti žmonėms akis.
 - susijęs iš [[objektai/daiktai/Gedimino pastatytos pranciškonų ir dominikonų bažnyčios.md#claim-t-87077|Gedimino pastatytos pranciškonų ir dominikonų bažnyčios]]: Gediminas nurodė pastatęs dvi pranciškonų bažnyčias Vilniuje ir Naugarduke bei trečią dominikonų bažnyčią.
-- susijęs iš [[objektai/daiktai/Geležinis vilkas kaip simbolinis regėjimo objektas.md#claim-t-87078|Geležinis vilkas kaip simbolinis regėjimo objektas]]: Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas priminė šimto vilkų staugimą.
-- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92963|Herbai]]: Gedimino stulpai ir Jogailos kryžius XVI a. viduryje buvo pavaizduoti herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.
-- susijęs iš [[objektai/daiktai/Karūna.md#claim-t-186814|Karūna]]: Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.
-- susijęs iš [[objektai/daiktai/Kilpinė ir strėlė.md#claim-t-87111|Kilpinė ir strėlė]]: Pasak Strijkovskio, Gediminas medžiodamas strėle iš kilpinės pašovė taurą ant kalno, vėliau vadinto Tauro kalnu.
-- susijęs iš [[objektai/daiktai/Kryžius ant kardo galo.md#claim-t-71565|Kryžius ant kardo galo]]: Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.
-- susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-10728|Lietuvos pinigai]]: Kapomis vadintus Lietuvos pinigus greičiausiai liejo ne tik didžiojo kunigaikščio iždas, bet ir privatūs žmonės.
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12319|Lietuvos pinigai]]: Lietuviški denariukai atsirado 1387-1390 m.; jų pusėse buvo ieties galas, kryžius ir Gedimino stulpai.
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12320|Lietuvos pinigai]]: Vytauto įsakymu Kaune kalti K pinigėliai turėjo Gedimino stulpus ir raidę K, o mokesčiai turėjo būti mokami Lietuvoje kaltais sidabriniais pinigais.
-- susijęs iš [[objektai/daiktai/Lietuvos trispalvė.md#claim-t-75334|Lietuvos trispalvė]]: Liepos 9 d. Vingio parke LPS vadovybė pareikalavo legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“.
 - susijęs iš [[objektai/daiktai/M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“.md#claim-t-77930|M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“]]: M. E. Andriolli paveikslas „Gediminas stato Vilniaus pilį“ sukurtas 1882 m.
-- susijęs iš [[objektai/daiktai/Mediniai namai, trobos ir trobelės.md#claim-t-87055|Mediniai namai, trobos ir trobelės]]: Iki Gedimino dabartinio Vilniaus vietoje tikriausiai buvo medinė tvirtovė, o palei Vilnios krantą driekėsi trobelės.
-- susijęs iš [[objektai/daiktai/Mediniai rūmai.md#claim-t-87085|Mediniai rūmai]]: Gedimino dvare gyvenę lietuvių didikai ir kunigaikščio giminės ties pilimi statydinosi medinius rūmus.
-- susijęs iš [[objektai/daiktai/Mūro pilys.md#claim-t-19571|Mūro pilys]]: Gedimino ar Algirdo valdymo laikais aplink valstybės branduolį buvo sukurta mūro pilių sistema: Medininkai, Krėva, Lyda, Trakai, Gardinas ir Kaunas.
-- susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-89430|Mūro sienos ir miesto sienos]]: Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.
-- susijęs iš [[objektai/daiktai/Mūro sienos.md#claim-t-87059|Mūro sienos]]: Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.
-- susijęs iš [[objektai/daiktai/Pranciškonų kankinių palaidojimo vietos koplyčia.md#claim-t-19583|Pranciškonų kankinių palaidojimo vietos koplyčia]]: XVI a. pradžioje Vilniuje dviejų pranciškonų palaidojimo vietoje pradėta statyti koplyčia.
-- susijęs iš [[objektai/daiktai/Rykai.md#claim-t-87118|Rykai]]: Rykai į Vilnių patekdavo iš Lenkijos ir Livonijos.
-- susijęs iš [[objektai/daiktai/Rūbai.md#claim-t-87119|Rūbai]]: Rūbai į Vilnių patekdavo iš Lenkijos ir Livonijos.
 - susijęs iš [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais.md#claim-t-75347|Sąjūdžio ženklas su Gedimino stulpais]]: Sąjūdžio ženklą su Gedimino stulpais sukūrė dailininkai Giedrius Reimeris ir Algimantas Nasvytis.
 - susijęs iš [[objektai/daiktai/Sąjūdžio ženklas su Gedimino stulpais.md#claim-t-75348|Sąjūdžio ženklas su Gedimino stulpais]]: Sąjūdžio ženklą su Gedimino stulpais kūrė Giedrius Reimeris ir Algimantas Nasvytis.
-- susijęs iš [[objektai/daiktai/Trakų kunigaikščio žvėrynas.md#claim-t-87094|Trakų kunigaikščio žvėrynas]]: Vytauto privilegijoje Trakams minima, kad už Galvės ežero, skalaujančio pilį, buvo kunigaikščio žvėrynas.
-- susijęs iš [[objektai/daiktai/Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis.md#claim-t-87098|Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis]]: Pasak sapno aiškinimo, Gediminas ant Tauro kalno turėjo pastatyti Aukštutinę mūro pilį, o slėnyje - medinę pilį, pavadintą Vilniumi.
-- susijęs iš [[objektai/daiktai/Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis.md#claim-t-87099|Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis]]: Balińskis Vilniaus vardą kildino iš Vilnios ir laikė tai ženklu, kad pirmykštė Vilniaus gyvenvietė buvo prie šios upės.
-- susijęs iš [[objektai/daiktai/Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje.md#claim-t-87067|Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje]]: 1394 m. Švitrigaila mėgino užimti Vilnių, įkalbėdamas vienuolius padegti du medinius bokštus puolimo metu.
-- susijęs iš [[objektai/daiktai/Vilnonės medžiagos.md#claim-t-47822|Vilnonės medžiagos]]: Per Rygą Lietuva iš Vakarų gaudavo būtinų prekių, tarp jų druskos, vilnonių medžiagų ir geležies.
-- susijęs iš [[objektai/daiktai/Vilnonės medžiagos.md#claim-t-47823|Vilnonės medžiagos]]: Per Rygą Lietuva iš Vakarų gaudavo būtiniausių dalykų, tarp jų druską, vilnones medžiagas ir geležį.
-- susijęs iš [[objektai/daiktai/Vytis.md#claim-t-186858|Vytis]]: Komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas.
-- susijęs iš [[objektai/grupes/Anglų riteriai.md#claim-t-86788|Anglų riteriai]]: Anglų riteriai ne kartą kartu su kryžiuočiais dalyvavo kryžiaus žygiuose prieš pagonimis laikytus lietuvius.
-- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187438|Aukso orda]]: Apie 1325 m. Aukso orda rytuose turėjo kovoti su ją puolusiu Iranu.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172080|Dominikonų ordinas]]: Michałas Balińskis Gedimino vardu dominikonams, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo klastote.
-- susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172082|Dominikonų ordinas]]: Gediminas teigė turįs dominikonų brolių ir suteikęs jiems visišką laisvę krikštyti, pamokslauti bei atlikti šventąsias apeigas.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172083|Dominikonų ordinas]]: Gediminas kvietė dominikonus ir žadėjo netrukus duoti jiems bažnyčią.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172085|Dominikonų ordinas]]: 1323 m. notaro parengtas Gedimino laiškų dominikonams, pranciškonams ir Hanzos miestams dokumentas buvo Karaliaučiaus Slaptajame archyve.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172086|Dominikonų ordinas]]: Gediminas suteikė prieglobstį Lietuvoje apaštalavusiems dominikonams ir prie Vilniaus pilies pastatydino jiems vienuolyną bei bažnyčią.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172087|Dominikonų ordinas]]: Gediminas nurodė pastatęs trečią bažnyčią dominikonams, kad kiekvienas pagal savo apeigas galėtų garbinti Dievą.
-- susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172091|Dominikonų ordinas]]: Gediminas ketino kviesti dorus dominikonų ir pranciškonų vienuolius, bet nepageidavo vienuolynus plėšikų prieglobsčiu paverčiančių vienuolių.
-- susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172093|Dominikonų ordinas]]: Gediminas dominikonų magistrams, priorams ir broliams pranešė pasiuntęs laišką popiežiui Jonui dėl krikšto.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172095|Dominikonų ordinas]]: Algirdo laikais sugriautos dominikonų ordino brolių bažnyčios griuvėsiai išlaikė Gedimino palankumo krikščionybei atminimą.
-- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112515|Domininkonų ordinas]]: Michałas Balińskis Gedimino vardu dominikonų ordinui, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo prasimanymu ir klastote.
-- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112520|Domininkonų ordinas]]: Gediminas teigė norįs kviesti dorus dominikonų ir pranciškonų ordino vienuolius, bet nepageidaująs plėšikaujančių vienuolių.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-12359|Gediminaičių dinastija]]: Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos palikuonys, kurių teisės sostams buvo pripažįstamos iš tradicijos (nė vienoje valstybėje nebuvo paveldėjamojo įstatymo).
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-187706|Gediminaičių dinastija]]: Lietuvos metraščio pasakojime Vytenis vaizduojamas kaip pirmasis Gediminaičių dinastijos valdovas po Palemono ir Kentauro herbo dinastijų.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96109|Gediminaičių dinastija]]: Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.).
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96117|Gediminaičių dinastija]]: Mirus paskutiniam Gediminaičių dinastijos valdovui Zigmantui Augustui, Lietuva ir Lenkija galėjo rinktis atskirus valdovus.
-- susijęs iš [[objektai/grupes/Gediminaičių šeima.md#claim-t-01323|Gediminaičių šeima]]: Gedimino šeimos valdančioji šaka pasibaigė, nors dar buvo gyvų nuo sosto nutolusių Gedimino giminės kunigaikščių.
-- susijęs iš [[objektai/grupes/Goštautų giminė.md#claim-t-187758|Goštautų giminė]]: Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vilniaus seniūnu minimas Andrius Goštautas.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116685|Hanza]]: Vytauto laikų Lietuva buvo kraštas, kurio negalėjo aplenkti Hanzos ir kiti pirkliai.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116691|Hanza]]: Gediminas per rygiečius kreipėsi į Hanzos miestus ir kvietė amatininkus, pirklius, žemdirbius bei riterius vykti į Lietuvą.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184564|Kalavijuočių ordinas]]: Livonijos ordino ir Lietuvos sutaikymą bandė tarpininkauti Rygos vyskupas Fridrichas, pasitelkęs popiežiaus Jono XXII autoritetą.
 - susijęs iš [[objektai/grupes/Kijevo kunigaikštystė.md#claim-t-28655|Kijevo kunigaikštystė]]: Kijevo kunigaikštystė nuo Gedimino laikų buvo didžiojo Lietuvos kunigaikščio priklausomybėje.
-- susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-184484|Krikščionys]]: Gediminas nenorėjo priimti krikščionybės ar sudaryti sutarties su krikščionimis, todėl nutraukė pradėtas derybas.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178789|Kryžiuočių ordinas]]: Balińskis teigė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus, siekdamas apšmeižti Kryžiuočių ordiną.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178790|Kryžiuočių ordinas]]: Per Bajerburgo apsuptį Ordino maršalas Henrikas Duseneris ir Reino palatinas atvyko į pagalbą apsuptiesiems.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178797|Kryžiuočių ordinas]]: 1323 m. Vilniuje duotame rašte teigta, kad kryžiuočiai įmetė į ugnį Gedimino pasiuntinybės antspaudą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178832|Kryžiuočių ordinas]]: Kai Gedimino skundas pasiekė popiežių, Prūsijos dvasininkai laiškuose stojo ginti Kryžiuočių ordino.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178855|Kryžiuočių ordinas]]: Gedimino laiške teigta, kad Vytenis prašė atsiųsti minoritų, bet Ordinas, tai sužinojęs, pasiuntė ginkluotą būrį sudeginti bažnyčios.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178864|Kryžiuočių ordinas]]: XIV a. trečiajame dešimtmetyje Vakarų Europoje pasigirdo kritiškų balsų Kryžiuočių ordino atžvilgiu.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178866|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo paplitusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178869|Kryžiuočių ordinas]]: Gedimino laiške kryžiuočiai kaltinami sudeginę jo antspaudą, kad sutrukdytų jo pradėtam krikščionybės reikalui.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178870|Kryžiuočių ordinas]]: Gedimino laiške teigiama, kad kryžiuočiai įmetė į ugnį antspaudą, siųstą apaštališkajam viešpačiui.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178872|Kryžiuočių ordinas]]: Kryžiuočių ordinas stengėsi sužlugdyti 1323 m. spalio 2 d. sutartį ir 1324 m. tęsė agresiją prieš Lietuvos žemes.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178880|Kryžiuočių ordinas]]: 1323 m. Liubeke dėl tariamų Gedimino laiškų nutarta kreiptis patarimo į tuo metu mieste buvusius Ordino riterius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178883|Kryžiuočių ordinas]]: Gedimino laiške popiežiui ir kardinolams teigta, kad Mindaugą nuo krikščionybės atstūmė kryžiuočių magistro smurtas ir išdavystės.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178889|Kryžiuočių ordinas]]: M. Balinskis svarstė, kad pasakojimas apie kryžiuočių sudegintą valdovo antspaudą galėjo būti įdėtas siekiant tam tikro tikslo.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178890|Kryžiuočių ordinas]]: 1337 m. birželio 15 d. Gediminas su kariuomene sustojo ties Bajerburgu ir puolė kryžiuočių tvirtovę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178903|Kryžiuočių ordinas]]: Gedimino laiške kryžiuočiai kaltinami sudeginę jo antspaudą, kad sutrukdytų jo pradėtam krikščionybės reikalui.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178908|Kryžiuočių ordinas]]: M. Balinskis manė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus, kuriais siekė apšmeižti Kryžiuočių ordiną.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178923|Kryžiuočių ordinas]]: Veliuonos pilis tikriausiai buvo pastatyta XIII a., kad Žemaitijos siena būtų saugoma nuo kryžiuočių puldinėjimų.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178931|Kryžiuočių ordinas]]: Tarnybiniame pranešime įrašyti tariamieji Gedimino laiškai buvo saugomi Kryžiuočių archyve.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178938|Kryžiuočių ordinas]]: Kryžiuočių kariauna, pakeliui viską degindama, puolė Bisenės pilį ir mėgino ją užimti šturmu.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178952|Kryžiuočių ordinas]]: Matomai Rygoje buvo įsitikinimas, kad kryžiuočiai Lietuvą greitai įveiks.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178958|Kryžiuočių ordinas]]: Gedimino laiške kryžiuočiai kaltinami sudeginę jo antspaudą, kad sutrukdytų jo pradėtam krikščionybės reikalui.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179010|Kryžiuočių ordinas]]: 1325 m. Vilniuje sudaryta Gedimino sutartis su Lokietka numatė bendrą kovą su Prūsijos ordinu.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179014|Kryžiuočių ordinas]]: Sužinoję apie Gedimino skundą popiežiui, Prūsijos minoritai ir abatai Paulius bei Jordanas stojo ginti kryžiuočių.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179030|Kryžiuočių ordinas]]: Rygos pasiuntiniai popiežiui pranešė, kad Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179033|Kryžiuočių ordinas]]: Ordino riteriai pasinaudojo Gedimino valdų išskaidymu, kuris susilpnino krašto galią.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179048|Kryžiuočių ordinas]]: Gediminas laiške popiežiui ir kardinolams kryžiuočių magistro smurtą siejo su Mindaugo atsitraukimu nuo krikščionybės.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179076|Kryžiuočių ordinas]]: Ordino riteriai pasinaudojo Gedimino valdų suskaidymu, kuris, anot šaltinio, susilpnino krašto galią.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179092|Kryžiuočių ordinas]]: Kryžiuočiai blokavo patekimą į Lietuvą, sudarė sutartį su Didžiuoju Naugardu prieš Gediminą ir juodino jį krikščionių valdovams.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179103|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo įsigalėjusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179120|Kryžiuočių ordinas]]: Rygos pasiuntiniai pranešė popiežiui, kad Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti taikai.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184489|Kryžiuočių ordinas]]: Gedimino laikais kryžiuočiai iš pamatų sugriovė Romove vadintą sodybą, vėliau tapusią Krivės Krivaičio būstine.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-187711|Kryžiuočių ordinas]]: Narimantas Glėbas 1348 m. vasario 2 d. žuvo mūšyje su Kryžiuočių ordinu ties Strėva.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179128|Lenkai]]: Atvykusiems lenkams anuometinis Vilnius iškilo kaip niūrokas, bet gražiu kraštovaizdžiu kerintis miestas.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179137|Lenkai]]: Į Vilnių kartu su Jogaila atvyko Jadvyga, Gniezno arkivyskupas, Krokuvos vyskupas ir daugybė lenkų didikų bei kunigaikščių.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179182|Lenkai]]: 1326 m. Gedimino raiteliai kartu su lenkais nuniokojo Brandenburgo žemę vakariau Kryžiuočių ordino valdų.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184525|Lenkai]]: Lenkai pasiuntė į Lietuvą pasiuntinius prašyti Gedimino dukters Aldonos rankos Lenkijos valdovui Kazimierui.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179215|Lietuviai]]: Dėl lietuvių diduomenės ir paprastų žmonių nenoro keisti senojo gyvenimo būdo siūlyta pirmiau pasiųsti į Lietuvą pasiuntinius.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179223|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179254|Lietuviai]]: Plėšikaujančios lietuvių gaujos niokojo krikščionių žemes, kai Prūsijoje pasklido gandas apie Gedimino norą krikštytis.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179287|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179310|Lietuviai]]: Per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją Junigedos vardu.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179329|Lietuviai]]: Dalis lietuvių diduomenės ir paprastų žmonių, kaip manyta, nekeisianti senojo gyvenimo būdo.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179333|Lietuviai]]: Gediminas laiške popiežiui Jonui prisistatė lietuvių ir daugelio rusų karaliumi.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184550|Lietuviai]]: Gediminas su kitais kariais atskubėjo padėti pradėjusiam krikti lietuvių raitelių pulkui ir vėliau įsakė jam pulti rusų sparną.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169687|Lietuvos Didžioji Kunigaikštija]]: Valdant Gediminui ir Algirdui Lietuvos Didžioji Kunigaikštija išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga.
-- susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-13474|Lietuvos Persitvarkymo Sąjūdis]]: 1988 m. birželio 10 d. Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė įsteigta Kaune, o liepos 6 d. – Klaipėdoje.
-- susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-23309|Lietuvos Persitvarkymo Sąjūdis]]: Pradiniame etape Sąjūdis iš esmės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų etapais siejo tik laisvos Lietuvos siekis.
-- susijęs iš [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba.md#claim-t-65775|Lietuvos SSR Aukščiausioji Taryba]]: Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m. vasarą sovietų valstybės įvykdytą Lietuvos okupaciją ir neteisėtą prijungimą.
-- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-182738|Lietuvos kariuomenė]]: Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179358|Livonijos ordinas]]: Rygiečių „Sühnenbrief“ teigė, kad jų bendradarbiavimas su pagonimis ordinui atnešė didelių nuostolių ir persekiojimų.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179375|Livonijos ordinas]]: Nuo Mindaugo krikšto Livonijos ordinas buvo įgijęs įtakos Lietuvos vidaus santykiams.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179377|Livonijos ordinas]]: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179388|Livonijos ordinas]]: Gedimino vardu rašytų laiškų klastojimas citatoje siejamas su Rygos arkivyskupo ir Livonijos ordino brolių konfliktu.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179422|Livonijos ordinas]]: Rygai kritus, Gediminas neteko paramos prieš Livonijos ordiną, kuris beveik iki Gedimino valdymo pabaigos puldinėjo Lietuvą.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179429|Livonijos ordinas]]: Prūsų kryžiuočiams kariaujant su Lenkijos Kazimieru, Lietuvą puolė Livonijos ordinas.
-- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86736|Mazovijos kunigaikščiai]]: Gedimino laiškų užuomina apie Mazoviją leido manyti, kad Mazovijos kunigaikštis buvo Lietuvos valdovo sąjungininkas.
-- susijęs iš [[objektai/grupes/Mongolai.md#claim-t-183665|Mongolai]]: Mongolus prie Mėlynųjų vandenų sutriuškino gerai organizuota Lietuvos kariuomenė, vadovaujama Algirdo.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108282|Pranciškonų ordinas]]: Gedimino dvare pranciškonai turėjo įtakos ir tvarkė kanceliariją.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108285|Pranciškonų ordinas]]: Dviejų pranciškonų nužudymo Vilniuje Gedimino valdymo pabaigoje istorija davė pradžią ilgaamžei Vilniaus legendai.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108287|Pranciškonų ordinas]]: Gediminas kreipėsi į pranciškonų ordino brolius, pasklidusius visame pasaulyje, ypač į Saksonijos ministrą.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108288|Pranciškonų ordinas]]: Gediminas prašė pranciškonų tais metais atsiųsti keturis brolius prie jo pastatytų bažnyčių Vilniuje ir Naugarduke.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108291|Pranciškonų ordinas]]: Gedimino dvare pranciškonai turėjo įtakos ir tvarkė kanceliariją.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108293|Pranciškonų ordinas]]: Mažesniųjų brolių Prūsijos kustodas ir keli gvardijonai laiškais popiežiui gynė Kryžiuočių ordiną nuo Gedimino skundo.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108294|Pranciškonų ordinas]]: Gedimino laikais pranciškonai toliau veikė sostinėje ir turėjo joje savo vienuolyną.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108297|Pranciškonų ordinas]]: Gediminas ketino kviesti tik girtino ir doro gyvenimo pranciškonų ordino vienuolius.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108298|Pranciškonų ordinas]]: Palei Žemutinę pilį gyvenę pranciškonai turėjo dar Gedimino laikais pastatydintą bažnyčią.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108299|Pranciškonų ordinas]]: Gedimino laikais pranciškonai toliau veikė sostinėje ir turėjo joje savo vienuolyną.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108302|Pranciškonų ordinas]]: Gediminas prašė pranciškonų šiais metais paskirti keturis brolius prie bažnyčių Vilniuje ir Naugarduke.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108303|Pranciškonų ordinas]]: Gedimino laiškai Liubeke buvo įteikti miesto tarybai ir Pranciškonų ordino kustodui.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108307|Pranciškonų ordinas]]: Pranciškonai toliau veikė sostinėje ir joje turėjo savo vienuolyną.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108309|Pranciškonų ordinas]]: Gediminas savo laišku kreipėsi į pranciškonų ordino ministrus, kustodus, gvardijonus ir kitus brolius.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108311|Pranciškonų ordinas]]: Gediminas žadėjo kviestis dorus vyskupus, kunigus, dominikonus ir pranciškonų ordino vienuolius.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108316|Pranciškonų ordinas]]: 1323 m. Gedimino laiškai buvo rašyti dominikonų, Mažesniųjų brolių, arba pranciškonų, ordinams ir Hanzos miestams.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108320|Pranciškonų ordinas]]: Iš Gedimino laikais nubaustų dviejų pranciškonų fakto XVI a. rusų ir lenkų šaltiniuose sukurta legenda apie 36 Vilniuje nukankintus pranciškonus.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108321|Pranciškonų ordinas]]: Pranciškonai prie Žemutinės pilies turėjo Gedimino laikais pastatydintą bažnyčią dabartinės Šventojo Kryžiaus bažnyčios vietoje.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108322|Pranciškonų ordinas]]: XVI a. rusų ir lenkų šaltiniuose iš dviejų Gedimino laikais nubaustų pranciškonų fakto sukurta legenda apie 36 Vilniuje nukankintus pranciškonus.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108328|Pranciškonų ordinas]]: Gedimino laiškai buvo rašyti dominikonams, pranciškonams ir Hanzos miestams.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108329|Pranciškonų ordinas]]: Pranciškonai veikė sostinėje ir joje laikė savo vienuolyną.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-187742|Pranciškonų ordinas]]: Lietuvos metraštis pasakoja, kad Algirdui leidus Petras Goštautas iš Lenkijos į Vilnių parsikvietė 14 pranciškonų vienuolių.
-- susijęs iš [[objektai/grupes/Riurikaičių dinastija.md#claim-t-96866|Riurikaičių dinastija]]: Smulkūs Riurikaičiai Lietuvos valdžioje buvo daliniai kunigaikščiai, bet ne savarankiški valdovai.
-- susijęs iš [[objektai/grupes/Rygiečiai.md#claim-t-179438|Rygiečiai]]: Gedimino laiškų kaltinimai ordinui leido kelti prielaidą, kad juos Gedimino vardu sufabrikavo Livonijos ordino priešai rygiečiai.
-- susijęs iš [[objektai/grupes/Rygiečiai.md#claim-t-179439|Rygiečiai]]: Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį.
 - susijęs iš [[objektai/grupes/Rygos miestiečiai.md#claim-t-81605|Rygos miestiečiai]]: Rygos miestiečiai ir jų arkivyskupas skelbė žinią, esą Gediminas su saviškiais noriai priimtų krikštą ir tikėjimą.
-- susijęs iš [[objektai/grupes/Rygos miesto taryba.md#claim-t-28666|Rygos miesto taryba (institucija)]]: Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline.
-- susijęs iš [[objektai/grupes/Rygos pirkliai.md#claim-t-86821|Rygos pirkliai]]: Gedimino valdymo laikais Vilniuje jau buvo Rygos pirkliams suteiktų privilegijų pėdsakų.
-- susijęs iš [[objektai/grupes/SSRS liaudies deputatų II suvažiavimas.md#claim-t-19999|SSRS liaudies deputatų II suvažiavimas]]: 1989 m. gruodį SSRS liaudies deputatų II suvažiavimas pasmerkė slaptųjų protokolų padarinius, bet tiesiogiai jų nesusiejo su Baltijos valstybių okupacija.
-- susijęs iš [[objektai/grupes/Stačiatikiai.md#claim-t-182592|Stačiatikiai]]: Gedimino laikais Vilniaus „rusėnų pusėje“ stovėjo cerkvės, o Algirdas toleravo stačiatikybę, kai ji neprieštaravo valdovo interesams.
-- susijęs iš [[objektai/grupes/Venedai.md#claim-t-86774|Venedai]]: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš [[objektai/grupes/Vilniaus rusų vienuoliai „čiornai“.md#claim-t-86776|Vilniaus rusų vienuoliai „čiornai“]]: Vilniaus rusų vienuoliai, žmonių vadinti „čiornais“, nuo Gedimino laikų turėjo savo vienuolyną.
-- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117319|Vokiečiai]]: Gediminas kvietė vokiečių riterius, pirklius, amatininkus ir valstiečius atvykti į Lietuvą bei čia įsikurti.
-- susijęs iš [[objektai/grupes/Šv. Bazilijaus ordinas.md#claim-t-86841|Šv. Bazilijaus ordinas]]: Algirdo valdymo pradžioje Šv. Bazilijaus ordino vienuoliai įsikūrė Vilniuje ir turėjo medinę bažnyčią.
-- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-183907|Žemaičiai]]: Eiliuotosios Livonijos kronikos žemaičių žynys dievams aukojo trečdalį karo grobio ir išbūrė žemaičių vadams pergalę 1259 m. Skuodo kautynėse.
-- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-182934|Žiemgaliai]]: Po Durbės mūšio žiemgaliai atsimetė nuo Ordino ir prisidėjo prie Lietuvos.
-- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89345|Žiemgaliai]]: Kryžiuočiams nepavykus paimti žiemgalių Tervetės pilies, jie pasistatė Dobę, kurią sukilėlių pusėje puolė žemaičiai.
-- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89352|Žiemgaliai]]: Kryžiuočiams nepavykus paimti žiemgalių Tervetės pilies, jie pasistatė Dobę, kurią puolė žemaičiai.
-- susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187459|Algirdo žygis į Maskvą]]: Legenda apie Algirdo žygį į Maskvą yra Bychovco kronikoje, bet jos nėra Trumpajame ir kituose Platesniojo sąvado nuorašuose.
-- susijęs iš [[objektai/ivykiai/Bazilijonų įsikūrimas Vilniuje Algirdo valdymo pradžioje.md#claim-t-86941|Bazilijonų įsikūrimas Vilniuje Algirdo valdymo pradžioje]]: Algirdo valdymo pradžioje jo žmonos, Tverės kunigaikštytės, atkvieti Šv. Bazilijaus ordino vienuoliai įsikūrė Vilniuje ir turėjo medinę bažnyčią.
 - susijęs iš [[objektai/ivykiai/Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.).md#claim-t-86973|Gedimino Bajerburgo apgultis ir žūtis (1337 m. birželio 15 d.)]]: Gediminas 1337 m. žuvo mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185491|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Sutelkęs visas jėgas, Gediminas per Žemaitiją nužygiavo prie Žeimelės upelio ir įrengė įtvirtintą stovyklą.
@@ -1295,7 +1797,6 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija (1325 m.).md#claim-t-86946|Gedimino sąjunga su Lenkija (1325 m.)]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Lokietka dėl bendros kovos su Prūsijos ordinu.
 - susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija.md#claim-t-66537|Gedimino sąjunga su Lenkija]]: Ivinskis nurodo, kad 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis.
 - susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija.md#claim-t-66538|Gedimino sąjunga su Lenkija]]: 1326 m. Gediminas pasiuntė Lokietkai 1200 Dovydo vadovaujamų vyrų kovai prieš Brandenburgo markgrafą.
-- susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija.md#claim-t-66541|Gedimino sąjunga su Lenkija]]: 1325 m. sutartis buvo pirmasis pastovesnis Lietuvos ir Lenkijos taikos sąlytis.
 - susijęs iš [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.).md#claim-t-100022|Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]: Gediminas, numatydamas ilgą kovą su kryžiuočiais, rado sąjungininką Lenkijos valdovo Vladislovo Lokietkos asmenyje.
 - susijęs iš [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.).md#claim-t-100023|Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]: Gedimino 1325 m. sutartis buvo pirmasis taikos sąlytis su Lenkija, prisimintas dar Liublino unijos išvakarėse.
 - susijęs iš [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.).md#claim-t-100024|Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]: 1325 m. Gedimino ir Vladislovo Lokietkos taikos sutartis buvo sutvirtinta Kazimiero ir Aldonos vedybomis.
@@ -1306,56 +1807,20 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185494|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185495|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kojelavičiaus vertinimu, Gediminui užėmus Kijevą baigėsi daugiau kaip 430 metų Rusioje gyvavusi Kijevo monarchija.
 - susijęs iš [[objektai/ivykiai/Gedimino žūtis Bajerburgo mūšyje (1337 m.).md#claim-t-86976|Gedimino žūtis Bajerburgo mūšyje (1337 m.)]]: Gediminas 1337 m. buvo nužudytas mūšyje su kryžiuočiais prie Bajerburgo pilies, netoli Veliuonos.
-- susijęs iš [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą.md#claim-t-31420|Jonas III pirmasis kardu užatakavo Lietuvą]]: 1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karine jėga puolė Lietuvą.
-- susijęs iš [[objektai/ivykiai/Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas).md#claim-t-183926|Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)]]: Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį.
-- susijęs iš [[objektai/ivykiai/Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas).md#claim-t-66575|Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)]]: Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį.
-- susijęs iš [[objektai/ivykiai/Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas).md#claim-t-66576|Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)]]: 1291 m. per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją tuo pačiu vardu.
-- susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.).md#claim-t-62824|Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]: Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.
-- susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.).md#claim-t-100033|Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]: Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką.
-- susijęs iš [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.).md#claim-t-01667|Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]: 1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams.
 - susijęs iš [[objektai/ivykiai/Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.).md#claim-t-31432|Klaipėdos puolimas ir Gedimino būrių Sembos teriojimas (1323 m.)]]: 1323 m. kovą lietuviai iš Žemaičių puolė Klaipėdą, o Gedimino būriai vasarą teriojo Sembą.
-- susijęs iš [[objektai/ivykiai/Kristmemelio pilies sunaikinimas ir kryžiuočių pasitraukimas (1328 m. vasara).md#claim-t-62839|Kristmemelio pilies sunaikinimas ir kryžiuočių pasitraukimas (1328 m. vasara)]]: 1328 m. vasarą kryžiuočiai apleido Kristmemelio pilį prie žemutinio Nemuno, o lietuviai ją sunaikino.
-- susijęs iš [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį.md#claim-t-187492|Kęstučio ir Algirdo perversmas prieš Jaunutį]]: Mokslinėje literatūroje legendine vadinama Platesniojo sąvado dalis iki Kęstučio ir Algirdo sąmokslo prieš Jaunutį 1345 m.
-- susijęs iš [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį.md#claim-t-187493|Kęstučio ir Algirdo perversmas prieš Jaunutį]]: Kai kuriuose Platesniojo sąvado nuorašuose po 1345 m. Kęstučio ir Algirdo perversmo įdėtas Algirdo sūnų ir jų valdų išskaičiavimas.
-- susijęs iš [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį.md#claim-t-187494|Kęstučio ir Algirdo perversmas prieš Jaunutį]]: Kęstučio ir Algirdo sąmokslas prieš brolį Jaunutį datuojamas 1345 metais.
-- susijęs iš [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa).md#claim-t-183262|LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]: Žinia apie LPS iniciatyvinę grupę greitai pasklido po visą Lietuvą, nes grupę sudarė žinomi inteligentai.
-- susijęs iš [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa).md#claim-t-20249|LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]: 1988 m. birželio 10 d. LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 d. – Klaipėdoje, o pirmieji masiniai mitingai vyko Vilniuje.
 - susijęs iš [[objektai/ivykiai/Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.).md#claim-t-59555|Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.)]]: G. Liabuda atmetė nuomonę, kad 1323 m. lietuvių žygių ir Gedimino krikšto bei taikos pasakojimai paremti dokumentais.
-- susijęs iš [[objektai/ivykiai/Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.).md#claim-t-62858|Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.)]]: 1358 m. Lietuvos vyriausybė derybose su imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos, Priegliaus žemupio ir jūros.
-- susijęs iš [[objektai/ivykiai/Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas).md#claim-t-62860|Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)]]: 1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė danų vasalinėje priklausomybėje buvusią Revelio žemę.
 - susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54449|Lietuvos krikštas Vilniuje (1387 m.)]]: 1387 m. sausį Vladislovas Jogaila atvyko į Gedimino sostinę kartu su Jadvyga, dvasininkais, kunigaikščiais ir didikais.
-- susijęs iš [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.).md#claim-t-89378|Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]: 1326 m. Lietuva sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos centru.
-- susijęs iš [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.).md#claim-t-89379|Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]: Lietuva sudarė taiką su Didžiuoju Naugardu, tvirtindama savo pozicijas prieš Kryžiuočių ordiną.
-- susijęs iš [[objektai/ivykiai/Lietuvos žygis į Dorpato vyskupo valdas (1322 m.).md#claim-t-62865|Lietuvos žygis į Dorpato vyskupo valdas (1322 m.)]]: Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje buvusias Dorpato vyskupo valdas.
-- susijęs iš [[objektai/ivykiai/Mindaugo krikštas.md#claim-t-187507|Mindaugo krikštas (krikštas)]]: Mindaugo krikštas ir karalystė pagoniškos Lietuvos istorijoje liko tik epizodas.
-- susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-186371|Mėlynųjų Vandenų mūšis (1362 m.)]]: Po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m. Algirdas, kaip manoma, prijungė Kijevą.
-- susijęs iš [[objektai/ivykiai/Mūšis su kryžiuočiais ties Strėva.md#claim-t-186693|Mūšis su kryžiuočiais ties Strėva (mūšis, XIV a.)]]: Narimantas Glėbas žuvo 1348 m. vasario 2 d. mūšyje su kryžiuočiais ties Strėva.
-- susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-183951|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. maršalas su broliais ir Sembos vyrais žygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis.
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56681|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. viena Ordino kariuomenės dalis nesėkmingai mėgino paimti Gedimino pilį, bet sudegino jos papilį.
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56683|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. Fridrichas iš Libencelės su 150 vyrų turėjo slapta paimti Gedimino pilį, bet pilėnai ją apgynė, o papilys sudegė.
-- susijęs iš [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.).md#claim-t-66821|Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]: Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.
-- susijęs iš [[objektai/ivykiai/Rusios žemių prijungimai prie Lietuvos.md#claim-t-20470|Rusios žemių prijungimai prie Lietuvos]]: Valdant Gediminui ir Algirdui Lietuvos valstybės teritorija išsiplėtė, o Lietuva tapo reikšminga Vidurio ir Rytų Europos jėga.
 - susijęs iš [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.).md#claim-t-97033|Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]: Atidėjus krikšto klausimą, Gediminui rūpėjo naujai sudaryta taika.
-- susijęs iš [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.).md#claim-t-97034|Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]: 1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas paskelbė Ordinui interdiktą už Lietuvos krikšto sutrukdymą.
-- susijęs iš [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.).md#claim-t-97035|Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]: Kryžiuočiai kliudė Lietuvai užmegzti ryšius su krikščioniškomis valstybėmis, laikydami lietuvių krikštijimą savo monopoline teise.
-- susijęs iš [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.).md#claim-t-97036|Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]: 1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas paskelbė Ordinui interdiktą už Lietuvos krikšto sutrukdymą.
 - susijęs iš [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.).md#claim-t-97037|Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]: Atidėjus krikšto klausimą, Gediminui svarbiausia liko naujai sudaryta taika.
 - susijęs iš [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale).md#claim-t-97041|Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]: Popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, nes tikėtasi, kad per tą laiką Gediminas pasikrikštys.
 - susijęs iš [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale).md#claim-t-97044|Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]: Išvykdami iš Livonijos popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, tikėdamiesi jo krikšto.
 - susijęs iš [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale).md#claim-t-97045|Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]: Atidėjus krikšto klausimą, Gediminui svarbiausia liko naujai sudaryta taika.
 - susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103827|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku paliudijimu, kad Vilnius jau buvo Gedimino sostinė.
-- susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103829|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: Kryžiuočių ordinas siekė sužlugdyti 1323 m. spalio 2 d. Vilniaus taiką ir 1324 m. tęsė puolimus prieš Lietuvos žemes.
 - susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103831|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku paliudijimu, kad Vilnius jau buvo miestas ir Gedimino sostinė.
 - susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103832|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: Prūsų ordinas Vilniaus taikos nepripažino ir skatino siekti su Gediminu pasirašytos sutarties anuliavimo.
-- susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103834|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: Po 1323 m. Vilniaus taikos Livonijos kryžiuočiai laikėsi oficialios taikos, nors Prūsų ordinas siekė sutarties anuliavimo.
-- susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103835|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga.
 - susijęs iš [[objektai/ivykiai/Vytauto Didžiojo jubiliejiniai metai (1930 m.).md#claim-t-31494|Vytauto Didžiojo jubiliejiniai metai (1930 m.)]]: Vytauto Didžiojo jubiliejiniai metai 1930 m. rodė, kad Gediminaičių Lietuva vis dar traukė Lietuvos istorikų dėmesį.
-- susijęs iš [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.).md#claim-t-34564|Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]: 1401 m. Vytautas apskundė Ordiną imperijos kunigaikščiams, kad šis Žemaitijos suvereno padėtį išnaudoja Lietuvos ir krikščionybės nenaudai.
-- susijęs iš [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma.md#claim-t-23361|Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]: 1989 m. rugpjūčio 23 d. apie du milijonai lietuvių, latvių ir estų Baltijos kelyje susikibo rankomis į daugiau kaip 650 km gyvą žmonių grandinę.
-- susijęs iš [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma.md#claim-t-23362|Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]: Baltijos kelio komemoraciniai ženklai buvo juodi gedulo kaspinai ir žvakutės.
-- susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59727|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Dalis nadruvių, pagudėnų, sūduvių ir bartų pasitraukė į Lietuvos valstybę ir dalyvavo kovoje prieš Ordino bei Aukso ordos agresiją.
-- susijęs iš [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas.md#claim-t-77949|Birutės legendos tęstinumas ir Birutės kalno gerbimas]]: Birutės legenda nenutrūko įsigalint krikščionybei, o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta.
-- susijęs iš [[objektai/paprociai/Gedimino dinastinė vedybų politika.md#claim-t-05339|Gedimino dinastinė vedybų politika]]: Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis.
 - susijęs iš [[objektai/paprociai/Gedimino dinastinė vedybų politika.md#claim-t-05340|Gedimino dinastinė vedybų politika]]: Keli Gedimino sūnūs priėmė stačiatikių tikėjimą arba vedė rusų kunigaikštytes.
 - susijęs iš [[objektai/paprociai/Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija.md#claim-t-183692|Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija]]: Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams.
 - susijęs iš [[objektai/paprociai/Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija.md#claim-t-67075|Gedimino informacinė diplomatija ir karo veiksmų derinimas su Lenkija]]: Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams.
@@ -1364,7 +1829,6 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/paprociai/Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma.md#claim-t-87142|Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma]]: Gediminas pageidavo savo krašte turėti dvasininkų ir vyskupų, saugoti Bažnyčios teises ir gerbti dvasininkus.
 - susijęs iš [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą.md#claim-t-113464|Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]: Atsisakęs krikšto, Gediminas neatsisakė tikslo artinti Lietuvą prie Vakarų Europos, kviesdamas vokiečių kolonistus.
 - susijęs iš [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą.md#claim-t-113465|Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]: Gediminas kvietė į Lietuvą pirklius, amatininkus ir įvairių amatų žmones su šeimomis, žadėdamas laisvą atvykimą ir išvykimą.
-- susijęs iš [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą.md#claim-t-113467|Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]: Lietuvos valdovai kvietė pirklius ir amatininkus iš svetur, nes nepasitikėjo savųjų įgūdžiais.
 - susijęs iš [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą.md#claim-t-113469|Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]: 1323–1324 m. Gedimino krikšto akcija žlugo dėl žemaičių ir stačiatikių dvariškių pasipriešinimo, bet Gediminas toliau kvietė vokiečių kolonistus.
 - susijęs iš [[objektai/paprociai/Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje.md#claim-t-87156|Gedimino praktika kviesti svetimšalius ir saugoti krikščionių prieglobstį Vilniuje]]: Gediminas užmezgė ryšius su krikščioniškąja Europa, globojo pranciškonus ir dominikonus, o Vilniuje leido kurtis atėjūnams iš Vokietijos ir Lenkijos.
 - susijęs iš [[objektai/paprociai/Gedimino svetimšalių pirklių, amatininkų ir kolonistų kvietimas bei teisių suteikimas.md#claim-t-87196|Gedimino svetimšalių pirklių, amatininkų ir kolonistų kvietimas bei teisių suteikimas]]: Gediminas svetimšaliams žadėjo laisvą ir saugų kelią į Lietuvą be muitų ir mokesčių per Mazovijos kunigaikščio Boleslovo žemę.
@@ -1372,98 +1836,31 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas.md#claim-t-87157|Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas]]: 1323 m. gegužės 26 d. Vilniuje rašytuose Gedimino laiškuose pavesta juos perskaičius siųsti toliau ir visur skelbti jų pranešimus.
 - susijęs iš [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas.md#claim-t-87158|Gedimino vardu rašytų laiškų viešas skelbimas, persiuntimas ir pamokslinis platinimas]]: Jerošino teigimu, Rygos arkivyskupas ir miestiečiai pajūrio miestuose bei popiežiui platino žinią, kad Gediminas norėjęs krikštytis.
 - susijęs iš [[objektai/paprociai/Išvykstančio aukšto svečio apdovanojimas gausiomis dovanomis.md#claim-t-185915|Išvykstančio aukšto svečio apdovanojimas gausiomis dovanomis]]: Vytautas išvykstančiam imperatoriui davė daug dovanų, tarp jų auksu ir brangakmeniais papuoštą Gedimino nukauto tauro ragą.
-- susijęs iš [[objektai/paprociai/Kolonistų vadovavimasis Rygos miesto civiline teise.md#claim-t-87244|Kolonistų vadovavimasis Rygos miesto civiline teise]]: Gediminas laiške pranešė, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise, kol bus sukurti geresni įstatymai.
 - susijęs iš [[objektai/paprociai/Kryžiaus statymas ant Veliuonos Gedimino kapu laikyto pilkapio.md#claim-t-87275|Kryžiaus statymas ant Veliuonos Gedimino kapu laikyto pilkapio]]: Ant Veliuonoje Gedimino kapu laikyto pilkapio nuo neatmenamų laikų būdavo statomas kryžius.
-- susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-183316|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.
-- susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-54266|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prisijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.
-- susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-54267|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.
-- susijęs iš [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos.md#claim-t-183693|Lietuvių kariavimo būdas ir pilių įgulos]]: Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas ir susiformavo nuolatinių karo tarnybininkų sluoksnis.
-- susijęs iš [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos.md#claim-t-78717|Lietuvių kariavimo būdas ir pilių įgulos]]: Gedimino laikais Lietuvoje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės.
-- susijęs iš [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną.md#claim-t-62692|Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]: Gedimino pareiškimai ir laiškai padėjo Lietuvos valstybei kuriam laikui izoliuoti ir sukompromituoti Kryžiuočių ordiną Europoje.
-- susijęs iš [[objektai/paprociai/Lietuvos krikšto apeigos.md#claim-t-05349|Lietuvos krikšto apeigos]]: Per 1387 m. Lietuvos krikšto apeigas Vilniuje pirmiausia turėjo būti krikštijami bajorai.
-- susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos.md#claim-t-67158|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]: Kryžiaus karų epochoje Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau Europa tarsi atstūmė Lietuvą nuo krikščionybės.
-- susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto.md#claim-t-54305|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]: Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau kryžiaus karų epochos Europa, nebeleisdama savarankiško krikšto, tarsi atstūmė Lietuvą nuo krikščionybės.
-- susijęs iš [[objektai/paprociai/Lydimų vertimas miškuose kaip ankstyvos gyvenvietės plėtimo praktika.md#claim-t-87299|Lydimų vertimas miškuose kaip ankstyvos gyvenvietės plėtimo praktika]]: Balińskio aiškinimu, Germantas Šventaragio slėnyje vertė miškus lydimais ir plėtė senovinę Vilniaus gyvenvietę Vilnios pakrantėse.
 - susijęs iš [[objektai/paprociai/Miesto ir žemių atidavimas nugalėtojui prisiekiant paklusnumą.md#claim-t-185878|Miesto ir žemių atidavimas nugalėtojui prisiekiant paklusnumą (miestas)]]: Kijevo luomai, išėję iš miesto, pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.
-- susijęs iš [[objektai/paprociai/Mirusiųjų kūnų deginimas Šventaragio slėnyje.md#claim-t-87175|Mirusiųjų kūnų deginimas Šventaragio slėnyje]]: Pasakojime Germantas Šventaragio slėnį paskyrė savo tėvo Šventaragio ir savo įpėdinių kapavietėms.
-- susijęs iš [[objektai/paprociai/Naujai krikštytų lietuvių bajorų privilegijavimas.md#claim-t-184348|Naujai krikštytų lietuvių bajorų privilegijavimas]]: Lietuvos krikščioninimas nuo Krėvos akto buvo siejamas su privilegijomis naujai pakrikštytiems lietuvių bajorams, buvusiems pagonims.
-- susijęs iš [[objektai/paprociai/Pavergtų prūsų vertimas dalyvauti Ordino žygiuose.md#claim-t-62707|Pavergtų prūsų vertimas dalyvauti Ordino žygiuose]]: Ordino valdžioje likę prūsai buvo verčiami dalyvauti Ordino žygiuose.
-- susijęs iš [[objektai/paprociai/Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui.md#claim-t-62708|Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui]]: Eiliuotosios Livonijos kronikos žemaičių žynys dievams aukodavo trečdalį karo grobio ir išbūrė pergalę 1259 m. Skuodo kautynėse.
-- susijęs iš [[objektai/paprociai/Religijų laisvas išpažinimas ir krikščioniškų apeigų atlikimas Algirdo Vilniuje.md#claim-t-87248|Religijų laisvas išpažinimas ir krikščioniškų apeigų atlikimas Algirdo Vilniuje]]: Algirdo Vilniuje laisvai išpažįstamų religijų įvairovė kėlė piktumų tarp skirtingo tikėjimo žmonių ir jų dvasininkų.
-- susijęs iš [[objektai/paprociai/Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas.md#claim-t-87254|Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas]]: Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką.
 - susijęs iš [[objektai/paprociai/Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose.md#claim-t-81868|Taurų ragų naudojimas valdovų susiėjimuose ir pasiuntinių priėmimuose]]: Pasak Strijkovskio, Vytautas dideliuose susiėjimuose ir svetimšalių pasiuntinių priėmimuose gerdavo iš Gedimino sumedžioto tauro ragų.
-- susijęs iš [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves.md#claim-t-87168|Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]: Vytautas prie Vilniaus apgyvendino iš Azovo atsivežtus totorius, paliko jiems senąjį tikėjimą ir suteikė žemės valdų bei laisvių.
-- susijęs iš [[objektai/paprociai/Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra.md#claim-t-55161|Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra]]: Gedimino laikais Vilniaus miesto tvarka turėjo atitikti kitur taikytus leninio valdymo principus.
-- susijęs iš [[objektai/paprociai/Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra.md#claim-t-55162|Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra]]: Pilininkai valdė miestą, vykdydami teisminę priežiūrą kartu su bendruomenės parinktu seniūnu.
-- susijęs iš [[objektai/paprociai/Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra.md#claim-t-55163|Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra]]: Vilniaus kilimo pradžioje pilininkai valdė miestą ir teisminę priežiūrą vykdė su bendruomenės parinktu seniūnu.
-- susijęs iš [[objektai/paprociai/Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra.md#claim-t-81870|Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra]]: Gedimino laikais Vilniaus miesto valdymas buvo siejamas su pilininkų ir bendruomenės parinkto seniūno priežiūra.
 - susijęs iš [[objektai/paprociai/Žynio sapno aiškinimas ir aukojimas prieš miesto statybą.md#claim-t-87312|Žynio sapno aiškinimas ir aukojimas prieš miesto statybą]]: Lizdeikos sapno aiškinimas paskatino Gediminą po aukų pastatyti Aukštutinę mūro pilį ant Tauro kalno ir medinę pilį slėnyje, pavadintą Vilniumi.
-- susijęs iš [[objektai/paprociai/Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims.md#claim-t-183829|Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims]]: Padavimuose dabartinė katedros varpinė tapatinta su bokštu, iš kurio Lizdeika ir jo pirmtakai Vilniaus pagonims skelbdavo pranašystes.
-- susijęs iš [[objektai/paprociai/Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims.md#claim-t-87243|Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims]]: Pasak Lietuvos kronikininkų ir vietos padavimų, Lizdeika ir jo pirmtakai iš bokšto skelbdavo pranašystes Vilniaus pagonims.
 - susijęs iš [[objektai/posakiai/Gediminas, dievo malone lietuvių ir rusų karalius.md#claim-t-86842|Gediminas, dievo malone lietuvių ir rusų karalius]]: Gediminas laiške dominikonams titulavosi dievo malone lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
 - susijęs iš [[objektai/posakiai/Gediminas, dievo malone lietuvių ir rusų karalius.md#claim-t-86843|Gediminas, dievo malone lietuvių ir rusų karalius]]: Gediminas laiške pranciškonams save vadino dieviškąja apvaizda lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
 - susijęs iš [[objektai/posakiai/Gedimino « Geležinio vilko » sapnas.md#claim-t-97292|Gedimino « Geležinio vilko » sapnas]]: Vilniaus įkūrimo legendoje Gediminas po medžioklės Šventaragio slėnyje susapnavo geležinį vilką, o sapną išaiškino Lizdeika.
-- susijęs iš [[objektai/posakiai/Geležinis vilkas ir šimtas vilkų.md#claim-t-86854|Geležinis vilkas ir šimtas vilkų]]: Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas atrodė toks galingas, tarsi staugtų šimtas vilkų.
-- susijęs iš [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti.md#claim-t-86850|Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti]]: Dusburgo pranešimu, Gediminas per pasiuntinį pareiškė, kad nepriims kitų teisių ir laikysis tų, kurių laikėsi jo tėvai.
-- susijęs iš [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas.md#claim-t-86856|Gyventi ir mirti savo tėvų tikėjimą išpažindamas]]: Gediminui priskirtas pareiškimas teigė, kad jis nori gyventi ir mirti išpažindamas savo tėvų tikėjimą.
-- susijęs iš [[objektai/posakiai/Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti k.md#claim-t-59106|Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti k]]: 1322 m. laiške popiežiui Gediminas kaltino kryžiuočius žemes paverčiant tyrais ir teigiant, kad taip jie gina krikščionis.
-- susijęs iš [[objektai/posakiai/Jure civili utantur Rigensis Civitatis.md#claim-t-55176|Jure civili utantur Rigensis Civitatis]]: Gedimino laiške į Vilnių atvykstantiems kolonistams žadėta vadovautis Rygos miesto civiline teise.
 - susijęs iš [[objektai/posakiai/Jure civili utantur Rigensis Civitatis.md#claim-t-55177|Jure civili utantur Rigensis Civitatis]]: „Jure civili utantur Rigensis Civitatis“ Gedimino laiške leido Vilniaus kolonistams naudotis Rygos civiline teise, kol bus sukurti geresni įstatymai.
-- susijęs iš [[objektai/posakiai/Jure civili utantur Rigensis Civitatis.md#claim-t-82139|Jure civili utantur Rigensis Civitatis]]: „Jure civili utantur Rigensis Civitatis“ nurodė, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.
-- susijęs iš [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje.md#claim-t-55178|Kaip pelė krepšyje arba angis užantyje]]: Prūsijos vyskupų laiške taikos sutarties grėsmė lyginama su pele krepšyje arba angimi užantyje.
-- susijęs iš [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje.md#claim-t-55179|Kaip pelė krepšyje arba angis užantyje]]: Prūsijos vyskupų laiške sutarties grėsmė buvo lyginama su pele krepšyje arba angimi užantyje.
-- susijęs iš [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje.md#claim-t-82140|Kaip pelė krepšyje arba angis užantyje]]: Vyskupų laiške perspėta, kad priešai kaip pelė krepšyje arba angis užantyje sunaikins jų žemes ir užtrauks pražūtį krikščionybei.
 - susijęs iš [[objektai/posakiai/Kijevo ir Rusios didįjį kunigaikštį.md#claim-t-185478|Kijevo ir Rusios didįjį kunigaikštį]]: Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.
-- susijęs iš [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis.md#claim-t-97293|Kęstutis buvo vyras karingas ir tiesiakalbis]]: Dlugošas Kęstutį apibūdino kaip šaunų, išmintingą, veiklų, išlavintą, žmonišką ir pažadams ištikimą vyrą.
-- susijęs iš [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis.md#claim-t-97294|Kęstutis buvo vyras karingas ir tiesiakalbis]]: Nuolatiniai susidūrimai karuose su vakarų Europos riteriais Kęstutį išmokė riteriškų papročių, kurių jis griežtai laikėsi.
 - susijęs iš [[objektai/posakiai/Lietuva, sako Gediminas, nekariaujanti su krikščionybe ji teginanti savo laisvę.md#claim-t-06877|Lietuva, sako Gediminas, nekariaujanti su krikščionybe: ji teginanti savo laisvę]]: Gediminas teigė, kad Lietuva nekariauja su krikščionybe, o tik gina savo laisvę.
-- susijęs iš [[objektai/posakiai/Lietuvos ir daugelio rusų karalium.md#claim-t-06878|Lietuvos ir daugelio rusų karalium]]: Gediminas raštuose save titulavo Lietuvos ir daugelio rusų karaliumi.
-- susijęs iš [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!.md#claim-t-67272|Mes kariaujame ne su kryžium, o su vokiečiais!]]: Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais.
-- susijęs iš [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!.md#claim-t-67273|Mes kariaujame ne su kryžium, o su vokiečiais!]]: Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais, ir prieš juos jungėsi su lenkais bei mozūrais.
-- susijęs iš [[objektai/posakiai/Net nė šuo iš jūsų pusės su padėka neatsiliepė.md#claim-t-55183|Net nė šuo iš jūsų pusės su padėka neatsiliepė]]: Gedimino laiške priekaištauta, kad į ankstesnius pasiuntinius, laiškus ir atvertą kraštą net nė šuo su padėka neatsiliepė.
-- susijęs iš [[objektai/posakiai/Papam vestrum nec novi, nec nosse cupio.md#claim-t-55187|Papam vestrum nec novi, nec nosse cupio]]: Krantzas Gediminui priskyrė lotynišką pareiškimą „Papam vestrum nec novi, nec nosse cupio“.
-- susijęs iš [[objektai/posakiai/Papam vestrum nec novi, nec nosse cupio.md#claim-t-55188|Papam vestrum nec novi, nec nosse cupio]]: Formulė „Papam vestrum nec novi, nec nosse cupio“ lietuviškai aiškinama kaip „Jūsų Tėvo nei pažinojau, nei trokštu pažinti“.
-- susijęs iš [[objektai/posakiai/Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu.md#claim-t-55190|Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu]]: Gedimino laiško vertime pažado tvirtumas išreiškiamas formule, kad pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu, negu bus atšauktas ištartas žodis.
 - susijęs iš [[objektai/posakiai/Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat sa.md#claim-t-28749|Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat sa]]: Gediminas popiežiaus legato pasiuntiniams pareiškė, kad skirtingų apeigų žmonės Dievą garbina savaip, bet visi turi vieną Dievą.
-- susijęs iš [[objektai/posakiai/Tiesos nedraugas, velnio garbintojas, tikėjimo priešas.md#claim-t-54762|Tiesos nedraugas, velnio garbintojas, tikėjimo priešas]]: Gedimino vardu skelbtame laiške antspaudo tikrumu abejojantieji vadinami tiesos nedraugais, velnio garbintojais, tikėjimo priešais, bedieviais, melagiais ir negarbingais žmonėmis.
-- susijęs iš [[objektai/posakiai/Tiesos nedraugas, velnio garbintojas, tikėjimo priešas.md#claim-t-54763|Tiesos nedraugas, velnio garbintojas, tikėjimo priešas]]: Trijuose Gedimino laiškuose antspaudo tikrumu netikintieji pasmerkti kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės.
-- susijęs iš [[objektai/posakiai/Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais.md#claim-t-06884|Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais]]: Gediminas laiške aiškino norą būti paklusniu popiežiaus sūnumi ir teigė vyresniuosius laikąs tėvais, lygius broliais, o jaunesniuosius savo vaikais.
-- susijęs iš [[objektai/posakiai/`Rex Lethowye`.md#claim-t-186410|`Rex Lethowye`]]: Gediminas titulavosi Rex Lethowye, derėjosi dėl krikšto ir laiškais kvietė į Lietuvą Vakarų pirklius bei amatininkus.
-- susijęs iš [[objektai/posakiai/`Rex Lethowye`.md#claim-t-186411|`Rex Lethowye`]]: Gediminas titulavosi Rex Lethowye ir laiškais Vakarų šalims bei miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.
-- susijęs iš [[objektai/posakiai/`Rex Lethowye`.md#claim-t-186412|`Rex Lethowye`]]: Gediminas titulavosi Rex Lethowye ir laiškais Vakarų šalims bei miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.
-- susijęs iš [[objektai/posakiai/kiekvienam geros valios žmogui.md#claim-t-59115|kiekvienam geros valios žmogui]]: Gedimino laiškai Europos miestams, ordinams ir „kiekvienam geros valios žmogui“ turėjo platų tarptautinį atgarsį.
-- susijęs iš [[objektai/posakiai/rex` `bazileus.md#claim-t-186408|rex` `bazileus]]: Gediminas laiškuose Vakarams vartojo titulą „rex“, o Algirdas laiškuose Bizantijos imperijai vartojo titulą „bazileus“.
-- susijęs iš [[objektai/posakiai/rex` `bazileus.md#claim-t-186409|rex` `bazileus]]: Gediminas laiškuose Vakarams vartojo titulą „rex“, o Algirdas laiškuose Bizantijos imperijai vartojo titulą „bazileus“.
 - susijęs iš [[objektai/posakiai/„Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat s.md#claim-t-28759|„Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat s]]: Gediminas popiežiaus legato pasiuntiniams pareiškė, kad skirtingos bendruomenės Dievą gali garbinti pagal savo papročius.
-- susijęs iš [[objektai/posakiai/„ir mes turime vieną Dievą…“.md#claim-t-20898|„ir mes turime vieną Dievą…“]]: Gediminas žodžiais „ir mes turime vieną Dievą…“ bylojo apie vyriausiąjį pagonių Dievą, o ne būtinai apie pagonišką monoteizmą.
-- susijęs iš 1230 m. rugsėjo 12 d. popiežiaus bulė: M. Perlbachas nurodė, kad Dusburgietis panaudojo 1230 m. rugsėjo 12 d. popiežiaus bulę, patvirtinusią Konrado ir Ordino sutartį.
-- susijęs iš 1232 m. sausio 23 d. popiežiaus bulė: M. Perlbachas nurodė, kad Dusburgietis panaudojo 1232 m. sausio 23 d. popiežiaus bulę, patvirtinusią Konrado ir Ordino sutartį.
-- susijęs iš 1248 m. Kristburgo sutartis: M. Poliakuvna pažymėjo, kad Dusburgietis 1248 m. Sventopelko ir Ordino Kristburgo sutartį panaudojo labai savavališkai.
 - susijęs iš 1323 m. Vilniaus sutartis: 1323 m. Vilniaus sutartis Balińskio pasakojime pateikiama kaip pirmasis autentiškas Vilniaus miesto ir Gedimino sostinės paliudijimas.
-- susijęs iš 1323 m. Vilniaus sutartis: Sutartis buvo sudaryta Vilniuje 1323 m., jos nuorašas iš vokiečių kalbos išverstas į lotynų kalbą ir pateiktas popiežiui.
 - susijęs iš 1323 m. Vilniaus sutartis: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku Vilniaus kaip Gedimino sostinės paliudijimu.
-- susijęs iš 1323 m. Vilniaus taikos sutartis: 1323 m. pirmąją savaitę po Šv. Mykolo Vilniuje sudarytos taikos sutarties nuorašas buvo įteiktas popiežiui.
 - susijęs iš 1323 m. dokumentas apie Gedimino veiksmus Dobrynės ir Kulmo žemėse: 1323 m. dokumente Gediminas kaltintas Dobrynės ir Kulmo žemių niokojimu bei siekiu sugriauti priešininkų žemes.
 - susijęs iš 1323 m. spalio 2 d. Gedimino sutartis su Livonijos ordinu: 1323 m. spalio 2 d. Gedimino sutartyje su Livonijos ordinu minimas Aukštaičių kraštas.
 - susijęs iš 1323 m. spalio 2 d. Gedimino sutartis su Livonijos ordinu: 1323 m. Gedimino sutartis su Ordinu rodo, kad Lietuvos valstybės lietuviškosios žemės apėmė Aukštaičių ir Žemaičių kraštus.
 - susijęs iš 1325 m. Gedimino sutartis su Łokietka: 1325 m. Vilniuje Gedimino sutartimi su Łokietka susitarta bendromis jėgomis kovoti su Prūsijos ordinu.
-- susijęs iš 1337 m. gruodžio 12 d. Liudviko Bavaro dokumentas: Tai patvirtina 1337.XII.12 Liudviko Bavaro dokumentas (PUB, S, 1, Nr. 135, p. 101).
 - susijęs iš A. Kučinskas, Gedimino dinastijos kilmė: A. Kučinsko „Gedimino dinastijos kilmė“ buvo išleista Kaune 1934 m. kaip atspaudas iš „Mūsų Žinyno“ 107-108 numerių.
-- susijęs iš A. Presnjakov Obrazovanie velikorusskogo gosudarstva: A. Presnjakovo „Obrazovanie velikorusskogo gosudarstva“ išleista Petrograde 1918 m.
 - susijęs iš A. Vijūko-Kojelavičiaus Lietuvos istorija: A. Vijūko-Kojelavičiaus Lietuvos istorijos p. 270 minimas Gedimino 1323-1324 m. įsiveržimas į Mazoviją ir Dobrynės žemę.
 - susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): Algirdas laiškuose Bizantijos imperijai vadinosi bazileus, o Gediminas laiškuose Vakarams vartojo titulą rex.
 - susijęs iš Algirdo laiškas Konstantinopolio patriarchui (1371 m.): Algirdas laiškuose Bizantijos imperijai vadinosi bazileus, o Gediminas laiškuose Vakarams vartojo titulą rex.
-- susijęs iš Annales Minorum seu trium ordinum a S. Francisco institutorum: Annales Minorum pasakojime Petras Goštautas 1333 m. į Vilnių atkvietė keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.
-- susijęs iš Chodynicki, K. Geneza dynastii Giedymina: K. Chodynickio straipsnis „Geneza dynastii Giedymina“ paskelbtas 1926 m. KH 40 tome, 541-566 puslapiuose.
-- susijęs iš Dusburg Peter: „Dusburg Peter“ nurodytas Lietuvių enciklopedijos 5 tome, 266-267 puslapiuose.
-- susijęs iš Dusburg Peter: Straipsnis „Dusburg Peter“ paskelbtas Lietuvių enciklopedijos 5 tome, 266–267 puslapiuose.
-- susijęs iš Dusburgo kronika: Balińskis iš Dusburgo pasakojimo sprendė, kad Castrum Gedemini jau egzistavo 1304 metais, o Vilniaus pilis pastatyta tik 1322 metais.
 - susijęs iš Dusburgo kronika: Iš Dusburgo žinių daroma išvada, kad Gedimino pilis buvo Lietuvos ar Žemaitijos pasienyje ir galėjo stovėti prie Nemuno.
 - susijęs iš Dusburgo kronika: Dusburgo kronika prie 1317 m. mini, kad Ragainės komtūras Fridrichas de Libencelė apgulė Gedimino pilį, bet jos neužėmė.
-- susijęs iš Dusburgo kronika: Michałas Balińskis atmetė Hartknocho nuomonę, kad Dusburgo minima Castrum Gedemini buvo Vilnius.
 - susijęs iš Dusburgo kronika: Dusburgo teigimu, Gedimino pasiuntinys Rygoje pareiškė, kad valdovas nesiuntė laiškų dėl savo ar valdinių krikšto.
-- susijęs iš Eiliuotoji Livonijos kronika: Eiliuotojoje Livonijos kronikoje minimas žemaičių žynys dievams aukojo trečdalį karo grobio ir išbūrė žemaičių vadams pergalę 1259 m. Skuodo kautynėse.
-- susijęs iš Fridricho II 1226 m. aukso bulė: M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.
 - susijęs iš Gedimino laiškai ordinams ir Hanzos miestams: 1323 m. notaro parengtas autentiškas Gedimino laiškų ordinams ir Hanzos miestams dokumentas buvo Karaliaučiaus slaptajame archyve.
 - susijęs iš Gedimino laiškai ordinams ir Hanzos miestams: Gedimino laiškai rodo valdovo siekį gausinti Lietuvos gyventojus, kelti gerovę ir kviesti amatininkus, žemdirbius bei dvasininkus.
 - susijęs iš Gedimino laiškai ordinams ir Hanzos miestams: Foigtas ginčijo Gedimino laiškų autentiškumą ir teigė, kad juos parengė bei išsiuntinėjo Rygos arkivyskupas.
@@ -1475,7 +1872,6 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Gedimino laiškai: „Gedimino laiškus“ parengė V. Pašuta ir J. Stal, o leidinys išleistas Vilniuje 1966 m.
 - susijęs iš Gedimino laiškai: Gediminas laiškais Vakarų šalims ir miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.
 - susijęs iš Gedimino laiškai: Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu.
-- susijęs iš Gedimino laiškai: Laiškų autorius Mazovijos kunigaikštį vadino Bonislavu, todėl, pasak kritikos, prastai žinojo to meto Mazovijos valdovą.
 - susijęs iš Gedimino laiškai: Gediminas laiškuose Vakarams vadinosi karaliumi, vartodamas titulą rex.
 - susijęs iš Gedimino laiškai: Balińskis laikėsi nuomonės, kad Gedimino laiškai buvo Rygos arkivyskupo prasimanyti iš neapykantos kryžiuočiams.
 - susijęs iš Gedimino laiškai: Gedimino laiškų netikrumo įrodymu laikyta užuomina apie Mazoviją kaip laisvą ir saugų kelią svetimšaliams į Lietuvą.
@@ -1501,11 +1897,6 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Gedimino laiškas pranciškonams (1323 m.): Gedimino laiške pranciškonų prašyta perskaičius jį siųsti į kitą provinciją ir melstis už karalių, jo šeimą bei kraštą.
 - susijęs iš Gedimino laiškas pranciškonams (1323 m.): Gediminas laiške pranciškonams pranešė, kad kreipėsi į popiežių Joną ir laukė jo pasiuntinių atvykimo.
 - susijęs iš Gedimino privilegijos Rygos pirkliams: Gedimino laikais Vilnius, regis, jau darėsi svarbiu prekybos centru, o Lietuvoje išliko jo privilegijų Rygos pirkliams pėdsakų.
-- susijęs iš Guillaume de Machaut Confort d’Ami: Guillaume de Machaut 1357 m. veikale „Confort d’Ami“ paminėjo žygį, kuriame dalyvavo svečių net iš Anglijos.
-- susijęs iš H. Paszkiewicz Ze studiów uad polityką polską, litewską i krzyżacką Bolesława-Jerzego, ostatniego księcia Rusi halicko-włodzimierskiej: H. Paszkiewicziaus „Ze studiów nad polityką polską, litewską i krzyżacką Bolesława-Jerzego“ paskelbta AW 2 tome 1924 m., p. 31–67.
-- susijęs iš Hartknocho pastabos Dusburgo kronikai: Hartknochas Dusburgo kronikos pastabose Castrum Gedemini tapatino su Vilniumi ir manė, kad miestas įkurtas 1322 m.
-- susijęs iš Hartknocho pastabos Dusburgo kronikai: Balińskis Hartknocho prielaidą, kad Vilnius buvo vadinamoji Castrum Gedemini, laikė visiškai atmestina.
-- susijęs iš Hermano Cornerio kronika: Michałas Balińskis rašė, kad Gedimino laiško pabaiga prieštarauja Hermano Kornerio teiginiui apie Gedimino ištikimybę tėvų tikėjimui.
 - susijęs iš Ivinskis Z. Gedimino pilis: Z. Ivinskio „Gedimino pilis“ paskelbta „Lietuviškojoje enciklopedijoje“ 1940 m., aštuntame tome.
 - susijęs iš Ivinskis Z. Gedimino pilis: Gedimino pilies lokalizacija buvusioje Pagraudės teritorijoje prie Graumenos laikoma patikimesne.
 - susijęs iš J. Jakštas, Vokiečių ordinas ir Lietuva Vytenio ir Gedimino metu: Gedimino sutartis su Ordinu liudija, kad Lietuvos valstybės lietuviškosios žemės buvo skirstomos į Aukštaičius ir Žemaičius.
@@ -1514,30 +1905,473 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš K. Forstreuter Die Bekehrung Gedimins und der Deutsche Orden: K. Forstreuterio „Die Bekehrung Gedimins und der Deutsche Orden“ 1928 m. paskelbtas AP 5 tome, 239–268 puslapiuose.
 - susijęs iš K. Forstreuter Die Bekehrung des Litauerkönigs Gedimin. Eine Streitfrage: K. Forstreuterio „Die Bekehrung des Litauerkönigs Gedimin. Eine Streitfrage“ 1955 m. buvo išspausdintas „Jahrbuch der Albertus-Universität zu Königsberg“ 6 tome.
 - susijęs iš Lietuvos Metraščiai: Lietuvos metraščiuose užrašyti Gedimino sapno, Algirdo žygių į Maskvą ir Birutės bei Kęstučio meilės istorijos siužetai laikomi epiniais pasakojimais.
-- susijęs iš Livonijos atstovų prieštaravimas dėl 1323 m. taikos: J. Otrembskis nekritiškai pasirėmė Livonijos atstovų prieštaravimo lotyniškojo vertimo fraze apie Lietuvos karaliaus pusę.
 - susijęs iš M. Strijkovskio kronika: Strijkovskio kronikoje Vilniaus įkūrimas priskiriamas Gediminui ir siejamas su medžiokle Šventaragio slėnyje.
 - susijęs iš Mažesniųjų brolių laiškas dėl Teutonų ordino garbės (1323 m.): 1323 m. Mažesniųjų brolių laiške popiežiui Teutonų ordino brolių garbė ginta nuo kaltinimų trukdžius Gediminui priimti krikštą.
+- susijęs iš Nikono metraštis: Balińskis manė, kad Voskresensko metraštininkas galėjo žinoti ką nors tikra apie Gedimino kilmę, nes rašė praėjus vos amžiui po Jogailos.
+- susijęs iš Notariats-Instrument dėl Gedimino antspaudo (Liubekas, 1323 m.): 1323 m. Liubeke parengtas Notariats-Instrument aprašė Gedimino apvalų vaško antspaudą su soste sėdinčio vyro atvaizdu.
+- susijęs iš Notariats-Instrument dėl Gedimino laiškų Liubeke (1323 m.): Notariats-Instrument dokumente buvo įrašyti tariamieji Gedimino laiškai dviem ordinams ir pajūrio miestams.
+- susijęs iš Preussens aeltere Geschichte: Augustas Kotzebue veikale „Preussens aeltere Geschichte“ išspausdino Gedimino laiškus dominikonams, pranciškonams ir Hanzos miestams.
+- susijęs iš Raynaldo Bažnyčios istorija: Raynaldo Bažnyčios istorija aiškino kai kuriuos Gedimino valdymo ir politikos aspektus.
+- susijęs iš Stemmata Polonica: XVI a. vidurio herbyne „Stemmata Polonica“, saugomame Paryžiuje, pavaizduoti Gedimino stulpai ir Jogailos kryžius.
+- susijęs iš Braunsbergas: Braunsbergo gvardijonas buvo tarp Mažesniųjų brolių atstovų, laiškais popiežiui gynusių kryžiuočius nuo Gedimino skundo.
+- susijęs iš Gedimino bokštas: 1989 m. rugpjūčio 23 d. Baltijos kelio žmonių grandinė driekėsi nuo Gedimino bokšto Vilniuje iki Hermano bokšto Taline.
+- susijęs iš Gedimino kalnas (Veliuonoje): Į rytus nuo Veliuonos Pilies kalno dunkso Gedimino kalnu vadinamas kalnas su pilkapiu vakarinėje viršūnės pusėje.
+- susijęs iš Gedimino kalnas (Veliuonoje): Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno Veliuonoje šlaitus.
+- susijęs iš Gedimino kalnas: Jogailos pastatyta Šv. Martyno bažnyčia Aukštutinėje pilyje ant Gedimino kalno išbuvo iki XV amžiaus.
+- susijęs iš Gedimino pilies kalnas (pilis): Velykų naktį patrankos šūvis, pasak kai kurių šaltinių, driokstelėjo nuo Gedimino pilies kalno ir davė puolimo signalą.
+- susijęs iš Gedimino pilis Castrum Gedemini: Hartknochas Gedimino pilį, vadintą Castrum Gedemini, tapatino su Vilniumi, bet Balińskis šią nuomonę atmetė.
+- susijęs iš Gedimino pilis Castrum Gedemini: Balińskis atmetė Hartknocho prielaidą, kad Vilnius galėjo būti Castrum Gedemini, ir Gedimino pilį veikiau siejo su Veliuona.
+- susijęs iš Gedimino pilis Castrum Gedemini: 1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.
+- susijęs iš Gedimino pilis Castrum Gedemini: Dusburgo kronikoje prie 1317 m. minima, kad Ragainės komtūras Fridrichas de Libencelė neįstengė užimti Gedimino pilies.
+- susijęs iš Gedimino pilis (pilis): Ragainės broliai apyaušryje slapta įsibrovė į Gedimino pilies papilį ir sudegino jį iki pamatų.
+- susijęs iš Gedimino pilis (pilis): 1317 m. vasarą Gedimino pilies pilėnai apgynė pilį, nors Ordino broliams pavyko visiškai sudeginti papilį.
+- susijęs iš Gedimino pilis (pilis): Ordino brolių vėliava su sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį ant kalno.
+- susijęs iš Gedimino pilis (pilis): Fridrichas iš Libencelės su 150 vyrų slapta priėjo prie Gedimino pilies, bet įspėti pilėnai pilį apgynė.
+- susijęs iš Gedimino pilis (pilis): Guillaume de Machaut rašė, kad 1357 m. žygyje pilgrimai, be Medvėgalio, paėmė Kvėdarną, Gedimino pilį, Gegužkalnį ir Aukaimį.
+- susijęs iš Gegužkalnis: Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Gegužkalnį kartu su Kvėdarna, Gedimino pilimi bei Aukaimiu.
+- susijęs iš Junigeda: Paaiškinimuose Junigedos, arba Veliuonos, pilis siejama su rytiniu Veliuonos piliakalniu, vadinamu Gedimino kapu.
+- susijęs iš Kijevas: Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę ir nuo Gedimino laikų priklausė didžiajam Lietuvos kunigaikščiui.
+- susijęs iš Kijevas: Kijeviečiams ginantis Gediminas mėnesį stovyklavo prie Kijevo.
+- susijęs iš Kijevas: Kijeviečiams ginantis Gediminas mėnesį stovyklavo prie Kijevo.
+- susijęs iš Kijevas: Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
+- susijęs iš Kijevo Rusia: Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.
+- susijęs iš Kijevo Rusia: Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.
+- susijęs iš Kreivasis kalnas: Kreivasis kalnas lokalizuojamas šiauriniame Vilnelės krante, priešais dabartinį Gedimino kalną.
+- susijęs iš Liubekas: 1323 m. liepos 18 d. Liubeko rotušėje Rygos tarėjai Henrikas fon Calmaras ir Jonas Roghenas įteikė dominikonams tariamus Gedimino laiškus.
+- susijęs iš Liubekas: 1323 m. Liubeke parengtame notariniame akte aprašytas prie Gedimino laiškų prikabintas apvalus vaškinis antspaudas.
+- susijęs iš Mazovija: Balińskis užuominą apie saugų kelią per Mazoviją laikė svarbiu Gedimino laiškų netikrumo įrodymu.
+- susijęs iš Natanga: 1324 m. žmonės iš Natangos dalyvavo netikėtame Gedimino pilies papilio užpuolime.
+- susijęs iš Nemunas: Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.
+- susijęs iš Nemunas: Veliuonėlė įteka į Nemuną, iš šiaurės skalaudama Pilies ir Gedimino kalno šlaitus.
+- susijęs iš Nemunas: Vytenio laikais visas Nemuno žemupys buvo kryžiuočių, o Gedimino laikais jie pasistatė Bajerburgo ir Marijenburgo pilis.
+- susijęs iš Odesa: Odesos universiteto istorikas V. V. Antonovičius iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties.
+- susijęs iš Oliva: 1323 m. Olivos ir Pelplino abatai popiežiui pranešė apie Gedimino laiškus dėl krikšto.
+- susijęs iš Pelplinas: 1323 m. Olivos ir Pelplino abatai popiežiui pranešė apie Gedimino laiškus, kuriuose jis teigė norįs krikštytis.
+- susijęs iš Pilies kalnas (Veliuonoje): Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus prie Veliuonos.
+- susijęs iš Prūsija: Prūsijoje pasklido gandas, kad Gediminas laiškais skelbė norą priimti krikštą.
+- susijęs iš Prūsija: Prūsijoje pasklido gandas, kad Gediminas išsiuntinėjo laiškus apie norą priimti krikštą ir prisijungti prie tikinčiųjų.
+- susijęs iš Ragainė: 1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.
+- susijęs iš Semba: 1324 m. Tomas Aldenburgas su 44 broliais ir 400 žmonių iš Sembos bei Natangos užpuolė Gedimino pilies papilį.
+- susijęs iš Tauro kalnas: Bychovco kronika pasakoja, kad Vytautas įkasė patrankas Tauro kalne, pavadintame pagal Gedimino nudėtą taurą.
+- susijęs iš Tauro kalnas: Pasakojime Tauro kalnu vadintas kalnas, ant kurio Gediminas medžiodamas pašovė ir pribaigė didžiulį taurą.
+- susijęs iš Torunė: Torunės gvardijonas kartu su kitais dvasininkais laiškuose popiežiui gynė kryžiuočius nuo Gedimino skundo.
+- susijęs iš Trakai: Pasak Strijkovskio ir Kojelavičiaus, po Trakų pilies įkūrimo Gediminas medžiojo aplinkinėse giriose.
+- susijęs iš Trakai: XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimą siejo su Gedimino medžiokle girioje.
+- susijęs iš Trakai: Trakų pilis laikoma sena, galbūt dar prieš Gediminą buvusia gynybine ir medžiotojų gyvenviete.
+- susijęs iš Trakai: XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimą siejo su Gedimino medžiokle penkių mylių atstumu nuo Kernavės.
+- susijęs iš Tverė: Algirdas buvo vedęs Tverės kunigaikštytę Mariją ir, sekdamas Gedimino politika, leido Vilniuje veikti Romos bei graikų apeigų dvasininkams.
+- susijęs iš Veliuona: Prie Veliuonos Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.
+- susijęs iš Veliuonėlė: Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalnų šlaitus.
+- susijęs iš Vilnelė: Ten, kur Vilnelė įteka į Viliją, stovėjo Gedimino pastatydinta mūro tvirtovė.
+- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Vilnia tekėjo kalnų apsupta vaga ir įtekėjo į Viliją ties Gedimino pastatyta mūro tvirtove.
+- susijęs iš Vilnius: 1325 m. Vilniuje pasirašyta Gedimino sutartis su Łokietka dėl bendros kovos su Prūsijos ordinu.
+- susijęs iš Vilnius: Vietoje, kur dabar stovi Vilnius, ant Vilnios slėnį supančių kalvų iki Gedimino veikiausiai būta medinės tvirtovės.
+- susijęs iš Vilnius: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo miestas ir Gedimino sostinė.
+- susijęs iš Vilnius: 1325 m. Vilniuje buvo pasirašyta Gedimino sutartis su Lokietka dėl bendros kovos su Prūsijos ordinu.
+- susijęs iš Vilnius: Vilniaus įkūrimo legenda pasakoja, kad Gedimino sapno geležinis vilkas pranašavo būsimo miesto garsą.
+- susijęs iš Vilnius: 1323 m. gegužės 26 d. Vilniuje rašytuose laiškuose Gediminas vadino Vilnių savo karališkuoju miestu.
+- susijęs iš Vilnius: 1323 m. gegužės 26 d. Vilniuje rašytuose laiškuose Gediminas vadino Vilnių savo karališkuoju miestu.
+- susijęs iš Vilnius: Vilniaus sostinės įkūrimo legenda siejama su Gedimino medžiokle ir Lizdeikos išaiškintu sapnu.
+- susijęs iš Vilnius: Pirmasis autentiškas Vilniaus kaip miesto ir Gedimino sostinės paliudijimas siejamas su 1323 m. spalio 2 d. Vilniuje pasirašyta sutartimi.
+- susijęs iš Čerkasai: Čerkasų pilis kartu su Belgorodu, Slepovrodžiu ir Kanevu pasidavė Gediminui po jo įsitvirtinimo Kijeve.
+- susijęs iš Šventaragio slėnis: Pasak Vilniaus įkūrimo legendos, Šventaragio slėnyje Gediminas susapnavo sapną, kurį išaiškino žynys Lizdeika.
+- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių rasta iš I tūkstantmečio vidurio.
+- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Žemutinės pilies įtvirtinimai veikiausiai yra ankstesni už Gedimino laikotarpį.
+- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių rasta iš I tūkstantmečio vidurio.
+- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vilniaus Žemoji pilis laikoma Gedimino kalno papėdėje buvusiu gynybinių įrengimų ir kitų pastatų kompleksu.
+- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Žemutinės pilies įtvirtinimai veikiausiai yra ankstesni už Gedimino laikotarpį.
+- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vilniaus Žemoji pilis laikoma Gedimino kalno papėdėje buvusiu gynybinių įrengimų ir kitų pastatų kompleksu.
+- susijęs iš [[objektai/zodynas/Notariats instrument notarinis instrumentas.md#claim-t-86541|Notariats instrument notarinis instrumentas]]: 1323 metais Liubeke parengtame notariniame instrumente aprašytas prie laiško prikabintas apvalus Gedimino vaško antspaudas.
+- susijęs iš [[objektai/zodynas/Notariats instrument notarinis instrumentas.md#claim-t-86542|Notariats instrument notarinis instrumentas]]: Notariniame instrumente buvo įrašyti tariamieji Gedimino laiškai dviem ordinams ir pajūrio miestams.
+- susijęs iš [[objektai/zodynas/aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai.md#claim-t-104181|aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai]]: Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo titulą rex, o Algirdas laiškuose Bizantijai - bazileus.
+- susijęs iš [[objektai/zodynas/civilizacinė monada.md#claim-t-77791|civilizacinė monada]]: Lietuva apibūdinta kaip savarankiška civilizacinė monada, nes Gediminas ir Algirdas vadinosi karaliais be pripažinimo iš svetur.
+- susijęs iš [[objektai/zodynas/denariukas.md#claim-t-34255|denariukas]]: 1387-1390 m. atsiradę lietuviški denariukai kursavo greta kitų pinigų ir turėjo ieties galo bei Gedimino stulpų vaizdus.
+- susijęs iš [[objektai/zodynas/kustodas ir gvardijonas.md#claim-t-86635|kustodas ir gvardijonas]]: Mažesniųjų brolių Prūsijos kustodas ir Torunės, Kulmo, Braunsbergo bei Neuenbergo gvardijonai stojo ginti kryžiuočių dėl Gedimino skundo popiežiui.
+- susijęs iš [[objektai/zodynas/čiornai čiornyje liūdi.md#claim-t-86497|čiornai čiornyje liūdi]]: Vilniaus rusinai ir rusų vienuoliai, žmonių vadinti čiornais, nuo Gedimino laikų turėjo savo vienuolyną.
+- susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86442|žiogriai statinių tvoros palisadai]]: Kreivosios pilies apsauginę juostą sudarė aukšta statinių tvora, Vilnios vandenys ir Gedimino laikais iškasta perkasa.
+- susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60006|Albrechtas iš Hageno]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių.
+- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97302|Aldona Gediminaitė]]: 1325 m. Aldona-Ona buvo ištekinta už Kazimiero.
+- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97305|Aldona Gediminaitė]]: Gedimino duktė Aldona 1325 m. ištekėjo už Vladislovo I Lokietkos sūnaus Kazimiero, būsimojo Lenkijos karaliaus Kazimiero III Didžiojo.
+- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97308|Aldona Gediminaitė]]: 1325 m. Gedimino dukters Aldonos ir Vladislovo Lokietkos sūnaus Kazimiero jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį.
+- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97309|Aldona Gediminaitė]]: Gedimino duktė Aldona ištekėjo už Lokietkos sūnaus Kazimiero, sutvirtinant sąjungininkų taikos sutartį.
+- susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97313|Aldona Gediminaitė]]: 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis.
+- susijęs iš [[objektai/asmenys/Aldona Ona.md#claim-t-39997|Aldona Ona]]: Aldona Ona 1325 m. buvo ištekinta už Lenkijos sosto įpėdinio Kazimiero, Lokietkos sūnaus.
+- susijęs iš [[objektai/asmenys/Aleksandras (Mykolo sūnus).md#claim-t-184369|Aleksandras (Mykolo sūnus)]]: Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų).
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-05159|Algirdas (Lietuvos valdovas)]]: Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10670|Algirdas (Lietuvos valdovas)]]: 1362 m. Algirdas sumušė totorius ties Mėlynaisiais Vandenimis, paėmė Kijevą ir pasodino ten savo sūnų Vladimirą.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176276|Algirdas (Lietuvos valdovas)]]: Algirdas, laimėjęs sostą ir įsitraukęs į karus su Rusia, netrukus išvyko iš Vilniaus.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176279|Algirdas (Lietuvos valdovas)]]: Lietuvos metraščiuose užrašyti Ldk Algirdo žygiai į Maskvą laikomi epinius pasakojimus atitinkančiu siužetu.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176281|Algirdas (Lietuvos valdovas)]]: 1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176283|Algirdas (Lietuvos valdovas)]]: Algirdas iš senosios Kijevo Rusios įsigijo plačias teritorijas.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176287|Algirdas (Lietuvos valdovas)]]: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats miestas perėjo į Algirdo rankas.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176289|Algirdas (Lietuvos valdovas)]]: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176305|Algirdas (Lietuvos valdovas)]]: Algirdas leido Romos vienuoliams Vilniuje skelbti evangeliją, o graikų apeigų dvasininkams atlikti savo tikėjimo apeigas.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176310|Algirdas (Lietuvos valdovas)]]: Labiau linkstama manyti, kad Algirdas prijungė Kijevą po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-183725|Algirdas (Lietuvos valdovas)]]: Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.
+- susijęs iš [[objektai/asmenys/Baltramiejus (vyskupas).md#claim-t-30210|Baltramiejus (vyskupas)]]: Vyskupas Baltramiejus 1324 m. vasarop atvyko į Rygą kaip vienas iš dviejų Avinjono legatų.
+- susijęs iš [[objektai/asmenys/Bernardas (abatas).md#claim-t-30211|Bernardas (abatas)]]: Abatas Bernardas 1324 m. vasarop su vyskupu Baltramiejumi atvyko iš Avinjono į Rygą kaip popiežiaus legatas.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176317|Birutė]]: Birutės ir Kęstučio meilės istorija laikoma vienu iš Lietuvos metraščiuose užrašytų epinių pasakojimų siužetų.
+- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176318|Birutė]]: Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei.
+- susijęs iš [[objektai/asmenys/Boleslovas Jurgis Traidenaitis.md#claim-t-35038|Boleslovas Jurgis Traidenaitis]]: Boleslovas Jurgis Traidenaitis mirė 1340 m., o po jo dėl Haličo ir Volynijos varžėsi Kazimieras Didysis ir Liubartas.
+- susijęs iš [[objektai/asmenys/Boleslovas.md#claim-t-89676|Boleslovas]]: Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.
+- susijęs iš [[objektai/asmenys/Bonislavas (Mazovijos kunigaikštis ).md#claim-t-87639|Bonislavas (Mazovijos kunigaikštis )]]: Gedimino laiškų rašytojas dviejuose laiškuose Mazovijos kunigaikštį vadino Bonislavu, nors Balińskis tokio kunigaikščio nerado.
+- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184689|Daumantas (kunigaikštis, XV a.)]]: 1441 m. žemaičiai, pašalinę Kęsgailos paliktus pareigūnus, išsirinko Daumantą kunigaikščiu ir rėmė Mykolą.
+- susijęs iš [[objektai/asmenys/Dimitras (Tverės kunigaikštis).md#claim-t-97314|Dimitras (Tverės kunigaikštis)]]: Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro, Mykolo sūnaus.
+- susijęs iš [[objektai/asmenys/Dimitras (Tverės kunigaikštis).md#claim-t-97315|Dimitras (Tverės kunigaikštis)]]: Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro, Mykolo sūnaus.
+- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173128|Dovydas (Gardino pilininkas)]]: Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasarį užpuolė Revelio žemę.
+- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173130|Dovydas (Gardino pilininkas)]]: 1324 m. kovo mėnesį kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, o vėliau puolė Gardiną.
+- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173134|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gedimino kariuomenė, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę.
+- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173139|Dovydas (Gardino pilininkas)]]: 1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė Revelio žemę.
+- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173145|Dovydas (Gardino pilininkas)]]: Dusburgietis pasakoja, kad 1324 m. Gediminas pasiuntė Dovydą niokoti Mazovijos žemės.
+- susijęs iš [[objektai/asmenys/Eberhardas de Virnemburgas.md#claim-t-87656|Eberhardas de Virnemburgas]]: 1304 m. Eberhardas de Virnemburgas nusiaubė Lietuvos valsčių, vadintą Pagraudene.
+- susijęs iš [[objektai/asmenys/Edividas.md#claim-t-35053|Edividas]]: Mindaugo sūnėnas Edividas įsigyveno Drutske, kai Lietuvos valdžia plito Baltojoje Rusijoje.
+- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54966|Fridrichas (Rygos arkivyskupas)]]: Vytenis laišku prašė Rygos arkivyskupo Fridricho ir popiežiaus legato Pranciškaus atsiųsti jam minoritų.
+- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89710|Fridrichas (Rygos arkivyskupas)]]: Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti jam minoritų.
+- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89713|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočiai manė, kad Rygos arkivyskupas Fridrichas iš senos neapykantos atsikvietė lietuvių priešą į Livoniją.
+- susijęs iš [[objektai/asmenys/Fridrichas (Rygos vyskupas).md#claim-t-186204|Fridrichas (Rygos vyskupas)]]: Rygos vyskupas Fridrichas bandė sutaikyti Livonijos ordiną ir Lietuvą, pasitelkęs popiežiaus Jono XXII autoritetą.
+- susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59858|Fridrichas II]]: M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.
+- susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59960|Fridrichas Kvicas]]: Broliai Hartmanas ir Fridrichas Kvicas su 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė.
+- susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59953|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Eberhardas, Varmės vyskupas, Fridricho iš Libencelės pastangomis pastatydino Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje.
+- susijęs iš [[objektai/asmenys/Germantas.md#claim-t-87426|Germantas]]: Balińskis teigė, kad Germantas Šventaragio slėnyje plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus.
+- susijęs iš [[objektai/asmenys/Germantas.md#claim-t-87427|Germantas]]: Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms.
+- susijęs iš [[objektai/asmenys/Guillaume de Machaut.md#claim-t-30258|Guillaume de Machaut]]: Prancūzų poetas Guillaume de Machaut dalyvavo šiame žygyje ir 1357 m. jį paminėjo veikale „Confort d’Ami“.
+- susijęs iš [[objektai/asmenys/Hartmanas.md#claim-t-60299|Hartmanas]]: 1317 m. brolis Hartmanas su Fridrichu Kvicu ir 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė.
+- susijęs iš [[objektai/asmenys/Isamas (Rygos arkivyskupas).md#claim-t-87518|Isamas (Rygos arkivyskupas)]]: Rygos arkivyskupui Isamui tarpininkaujant buvo sudaryta lietuvių taikos sutartis su Vokiečių ordinu.
+- susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176416|Jadvyga Jogailienė]]: Jadvyga Jogailienė 1387 metų sausį atvyko į Vilnių kartu su Vladislovu Jogaila ir kitais krikščionybės skleidėjais.
+- susijęs iš [[objektai/asmenys/Jaunė (Jievna).md#claim-t-34795|Jaunė (Jievna)]]: Gedimino našlė Jaunė tikriausiai buvo jungiantis veiksnys, kai Vilniuje gyveno kartu su Jaunučiu.
+- susijęs iš [[objektai/asmenys/Jonas (popiežius).md#claim-t-87523|Jonas (popiežius)]]: Gediminas pasiuntė laišką popiežiui Jonui, prašydamas, kad šis jį apvilktų pirmuoju krikšto rūbu.
+- susijęs iš [[objektai/asmenys/Jonas Kalita.md#claim-t-30308|Jonas Kalita]]: Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.
+- susijęs iš [[objektai/asmenys/Jonas Kalita.md#claim-t-30309|Jonas Kalita]]: Totorių palaikomas Jonas Kalita savo valdžion užiminėjo rusų žemes.
+- susijęs iš [[objektai/asmenys/Jonas Liuksemburgietis.md#claim-t-30310|Jonas Liuksemburgietis]]: 1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius.
+- susijęs iš [[objektai/asmenys/Jonas iš Endorfo.md#claim-t-60345|Jonas iš Endorfo]]: 1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis ėjo iš bažnyčios.
+- susijęs iš [[objektai/asmenys/Jurgis (Danieliaus sūnus).md#claim-t-30316|Jurgis (Danieliaus sūnus)]]: Maskvos kunigaikštis Jurgis, Danieliaus sūnus, 1325 m. žuvo totorių ordoje.
+- susijęs iš [[objektai/asmenys/Karolis IV.md#claim-t-89885|Karolis IV]]: 1358 m. Lietuvos vyriausybė derybose su Vokietijos imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes.
+- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184410|Kazimieras Didysis]]: 1325 m. Gedimino duktė Aldona (Ona) buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimo Kazimiero III Didžiojo.
+- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184413|Kazimieras Didysis]]: 1325 m. Gedimino dukters Aldonos ir būsimojo Kazimiero Didžiojo jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį.
+- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184414|Kazimieras Didysis]]: Kazimieras III Dobrynės žemę buvo atidavęs Vladislovui iš Opolės.
+- susijęs iš [[objektai/asmenys/Kiršenšteinas.md#claim-t-87913|Kiršenšteinas]]: Prūsijoje lietuvių paimtos karo belaisvės sūnus buvo vadinamas Kiršenšteinu, o jo giminė vėliau valdė Raudonės pilį.
+- susijęs iš [[objektai/asmenys/Konradas Lichtenhagenas.md#claim-t-87759|Konradas Lichtenhagenas]]: Brandenburgo komtūras Konradas Lichtenhagenas atėjo į Gardino valsčių ir pilį po žygio į Pagraudenės valsčių.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-05189|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: 1381 m. Kęstutis, išvaręs Jogailą, tapo vyriausiuoju Lietuvos valdovu ir atsisėdo Vilniaus pilyje.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-10689|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis pastatė mūro pilį Trakų ežero saloje.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176516|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei kunigaikščių buveinei.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176519|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: 1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176520|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei.
+- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-12192|Liubartas]]: Liubartas vedė paskutinio Volynijos kunigaikščio vienturtę dukterį.
+- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-12193|Liubartas]]: 1340 m., mirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Kazimieras Didysis.
+- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93458|Liubartas]]: Liubartas vedė vienturtę Volynijos kunigaikščio įpėdinę.
+- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93461|Liubartas]]: Prieš Gedimino mirtį Liubartas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės.
+- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93463|Liubartas]]: 1340 m. dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Boleslovo giminaitis Kazimieras Didysis.
+- susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-87374|Manvydas]]: Manvydas buvo vienas garsiausių Lietuvos didikų, kurio didžiuliai rūmai stovėjo Vilniuje pilies kalno pietų pusėje, tarp kalno ir Vilnelės.
+- susijęs iš [[objektai/asmenys/Marija (Algirdo žmona).md#claim-t-87545|Marija (Algirdo žmona)]]: Marija buvo Tverės kunigaikštytė ir Algirdo žmona.
+- susijęs iš [[objektai/asmenys/Marija (Gedimino duktė).md#claim-t-82550|Marija (Gedimino duktė)]]: Gedimino duktė Marija buvo ištekinta už Rusios kunigaikščio Boleslovo.
+- susijęs iš [[objektai/asmenys/Marija (Gedimino duktė).md#claim-t-82552|Marija (Gedimino duktė)]]: Gedimino duktė Marija politinėmis vedybomis ištekėjo už didžiojo Tverės kunigaikščio Dimitro.
+- susijęs iš [[objektai/asmenys/Marija (Haličo-Volinijos giminės).md#claim-t-97463|Marija (Haličo-Volinijos giminės)]]: Marija buvo vienintelė likusi Haličo-Volinijos Riurikaičių giminės atžala ir žuvusių brolių sesuo.
+- susijęs iš [[objektai/asmenys/Marija (Vitebsko sosto įpėdinė).md#claim-t-30356|Marija (Vitebsko sosto įpėdinė)]]: Marija buvo vienintelė Vitebsko kunigaikščio sosto įpėdinė, o ją vedęs Algirdas po uošvio mirties paveldėjo Vitebską.
+- susijęs iš [[objektai/asmenys/Mikalojus fon Parsau.md#claim-t-87552|Mikalojus fon Parsau]]: 1323 m. Liubeke prieš sprendimą dėl Gedimino laiškų nutarta prašyti patarimo Karkuso valdytojo Mikalojaus fon Parsau.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113903|Mindaugas (valdovas, XIII a.)]]: Mindaugo krikštas ir karalystė nepanaikino pagoniškų dievų vaidmens Lietuvoje.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113904|Mindaugas (valdovas, XIII a.)]]: Gediminas laiške popiežiui ir kardinolams rašė, kad karalius Mindaugas su visa tauta buvo priėmęs krikščioniškąjį tikėjimą.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113917|Mindaugas (valdovas, XIII a.)]]: Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet vėliau nuo jo atkrito.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113924|Mindaugas (valdovas, XIII a.)]]: Balińskis Gedimino laiškuose išskyrė užuominą apie karaliaus Mindaugo grįžimą prie pagonybės dėl Kryžiuočių ordino kaltės.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113925|Mindaugas (valdovas, XIII a.)]]: Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl teutonų išdavysčių nuo jo atkrito.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113929|Mindaugas (valdovas, XIII a.)]]: Gedimino laiške teigta, kad karalius Mindaugas su tauta priėmė krikščionybę, bet dėl kryžiuočių smurto nuo jos atsimetė.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113933|Mindaugas (valdovas, XIII a.)]]: Gedimino laikais įsitvirtinus leniniam valdymui, buvo įgyvendintos Mindaugo politinės pastangos.
+- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113934|Mindaugas (valdovas, XIII a.)]]: Balińskis teigė, kad Gedimino veiklumo dėka buvo įgyvendintos Mindaugo pastangos.
+- susijęs iš [[objektai/asmenys/Mykolas Zaleskis.md#claim-t-87804|Mykolas Zaleskis]]: Mykolui Zaleskiui priklausė Veliuona.
+- susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121122|Patrikas (kunigaikštis, XIV a.)]]: Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173208|Petras Goštautas]]: Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173210|Petras Goštautas]]: Waddyngas ir Antoni Melissanius de Macro pasakoja, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų vienuolių.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54989|Petras Goštautas]]: Apie 1345 m. prieš pranciškonų žudynes Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54990|Petras Goštautas]]: Pagal Waddyngo pasakojimą Petras Goštautas 1333 m. atkvietė į Vilnių keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.
+- susijęs iš [[objektai/asmenys/Pranciškus (popiežiaus legatas).md#claim-t-87564|Pranciškus (popiežiaus legatas)]]: Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų į pastatytą bažnyčią.
+- susijęs iš [[objektai/asmenys/Stanislovas.md#claim-t-186018|Stanislovas]]: Stanislovas pabėgo į Riazanę, kur neturėjo nei kariuomenės, nei valdžios ir atsisakė vilčių.
+- susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-60211|Sudargas]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą ir sudegino jį drauge su aplinkiniais kaimais.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90019|Sventopelkas]]: Petras Dusburgietis Pamario kunigaikštį Sventopelką vadina išdaviku dėl bendradarbiavimo su prūsais prieš Ordiną.
+- susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121172|Tautvilas]]: Mindaugo sūnėnas Tautvilas įsitvirtino Polocke, kai Lietuvos valdžia plito Baltojoje Rusijoje.
+- susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64173|Teodoras (Liubarto sūnus)]]: Liubarto sūnus Teodoras pabėgo į Vengriją, kur prie jo prisijungė Teodoras Karijotaitis.
+- susijęs iš [[objektai/asmenys/Teodoras.md#claim-t-79203|Teodoras]]: 1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve.
+- susijęs iš [[objektai/asmenys/Teofilis (arkivyskupas).md#claim-t-97510|Teofilis (arkivyskupas)]]: Po arkivyskupo Teofilio mirties apie 1330 m. nebuvo paskirtas naujas įpėdinis.
+- susijęs iš [[objektai/asmenys/Teofilis (arkivyskupas).md#claim-t-97511|Teofilis (arkivyskupas)]]: Po arkivyskupo Teofilio mirties apie 1330 m. Naugarduko arkivyskupija žlugo, nes nebuvo paskirtas naujas įpėdinis.
+- susijęs iš [[objektai/asmenys/Traidenis I.md#claim-t-30401|Traidenis I]]: Traidenis I buvo Mozūrijos, Čersko ir Sochačevo kunigaikštis 1316-1341 m.
+- susijęs iš [[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis).md#claim-t-87880|Venceslavas (Mazovijos ir Plocko kunigaikštis)]]: Venceslavas tuo tarpsniu valdė Mazoviją ir Plocką, o 1321 m. sudarė sutartį su kryžiuočių Ordinu.
+- susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64229|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį.
+- susijęs iš [[objektai/asmenys/Vikintas.md#claim-t-34831|Vikintas]]: Vikintas, Mindaugo sūnėnų Tautvilo ir Edivido dėdė iš motinos pusės, buvo įsigyvenęs Vitebske.
+- susijęs iš [[objektai/asmenys/Vilhelmas iš Modenos.md#claim-t-60076|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]: M. Poliakuvna atkreipė dėmesį į dokumentus, susijusius su popiežiaus pasiuntinio Vilhelmo iš Modenos veikla Prūsijoje.
+- susijęs iš [[objektai/asmenys/Vladimiras Algirdaitis.md#claim-t-182865|Vladimiras Algirdaitis]]: 1396 m. Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, o sau pasiliko Žitomiro ir Ovručio plačius valsčius.
+- susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-184378|Vladislovas Lokietka]]: Gediminas, matydamas užsitęsiančią kovą su kryžiuočiais, rado sąjungininką Lenkijos valdovo Vladislovo Lokietkos asmenyje.
+- susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90067|Vladislovas Lokietka]]: Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną.
+- susijęs iš [[objektai/asmenys/Vladislovas.md#claim-t-184855|Vladislovas]]: Gediminas padėjo Vladislovui kariauti su Brandenburgo markgrafu Voldemaru.
+- susijęs iš [[objektai/asmenys/Vladislovas.md#claim-t-184856|Vladislovas]]: Gediminas atskubėjo į pagalbą Vladislovui ir kariuomenės dalinius patikėjo vadovauti savo sūnums.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176646|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kęstučio sūnus Vytautas Didysis valdė 1392–1430 m. ir laikytas iškiliausiu dinastijos atstovu.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176657|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1410 m. Vytautas, su kariuomene įžengęs į Prūsiją, rado jam palankių prūsų bajorų.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176672|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176700|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis buvo Kęstučio sūnus ir valdė 1392–1430 m.
+- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176833|Vytenis]]: Karamzinas abejojo prielaida, kad Vytenis, lietuvis pagonis, galėjo būti rusino Vido Dovydavičiaus vaikaitis.
+- susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-87898|Šventaragis]]: Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas.
+- susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-102832|A. Vijūkas Kojelavičius]]: A. Vijūkas Kojelavičius Pagraudenę vadino Žemaitijos apylinke.
+- susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-102833|A. Vijūkas Kojelavičius]]: Kojelavičius Pagraudenę vadino apylinke Žemaitijoje.
+- susijęs iš [[objektai/autoriai/Antoni Melissanius de Macro.md#claim-t-88053|Antoni Melissanius de Macro]]: Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.
+- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102843|Dusburgas]]: Dusburgas prie 1304 m. pirmą kartą paminėjo Pagraudenę, pasakodamas apie Eberhardo de Virnemburgo įsiveržimą į Lietuvą.
+- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102849|Dusburgas]]: 1985 m. leidinio įžangoje Petras iš Dusburgo apibūdinamas kaip Kryžiuočių ordino brolis kunigas, 1326 m. užbaigęs savo kroniką; nurodoma, kad ji pratęsta iki 1330 m.
+- susijęs iš [[objektai/autoriai/Hartknochas.md#claim-t-88023|Hartknochas]]: Hartknocho prielaida, kad Vilnius buvo vadinamas Castrum Gedemini, Balińskio tekste atmetama.
+- susijęs iš [[objektai/autoriai/J. Adamus.md#claim-t-30654|J. Adamus]]: J. Adamus 1930 m. žurnale KH paskelbė darbą „O tytule panującego i państwa litewskiego“.
+- susijęs iš [[objektai/autoriai/J. Jakštas.md#claim-t-100099|J. Jakštas]]: J. Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje viduramžių istorijoje, kurią docento teisėmis dėstė Vilniaus universitete 1940–1944 m.
+- susijęs iš [[objektai/autoriai/J. Puzyna.md#claim-t-30698|J. Puzyna]]: J. Puzyna 1930 m. paskelbė darbą „Korjat i Korjatowicze“, o 1936 m. pasirodė jo papildymai.
+- susijęs iš [[objektai/autoriai/K. Chodynicki.md#claim-t-30729|K. Chodynicki]]: K. Chodynicki 1926 m. paskelbė darbą „Geneza dynastii Giedymina“.
+- susijęs iš [[objektai/autoriai/Kojałowicz Kojelavičius.md#claim-t-87997|Kojałowicz Kojelavičius]]: Kojelavičius Pagraudenę vadino Žemaitijos apylinke.
+- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78779|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Karoliu Zikaru parengė kartoschemą „Mindaugo valdoma Lietuva iki 1263 m.“.
+- susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78789|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą apie Lietuvos teritoriją iki 1341 m.
+- susijęs iš [[objektai/autoriai/Naruszewicz Naruševičius.md#claim-t-87996|Naruszewicz Naruševičius]]: Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
+- susijęs iš [[objektai/autoriai/Naruszewicz.md#claim-t-87991|Naruszewicz]]: Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
+- susijęs iš [[objektai/autoriai/P. Būtėnas.md#claim-t-97201|P. Būtėnas]]: P. Būtėnas 1973 m. žurnale „Karys“ paskelbė straipsnius apie Vilnių ir jo pradžią.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181461|Petras Dusburgietis]]: Petras Dusburgietis 1326 m. užbaigė savo kroniką, įteikė ją magistrui, o kūrinys buvo pratęstas iki 1330 m.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181466|Petras Dusburgietis]]: Petras iš Dusburgo 1326 m. užbaigė savo kroniką ir įteikė ją magistrui.
+- susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181473|Petras Dusburgietis]]: Petras iš Dusburgo šiame šaltinyje apibūdinamas kaip Ordino brolis kunigas, 1326 m. užbaigęs savo kroniką ir įteikęs ją magistrui.
+- susijęs iš [[objektai/autoriai/St. Smolka.md#claim-t-54136|St. Smolka]]: St. Smolka 1889 m. paskelbė veikalą „Kiejstut i Jagiełło“.
+- susijęs iš [[objektai/autoriai/V. Urbanavičius.md#claim-t-31051|V. Urbanavičius]]: V. Urbanavičius parašė darbą „Rumšiškėnai XIV-XVI amžiais“, išleistą Vilniuje 1970 m.
+- susijęs iš [[objektai/autoriai/Waddyngas Luca Vaddingo.md#claim-t-88049|Waddyngas Luca Vaddingo]]: Waddyngas ir Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.
+- susijęs iš [[objektai/daiktai/Aukuras.md#claim-t-81841|Aukuras]]: Pasak legendos, Birutė pasitraukė nuo dievų aukuro į šeimos židinį ir išaugino Vytautą.
+- susijęs iš [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės.md#claim-t-13281|Baltijos kelio gedulo kaspinai ir žvakutės]]: Baltijos kelio gedulo kaspinai ir žvakutės priminė aukas ir didelių netekčių skausmą.
+- susijęs iš [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės.md#claim-t-13282|Baltijos kelio gedulo kaspinai ir žvakutės]]: Baltijos kelyje plevėsavo juodi gedulo kaspinai ir degė žvakutės.
+- susijęs iš [[objektai/daiktai/Druska.md#claim-t-31104|Druska]]: Druska buvo vienas būtiniausių dalykų, kuriuos Lietuva per Rygą gabendavosi iš Vakarų.
+- susijęs iš [[objektai/daiktai/Geležinis vilkas kaip simbolinis regėjimo objektas.md#claim-t-87078|Geležinis vilkas kaip simbolinis regėjimo objektas]]: Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas priminė šimto vilkų staugimą.
+- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92963|Herbai]]: Gedimino stulpai ir Jogailos kryžius XVI a. viduryje buvo pavaizduoti herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.
+- susijęs iš [[objektai/daiktai/Karūna.md#claim-t-186814|Karūna]]: Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.
+- susijęs iš [[objektai/daiktai/Kilpinė ir strėlė.md#claim-t-87111|Kilpinė ir strėlė]]: Pasak Strijkovskio, Gediminas medžiodamas strėle iš kilpinės pašovė taurą ant kalno, vėliau vadinto Tauro kalnu.
+- susijęs iš [[objektai/daiktai/Kryžius ant kardo galo.md#claim-t-71565|Kryžius ant kardo galo]]: Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.
+- susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-10728|Lietuvos pinigai]]: Kapomis vadintus Lietuvos pinigus greičiausiai liejo ne tik didžiojo kunigaikščio iždas, bet ir privatūs žmonės.
+- susijęs iš [[objektai/daiktai/Lietuvos trispalvė.md#claim-t-75334|Lietuvos trispalvė]]: Liepos 9 d. Vingio parke LPS vadovybė pareikalavo legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“.
+- susijęs iš [[objektai/daiktai/Mediniai namai, trobos ir trobelės.md#claim-t-87055|Mediniai namai, trobos ir trobelės]]: Iki Gedimino dabartinio Vilniaus vietoje tikriausiai buvo medinė tvirtovė, o palei Vilnios krantą driekėsi trobelės.
+- susijęs iš [[objektai/daiktai/Mediniai rūmai.md#claim-t-87085|Mediniai rūmai]]: Gedimino dvare gyvenę lietuvių didikai ir kunigaikščio giminės ties pilimi statydinosi medinius rūmus.
+- susijęs iš [[objektai/daiktai/Mūro pilys.md#claim-t-19571|Mūro pilys]]: Gedimino ar Algirdo valdymo laikais aplink valstybės branduolį buvo sukurta mūro pilių sistema: Medininkai, Krėva, Lyda, Trakai, Gardinas ir Kaunas.
+- susijęs iš [[objektai/daiktai/Mūro sienos ir miesto sienos.md#claim-t-89430|Mūro sienos ir miesto sienos]]: Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.
+- susijęs iš [[objektai/daiktai/Mūro sienos.md#claim-t-87059|Mūro sienos]]: Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas.
+- susijęs iš [[objektai/daiktai/Pranciškonų kankinių palaidojimo vietos koplyčia.md#claim-t-19583|Pranciškonų kankinių palaidojimo vietos koplyčia]]: XVI a. pradžioje Vilniuje dviejų pranciškonų palaidojimo vietoje pradėta statyti koplyčia.
+- susijęs iš [[objektai/daiktai/Rykai.md#claim-t-87118|Rykai]]: Rykai į Vilnių patekdavo iš Lenkijos ir Livonijos.
+- susijęs iš [[objektai/daiktai/Rūbai.md#claim-t-87119|Rūbai]]: Rūbai į Vilnių patekdavo iš Lenkijos ir Livonijos.
+- susijęs iš [[objektai/daiktai/Trakų kunigaikščio žvėrynas.md#claim-t-87094|Trakų kunigaikščio žvėrynas]]: Vytauto privilegijoje Trakams minima, kad už Galvės ežero, skalaujančio pilį, buvo kunigaikščio žvėrynas.
+- susijęs iš [[objektai/daiktai/Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis.md#claim-t-87098|Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis]]: Pasak sapno aiškinimo, Gediminas ant Tauro kalno turėjo pastatyti Aukštutinę mūro pilį, o slėnyje - medinę pilį, pavadintą Vilniumi.
+- susijęs iš [[objektai/daiktai/Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis.md#claim-t-87099|Vilniaus Aukštutinė mūro pilis ir žemutinė medinė pilis]]: Balińskis Vilniaus vardą kildino iš Vilnios ir laikė tai ženklu, kad pirmykštė Vilniaus gyvenvietė buvo prie šios upės.
+- susijęs iš [[objektai/daiktai/Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje.md#claim-t-87067|Vilniaus pilys, sienos, bokštai, grioviai ir perkasos 1394 m. apgultyje]]: 1394 m. Švitrigaila mėgino užimti Vilnių, įkalbėdamas vienuolius padegti du medinius bokštus puolimo metu.
+- susijęs iš [[objektai/daiktai/Vilnonės medžiagos.md#claim-t-47822|Vilnonės medžiagos]]: Per Rygą Lietuva iš Vakarų gaudavo būtinų prekių, tarp jų druskos, vilnonių medžiagų ir geležies.
+- susijęs iš [[objektai/daiktai/Vilnonės medžiagos.md#claim-t-47823|Vilnonės medžiagos]]: Per Rygą Lietuva iš Vakarų gaudavo būtiniausių dalykų, tarp jų druską, vilnones medžiagas ir geležį.
+- susijęs iš [[objektai/daiktai/Vytis.md#claim-t-186858|Vytis]]: Komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas.
+- susijęs iš [[objektai/grupes/Anglų riteriai.md#claim-t-86788|Anglų riteriai]]: Anglų riteriai ne kartą kartu su kryžiuočiais dalyvavo kryžiaus žygiuose prieš pagonimis laikytus lietuvius.
+- susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187438|Aukso orda]]: Apie 1325 m. Aukso orda rytuose turėjo kovoti su ją puolusiu Iranu.
+- susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172082|Dominikonų ordinas]]: Gediminas teigė turįs dominikonų brolių ir suteikęs jiems visišką laisvę krikštyti, pamokslauti bei atlikti šventąsias apeigas.
+- susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172091|Dominikonų ordinas]]: Gediminas ketino kviesti dorus dominikonų ir pranciškonų vienuolius, bet nepageidavo vienuolynus plėšikų prieglobsčiu paverčiančių vienuolių.
+- susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172093|Dominikonų ordinas]]: Gediminas dominikonų magistrams, priorams ir broliams pranešė pasiuntęs laišką popiežiui Jonui dėl krikšto.
+- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112515|Domininkonų ordinas]]: Michałas Balińskis Gedimino vardu dominikonų ordinui, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo prasimanymu ir klastote.
+- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112520|Domininkonų ordinas]]: Gediminas teigė norįs kviesti dorus dominikonų ir pranciškonų ordino vienuolius, bet nepageidaująs plėšikaujančių vienuolių.
+- susijęs iš [[objektai/grupes/Gediminaičių šeima.md#claim-t-01323|Gediminaičių šeima]]: Gedimino šeimos valdančioji šaka pasibaigė, nors dar buvo gyvų nuo sosto nutolusių Gedimino giminės kunigaikščių.
+- susijęs iš [[objektai/grupes/Goštautų giminė.md#claim-t-187758|Goštautų giminė]]: Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vilniaus seniūnu minimas Andrius Goštautas.
+- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116685|Hanza]]: Vytauto laikų Lietuva buvo kraštas, kurio negalėjo aplenkti Hanzos ir kiti pirkliai.
+- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116691|Hanza]]: Gediminas per rygiečius kreipėsi į Hanzos miestus ir kvietė amatininkus, pirklius, žemdirbius bei riterius vykti į Lietuvą.
+- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184564|Kalavijuočių ordinas]]: Livonijos ordino ir Lietuvos sutaikymą bandė tarpininkauti Rygos vyskupas Fridrichas, pasitelkęs popiežiaus Jono XXII autoritetą.
+- susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-184484|Krikščionys]]: Gediminas nenorėjo priimti krikščionybės ar sudaryti sutarties su krikščionimis, todėl nutraukė pradėtas derybas.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178789|Kryžiuočių ordinas]]: Balińskis teigė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus, siekdamas apšmeižti Kryžiuočių ordiną.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178790|Kryžiuočių ordinas]]: Per Bajerburgo apsuptį Ordino maršalas Henrikas Duseneris ir Reino palatinas atvyko į pagalbą apsuptiesiems.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178832|Kryžiuočių ordinas]]: Kai Gedimino skundas pasiekė popiežių, Prūsijos dvasininkai laiškuose stojo ginti Kryžiuočių ordino.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178855|Kryžiuočių ordinas]]: Gedimino laiške teigta, kad Vytenis prašė atsiųsti minoritų, bet Ordinas, tai sužinojęs, pasiuntė ginkluotą būrį sudeginti bažnyčios.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178864|Kryžiuočių ordinas]]: XIV a. trečiajame dešimtmetyje Vakarų Europoje pasigirdo kritiškų balsų Kryžiuočių ordino atžvilgiu.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178866|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo paplitusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178872|Kryžiuočių ordinas]]: Kryžiuočių ordinas stengėsi sužlugdyti 1323 m. spalio 2 d. sutartį ir 1324 m. tęsė agresiją prieš Lietuvos žemes.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178880|Kryžiuočių ordinas]]: 1323 m. Liubeke dėl tariamų Gedimino laiškų nutarta kreiptis patarimo į tuo metu mieste buvusius Ordino riterius.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178883|Kryžiuočių ordinas]]: Gedimino laiške popiežiui ir kardinolams teigta, kad Mindaugą nuo krikščionybės atstūmė kryžiuočių magistro smurtas ir išdavystės.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178889|Kryžiuočių ordinas]]: M. Balinskis svarstė, kad pasakojimas apie kryžiuočių sudegintą valdovo antspaudą galėjo būti įdėtas siekiant tam tikro tikslo.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178890|Kryžiuočių ordinas]]: 1337 m. birželio 15 d. Gediminas su kariuomene sustojo ties Bajerburgu ir puolė kryžiuočių tvirtovę.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178908|Kryžiuočių ordinas]]: M. Balinskis manė, kad Rygos arkivyskupas Gedimino vardu parengė laiškus, kuriais siekė apšmeižti Kryžiuočių ordiną.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178923|Kryžiuočių ordinas]]: Veliuonos pilis tikriausiai buvo pastatyta XIII a., kad Žemaitijos siena būtų saugoma nuo kryžiuočių puldinėjimų.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178931|Kryžiuočių ordinas]]: Tarnybiniame pranešime įrašyti tariamieji Gedimino laiškai buvo saugomi Kryžiuočių archyve.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178938|Kryžiuočių ordinas]]: Kryžiuočių kariauna, pakeliui viską degindama, puolė Bisenės pilį ir mėgino ją užimti šturmu.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178952|Kryžiuočių ordinas]]: Matomai Rygoje buvo įsitikinimas, kad kryžiuočiai Lietuvą greitai įveiks.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179010|Kryžiuočių ordinas]]: 1325 m. Vilniuje sudaryta Gedimino sutartis su Lokietka numatė bendrą kovą su Prūsijos ordinu.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179014|Kryžiuočių ordinas]]: Sužinoję apie Gedimino skundą popiežiui, Prūsijos minoritai ir abatai Paulius bei Jordanas stojo ginti kryžiuočių.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179030|Kryžiuočių ordinas]]: Rygos pasiuntiniai popiežiui pranešė, kad Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179048|Kryžiuočių ordinas]]: Gediminas laiške popiežiui ir kardinolams kryžiuočių magistro smurtą siejo su Mindaugo atsitraukimu nuo krikščionybės.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179103|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo įsigalėjusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179120|Kryžiuočių ordinas]]: Rygos pasiuntiniai pranešė popiežiui, kad Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti taikai.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-187711|Kryžiuočių ordinas]]: Narimantas Glėbas 1348 m. vasario 2 d. žuvo mūšyje su Kryžiuočių ordinu ties Strėva.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179128|Lenkai]]: Atvykusiems lenkams anuometinis Vilnius iškilo kaip niūrokas, bet gražiu kraštovaizdžiu kerintis miestas.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179137|Lenkai]]: Į Vilnių kartu su Jogaila atvyko Jadvyga, Gniezno arkivyskupas, Krokuvos vyskupas ir daugybė lenkų didikų bei kunigaikščių.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179182|Lenkai]]: 1326 m. Gedimino raiteliai kartu su lenkais nuniokojo Brandenburgo žemę vakariau Kryžiuočių ordino valdų.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179215|Lietuviai]]: Dėl lietuvių diduomenės ir paprastų žmonių nenoro keisti senojo gyvenimo būdo siūlyta pirmiau pasiųsti į Lietuvą pasiuntinius.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179223|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179287|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179310|Lietuviai]]: Per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją Junigedos vardu.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179329|Lietuviai]]: Dalis lietuvių diduomenės ir paprastų žmonių, kaip manyta, nekeisianti senojo gyvenimo būdo.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179333|Lietuviai]]: Gediminas laiške popiežiui Jonui prisistatė lietuvių ir daugelio rusų karaliumi.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184550|Lietuviai]]: Gediminas su kitais kariais atskubėjo padėti pradėjusiam krikti lietuvių raitelių pulkui ir vėliau įsakė jam pulti rusų sparną.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169687|Lietuvos Didžioji Kunigaikštija]]: Valdant Gediminui ir Algirdui Lietuvos Didžioji Kunigaikštija išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga.
+- susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-13474|Lietuvos Persitvarkymo Sąjūdis]]: 1988 m. birželio 10 d. Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė įsteigta Kaune, o liepos 6 d. – Klaipėdoje.
+- susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-23309|Lietuvos Persitvarkymo Sąjūdis]]: Pradiniame etape Sąjūdis iš esmės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų etapais siejo tik laisvos Lietuvos siekis.
+- susijęs iš [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba.md#claim-t-65775|Lietuvos SSR Aukščiausioji Taryba]]: Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m. vasarą sovietų valstybės įvykdytą Lietuvos okupaciją ir neteisėtą prijungimą.
+- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-182738|Lietuvos kariuomenė]]: Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179358|Livonijos ordinas]]: Rygiečių „Sühnenbrief“ teigė, kad jų bendradarbiavimas su pagonimis ordinui atnešė didelių nuostolių ir persekiojimų.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179375|Livonijos ordinas]]: Nuo Mindaugo krikšto Livonijos ordinas buvo įgijęs įtakos Lietuvos vidaus santykiams.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179377|Livonijos ordinas]]: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179388|Livonijos ordinas]]: Gedimino vardu rašytų laiškų klastojimas citatoje siejamas su Rygos arkivyskupo ir Livonijos ordino brolių konfliktu.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179422|Livonijos ordinas]]: Rygai kritus, Gediminas neteko paramos prieš Livonijos ordiną, kuris beveik iki Gedimino valdymo pabaigos puldinėjo Lietuvą.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179429|Livonijos ordinas]]: Prūsų kryžiuočiams kariaujant su Lenkijos Kazimieru, Lietuvą puolė Livonijos ordinas.
+- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86736|Mazovijos kunigaikščiai]]: Gedimino laiškų užuomina apie Mazoviją leido manyti, kad Mazovijos kunigaikštis buvo Lietuvos valdovo sąjungininkas.
+- susijęs iš [[objektai/grupes/Mongolai.md#claim-t-183665|Mongolai]]: Mongolus prie Mėlynųjų vandenų sutriuškino gerai organizuota Lietuvos kariuomenė, vadovaujama Algirdo.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108287|Pranciškonų ordinas]]: Gediminas kreipėsi į pranciškonų ordino brolius, pasklidusius visame pasaulyje, ypač į Saksonijos ministrą.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108288|Pranciškonų ordinas]]: Gediminas prašė pranciškonų tais metais atsiųsti keturis brolius prie jo pastatytų bažnyčių Vilniuje ir Naugarduke.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108297|Pranciškonų ordinas]]: Gediminas ketino kviesti tik girtino ir doro gyvenimo pranciškonų ordino vienuolius.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108302|Pranciškonų ordinas]]: Gediminas prašė pranciškonų šiais metais paskirti keturis brolius prie bažnyčių Vilniuje ir Naugarduke.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108303|Pranciškonų ordinas]]: Gedimino laiškai Liubeke buvo įteikti miesto tarybai ir Pranciškonų ordino kustodui.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108307|Pranciškonų ordinas]]: Pranciškonai toliau veikė sostinėje ir joje turėjo savo vienuolyną.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108309|Pranciškonų ordinas]]: Gediminas savo laišku kreipėsi į pranciškonų ordino ministrus, kustodus, gvardijonus ir kitus brolius.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108311|Pranciškonų ordinas]]: Gediminas žadėjo kviestis dorus vyskupus, kunigus, dominikonus ir pranciškonų ordino vienuolius.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108316|Pranciškonų ordinas]]: 1323 m. Gedimino laiškai buvo rašyti dominikonų, Mažesniųjų brolių, arba pranciškonų, ordinams ir Hanzos miestams.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108320|Pranciškonų ordinas]]: Iš Gedimino laikais nubaustų dviejų pranciškonų fakto XVI a. rusų ir lenkų šaltiniuose sukurta legenda apie 36 Vilniuje nukankintus pranciškonus.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108322|Pranciškonų ordinas]]: XVI a. rusų ir lenkų šaltiniuose iš dviejų Gedimino laikais nubaustų pranciškonų fakto sukurta legenda apie 36 Vilniuje nukankintus pranciškonus.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108329|Pranciškonų ordinas]]: Pranciškonai veikė sostinėje ir joje laikė savo vienuolyną.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-187742|Pranciškonų ordinas]]: Lietuvos metraštis pasakoja, kad Algirdui leidus Petras Goštautas iš Lenkijos į Vilnių parsikvietė 14 pranciškonų vienuolių.
+- susijęs iš [[objektai/grupes/Riurikaičių dinastija.md#claim-t-96866|Riurikaičių dinastija]]: Smulkūs Riurikaičiai Lietuvos valdžioje buvo daliniai kunigaikščiai, bet ne savarankiški valdovai.
+- susijęs iš [[objektai/grupes/Rygiečiai.md#claim-t-179438|Rygiečiai]]: Gedimino laiškų kaltinimai ordinui leido kelti prielaidą, kad juos Gedimino vardu sufabrikavo Livonijos ordino priešai rygiečiai.
+- susijęs iš [[objektai/grupes/Rygiečiai.md#claim-t-179439|Rygiečiai]]: Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį.
+- susijęs iš [[objektai/grupes/Rygos miesto taryba.md#claim-t-28666|Rygos miesto taryba (institucija)]]: Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline.
+- susijęs iš [[objektai/grupes/Rygos pirkliai.md#claim-t-86821|Rygos pirkliai]]: Gedimino valdymo laikais Vilniuje jau buvo Rygos pirkliams suteiktų privilegijų pėdsakų.
+- susijęs iš [[objektai/grupes/SSRS liaudies deputatų II suvažiavimas.md#claim-t-19999|SSRS liaudies deputatų II suvažiavimas]]: 1989 m. gruodį SSRS liaudies deputatų II suvažiavimas pasmerkė slaptųjų protokolų padarinius, bet tiesiogiai jų nesusiejo su Baltijos valstybių okupacija.
+- susijęs iš [[objektai/grupes/Stačiatikiai.md#claim-t-182592|Stačiatikiai]]: Gedimino laikais Vilniaus „rusėnų pusėje“ stovėjo cerkvės, o Algirdas toleravo stačiatikybę, kai ji neprieštaravo valdovo interesams.
+- susijęs iš [[objektai/grupes/Venedai.md#claim-t-86774|Venedai]]: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
+- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117319|Vokiečiai]]: Gediminas kvietė vokiečių riterius, pirklius, amatininkus ir valstiečius atvykti į Lietuvą bei čia įsikurti.
+- susijęs iš [[objektai/grupes/Šv. Bazilijaus ordinas.md#claim-t-86841|Šv. Bazilijaus ordinas]]: Algirdo valdymo pradžioje Šv. Bazilijaus ordino vienuoliai įsikūrė Vilniuje ir turėjo medinę bažnyčią.
+- susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-183907|Žemaičiai]]: Eiliuotosios Livonijos kronikos žemaičių žynys dievams aukojo trečdalį karo grobio ir išbūrė žemaičių vadams pergalę 1259 m. Skuodo kautynėse.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-182934|Žiemgaliai]]: Po Durbės mūšio žiemgaliai atsimetė nuo Ordino ir prisidėjo prie Lietuvos.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89345|Žiemgaliai]]: Kryžiuočiams nepavykus paimti žiemgalių Tervetės pilies, jie pasistatė Dobę, kurią sukilėlių pusėje puolė žemaičiai.
+- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89352|Žiemgaliai]]: Kryžiuočiams nepavykus paimti žiemgalių Tervetės pilies, jie pasistatė Dobę, kurią puolė žemaičiai.
+- susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187459|Algirdo žygis į Maskvą]]: Legenda apie Algirdo žygį į Maskvą yra Bychovco kronikoje, bet jos nėra Trumpajame ir kituose Platesniojo sąvado nuorašuose.
+- susijęs iš [[objektai/ivykiai/Bazilijonų įsikūrimas Vilniuje Algirdo valdymo pradžioje.md#claim-t-86941|Bazilijonų įsikūrimas Vilniuje Algirdo valdymo pradžioje]]: Algirdo valdymo pradžioje jo žmonos, Tverės kunigaikštytės, atkvieti Šv. Bazilijaus ordino vienuoliai įsikūrė Vilniuje ir turėjo medinę bažnyčią.
+- susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija.md#claim-t-66541|Gedimino sąjunga su Lenkija]]: 1325 m. sutartis buvo pirmasis pastovesnis Lietuvos ir Lenkijos taikos sąlytis.
+- susijęs iš [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą.md#claim-t-31420|Jonas III pirmasis kardu užatakavo Lietuvą]]: 1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karine jėga puolė Lietuvą.
+- susijęs iš [[objektai/ivykiai/Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas).md#claim-t-183926|Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)]]: Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį.
+- susijęs iš [[objektai/ivykiai/Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas).md#claim-t-66575|Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)]]: Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį.
+- susijęs iš [[objektai/ivykiai/Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas).md#claim-t-66576|Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)]]: 1291 m. per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją tuo pačiu vardu.
+- susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Aukso ordos (apie 1325 m.).md#claim-t-62824|Kijevo atėmimas iš Aukso ordos (apie 1325 m.)]]: Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdžioje buvusį Kijevą ir atėmė jį iš Aukso ordos.
+- susijęs iš [[objektai/ivykiai/Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.).md#claim-t-100033|Kijevo atėmimas iš Vladimiro Algirdaičio ir atidavimas Skirgailai mainais už Polocką (apie 1396 m.)]]: Apie 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, pasiliko Žitomiro ir Ovručio valsčius, o Kijevą atidavė Skirgailai mainais už Polocką.
+- susijęs iš [[objektai/ivykiai/Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.).md#claim-t-01667|Klaipėdos pilies perdavimas Prūsijos kryžiuočiams (1328 m.)]]: 1328 m. livoniškiai kryžiuočiai perdavė atkirstą Klaipėdos pilį Prūsijos kryžiuočiams.
+- susijęs iš [[objektai/ivykiai/Kristmemelio pilies sunaikinimas ir kryžiuočių pasitraukimas (1328 m. vasara).md#claim-t-62839|Kristmemelio pilies sunaikinimas ir kryžiuočių pasitraukimas (1328 m. vasara)]]: 1328 m. vasarą kryžiuočiai apleido Kristmemelio pilį prie žemutinio Nemuno, o lietuviai ją sunaikino.
+- susijęs iš [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį.md#claim-t-187492|Kęstučio ir Algirdo perversmas prieš Jaunutį]]: Mokslinėje literatūroje legendine vadinama Platesniojo sąvado dalis iki Kęstučio ir Algirdo sąmokslo prieš Jaunutį 1345 m.
+- susijęs iš [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį.md#claim-t-187493|Kęstučio ir Algirdo perversmas prieš Jaunutį]]: Kai kuriuose Platesniojo sąvado nuorašuose po 1345 m. Kęstučio ir Algirdo perversmo įdėtas Algirdo sūnų ir jų valdų išskaičiavimas.
+- susijęs iš [[objektai/ivykiai/Kęstučio ir Algirdo perversmas prieš Jaunutį.md#claim-t-187494|Kęstučio ir Algirdo perversmas prieš Jaunutį]]: Kęstučio ir Algirdo sąmokslas prieš brolį Jaunutį datuojamas 1345 metais.
+- susijęs iš [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa).md#claim-t-183262|LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]: Žinia apie LPS iniciatyvinę grupę greitai pasklido po visą Lietuvą, nes grupę sudarė žinomi inteligentai.
+- susijęs iš [[objektai/ivykiai/LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa).md#claim-t-20249|LPS iniciatyvinių grupių įsteigimas Kaune ir Klaipėdoje ir pirmieji mitingai (1988 m. birželis–liepa)]]: 1988 m. birželio 10 d. LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 d. – Klaipėdoje, o pirmieji masiniai mitingai vyko Vilniuje.
+- susijęs iš [[objektai/ivykiai/Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.).md#claim-t-62858|Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.)]]: 1358 m. Lietuvos vyriausybė derybose su imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos, Priegliaus žemupio ir jūros.
+- susijęs iš [[objektai/ivykiai/Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas).md#claim-t-62860|Lietuvos ir pskoviečių kampanija Revelio žemėje ir prie Pskovo (1323 m. vasaris—kovas)]]: 1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė danų vasalinėje priklausomybėje buvusią Revelio žemę.
+- susijęs iš [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.).md#claim-t-89378|Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]: 1326 m. Lietuva sudarė taiką su Didžiuoju Naugardu, svarbiu Rytų prekybos centru.
+- susijęs iš [[objektai/ivykiai/Lietuvos taika su Didžiuoju Naugardu (1326 m.).md#claim-t-89379|Lietuvos taika su Didžiuoju Naugardu (1326 m.)]]: Lietuva sudarė taiką su Didžiuoju Naugardu, tvirtindama savo pozicijas prieš Kryžiuočių ordiną.
+- susijęs iš [[objektai/ivykiai/Lietuvos žygis į Dorpato vyskupo valdas (1322 m.).md#claim-t-62865|Lietuvos žygis į Dorpato vyskupo valdas (1322 m.)]]: Lietuvos kariuomenė 1322 m. nusiaubė Livonijoje buvusias Dorpato vyskupo valdas.
+- susijęs iš [[objektai/ivykiai/Mindaugo krikštas.md#claim-t-187507|Mindaugo krikštas (krikštas)]]: Mindaugo krikštas ir karalystė pagoniškos Lietuvos istorijoje liko tik epizodas.
+- susijęs iš [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.).md#claim-t-186371|Mėlynųjų Vandenų mūšis (1362 m.)]]: Po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m. Algirdas, kaip manoma, prijungė Kijevą.
+- susijęs iš [[objektai/ivykiai/Mūšis su kryžiuočiais ties Strėva.md#claim-t-186693|Mūšis su kryžiuočiais ties Strėva (mūšis, XIV a.)]]: Narimantas Glėbas žuvo 1348 m. vasario 2 d. mūšyje su kryžiuočiais ties Strėva.
+- susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-183951|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. maršalas su broliais ir Sembos vyrais žygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis.
+- susijęs iš [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.).md#claim-t-66821|Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]: Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.
+- susijęs iš [[objektai/ivykiai/Rusios žemių prijungimai prie Lietuvos.md#claim-t-20470|Rusios žemių prijungimai prie Lietuvos]]: Valdant Gediminui ir Algirdui Lietuvos valstybės teritorija išsiplėtė, o Lietuva tapo reikšminga Vidurio ir Rytų Europos jėga.
+- susijęs iš [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.).md#claim-t-97034|Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]: 1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas paskelbė Ordinui interdiktą už Lietuvos krikšto sutrukdymą.
+- susijęs iš [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.).md#claim-t-97035|Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]: Kryžiuočiai kliudė Lietuvai užmegzti ryšius su krikščioniškomis valstybėmis, laikydami lietuvių krikštijimą savo monopoline teise.
+- susijęs iš [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.).md#claim-t-97036|Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]: 1325 m. iš Avinjono sugrįžęs Rygos arkivyskupas paskelbė Ordinui interdiktą už Lietuvos krikšto sutrukdymą.
+- susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103829|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: Kryžiuočių ordinas siekė sužlugdyti 1323 m. spalio 2 d. Vilniaus taiką ir 1324 m. tęsė puolimus prieš Lietuvos žemes.
+- susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103834|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: Po 1323 m. Vilniaus taikos Livonijos kryžiuočiai laikėsi oficialios taikos, nors Prūsų ordinas siekė sutarties anuliavimo.
+- susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103835|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga.
+- susijęs iš [[objektai/ivykiai/Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.).md#claim-t-34564|Vytauto skundas Ordinui imperijos kunigaikščiams (1401 m.)]]: 1401 m. Vytautas apskundė Ordiną imperijos kunigaikščiams, kad šis Žemaitijos suvereno padėtį išnaudoja Lietuvos ir krikščionybės nenaudai.
+- susijęs iš [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma.md#claim-t-23361|Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]: 1989 m. rugpjūčio 23 d. apie du milijonai lietuvių, latvių ir estų Baltijos kelyje susikibo rankomis į daugiau kaip 650 km gyvą žmonių grandinę.
+- susijęs iš [[objektai/paprociai/Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma.md#claim-t-23362|Baltijos kelias kaip gyvos žmonių grandinės komemoracinė protesto forma]]: Baltijos kelio komemoraciniai ženklai buvo juodi gedulo kaspinai ir žvakutės.
+- susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59727|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Dalis nadruvių, pagudėnų, sūduvių ir bartų pasitraukė į Lietuvos valstybę ir dalyvavo kovoje prieš Ordino bei Aukso ordos agresiją.
+- susijęs iš [[objektai/paprociai/Birutės legendos tęstinumas ir Birutės kalno gerbimas.md#claim-t-77949|Birutės legendos tęstinumas ir Birutės kalno gerbimas]]: Birutės legenda nenutrūko įsigalint krikščionybei, o Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta.
+- susijęs iš [[objektai/paprociai/Gedimino dinastinė vedybų politika.md#claim-t-05339|Gedimino dinastinė vedybų politika]]: Tačiau ir čia jis veikė ne tiek kardu, kiek gudria politika ir daugybės savo sūnų bei dukterų vedybomis.
+- susijęs iš [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą.md#claim-t-113467|Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]: Lietuvos valdovai kvietė pirklius ir amatininkus iš svetur, nes nepasitikėjo savųjų įgūdžiais.
+- susijęs iš [[objektai/paprociai/Kolonistų vadovavimasis Rygos miesto civiline teise.md#claim-t-87244|Kolonistų vadovavimasis Rygos miesto civiline teise]]: Gediminas laiške pranešė, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise, kol bus sukurti geresni įstatymai.
+- susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-183316|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.
+- susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-54266|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prisijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.
+- susijęs iš [[objektai/paprociai/LDK rusų žemių duoklės mokėjimas Aukso ordai.md#claim-t-54267|LDK rusų žemių duoklės mokėjimas Aukso ordai]]: Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai.
+- susijęs iš [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos.md#claim-t-183693|Lietuvių kariavimo būdas ir pilių įgulos]]: Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas ir susiformavo nuolatinių karo tarnybininkų sluoksnis.
+- susijęs iš [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos.md#claim-t-78717|Lietuvių kariavimo būdas ir pilių įgulos]]: Gedimino laikais Lietuvoje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės.
+- susijęs iš [[objektai/paprociai/Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną.md#claim-t-62692|Lietuvos diplomatinių sąjungų ir sutarčių telkimas prieš Ordiną]]: Gedimino pareiškimai ir laiškai padėjo Lietuvos valstybei kuriam laikui izoliuoti ir sukompromituoti Kryžiuočių ordiną Europoje.
+- susijęs iš [[objektai/paprociai/Lietuvos krikšto apeigos.md#claim-t-05349|Lietuvos krikšto apeigos]]: Per 1387 m. Lietuvos krikšto apeigas Vilniuje pirmiausia turėjo būti krikštijami bajorai.
+- susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos.md#claim-t-67158|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]: Kryžiaus karų epochoje Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau Europa tarsi atstūmė Lietuvą nuo krikščionybės.
+- susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto.md#claim-t-54305|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]: Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau kryžiaus karų epochos Europa, nebeleisdama savarankiško krikšto, tarsi atstūmė Lietuvą nuo krikščionybės.
+- susijęs iš [[objektai/paprociai/Lydimų vertimas miškuose kaip ankstyvos gyvenvietės plėtimo praktika.md#claim-t-87299|Lydimų vertimas miškuose kaip ankstyvos gyvenvietės plėtimo praktika]]: Balińskio aiškinimu, Germantas Šventaragio slėnyje vertė miškus lydimais ir plėtė senovinę Vilniaus gyvenvietę Vilnios pakrantėse.
+- susijęs iš [[objektai/paprociai/Mirusiųjų kūnų deginimas Šventaragio slėnyje.md#claim-t-87175|Mirusiųjų kūnų deginimas Šventaragio slėnyje]]: Pasakojime Germantas Šventaragio slėnį paskyrė savo tėvo Šventaragio ir savo įpėdinių kapavietėms.
+- susijęs iš [[objektai/paprociai/Naujai krikštytų lietuvių bajorų privilegijavimas.md#claim-t-184348|Naujai krikštytų lietuvių bajorų privilegijavimas]]: Lietuvos krikščioninimas nuo Krėvos akto buvo siejamas su privilegijomis naujai pakrikštytiems lietuvių bajorams, buvusiems pagonims.
+- susijęs iš [[objektai/paprociai/Pavergtų prūsų vertimas dalyvauti Ordino žygiuose.md#claim-t-62707|Pavergtų prūsų vertimas dalyvauti Ordino žygiuose]]: Ordino valdžioje likę prūsai buvo verčiami dalyvauti Ordino žygiuose.
+- susijęs iš [[objektai/paprociai/Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui.md#claim-t-62708|Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui]]: Eiliuotosios Livonijos kronikos žemaičių žynys dievams aukodavo trečdalį karo grobio ir išbūrė pergalę 1259 m. Skuodo kautynėse.
+- susijęs iš [[objektai/paprociai/Religijų laisvas išpažinimas ir krikščioniškų apeigų atlikimas Algirdo Vilniuje.md#claim-t-87248|Religijų laisvas išpažinimas ir krikščioniškų apeigų atlikimas Algirdo Vilniuje]]: Algirdo Vilniuje laisvai išpažįstamų religijų įvairovė kėlė piktumų tarp skirtingo tikėjimo žmonių ir jų dvasininkų.
+- susijęs iš [[objektai/paprociai/Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas.md#claim-t-87254|Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas]]: Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką.
+- susijęs iš [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves.md#claim-t-87168|Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]: Vytautas prie Vilniaus apgyvendino iš Azovo atsivežtus totorius, paliko jiems senąjį tikėjimą ir suteikė žemės valdų bei laisvių.
+- susijęs iš [[objektai/paprociai/Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra.md#claim-t-55161|Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra]]: Gedimino laikais Vilniaus miesto tvarka turėjo atitikti kitur taikytus leninio valdymo principus.
+- susijęs iš [[objektai/paprociai/Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra.md#claim-t-55162|Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra]]: Pilininkai valdė miestą, vykdydami teisminę priežiūrą kartu su bendruomenės parinktu seniūnu.
+- susijęs iš [[objektai/paprociai/Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra.md#claim-t-55163|Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra]]: Vilniaus kilimo pradžioje pilininkai valdė miestą ir teisminę priežiūrą vykdė su bendruomenės parinktu seniūnu.
+- susijęs iš [[objektai/paprociai/Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra.md#claim-t-81870|Vilniaus miesto valdymas pilininkų ir bendruomenės parinkto seniūno priežiūra]]: Gedimino laikais Vilniaus miesto valdymas buvo siejamas su pilininkų ir bendruomenės parinkto seniūno priežiūra.
+- susijęs iš [[objektai/paprociai/Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims.md#claim-t-183829|Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims]]: Padavimuose dabartinė katedros varpinė tapatinta su bokštu, iš kurio Lizdeika ir jo pirmtakai Vilniaus pagonims skelbdavo pranašystes.
+- susijęs iš [[objektai/paprociai/Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims.md#claim-t-87243|Žynių pranašysčių skelbimas iš bokšto Vilniaus pagonims]]: Pasak Lietuvos kronikininkų ir vietos padavimų, Lizdeika ir jo pirmtakai iš bokšto skelbdavo pranašystes Vilniaus pagonims.
+- susijęs iš [[objektai/posakiai/Geležinis vilkas ir šimtas vilkų.md#claim-t-86854|Geležinis vilkas ir šimtas vilkų]]: Gediminas sapne regėjo nepaprasto didumo geležinį vilką, kurio kauksmas atrodė toks galingas, tarsi staugtų šimtas vilkų.
+- susijęs iš [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti.md#claim-t-86850|Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti]]: Dusburgo pranešimu, Gediminas per pasiuntinį pareiškė, kad nepriims kitų teisių ir laikysis tų, kurių laikėsi jo tėvai.
+- susijęs iš [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas.md#claim-t-86856|Gyventi ir mirti savo tėvų tikėjimą išpažindamas]]: Gediminui priskirtas pareiškimas teigė, kad jis nori gyventi ir mirti išpažindamas savo tėvų tikėjimą.
+- susijęs iš [[objektai/posakiai/Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti k.md#claim-t-59106|Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgaloje ir daugelyje kitų [vietų]. Tačiau jie sako, jog tai daro dėl to, kad nori apginti k]]: 1322 m. laiške popiežiui Gediminas kaltino kryžiuočius žemes paverčiant tyrais ir teigiant, kad taip jie gina krikščionis.
+- susijęs iš [[objektai/posakiai/Jure civili utantur Rigensis Civitatis.md#claim-t-55176|Jure civili utantur Rigensis Civitatis]]: Gedimino laiške į Vilnių atvykstantiems kolonistams žadėta vadovautis Rygos miesto civiline teise.
+- susijęs iš [[objektai/posakiai/Jure civili utantur Rigensis Civitatis.md#claim-t-82139|Jure civili utantur Rigensis Civitatis]]: „Jure civili utantur Rigensis Civitatis“ nurodė, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise.
+- susijęs iš [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje.md#claim-t-55178|Kaip pelė krepšyje arba angis užantyje]]: Prūsijos vyskupų laiške taikos sutarties grėsmė lyginama su pele krepšyje arba angimi užantyje.
+- susijęs iš [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje.md#claim-t-55179|Kaip pelė krepšyje arba angis užantyje]]: Prūsijos vyskupų laiške sutarties grėsmė buvo lyginama su pele krepšyje arba angimi užantyje.
+- susijęs iš [[objektai/posakiai/Kaip pelė krepšyje arba angis užantyje.md#claim-t-82140|Kaip pelė krepšyje arba angis užantyje]]: Vyskupų laiške perspėta, kad priešai kaip pelė krepšyje arba angis užantyje sunaikins jų žemes ir užtrauks pražūtį krikščionybei.
+- susijęs iš [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis.md#claim-t-97293|Kęstutis buvo vyras karingas ir tiesiakalbis]]: Dlugošas Kęstutį apibūdino kaip šaunų, išmintingą, veiklų, išlavintą, žmonišką ir pažadams ištikimą vyrą.
+- susijęs iš [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis.md#claim-t-97294|Kęstutis buvo vyras karingas ir tiesiakalbis]]: Nuolatiniai susidūrimai karuose su vakarų Europos riteriais Kęstutį išmokė riteriškų papročių, kurių jis griežtai laikėsi.
+- susijęs iš [[objektai/posakiai/Lietuvos ir daugelio rusų karalium.md#claim-t-06878|Lietuvos ir daugelio rusų karalium]]: Gediminas raštuose save titulavo Lietuvos ir daugelio rusų karaliumi.
+- susijęs iš [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!.md#claim-t-67272|Mes kariaujame ne su kryžium, o su vokiečiais!]]: Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais.
+- susijęs iš [[objektai/posakiai/Mes kariaujame ne su kryžium, o su vokiečiais!.md#claim-t-67273|Mes kariaujame ne su kryžium, o su vokiečiais!]]: Gediminas pareiškė, kad lietuviai kariauja ne su kryžiumi, o su vokiečiais, ir prieš juos jungėsi su lenkais bei mozūrais.
+- susijęs iš [[objektai/posakiai/Net nė šuo iš jūsų pusės su padėka neatsiliepė.md#claim-t-55183|Net nė šuo iš jūsų pusės su padėka neatsiliepė]]: Gedimino laiške priekaištauta, kad į ankstesnius pasiuntinius, laiškus ir atvertą kraštą net nė šuo su padėka neatsiliepė.
+- susijęs iš [[objektai/posakiai/Papam vestrum nec novi, nec nosse cupio.md#claim-t-55187|Papam vestrum nec novi, nec nosse cupio]]: Krantzas Gediminui priskyrė lotynišką pareiškimą „Papam vestrum nec novi, nec nosse cupio“.
+- susijęs iš [[objektai/posakiai/Papam vestrum nec novi, nec nosse cupio.md#claim-t-55188|Papam vestrum nec novi, nec nosse cupio]]: Formulė „Papam vestrum nec novi, nec nosse cupio“ lietuviškai aiškinama kaip „Jūsų Tėvo nei pažinojau, nei trokštu pažinti“.
+- susijęs iš [[objektai/posakiai/Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu.md#claim-t-55190|Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu]]: Gedimino laiško vertime pažado tvirtumas išreiškiamas formule, kad pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu, negu bus atšauktas ištartas žodis.
+- susijęs iš [[objektai/posakiai/Tiesos nedraugas, velnio garbintojas, tikėjimo priešas.md#claim-t-54762|Tiesos nedraugas, velnio garbintojas, tikėjimo priešas]]: Gedimino vardu skelbtame laiške antspaudo tikrumu abejojantieji vadinami tiesos nedraugais, velnio garbintojais, tikėjimo priešais, bedieviais, melagiais ir negarbingais žmonėmis.
+- susijęs iš [[objektai/posakiai/Tiesos nedraugas, velnio garbintojas, tikėjimo priešas.md#claim-t-54763|Tiesos nedraugas, velnio garbintojas, tikėjimo priešas]]: Trijuose Gedimino laiškuose antspaudo tikrumu netikintieji pasmerkti kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės.
+- susijęs iš [[objektai/posakiai/Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais.md#claim-t-06884|Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais]]: Gediminas laiške aiškino norą būti paklusniu popiežiaus sūnumi ir teigė vyresniuosius laikąs tėvais, lygius broliais, o jaunesniuosius savo vaikais.
+- susijęs iš [[objektai/posakiai/`Rex Lethowye`.md#claim-t-186410|`Rex Lethowye`]]: Gediminas titulavosi Rex Lethowye, derėjosi dėl krikšto ir laiškais kvietė į Lietuvą Vakarų pirklius bei amatininkus.
+- susijęs iš [[objektai/posakiai/`Rex Lethowye`.md#claim-t-186411|`Rex Lethowye`]]: Gediminas titulavosi Rex Lethowye ir laiškais Vakarų šalims bei miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.
+- susijęs iš [[objektai/posakiai/`Rex Lethowye`.md#claim-t-186412|`Rex Lethowye`]]: Gediminas titulavosi Rex Lethowye ir laiškais Vakarų šalims bei miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.
+- susijęs iš [[objektai/posakiai/kiekvienam geros valios žmogui.md#claim-t-59115|kiekvienam geros valios žmogui]]: Gedimino laiškai Europos miestams, ordinams ir „kiekvienam geros valios žmogui“ turėjo platų tarptautinį atgarsį.
+- susijęs iš [[objektai/posakiai/rex` `bazileus.md#claim-t-186408|rex` `bazileus]]: Gediminas laiškuose Vakarams vartojo titulą „rex“, o Algirdas laiškuose Bizantijos imperijai vartojo titulą „bazileus“.
+- susijęs iš [[objektai/posakiai/rex` `bazileus.md#claim-t-186409|rex` `bazileus]]: Gediminas laiškuose Vakarams vartojo titulą „rex“, o Algirdas laiškuose Bizantijos imperijai vartojo titulą „bazileus“.
+- susijęs iš [[objektai/posakiai/„ir mes turime vieną Dievą…“.md#claim-t-20898|„ir mes turime vieną Dievą…“]]: Gediminas žodžiais „ir mes turime vieną Dievą…“ bylojo apie vyriausiąjį pagonių Dievą, o ne būtinai apie pagonišką monoteizmą.
+- susijęs iš 1230 m. rugsėjo 12 d. popiežiaus bulė: M. Perlbachas nurodė, kad Dusburgietis panaudojo 1230 m. rugsėjo 12 d. popiežiaus bulę, patvirtinusią Konrado ir Ordino sutartį.
+- susijęs iš 1232 m. sausio 23 d. popiežiaus bulė: M. Perlbachas nurodė, kad Dusburgietis panaudojo 1232 m. sausio 23 d. popiežiaus bulę, patvirtinusią Konrado ir Ordino sutartį.
+- susijęs iš 1248 m. Kristburgo sutartis: M. Poliakuvna pažymėjo, kad Dusburgietis 1248 m. Sventopelko ir Ordino Kristburgo sutartį panaudojo labai savavališkai.
+- susijęs iš 1323 m. Vilniaus sutartis: Sutartis buvo sudaryta Vilniuje 1323 m., jos nuorašas iš vokiečių kalbos išverstas į lotynų kalbą ir pateiktas popiežiui.
+- susijęs iš 1323 m. Vilniaus taikos sutartis: 1323 m. pirmąją savaitę po Šv. Mykolo Vilniuje sudarytos taikos sutarties nuorašas buvo įteiktas popiežiui.
+- susijęs iš 1337 m. gruodžio 12 d. Liudviko Bavaro dokumentas: Tai patvirtina 1337.XII.12 Liudviko Bavaro dokumentas (PUB, S, 1, Nr. 135, p. 101).
+- susijęs iš A. Presnjakov Obrazovanie velikorusskogo gosudarstva: A. Presnjakovo „Obrazovanie velikorusskogo gosudarstva“ išleista Petrograde 1918 m.
+- susijęs iš Annales Minorum seu trium ordinum a S. Francisco institutorum: Annales Minorum pasakojime Petras Goštautas 1333 m. į Vilnių atkvietė keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.
+- susijęs iš Chodynicki, K. Geneza dynastii Giedymina: K. Chodynickio straipsnis „Geneza dynastii Giedymina“ paskelbtas 1926 m. KH 40 tome, 541-566 puslapiuose.
+- susijęs iš Dusburg Peter: „Dusburg Peter“ nurodytas Lietuvių enciklopedijos 5 tome, 266-267 puslapiuose.
+- susijęs iš Dusburg Peter: Straipsnis „Dusburg Peter“ paskelbtas Lietuvių enciklopedijos 5 tome, 266–267 puslapiuose.
+- susijęs iš Dusburgo kronika: Balińskis iš Dusburgo pasakojimo sprendė, kad Castrum Gedemini jau egzistavo 1304 metais, o Vilniaus pilis pastatyta tik 1322 metais.
+- susijęs iš Dusburgo kronika: Michałas Balińskis atmetė Hartknocho nuomonę, kad Dusburgo minima Castrum Gedemini buvo Vilnius.
+- susijęs iš Eiliuotoji Livonijos kronika: Eiliuotojoje Livonijos kronikoje minimas žemaičių žynys dievams aukojo trečdalį karo grobio ir išbūrė žemaičių vadams pergalę 1259 m. Skuodo kautynėse.
+- susijęs iš Fridricho II 1226 m. aukso bulė: M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.
+- susijęs iš Gedimino laiškai: Laiškų autorius Mazovijos kunigaikštį vadino Bonislavu, todėl, pasak kritikos, prastai žinojo to meto Mazovijos valdovą.
+- susijęs iš Guillaume de Machaut Confort d’Ami: Guillaume de Machaut 1357 m. veikale „Confort d’Ami“ paminėjo žygį, kuriame dalyvavo svečių net iš Anglijos.
+- susijęs iš H. Paszkiewicz Ze studiów uad polityką polską, litewską i krzyżacką Bolesława-Jerzego, ostatniego księcia Rusi halicko-włodzimierskiej: H. Paszkiewicziaus „Ze studiów nad polityką polską, litewską i krzyżacką Bolesława-Jerzego“ paskelbta AW 2 tome 1924 m., p. 31–67.
+- susijęs iš Hartknocho pastabos Dusburgo kronikai: Hartknochas Dusburgo kronikos pastabose Castrum Gedemini tapatino su Vilniumi ir manė, kad miestas įkurtas 1322 m.
+- susijęs iš Hartknocho pastabos Dusburgo kronikai: Balińskis Hartknocho prielaidą, kad Vilnius buvo vadinamoji Castrum Gedemini, laikė visiškai atmestina.
+- susijęs iš Hermano Cornerio kronika: Michałas Balińskis rašė, kad Gedimino laiško pabaiga prieštarauja Hermano Kornerio teiginiui apie Gedimino ištikimybę tėvų tikėjimui.
+- susijęs iš Livonijos atstovų prieštaravimas dėl 1323 m. taikos: J. Otrembskis nekritiškai pasirėmė Livonijos atstovų prieštaravimo lotyniškojo vertimo fraze apie Lietuvos karaliaus pusę.
 - susijęs iš Molotovo–Ribentropo paktas: 1939 m. rugpjūčio 23 d. Vokietija ir SSRS pasirašė nacių ir sovietų nepuolimo sutartį su papildomu slaptuoju protokolu.
 - susijęs iš Molotovo–Ribentropo paktas: Lietuvos SSR Aukščiausiosios Tarybos komisija viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius Lietuvai.
 - susijęs iš Molotovo–Ribentropo paktas: 1989 m. rugpjūčio 23 d. Baltijos kelias paminėjo pakto pasirašymo 50-ąsias sukaktuves gyva žmonių grandine nuo Vilniaus iki Talino.
 - susijęs iš Mortensen H., Mortensen G. Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts: H. ir G. Mortensenų veikalas nurodomas kaip darbas, kuriame Pagraudės ieškota labiau į rytus.
 - susijęs iš Napierskio dokumentų rinkinio apie Livoniją, Estiją ir Kuršą rodyklė: Napierskis išleido dokumentų rinkinio apie Livoniją, Estiją ir Kuršą rodyklę.
 - susijęs iš Naruszewicz, Tauryka: Daugiausia jų įsikūrė už 61 Naruszewicz Taurikoje, 1 .
-- susijęs iš Nikono metraštis: Balińskis manė, kad Voskresensko metraštininkas galėjo žinoti ką nors tikra apie Gedimino kilmę, nes rašė praėjus vos amžiui po Jogailos.
-- susijęs iš Notariats-Instrument dėl Gedimino antspaudo (Liubekas, 1323 m.): 1323 m. Liubeke parengtas Notariats-Instrument aprašė Gedimino apvalų vaško antspaudą su soste sėdinčio vyro atvaizdu.
-- susijęs iš Notariats-Instrument dėl Gedimino laiškų Liubeke (1323 m.): Notariats-Instrument dokumente buvo įrašyti tariamieji Gedimino laiškai dviem ordinams ir pajūrio miestams.
 - susijęs iš Olivos ir Pelplino abatų laiškas dėl Teutonų ordino garbės (1324 m.): Olivos abatas Paulius ir Pelplino abatas Jordanas laiškais popiežiui gynė Teutonų ordino brolių garbę.
 - susijęs iš P. Būtėnas Karalius-kuniugas: P. Būtėno „Karalius-kuniugas“ paskelbtas žurnale „Karys“ 1971 m., p. 193-197, 227-230, 263-265 ir 306-311.
 - susijęs iš P. Būtėnas Lietuvos sostinė Vilnius: P. Būtėno „Lietuvos sostinė Vilnius“ paskelbta žurnale „Karys“ 1973 m. Nr. 8, p. 264-266.
 - susijęs iš P. Būtėnas Vilniaus pradžia: P. Būtėno „Vilniaus pradžia“ paskelbta žurnalo „Karys“ 1973 m. 10 numeryje, p. 342-344.
 - susijęs iš Pašuta V. Lietuvos valstybės susidarymas: Pašutos veikalo puslapis 340 nurodomas prie bandymo lokalizuoti minimą vietovę buvusioje Pagraudės teritorijoje.
 - susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinio pratarmėje kronika apibūdinama kaip oficialus Kryžiuočių ordino valstybės kūrinys.
-- susijęs iš Preussens aeltere Geschichte: Augustas Kotzebue veikale „Preussens aeltere Geschichte“ išspausdino Gedimino laiškus dominikonams, pranciškonams ir Hanzos miestams.
 - susijęs iš Prūsijos vyskupų laiškas dėl 1323 m. sutarties: Prūsijos vyskupų laiškas ragino atmesti 1323 m. sutartį ir nenutraukti kovos su priešu.
-- susijęs iš Raynaldo Bažnyčios istorija: Raynaldo Bažnyčios istorija aiškino kai kuriuos Gedimino valdymo ir politikos aspektus.
 - susijęs iš Specimen Juris publici Lubecensis: Gedimino laiškas Šiaurės Vokietijos pajūrio miestams buvo įdėtas Dreyerio veikale „Specimen Juris publici Lubecensis“.
 - susijęs iš St. Smolka Kiejstut i Jagiełło: St. Smolkos veikalas „Kiejstut i Jagiełło“ cituojamas kaip 1889 m. leidinys.
-- susijęs iš Stemmata Polonica: XVI a. vidurio herbyne „Stemmata Polonica“, saugomame Paryžiuje, pavaizduoti Gedimino stulpai ir Jogailos kryžius.
 - susijęs iš Vytauto privilegija Trakams (1384 m.): 1384 m. Vytauto privilegija Trakams liudija, kad Trakai dar prieš Lietuvos krikštą buvo svarbus Lietuvos miestas.
 - susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: Zajączkowskio veikalas nurodomas tarp šaltinių, patikimiau lokalizuojančių minimą vietą buvusioje Pagraudės teritorijoje prie Graumenos.
 - susijęs iš Alna: 1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros.
@@ -1565,7 +2399,6 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Birutės kalnas: Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta net įsigalint krikščionybei.
 - susijęs iš Brandenburgo žemė: 1326 m. Lenkijos karaliaus prašymu, Gediminas nusiuntė 1200 savo raitelių ir bendromis pastangomis su lenkais ties Frankfurtu įsiveržė ir nuniokojo Brandenburgo žemę vakariau Ordino valdų.
 - susijęs iš Braunsbergas: Gedimino skundą popiežiui ginčijo ir Mažesniųjų brolių Braunsbergo gvardijonas.
-- susijęs iš Braunsbergas: Braunsbergo gvardijonas buvo tarp Mažesniųjų brolių atstovų, laiškais popiežiui gynusių kryžiuočius nuo Gedimino skundo.
 - susijęs iš Breslauja: Breslauja priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ašmena ir Ukmerge.
 - susijęs iš Breslauja: Jaunučiui paskirtam žemių daliniui, be Vilniaus, priklausė Ašmena, Ukmergė ir Breslauja.
 - susijęs iš Breslauja: Breslauja su pilimi priklausė Jaunučiui paskirtam nedideliam žemių daliniui.
@@ -1577,26 +2410,10 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Dubysa: Prie Dubysos žiočių atvykėliai padėjo naujos sodybos, vėliau vadintos Romanova, pamatus.
 - susijęs iš Gardinas: Gedimino arba Algirdo laikais Gardino pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
 - susijęs iš Gardinas: Balińskis Garteną tapatino su Gardinu ir minėjo jį kaip valsčių bei pilį netoli Pagraudenės.
-- susijęs iš Gedimino bokštas: 1989 m. rugpjūčio 23 d. Baltijos kelio žmonių grandinė driekėsi nuo Gedimino bokšto Vilniuje iki Hermano bokšto Taline.
-- susijęs iš Gedimino kalnas (Veliuonoje): Į rytus nuo Veliuonos Pilies kalno dunkso Gedimino kalnu vadinamas kalnas su pilkapiu vakarinėje viršūnės pusėje.
-- susijęs iš Gedimino kalnas (Veliuonoje): Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno Veliuonoje šlaitus.
-- susijęs iš Gedimino kalnas: Jogailos pastatyta Šv. Martyno bažnyčia Aukštutinėje pilyje ant Gedimino kalno išbuvo iki XV amžiaus.
-- susijęs iš Gedimino pilies kalnas (pilis): Velykų naktį patrankos šūvis, pasak kai kurių šaltinių, driokstelėjo nuo Gedimino pilies kalno ir davė puolimo signalą.
-- susijęs iš Gedimino pilis Castrum Gedemini: Hartknochas Gedimino pilį, vadintą Castrum Gedemini, tapatino su Vilniumi, bet Balińskis šią nuomonę atmetė.
-- susijęs iš Gedimino pilis Castrum Gedemini: Balińskis atmetė Hartknocho prielaidą, kad Vilnius galėjo būti Castrum Gedemini, ir Gedimino pilį veikiau siejo su Veliuona.
-- susijęs iš Gedimino pilis Castrum Gedemini: 1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.
-- susijęs iš Gedimino pilis Castrum Gedemini: Dusburgo kronikoje prie 1317 m. minima, kad Ragainės komtūras Fridrichas de Libencelė neįstengė užimti Gedimino pilies.
-- susijęs iš Gedimino pilis (pilis): Ragainės broliai apyaušryje slapta įsibrovė į Gedimino pilies papilį ir sudegino jį iki pamatų.
-- susijęs iš Gedimino pilis (pilis): 1317 m. vasarą Gedimino pilies pilėnai apgynė pilį, nors Ordino broliams pavyko visiškai sudeginti papilį.
-- susijęs iš Gedimino pilis (pilis): Ordino brolių vėliava su sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį ant kalno.
-- susijęs iš Gedimino pilis (pilis): Fridrichas iš Libencelės su 150 vyrų slapta priėjo prie Gedimino pilies, bet įspėti pilėnai pilį apgynė.
-- susijęs iš Gedimino pilis (pilis): Guillaume de Machaut rašė, kad 1357 m. žygyje pilgrimai, be Medvėgalio, paėmė Kvėdarną, Gedimino pilį, Gegužkalnį ir Aukaimį.
-- susijęs iš Gegužkalnis: Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Gegužkalnį kartu su Kvėdarna, Gedimino pilimi bei Aukaimiu.
 - susijęs iš Haličas: Haličas buvo tarp žemių, buvusių Lietuvos politinėje įtakoje.
 - susijęs iš Haličas: Gedimino ar Algirdo laikais Haličas buvo Lietuvos politinėje įtakoje.
 - susijęs iš Hermano bokštas: 1989 m. rugpjūčio 23 d. Baltijos kelio žmonių grandinė driekėsi nuo Gedimino bokšto Vilniuje iki Hermano bokšto Taline.
 - susijęs iš Junigeda: Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junigedos vardu.
-- susijęs iš Junigeda: Paaiškinimuose Junigedos, arba Veliuonos, pilis siejama su rytiniu Veliuonos piliakalniu, vadinamu Gedimino kapu.
 - susijęs iš Junigeda: Junigeda minima kaip valsčius ir pilis, vėlesnėse kronikose tapatinta su Veliuona.
 - susijęs iš Jurbarkas: Gediminas su kariuomene buvo įrengęs stovyklą tarp Jurbarko ir Kauno.
 - susijęs iš Kanevas: Gediminui užėmus Kijevą, Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pilys pasidavė nugalėtojui.
@@ -1612,22 +2429,15 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Kijevas: Gedimino ar Algirdo laikais Kijevas buvo Lietuvos politinėje įtakoje.
 - susijęs iš Kijevas: Kijevo kunigaikštystė buvo įjungta į Lietuvos valstybę drauge su Podole.
 - susijęs iš Kijevas: Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę.
-- susijęs iš Kijevas: Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę ir nuo Gedimino laikų priklausė didžiajam Lietuvos kunigaikščiui.
-- susijęs iš Kijevas: Kijeviečiams ginantis Gediminas mėnesį stovyklavo prie Kijevo.
 - susijęs iš Kijevas: 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, o Kijevas buvo atiduotas Skirgailai mainais už Polocką.
-- susijęs iš Kijevas: Kijeviečiams ginantis Gediminas mėnesį stovyklavo prie Kijevo.
 - susijęs iš Kijevas: 1396 m. Vytautas atėmė Kijevą iš Vladimiro Algirdaičio, o Žitomiro ir Ovručio valsčius pasiliko sau.
 - susijęs iš Kijevas: Apie 1325 m. Gedimino kariuomenė nužygiavo į totorių valdytą Kijevą ir atėmė jį iš Aukso ordos.
 - susijęs iš Kijevas: Kijevas buvo tarp Lietuvos politinėje įtakoje buvusių Rusios erdvės centrų.
 - susijęs iš Kijevas: Gediminas, nugalėjęs rusų ir totorių kariuomenę, nuvijo totorius ir paėmė Kijevą į savo valdžią.
-- susijęs iš Kijevas: Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
-- susijęs iš Kijevo Rusia: Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.
-- susijęs iš Kijevo Rusia: Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.
 - susijęs iš Kijevo Rusia: Politiniai pokyčiai Vilniuje Lietuvos ir Rusios valdymą perleido Algirdo rankoms.
 - susijęs iš Kijevo Rusia: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas perėjo Algirdui.
 - susijęs iš Klaipėda: 1988 m. birželio 10 d. LPS iniciatyvinė grupė įsteigta Kaune, o liepos 6 d. – Klaipėdoje.
 - susijęs iš Kreivasis kalnas: Kreivasis, arba Pilkasis, kalnas tapatinamas su Trijų Kryžių kalnu.
-- susijęs iš Kreivasis kalnas: Kreivasis kalnas lokalizuojamas šiauriniame Vilnelės krante, priešais dabartinį Gedimino kalną.
 - susijęs iš Kristmemelis: Petras Dusburgietis pažymėjo, kad 1328 m. vasarą kryžiuočiai apleido Kristmemelio pilį prie žemutinio Nemuno.
 - susijęs iš Krokuva: 1387 m. sausį į Vilnių su Jogaila atvyko ir Krokuvoje pakrikštyti Lietuvos bajorai.
 - susijęs iš Krėva: Algirdas valdė Vitebską ir Krėvą, o Kęstutis valdė Žemaitiją dar jų tėvui esant gyvam.
@@ -1641,10 +2451,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Lietuva: Gedimino laiškų netikrumo įrodymu laikyta užuomina, kad svetimšaliai per Mazoviją galėjo saugiai vykti į Lietuvą.
 - susijęs iš Lietuva: Gediminas savo valstybėje turėjo dvi skirtingų kalbų ir religijų tautas: lietuvius ir rusus.
 - susijęs iš Lietuva: Gedimino misija popiežiui pranešė apie valdovo ryžtą pereiti į naują tikėjimą ir prašė siųsti mokytų tikėjimo vyrų į Lietuvą.
-- susijęs iš Liubekas: 1323 m. liepos 18 d. Liubeko rotušėje Rygos tarėjai Henrikas fon Calmaras ir Jonas Roghenas įteikė dominikonams tariamus Gedimino laiškus.
 - susijęs iš Liubekas: Gediminas laiške Liubekui ir kitiems miestams pranešė, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto teise.
 - susijęs iš Liubekas: Gedimino laiške Liubeko ir kitų miestų gyventojams skelbta, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto civiline teise.
-- susijęs iš Liubekas: 1323 m. Liubeke parengtame notariniame akte aprašytas prie Gedimino laiškų prikabintas apvalus vaškinis antspaudas.
 - susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
 - susijęs iš Livonija: 1338 m. lapkričio 1 d. Gediminas su Livonija sudarė prekybinę sutartį.
 - susijęs iš Livonija: Gedimino laikų Vilnių iš Livonijos pasiekdavo rykai ir rūbai.
@@ -1656,7 +2464,6 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Lyda: Valdant Gediminui ar Algirdui Lyda priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
 - susijęs iš Maskva: Lietuvos metraščiuose Algirdo žygiai į Maskvą priskiriami epinius pasakojimus atitinkantiems siužetams.
 - susijęs iš Maskva: Lietuvos metraščiuose užrašyti epiniai siužetai apie Gedimino sapną, Algirdo žygius į Maskvą ir Kęstučio bei Birutės meilę.
-- susijęs iš Mazovija: Balińskis užuominą apie saugų kelią per Mazoviją laikė svarbiu Gedimino laiškų netikrumo įrodymu.
 - susijęs iš Medininkų pilis (pilis): Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
 - susijęs iš Medraba: Brolis Bertoldas su tūkstančiu Sembos vyrų užpuolė Medrabos pilį, ją sudegino, o žmones išžudė arba paėmė į nelaisvę.
 - susijęs iš Medraba: Brolis Bertoldas su tūkstančiu Sembos vyrų užpuolė Medrabos pilį, ją sudegino, o žmones išžudė arba paėmė į nelaisvę.
@@ -1664,14 +2471,10 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Mozūrija: Gediminas laiškuose į Lietuvą kviečiamiems vakarų svetimšaliams rekomendavo kelią per Mozūriją.
 - susijęs iš Mozūrijos žemė: 1324 m. lapkritį Gedimino kariuomenė, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę.
 - susijęs iš Narva: Vokiečių ordino valstybės valdos tęsėsi nuo Neumarko iki Narvos, išskyrus Žemaičių kylį.
-- susijęs iš Natanga: 1324 m. žmonės iš Natangos dalyvavo netikėtame Gedimino pilies papilio užpuolime.
 - susijęs iš Naugardukas: Gediminas prašė atsiųsti keturis brolius prie Vilniuje ir Naugarduke pastatytų bažnyčių.
 - susijęs iš Naugardukas: Gediminas teigė pastatęs pranciškonų bažnyčias Vilniuje ir Naugarduke.
 - susijęs iš Nemunas: Remiantis Dusburgo pasakojimu, Gedimino pilis galėjo stovėti prie Nemuno.
 - susijęs iš Nemunas: Veliuona aprašyta kaip prie Nemuno nusidriekusi vietovė, buvusi už 7 mylių nuo Kauno.
-- susijęs iš Nemunas: Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.
-- susijęs iš Nemunas: Veliuonėlė įteka į Nemuną, iš šiaurės skalaudama Pilies ir Gedimino kalno šlaitus.
-- susijęs iš Nemunas: Vytenio laikais visas Nemuno žemupys buvo kryžiuočių, o Gedimino laikais jie pasistatė Bajerburgo ir Marijenburgo pilis.
 - susijęs iš Nemunas: Veliuona buvo įsikūrusi ties Nemunu, už 7 mylių nuo Kauno, per pusę mylios nuo Jurbarko ir per pusantros mylios nuo Prūsijos sienos.
 - susijęs iš Nemunas: Remdamasis Dusburgu, Baliński darė išvadą, kad Gedimino pilis galėjo stovėti prie Nemuno, Lietuvos ar Žemaitijos pasienyje.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Gedimino pastatydinta mūro tvirtovė stovėjo ant kalno ties vieta, kur Vilnelė įteka į Viliją.
@@ -1680,17 +2483,13 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Iš Žemutinės pilies vakarinių vartų kelias ėjo per Vilnią ir Vingrių upokšnį link kelto per Viliją.
 - susijęs iš Neuenbergas: Neuenbergo gvardijonas kartu su kitais dvasininkais laiškuose popiežiui stojo ginti kryžiuočių.
 - susijęs iš Neumarkas: Vokiečių ordino valstybės valdos tęsėsi nuo Neumarko iki Narvos, išskyrus Žemaičių kylį.
-- susijęs iš Odesa: Odesos universiteto istorikas V. V. Antonovičius iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties.
 - susijęs iš Oliva: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškuose popiežiui stojo ginti kryžiuočių.
-- susijęs iš Oliva: 1323 m. Olivos ir Pelplino abatai popiežiui pranešė apie Gedimino laiškus dėl krikšto.
 - susijęs iš Ovručas: Gedimino kariuomenė perėjo Vladimiro ir Lucko žemes, nedarydama sąjungininkams skriaudų, ir priartėjo prie Ovručo.
 - susijęs iš Pagraudenė: Dusburgas Pagraudenę pirmą kartą mini prie 1304 m., aprašydamas Eberhardo de Virnemburgo žygį į Lietuvos valsčių.
 - susijęs iš Pagraudė: 1317 m. vasarą apie birželio 24 d. maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis.
 - susijęs iš Pagraudė: Pagraudės ieškota ir labiau į rytus, nors ji siejama su valsčiumi Žemaičių pietvakariuose ties Jūros upe.
 - susijęs iš Pagraudė: Brolis Eberhardas su kariuomene staiga įsiveržė į Lietuvos Pagraudės valsčių ir degindamas bei plėšdamas nusiaubė didžiąją jo dalį.
 - susijęs iš Pamaris: Lenkijos karalius Vladislovas Lokietka, norėdamas atgauti Pamarį, stojo į ginkluotą kovą prieš Ordiną.
-- susijęs iš Pelplinas: 1323 m. Olivos ir Pelplino abatai popiežiui pranešė apie Gedimino laiškus, kuriuose jis teigė norįs krikštytis.
-- susijęs iš Pilies kalnas (Veliuonoje): Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus prie Veliuonos.
 - susijęs iš Pinskas: Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais.
 - susijęs iš Plikieji kalnai: Strijkovskio pasakojime Gediminas medžiojo girioje tarp kalnų, kurie vadinti Plikaisiais.
 - susijęs iš Podolija: Po 1362 m. Mėlynųjų Vandenų mūšio Podolijoje įsigalėjo Algirdo giminaičiai Karijotai.
@@ -1709,40 +2508,28 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Prūsija: 1325 m. Vilniuje Gediminas ir Lokietka sudarė sutartį bendromis jėgomis kovoti su Prūsijos ordinu.
 - susijęs iš Prūsija: Gedimino laiškai, anot pasakojimo, riterių buvo paimti į Prūsiją ir taip atsidūrė kryžiuočių archyve.
 - susijęs iš Prūsija: 1325 m. Vilniuje pasirašyta Gedimino sutartis su Lokietka numatė bendrą kovą su Prūsijos ordinu.
-- susijęs iš Prūsija: Prūsijoje pasklido gandas, kad Gediminas laiškais skelbė norą priimti krikštą.
 - susijęs iš Prūsija: Riteriai grįždami paėmė dokumentus į Prūsiją, todėl jie atsidūrė kryžiuočių archyve.
-- susijęs iš Prūsija: Prūsijoje pasklido gandas, kad Gediminas išsiuntinėjo laiškus apie norą priimti krikštą ir prisijungti prie tikinčiųjų.
 - susijęs iš Pskovas: Gedimino ar Algirdo laikais Pskovas buvo Lietuvos politinėje įtakoje.
 - susijęs iš Pskovas: Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
 - susijęs iš Płockas: Gediminas išleido dukterį už Płocko Vankos ir į Lietuvą kviečiamiems vakariečiams rekomendavo kelią per Mozūriją.
-- susijęs iš Ragainė: 1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.
 - susijęs iš Rezeknės regionas: 1324 m. lapkritį Gedimino kariuomenė siaubė Rezeknės regioną Livonijos pietryčiuose.
 - susijęs iš Riazanė: Stanislovas, kijeviečiams ginantis nuo Gedimino, pabėgo į Riazanę ir ten išsižadėjo bet kokių vilčių.
 - susijęs iš Ryga: 1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga.
 - susijęs iš Ryga: Po kautynių, kuriose žuvo 9 000 švedų, Ryga buvo išgelbėta.
 - susijęs iš Semba: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
-- susijęs iš Semba: 1324 m. Tomas Aldenburgas su 44 broliais ir 400 žmonių iš Sembos bei Natangos užpuolė Gedimino pilies papilį.
 - susijęs iš Severskas: Gediminas, sulaukęs Belgorodo, Slepovrodžio, Kanevo ir Čerkasų pasidavimo, patraukė į Severską.
 - susijęs iš Slepovrodis: Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasidavė nugalėtojui.
 - susijęs iš Smotryč: Podolėje Karijotaičiai statė pilis, tarp jų Smotryčą, ir ėmė tvarkyti krašto ūkinį gyvenimą.
 - susijęs iš Strėva: Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais.
 - susijęs iš Talinas: Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline.
 - susijęs iš Tartu: Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline.
-- susijęs iš Tauro kalnas: Lizdeikos sapno aiškinimas paskatino Gediminą ant Tauro kalno pastatyti Aukštutinę mūro pilį.
-- susijęs iš Tauro kalnas: Pasakojime Tauro kalnu vadintas kalnas, ant kurio Gediminas medžiodamas pašovė ir pribaigė didžiulį taurą.
 - susijęs iš Torunė: Sužinoję apie Gedimino skundą popiežiui, Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai stojo ginti kryžiuočių.
-- susijęs iš Torunė: Torunės gvardijonas kartu su kitais dvasininkais laiškuose popiežiui gynė kryžiuočius nuo Gedimino skundo.
 - susijęs iš Trakai: 1345 m. lapkričio 22 d. Kęstutis iš Trakų su stipriu pulku užpuolė abi Vilniaus pilis.
 - susijęs iš Trakai: Pasakojime Gediminas po Trakų pilies įkūrimo medžiojo apylinkėse ir pasiekė Šventaragio slėnį už keturių mylių nuo Trakų.
 - susijęs iš Trakai: 1384 m. Vytauto privilegijoje Trakai apibūdinti kaip svarbus Lietuvos miestas, kuriame jau būta krikščionių bažnyčių.
-- susijęs iš Trakai: Pasak Strijkovskio ir Kojelavičiaus, po Trakų pilies įkūrimo Gediminas medžiojo aplinkinėse giriose.
 - susijęs iš Trakai: 1384 m. Vytauto privilegija rodo, kad Trakai dar prieš Lietuvos krikštą buvo svarbus Lietuvos miestas.
-- susijęs iš Trakai: XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimą siejo su Gedimino medžiokle girioje.
-- susijęs iš Trakai: Trakų pilis laikoma sena, galbūt dar prieš Gediminą buvusia gynybine ir medžiotojų gyvenviete.
-- susijęs iš Trakai: XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimą siejo su Gedimino medžiokle penkių mylių atstumu nuo Kernavės.
 - susijęs iš Trakų pilis (pilis): Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link, į Trakų pilį.
 - susijęs iš Trakų pilis (pilis): Iš Kreivosios pilies vienas pagrindinių kelių vedė vakarų link į Trakų pilį.
-- susijęs iš Tverė: Algirdas buvo vedęs Tverės kunigaikštytę Mariją ir, sekdamas Gedimino politika, leido Vilniuje veikti Romos bei graikų apeigų dvasininkams.
 - susijęs iš Ukmergė: Ukmergė su pilimi priklausė Jaunučiui paskirtam palyginti nedideliam žemių daliniui.
 - susijęs iš Ukmergė: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
 - susijęs iš Ukmergė: Jaunučiui paskirtame žemių dalinyje, be Vilniaus, buvo Ašmenos, Ukmergės ir Breslaujos sritys su pilimis.
@@ -1753,18 +2540,14 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Veliuona: Veliuona tikriausiai XIII a. buvo pastatyta kaip pilis Žemaitijos sienoms saugoti nuo kryžiuočių puldinėjimų.
 - susijęs iš Veliuona: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies, per mylią nuo Veliuonos.
 - susijęs iš Veliuona: Ilgai buvo klaidingai aiškinta, kad Gediminas žuvo per Veliuonos apgulimą 1338 m.
-- susijęs iš Veliuona: Prie Veliuonos Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus.
 - susijęs iš Veliuona: Veliuona tikriausiai XIII a. buvo pastatyta kaip pilis Žemaitijos sienoms saugoti nuo kryžiuočių puldinėjimų.
-- susijęs iš Veliuonėlė: Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalnų šlaitus.
 - susijęs iš Vengrija: Imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, iš Volynės patraukė tiesiai į Vengriją.
 - susijęs iš Vilija: Vingrių upokšnis šalia Vilnios įtekėjo į Viliją.
 - susijęs iš Vilija: Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios.
 - susijęs iš Vilija: Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją.
-- susijęs iš Vilnelė: Ten, kur Vilnelė įteka į Viliją, stovėjo Gedimino pastatydinta mūro tvirtovė.
 - susijęs iš Vilnelė: Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją.
 - susijęs iš Vilnelė: Gedimino legendoje medžioklė vyko kalne prie Neries ir Vilnelės santakos, o sapną Šventaragio slėnyje išaiškino Lizdeika.
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Vilnia tekėjo kalnų apsupta vaga ir įtekėjo į Viliją ties Gedimino pastatyta mūro tvirtove.
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Balińskis manė, kad iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė.
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Gediminas įsakė pastatyti mūrinę pilį Vilnelės ir Vilijos upių santakoje.
 - susijęs iš Vilnia: Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios.
@@ -1779,18 +2562,13 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Vilnius: Gedimino laiškas buvo duotas Vilniuje 1323 m. Kristaus Kūno dieną.
 - susijęs iš Vilnius: Popiežiui buvo įteiktas 1323 m. Vilniuje sudarytos sutarties nuorašas, išverstas iš vokiečių į lotynų kalbą.
 - susijęs iš Vilnius: Gediminas laiške skelbė pastatęs pranciškonų bažnyčią savo karališkajame mieste Vilniuje.
-- susijęs iš Vilnius: 1325 m. Vilniuje pasirašyta Gedimino sutartis su Łokietka dėl bendros kovos su Prūsijos ordinu.
 - susijęs iš Vilnius: Gedimino valdymo metu Vilnius ėmė tapti gana svarbiu prekybos centru.
-- susijęs iš Vilnius: Vietoje, kur dabar stovi Vilnius, ant Vilnios slėnį supančių kalvų iki Gedimino veikiausiai būta medinės tvirtovės.
 - susijęs iš Vilnius: Švitrigailos bandymas per rusų vienuolius padegti Vilniaus pilies bokštus nepavyko, todėl jis su didžiuoju magistru nutraukė apgultį.
 - susijęs iš Vilnius: Balińskis Vilniaus vardą siejo su Vilnios upe ir manė, kad pirmykštė gyvenvietė turėjo būti prie Vilnios.
 - susijęs iš Vilnius: Apie 1345 m. Vilniaus prastuomenė užėmė pranciškonų vienuolyną ir nužudė keturiolika vienuolių.
 - susijęs iš Vilnius: Pagal šaltinyje pateiktą sąrašą Vilnius 1387 m. iš Vladislovo Jogailos gavo Magdeburgo teisę.
 - susijęs iš Vilnius: Gedimino laikais Vilnius iš mažos gyvenvietės išaugo į miestą ir buvo pasirinktas Lietuvos karalystės sostine.
 - susijęs iš Vilnius: Algirdas leido Romos vienuoliams Vilniuje skelbti evangeliją, o graikų apeigų dvasininkams atlikti savo apeigas.
-- susijęs iš Vilnius: 1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo miestas ir Gedimino sostinė.
-- susijęs iš Vilnius: 1325 m. Vilniuje buvo pasirašyta Gedimino sutartis su Lokietka dėl bendros kovos su Prūsijos ordinu.
-- susijęs iš Vilnius: Vilniaus įkūrimo legenda pasakoja, kad Gedimino sapno geležinis vilkas pranašavo būsimo miesto garsą.
 - susijęs iš Vilnius: Atvykusiems lenkams anuometinis Vilnius pasirodė niūrokas, bet išsiskyrė gražiu kraštovaizdžiu.
 - susijęs iš Vilnius: Ivinskis Vilniaus kaip valstybės sostinės įkūrimą apibūdino kaip gražia legenda apipintą pasakojimą.
 - susijęs iš Vilnius: Balińskis atmetė prielaidą, kad Dusburgo minima Castrum Gedemini galėjo būti Vilnius.
@@ -1803,17 +2581,13 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Vilnius: 1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais.
 - susijęs iš Vilnius: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas, kaip ir pats Vilnius, perėjo Algirdui.
 - susijęs iš Vilnius: Kęstutis, susitaręs su Algirdu, 1344-1345 m. žiemą užėmė Vilnių ir suėmė Jaunutį.
-- susijęs iš Vilnius: 1323 m. gegužės 26 d. Vilniuje rašytuose laiškuose Gediminas vadino Vilnių savo karališkuoju miestu.
 - susijęs iš Vilnius: 1387 m. pradžioje Jogaila atvyko į Vilnių, pakeliui paėmęs Lietuvos kunigaikščių paklusnumo raštus.
 - susijęs iš Vilnius: 1323 m. Gediminas perkėlė Lietuvos sostinę iš Trakų į Vilnių.
 - susijęs iš Vilnius: Gedimino rūpesčiu Vilnius iškilo iš mažareikšmės gyvenvietės į galingos valstybės sostinę.
 - susijęs iš Vilnius: Gedimino laiške Vilnius minimas kaip valdovo miestas, kuriame pastatyta bažnyčia minoritams.
 - susijęs iš Vilnius: Gedimino valdymo laikais Vilnius ėmė darytis svarbiu prekybos centru.
 - susijęs iš Vilnius: Gedimino rūpesčiu iškilusiame Vilniuje buvo prigiję feodalinio valdymo principai.
-- susijęs iš Vilnius: 1323 m. gegužės 26 d. Vilniuje rašytuose laiškuose Gediminas vadino Vilnių savo karališkuoju miestu.
-- susijęs iš Vilnius: Vilniaus sostinės įkūrimo legenda siejama su Gedimino medžiokle ir Lizdeikos išaiškintu sapnu.
 - susijęs iš Vilnius: Nuo XIV amžiaus pirmos pusės Vilnius ir Kremlius pateikiami kaip Lietuvos ir Maskvos dinastinio antagonizmo ašys.
-- susijęs iš Vilnius: Pirmasis autentiškas Vilniaus kaip miesto ir Gedimino sostinės paliudijimas siejamas su 1323 m. spalio 2 d. Vilniuje pasirašyta sutartimi.
 - susijęs iš Vilnius: Gedimino laikais Vilnius iš mažos gyvenvietės išaugo į miestą ir buvo pasirinktas Lietuvos karalystės sostine.
 - susijęs iš Vilnius: Lietuvos metraščio pasakojime Gediminas prieš žūtį perdavė aukščiausią valdžią Vilniuje Jaunučiui.
 - susijęs iš Vingio parkas: 1988 m. liepos 9 d. Vingio parke vykusiame LPS mitinge dalyvavo apie 100 tūkst. žmonių.
@@ -1837,33 +2611,23 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš Vysla: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš Vysla: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš Vyšgorodas: Gedimino valdžią tuo metu pripažino ir Kijevo priemiestis Vyšgorodas.
-- susijęs iš Čerkasai: Čerkasų pilis kartu su Belgorodu, Slepovrodžiu ir Kanevu pasidavė Gediminui po jo įsitvirtinimo Kijeve.
 - susijęs iš Šventaragio slėnis: Pasak Strijkovskio ir Kojelavičiaus, Gediminas po Trakų pilies įkūrimo medžiojo Šventaragio slėnyje.
 - susijęs iš Šventaragio slėnis: Balińskis Šventaragio slėnio lydimus siejo su senovinės Vilniaus gyvenvietės plėtra nuo Vilnios krantų Vilijos link.
 - susijęs iš Šventaragio slėnis: Šventaragio slėnyje Germantas esą vertė miškus lydimais ir plėtė senovinę Vilniaus gyvenvietę Vilijos link.
-- susijęs iš Šventaragio slėnis: Pasak Vilniaus įkūrimo legendos, Šventaragio slėnyje Gediminas susapnavo sapną, kurį išaiškino žynys Lizdeika.
 - susijęs iš Šventaragio slėnis: Pasakojama, kad Gediminas po Trakų pilies įkūrimo su palyda nusigavo į Šventaragio slėnį prie Vilnios žiočių.
 - susijęs iš Žemaitija: Kol vokiečių kariuomenė stovyklavo Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.
 - susijęs iš Žemaitija: Gedimino laikais Žemaitijoje tik šen bei ten stovėjo vienišos feodalinių kunigaikščių ir bajorų pilys bei gynybinės gyvenvietės.
 - susijęs iš Žemaitija: Vokiečių kariuomenei stovyklaujant Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.
 - susijęs iš Žemaitija: Veliuona, tikriausiai XIII a. pastatyta pilis, turėjo saugoti Žemaitijos sienas nuo kryžiuočių puldinėjimų.
 - susijęs iš Žemaitija: Veliuonos pilis tikriausiai pastatyta XIII a. Žemaitijos sienoms nuo kryžiuočių puldinėjimų saugoti.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių rasta iš I tūkstantmečio vidurio.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Iš Žemutinės pilies vakarinių vartų kelias vedė per du tiltus, nutiestus per Vilnią ir Vingrių upokšnį.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vilniaus Žemutinės pilies teritorijoje XIII a. antrojoje pusėje ir XIV a. pradžioje būta mūrinio pastato.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Žemutinės pilies įtvirtinimai veikiausiai yra ankstesni už Gedimino laikotarpį.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių rasta iš I tūkstantmečio vidurio.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vilniaus Žemoji pilis laikoma Gedimino kalno papėdėje buvusiu gynybinių įrengimų ir kitų pastatų kompleksu.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vilniaus Žemutinės pilies teritorijoje XIII a. antrojoje pusėje ir XIV a. pradžioje būta mūrinio pastato.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Žemutinės pilies įtvirtinimai veikiausiai yra ankstesni už Gedimino laikotarpį.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vilniaus Žemoji pilis laikoma Gedimino kalno papėdėje buvusiu gynybinių įrengimų ir kitų pastatų kompleksu.
 - susijęs iš [[objektai/zodynas/Arkivyskupija.md#claim-t-32746|Arkivyskupija]]: Naugarduke Gedimino palaikyta Lietuvos stačiatikių arkivyskupija apie 1330 m. žlugo po arkivyskupo Teofilio mirties.
 - susijęs iš [[objektai/zodynas/Feodalinis ir leninis valdymas.md#claim-t-86457|Feodalinis ir leninis valdymas]]: Nusistovėjus leninio valdymo principams, ankstyvasis Vilnius turėjo laikytis tokios pačios tvarkos kaip ir kitos vietovės.
 - susijęs iš [[objektai/zodynas/Feodalinis ir leninis valdymas.md#claim-t-86458|Feodalinis ir leninis valdymas]]: Gedimino iškeltame Vilniuje, kaip ir visame krašte, buvo prigiję feodalinio valdymo principai.
 - susijęs iš [[objektai/zodynas/Kanceliarinė rašto kalba.md#claim-t-32752|Kanceliarinė rašto kalba]]: Lietuvos didžiojo kunigaikščio kanceliarinė rašto kalba išsivystė iš vartotos slavų kalbos ir skyrėsi nuo maskvinės rusų kalbos.
-- susijęs iš [[objektai/zodynas/Notariats instrument notarinis instrumentas.md#claim-t-86541|Notariats instrument notarinis instrumentas]]: 1323 metais Liubeke parengtame notariniame instrumente aprašytas prie laiško prikabintas apvalus Gedimino vaško antspaudas.
-- susijęs iš [[objektai/zodynas/Notariats instrument notarinis instrumentas.md#claim-t-86542|Notariats instrument notarinis instrumentas]]: Notariniame instrumente buvo įrašyti tariamieji Gedimino laiškai dviem ordinams ir pajūrio miestams.
 - susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-183835|Papilys suburbium]]: 1324 metų birželio 11 dieną Ragainės komtūras Tomas Aldenburgas netikėtai užpuolė ir sudegino Gedimino pilies papilį.
 - susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-86505|Papilys suburbium]]: 1317 metais Ragainės komtūras Fridrichas de Libencelė su 150 žmonių neįstengė užimti Gedimino pilies, bet sudegino jos papilį.
 - susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-86506|Papilys suburbium]]: Ragainės komtūras Tomas Aldenburgas su 44 broliais ir 400 vyrų iš Sembos bei Natangos švintant sudegino Gedimino pilies papilį.
@@ -1875,11 +2639,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/zodynas/alanai.md#claim-t-185379|alanai]]: Ateiviai persikėlė per Nevėžį ir pasiekė vietas, kuriose, pasak Kojelavičiaus, gyveno alanai, arba lietuviai.
 - susijęs iš [[objektai/zodynas/ankstyvasis feodalizmas kiemai.md#claim-t-22055|ankstyvasis feodalizmas kiemai]]: Valdant Ldk Gediminui ankstyvojo feodalizmo požymiu Lietuvoje buvo ankstyvieji dvarai, vadinti kiemais.
 - susijęs iš [[objektai/zodynas/ankstyvoji monarchija karinė monarchija.md#claim-t-22057|ankstyvoji monarchija karinė monarchija]]: Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turėjusi tokių požymių kaip diarchija ir ankstyvasis feodalizmas.
-- susijęs iš [[objektai/zodynas/aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai.md#claim-t-104181|aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai]]: Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo titulą rex, o Algirdas laiškuose Bizantijai - bazileus.
 - susijęs iš [[objektai/zodynas/aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai.md#claim-t-183398|aukščiausiasis karalius nesisteminė karalystė valdovo titulavimo terminai]]: Iki 1386 m. Lietuva, autorių vertinimu, gali būti vadinama savotiška arba nesistemine karalyste.
 - susijęs iš [[objektai/zodynas/bombarda.md#claim-t-86584|bombarda]]: Bombarda buvo Vokietijoje neseniai išrastas ir Lietuvoje dar nežinomas šaunamasis ginklas.
-- susijęs iš [[objektai/zodynas/civilizacinė monada.md#claim-t-77791|civilizacinė monada]]: Lietuva apibūdinta kaip savarankiška civilizacinė monada, nes Gediminas ir Algirdas vadinosi karaliais be pripažinimo iš svetur.
-- susijęs iš [[objektai/zodynas/denariukas.md#claim-t-34255|denariukas]]: 1387-1390 m. atsiradę lietuviški denariukai kursavo greta kitų pinigų ir turėjo ieties galo bei Gedimino stulpų vaizdus.
 - susijęs iš [[objektai/zodynas/dešimtinė.md#claim-t-173013|dešimtinė]]: Po dešimties metų atleidimo nuo mokesčių atvykę žemdirbiai turėjo mokėti pagal žemės rūšį nustatomą dešimtinę.
 - susijęs iš [[objektai/zodynas/diarchija.md#claim-t-131656|diarchija]]: Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.
 - susijęs iš [[objektai/zodynas/diarchija.md#claim-t-183413|diarchija]]: Valdant Ldk Gediminui diarchija buvo vienas ankstyvosios, arba karinės, monarchijos požymių.
@@ -1888,7 +2649,6 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82052|feodalizmas]]: Michałas Balińskis Gediminą vadino darnesnio ir pajėgesnio feodalizmo kūrėju ir miestų Lietuvoje įkūrėju.
 - susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82057|feodalizmas]]: Gediminas apibūdinamas kaip darnesnio ir pajėgesnio feodalizmo kūrėjas bei miestų steigėjas Lietuvoje.
 - susijęs iš [[objektai/zodynas/krivė krivaitis.md#claim-t-185387|krivė krivaitis]]: Romanova, vėliau vadinta Romnove ir Romove, tapo vyriausiojo lietuvių žynio Krivės Krivaičio būstine.
-- susijęs iš [[objektai/zodynas/kustodas ir gvardijonas.md#claim-t-86635|kustodas ir gvardijonas]]: Mažesniųjų brolių Prūsijos kustodas ir Torunės, Kulmo, Braunsbergo bei Neuenbergo gvardijonai stojo ginti kryžiuočių dėl Gedimino skundo popiežiui.
 - susijęs iš [[objektai/zodynas/metropolija.md#claim-t-05445|metropolija]]: Gediminui nepasisekė išlaikyti Lietuvos metropolijos.
 - susijęs iš [[objektai/zodynas/metropolija.md#claim-t-05446|metropolija]]: Kijevo metropolijos rezidencija buvo perkelta į Vladimirą Maskvos žemėse.
 - susijęs iš [[objektai/zodynas/metropolija.md#claim-t-05450|metropolija]]: 1389 m. Lietuvos metropolija nutrūko, o 1415 m. buvo trumpam atnaujinta.
@@ -1910,8 +2670,6 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
 - susijęs iš [[objektai/zodynas/ulusas.md#claim-t-86621|ulusas]]: Vytautas prie Azovo buvo užėmęs totorių ulusą, paliko jiems tikėjimo laisvę ir suteikė žemės valdų bei laisvių.
 - susijęs iš [[objektai/zodynas/vaidilos, žyniai ir pranašai.md#claim-t-86496|vaidilos, žyniai ir pranašai]]: Prie Kreivosios pilies stovėjo apvalus plytų ir akmens bokštas, pro kurio langą žyniai ir pranašai skelbdavo pranašystes žmonėms.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184644|vietininkas]]: Gediminas prijungė Lucką, Drohičiną ir Brestą prie Lietuvos valdų, palikdamas lietuvių įgulas ir vietininkus.
-- susijęs iš [[objektai/zodynas/čiornai čiornyje liūdi.md#claim-t-86497|čiornai čiornyje liūdi]]: Vilniaus rusinai ir rusų vienuoliai, žmonių vadinti čiornais, nuo Gedimino laikų turėjo savo vienuolyną.
-- susijęs iš [[objektai/zodynas/žiogriai statinių tvoros palisadai.md#claim-t-86442|žiogriai statinių tvoros palisadai]]: Kreivosios pilies apsauginę juostą sudarė aukšta statinių tvora, Vilnios vandenys ir Gedimino laikais iškasta perkasa.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -1940,6 +2698,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e5c0adc7f8a8ef9fbb1572c95e3d132bcc45528450335359e483d101eef83b30; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-011
 
 - c-003
@@ -1955,6 +2723,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=41de0b3d4fe8c4319b53b9109fcfc97b4d52b624441edebfacccab6c369cbeb4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=116
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-012
 
 - c-004
@@ -2003,6 +2781,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f742312b72a2cf1d1441dee71a0aff1e7dd017b0329a1cbda4acf82fbedcceb6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajerburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-054
 
 - c-006
@@ -2032,6 +2820,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=986f056cd8d133314cfb2ea02a9a055d09224097dc18ec6fa71f67ac711856d3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-039
 
 - c-008
@@ -2051,6 +2849,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=31849ccce8f3d7877ae3ae407875115be110267833bc29b830582d647f102b35; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vokietija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vokietija: mention_match, place, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Vokietija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-053
 
 - c-009
@@ -2069,6 +2877,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 53725-54275; hash=208de4dc36e74cef3113457767c225026a472180fabb12c71640e7fef4802dab; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.): mention_match, event, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-018
 
 - c-010
@@ -2086,6 +2904,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=95bd7f9e64572ed5edcafe5857fbd2ae7cb8a053ca0186ef8563075e8cd3d2b0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-055
 
 - c-011
@@ -2109,7 +2937,27 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 55475-55954; hash=c16ad51689674ebb8d8318d2c9379c99261c98063f8bc9370b6c1cac7e9321e0; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-066
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d8cec26d7d15077c82ac9af1f2deadb3c6af1a280c6ebe2f8ea01a65e41d4055; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-079
 
 - c-012
@@ -2199,6 +3047,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1c46ff131196122485e495d26880ee156d3c31ffedb00c9b5362322d69134824; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antspaudas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Antspaudas: mention_match, thing, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Antspaudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-052
     - t-048
 
@@ -2229,7 +3087,27 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 29692-29910; hash=5ebc76ff7fd33537fb91fa62b2f8896e29d9b8ecad88b2960c548238e0484fdf; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-045
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=629c48cee25874df630408112e3e12e1431ff2000177d01aadec599a69bf105b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajerburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-032
 
 - c-016
@@ -2245,6 +3123,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=35853d48dde497ccf496c31fd2ae5d875f240e03d74c291ccb55864068c289f2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-017
@@ -2292,8 +3180,38 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=41de0b3d4fe8c4319b53b9109fcfc97b4d52b624441edebfacccab6c369cbeb4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-085
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 45357-45818; hash=46d3741c96223683d750fbde3f76e1bc19ea57c5723cf07b22ceb57f62cf425d; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-020
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a2120afacf226d6f9b067043dbc55472c591642430678af758d59827c6188012; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-058
 
 - c-018
@@ -2307,6 +3225,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 61818-62274; hash=b8796bd2e12d8d0c382ee0e383e808861e0db2118d5858b811fe1d6abc1ebf8d; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-019
@@ -2354,6 +3282,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 52609-53149; hash=786bda1d3eef320843ee43a1a59fd74180ed7027edfaa559d1fae8ad4d505cc6; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-074
 
 - c-021
@@ -2380,6 +3318,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f3e3fb424ae7402769c04544c63a49954ebe025761013dc041f9aeb33b165377; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajerburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-076
 
 - c-022
@@ -2399,6 +3347,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 228092-228553; hash=5fccb0e8e21b2002dad43a63e84bbe082626b8d894b28be5c61692505fcf53fd; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bombardos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bombardos: mention_match, thing, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Bombardos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-013
 
 - c-023
@@ -2417,6 +3375,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=97f27db6f00ff8625d74758d095cf98dd0a3d1875f021e5e4578d360d37e5d25; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-024
@@ -2459,7 +3427,27 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 174288-175183; hash=a0016b9d52fe1aad71050fbdcbeadbf7a74bcaf263914228708704a5ee204d48; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-015
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a4ee61a06fd8faa62a665e9b778712813f63f281a1bc4c9a1408b6a58abec239; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=68
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-046
 
 - c-026
@@ -2484,7 +3472,27 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f3e3fb424ae7402769c04544c63a49954ebe025761013dc041f9aeb33b165377; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Veliuona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Veliuona: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Veliuona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-069
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 183693-184262; hash=b50ecbd9358bf867bd6acbe78ddc3cebf0f4ccf98bfa2e0aef3dab29272fb390; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-064
 
 - c-027
@@ -2519,6 +3527,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 73966-74514; hash=8aa3b3dc5af7a5bc0299cff02b47b8f8a31ef93a86f57e546a9492206bff7a48; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-072
 
 - c-028
@@ -2537,6 +3555,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 223377-223913; hash=5dc14196e9122e881a092358db2fcd652edf57abe67d943d2d783ad5a5d6dc26; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 1.00
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_combat_counterparty
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=17
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: counterparty_iteration, group, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
     - t-057
 
 - c-029
@@ -2560,6 +3588,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f2ea4d2806e5dae35b712446cbc79202ab9a3c62f1b95fe9cb6571165d228491; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltoji Rusia: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Baltoji Rusia: mention_match, place, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Baltoji Rusia" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-065
 
 - c-030
@@ -2594,7 +3632,27 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0ef0f495dc9763daad835f6f258e5aa480a1b240fda298cabf2e7faa004e9235; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-034
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1fcfa0abfdad63fd7c5b99d2b0684d1d34d67c278d535c8cedeab7a5c7c1009e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=105
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-017
 
 - c-031
@@ -2620,7 +3678,27 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9cf84b7b23319e52d19bccc040f86d0bd512f8b6557f2cb6dc1ef887c130814b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aldona Gediminaitė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Aldona Gediminaitė: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Aldona Gediminaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-043
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=86da6ef375bc6ea2c80e19d1aa4332e0e6b866a7ae17b29f7d30a400306feb85; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-060
 
 - c-032
@@ -2652,6 +3730,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   statusas: verified
   pagrindžia:
     - t-062
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a2120afacf226d6f9b067043dbc55472c591642430678af758d59827c6188012; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-078
 
 - c-033
@@ -2673,7 +3761,27 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 237121-237565; hash=f1dae65993bee22a8a878bf107c1cb92cbd57792fe3a79946c1463e77fb6e220; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-056
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 58742-59169; hash=4c873242c77dc028a85a7eb222fa7b22884db44c1cfea358d4d0c1a632581a74; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=81
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-035
 
 - c-034
@@ -2688,6 +3796,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dbe703df52cccdd6245a6e69606c9b348b28508da96c265150d7ffb60719ff73; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-035
@@ -2735,6 +3853,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 232817-233377; hash=bfe98eeaea6cffd3087f6fa909bd58a38ebccf49db9dd6c91884e593ba8f813a; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bokštai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bokštai: mention_match, place, gap=76
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Bokštai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-029
 
 - c-037
@@ -2749,6 +3877,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a4b7020989e943f2b2b5a89b679dfcc31bcb50d8e192f1ba3b6d09a6df5a725c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hanza: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Hanza: mention_match, group, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Hanza" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-042
 
 - c-038
@@ -2766,6 +3904,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2a6729ee2443296e7c3088777cdca5da860bf533c2ead7975a2627da9b2128ea; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antspaudas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Antspaudas: mention_match, thing, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Antspaudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-021
 
 - c-039
@@ -2783,6 +3931,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3d271c0059e87caed8577ec65527e95148e1db6c290904fe5bd57743357551d4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-073
 
 - c-040
@@ -2809,7 +3967,27 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 225190-225604; hash=e7d02b75fb759295bd67672a6f49501a362796f10685cd05998c3ca2aa9d72f4; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajerburgas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-044
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 223377-223913; hash=5dc14196e9122e881a092358db2fcd652edf57abe67d943d2d783ad5a5d6dc26; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: kariavo_pries -> Kryžiuočių ordinas: 1.00
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_combat_counterparty
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=17
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: counterparty_iteration, group, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
     - t-037
 
 - c-041
@@ -2831,6 +4009,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d962e4d7f4f534acf601dcb924503585f7921f8186ac232c64f60e2603ce3805; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-036
 
 - c-042
@@ -2848,6 +4036,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 183693-184262; hash=b50ecbd9358bf867bd6acbe78ddc3cebf0f4ccf98bfa2e0aef3dab29272fb390; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-049
 
 - c-043
@@ -2866,6 +4064,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 41603-42380; hash=b8b503f728743fab267cd9fca064b6dfcb612c606ffeb9821a17dc4920522ccf; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-016
 
 - c-044
@@ -2882,6 +4090,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=22006b54394d973858f94c4f2d42bc555b75f11b470acd2df712660b7629097e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-063
 
 - c-045
@@ -2915,7 +4133,20 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3d271c0059e87caed8577ec65527e95148e1db6c290904fe5bd57743357551d4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-038
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=102c739e3e6b726cedfca268e9e6e709b6417623b87d4acea44b1d681206ebf6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-082
 
 - c-046
@@ -2945,6 +4176,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 165942-166286; hash=b881e041f62f7e788f577ea469dc092070c0d5a778a43140501ab816a930c72f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kristmemelis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kristmemelis: mention_match, place, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kristmemelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-081
 
 - c-047
@@ -2967,6 +4208,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 155742-156052; hash=000ad94931db6fd6902a4353f05f43f33be16a3849bd7a83220791cd9dcf3f07; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-083
 
 - c-048
@@ -2984,6 +4235,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 34131-34351; hash=bedbe61cc2636f2e5bb4c9a12525db45c48c9b7130028127f5bba6ec6358d49e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Plockas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Plockas: mention_match, place, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Plockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-033
 
 - c-049
@@ -3006,6 +4267,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=17e5c9f475f0a8fc704ae1a2959e5e2a0ecaafe290992324c2cdb8e9873592ae; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-071
 
 - c-050
@@ -3024,6 +4295,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=86da6ef375bc6ea2c80e19d1aa4332e0e6b866a7ae17b29f7d30a400306feb85; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=75
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-024
 
 - c-051
@@ -3052,6 +4333,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0ef0f495dc9763daad835f6f258e5aa480a1b240fda298cabf2e7faa004e9235; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajerburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bajerburgas: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Bajerburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-027
 
 - c-052
@@ -3067,6 +4358,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bbf415e08c47a1fdd58a05cc7304cf7162eee3855db23ea69e95c1c59455247a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-026
 
 - c-053
@@ -3096,6 +4397,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3a6aaa9d6f918e8db5735c7f336337ee13e79f7b1786bba9a41635ce5b141a1f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-055
@@ -3121,6 +4432,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   statusas: verified
   pagrindžia:
     - t-030
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d8cec26d7d15077c82ac9af1f2deadb3c6af1a280c6ebe2f8ea01a65e41d4055; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-025
 
 - c-056
@@ -3140,6 +4461,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fffb04bb865dbf9529ca28c5b7cc2ef69563ff3fe35453b42be2c2e22dfc3cae; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Šventaragis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Šventaragis: mention_match, person, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Šventaragis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-086
 
 - c-057
@@ -3160,6 +4491,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 87688-88118; hash=2836da08b1ced98b5b50f4b2a35cfd9f07622ec075e8f66760f50bd0b60a00dd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-070
 
 - c-058
@@ -3177,6 +4518,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3a6aaa9d6f918e8db5735c7f336337ee13e79f7b1786bba9a41635ce5b141a1f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-022
 
 - c-059
@@ -3207,6 +4558,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 73966-74514; hash=8aa3b3dc5af7a5bc0299cff02b47b8f8a31ef93a86f57e546a9492206bff7a48; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-075
 
 - c-060
@@ -3221,6 +4582,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: vertinimas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 227669-228220; hash=d1501dbc9355f740fb2b697e987e0e4f9f995b732e153440cb0022d2fffd1fce; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_palaidotas -> Vilnius: 1.00
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_burial_local_place
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=24
+  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_burial_local_place". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "palaidotas". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
 
 - c-061
@@ -3237,6 +4608,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=21fe911c4a1313f4c8b6676179f441fc039bff9822f8377f8a3117e7b04544a0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-062
@@ -3273,6 +4654,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=12bd839c6020cbec81b604b56924314559e40f986ff694a909682772a2c4addb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnelė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnelė: mention_match, place, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Vilnelė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-014
 
 - c-064
@@ -3291,6 +4682,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c7a231bd33ecf4b25c573ecfe14ffdb622a9623607f041837172c36376672ba1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> diplomatija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: diplomatija: mention_match, thing, gap=81
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "diplomatija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-031
 
 - c-065
@@ -3307,6 +4708,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 153532-154639; hash=91de0d74f2441b5cf1861284643b1d8b7066baca9e88232a3e347296b7d9cfd5; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Naugardukas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Naugardukas: mention_match, place, gap=67
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Naugardukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-080
 
 - c-066
@@ -3326,6 +4737,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 147364-147625; hash=7a5523e437f37ae8f3b26d6e5dd7298da53c5e965e153114cbdc3860498d8931; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-050
 
 - c-067
@@ -3344,6 +4765,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 42381-42840; hash=5baf6897baeb28138cc4889cd926c7df71afdb4f64a5f8878fc038e58fb2008d; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-061
 
 - c-068
@@ -3362,6 +4793,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 41896-42350; hash=43af96a82cb038a5b5a8d9b87621f73596d94083b5f1462f60080bb7acb57a10; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-084
 
 - c-069
@@ -3394,6 +4835,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 45021-45544; hash=a28f5c4a3817401f0421ba69b34a0fe71ea8586159b5b00ce382fb24d726e205; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pamaris: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Pamaris: mention_match, place, gap=99
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Pamaris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-067
 
 - c-070
@@ -3418,6 +4869,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 153532-154639; hash=91de0d74f2441b5cf1861284643b1d8b7066baca9e88232a3e347296b7d9cfd5; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pranciškonų ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-028
 
 - c-071
@@ -3442,6 +4903,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=37685f1be0cef623a3e2cefbe37d95d3adde82947fee89b27920d195bb9eedd8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-059
 
 - c-072
@@ -3464,6 +4935,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 52183-52630; hash=ab13b191b488cde2700cfb151ce6001a87afd7cd8c18ab75f8de362cdaf2d624; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-087
 
 - c-073
@@ -3529,6 +5010,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 680077-681180; hash=45d37901a91f954a9fdd4d7fd02472810cda973fbec0b2be79230cb6b03caa0c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-089
 
 - c-075
@@ -3547,6 +5038,16 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 686510-686911; hash=64387a15f214e5e1a8c08ceefd50ee7b61b0a06c0b76ceb9e700b72026736eba; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-090
 
 - c-076
@@ -3568,12 +5069,33 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   statusas: verified
   pagrindžia:
     - t-091
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=af6163fb0d6ea41aef719027e4f1707abb70c9cb065f6055c536e7448e42e308; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gediminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gediminas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Gediminas mire [[objektai/vietos/Vilnius]]
+- Gediminas buvo_palaidotas [[objektai/vietos/Vilnius]]
 - Gediminas kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Gediminas kariavo_pries [[objektai/grupes/Rytas]]
-- [[objektai/asmenys/Vladislovas Lokietka]] kariavo_pries Gediminas
+- Gediminas mire [[objektai/vietos/Vilnius]]
 - Gediminas gyveno [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Fridrichas de Libencelė]] puole Gediminas
-- Gediminas keliavo_i [[objektai/vietos/Vilija]]
+- [[objektai/asmenys/Kazimieras Didysis]] vede Gediminas
+- [[objektai/asmenys/Vaclovas (Vanka)]] vede Gediminas
+- [[objektai/asmenys/Vaclovas (Wanko) iš Płocko]] vede Gediminas
+- [[objektai/asmenys/Vytenis]] buvo_brolis Gediminas
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_sunus Gediminas
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] buvo_sunus Gediminas
+- [[objektai/asmenys/Lokietka]] buvo_sunus Gediminas
+- [[objektai/asmenys/Lokietka]] vede Gediminas
+- [[objektai/asmenys/Vladislovas Lokietka]] kariavo_pries Gediminas
+- [[objektai/asmenys/Aldona Gediminaitė]] buvo_dukte Gediminas
+- [[objektai/asmenys/Marija]] buvo_dukte Gediminas
+- Gediminas kariavo_pries [[objektai/grupes/Rytas]]
+- Gediminas uzeme [[objektai/vietos/Jurbarkas]]
+- [[objektai/asmenys/Liubartas]] buvo_sunus Gediminas

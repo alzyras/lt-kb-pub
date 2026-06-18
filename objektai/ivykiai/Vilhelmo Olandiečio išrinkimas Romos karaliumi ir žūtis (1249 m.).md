@@ -51,6 +51,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet reikia sutrumpinti ir pašalinti perteklinę įžangą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 705829-706138; hash=9d9d4bd5d459f3cc237edc00ae04c0bdcbbdcd5fce49b9832e24956091f09f03; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Olandija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilhelmo Olandiečio išrinkimas Romos karaliumi ir žūtis (1249 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Olandija: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilhelmo Olandiečio išrinkimas Romos karaliumi ir žūtis (1249 m.)" parinktas kaip owner_note_path. Targetas "Olandija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -73,3 +83,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 705829-706138; hash=9d9d4bd5d459f3cc237edc00ae04c0bdcbbdcd5fce49b9832e24956091f09f03; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Olandija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilhelmo Olandiečio išrinkimas Romos karaliumi ir žūtis (1249 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Olandija: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilhelmo Olandiečio išrinkimas Romos karaliumi ir žūtis (1249 m.)" parinktas kaip owner_note_path. Targetas "Olandija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

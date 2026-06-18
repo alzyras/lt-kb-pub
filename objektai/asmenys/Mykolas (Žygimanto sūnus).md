@@ -34,21 +34,43 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   global_id: t-87558
   teiginys: 'Žygimanto sūnus kunigaikštis Mykolas, vedęs lenkų ir lietuvių pulkus, netoli Ukmergės nugalėjo Švitrigailą ir Livonijos magistrą.'
   sudarymo_pagrindimas: 'Pradinis claimas buvo apie Švitrigailą ir nutrūko; citata palaiko Mykolo pergalės faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ukmergė'
+  susije_objektai: 'family: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ukmergė; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Mykolas (Žygimanto sūnus)|Mykolas (Žygimanto sūnus)]] buvo sūnus [[objektai/asmenys/Žygimantas|Žygimantas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9555219a64bbf6c2a7330a0bcd9f29602cbc99ccfd04c9dd4d4fdeb52c539369; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_sunus -> Žygimantas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_family_local_relative
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=19
+  ryšio_targeto_parinkimas: Žygimantas: nearest_family_person, person, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Žygimantas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
 
 <a id="claim-t-87559"></a>
 - t-002
   global_id: t-87559
   teiginys: '1440 m. balandį, sąmokslininkams Trakų pilyje nužudžius Žygimantą, jo sūnus Mykolas buvo ištremtas.'
   sudarymo_pagrindimas: 'Claimas buvo per platus ir turėjo papildomą pilies kontekstą; citata palaiko Mykolo tremties faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'family: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Mykolas (Žygimanto sūnus)|Mykolas (Žygimanto sūnus)]] buvo sūnus [[objektai/asmenys/Mykolas|Mykolas]]'
   temporaliniai_duomenys: 'įvykio data: 1440 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Claimas buvo per platus ir turėjo papildomą pilies kontekstą; citata palaiko Mykolo tremties faktą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 450832-451378; hash=f7a8398efa83c54ce697eaeff93b937698a8ec1aa548e56e88a96b6098ebe5fb; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_sunus -> Mykolas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_family_local_relative
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=6
+  ryšio_targeto_parinkimas: Mykolas: nearest_family_person, person, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Mykolas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 <a id="claim-t-184792"></a>
 - t-003
@@ -61,6 +83,16 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 813892-814227; hash=095bf13a3e7d4e1bce4d283b0ed327a81469cd3b8528b017b223683431ffec5d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mykolas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mykolas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Mykolas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184793"></a>
 - t-004
@@ -73,6 +105,16 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 816729-817171; hash=fbe40af0fbe60adea78dbf4c4fc51c04abd9a4b7d609cc5d801edbb4a9870821; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184794"></a>
 - t-005
@@ -82,9 +124,19 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys išbaigtas, faktinis ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Luckas; mentioned_place: Mazovija; mentioned_place: Rūdninkai; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_place: Mazovija; mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Luckas; mentioned_place: Rūdninkai'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 821446-821913; hash=c699f56ab9b369e2f6567d1312a196f112d3af02fec25096f2064612f7c7636b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mazovija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=110
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184795"></a>
 - t-006
@@ -97,6 +149,16 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   susije_objektai: 'mentioned_place: Belskas; mentioned_place: Brianskas; mentioned_place: Naugardukas; mentioned_place: Viena'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 838571-838960; hash=af6f6bb9b88855ad9f26321ebadfa651b380de1590c83eaa4047682d74677c79; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Belskas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Belskas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Belskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184796"></a>
 - t-007
@@ -109,6 +171,16 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 839003-839437; hash=758d87c47e8e3942eb0faaf7c8baa41d7055a7390aa5370166b4cc8f29e57efd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184797"></a>
 - t-008
@@ -118,9 +190,19 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas perteklinis vaizdingumas ir paliktas pagrindinis veiksmas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lenkija; mentioned_place: Mazovija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Mazovija; mentioned_place: Lenkija'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 852686-853012; hash=801a0858d0d57930b1a499339095697438b00bdfd65ce7e46a575a2ffac08cbc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mazovija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184798"></a>
 - t-009
@@ -130,12 +212,22 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išvalytas OCR triukšmas ir suformuotas vientisas sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Serpeiskas; mentioned_place: Severskas; mentioned_place: Starodubas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Serpeiskas; mentioned_place: Severskas; mentioned_place: Starodubas; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]'
   temporaliniai_duomenys: 'įvykio data: 1448 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išvalytas OCR triukšmas ir suformuotas vientisas sakinys.'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 855554-856379; hash=93dc7247c34dc1ad5d85ee0e5117d7f6b61a586f572c703ef7aceb43b0619da8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mykolas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mykolas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Mykolas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -179,6 +271,16 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9555219a64bbf6c2a7330a0bcd9f29602cbc99ccfd04c9dd4d4fdeb52c539369; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_sunus -> Žygimantas: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_family_local_relative
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=19
+  ryšio_targeto_parinkimas: Žygimantas: nearest_family_person, person, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Žygimantas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
     - t-002
 
 - c-003
@@ -199,6 +301,16 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 450832-451378; hash=f7a8398efa83c54ce697eaeff93b937698a8ec1aa548e56e88a96b6098ebe5fb; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_sunus -> Mykolas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_family_local_relative
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=6
+  ryšio_targeto_parinkimas: Mykolas: nearest_family_person, person, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Mykolas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
     - t-003
 
 - c-004
@@ -219,6 +331,16 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 813892-814227; hash=095bf13a3e7d4e1bce4d283b0ed327a81469cd3b8528b017b223683431ffec5d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mykolas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mykolas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Mykolas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-005
@@ -247,6 +369,16 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 816729-817171; hash=fbe40af0fbe60adea78dbf4c4fc51c04abd9a4b7d609cc5d801edbb4a9870821; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
 
 - c-006
@@ -265,6 +397,16 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 821446-821913; hash=c699f56ab9b369e2f6567d1312a196f112d3af02fec25096f2064612f7c7636b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mazovija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=110
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-007
@@ -284,6 +426,16 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 838571-838960; hash=af6f6bb9b88855ad9f26321ebadfa651b380de1590c83eaa4047682d74677c79; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Belskas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Belskas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Belskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-007
 
 - c-008
@@ -301,6 +453,16 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 839003-839437; hash=758d87c47e8e3942eb0faaf7c8baa41d7055a7390aa5370166b4cc8f29e57efd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-009
@@ -336,4 +498,28 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 852686-853012; hash=801a0858d0d57930b1a499339095697438b00bdfd65ce7e46a575a2ffac08cbc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mazovija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 855554-856379; hash=93dc7247c34dc1ad5d85ee0e5117d7f6b61a586f572c703ef7aceb43b0619da8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mykolas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas (Žygimanto sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mykolas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas (Žygimanto sūnus)" parinktas kaip owner_note_path. Targetas "Mykolas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Mykolas (Žygimanto sūnus) buvo_sunus [[objektai/asmenys/Mykolas]]
+- Mykolas (Žygimanto sūnus) buvo_sunus [[objektai/asmenys/Žygimantas]]

@@ -52,6 +52,16 @@ Nenurodyta
   susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1025066-1025263; hash=9f61118b6fad207bd972324193167e5e7aadcbd31598d32566c62fb60d572ba2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lydos pilis (pilis): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lydos pilis (pilis)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -67,3 +77,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1025066-1025263; hash=9f61118b6fad207bd972324193167e5e7aadcbd31598d32566c62fb60d572ba2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lydos pilis (pilis): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lydos pilis (pilis)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

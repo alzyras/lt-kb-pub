@@ -35,6 +35,9 @@ Dusburgietis teigia, kad samland: Ein Wegweiser für den Strand und das Innere/ 
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia rengėją, pavadinimą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 796117-796217; hash=983f113e0d2d217bdeb27f36a6052d128fb39c371df40ff680f579651ce2bd3c; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +52,6 @@ Dusburgietis teigia, kad samland: Ein Wegweiser für den Strand und das Innere/ 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 796117-796217; hash=983f113e0d2d217bdeb27f36a6052d128fb39c371df40ff680f579651ce2bd3c; match=exact
+  sprendimo_priezastis: auto

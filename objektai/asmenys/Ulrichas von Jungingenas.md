@@ -63,13 +63,16 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
 - susijęs iš [[objektai/asmenys/Konradas von Jungingen.md#claim-t-30336|Konradas von Jungingen]]: Konradas von Jungingenas 1394 m. vasarą su gausiais svečiais suruošė didelį žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176655|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1398 m. spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179715|Švitrigaila]]: 1395 m. Švitrigaila su kryžiuočių pulku ir magistru Konradu Jungingenu įsibrovė į Lietuvą ir nusiaubė vietoves prie Gardino.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176210|Vėliavos]]: Vyriausioji Lenkijos vėliava pateko į priešų rankas.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178897|Kryžiuočių ordinas]]: Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti priešui kelią.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179083|Kryžiuočių ordinas]]: Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti jiems kelią.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179209|Lenkai]]: Kronistas kartais perteikdavo lenkų tezes, pavyzdžiui, Dlugošo kronikos įtaką Žalgirio kautynių aprašymui ir Vytauto karūnos bylai.
 - susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-66871|Salyno sutartis]]: 1398 m. balandžio 23 d. Gardine buvo surašyta preliminarinė taika, o spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.
-- susijęs iš [[objektai/paprociai/Jogailos meldimasis ir mišių klausymas prieš kautynes.md#claim-t-31516|Jogailos meldimasis ir mišių klausymas prieš kautynes]]: Anot Dlugošo, Jogaila prieš kautynes delsė, meldėsi, klausė mišių ir norėjo taikytis.
 - susijęs iš Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.): Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos tarp Jogailos ir kryžiuočių.
+- susijęs iš [[objektai/zodynas/didysis magistras.md#claim-t-113612|didysis magistras]]: Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe ir apie 200 Ordino riterių.
+- susijęs iš [[objektai/zodynas/didysis magistras.md#claim-t-113620|didysis magistras]]: Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe.
+- susijęs iš [[objektai/zodynas/didysis magistras.md#claim-t-113621|didysis magistras]]: Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe ir apie 200 Ordino riterių.
+- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176210|Vėliavos]]: Vyriausioji Lenkijos vėliava pateko į priešų rankas.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179209|Lenkai]]: Kronistas kartais perteikdavo lenkų tezes, pavyzdžiui, Dlugošo kronikos įtaką Žalgirio kautynių aprašymui ir Vytauto karūnos bylai.
+- susijęs iš [[objektai/paprociai/Jogailos meldimasis ir mišių klausymas prieš kautynes.md#claim-t-31516|Jogailos meldimasis ir mišių klausymas prieš kautynes]]: Anot Dlugošo, Jogaila prieš kautynes delsė, meldėsi, klausė mišių ir norėjo taikytis.
 - susijęs iš Drohičinas: Švitrigaila su kryžiuočių pulku įsibrovė į Lietuvą ir sudegino Drohičiną, Naugarduką, Mirą bei Lydą.
 - susijęs iš Gardinas: Švitrigaila su didžiuoju magistru Konradu Jungingenu nusiaubė prie Gardino buvusius panemunės pavietus.
 - susijęs iš Gilgenburgas: Ordino didysis magistras Ulrichas von Jungingenas iš pabėgėlių sužinojo, kad sąjungininkai paėmė Gilgenburgą ir žygiavo Tannenbergo link.
@@ -78,9 +81,6 @@ Ulrichas von Jungingenas šiame šaltinyje rodomas kaip ordino didysis magistras
 - susijęs iš Prūsija: 1394 m. Prūsijos ordinas pasinaudojo proga pradėti karą ir niokoti Lietuvą.
 - susijęs iš Prūsija: 1394 m. Prūsijos ordinas pasinaudojo Švitrigailos išvykimu pas kryžiuočius ir pradėjo karą prieš Lietuvą bei Lenkiją.
 - susijęs iš Tanenbergas: Sąjungininkai, paėmę Gilgenburgą, žygiavo Tanenbergo kryptimi.
-- susijęs iš [[objektai/zodynas/didysis magistras.md#claim-t-113612|didysis magistras]]: Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe ir apie 200 Ordino riterių.
-- susijęs iš [[objektai/zodynas/didysis magistras.md#claim-t-113620|didysis magistras]]: Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe.
-- susijęs iš [[objektai/zodynas/didysis magistras.md#claim-t-113621|didysis magistras]]: Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe ir apie 200 Ordino riterių.
 ## Reikšmingi paminėjimai
 
 - c-001

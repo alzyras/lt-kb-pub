@@ -37,24 +37,54 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 556271-557027; hash=32cb761794572def9de817aa5c61bd12e1c05cb40cbce45806e1ed38cc5ff4a2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skalviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalvių pilis (pilis, XIII a.): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Skalviai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalvių pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Skalviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-91388"></a>
 - t-002
   global_id: t-91388
   teiginys: 'Lietuviai pasitraukdami ištrypė ir sunaikino visus pasėlius Skalvių ir Ragainės pilių laukuose.'
   sudarymo_pagrindimas: 'Teiginys perrašytas kaip užbaigtas sakinys be kontekstinio fragmento.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 558193-558575; hash=5f63ee90b9f2496e8ce31212089827f38e8649e395d11e3b4c03f9efb3eeebcc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalvių pilis (pilis, XIII a.): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalvių pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-91389"></a>
 - t-003
   global_id: t-91389
   teiginys: 'Iš Ragainės pabėgęs ginklanešys pasisiūlė lietuvių karaliui perduoti Skalvių pilį.'
   sudarymo_pagrindimas: 'Pašalinta citatoje tiesiogiai nepagrįsta metų nuoroda ir paliktas aiškiai paremtas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/ginklanešys|ginklanešys]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Ragainė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ginklanešys|ginklanešys]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Ragainė; mentioned_place: Viena'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 578287-579028; hash=d48782729c16489a58f84f5de2dba605835d0f4ec02d89b4e7963d2c3d13cf7c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skalviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalvių pilis (pilis, XIII a.): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Skalviai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalvių pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Skalviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-91390"></a>
 - t-004
@@ -70,9 +100,19 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   global_id: t-91391
   teiginys: 'Tų pačių metų rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius.'
   sudarymo_pagrindimas: 'Pašalinta perteklinė įžanga ir paliktas citatos paremtas rezultatas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Ragainė'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 591032-591452; hash=0b5ded629c155ddcf5d44c2c3f6fc8b8c6add847f6773012073ece866faaa1f9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skalviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalvių pilis (pilis, XIII a.): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Skalviai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalvių pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Skalviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-91392"></a>
 - t-006
@@ -85,6 +125,16 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   temporalinis_llm_pakomentavimas: 'Citata leidžia susieti Skalvių pilies pastatymą su platesniu Ragainės ir Skalvių pilių statybos epizodu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=05e1253211fb0aa9c12a237caf0548fe5d5c3a9010a293d6340884093ee1bf50; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ragainė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalvių pilis (pilis, XIII a.): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ragainė: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalvių pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Ragainė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Ragainė: Skalvių pilis Ragainėje, manoma, buvo piliakalnyje per 2 km į pietryčius nuo dabartinio miestelio.
 ## Reikšmingi paminėjimai
 
@@ -111,6 +161,16 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   statusas: verified
   pagrindžia:
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=05e1253211fb0aa9c12a237caf0548fe5d5c3a9010a293d6340884093ee1bf50; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ragainė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalvių pilis (pilis, XIII a.): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ragainė: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalvių pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Ragainė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-002
@@ -147,6 +207,16 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 556271-557027; hash=32cb761794572def9de817aa5c61bd12e1c05cb40cbce45806e1ed38cc5ff4a2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skalviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalvių pilis (pilis, XIII a.): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Skalviai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalvių pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Skalviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-004
@@ -167,6 +237,16 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 558193-558575; hash=5f63ee90b9f2496e8ce31212089827f38e8649e395d11e3b4c03f9efb3eeebcc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalvių pilis (pilis, XIII a.): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalvių pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-005
@@ -187,5 +267,35 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 578287-579028; hash=d48782729c16489a58f84f5de2dba605835d0f4ec02d89b4e7963d2c3d13cf7c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skalviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalvių pilis (pilis, XIII a.): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Skalviai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalvių pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Skalviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 591032-591452; hash=0b5ded629c155ddcf5d44c2c3f6fc8b8c6add847f6773012073ece866faaa1f9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skalviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalvių pilis (pilis, XIII a.): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Skalviai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalvių pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Skalviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 556271-557027; hash=32cb761794572def9de817aa5c61bd12e1c05cb40cbce45806e1ed38cc5ff4a2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skalviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalvių pilis (pilis, XIII a.): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Skalviai: mention_match, group, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalvių pilis (pilis, XIII a.)" parinktas kaip owner_note_path. Targetas "Skalviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

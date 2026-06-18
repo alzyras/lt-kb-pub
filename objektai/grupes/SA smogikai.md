@@ -33,11 +33,21 @@ Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos Adolfas
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio, antraštės ir gretimo teksto triukšmas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c454526419d0f7526f26a1516fdbb9f489604a0fb4fd138c32bcbb36523f8398; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vokiečiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: SA smogikai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "SA smogikai" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75630|A. Hitleris]]: 1939 m. kovo 23 d. Klaipėdoje A. Hitlerį sveikino vietos vokiečių nacių simpatikai ir SA smogikai.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75631|A. Hitleris]]: 1939 m. kovo 23 d. Adolfą Hitlerį Klaipėdoje sveikino vietos vokiečių nacių simpatikai ir SA smogikai.
-- susijęs iš [[objektai/ivykiai/Antano Merkio vyriausybės sudarymas (1939 m. lapkritis).md#claim-t-77892|Antano Merkio vyriausybės sudarymas (1939 m. lapkritis)]]: Sudarant Antano Merkio vyriausybę prezidentas galėjo diktuoti jos darbus, todėl opozicijos deleguotas ministras turėjo vykdyti prezidento užduotis.
 - susijęs iš [[objektai/ivykiai/Vokietijos ultimatumas ir Klaipėdos krašto perdavimas Vokietijai (1939 m. kovo 20-23 d.).md#claim-t-75307|Vokietijos ultimatumas ir Klaipėdos krašto perdavimas Vokietijai (1939 m. kovo 20-23 d.)]]: 1939 m. kovo 23 d. Klaipėdoje Adolfą Hitlerį sveikino vietos vokiečių nacių simpatikai ir SA smogikai.
 - susijęs iš [[objektai/ivykiai/Vokietijos ultimatumas ir Klaipėdos krašto perdavimas Vokietijai (1939 m. kovo 20-23 d.).md#claim-t-75310|Vokietijos ultimatumas ir Klaipėdos krašto perdavimas Vokietijai (1939 m. kovo 20-23 d.)]]: 1939 m. kovo 23 d. Adolfas Hitleris Klaipėdoje sakė kalbą vietos vokiečiams iš teatro balkono.
+- susijęs iš [[objektai/ivykiai/Antano Merkio vyriausybės sudarymas (1939 m. lapkritis).md#claim-t-77892|Antano Merkio vyriausybės sudarymas (1939 m. lapkritis)]]: Sudarant Antano Merkio vyriausybę prezidentas galėjo diktuoti jos darbus, todėl opozicijos deleguotas ministras turėjo vykdyti prezidento užduotis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,3 +68,13 @@ Tačiau prezidentas galėjo diktuoti vyriausybės darbus, tad opozicijos Adolfas
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c454526419d0f7526f26a1516fdbb9f489604a0fb4fd138c32bcbb36523f8398; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vokiečiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: SA smogikai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "SA smogikai" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

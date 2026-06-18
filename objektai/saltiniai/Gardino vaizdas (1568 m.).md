@@ -31,12 +31,22 @@ amziai:
   global_id: t-41522
   teiginys: '1568 m. Gardino vaizdo fragmente vaizduojamas Gardinas 1567 m. čia vykusio seimo metu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Gardino vaizdą ir paremtas citata.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_person: [[objektai/asmenys/Mathias Ziindt|Mathias Ziindt]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_event: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_person: [[objektai/asmenys/Mathias Ziindt|Mathias Ziindt]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1564 m.; įvykio data: 1567 m.; įvykio data: 1568 m.; įvykio data: 1572 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Gardino vaizdą ir paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ad08d5ee32d5b2ffcce79e97e8307639ded39ef93e52f6d17b0d4f600148060d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gardino vaizdas (1568 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardino vaizdas (1568 m.)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -60,3 +70,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ad08d5ee32d5b2ffcce79e97e8307639ded39ef93e52f6d17b0d4f600148060d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gardino vaizdas (1568 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardino vaizdas (1568 m.)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -39,9 +39,19 @@ Nenurodyta
   teiginys: 'Prūsai stipria kariuomene apsiautė Štarkenbergo pilį, ją užėmė, išžudė brolius ir gyventojus, o pilį pavertė pelenais.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai paremtas citata apie pilies užėmimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Štarkenbergas'
+  susije_objektai: 'mentioned_place: Štarkenbergas; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 448146-448909; hash=ea56d150fb7fca65ad334037491325ab31e83edef021129fabc336517aefa863; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Štarkenbergas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Štarkenbergo pilies užgrobimas ir įgulos išžudymas (pilis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Štarkenbergas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Štarkenbergo pilies užgrobimas ir įgulos išžudymas (pilis)" parinktas kaip owner_note_path. Targetas "Štarkenbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -64,3 +74,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 448146-448909; hash=ea56d150fb7fca65ad334037491325ab31e83edef021129fabc336517aefa863; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Štarkenbergas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Štarkenbergo pilies užgrobimas ir įgulos išžudymas (pilis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Štarkenbergas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Štarkenbergo pilies užgrobimas ir įgulos išžudymas (pilis)" parinktas kaip owner_note_path. Targetas "Štarkenbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

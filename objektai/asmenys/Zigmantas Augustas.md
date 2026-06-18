@@ -35,8 +35,8 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
   susije_objektai: 'mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Žemaitija'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12874|Lietuvos pinigai]]: Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine.
 - susijęs iš [[objektai/daiktai/Zigmanto Augusto pinigai.md#claim-t-65011|Zigmanto Augusto pinigai]]: Zigmantas Augustas apie 1565 m. Tikocine pradėjo kalti lenkiškos vertės pinigus, bet dėl nepasitenkinimo darbą nutraukė.
+- susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12874|Lietuvos pinigai]]: Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine.
 - susijęs iš [[objektai/grupes/Habsburgai.md#claim-t-181244|Habsburgai]]: Po Barboros Radvilaitės mirties Zigmantas Augustas vedė Habsburgaitę, bet su ja negyveno, o ji išvyko į Vieną.
 - susijęs iš Pasvalys: Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje.
 - susijęs iš Pasvalys: Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje.

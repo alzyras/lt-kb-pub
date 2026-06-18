@@ -33,10 +33,22 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
   temporalinis_llm_pakomentavimas: 'Teiginys pagrįstas, tik sujungtas į vieną sklandų sakinį pagal citatos turinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=92a8c72aa6bde6d4fc6c1e0d997bb8f7141987206195f595391131691c48c13b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Užpelkiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užpelkiai" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Bronius Liesis-Naktis.md#claim-t-39499|Bronius Liesis-Naktis]]: Bronius Liesis-Naktis žuvo 1949 m. rugpjūčio 13 d., kai Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.
-- susijęs iš [[objektai/asmenys/Juozas Paliūnas-Rytas.md#claim-t-40238|Juozas Paliūnas-Rytas]]: Maironio rinktinės vadas Juozas Paliūnas-Rytas per reorganizaciją tapo Prisikėlimo apygardos vado pavaduotoju.
 - susijęs iš [[objektai/asmenys/Laurynas Mingilas-Džiugas.md#claim-t-79101|Laurynas Mingilas-Džiugas]]: Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.
 - susijęs iš [[objektai/asmenys/Laurynas Mingilas-Džiugas.md#claim-t-79102|Laurynas Mingilas-Džiugas]]: Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.
+- susijęs iš [[objektai/ivykiai/Užpelkių kautynės (1949 m.).md#claim-t-10308|Užpelkių kautynės (1949 m.)]]: 1949 m. rugpjūčio 13 d. Užpelkių miške sunaikintas Prisikėlimo apygardos štabas; žuvo LLKS tarybos prezidiumo nariai Petras Bartkus-Žadgaila, Bronius Liesis-Naktis, Vytautas Šniuolis-Svajūnas ir dar trys neatpažinti partizanai.
+- susijęs iš [[objektai/ivykiai/Užpelkių kautynės.md#claim-t-39139|Užpelkių kautynės]]: 1949 m. rugpjūčio 13 d. Radviliškio rajono Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.
+- susijęs iš [[objektai/asmenys/Juozas Paliūnas-Rytas.md#claim-t-40238|Juozas Paliūnas-Rytas]]: Maironio rinktinės vadas Juozas Paliūnas-Rytas per reorganizaciją tapo Prisikėlimo apygardos vado pavaduotoju.
 - susijęs iš [[objektai/asmenys/Petras Bartkus-Žadgaila.md#claim-t-39626|Petras Bartkus-Žadgaila]]: 1949 m. rugpjūčio 13 d. Užpelkių miške žuvo LLKS tarybos prezidiumo narys ir Prisikėlimo apygardos vadas Petras Bartkus-Žadgaila.
 - susijęs iš [[objektai/asmenys/Povilas Morkūnas-Rimantas.md#claim-t-40398|Povilas Morkūnas-Rimantas]]: Povilas Morkūnas-Rimantas per Prisikėlimo apygardos reorganizaciją tapo jos vadu.
 - susijęs iš [[objektai/asmenys/Vytautas Šniuolis-Svajūnas.md#claim-t-39681|Vytautas Šniuolis-Svajūnas]]: 1949 m. rugpjūčio 13 d. Užpelkių miške žuvo Prisikėlimo apygardos štabo viršininkas Vytautas Šniuolis-Svajūnas.
@@ -47,8 +59,6 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
 - susijęs iš [[objektai/grupes/Agentai-smogikai.md#claim-t-40845|Agentai-smogikai]]: MGB-KGB agentai-smogikai atliko svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
 - susijęs iš [[objektai/grupes/Maironio rinktinė.md#claim-t-41085|Maironio rinktinė]]: Prisikėlimo apygardos reorganizacijos metu Maironio rinktinės vadas Juozas Paliūnas-Rytas tapo apygardos vado pavaduotoju.
 - susijęs iš [[objektai/grupes/Prisikėlimo apygarda.md#claim-t-41115|Prisikėlimo apygarda]]: 1949 m. rugpjūčio 13 d. Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.
-- susijęs iš [[objektai/ivykiai/Užpelkių kautynės (1949 m.).md#claim-t-10308|Užpelkių kautynės (1949 m.)]]: 1949 m. rugpjūčio 13 d. Užpelkių miške sunaikintas Prisikėlimo apygardos štabas; žuvo LLKS tarybos prezidiumo nariai Petras Bartkus-Žadgaila, Bronius Liesis-Naktis, Vytautas Šniuolis-Svajūnas ir dar trys neatpažinti partizanai.
-- susijęs iš [[objektai/ivykiai/Užpelkių kautynės.md#claim-t-39139|Užpelkių kautynės]]: 1949 m. rugpjūčio 13 d. Radviliškio rajono Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.
 - susijęs iš LLKS deklaracija (1949 m. vasario 16 d.): Laurynas Mingėlas-Džiugas po = j Užpelkių kautynių buvo sunkiai sužeistas ir apie metus gydėsi Miknių sodyboje įrengtame bunkeryje (tame pačiame, kur buvo pasirašyta 1949 m. vasario 16 d. LLKS Deklaracija).
 - susijęs iš [[objektai/zodynas/agentas-smogikas.md#claim-t-42429|agentas-smogikas]]: MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
 ## Reikšmingi paminėjimai
@@ -76,3 +86,13 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=92a8c72aa6bde6d4fc6c1e0d997bb8f7141987206195f595391131691c48c13b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Užpelkiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užpelkiai" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

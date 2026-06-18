@@ -32,7 +32,7 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
   global_id: t-26547
   teiginys: 'Lietuvius Vokiečių ordino valstybėje ilgainiui pradėta vadinti lietuvininkais, o jų žemes – Prūsų Lietuva arba Mažąja Lietuva.'
   sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina citatoje pateiktą lietuvininkų pavadinimo kilmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1422 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai apibendrina citatoje pateiktą lietuvininkų pavadinimo kilmę.'
@@ -44,7 +44,7 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
   global_id: t-26548
   teiginys: 'Ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos; dalis siekė „laisvojo miesto“ statuso.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir remiasi citatos informacija apie klaipėdiškių lietuvininkų siekius.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Klaipėdiškiai|Klaipėdiškiai]]; mentioned_place: Dancigas; mentioned_place: Gdanskas; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/Klaipėdiškiai|Klaipėdiškiai]]; mentioned_place: Dancigas; mentioned_place: Gdanskas; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 
@@ -56,7 +56,7 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/Klaipėdiškiai|Klaipėdiškiai]]; mentioned_place: Dancigas; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/Klaipėdiškiai|Klaipėdiškiai]]; mentioned_place: Dancigas; mentioned_place: Europa; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/ivykiai/Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.).md#claim-t-20527|Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)]]: Dalis klaipėdiškių lietuvininkų nenorėjo jungtis prie Lietuvos ir siekė laisvojo miesto statuso.

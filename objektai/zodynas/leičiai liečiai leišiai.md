@@ -43,7 +43,7 @@ Vartojamas Lietuvos vardo kilmės, etnonimų ir istorinės kalbotyros kontekste.
 - t-002
   global_id: t-45830
   teiginys: 'Leičių ar liečių vardas siejamas su Lietuvos valdovų valstybės pakraščiuose įkurdintais ištikimais žmonėmis iš Lietuvos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 

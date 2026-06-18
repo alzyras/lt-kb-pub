@@ -36,6 +36,16 @@ Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos gru
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 486390-486821; hash=209a3a32c618ae93794e6c004fdd02ff2816259b297dfebeb20955d28183603c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vytautas Radžvilas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas Radžvilas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Algirdas Kaušpėdas.md#claim-t-26431|Algirdas Kaušpėdas]]: Algirdas Kaušpėdas, LPS iniciatyvinės grupės narys ir grupės „Antis“ lyderis, vadovavo Roko maršams.
 - susijęs iš [[objektai/asmenys/Arvydas Juozaitis.md#claim-t-26433|Arvydas Juozaitis]]: Arvydas Juozaitis Roko maršų koncertuose-mitinguose sakė patriotines kalbas.
 - susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169878|Alfonsas Eidintas]]: Alfonsui Eidintui nurodytos 2013 m. leidimo autorių teisės.
@@ -67,3 +77,13 @@ Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos gru
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 486390-486821; hash=209a3a32c618ae93794e6c004fdd02ff2816259b297dfebeb20955d28183603c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vytautas Radžvilas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytautas Radžvilas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

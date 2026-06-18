@@ -25,6 +25,16 @@ Kurdas buvo sustojęs Mozyriaus krašte prie Okuniovkos upės ir iš ten pasiunt
   susije_objektai: 'mentioned_place: Mozyrius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 147615-148162; hash=2b3e094154ed4c5beb114621b7bc20b8ffd91d4bef0ac9ec4185f778eb32b405; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mozyrius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kurdas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mozyrius: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kurdas" parinktas kaip owner_note_path. Targetas "Mozyrius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus.md#claim-t-186688|Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.)]]: Pasakojimas apie mūšį su chano Kurdo totoriais prie Mozyriaus 1971 m. komentare laikomas galbūt paremtu vietos padavimu.
 - susijęs iš [[objektai/ivykiai/Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus.md#claim-t-186690|Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.)]]: Pasakojimas apie lietuvių ir rusų kunigaikščių mūšį su chano Kurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas.
 ## Reikšmingi paminėjimai
@@ -49,3 +59,13 @@ Kurdas buvo sustojęs Mozyriaus krašte prie Okuniovkos upės ir iš ten pasiunt
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 147615-148162; hash=2b3e094154ed4c5beb114621b7bc20b8ffd91d4bef0ac9ec4185f778eb32b405; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mozyrius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kurdas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mozyrius: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kurdas" parinktas kaip owner_note_path. Targetas "Mozyrius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

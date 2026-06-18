@@ -31,7 +31,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   global_id: t-178310
   teiginys: 'Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie teisių gynimą nuo Rusijos metropolitų.'
   sudarymo_pagrindimas: 'Sakinys pataisytas, kad būtų aiškus faktas apie Turovą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.)|Naugarduko susirinkimas (1415 m.)]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Cholmas; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Rusija; mentioned_event: [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.)|Naugarduko susirinkimas (1415 m.)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Cholmas; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Lietuva; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta taip, kad sakinys tiesiogiai apibūdintų Turovą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_place: Palenkė; mentioned_place: Pinskas; mentioned_place: Polesė'
+  susije_objektai: 'mentioned_place: Pinskas; mentioned_place: Polesė; mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_place: Palenkė'
   pagrindžia:
     - c-002
 
@@ -58,26 +58,36 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Karačevas'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 86949-87186; hash=a9ff60aad04631a645d91059da50a8a2ebc31faa3cee314d229206d899debbdc; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Karačevas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Turovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Karačevas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Turovas" parinktas kaip owner_note_path. Targetas "Karačevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Pinskas: Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.
+- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
+- susijęs iš Turovo evangelija: Turovo evangelija buvo viena iš XI a. surašytų evangelijų, minimų greta Ostromiro evangelijos.
+- susijęs iš Gomelis: Apie 1447 m. Švitrigaila iš Kazimiero gavo Gomelį ir galbūt Turovą.
+- susijęs iš Pinskas: Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais.
+- susijęs iš Sluckas: Per maištą Sluckas ir Minskas nepasidavė, nors Mozyrių ir Turovą sukilėliui pavyko užimti.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176299|Algirdas (Lietuvos valdovas)]]: Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.
 - susijęs iš [[objektai/asmenys/Glebas (Smolensko kunigaikštis).md#claim-t-40124|Glebas (Smolensko kunigaikštis)]]: Smolensko kunigaikštis Glebas buvo priverstas kartu su totoriais dalyvauti antpuolyje prieš Lietuvą.
 - susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93284|Gregorijus Cemblakas]]: Naugarduko susirinkimas paskyrė Gregorijų Cemblaką Kijevo metropolitu.
 - susijęs iš [[objektai/asmenys/Olegas (Romano sūnus).md#claim-t-40378|Olegas (Romano sūnus)]]: Olegas, Briansko kunigaikščio Romano sūnus, buvo priverstas dalyvauti totorių antpuolyje prieš Lietuvą.
 - susijęs iš [[objektai/asmenys/Romanas (Briansko kunigaikštis).md#claim-t-40404|Romanas (Briansko kunigaikštis)]]: Briansko kunigaikštis Romanas buvo priverstas su sūnumi Olegu dalyvauti antpuolyje prieš Lietuvą.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
 - susijęs iš [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.).md#claim-t-34490|Naugarduko susirinkimas (1415 m.)]]: Naugarduko susirinkimas pasiuntė delegaciją dėl kito Kijevo metropolito, tačiau ji nieko nelaimėjo.
 - susijęs iš Ostromiro evangelija: Ostromiro evangelija buvo viena iš XI a. surašytų evangelijų, kurias turėjo Lietuvos valdiniai.
-- susijęs iš Turovo evangelija: Turovo evangelija buvo viena iš XI a. surašytų evangelijų, minimų greta Ostromiro evangelijos.
 - susijęs iš Cholmas: Cholmo stačiatikių vyskupas kartu su kitais vyskupais išleido aplinkraštį dėl savo teisių gynimo nuo Rusijos metropolitų.
-- susijęs iš Gomelis: Apie 1447 m. Švitrigaila iš Kazimiero gavo Gomelį ir galbūt Turovą.
 - susijęs iš Luckas: Lietuvos metraštyje Skirmantas prie Jieseldos upės sumušė Lucko ir Pinsko kunigaikštį Mstislavą, kuris pabėgo į Lucką.
-- susijęs iš Pinskas: Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais.
 - susijęs iš Pinskas: Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.
 - susijęs iš Polesė: Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus.
 - susijęs iš Polockas: Po Voinos mirties Gediminas Polocke pasodino Narimantą, nors Voina buvo palikęs įpėdinių.
 - susijęs iš Polockas: Po Voinos mirties Gediminas Polocke pasodino Narimantą, nors Voina buvo palikęs įpėdinių.
-- susijęs iš Sluckas: Per maištą Sluckas ir Minskas nepasidavė, nors Mozyrių ir Turovą sukilėliui pavyko užimti.
 - susijęs iš Strėva: Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais.
 - susijęs iš Zaslavlis: Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.
 - susijęs iš Černigovas: Černigovo stačiatikių vyskupas dalyvavo susirinkime, kuris paskyrė Cemblaką Kijevo metropolitu.
@@ -130,6 +140,16 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   statusas: verified
   pagrindžia:
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 86949-87186; hash=a9ff60aad04631a645d91059da50a8a2ebc31faa3cee314d229206d899debbdc; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Karačevas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Turovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Karačevas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Turovas" parinktas kaip owner_note_path. Targetas "Karačevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]] valde_teritorija Turovas

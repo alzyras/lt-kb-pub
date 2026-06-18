@@ -35,6 +35,16 @@ Tų anuomet garsių vaišių parengi­ mas ir žygio išlaidos, pasak kai kurių
   temporalinis_llm_pakomentavimas: 'Citata palaiko skaitinį faktą, o OCR klaidos pašalintos.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 288609-289843; hash=9e861dd3ba208dc53f5f18ff95023c12c6cfef7ce6e0ee9f37dd2a4ee8ad986d; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Anglai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: prūsiškos grivenos: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Anglai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "prūsiškos grivenos" parinktas kaip owner_note_path. Targetas "Anglai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -72,3 +82,13 @@ Tų anuomet garsių vaišių parengi­ mas ir žygio išlaidos, pasak kai kurių
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 288609-289843; hash=9e861dd3ba208dc53f5f18ff95023c12c6cfef7ce6e0ee9f37dd2a4ee8ad986d; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Anglai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: prūsiškos grivenos: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Anglai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "prūsiškos grivenos" parinktas kaip owner_note_path. Targetas "Anglai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

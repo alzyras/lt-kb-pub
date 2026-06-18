@@ -28,12 +28,22 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinė formuluotė nėra aiškiai susieta su Livonijos kronika, o citata tiesiogiai jai priskiria kitą žinią.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Polockas; mentioned_place: Žiemgala'
+  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Žiemgala; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Polockas'
   temporaliniai_duomenys: 'įvykio data: 1247 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė nėra aiškiai susieta su Livonijos kronika, o citata tiesiogiai jai priskiria kitą žinią.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 165126-165738; hash=eed9b1262df99e06cf516b8584a78290ef9337ed0c26bf7ef939b99ed1f93c70; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Livonijos kronika: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos kronika" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186295"></a>
 - t-002
@@ -43,9 +53,19 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pagrįstai priskiria informaciją Livonijos metraščiui ir yra gramatiškas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 222075-222523; hash=54155089b400be3583fb01996c89a39721a9941fec554487ed67037304651624; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Livonijos kronika: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos kronika" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -94,4 +114,24 @@ Pasak Livonijos kronikos, Žiemgaloje žemaičius, atėjusius į pagalbą šiam 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 165126-165738; hash=eed9b1262df99e06cf516b8584a78290ef9337ed0c26bf7ef939b99ed1f93c70; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Livonijos kronika: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos kronika" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 222075-222523; hash=54155089b400be3583fb01996c89a39721a9941fec554487ed67037304651624; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Livonijos kronika: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos kronika" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

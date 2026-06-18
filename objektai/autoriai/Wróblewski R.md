@@ -31,6 +31,9 @@ Dusburgietis teigia, kad wróblewski R.
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti sakinį apie autoriaus publikaciją.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 804703-804847; hash=2f17bb8b636303fbcfd7e07757d9d54686fe6f9d9a1ea229f265dbb5714c7b94; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -45,3 +48,6 @@ Dusburgietis teigia, kad wróblewski R.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 804703-804847; hash=2f17bb8b636303fbcfd7e07757d9d54686fe6f9d9a1ea229f265dbb5714c7b94; match=exact
+  sprendimo_priezastis: auto

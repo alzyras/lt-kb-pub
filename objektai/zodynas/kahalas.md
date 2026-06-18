@@ -33,29 +33,49 @@ amziai:
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Juraha|Juraha]]; mentioned_person: [[objektai/asmenys/Mauricijus|Mauricijus]]; mentioned_person: [[objektai/asmenys/Uršulė|Uršulė]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7cdc7ef5baccf0383209616aad23466fd9885ed767161e5ed4bd1f01a5e7d9e7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Valerijonas (raštininkas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kahalas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Valerijonas (raštininkas): mention_match, person, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kahalas" parinktas kaip owner_note_path. Targetas "Valerijonas (raštininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86530"></a>
 - t-002
   global_id: t-86530
   teiginys: 'Vilniaus kahalas iki 1763 m. nuo 5500 auksinų sumos Valerijono konvikto gyventojams mokėjo 8 procentus.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje pateiktą sumą, laiką ir procentus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Laurynas Volskis|Laurynas Volskis]]; mentioned_person: [[objektai/asmenys/Stanislovas Goreckis|Stanislovas Goreckis]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Laurynas Volskis|Laurynas Volskis]]; mentioned_person: [[objektai/asmenys/Stanislovas Goreckis|Stanislovas Goreckis]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: iki 1763 m.; įvykio data: 1763 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje pateiktą sumą, laiką ir procentus.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Laurynas Volskis.md#claim-t-87442|Laurynas Volskis]]: Vilniaus kanauninkas Laurynas Volskis prisidėjo 250 auksinų prie sumos, kuri išaugo iki 4000 auksinų.
-- susijęs iš [[objektai/asmenys/Marcelis Suchodolskis.md#claim-t-87772|Marcelis Suchodolskis]]: Vilniaus kanauninkas Marcelis Suchodolskis prie fundacijos sumos prisidėjo 500 auksinų.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=270588d63337abc2f4a4dea80cf417f7fca1999dbbb017d2a6a5f8b03693b134; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Juraha: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kahalas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Juraha: mention_match, person, gap=76
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kahalas" parinktas kaip owner_note_path. Targetas "Juraha" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Pilypas Frizijus.md#claim-t-87562|Pilypas Frizijus]]: 1631 m. kunigas Pilypas Frizijus prie Vilniaus kapitulos 4000 auksinų pridėjo 1500 savų ir 5500 auksinų perdavė Vilniaus kahalo žydams.
-- susijęs iš [[objektai/asmenys/Stanislovas Goreckis.md#claim-t-87579|Stanislovas Goreckis]]: Vilniaus kanauninkas Stanislovas Goreckis prie fundacijos sumos prisidėjo 2500 auksinų.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176089|Vilniaus kapitula]]: 1631 m. Vilniaus kapitula kunigui Pilypui Frizijui davė 4000 auksinų.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176098|Vilniaus kapitula]]: 1631 m. Vilniaus kapitula 4000 auksinų perdavė kunigui Pilypui Frizijui, o šis padidintą sumą atidavė Vilniaus kahalui.
 - susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-55106|Vilniaus žydų kahalas]]: Vilniaus kahalo žydams buvo perduota 5 500 auksinų suma.
 - susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-55107|Vilniaus žydų kahalas]]: Vilniaus kahalas iki 1763 m. Valerijono konvikto gyventojams mokėjo 8 procentus, o nuo 1763 m. - 3 procentus.
 - susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-55108|Vilniaus žydų kahalas]]: Kahalas mokėjo procentus nuo jame investuotų sumų įpareigotų pamaldų reikmėms.
 - susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-81750|Vilniaus žydų kahalas]]: Tėvas Juraha viderkafto mokestį priskyrė kahale investuotoms sumoms, nuo kurių kahalas mokėjo procentus įpareigotoms pamaldoms.
 - susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-81751|Vilniaus žydų kahalas]]: 1631 m. Vilniaus kahalo žydams buvo perduota 5500 auksinų suma, nuo kurios kahalas iki 1763 m. mokėjo 8 procentus Valerijono konvikto gyventojams.
+- susijęs iš [[objektai/asmenys/Laurynas Volskis.md#claim-t-87442|Laurynas Volskis]]: Vilniaus kanauninkas Laurynas Volskis prisidėjo 250 auksinų prie sumos, kuri išaugo iki 4000 auksinų.
+- susijęs iš [[objektai/asmenys/Marcelis Suchodolskis.md#claim-t-87772|Marcelis Suchodolskis]]: Vilniaus kanauninkas Marcelis Suchodolskis prie fundacijos sumos prisidėjo 500 auksinų.
+- susijęs iš [[objektai/asmenys/Stanislovas Goreckis.md#claim-t-87579|Stanislovas Goreckis]]: Vilniaus kanauninkas Stanislovas Goreckis prie fundacijos sumos prisidėjo 2500 auksinų.
+- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176089|Vilniaus kapitula]]: 1631 m. Vilniaus kapitula kunigui Pilypui Frizijui davė 4000 auksinų.
 - susijęs iš [[objektai/paprociai/Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios.md#claim-t-87264|Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios]]: 1579 m. Valerijonas Protasevičius Akademijai užrašė tris mūrinius namus, kad keli neturtingi studentai gautų maistą ir melstųsi už fundatorių.
 ## Reikšmingi paminėjimai
 
@@ -109,4 +129,24 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7cdc7ef5baccf0383209616aad23466fd9885ed767161e5ed4bd1f01a5e7d9e7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Valerijonas (raštininkas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kahalas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Valerijonas (raštininkas): mention_match, person, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kahalas" parinktas kaip owner_note_path. Targetas "Valerijonas (raštininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=270588d63337abc2f4a4dea80cf417f7fca1999dbbb017d2a6a5f8b03693b134; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Juraha: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kahalas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Juraha: mention_match, person, gap=76
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kahalas" parinktas kaip owner_note_path. Targetas "Juraha" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

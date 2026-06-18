@@ -23,6 +23,9 @@ Buvo net svarbesnių javų (pav., linų) globėjų, lauksargių, kaukų, aitvar�
   sudarymo_pagrindimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 83304-83451; hash=ef0a46957d3f7f9440d523b15c377c3a4fd532b60df0fbe44c2d202add8541ca; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -38,3 +41,6 @@ Buvo net svarbesnių javų (pav., linų) globėjų, lauksargių, kaukų, aitvar�
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 83304-83451; hash=ef0a46957d3f7f9440d523b15c377c3a4fd532b60df0fbe44c2d202add8541ca; match=exact
+  sprendimo_priezastis: auto

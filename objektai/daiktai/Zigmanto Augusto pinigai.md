@@ -51,21 +51,41 @@ Nenurodyta
 - t-001
   global_id: t-65011
   teiginys: 'Zigmantas Augustas apie 1565 m. Tikocine pradėjo kalti lenkiškos vertės pinigus, bet dėl nepasitenkinimo darbą nutraukė.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lietuvos pinigai|Lietuvos pinigai]]; mentioned_person: [[objektai/asmenys/Zigmantas Augustas|Zigmantas Augustas]]; mentioned_place: Ispanija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Tikocinas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lietuvos pinigai|Lietuvos pinigai]]; mentioned_person: [[objektai/asmenys/Zigmantas Augustas|Zigmantas Augustas]]; mentioned_place: Tikocinas; mentioned_place: Ispanija; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1564 m.; įvykio data: 1565 m.; įvykio data: apie 1565 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1339921-1340323; hash=5d5ebfbf4d675b5de4c752019ba374460c9730c5b08409695df59d23d640b8a1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Augustas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zigmanto Augusto pinigai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmanto Augusto pinigai" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-65013"></a>
 - t-002
   global_id: t-65013
   teiginys: 'Visuose Zigmanto Augusto piniguose buvo įrašas „Moneta magni ducatus Lithuaniae“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1555 m.; įvykio data: 1562 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1340372-1341015; hash=1dfbed3c4b1dae58fed7cf9518b0731c5257a453b4b38047eb1c912470609043; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuvos pinigai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zigmanto Augusto pinigai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuvos pinigai: mention_match, thing, gap=72
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmanto Augusto pinigai" parinktas kaip owner_note_path. Targetas "Lietuvos pinigai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -100,4 +120,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1339921-1340323; hash=5d5ebfbf4d675b5de4c752019ba374460c9730c5b08409695df59d23d640b8a1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Augustas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zigmanto Augusto pinigai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmanto Augusto pinigai" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1340372-1341015; hash=1dfbed3c4b1dae58fed7cf9518b0731c5257a453b4b38047eb1c912470609043; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuvos pinigai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zigmanto Augusto pinigai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuvos pinigai: mention_match, thing, gap=72
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmanto Augusto pinigai" parinktas kaip owner_note_path. Targetas "Lietuvos pinigai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

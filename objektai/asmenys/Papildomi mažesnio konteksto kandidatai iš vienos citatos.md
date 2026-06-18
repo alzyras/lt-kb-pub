@@ -21,9 +21,19 @@ Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyz
 - t-001
   global_id: t-87924
   teiginys: 'Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyzdžiu kitiems?'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 21529-22156; hash=0b799603e989cff86f468db548f150c99188b7e1908a2def3aaf662bb4abfe06; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Papildomi mažesnio konteksto kandidatai iš vienos citatos: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Papildomi mažesnio konteksto kandidatai iš vienos citatos" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -50,3 +60,13 @@ Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyz
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 21529-22156; hash=0b799603e989cff86f468db548f150c99188b7e1908a2def3aaf662bb4abfe06; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Papildomi mažesnio konteksto kandidatai iš vienos citatos: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Papildomi mažesnio konteksto kandidatai iš vienos citatos" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

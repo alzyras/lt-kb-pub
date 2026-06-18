@@ -23,9 +23,20 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
   global_id: t-39979
   teiginys: 'A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie A. N. Trubeckojaus kariuomenės veiksmus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/V. B. Seremetjevas|V. B. Seremetjevas]]; mentioned_place: Gomelis; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Mstislavlis; mentioned_place: Polockas; mentioned_place: Švedija'
+  susije_objektai: 'territory: Mstislavlis; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Mstislavlis; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/V. B. Seremetjevas|V. B. Seremetjevas]]; mentioned_place: Gomelis; mentioned_place: Lenkija; mentioned_place: Polockas; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/asmenys/A. N. Trubeckojus|A. N. Trubeckojus]] užėmė Mstislavlis'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=de835ad7481a1379f4ee3c003b7a9011ce2d1a381e3310b6d214686d6a99f6da; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzeme -> Mstislavlis: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: A. N. Trubeckojus: owner_note_path, person, gap=58
+  ryšio_targeto_parinkimas: Mstislavlis: nearest_after_predicate, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "A. N. Trubeckojus" parinktas kaip owner_note_path. Targetas "Mstislavlis" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
 
 ## Reikšmingi paminėjimai
 
@@ -58,3 +69,16 @@ Trubeckojaus kariuomenė (apie 15000 karių) užėmė Mstislavlį (liepos 22 d. 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=de835ad7481a1379f4ee3c003b7a9011ce2d1a381e3310b6d214686d6a99f6da; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzeme -> Mstislavlis: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: A. N. Trubeckojus: owner_note_path, person, gap=58
+  ryšio_targeto_parinkimas: Mstislavlis: nearest_after_predicate, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "A. N. Trubeckojus" parinktas kaip owner_note_path. Targetas "Mstislavlis" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+
+## Ryšiai
+- A. N. Trubeckojus uzeme [[objektai/vietos/Mstislavlis]]

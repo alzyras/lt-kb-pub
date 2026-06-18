@@ -31,12 +31,22 @@ Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 130
   global_id: t-60298
   teiginys: '1302 m. brolis Gundramas persekiojo prie Kristburgo plėšikavusius lietuvius, kovėsi po sunkaus sužeidimo ir po kovos mirė.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs ir triukšmingas; citata palaiko aiškų faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Kristburgas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]'
   temporaliniai_duomenys: 'įvykio data: 1302 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nutrūkęs ir triukšmingas; citata palaiko aiškų faktinį sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 608615-609416; hash=053bb09ddd9200a38a13b4258a8bb2323921ccf4ba51abcc37a902cab7da8c07; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kristburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gundramas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kristburgas: mention_match, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gundramas" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184075"></a>
 - t-002
@@ -46,17 +56,27 @@ Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 130
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Kristburgas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]'
   temporaliniai_duomenys: 'įvykio data: 1302 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 608615-609416; hash=053bb09ddd9200a38a13b4258a8bb2323921ccf4ba51abcc37a902cab7da8c07; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kristburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gundramas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kristburgas: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gundramas" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.).md#claim-t-62753|Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)]]: 1302 m. brolis Gundramas prie Kristburgo persekiojo lietuvių plėšikautojus, buvo mirtinai sužeistas ir žuvo išžudžius lietuvius.
 - susijęs iš [[objektai/ivykiai/Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.).md#claim-t-62754|Brolio Gundramo ir daugelio lietuvių žūtis prie Kristburgo (1302 m.)]]: Dusburgietis pasakoja, kad Gundramo išvaduotos moterys virš į Kristburgą gabentų jo palaikų sakėsi mačiusios du baltus balandžius.
+- susijęs iš [[objektai/zodynas/dykra.md#claim-t-89546|dykra]]: Dykrose brolis Gundramas su 9 ginklanešiais užpuolė iš Lietuvos atvykusius plėšikautojus.
 - susijęs iš Kristburgas: Gundramo išvaduotos moterys sakė mačiusios du baltus balandžius virš jo palaikų, gabenamų į Kristburgo pilį.
 - susijęs iš Kristburgas: 1302 m. brolis Gundramas persekiojo lietuvių plėšikautojus, kurie Kristburgo pilies apylinkėse pagrobė 10 žmonių ir 10 arklių.
-- susijęs iš [[objektai/zodynas/dykra.md#claim-t-89546|dykra]]: Dykrose brolis Gundramas su 9 ginklanešiais užpuolė iš Lietuvos atvykusius plėšikautojus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -83,4 +103,24 @@ Dusburgietis teigia, kad apie brolio Gundramo bei daugelio lietuvių žūtį 130
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 608615-609416; hash=053bb09ddd9200a38a13b4258a8bb2323921ccf4ba51abcc37a902cab7da8c07; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kristburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gundramas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kristburgas: mention_match, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gundramas" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 608615-609416; hash=053bb09ddd9200a38a13b4258a8bb2323921ccf4ba51abcc37a902cab7da8c07; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kristburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gundramas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kristburgas: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gundramas" parinktas kaip owner_note_path. Targetas "Kristburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

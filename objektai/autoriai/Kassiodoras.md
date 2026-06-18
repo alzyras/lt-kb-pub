@@ -26,18 +26,38 @@ Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras (Cassiodorus, a. P
   susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b6f3d18f58fcf1cda2701d150d7d8a9397496b943c4ae9dde49d838144023f94; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aisčiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kassiodoras: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Aisčiai: mention_match, group, gap=109
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kassiodoras" parinktas kaip owner_note_path. Targetas "Aisčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-30756"></a>
 - t-002
   global_id: t-30756
   teiginys: 'Kassiodoro vėliau dingusi gotų istorija buvo Jordaneso 551 m. parengtos santraukos pagrindas.'
   sudarymo_pagrindimas: 'Pradinis teiginys daugiausia kalba apie Jordanesą, todėl perrašyta sutelkiant faktą į Kassiodorą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_place: Vysla'
   temporaliniai_duomenys: 'įvykio data: 375 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys daugiausia kalba apie Jordanesą, todėl perrašyta sutelkiant faktą į Kassiodorą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d8811967fb925a1dd9418da9d240f2618cb79fa608204c27200d3cb9e77156d0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gotai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kassiodoras: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Gotai: mention_match, group, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kassiodoras" parinktas kaip owner_note_path. Targetas "Gotai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Jordanes.md#claim-t-30717|Jordanes]]: Jordanes 551 m. veikale „De origine actibusque Getharum“ Aesti minėjo kaip taikingą tautą, gyvenusią ilgame pajūrio ruože į rytus.
 - susijęs iš [[objektai/grupes/Vidivarii.md#claim-t-31369|Vidivarii]]: Vidivarii gyveno prie Vyslos, o Jordanes Aesti lokalizavo į rytus nuo jų.
 - susijęs iš [[objektai/posakiai/pacatum hominum genus omnino.md#claim-t-31565|pacatum hominum genus omnino]]: Jordanes 551 m. Aesti apibūdino kaip visiškai taikingą tautą („pacatum hominum genus omnino“), gyvenusią ilgame rytiniame pajūrio ruože.
@@ -75,4 +95,24 @@ Ostgotų karaliaus Teodoriko aukštas valdininkas Kassiodoras (Cassiodorus, a. P
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d8811967fb925a1dd9418da9d240f2618cb79fa608204c27200d3cb9e77156d0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gotai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kassiodoras: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Gotai: mention_match, group, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kassiodoras" parinktas kaip owner_note_path. Targetas "Gotai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b6f3d18f58fcf1cda2701d150d7d8a9397496b943c4ae9dde49d838144023f94; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aisčiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kassiodoras: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Aisčiai: mention_match, group, gap=109
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kassiodoras" parinktas kaip owner_note_path. Targetas "Aisčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

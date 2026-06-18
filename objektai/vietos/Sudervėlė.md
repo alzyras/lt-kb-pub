@@ -27,10 +27,20 @@ To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuoči
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalvė|Kalvė]]; mentioned_place: Kaimas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 136000-136491; hash=b4d67789c4019a66e582586871b0028d534a0a70a0d04d4494cd0adfefbbf829; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sudervėlė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sudervėlė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172931|M. Strijkovskis Stryjkowski]]: Strijkovskis užsiminė apie mūšį, po kurio prie Sudervėlės upelio liko lietuvių sumuštų kryžiuočių kapavietė.
 - susijęs iš [[objektai/autoriai/Stryjkowski Strijkovskis.md#claim-t-88008|Stryjkowski Strijkovskis]]: Strijkovskis užsiminė apie mūšį prie Sudervėlės upelio, siejamą su lietuvių sumuštų kryžiuočių kapaviete.
-- susijęs iš [[objektai/daiktai/Pilaitės malūnas, kalvė ir lentpjūvė.md#claim-t-87089|Pilaitės malūnas, kalvė ir lentpjūvė]]: XVI a. pradžioje Pilaitės kaime veikė malūnas, kalvė ir lentpjūvė.
 - susijęs iš [[objektai/daiktai/Pilaitės pilkapis prie Sudervėlės.md#claim-t-87090|Pilaitės pilkapis prie Sudervėlės]]: Pilaitės dvaro lankose prie Sudervėlės upelio dunksojo pilkapis, laikytas lietuvių sumuštų kryžiuočių kapaviete.
+- susijęs iš [[objektai/daiktai/Pilaitės malūnas, kalvė ir lentpjūvė.md#claim-t-87089|Pilaitės malūnas, kalvė ir lentpjūvė]]: XVI a. pradžioje Pilaitės kaime veikė malūnas, kalvė ir lentpjūvė.
 - susijęs iš [[objektai/grupes/Glebavičių giminė.md#claim-t-86793|Glebavičių giminė]]: Pilaitės kunigaikščių pilis po Viršilų giminės perėjo Glebavičių paveldui.
 - susijęs iš [[objektai/grupes/Lietuvos jėzuitų kolegijos.md#claim-t-81463|Lietuvos jėzuitų kolegijos]]: Pilaitė po Glebavičių tapo jėzuitų nuosavybe, o vėliau atiteko Vilniaus universitetui.
 - susijęs iš [[objektai/grupes/Viršilų giminė.md#claim-t-86832|Viršilų giminė]]: Pilaitėje buvusi kunigaikščių pilis vėliau buvo dovanota Viršilų giminei.
@@ -54,3 +64,13 @@ To dvaro lankose iki šiol dunkso pilkapis, arba lietuvių sumuštų kryžiuoči
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 136000-136491; hash=b4d67789c4019a66e582586871b0028d534a0a70a0d04d4494cd0adfefbbf829; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sudervėlė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sudervėlė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

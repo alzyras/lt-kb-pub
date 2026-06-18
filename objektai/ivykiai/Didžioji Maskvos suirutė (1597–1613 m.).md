@@ -42,6 +42,9 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 637746-638191; hash=a849dc4c54ddd948a389f3c2b1d9cd1c889198eefb39ff81144e7951e2924d60; match=exact
+  sprendimo_priezastis: auto
 <a id="claim-t-66517"></a>
 - t-002
   global_id: t-66517
@@ -50,6 +53,9 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=44a1f93c0d3c86c851f119f6f4d5cb7e8b4866c370024a645daa2336cfdbfb82; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 <a id="claim-t-66518"></a>
 - t-003
   global_id: t-66518
@@ -58,6 +64,9 @@ Nenurodyta
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=639be94cf6ba095a8b49eca251b92e7c0ef377b2927be40f6c31529478f6fbcd; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -94,6 +103,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 637746-638191; hash=a849dc4c54ddd948a389f3c2b1d9cd1c889198eefb39ff81144e7951e2924d60; match=exact
+  sprendimo_priezastis: auto
     - t-002
 - c-003
   santrauka: 'Vasylių Šuiskį paskelbus caru, Maskvoje ramybė neįsigalėjo: krašte prasidėjo nauji sukilimai ir atsirado antras apsimetėlis Dimitrijas.'
@@ -109,4 +121,10 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=44a1f93c0d3c86c851f119f6f4d5cb7e8b4866c370024a645daa2336cfdbfb82; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=639be94cf6ba095a8b49eca251b92e7c0ef377b2927be40f6c31529478f6fbcd; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

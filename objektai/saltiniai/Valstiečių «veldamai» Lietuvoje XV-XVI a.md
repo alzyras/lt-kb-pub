@@ -27,12 +27,22 @@ amziai:
   global_id: t-31959
   teiginys: '„Valstiečiai «veldamai» Lietuvoje XV-XVI a.“ išspausdintas AkMD 4 tome 1958 m., p. 113-126.'
   sudarymo_pagrindimas: 'Citata palaiko tik bibliografinį faktą apie studijos publikavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]'
   temporaliniai_duomenys: 'įvykio data: 1958 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko tik bibliografinį faktą apie studijos publikavimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c5e62bfdd6db057a433be2fa308fa5dc980938abbb2fe46fd49b8e584f4c3b14; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valstiečių «veldamai» Lietuvoje XV-XVI a: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valstiečių «veldamai» Lietuvoje XV-XVI a" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -56,3 +66,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c5e62bfdd6db057a433be2fa308fa5dc980938abbb2fe46fd49b8e584f4c3b14; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valstiečių «veldamai» Lietuvoje XV-XVI a: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valstiečių «veldamai» Lietuvoje XV-XVI a" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

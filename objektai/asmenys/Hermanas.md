@@ -24,6 +24,16 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
   susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9aa42be083ecfae1fe2a60e93664fbd8a0238759c7c7291e85f5e1a213f93083; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Hermanas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-183740"></a>
 - t-002
@@ -36,8 +46,17 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Ditrichas iš Bernheimo.md#claim-t-59908|Ditrichas iš Bernheimo]]: Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją.
-- susijęs iš [[objektai/asmenys/Henrikas iš Hohenlohės.md#claim-t-59970|Henrikas iš Hohenlohės]]: Henrikas iš Hohenlohės buvo Ordino magistras 1244–1249 metais.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 204833-205288; hash=dc5c5536dd6b11f5c834278eec266289455ae13993ec37f123b867e607e79486; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Hermanas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas.md#claim-t-66560|Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]: Henriko Stangės brolis Hermanas stojo į kovą ir kartu su komtūru žuvo po ilgos gynybos.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60030|Hermanas (Ordino magistras)]]: Magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą.
 - susijęs iš [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė).md#claim-t-60323|Hermanas (Petro iš Rozenbergo dėdė)]]: 1324 m. Petras iš Rozenbergo ir jo dėdė Hermanas su daugybe riterių bei ginklanešių atvyko į Prūsiją.
@@ -54,6 +73,12 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89834|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: 1243 m. popiežius Inocentas IV iš Hermano iš Zalcos pareiškimų sužinojo apie Prūsijos krikščionių nuostolius dėl Sventopelko.
 - susijęs iš [[objektai/asmenys/Hermanas iš Šenenbergo.md#claim-t-60327|Hermanas iš Šenenbergo (karvedys, XIII a.)]]: Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais.
 - susijęs iš [[objektai/asmenys/Hermanas ton Senenbergas.md#claim-t-186210|Hermanas ton Senenbergas]]: Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuolikus ir vėliau sumušė priešą.
+- susijęs iš [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas.md#claim-t-66560|Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]: Henriko Stangės brolis Hermanas stojo į kovą ir kartu su komtūru žuvo po ilgos gynybos.
+- susijęs iš [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės.md#claim-t-91906|Krikščionių pergalingas mūšis prie Zirgūnos upės]]: Prie Zirgūnos upės Hermano vadovaujami krikščionys sumušė prūsų kariuomenę, o mūšyje krito daugiau nei penki tūkstančiai prūsų.
+- susijęs iš [[objektai/ivykiai/Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį.md#claim-t-62959|Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)]]: Imperatorius Fridrichas II perdavė Hermanui didelę Šventojo Kryžiaus relikvijos dalį, o Hermanas ją išsiuntė į Elbingo pilį.
+- susijęs iš [[objektai/posakiai/Hermanai, aš tave kviečiu į savo sūnaus puotą.md#claim-t-59096|Hermanai, aš tave kviečiu į savo sūnaus puotą]]: Broliui Hermanui, vadinamam Saracėnu, prieš žygį į Kuršą pasirodžiusi Mergelė Marija pakvietė jį į savo sūnaus puotą.
+- susijęs iš [[objektai/asmenys/Ditrichas iš Bernheimo.md#claim-t-59908|Ditrichas iš Bernheimo]]: Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją.
+- susijęs iš [[objektai/asmenys/Henrikas iš Hohenlohės.md#claim-t-59970|Henrikas iš Hohenlohės]]: Henrikas iš Hohenlohės buvo Ordino magistras 1244–1249 metais.
 - susijęs iš [[objektai/asmenys/Inocentas IV.md#claim-t-60333|Inocentas IV]]: 1243 m. popiežius Inocentas IV pasiuntė Vilhelmą į Prūsiją padalyti žemės į keturias vyskupystes ir sutvarkyti taisytinus dalykus.
 - susijęs iš [[objektai/asmenys/Jeronimas.md#claim-t-60150|Jeronimas]]: Jeronimas ragino dėl kryžiaus karo atsisakyti net šeimos kliūčių ir pulti prie kryžiaus karo vėliavos.
 - susijęs iš [[objektai/asmenys/Jonas.md#claim-t-60338|Jonas]]: 1324 m. grafas Jonas iš Španheimo atvyko į Prūsiją, bet dėl plono ledo nesiėmė veiksmų prieš tikėjimo priešus.
@@ -65,14 +90,10 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178942|Kryžiuočių ordinas]]: Prūsams buvo sunkiau gintis nuo Kryžiuočių ordino, nes jie neturėjo vieningos valstybės ir negalėjo sutartinai priešintis.
 - susijęs iš [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas.md#claim-t-62752|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]: Prūsams sunaikinus Brandenburgo pilį, Brandenburgo markgrafas toje pačioje vietoje pastatydino kitą pilį tuo pačiu vardu.
 - susijęs iš [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas.md#claim-t-66552|Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]: Glapo valdinys Steinavas išdavė Karaliaučiaus komtūrui Glapo planą pulti pilį Sembos žemėje prie Gėlavandenių marių.
-- susijęs iš [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas.md#claim-t-66560|Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]: Henriko Stangės brolis Hermanas stojo į kovą ir kartu su komtūru žuvo po ilgos gynybos.
-- susijęs iš [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės.md#claim-t-91906|Krikščionių pergalingas mūšis prie Zirgūnos upės]]: Prie Zirgūnos upės Hermano vadovaujami krikščionys sumušė prūsų kariuomenę, o mūšyje krito daugiau nei penki tūkstančiai prūsų.
 - susijęs iš [[objektai/ivykiai/Kulmo pilies ir miesto įkūrimas (1232 m.).md#claim-t-66650|Kulmo pilies ir miesto įkūrimas (1232 m.)]]: 1232 m. magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, pastatė Kulmo pilį ir miestą senosios pilies vietoje.
 - susijęs iš [[objektai/ivykiai/Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę.md#claim-t-183970|Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę]]: Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį apžiūrėti Kulmo žemės ir patikrinti pasiuntinių valios.
 - susijęs iš [[objektai/ivykiai/Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę.md#claim-t-62937|Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę]]: Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį apžiūrėti Kulmo žemės ir patikrinti pasiuntinių valios.
-- susijęs iš [[objektai/ivykiai/Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį.md#claim-t-62959|Šventojo kryžiaus relikvijos perdavimas Hermanui ir jos išsiuntimas į Elbingo pilį (pilis)]]: Imperatorius Fridrichas II perdavė Hermanui didelę Šventojo Kryžiaus relikvijos dalį, o Hermanas ją išsiuntė į Elbingo pilį.
 - susijęs iš [[objektai/paprociai/Visuotinis mokesčių uždėjimas pagal turto pajėgumą.md#claim-t-87290|Visuotinis mokesčių uždėjimas pagal turto pajėgumą]]: Vytautas visame krašte uždėjo didžiulius mokesčius bajorams, miestiečiams ir prastuomenei pagal kiekvieno turto pajėgumą.
-- susijęs iš [[objektai/posakiai/Hermanai, aš tave kviečiu į savo sūnaus puotą.md#claim-t-59096|Hermanai, aš tave kviečiu į savo sūnaus puotą]]: Broliui Hermanui, vadinamam Saracėnu, prieš žygį į Kuršą pasirodžiusi Mergelė Marija pakvietė jį į savo sūnaus puotą.
 - susijęs iš Pasakojimas apie Teutonų ordino pradžią: „Pasakojime apie Vokiečių ordino pradžią“ nurodoma, kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę.
 - susijęs iš Barleta: Didysis magistras Hermanas iš Zalcos mirė Salerne, o buvo palaidotas Ordino koplyčioje Barletos mieste.
 - susijęs iš Kulmo žemė: Magistras Hermanas pasiuntė Konradą iš Landsbergo ir dar vieną brolį apžiūrėti Kulmo žemės.
@@ -119,4 +140,27 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9aa42be083ecfae1fe2a60e93664fbd8a0238759c7c7291e85f5e1a213f93083; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Hermanas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 204833-205288; hash=dc5c5536dd6b11f5c834278eec266289455ae13993ec37f123b867e607e79486; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Hermanas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] buvo_brolis Hermanas

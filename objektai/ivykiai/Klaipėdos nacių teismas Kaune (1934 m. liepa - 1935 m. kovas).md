@@ -52,6 +52,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Išplėstas vardas ir pašalintas neaiškus sutrumpinimas.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e1c265355b423a6bacb046a380c589f04128cc7f3cefb89c88542b198ed73319; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-75115"></a>
 - t-002
@@ -64,6 +74,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatą.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=97d63057f12ce69dfc992051e0c9732108390314718a1bb9455b97c0f69b57dd; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-75116"></a>
 - t-003
@@ -73,10 +93,10 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77981|A. Smetona]]: A. Smetona hitlerininkams skirtą mirties bausmę pakeitė kalėjimu iki gyvos galvos, o 1937 m. juos amnestavo.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75721|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona 1793–1795 m. LDK padėtį apibūdino kaip laiką, kai ji liovėsi būti valstybe.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75725|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona netrukus pakeitė Klaipėdos nacių teismo skirtą mirties bausmę kalėjimu iki gyvos galvos, o 1937 m. amnestavo kaltinamuosius.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75751|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Prezidentas Antanas Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.
+- susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77981|A. Smetona]]: A. Smetona hitlerininkams skirtą mirties bausmę pakeitė kalėjimu iki gyvos galvos, o 1937 m. juos amnestavo.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75721|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona 1793–1795 m. LDK padėtį apibūdino kaip laiką, kai ji liovėsi būti valstybe.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -132,4 +152,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e1c265355b423a6bacb046a380c589f04128cc7f3cefb89c88542b198ed73319; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=97d63057f12ce69dfc992051e0c9732108390314718a1bb9455b97c0f69b57dd; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

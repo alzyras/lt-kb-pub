@@ -59,7 +59,7 @@ Nenurodyta
 - t-002
   global_id: t-67018
   teiginys: 'Tų pačių įvykių fone ordinas 1409.VIII.6 buvo priverstas skelbti karą Lenkijai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-003
 
@@ -68,7 +68,7 @@ Nenurodyta
   global_id: t-67019
   teiginys: '1409 m. pradžioje Ordinas uždarė Žemaičių sieną su Lietuva ir uždraudė ten pardavinėti arklius, galvijus ir medų.'
   sudarymo_pagrindimas: 'Teiginys pataisytas į sklandesnę bendrinę lietuvių kalbą, išlaikant citatos faktus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   temporaliniai_duomenys: 'įvykio data: 1409 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pataisytas į sklandesnę bendrinę lietuvių kalbą, išlaikant citatos faktus.'
@@ -80,9 +80,19 @@ Nenurodyta
   global_id: t-67022
   teiginys: 'Kai sukilimas apėmė visą Žemaičių kraštą, ordino vietininkas pasitraukė į Prūsus ir sudegino Dubysos pilį.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako sukilimo mastą ir Ordino vietininko pasitraukimą, paremtą citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Dubysa; mentioned_place: Klaipėda; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Dubysa; mentioned_place: Prūsai; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Klaipėda; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9c7066e7969607e27c1632b6450140092cfbeaa4f281b5bae46c65710a45b3bc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičių sukilimas 1409 m: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių sukilimas 1409 m" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -139,3 +149,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9c7066e7969607e27c1632b6450140092cfbeaa4f281b5bae46c65710a45b3bc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičių sukilimas 1409 m: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių sukilimas 1409 m" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

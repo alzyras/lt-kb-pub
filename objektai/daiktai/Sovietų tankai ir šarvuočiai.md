@@ -57,34 +57,64 @@ Nenurodyta
   global_id: t-13461
   teiginys: 'Naktį iš 1991 m. sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie šarvuočius.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva; mentioned_place: Mažeikiai; mentioned_place: SSRS; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva; mentioned_place: Mažeikiai; mentioned_place: SSRS; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie šarvuočius.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ce8b0256b7713eb1ee5b8607a22a70a1d949532c82521c5a8422fce5f166d9b7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Šarvuočiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sovietų tankai ir šarvuočiai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Šarvuočiai: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų tankai ir šarvuočiai" parinktas kaip owner_note_path. Targetas "Šarvuočiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-13462"></a>
 - t-002
   global_id: t-13462
   teiginys: 'Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą.'
   sudarymo_pagrindimas: 'Teiginys yra tikslus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=23665138b2e95ee3f87b1f177ebad774e179c6e3b310d2911fd076d7820cc034; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sovietų tankai ir šarvuočiai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=61
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų tankai ir šarvuočiai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-13463"></a>
 - t-003
   global_id: t-13463
   teiginys: 'Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą ir Lietuvos radijo bei televizijos komiteto pastatą.'
   sudarymo_pagrindimas: 'Pridėtas citatoje esantis laiko patikslinimas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_place: Viena'
   temporaliniai_duomenys: 'pastatymo data: 1967 m.; pastatymo data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pridėtas citatoje esantis laiko patikslinimas.'
   pagrindžia:
     - c-001
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e3d6eada5f22bb6b59853bf0dc3b9587da474f7b8f198b4a7f27da7e5b408e28; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sovietų tankai ir šarvuočiai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų tankai ir šarvuočiai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Loreta Asanavičiūtė.md#claim-t-19113|Loreta Asanavičiūtė]]: Loreta Asanavičiūtė žuvo 1991 m. sausio 13-ąją per sovietų kariuomenės televizijos bokšto šturmą, patekusi po tanko vikšrais ir mirusi ligoninėje.
 - susijęs iš [[objektai/daiktai/Sausio 13-osios gynybinės barikados.md#claim-t-23302|Sausio 13-osios gynybinės barikados]]: 1991 m. sausio 12 d. vakare aplink AT-AS pastatą buvo statomos betoninės sienos ir spygliuotų vielų užtvaros.
 - susijęs iš [[objektai/daiktai/Sausio 13-osios gynybinės barikados.md#claim-t-23303|Sausio 13-osios gynybinės barikados]]: 1991 m. sausio 12 d. vakare prie parlamento budint žmonėms aplink AT-AS pastatą buvo statomos betoninės sienos ir spygliuotų vielų užtvaros.
@@ -132,6 +162,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e3d6eada5f22bb6b59853bf0dc3b9587da474f7b8f198b4a7f27da7e5b408e28; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sovietų tankai ir šarvuočiai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų tankai ir šarvuočiai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -148,8 +188,38 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ce8b0256b7713eb1ee5b8607a22a70a1d949532c82521c5a8422fce5f166d9b7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Šarvuočiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sovietų tankai ir šarvuočiai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Šarvuočiai: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų tankai ir šarvuočiai" parinktas kaip owner_note_path. Targetas "Šarvuočiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=23665138b2e95ee3f87b1f177ebad774e179c6e3b310d2911fd076d7820cc034; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sovietų tankai ir šarvuočiai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=61
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų tankai ir šarvuočiai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e3d6eada5f22bb6b59853bf0dc3b9587da474f7b8f198b4a7f27da7e5b408e28; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sovietų tankai ir šarvuočiai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų tankai ir šarvuočiai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Šaltiniai ir įrodymai
 

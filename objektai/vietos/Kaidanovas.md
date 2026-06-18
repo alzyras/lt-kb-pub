@@ -22,9 +22,19 @@ Kaidanovas vaizduojamas kaip Skirmanto sienos vieta. Kaidanove Skirmantas pasiti
   teiginys: 'Lietuvos metraštyje Kaidanovas vaizduojamas kaip vieta prie Skirmanto sienos, kur jis pasitiko chano pajėgas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Vaizdavimui ir legendiniam kontekstui reikalinga šaltinio atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Karačevas; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Starodubas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_place: Karačevas; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Starodubas; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b8f6406daa213cbdd02a9baa61bdb21a8a64cccb041a628f3840f3f4b3d994aa; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Skirmantas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaidanovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Skirmantas: mention_match, person, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaidanovas" parinktas kaip owner_note_path. Targetas "Skirmantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187229"></a>
 - t-002
@@ -32,9 +42,19 @@ Kaidanovas vaizduojamas kaip Skirmanto sienos vieta. Kaidanove Skirmantas pasiti
   teiginys: 'Lietuvos metraštyje pasakojama, kad Kaidanove Skirmantas pasitiko chano pajėgas, jas sumušė ir nukovė patį chaną.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Legendinis karinis pasakojimas su priešo apibūdinimu reikalauja atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Karačevas; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Starodubas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_place: Karačevas; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Starodubas; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b8f6406daa213cbdd02a9baa61bdb21a8a64cccb041a628f3840f3f4b3d994aa; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Skirmantas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaidanovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Skirmantas: mention_match, person, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaidanovas" parinktas kaip owner_note_path. Targetas "Skirmantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187578"></a>
 - t-003
@@ -47,8 +67,18 @@ Kaidanovas vaizduojamas kaip Skirmanto sienos vieta. Kaidanove Skirmantas pasiti
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Karačevas; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Starodubas'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187746|Totoriai]]: Lietuvos metraštyje totorių chanas su sutelktomis ordomis patraukė į Rusų žemę ir, pasak kronikos, padarė jai daug žalos.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 86299-86832; hash=3382a80b1230e4492b72e97684ba169d6bbc6120fd943f167fb71a5359aea48a; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Karačevas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaidanovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Karačevas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaidanovas" parinktas kaip owner_note_path. Targetas "Karačevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187489|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis teigia, kad Skirmantas prie Kaidanovo nugalėjo chaną Balaklajų ir nukovė jį mūšyje.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187746|Totoriai]]: Lietuvos metraštyje totorių chanas su sutelktomis ordomis patraukė į Rusų žemę ir, pasak kronikos, padarė jai daug žalos.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187490|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus.
 - susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
 - susijęs iš Karačevas: Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
@@ -72,6 +102,16 @@ Kaidanovas vaizduojamas kaip Skirmanto sienos vieta. Kaidanove Skirmantas pasiti
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b8f6406daa213cbdd02a9baa61bdb21a8a64cccb041a628f3840f3f4b3d994aa; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Skirmantas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaidanovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Skirmantas: mention_match, person, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaidanovas" parinktas kaip owner_note_path. Targetas "Skirmantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-002
@@ -96,4 +136,24 @@ Kaidanovas vaizduojamas kaip Skirmanto sienos vieta. Kaidanove Skirmantas pasiti
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b8f6406daa213cbdd02a9baa61bdb21a8a64cccb041a628f3840f3f4b3d994aa; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Skirmantas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaidanovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Skirmantas: mention_match, person, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaidanovas" parinktas kaip owner_note_path. Targetas "Skirmantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 86299-86832; hash=3382a80b1230e4492b72e97684ba169d6bbc6120fd943f167fb71a5359aea48a; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Karačevas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaidanovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Karačevas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaidanovas" parinktas kaip owner_note_path. Targetas "Karačevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

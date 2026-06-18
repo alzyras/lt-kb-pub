@@ -25,20 +25,30 @@ Po trumpalaikių paliaubų valdovai pasižadėjo vykti į Parčevą tartis dėl 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_place: Lenkija; mentioned_place: Lvovas; mentioned_place: Podolė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 767899-768333; hash=2d9b8d6b3c293059f2135bbe4c57c6ddf84ac3fef1dcfff67cde0908a0752742; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Parčevas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Parčevas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184533|Lenkai]]: Lenkų seimas susirinko Parčeve, o lietuvių seimas Breste; po ginčų nutarta susitikti Lomžoje.
-- susijęs iš [[objektai/grupes/Seradzo lenkų seimas.md#claim-t-185455|Seradzo lenkų seimas (seimas)]]: Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją ir sušaukė Seradzo lenkų seimą.
-- susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
 - susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186648|Parčevo seimas (seimas, XV a.)]]: Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.
 - susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186649|Parčevo seimas (seimas, XV a.)]]: Lenkijos karaliaus Olbrachto ir Lietuvos didžiojo kunigaikščio Aleksandro atstovai per pasitarimą nutarė sušaukti seimą Parčeve.
 - susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186650|Parčevo seimas (seimas, XV a.)]]: Lietuvos metraštis pasakoja, kad Parčevo seime priimti sumanymai ir nutarimai liko didelė paslaptis.
 - susijęs iš [[objektai/ivykiai/Parčevo, Bresto ir Lomžos seimų bandymas spręsti Podolės ginčą (1463-1464 m.).md#claim-t-185629|Parčevo, Bresto ir Lomžos seimų bandymas spręsti Podolės ginčą (1463-1464 m.)]]: Kojelavičius spėja, kad gandas apie Podolėje prasidėjusį karą galėjo lemti skubiai Parčeve šaukto seimo atidėjimą beveik iki metų pabaigos.
 - susijęs iš [[objektai/ivykiai/Parčevo, Bresto ir Lomžos seimų bandymas spręsti Podolės ginčą (1463-1464 m.).md#claim-t-185630|Parčevo, Bresto ir Lomžos seimų bandymas spręsti Podolės ginčą (1463-1464 m.)]]: Lapkričio mėnesį lenkų seimas susirinko Parčeve, lietuvių seimas Breste, o po ginčų nutarta susitikti Lomžoje.
 - susijęs iš [[objektai/ivykiai/Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.).md#claim-t-185636|Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.)]]: Vilniaus seime ginčas dėl Podolės istorijos ir teisių buvo atidėtas Parčevo seimui.
-- susijęs iš [[objektai/ivykiai/Suchtos sąmokslas prieš Kazimierą.md#claim-t-186755|Suchtos sąmokslas prieš Kazimierą]]: J. Dlugošo komentatoriai, redakcinės pastabos teigimu, Suchtos sąmokslą datuoja pirmaisiais keturiais 1453 m. mėnesiais.
 - susijęs iš [[objektai/ivykiai/Suchtos sąmokslas prieš Kazimierą.md#claim-t-186757|Suchtos sąmokslas prieš Kazimierą]]: Redakcinė pastaba nurodo, kad J. Dlugošas antrąkart mini Suchtos sąmokslą perteikdamas Zbignevo Olesnickio kalbą 1453 m. Parčevo seime.
 - susijęs iš [[objektai/paprociai/Derybinis susitikimas neutralioje pusiaukelėje tarp priešiškų šalių.md#claim-t-185868|Derybinis susitikimas neutralioje pusiaukelėje tarp priešiškų šalių]]: Lenkų ir lietuvių seimai po ilgų ginčų nutarė susitikti Lomžoje, pusiaukelėje tarp Parčevo ir Bresto.
 - susijęs iš Liublinas: Karalius Olbrachtas su broliu karalaičiu Zigmantu išvyko į Liubliną prieš abiejų šalių ponų suvažiavimą Parčeve.
 - susijęs iš Lomža: Lenkų ir lietuvių seimai po ilgų ginčų nutarė susitikti Lomžoje, pusiaukelėje tarp Parčevo ir Bresto.
+- susijęs iš [[objektai/grupes/Seradzo lenkų seimas.md#claim-t-185455|Seradzo lenkų seimas (seimas)]]: Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją ir sušaukė Seradzo lenkų seimą.
+- susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
+- susijęs iš [[objektai/ivykiai/Suchtos sąmokslas prieš Kazimierą.md#claim-t-186755|Suchtos sąmokslas prieš Kazimierą]]: J. Dlugošo komentatoriai, redakcinės pastabos teigimu, Suchtos sąmokslą datuoja pirmaisiais keturiais 1453 m. mėnesiais.
 - susijęs iš Lvovas: Karalius, nutraukęs apsiaustį ir paleidęs kariuomenę, nukeliavo į Lvovą.
 - susijęs iš Podolė: Dėl perdėtų žinių pasklido neteisingas gandas, kad Podolėje jau prasidėjo karas.
 - susijęs iš Soroka: Lietuvos metraštis pasakoja, kad Aleksandras Parčevo seime slapta sutarė žygiuoti į Moldavijos žemę per Braclavą link Sorokos.
@@ -65,3 +75,13 @@ Po trumpalaikių paliaubų valdovai pasižadėjo vykti į Parčevą tartis dėl 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 767899-768333; hash=2d9b8d6b3c293059f2135bbe4c57c6ddf84ac3fef1dcfff67cde0908a0752742; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Parčevas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Parčevas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

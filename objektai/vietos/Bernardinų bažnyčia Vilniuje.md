@@ -45,6 +45,16 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 480050-480665; hash=f0875e4c56bb401b87e2a920b0769c8e41673b32ef97fe7a4e139fd4881fbb1c; match=whitespace_regex
+  sprendimo_priezastis: gap::places
+  ryšio_patikimumas: susije_su -> Malūnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bernardinų bažnyčia Vilniuje: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Malūnas: mention_match, thing, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardinų bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Malūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-55246"></a>
 - t-002
@@ -55,25 +65,55 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 480050-480665; hash=f0875e4c56bb401b87e2a920b0769c8e41673b32ef97fe7a4e139fd4881fbb1c; match=whitespace_regex
+  sprendimo_priezastis: gap::places
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bernardinų bažnyčia Vilniuje: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardinų bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-55247"></a>
 - t-003
   global_id: t-55247
   teiginys: 'Bernardinų bažnyčia dėl menkų pamatų grėsė griūtimi, todėl ji buvo iš naujo pamūryta dosniai prisidėjus Vilniaus vaivadai Mikalojui Radvilai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Korčiakas|Korčiakas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Korčiakas|Korčiakas]]; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1501 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 479181-479544; hash=59e6b11ffd8b48850e5fc217108ea6813b4df8c836d0934004e81c71e6caf856; match=whitespace_regex
+  sprendimo_priezastis: gap::places
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bernardinų bažnyčia Vilniuje: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=104
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardinų bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-83203"></a>
 - t-004
   global_id: t-83203
   teiginys: 'Bernardinų bažnyčia Vilniuje buvo per nauja pamūryta, nes dėl menkų pamatų jai grėsė griūtis.'
   sudarymo_pagrindimas: 'Iš konteksto paimtas pilnas faktas apie bažnyčią.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 479312-479727; hash=0d0ae4c3cfc8ad480c9e3fea303d281819a70ce98279519e5c1c7e1d0fd90d4f; match=exact
+  sprendimo_priezastis: gap::places
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bernardinų bažnyčia Vilniuje: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardinų bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-83204"></a>
 - t-005
@@ -86,6 +126,16 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   temporalinis_llm_pakomentavimas: 'Fragmentas išplėstas į pilną sakinį su aiškiu veikėju ir veiksmu.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3d9d1515875fd840f416490bca928dfa0e35f231810ee9a30913043682940325; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::places
+  ryšio_patikimumas: susije_su -> Malūnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bernardinų bažnyčia Vilniuje: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Malūnas: mention_match, thing, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardinų bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Malūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas.md#claim-t-87022|Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]: Bernardinų bažnyčia dėl menkų pamatų grėsė griūtimi, todėl buvo iš naujo pamūryta prisidėjus Vilniaus vaivadai Mikalojui Radvilai.
 ## Reikšmingi paminėjimai
 
@@ -115,6 +165,16 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 480050-480665; hash=f0875e4c56bb401b87e2a920b0769c8e41673b32ef97fe7a4e139fd4881fbb1c; match=whitespace_regex
+  sprendimo_priezastis: gap::places
+  ryšio_patikimumas: susije_su -> Malūnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bernardinų bažnyčia Vilniuje: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Malūnas: mention_match, thing, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardinų bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Malūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-002
@@ -131,6 +191,16 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 480050-480665; hash=f0875e4c56bb401b87e2a920b0769c8e41673b32ef97fe7a4e139fd4881fbb1c; match=whitespace_regex
+  sprendimo_priezastis: gap::places
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bernardinų bažnyčia Vilniuje: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardinų bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-003
@@ -149,6 +219,16 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 479181-479544; hash=59e6b11ffd8b48850e5fc217108ea6813b4df8c836d0934004e81c71e6caf856; match=whitespace_regex
+  sprendimo_priezastis: gap::places
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bernardinų bažnyčia Vilniuje: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=104
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardinų bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-004
@@ -179,4 +259,24 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 479312-479727; hash=0d0ae4c3cfc8ad480c9e3fea303d281819a70ce98279519e5c1c7e1d0fd90d4f; match=exact
+  sprendimo_priezastis: gap::places
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bernardinų bažnyčia Vilniuje: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardinų bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3d9d1515875fd840f416490bca928dfa0e35f231810ee9a30913043682940325; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::places
+  ryšio_patikimumas: susije_su -> Malūnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bernardinų bažnyčia Vilniuje: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Malūnas: mention_match, thing, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardinų bažnyčia Vilniuje" parinktas kaip owner_note_path. Targetas "Malūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

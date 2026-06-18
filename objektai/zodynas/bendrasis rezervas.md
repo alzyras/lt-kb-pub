@@ -31,6 +31,16 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
   susije_objektai: 'mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_person: [[objektai/asmenys/J. Reikala|J. Reikala]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 738978-739429; hash=3226600bdfbd1fbb1acde79e4fac6e211860c83c3d82f1f33fbf730813d8a4e9; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> rezervas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: bendrasis rezervas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: rezervas: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "bendrasis rezervas" parinktas kaip owner_note_path. Targetas "rezervas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-38708"></a>
 - t-002
@@ -43,6 +53,16 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys sugadintas OCR triukšmo, bet citata remia glaustą faktą apie rezervo sudėtį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 739950-740029; hash=6f6c5fd42fc165dff71e71620c598d52b804599501342b3d62e41d660b153133; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> J. Reikala: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: bendrasis rezervas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: J. Reikala: mention_match, person, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "bendrasis rezervas" parinktas kaip owner_note_path. Targetas "J. Reikala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Katinai: Bendrasis rezervas turėjo vykti Katinų kaimo link ir jį užimti.
 ## Reikšmingi paminėjimai
 
@@ -77,4 +97,24 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 739950-740029; hash=6f6c5fd42fc165dff71e71620c598d52b804599501342b3d62e41d660b153133; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> J. Reikala: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: bendrasis rezervas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: J. Reikala: mention_match, person, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "bendrasis rezervas" parinktas kaip owner_note_path. Targetas "J. Reikala" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 738978-739429; hash=3226600bdfbd1fbb1acde79e4fac6e211860c83c3d82f1f33fbf730813d8a4e9; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> rezervas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: bendrasis rezervas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: rezervas: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "bendrasis rezervas" parinktas kaip owner_note_path. Targetas "rezervas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

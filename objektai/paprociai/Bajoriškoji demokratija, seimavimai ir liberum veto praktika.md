@@ -56,6 +56,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus sakinys su aiškiu veikėju, veiksmu ir tikslu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 130882-132013; hash=588a05913b69ef1c64042338676517df2c167f585b6f55dc64b891eac0145ff4; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bajoriškoji demokratija, seimavimai ir liberum veto praktika: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajoriškoji demokratija, seimavimai ir liberum veto praktika" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -84,3 +94,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 130882-132013; hash=588a05913b69ef1c64042338676517df2c167f585b6f55dc64b891eac0145ff4; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bajoriškoji demokratija, seimavimai ir liberum veto praktika: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajoriškoji demokratija, seimavimai ir liberum veto praktika" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

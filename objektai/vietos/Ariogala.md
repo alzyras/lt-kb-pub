@@ -36,7 +36,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - t-001
   global_id: t-179746
   teiginys: 'Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių sodybos ir nuotykių ieškotojai keliami į riterius.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Suchenwirt|Petras Suchenwirt]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Austrija; mentioned_place: Dubysa'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubysa; mentioned_author: [[objektai/autoriai/Petras Suchenwirt|Petras Suchenwirt]]; mentioned_place: Austrija'
   pagrindžia:
     - c-005
 
@@ -57,7 +57,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   global_id: t-179749
   teiginys: '1950 m. liepos 22 d. prie Ariogalos ir Vilkijos rajonų ribos MGB 208-ojo pulko kareiviai puolė partizanų bunkerį Daugėliškių miške.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys apie vietą ir įvykį, paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_place: Vilkija'
+  susije_objektai: 'mentioned_place: Vilkija; mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]'
   temporaliniai_duomenys: 'įvykio data: 1950 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys apie vietą ir įvykį, paremtas citata.'
@@ -81,9 +81,19 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   global_id: t-179751
   teiginys: 'Ariogalos apylinkės buvo laikomos pagonims svarbia vietove, siejama su Romuva, Perkūno šventykla ir Krivių Krivaičio buveine.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas teiginys apie Ariogalą.'
-  susije_objektai: 'mentioned_place: Raseiniai; mentioned_place: Romuva; mentioned_place: Vaikiai; mentioned_place: Viena; mentioned_place: Šventoji'
+  susije_objektai: 'mentioned_place: Romuva; mentioned_place: Raseiniai; mentioned_place: Vaikiai; mentioned_place: Viena; mentioned_place: Šventoji'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 499139-499500; hash=0d8bfb1b364f5ab6dd3e2be76674efc4d89118fa23c377e20f32bf8f05e6b57c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Karūna: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ariogala: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ariogala" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-179752"></a>
 - t-006
@@ -93,6 +103,16 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bisenė; mentioned_place: Raseiniai; mentioned_place: Romuva'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 692503-692811; hash=2c5e6d051f0f3d61b679b55128ad40dc7c9a784c3c5ebe63cccc520c8604152c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gaižuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ariogala: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gaižuva: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ariogala" parinktas kaip owner_note_path. Targetas "Gaižuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179754"></a>
 - t-007
@@ -102,6 +122,16 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=96df2079f1bce1f2999f8e3723761919bf11d50785440ed8c15088688bde46ef; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dubysa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ariogala: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dubysa: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ariogala" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184921"></a>
 - t-008
@@ -126,23 +156,28 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą apie Ariogalos žemių sunaikinimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Volfgangas|Volfgangas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Šindekopfas|Šindekopfas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Pernarava; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Pernarava; mentioned_author: [[objektai/autoriai/Volfgangas|Volfgangas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Šindekopfas|Šindekopfas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1363 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą apie Ariogalos žemių sunaikinimą.'
   pagrindžia:
     - c-008
+- susijęs iš [[objektai/autoriai/Petras Suchenwirt.md#claim-t-30926|Petras Suchenwirt]]: Petras Suchenwirtas eilėmis aprašė iškilmingą žygį Ariogalos ir Dubysos rajone.
+- susijęs iš [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.).md#claim-t-31505|Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]: 1322 m. riteriai su kryžininkais įsiveržė į Žemaičius, nusiaubė Vėjukų sritį ir gaisrais nuniokojo Raseinių bei Ariogalos sritis.
+- susijęs iš Raseiniai: Po Vaikių krašto nusiaubimo ginkluota palyda kitą dieną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
+- susijęs iš Raseiniai: Žemaitijos nusiaubimo metu Raseinių valsčius buvo sulygintas su žeme kartu su Vaikių, Ariogalos ir Klogėnų valsčiais.
+- susijęs iš Vaikiai: Iš Prūsijos atžygiavęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.
+- susijęs iš Žemaitija: Iš Prūsijos patraukęs priešas nusiaubė Žemaitiją ir sulygino su žeme Vaikių, Raseinių, Ariogalos bei Klogėnų valsčius.
+- susijęs iš [[objektai/zodynas/fogtas.md#claim-t-184612|fogtas]]: Sembos fogto vedami kryžiuočiai, negalėdami pasivyti namo traukiančio Kęstučio, nusiaubė Ariogalos žemes.
 - susijęs iš [[objektai/asmenys/Aleksandras Karijotaitis.md#claim-t-186174|Aleksandras Karijotaitis]]: Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė Tilžę ir Ragainę bei išsivarė 800 belaisvių.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184668|Algirdas (Lietuvos valdovas)]]: Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.
 - susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Vildenbergo.md#claim-t-60279|Fridrichas iš Vildenbergo]]: 1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių.
-- susijęs iš [[objektai/autoriai/Petras Suchenwirt.md#claim-t-30926|Petras Suchenwirt]]: Petras Suchenwirtas eilėmis aprašė iškilmingą žygį Ariogalos ir Dubysos rajone.
 - susijęs iš [[objektai/daiktai/Lietuvos partizanų uniformos.md#claim-t-80689|Lietuvos partizanų uniformos]]: Bunkeryje buvę trylika vyrų vilkėjo lietuviškas uniformas, o vienas dėvėjo uniformą su liudininkės siuvinėtu antsiuvu.
 - susijęs iš [[objektai/daiktai/Romuva kaip Perkūno šventykla.md#claim-t-87093|Romuva kaip Perkūno šventykla]]: Romuva buvo laikoma Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindine buveine.
 - susijęs iš [[objektai/daiktai/Vaikių pilis ir aplinkiniai pastatai.md#claim-t-87095|Vaikių pilis ir aplinkiniai pastatai]]: Vaikių krašte šventoji giria, netoliese stovėjusi pilis ir aplinkiniai pastatai per vieną naktį buvo sudeginti iki pamatų.
 - susijęs iš [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas.md#claim-t-183910|1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]: Per 1294 m. žiemos Paštuvos ir Gaižuvos valsčių puolimą buvo nužudyta arba paimta į nelaisvę 100 žmonių, o kariuomenė grįžo su dideliu grobiu.
 - susijęs iš [[objektai/ivykiai/1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas.md#claim-t-62737|1294 m. žiemos Paštuvos ir Gaižuvos valsčių nuniokojimas]]: 1294 m. žiemą magistras padalijo kariuomenę į dvi dalis, kurios įsiveržė į Paštuvos ir Gaižuvos valsčius ir juos nusiaubė gaisrais.
-- susijęs iš [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.).md#claim-t-31505|Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]: 1322 m. riteriai su kryžininkais įsiveržė į Žemaičius, nusiaubė Vėjukų sritį ir gaisrais nuniokojo Raseinių bei Ariogalos sritis.
 - susijęs iš Daugėliškių miškas: 1950 m. liepos 22 d. Daugėliškių miške MGB 208-ojo pulko kareiviai puolė partizanų bunkerį, per puolimą žuvo 5 partizanai.
 - susijęs iš Gaižuvos valsčius: 1294 m. žiemą viena Ordino kariuomenės dalis patraukė į Gaižuvos valsčių ir kartu su kita dalimi nusiaubė Gaižuvą bei Paštuvą.
 - susijęs iš Gaižuvos valsčius: 1294 m. žiemą magistras, atsisakęs žygio į Ariogalos valsčių, nukreipė dalį kariuomenės į Gaižuvos valsčių.
@@ -153,17 +188,12 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 - susijęs iš Medininkų žemė: 1355 m. pradžioje Kryžiuočių kariuomenė penkias dienas niokojo centrinę Žemaitijos Medininkų žemę.
 - susijęs iš Paštuvos valsčius: 1294 m. žiemą magistras padalijo kariuomenę į dvi dalis, kurių viena įsiveržė į Paštuvos valsčių, o kita patraukė į Gaižuvos valsčių.
 - susijęs iš Paštuvos valsčius: 1294 m. žiemą Ragainės broliai su sembais įsiveržė į Paštuvos valsčių, o kita kariuomenės dalis patraukė į Gaižuvos valsčių.
-- susijęs iš Raseiniai: Po Vaikių krašto nusiaubimo ginkluota palyda kitą dieną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.
 - susijęs iš Raseiniai: 1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis.
-- susijęs iš Raseiniai: Žemaitijos nusiaubimo metu Raseinių valsčius buvo sulygintas su žeme kartu su Vaikių, Ariogalos ir Klogėnų valsčiais.
 - susijęs iš Romuva: Raseinių ir Ariogalos apylinkės laikytos svarbiomis pagonims, nes čia stovėjo Romuva su Perkūno šventykla ir Krivių Krivaičio buveine.
 - susijęs iš Romuva: Romuva minima kaip Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė.
-- susijęs iš Vaikiai: Iš Prūsijos atžygiavęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius.
 - susijęs iš Vaikiai: Vaikių krašte buvusi šventoji giria su netoliese stovėjusia pilimi ir pastatais per vieną naktį buvo sudeginta.
 - susijęs iš Vilkija: 1950 m. liepos 22 d. Daugėliškių miške ties Ariogalos ir Vilkijos rajonų riba MGB 208-ojo pulko kareiviai puolė partizanų bunkerį.
 - susijęs iš Šiaurės Žemaitija: 1348 m. kovo mėn. Livonijos ordinas vėl puolė Šiaurės Žemaitiją ir sunaikino Kulių, Dubysos bei kitas pilis.
-- susijęs iš Žemaitija: Iš Prūsijos patraukęs priešas nusiaubė Žemaitiją ir sulygino su žeme Vaikių, Raseinių, Ariogalos bei Klogėnų valsčius.
-- susijęs iš [[objektai/zodynas/fogtas.md#claim-t-184612|fogtas]]: Sembos fogto vedami kryžiuočiai, negalėdami pasivyti namo traukiančio Kęstučio, nusiaubė Ariogalos žemes.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70227|maldininkai / maldininko įžadai]]: Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį.
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58828|maldininkai]]: Puolant Pieštvės pilį maldininkai buvo taip gerai apsišarvavę, kad pilėnai nepajėgė jų sulaikyti kopiant į sienas.
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-42479|maršalas]]: 1355 m. pradžioje maršalo vadovaujama Kryžiuočių kariuomenė penketą dienų niokojo centrinę Žemaitijos Medininkų žemę.
@@ -197,6 +227,16 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=96df2079f1bce1f2999f8e3723761919bf11d50785440ed8c15088688bde46ef; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dubysa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ariogala: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dubysa: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ariogala" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
     - t-004
 
@@ -250,6 +290,16 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 499139-499500; hash=0d8bfb1b364f5ab6dd3e2be76674efc4d89118fa23c377e20f32bf8f05e6b57c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Karūna: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ariogala: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Karūna: mention_match, thing, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ariogala" parinktas kaip owner_note_path. Targetas "Karūna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-006
@@ -292,6 +342,16 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 692503-692811; hash=2c5e6d051f0f3d61b679b55128ad40dc7c9a784c3c5ebe63cccc520c8604152c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gaižuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ariogala: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gaižuva: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ariogala" parinktas kaip owner_note_path. Targetas "Gaižuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-008

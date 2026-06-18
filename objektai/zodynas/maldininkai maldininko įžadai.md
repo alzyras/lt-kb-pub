@@ -42,9 +42,19 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   global_id: t-70220
   teiginys: 'Po Urbono II raginimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį.'
   sudarymo_pagrindimas: 'Citata remia faktą apie maldininko įžadus, o pradinė pretenzija nukrypo į Petro veiksmus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Italija; mentioned_place: Jeruzalė; mentioned_place: Viena; mentioned_place: Šventoji'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Italija; mentioned_place: Jeruzalė; mentioned_place: Viena; mentioned_place: Šventoji'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-70221"></a>
 - t-002
@@ -54,18 +64,38 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_place: Anglija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e08248e2be817e87a968762782b8001c98c5e4da704d3ddd31242e4f70db78bb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baiga: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Baiga: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-70223"></a>
 - t-003
   global_id: t-70223
   teiginys: '1237 m. magistras su broliais ir Meiseno markgrafo paliktais maldininkais Pagudėje pastatė Elbingo pilį.'
   sudarymo_pagrindimas: 'Ilgas fragmentas sutrauktas į aiškų sakinį su data, veikėjais ir rezultatu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Elbingas; mentioned_place: Pagudė'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Pagudė; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   temporaliniai_duomenys: 'pastatymo data: 1237 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Ilgas fragmentas sutrauktas į aiškų sakinį su data, veikėjais ir rezultatu.'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=486639483f116cce39153be786c7bdffe320ad622485eb47baf7e5f294a8b629; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> maldininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: maldininkai: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "maldininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-70224"></a>
 - t-004
@@ -74,6 +104,16 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Baiga; mentioned_place: Drūsinė; mentioned_place: Elbingas; mentioned_place: Prūsija'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d8f1ca38cc1f193da71bd2a48789b868cf10b4cebf75efc82b865f83841fc8e7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-70225"></a>
 - t-005
@@ -86,35 +126,75 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   temporalinis_llm_pakomentavimas: 'Reikia aiškiai įtraukti note objektą ir tiksliau perteikti citatos formuluotę.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Elbingas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-70226"></a>
 - t-006
   global_id: t-70226
   teiginys: 'Dusburgietis `maldininkais` vadina į Prūsiją atvykstančius ar joje paliekamus religinio karo talkininkus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Elbingas; mentioned_place: Pagudė; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Elbingas; mentioned_place: Pagudė'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=70c3c24d214687c5a5ffd5945cd3e236f94e42d9eae460cc349a2fcb33cdae72; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Prūsai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Vokietijos maldininkai: nearest_actor, group, gap=23
+  ryšio_targeto_parinkimas: Prūsai: nearest_after_predicate, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Vokietijos maldininkai" parinktas kaip nearest_actor. Targetas "Prūsai" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-70227"></a>
 - t-007
   global_id: t-70227
   teiginys: 'Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį.'
   sudarymo_pagrindimas: 'Abi citatos remia maldininkų dalyvavimą Ordino žygiuose ir pilių puolime.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Ariogala; mentioned_place: Kulmas; mentioned_place: Medininkai; mentioned_place: Pieštvė; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Raseiniai; mentioned_place: Reinas; mentioned_place: Vaikiai; mentioned_place: Vildenbergas; mentioned_place: Vroclavas; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Medininkai; mentioned_place: Pieštvė; mentioned_place: Reinas; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Ariogala; mentioned_place: Kulmas; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Raseiniai; mentioned_place: Vaikiai; mentioned_place: Vildenbergas; mentioned_place: Vroclavas; mentioned_place: Čekija'
   temporaliniai_duomenys: 'įvykio data: 1322 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Abi citatos remia maldininkų dalyvavimą Ordino žygiuose ir pilių puolime.'
   pagrindžia:
     - c-002
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=486639483f116cce39153be786c7bdffe320ad622485eb47baf7e5f294a8b629; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drabužiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Drabužiai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "Drabužiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-70228"></a>
 - t-008
   global_id: t-70228
   teiginys: 'Šio šaltinio pasakojime maldininkai veikia kaip atskira nuo Ordino brolių karinė jėga.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 655197-655783; hash=24c87d2b1064fc36de457712cfca9515e57a6f83e60deb5a19454ff76bc2a22d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-70229"></a>
 - t-009
@@ -130,24 +210,44 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   global_id: t-70230
   teiginys: '1316 m. Henrikas Karaliaučiuje sutiko iš Reino krašto atvykusių maldininkų ir su jais nusiaubė Medininkų valsčių.'
   sudarymo_pagrindimas: 'Perrašyta į pilną sakinį, pašalinant antraštės ir sąrašo triukšmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Medininkai; mentioned_place: Medvėgalis; mentioned_place: Reinas'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Medvėgalis; mentioned_place: Reinas'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į pilną sakinį, pašalinant antraštės ir sąrašo triukšmą.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fc18dadf920040fc1b40f6369953d94c221f80a0bb199548b1a931521fa019fe; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-70231"></a>
 - t-011
   global_id: t-70231
   teiginys: 'Vokietijos maldininkai atvyko į pagalbą prūsų apsiaustai Baigos piliai.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie maldininkus ir Baigos apgultį.'
-  susije_objektai: 'location: Prūsai; mentioned_group: [[objektai/grupes/Vokietijos maldininkai|Vokietijos maldininkai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_place: Vokietija'
+  susije_objektai: 'location: Prūsai; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Vokietijos maldininkai|Vokietijos maldininkai]]; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'kelionės data: po 1236 m.; kelionės data: 1236 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip kelionės data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškų faktą apie maldininkus ir Baigos apgultį.'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=386aba604668e3258587878867b8af52c60afb943c0f9e0453f155df7a9635eb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -191,6 +291,16 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e08248e2be817e87a968762782b8001c98c5e4da704d3ddd31242e4f70db78bb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baiga: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Baiga: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-007
 
 - c-003
@@ -209,6 +319,16 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=486639483f116cce39153be786c7bdffe320ad622485eb47baf7e5f294a8b629; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drabužiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Drabužiai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "Drabužiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
 
 - c-004
@@ -227,7 +347,27 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Elbingas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fc18dadf920040fc1b40f6369953d94c221f80a0bb199548b1a931521fa019fe; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-005
@@ -263,6 +403,16 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=486639483f116cce39153be786c7bdffe320ad622485eb47baf7e5f294a8b629; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drabužiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Drabužiai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "Drabužiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-006
@@ -279,6 +429,16 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 256154-256842; hash=820bef1dc2369437aa33d8c458e6470794afb942f84e86793a6d9362827fafc7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
     - t-008
 
@@ -294,6 +454,16 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 655197-655783; hash=24c87d2b1064fc36de457712cfca9515e57a6f83e60deb5a19454ff76bc2a22d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-008
@@ -313,8 +483,38 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d8f1ca38cc1f193da71bd2a48789b868cf10b4cebf75efc82b865f83841fc8e7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=486639483f116cce39153be786c7bdffe320ad622485eb47baf7e5f294a8b629; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> maldininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: maldininkai: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "maldininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=70c3c24d214687c5a5ffd5945cd3e236f94e42d9eae460cc349a2fcb33cdae72; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Prūsai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Vokietijos maldininkai: nearest_actor, group, gap=23
+  ryšio_targeto_parinkimas: Prūsai: nearest_after_predicate, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Vokietijos maldininkai" parinktas kaip nearest_actor. Targetas "Prūsai" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
     - t-012
 
 - c-009
@@ -330,4 +530,24 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 724162-726184; hash=3183f6d1d61c832cc847b4f81dc9107b59e0753de20be2696ad8ce5d0e18afae; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> maldininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: maldininkai: mention_match, thing, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "maldininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-011
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=386aba604668e3258587878867b8af52c60afb943c0f9e0453f155df7a9635eb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai / maldininko įžadai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai / maldininko įžadai" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

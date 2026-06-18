@@ -51,6 +51,9 @@ Nenurodyta
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 950105-950715; hash=8cb07b43c3d51fdadddec243b49995f8c3df40786567c6e8247aec3be0c15895; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-183689"></a>
 - t-002
@@ -63,6 +66,16 @@ Nenurodyta
   susije_objektai: 'mentioned_place: Alytus; mentioned_place: Druskininkai; mentioned_place: Merkinė'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 949882-950588; hash=bb262a40413eaa298f988566d880417e5b0f53e40b5070d4e49bb71da723f99d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Alytus: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vokiškas universalusis kulkosvaidis MG 42: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Alytus: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiškas universalusis kulkosvaidis MG 42" parinktas kaip owner_note_path. Targetas "Alytus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -121,4 +134,17 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 950105-950715; hash=8cb07b43c3d51fdadddec243b49995f8c3df40786567c6e8247aec3be0c15895; match=exact
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 949882-950588; hash=bb262a40413eaa298f988566d880417e5b0f53e40b5070d4e49bb71da723f99d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Alytus: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vokiškas universalusis kulkosvaidis MG 42: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Alytus: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vokiškas universalusis kulkosvaidis MG 42" parinktas kaip owner_note_path. Targetas "Alytus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

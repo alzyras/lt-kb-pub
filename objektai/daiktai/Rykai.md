@@ -44,22 +44,34 @@ Nenurodyta
   global_id: t-87118
   teiginys: 'Rykai į Vilnių patekdavo iš Lenkijos ir Livonijos.'
   sudarymo_pagrindimas: 'Citata remia trumpą faktą apie rykų kilmės kryptis, o pradinė formuluotė turi OCR ir antraščių triukšmo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Andrius iš Vasilevo Važila.md#claim-t-87624|Andrius iš Vasilevo Važila]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
-- susijęs iš [[objektai/asmenys/Bodzanta.md#claim-t-82242|Bodzanta (arkivyskupas, XIV a.)]]: Gniezno arkivyskupas Bodzanta iškilmingai pašventino Stanislovo katedrą, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams.
-- susijęs iš [[objektai/asmenys/Bodzanta.md#claim-t-82243|Bodzanta (arkivyskupas, XIV a.)]]: Gniezno arkivyskupas Bodzanta iškilmingai pašventino Stanislovo katedrą, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 74400-74926; hash=95db02d99e669aafccc223e906ef8b3875558e1f36d16e5c33fe61b8b419c65d; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rykai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rykai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176417|Jadvyga Jogailienė]]: Karalienė Jadvyga Vilniaus Šv. Stanislovo katedrą apdovanojo brangiais rykais ir kita manta iš savo lobyno.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176434|Jadvyga Jogailienė]]: Karalienė Jadvyga iš savo lobyno apdovanojo pašventintą Vilniaus bažnyčią brangiais rykais ir kita manta.
 - susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54983|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) buvo dovanojami karalienės Barboros apdarai, vežimai, virtuvės rykai ir manta.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173226|Vladislovas Jogaila]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
-- susijęs iš [[objektai/daiktai/Akademijos aikštės medinis šulinys.md#claim-t-54479|Akademijos aikštės medinis šulinys]]: Akademijos aikštėje buvo medinis keturių šulų šulinys su stogeliu ir volu vandeniui traukti.
 - susijęs iš [[objektai/daiktai/Akademijos teatro įranga.md#claim-t-55028|Akademijos teatro įranga]]: Prie teatro buvo podėlis scenos rykams laikyti su užrakinamomis durimis, pakopomis, plytelių grindimis, dūmtraukiu ir švino rėmų langu.
 - susijęs iš [[objektai/daiktai/Akademijos teatro įranga.md#claim-t-81839|Akademijos teatro įranga]]: Akademijos teatro įrangoje buvo mediniai laipteliai, mūriniai lentomis apkalti laiptai ir podėlis scenos rykams laikyti.
-- susijęs iš [[objektai/daiktai/Rūbai.md#claim-t-87119|Rūbai]]: Rūbai į Vilnių patekdavo iš Lenkijos ir Livonijos.
 - susijęs iš [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje.md#claim-t-55051|Užstato daiktai Trakų žydų privilegijoje]]: Privilegijoje žydui leista užstatu priimti įvairius atneštus daiktus, išskyrus kruvinas skaras, šlapius drabužius ir bažnytinius rykus.
 - susijęs iš [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje.md#claim-t-81859|Užstato daiktai Trakų žydų privilegijoje]]: Trakų žydų privilegijoje leista užstatu priimti įvairius atneštus daiktus, išskyrus kruvinas skaras, šlapius drabužius ir bažnytinius rykus.
+- susijęs iš Livonija: Gedimino laikų Vilnių iš Livonijos pasiekdavo rykai ir rūbai.
+- susijęs iš Livonija: Iš Livonijos Vilnių pasiekdavo rykai ir rūbai.
+- susijęs iš [[objektai/asmenys/Andrius iš Vasilevo Važila.md#claim-t-87624|Andrius iš Vasilevo Važila]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
+- susijęs iš [[objektai/asmenys/Bodzanta.md#claim-t-82242|Bodzanta (arkivyskupas, XIV a.)]]: Gniezno arkivyskupas Bodzanta iškilmingai pašventino Stanislovo katedrą, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams.
+- susijęs iš [[objektai/asmenys/Bodzanta.md#claim-t-82243|Bodzanta (arkivyskupas, XIV a.)]]: Gniezno arkivyskupas Bodzanta iškilmingai pašventino Stanislovo katedrą, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173226|Vladislovas Jogaila]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
+- susijęs iš [[objektai/daiktai/Akademijos aikštės medinis šulinys.md#claim-t-54479|Akademijos aikštės medinis šulinys]]: Akademijos aikštėje buvo medinis keturių šulų šulinys su stogeliu ir volu vandeniui traukti.
+- susijęs iš [[objektai/daiktai/Rūbai.md#claim-t-87119|Rūbai]]: Rūbai į Vilnių patekdavo iš Lenkijos ir Livonijos.
 - susijęs iš [[objektai/grupes/Jastžembcų giminė.md#claim-t-86796|Jastžembcų giminė]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą iš Jastžembcų giminės.
 - susijęs iš [[objektai/grupes/Lenkų didžponiai.md#claim-t-86801|Lenkų didžponiai]]: Lenkų didžponių patarimu Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
 - susijęs iš [[objektai/grupes/Lietuvos kunigaikščiai ir didikai.md#claim-t-86760|Lietuvos kunigaikščiai ir didikai]]: Lietuvių ir lenkų kunigaikščiai bei didikai dalyvavo iškilmingai pašventinant Vilniaus Šv. Stanislovo katedrą.
@@ -68,8 +80,6 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54450|Lietuvos krikštas Vilniuje (1387 m.)]]: Per Lietuvos krikštą Vilniuje Gniezno arkivyskupas Bodzanta pašventino Šv. Stanislovo katedrą.
 - susijęs iš Kijevo Rusia: Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.
 - susijęs iš Kijevo Rusia: Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.
-- susijęs iš Livonija: Gedimino laikų Vilnių iš Livonijos pasiekdavo rykai ir rūbai.
-- susijęs iš Livonija: Iš Livonijos Vilnių pasiekdavo rykai ir rūbai.
 - susijęs iš Livonija: 1201 m. pastatyta Rygos pilis vėliau tapo valstybės centru ir didžiausiu Livonijos miestu.
 - susijęs iš [[objektai/zodynas/diecezija.md#claim-t-86522|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
 ## Reikšmingi paminėjimai
@@ -98,6 +108,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 74400-74926; hash=95db02d99e669aafccc223e906ef8b3875558e1f36d16e5c33fe61b8b419c65d; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rykai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rykai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Puslapis 40 VILNIAUS MIESTO ISTORIJA I TOMAS atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­ minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
 

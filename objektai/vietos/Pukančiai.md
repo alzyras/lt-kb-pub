@@ -33,6 +33,16 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
   susije_objektai: 'mentioned_place: Rudamina'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=08d0e1782e5c95d9a6d8a26ef3874feaeea8ffb51e9fc0dfc2bda1ede5380c97; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rudamina: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pukančiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Rudamina: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pukančiai" parinktas kaip owner_note_path. Targetas "Rudamina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-86100"></a>
 - t-002
@@ -45,6 +55,16 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
   temporalinis_llm_pakomentavimas: 'Teiginys buvo triukšmingas OCR fragmentas, bet citata aiškiai patvirtina valdų paskyrimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=246abb4ed792805d18faa479fe852637271bf29a6e1fa27d321cbc5406c3947a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rudamina: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pukančiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Rudamina: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pukančiai" parinktas kaip owner_note_path. Targetas "Rudamina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš 1571 m. Valerijono Protasevičiaus potvarkis dėl Šv. Jono vikaro išlaikymo: 1571 m. birželio 1 d. Valerijonas Protasevičius Šv. Jono vikarui ir jo adjutoriams išlaikyti skyrė Elniakampius, Putviškes, Pukančius ir Rudaminą.
 - susijęs iš 1571 m. Žygimanto Augusto privilegija dėl Šv. Jono bažnyčios prijungimo prie Jėzaus Draugijos kolegijos: 1571 m. Žygimanto Augusto privilegija Rudaminos bažnyčią atidavė kolegijai ir kitus Šv. Jono bažnyčios aptarnavimo reikalus pavedė vyskupui.
 - susijęs iš Elniakampiai: 1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius skyrė Elniakampius vikaro ir jo adjutorių išlaikymui.
@@ -100,4 +120,24 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=246abb4ed792805d18faa479fe852637271bf29a6e1fa27d321cbc5406c3947a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rudamina: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pukančiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Rudamina: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pukančiai" parinktas kaip owner_note_path. Targetas "Rudamina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=08d0e1782e5c95d9a6d8a26ef3874feaeea8ffb51e9fc0dfc2bda1ede5380c97; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rudamina: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pukančiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Rudamina: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pukančiai" parinktas kaip owner_note_path. Targetas "Rudamina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -39,6 +39,16 @@ Leontovtč : Kreslianskij dvor v Litovsko-russkom gosudarstve (ŽMNPr, I, IV, X,
   temporalinis_llm_pakomentavimas: 'Citata palaiko bibliografinį faktą apie veikalo publikavimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f6f4add1b4080618cc41312acbac0e7b6dd037e52c8b56c0efba2e7cc6628c38; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Zenonas Ivinskis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kreslianskij dvor v Litovsko-russkom gosudarstve: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Zenonas Ivinskis: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kreslianskij dvor v Litovsko-russkom gosudarstve" parinktas kaip owner_note_path. Targetas "Zenonas Ivinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -57,3 +67,13 @@ Leontovtč : Kreslianskij dvor v Litovsko-russkom gosudarstve (ŽMNPr, I, IV, X,
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f6f4add1b4080618cc41312acbac0e7b6dd037e52c8b56c0efba2e7cc6628c38; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Zenonas Ivinskis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kreslianskij dvor v Litovsko-russkom gosudarstve: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Zenonas Ivinskis: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kreslianskij dvor v Litovsko-russkom gosudarstve" parinktas kaip owner_note_path. Targetas "Zenonas Ivinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -21,9 +21,19 @@ Odesos universiteto istorikas V. V. Antono­ vičius iš šaltinių bandė tirti
   global_id: t-31053
   teiginys: 'V. V. Antonovičius, Odesos universiteto istorikas, iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties.'
   sudarymo_pagrindimas: 'Perrašyta tiksliau pagal citatos formuluotę ir išlaikytas faktinis turinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Odesa'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Odesa; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9b6f6979cdb2aa35bd3c385127a7b2c0b78b3179a1f6de67d29bdd7dbb2c9faa; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: V. V. Antonovičius: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=116
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "V. V. Antonovičius" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47901|Rusų ir ukrainiečių istorikai]]: Odesos universiteto istorikas V. V. Antonovičius iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties.
 - susijęs iš Odesa: Odesos universiteto istorikas V. V. Antonovičius iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties.
 ## Reikšmingi paminėjimai
@@ -44,3 +54,13 @@ Odesos universiteto istorikas V. V. Antono­ vičius iš šaltinių bandė tirti
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9b6f6979cdb2aa35bd3c385127a7b2c0b78b3179a1f6de67d29bdd7dbb2c9faa; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: V. V. Antonovičius: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=116
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "V. V. Antonovičius" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

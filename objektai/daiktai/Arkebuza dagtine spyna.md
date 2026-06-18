@@ -42,6 +42,9 @@ Nenurodyta
   teiginys: 'Dagtinės spynos arkebuza buvo XVI a. antrosios pusės 15,5 mm kalibro ginklas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=58a8d2d319ca414062642c3a4f5ded8a1dc0d659aa6c9697bdcee0845b713193; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -56,3 +59,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=58a8d2d319ca414062642c3a4f5ded8a1dc0d659aa6c9697bdcee0845b713193; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

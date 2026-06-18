@@ -30,9 +30,19 @@ Apie Vilniaus amatų pramonę, dar­ bininkų padėtį, amatininkų cechus XIX a
   global_id: t-30971
   teiginys: 'S. Samalavičius pateikė duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir amatininkų cechus XIX a. pabaigoje ir XX a. pradžioje.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako S. Samalavičiaus pateiktų duomenų sritį ir yra paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Matulaitytė|S. Matulaitytė]]; mentioned_author: [[objektai/autoriai/V. Merkys|V. Merkys]]; mentioned_author: [[objektai/autoriai/V. Milius|V. Milius]]; mentioned_place: Merkys; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Matulaitytė|S. Matulaitytė]]; mentioned_author: [[objektai/autoriai/V. Merkys|V. Merkys]]; mentioned_author: [[objektai/autoriai/V. Milius|V. Milius]]; mentioned_place: Vilnius; mentioned_place: Merkys'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=892db49e94a5d73f6ca9b6900bcb769b14df2f140235fcb8259bf56cb9587498; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> S. Matulaitytė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: S. Samalavičius: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: S. Matulaitytė: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "S. Samalavičius" parinktas kaip owner_note_path. Targetas "S. Matulaitytė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -52,3 +62,13 @@ Apie Vilniaus amatų pramonę, dar­ bininkų padėtį, amatininkų cechus XIX a
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=892db49e94a5d73f6ca9b6900bcb769b14df2f140235fcb8259bf56cb9587498; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> S. Matulaitytė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: S. Samalavičius: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: S. Matulaitytė: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "S. Samalavičius" parinktas kaip owner_note_path. Targetas "S. Matulaitytė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

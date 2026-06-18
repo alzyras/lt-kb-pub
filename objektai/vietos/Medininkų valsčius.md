@@ -35,6 +35,16 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_place: Medininkai; mentioned_place: Medvėgalis; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 647348-648137; hash=daa323e76e06a534a21e606ba8aab2e97e6deb84689291ed4dc4dad104a5db5f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų valsčius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčius" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58354"></a>
 - t-002
@@ -47,42 +57,82 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
   temporalinis_llm_pakomentavimas: 'Citata remia konkretų faktą apie du sudegintus kaimus Medininkų valsčiuje.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 648177-648879; hash=973dcb1ead995272fa066f037bf2f6242dee803996dd93e24e8d063e3af202f0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų valsčius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčius" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58355"></a>
 - t-003
   global_id: t-58355
   teiginys: '1314 m. brolis Henrikas su Sembos ir Notangos vyrais įsiveržė į Medininkų valsčių, jį nusiaubė ir paėmė ar nužudė 700 žmonių.'
   sudarymo_pagrindimas: 'Citata remia aiškų žygio, vietos ir padarinių faktą; pašalintos perteklinės detalės.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Medininkai; mentioned_place: Notanga; mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Notanga; mentioned_place: Semba; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1314 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia aiškų žygio, vietos ir padarinių faktą; pašalintos perteklinės detalės.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 648880-649628; hash=9d905b4f82c972afff9b87263f3a0b9aff7c22534b7c1e7447404c25d308da5d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krivičiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų valsčius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krivičiai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčius" parinktas kaip owner_note_path. Targetas "Krivičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58356"></a>
 - t-004
   global_id: t-58356
   teiginys: '1316 m. brolis Henrikas su Reino krašto maldininkais nusiaubė Medininkų valsčių ir paėmė ar nukovė 200 žmonių.'
   sudarymo_pagrindimas: 'Citata tiesiogiai remia Medininkų valsčiaus nusiaubimą 1316 m. ir jo padarinius.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Medininkai; mentioned_place: Reinas'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Reinas'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai remia Medininkų valsčiaus nusiaubimą 1316 m. ir jo padarinius.'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a72516142084c9d7b3050ed544e7ca74580a99de66ca4ebf00f620dc3001b351; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų valsčius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčius" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58357"></a>
 - t-005
   global_id: t-58357
   teiginys: '1314 m. apie Grabnyčias brolis Henrikas Medininkų valsčiuje užpuolė Sizditės pilį, o vėliau nusiaubė jos apylinkes.'
   sudarymo_pagrindimas: 'Citata remia žygio į Medininkų valsčių ir Sizditės pilies puolimo faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Medininkai; mentioned_place: Pilėnai; mentioned_place: Sizditė'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Sizditė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pilėnai'
   temporaliniai_duomenys: 'įvykio data: 1314 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia žygio į Medininkų valsčių ir Sizditės pilies puolimo faktą.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f04973f27e96d082c2d8566480be957f0412255b9f389a9e9169579056b3c739; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų valsčius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčius" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185046"></a>
 - t-007
@@ -92,12 +142,22 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_place: Medininkai; mentioned_place: Pagraudė'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Pagraudė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 334341-334759; hash=391439d7222eecbf3ef47172543a5126fbd10b32d3e92497bcb246af1eea13e8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų valsčius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčius" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -137,6 +197,16 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 647348-648137; hash=daa323e76e06a534a21e606ba8aab2e97e6deb84689291ed4dc4dad104a5db5f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų valsčius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčius" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -156,6 +226,16 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 648177-648879; hash=973dcb1ead995272fa066f037bf2f6242dee803996dd93e24e8d063e3af202f0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų valsčius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčius" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -180,7 +260,27 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 648880-649628; hash=9d905b4f82c972afff9b87263f3a0b9aff7c22534b7c1e7447404c25d308da5d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krivičiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų valsčius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krivičiai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčius" parinktas kaip owner_note_path. Targetas "Krivičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f04973f27e96d082c2d8566480be957f0412255b9f389a9e9169579056b3c739; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų valsčius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčius" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-005
@@ -198,6 +298,16 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 648177-648879; hash=973dcb1ead995272fa066f037bf2f6242dee803996dd93e24e8d063e3af202f0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų valsčius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčius" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-006
@@ -218,4 +328,24 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a72516142084c9d7b3050ed544e7ca74580a99de66ca4ebf00f620dc3001b351; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų valsčius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčius" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 334341-334759; hash=391439d7222eecbf3ef47172543a5126fbd10b32d3e92497bcb246af1eea13e8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų valsčius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčius" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -22,9 +22,19 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko konkretų įsakymą Fiodorui Ostrogiškiui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vora|vora]]; mentioned_object: [[objektai/zodynas/žygio vora|žygio vora]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Podolė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vora|vora]]; mentioned_object: [[objektai/zodynas/žygio vora|žygio vora]]; mentioned_place: Podolė; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 776957-777638; hash=56fb18f9761c5b83f4eb97bee07a280121283f1ed6dcc2a7257473cd94b45150; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Podolė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fiodoras Ostrogiškis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Podolė: mention_match, place, gap=61
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fiodoras Ostrogiškis" parinktas kaip owner_note_path. Targetas "Podolė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186038"></a>
 - t-002
@@ -37,6 +47,16 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 781160-781555; hash=263b40c78de6d39c2d9d879393a5bb90b994326ce321852b598f5f43175e69ab; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fiodoras Ostrogiškis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=61
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fiodoras Ostrogiškis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.).md#claim-t-185840|Švitrigailos įsiveržimas į Lietuvą ir Fiodoro Ostrogiškio žygis į Podolę (1432 m.)]]: Fiodoras Ostrogiškis netikėtai užpuolė Podolę ir netrukus ją sugrąžino Boleslovui Švitrigailai.
 ## Reikšmingi paminėjimai
 
@@ -93,4 +113,24 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 776957-777638; hash=56fb18f9761c5b83f4eb97bee07a280121283f1ed6dcc2a7257473cd94b45150; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Podolė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fiodoras Ostrogiškis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Podolė: mention_match, place, gap=61
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fiodoras Ostrogiškis" parinktas kaip owner_note_path. Targetas "Podolė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 781160-781555; hash=263b40c78de6d39c2d9d879393a5bb90b994326ce321852b598f5f43175e69ab; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fiodoras Ostrogiškis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=61
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fiodoras Ostrogiškis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

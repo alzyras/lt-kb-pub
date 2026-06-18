@@ -34,9 +34,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys pilnas, aiškus ir paremtas citata apie žygį į Riazanės valdas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis]]; mentioned_place: Donas; mentioned_place: Lietuva; mentioned_place: Mstislavlis; mentioned_place: Riazanė; mentioned_place: Volga'
+  susije_objektai: 'mentioned_place: Donas; mentioned_place: Riazanė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis]]; mentioned_place: Lietuva; mentioned_place: Mstislavlis; mentioned_place: Volga'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 612542-613369; hash=e11285e90014eeb5a5990146e702e2eb47e57c48541d510f6d3b3d69640e3bcd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Donas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vytauto šalininkų žygis į Riazanę: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Donas: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto šalininkų žygis į Riazanę" parinktas kaip owner_note_path. Targetas "Donas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -68,3 +78,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 612542-613369; hash=e11285e90014eeb5a5990146e702e2eb47e57c48541d510f6d3b3d69640e3bcd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Donas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vytauto šalininkų žygis į Riazanę: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Donas: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto šalininkų žygis į Riazanę" parinktas kaip owner_note_path. Targetas "Donas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

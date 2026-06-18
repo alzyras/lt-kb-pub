@@ -31,6 +31,9 @@ Dusburgietis teigia, kad crome H.
   sudarymo_pagrindimas: 'Citata yra bibliografinis įrašas, todėl galima suformuluoti faktą apie publikavimo vietą ir laiką.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 767787-768032; hash=8b3e2a4da9c1db6a0a351ccbc36fcc8613f2129bfc7c665f402625a4871ca9eb; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +49,6 @@ Dusburgietis teigia, kad crome H.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 767787-768032; hash=8b3e2a4da9c1db6a0a351ccbc36fcc8613f2129bfc7c665f402625a4871ca9eb; match=exact
+  sprendimo_priezastis: auto

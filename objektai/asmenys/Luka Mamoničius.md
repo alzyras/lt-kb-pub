@@ -36,6 +36,16 @@ periodo_grupes:
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Luką Mamoničių ir leidinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 597210-597919; hash=988f04621cdf2c908f5dc39ddba45290fa0545a22bd7b2ea48540218dfcd702b; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Petras Timofiejevas Mstislavliškis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Luka Mamoničius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Petras Timofiejevas Mstislavliškis: mention_match, person, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Luka Mamoničius" parinktas kaip owner_note_path. Targetas "Petras Timofiejevas Mstislavliškis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -70,3 +80,13 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 597210-597919; hash=988f04621cdf2c908f5dc39ddba45290fa0545a22bd7b2ea48540218dfcd702b; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Petras Timofiejevas Mstislavliškis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Luka Mamoničius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Petras Timofiejevas Mstislavliškis: mention_match, person, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Luka Mamoničius" parinktas kaip owner_note_path. Targetas "Petras Timofiejevas Mstislavliškis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -58,6 +58,9 @@ Nenurodyta
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 300250-300706; hash=50a54e3aff6ee35f9d77e03097d636e2fe3178bc6396f57bde787ca941bd9680; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-23287"></a>
 - t-002
@@ -66,6 +69,9 @@ Nenurodyta
   sudarymo_pagrindimas: 'Citata leidžia patikslinti derlingumo pokyčio mastą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 300250-300706; hash=50a54e3aff6ee35f9d77e03097d636e2fe3178bc6396f57bde787ca941bd9680; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -85,7 +91,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 300250-300706; hash=50a54e3aff6ee35f9d77e03097d636e2fe3178bc6396f57bde787ca941bd9680; match=exact
+  sprendimo_priezastis: auto
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 300250-300706; hash=50a54e3aff6ee35f9d77e03097d636e2fe3178bc6396f57bde787ca941bd9680; match=exact
+  sprendimo_priezastis: auto
 
 ## Šaltiniai ir įrodymai
 

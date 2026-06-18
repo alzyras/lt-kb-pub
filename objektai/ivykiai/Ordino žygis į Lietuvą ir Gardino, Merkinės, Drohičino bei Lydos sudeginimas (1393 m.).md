@@ -47,6 +47,16 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Drohičinas; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Lyda; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3057caf30c10926b667377c6d9f4c3a2f97f56d064923727476c55f5ddc0568a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drohičinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Drohičinas: mention_match, place, gap=123
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.)" parinktas kaip owner_note_path. Targetas "Drohičinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -64,3 +74,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3057caf30c10926b667377c6d9f4c3a2f97f56d064923727476c55f5ddc0568a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drohičinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Drohičinas: mention_match, place, gap=123
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.)" parinktas kaip owner_note_path. Targetas "Drohičinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

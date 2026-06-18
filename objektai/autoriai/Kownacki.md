@@ -25,6 +25,9 @@ Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor.
   sudarymo_pagrindimas: 'Citata palaiko faktinį teiginį apie Kownackio poziciją.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 37600-37900; hash=8de9dedec8d4e63060f05319d0cd6936b81cdd5013f9030ae572c6a79611659a; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +50,6 @@ Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 37600-37900; hash=8de9dedec8d4e63060f05319d0cd6936b81cdd5013f9030ae572c6a79611659a; match=whitespace_regex
+  sprendimo_priezastis: auto

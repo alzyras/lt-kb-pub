@@ -35,18 +35,39 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Kaimas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Sūduva; mentioned_place: Viena'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=022b22cc1e283e9f8f1f21db98d94916e002c002d35d04708db1cc312c7558d2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konradas, vardu Divelis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas, vardu Divelis" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-89923"></a>
 - t-002
   global_id: t-89923
   teiginys: 'Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.'
   sudarymo_pagrindimas: 'Pašalintas išnašos ir OCR triukšmas; citata remia tą patį vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]; mentioned_place: Barta; mentioned_place: Lietuva; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Ragainė; mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'appointee: [[objektai/asmenys/Pelužis|Pelužis]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Barta; mentioned_place: Lietuva; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Ragainė; mentioned_place: Semba; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas, vardu Divelis|Konradas, vardu Divelis]] paskyrė [[objektai/asmenys/Pelužis|Pelužis]]'
   temporaliniai_duomenys: 'įvykio data: 1286 m.; įvykio data: apie 1286 m.; įvykio data: 1289 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Pašalintas išnašos ir OCR triukšmas; citata remia tą patį vaidmenį.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ba45d03c3b0e39ae0e473f12aad8f5a48d27a959b0a1cf2468e5bb38f3db587; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: paskyre -> Pelužis: 0.89
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
+  ryšio_subjekto_parinkimas: Konradas, vardu Divelis: owner_note_path, person, gap=8
+  ryšio_targeto_parinkimas: Pelužis: nearest_after_predicate, person, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Konradas, vardu Divelis" parinktas kaip owner_note_path. Targetas "Pelužis" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 ## Reikšmingi paminėjimai
 
@@ -87,6 +108,16 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=aebf4b1c5d4da26a03613947212a514defafc9e04162f86c46f6bf57916ea237; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: paskyre -> Pelužis: 0.89
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
+  ryšio_subjekto_parinkimas: Konradas, vardu Divelis: owner_note_path, person, gap=8
+  ryšio_targeto_parinkimas: Pelužis: nearest_after_predicate, person, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Konradas, vardu Divelis" parinktas kaip owner_note_path. Targetas "Pelužis" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
     - t-001
 
 - c-003
@@ -107,4 +138,27 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=022b22cc1e283e9f8f1f21db98d94916e002c002d35d04708db1cc312c7558d2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konradas, vardu Divelis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas, vardu Divelis" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ba45d03c3b0e39ae0e473f12aad8f5a48d27a959b0a1cf2468e5bb38f3db587; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: paskyre -> Pelužis: 0.89
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
+  ryšio_subjekto_parinkimas: Konradas, vardu Divelis: owner_note_path, person, gap=8
+  ryšio_targeto_parinkimas: Pelužis: nearest_after_predicate, person, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Konradas, vardu Divelis" parinktas kaip owner_note_path. Targetas "Pelužis" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+
+## Ryšiai
+- Konradas, vardu Divelis paskyre [[objektai/asmenys/Pelužis]]

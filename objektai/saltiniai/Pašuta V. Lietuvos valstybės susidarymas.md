@@ -33,7 +33,7 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
   global_id: t-60924
   teiginys: 'Pašutos veikalo puslapis 340 nurodomas prie bandymo lokalizuoti minimą vietovę buvusioje Pagraudės teritorijoje.'
   sudarymo_pagrindimas: 'Rewrite failed deterministic gates: heading_or_page_noise'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pagraudė'
+  susije_objektai: 'mentioned_place: Pagraudė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
 

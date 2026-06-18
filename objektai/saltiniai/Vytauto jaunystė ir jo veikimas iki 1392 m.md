@@ -32,11 +32,21 @@ amziai:
 - t-001
   global_id: t-31977
   teiginys: 'Z. Ivinskio „Vytauto jaunystė ir jo veikimas iki 1392 m.“ paskelbtas 1930 m. Kaune išleistame rinkinyje „Vytautas Didysis“.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
   temporaliniai_duomenys: 'įvykio data: iki 1392 m.; įvykio data: 1392 m.; įvykio data: 1930 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b7be00fb70ecb94af37073b8518d02d217f90515b14f86fee917290c72296950; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vytauto jaunystė ir jo veikimas iki 1392 m: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto jaunystė ir jo veikimas iki 1392 m" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -54,3 +64,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b7be00fb70ecb94af37073b8518d02d217f90515b14f86fee917290c72296950; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vytauto jaunystė ir jo veikimas iki 1392 m: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vytauto jaunystė ir jo veikimas iki 1392 m" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

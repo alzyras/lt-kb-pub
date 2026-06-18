@@ -40,12 +40,22 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys yra aiški faktinė santrauka, tiesiogiai paremta citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Daugpilis; mentioned_place: Dauguva; mentioned_place: Livonija; mentioned_place: Prūsija'
+  susije_objektai: 'territory: Daugpilis; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Daugpilis; mentioned_place: Dauguva; mentioned_place: Livonija; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1396 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra aiški faktinė santrauka, tiesiogiai paremta citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 602084-602697; hash=d4f0b87d6193910521cc133d9f538adce359a0d25a41d948dc8c02b13b629700; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzeme -> Daugpilis: 0.87
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=49
+  ryšio_targeto_parinkimas: Daugpilis: nearest_after_predicate, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Daugpilis" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
 
 ## Reikšmingi paminėjimai
 
@@ -77,3 +87,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 602084-602697; hash=d4f0b87d6193910521cc133d9f538adce359a0d25a41d948dc8c02b13b629700; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzeme -> Daugpilis: 0.87
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=49
+  ryšio_targeto_parinkimas: Daugpilis: nearest_after_predicate, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Daugpilis" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.

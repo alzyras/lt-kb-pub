@@ -26,6 +26,9 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
   sudarymo_pagrindimas: 'Reikėjo pašalinti antraštės kartojimą, OCR lūžius ir perteklinę informaciją.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7d589b82b3753d70e503b6dbf375a17fcecfaf10196173726681c4a1e9cb3a17; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-67301"></a>
 - t-002
@@ -34,6 +37,9 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
   sudarymo_pagrindimas: 'Pirminis teiginys buvo fragmentiškas ir baigėsi nutrūkusia mintimi.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4d85b2f28dbba01510ca18ac17e74c14fe99fc4eef1453f82719a019511e80ce; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/grupes/Varšuvos konfederacinis seimas.md#claim-t-01516|Varšuvos konfederacinis seimas (seimas)]]: Varšuvos konfederacinis seimas pripažino Rusijai teisę prižiūrėti, kad nebūtų pakeistos kardinalinės teisės.
 ## Reikšmingi paminėjimai
 
@@ -72,4 +78,10 @@ kardinalinės teisės: rusų kariuomenės apsupti, jie buvo priversti pasirašyt
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7d589b82b3753d70e503b6dbf375a17fcecfaf10196173726681c4a1e9cb3a17; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4d85b2f28dbba01510ca18ac17e74c14fe99fc4eef1453f82719a019511e80ce; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

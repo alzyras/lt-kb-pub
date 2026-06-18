@@ -32,6 +32,16 @@ Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą 1307 metais Brolis F
   susije_objektai: 'mentioned_place: Karšuva; mentioned_place: Ragainė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d3d79a149cec5ca476cd9370c053f0a4c9c6c1dca1822ab75584c1d0e1e426e9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Karšuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karšuviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Karšuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karšuviai" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.).md#claim-t-28824|Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.)]]: 1307 m. Ragainės komtūro riteriai nusiaubė Karšuvą, o rudenį sudegino karšuvių paliktas Skronaičių ir Bebirvaičių pilis.
 - susijęs iš Karšuva: Nesisekė tada lietuviams ir Karšuvos srityje.
 ## Reikšmingi paminėjimai
@@ -57,3 +67,13 @@ Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą 1307 metais Brolis F
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d3d79a149cec5ca476cd9370c053f0a4c9c6c1dca1822ab75584c1d0e1e426e9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Karšuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karšuviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Karšuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karšuviai" parinktas kaip owner_note_path. Targetas "Karšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

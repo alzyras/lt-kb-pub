@@ -27,6 +27,16 @@ Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta
   susije_objektai: 'mentioned_place: Aiviekstė; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 719685-720173; hash=fdb637581ce0e7c6fd7d6af368627eb89723a8e72f8524f9bca0a925e4d2c85f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aiviekstė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liubano ežeras: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Aiviekstė: mention_match, place, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liubano ežeras" parinktas kaip owner_note_path. Targetas "Aiviekstė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +59,13 @@ Plačiu ruožu atsiremdama į Baltijos jūrą, šiaurėje siena buvo užbrėžta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 719685-720173; hash=fdb637581ce0e7c6fd7d6af368627eb89723a8e72f8524f9bca0a925e4d2c85f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aiviekstė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liubano ežeras: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Aiviekstė: mention_match, place, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liubano ežeras" parinktas kaip owner_note_path. Targetas "Aiviekstė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

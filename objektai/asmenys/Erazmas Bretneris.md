@@ -36,8 +36,18 @@ Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­ vė), kurio savininkas b
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata apie Bretnerio testamentą.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183846|Žygimantas Augustas (arkivyskupas, XVI a.)]]: 1546 m. Žygimanto Augusto laikais būsimos vaistinės vietoje stovėjo medinis namas su dideliu sklypu.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 388839-389450; hash=0b05e9a378c38614613eb4dfada62c5b1e4f8b3f32729f3a8181b665422c8fec; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Namas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Erazmas Bretneris: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Erazmas Bretneris" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš 1546 m. Erazmo Bretnerio testamentas: 1546 m. Vilniaus burmistras ir auksakalys Erazmas Bretneris testamentu paskyrė savo namą Švč. Trejybės špitolei.
+- susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183846|Žygimantas Augustas (arkivyskupas, XVI a.)]]: 1546 m. Žygimanto Augusto laikais būsimos vaistinės vietoje stovėjo medinis namas su dideliu sklypu.
 - susijęs iš Akademinės Šv. Jono kolegijos vaistinė: 1546 m. dabartinės Akademinės Šv. Jono kolegijos vaistinės vietoje stovėjo medinis namas su dideliu sklypu.
 - susijęs iš Šv. Jono gatvė: Žygimanto Augusto laikais kampinis medinis namas stovėjo ties posūkiu iš Šv. Jono gatvės į Vyskupų gatvę.
 ## Reikšmingi paminėjimai
@@ -62,3 +72,13 @@ Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­ vė), kurio savininkas b
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 388839-389450; hash=0b05e9a378c38614613eb4dfada62c5b1e4f8b3f32729f3a8181b665422c8fec; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Namas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Erazmas Bretneris: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Erazmas Bretneris" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

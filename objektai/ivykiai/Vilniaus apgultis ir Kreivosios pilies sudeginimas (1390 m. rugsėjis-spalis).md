@@ -53,12 +53,21 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Mikalojus Moskoževskis|Mikalojus Moskoževskis]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 259944-260496; hash=e970e71c5c40d9e96c05d3abffb95266cbea60af9589bf343499fe6fcc5caeb8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Anglija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_targeto_parinkimas: Anglija: nearest_after_predicate, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Anglija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54711"></a>
 - t-002
   global_id: t-54711
   teiginys: '1390 m. žygiui į Vilnių vadovavo Ordino maršalas Engelhardas Rabė, o į parengtį Prūsijoje atvyko savanoriai iš Anglijos ir Prancūzijos.'
-  susije_objektai: 'location: Anglija; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'location: Anglija; mentioned_place: Prancūzija; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1390 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -69,7 +78,7 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
   global_id: t-54712
   teiginys: 'Per 1390 m. Vilniaus apgultį žuvo daug gyventojų, miestas buvo beveik sunaikintas, Kreivoji pilis sudeginta, o Aukštutinė tvirtovė susilpninta.'
   sudarymo_pagrindimas: 'Reikia pašalinti perteklinį vertinamąjį įvadą ir aiškiai įvardyti įvykį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1390 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti perteklinį vertinamąjį įvadą ir aiškiai įvardyti įvykį.'
@@ -138,4 +147,13 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 259944-260496; hash=e970e71c5c40d9e96c05d3abffb95266cbea60af9589bf343499fe6fcc5caeb8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Anglija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_targeto_parinkimas: Anglija: nearest_after_predicate, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Anglija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003

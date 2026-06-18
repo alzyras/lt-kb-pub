@@ -36,6 +36,16 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Bibliografinį fragmentą reikia paversti pilnu sakiniu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=87a030cf257eaff050549a8b250e4497b0023365104aae3b2ce0260151199231; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> S. Urbonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čiurlionis Vilniuje: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: S. Urbonas: mention_match, author, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čiurlionis Vilniuje" parinktas kaip owner_note_path. Targetas "S. Urbonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +59,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=87a030cf257eaff050549a8b250e4497b0023365104aae3b2ce0260151199231; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> S. Urbonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čiurlionis Vilniuje: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: S. Urbonas: mention_match, author, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čiurlionis Vilniuje" parinktas kaip owner_note_path. Targetas "S. Urbonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -83,10 +83,10 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra pirmojo asmens citatos fragmentas, todėl reikia enciklopedinės formuluotės.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
 - susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
 - susijęs iš Kalniškės miškas: Kalniškės miškas yra apie 3–4 km pločio ir 8 km ilgio mišrus miškas, kuriame 1945 m. įvyko Kalniškės mūšis.
 - susijęs iš Krosna: Apie kilometrą už Krosnos Lazdijų link buvo Kalniškės miškas, kuriame 1945 m. įvyko Kalniškės mūšis.
+- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
 ## Reikšmingi paminėjimai
 
 - c-001

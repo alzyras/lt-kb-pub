@@ -32,9 +32,19 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   global_id: t-59953
   teiginys: 'Eberhardas, Varmės vyskupas, Fridricho iš Libencelės pastangomis pastatydino Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Galinda; mentioned_place: Latgala; mentioned_place: Lietuva; mentioned_place: Varmė; mentioned_place: Vartenbergas'
+  susije_objektai: 'mentioned_place: Galinda; mentioned_place: Vartenbergas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Latgala; mentioned_place: Lietuva; mentioned_place: Varmė'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f57c6ff805a950f6a640ed4e6eb18d40c79d41b3146df70c5c2031124b6089a4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_brolis -> Fridrichas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_family_local_relative
+  ryšio_subjekto_parinkimas: Fridrichas iš Libencelės (vyskupas, XIV a.): owner_note_path, person, gap=7
+  ryšio_targeto_parinkimas: Fridrichas: nearest_family_person, person, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Fridrichas iš Libencelės (vyskupas, XIV a.)" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 <a id="claim-t-59954"></a>
 - t-002
@@ -47,24 +57,55 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   temporalinis_llm_pakomentavimas: 'Perrašyta glaudžiau ir tiksliau, nurodant, kad buvo išžudyti sargybą keitę lietuviai.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8c9abe281789fc5462cfae9b4122c8eaf729f27e7178ac099ad6ba369f3bc87a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bisenė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fridrichas iš Libencelės (vyskupas, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas iš Libencelės (vyskupas, XIV a.)" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59955"></a>
 - t-003
   global_id: t-59955
   teiginys: 'Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_place: Pagraudė; mentioned_place: Pilėnai; mentioned_place: Ragainė; mentioned_place: Semba'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albrechtas iš Hageno|Albrechtas iš Hageno]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pilėnai; mentioned_place: Ragainė; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_place: Pagraudė; mentioned_place: Semba'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0deaf6b19821a09fb2024846f02d04c773c9e7d6ffe4167a76e8777c3e952a4b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albrechtas iš Hageno: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fridrichas iš Libencelės (vyskupas, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Albrechtas iš Hageno: mention_match, person, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas iš Libencelės (vyskupas, XIV a.)" parinktas kaip owner_note_path. Targetas "Albrechtas iš Hageno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59956"></a>
 - t-004
   global_id: t-59956
   teiginys: 'Brolis Fridrichas iš Libencelės buvo paimtas į nelaisvę, kai Stanta su bendrais klastingai įsibrovė į Bartenšteino pilį.'
   sudarymo_pagrindimas: 'Citata tiesiogiai remia Fridricho iš Libencelės paėmimą į nelaisvę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_place: Bartenšteinas; mentioned_place: Sklunija'
+  susije_objektai: 'family: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Bartenšteinas; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_place: Sklunija'
+  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas iš Libencelės|Fridrichas iš Libencelės]] buvo brolis [[objektai/asmenys/Fridrichas|Fridrichas]]'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 684933-685845; hash=5218249511c81579998d0ccb1bc71cad9bc96f8f38a2e7f0fd9f25613fb61625; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Galinda: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fridrichas iš Libencelės (vyskupas, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Galinda: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas iš Libencelės (vyskupas, XIV a.)" parinktas kaip owner_note_path. Targetas "Galinda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56683|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. Fridrichas iš Libencelės su 150 vyrų turėjo slapta paimti Gedimino pilį, bet pilėnai ją apgynė, o papilys sudegė.
 - susijęs iš [[objektai/ivykiai/lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.).md#claim-t-59476|lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.)]]: Fridrichas iš Libencelės su bendražygiais išžudė Bisenės pilies sargybą keitusius lietuvius; pabėgo tik penki vyrai.
 - susijęs iš Bisenė: 1316 m. Fridrichas iš Libencelės prie Bisenės pilies išžudė lietuvių sargybos pamainą, išskyrus penkis pabėgusius vyrus.
@@ -117,6 +158,16 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8c9abe281789fc5462cfae9b4122c8eaf729f27e7178ac099ad6ba369f3bc87a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bisenė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fridrichas iš Libencelės (vyskupas, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas iš Libencelės (vyskupas, XIV a.)" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -138,6 +189,16 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f57c6ff805a950f6a640ed4e6eb18d40c79d41b3146df70c5c2031124b6089a4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_brolis -> Fridrichas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_family_local_relative
+  ryšio_subjekto_parinkimas: Fridrichas iš Libencelės (vyskupas, XIV a.): owner_note_path, person, gap=7
+  ryšio_targeto_parinkimas: Fridrichas: nearest_family_person, person, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Fridrichas iš Libencelės (vyskupas, XIV a.)" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
     - t-003
 
 - c-004
@@ -157,4 +218,27 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0deaf6b19821a09fb2024846f02d04c773c9e7d6ffe4167a76e8777c3e952a4b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albrechtas iš Hageno: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fridrichas iš Libencelės (vyskupas, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Albrechtas iš Hageno: mention_match, person, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas iš Libencelės (vyskupas, XIV a.)" parinktas kaip owner_note_path. Targetas "Albrechtas iš Hageno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 684933-685845; hash=5218249511c81579998d0ccb1bc71cad9bc96f8f38a2e7f0fd9f25613fb61625; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Galinda: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fridrichas iš Libencelės (vyskupas, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Galinda: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas iš Libencelės (vyskupas, XIV a.)" parinktas kaip owner_note_path. Targetas "Galinda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Fridrichas iš Libencelės (vyskupas, XIV a.) buvo_brolis [[objektai/asmenys/Fridrichas]]

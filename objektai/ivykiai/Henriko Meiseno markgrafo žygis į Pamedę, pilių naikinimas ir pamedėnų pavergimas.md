@@ -49,24 +49,43 @@ Nenurodyta
   global_id: t-66557
   teiginys: 'Henrikas Meiseno markgrafas 1236 m. atvyko į Prūsiją ir niokojo Pamedę.'
   sudarymo_pagrindimas: 'Bibliografinis triukšmas pašalintas, o pastabos faktas sujungtas su objekto pavadinimu.'
-  susije_objektai: 'location: Prūsija; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Rudinas'
+  susije_objektai: 'location: Prūsija; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_place: Rizenburgas; mentioned_place: Rudinas'
   temporaliniai_duomenys: 'kelionės data: 1236 m.; kelionės data: 1300 m.; kelionės data: 1437 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Bibliografinis triukšmas pašalintas, o pastabos faktas sujungtas su objekto pavadinimu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 250860-251203; hash=acf6cef15dc64f76a5b0e38321559fd01ddf6c17a219a663617a627fb751dd79; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-66558"></a>
 - t-002
   global_id: t-66558
   teiginys: 'Pamedėje Henrikas, Meiseno markgrafas, puolė Reisių valsčių, naikino pilis ir privertė pamedėnus pasiduoti tikėjimui bei broliams.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ir turi OCR bei išnašų triukšmo; citata pagrindžia puolimą, pilių naikinimą ir pasidavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Rudinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_place: Pamedė; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Rudinas'
   temporaliniai_duomenys: 'įvykio data: 1236 m.; įvykio data: 1300 m.; įvykio data: 1437 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta ir turi OCR bei išnašų triukšmo; citata pagrindžia puolimą, pilių naikinimą ir pasidavimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 251204-252760; hash=15b26b0a487a2294e1a52ed010f7fe8aa9408846801a1cb27c9c35b9d2d22a11; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pamedė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Pamedė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas" parinktas kaip owner_note_path. Targetas "Pamedė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-66559"></a>
 - t-003
@@ -76,6 +95,15 @@ Nenurodyta
   susije_objektai: 'location: Prūsija; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 251204-252760; hash=15b26b0a487a2294e1a52ed010f7fe8aa9408846801a1cb27c9c35b9d2d22a11; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -110,6 +138,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 251204-252760; hash=15b26b0a487a2294e1a52ed010f7fe8aa9408846801a1cb27c9c35b9d2d22a11; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pamedė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Pamedė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas" parinktas kaip owner_note_path. Targetas "Pamedė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-002
@@ -130,5 +168,32 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 250860-251203; hash=acf6cef15dc64f76a5b0e38321559fd01ddf6c17a219a663617a627fb751dd79; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 251204-252760; hash=15b26b0a487a2294e1a52ed010f7fe8aa9408846801a1cb27c9c35b9d2d22a11; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 250860-251203; hash=acf6cef15dc64f76a5b0e38321559fd01ddf6c17a219a663617a627fb751dd79; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

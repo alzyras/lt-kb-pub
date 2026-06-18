@@ -25,6 +25,16 @@ Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Iva
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 787338-787701; hash=e162690e27b011b6275016f82e1a9a7a0139729db8e4c3af6c6287ae39fb5f06; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Boleslovas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Michaila Ivanovičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Boleslovas: mention_match, person, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Michaila Ivanovičius" parinktas kaip owner_note_path. Targetas "Boleslovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +56,13 @@ Boleslovas per žygį paėmė į nelaisvę Toločino kunigaikštį Michailą Iva
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 787338-787701; hash=e162690e27b011b6275016f82e1a9a7a0139729db8e4c3af6c6287ae39fb5f06; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Boleslovas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Michaila Ivanovičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Boleslovas: mention_match, person, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Michaila Ivanovičius" parinktas kaip owner_note_path. Targetas "Boleslovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

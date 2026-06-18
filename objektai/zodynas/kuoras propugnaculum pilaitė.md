@@ -33,13 +33,23 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Pomandas|Pomandas]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Partigala'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 255112-255565; hash=3bfdb29d26801281b24f10badc8f1fadf17bdd6467bab760da265b868c78ecb7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marienburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kuoras propugnaculum pilaitė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Marienburgas: mention_match, place, gap=62
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kuoras propugnaculum pilaitė" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58786"></a>
 - t-002
   global_id: t-58786
   teiginys: 'Prūsų pilaitė prie Wildenbergo aiškinama kaip buvusi greta vėlesnės Marienburgo pilies arba jos vietoje.'
   sudarymo_pagrindimas: 'Pašalintas OCR ir fragmentiškumas, palikta tik citatos paremta interpretacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Marienburgas; mentioned_place: Nogatas; mentioned_place: Pilaitė; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Marienburgas; mentioned_place: Pilaitė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Nogatas; mentioned_place: Prūsai'
   pagrindžia:
     - c-003
 
@@ -48,9 +58,19 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   global_id: t-58787
   teiginys: 'Broliai užgrobė prūsų apeiginį katilą ir iš pamatų sugriovė visus tris Bartenšteino pilį supusius kuorus.'
   sudarymo_pagrindimas: 'Fragmentas paverstas pilnu sakiniu su aiškiu objektu ir veiksmu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Katilas|Katilas]]; mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Bartenšteinas; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_object: [[objektai/daiktai/Katilas|Katilas]]; mentioned_place: Bartenšteinas; mentioned_place: Prūsai'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=81e3145cf2f0674c9869fcab8116317c6580e310e83657c98c8642c140b64b53; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baiga: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kuoras propugnaculum pilaitė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Baiga: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kuoras propugnaculum pilaitė" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58788"></a>
 - t-004
@@ -60,6 +80,16 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   susije_objektai: 'mentioned_place: Bartenšteinas; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=19018caaabec8ef28bea3d64ba4d89f56b4cb3a63d48bbb1295aed683d7c5bfb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kuoras propugnaculum pilaitė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kuorai: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kuoras propugnaculum pilaitė" parinktas kaip owner_note_path. Targetas "Kuorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58789"></a>
 - t-005
@@ -69,6 +99,16 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Prieglius; mentioned_place: Prūsai'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=780844459df274d4c685df68fbdbeeb36f113e2453bed254eb6cd7038e9e427b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kuoras propugnaculum pilaitė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kuorai: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kuoras propugnaculum pilaitė" parinktas kaip owner_note_path. Targetas "Kuorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58790"></a>
 - t-006
@@ -78,6 +118,16 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Bartenšteinas; mentioned_place: Kroicburgas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=11033f542a2aaab98076dcc3dee0e6cde26f867a3946e7b190e2ae656e43b5e4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kuoras propugnaculum pilaitė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kuoras propugnaculum pilaitė" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184006"></a>
 - t-007
@@ -90,6 +140,16 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   susije_objektai: 'mentioned_group: [[objektai/grupes/Gubučiai|Gubučiai]]; mentioned_place: Baiga; mentioned_place: Partigala; mentioned_place: Varmė'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 410565-411178; hash=752071b68809b0387437830ca0c229f619707e0548a1713d46fae51653463b37; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kuoras propugnaculum pilaitė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kuorai: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kuoras propugnaculum pilaitė" parinktas kaip owner_note_path. Targetas "Kuorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -108,6 +168,16 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   statusas: verified
   pagrindžia:
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=19018caaabec8ef28bea3d64ba4d89f56b4cb3a63d48bbb1295aed683d7c5bfb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kuoras propugnaculum pilaitė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kuorai: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kuoras propugnaculum pilaitė" parinktas kaip owner_note_path. Targetas "Kuorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-002
@@ -124,6 +194,16 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 266024-266419; hash=46ec56592ef2894a0eebc7ca2ec71675ca93a9e6ad232a7c833e74fbc492786a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baiga: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kuoras propugnaculum pilaitė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Baiga: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kuoras propugnaculum pilaitė" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-006
 
 - c-003
@@ -140,6 +220,16 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=11033f542a2aaab98076dcc3dee0e6cde26f867a3946e7b190e2ae656e43b5e4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kuoras propugnaculum pilaitė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kuoras propugnaculum pilaitė" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-004
@@ -178,6 +268,16 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 255112-255565; hash=3bfdb29d26801281b24f10badc8f1fadf17bdd6467bab760da265b868c78ecb7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marienburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kuoras propugnaculum pilaitė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Marienburgas: mention_match, place, gap=62
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kuoras propugnaculum pilaitė" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-006
@@ -201,6 +301,16 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=81e3145cf2f0674c9869fcab8116317c6580e310e83657c98c8642c140b64b53; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baiga: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kuoras propugnaculum pilaitė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Baiga: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kuoras propugnaculum pilaitė" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
 
 - c-007
@@ -217,4 +327,24 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=780844459df274d4c685df68fbdbeeb36f113e2453bed254eb6cd7038e9e427b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kuoras propugnaculum pilaitė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kuorai: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kuoras propugnaculum pilaitė" parinktas kaip owner_note_path. Targetas "Kuorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 410565-411178; hash=752071b68809b0387437830ca0c229f619707e0548a1713d46fae51653463b37; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kuoras propugnaculum pilaitė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kuorai: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kuoras propugnaculum pilaitė" parinktas kaip owner_note_path. Targetas "Kuorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

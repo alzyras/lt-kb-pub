@@ -34,6 +34,16 @@ Tai buvo žmogus, kurį dar Algirdas dėl didelių gabumų iš kepėjo sūnaus i
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 97177-97462; hash=33fccb157737c3226c8f2fc260ce43750a6f79ecf5a82e466449454229be0caf; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pataurininkis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=69
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pataurininkis" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-187525"></a>
 - t-002
@@ -49,6 +59,18 @@ Tai buvo žmogus, kurį dar Algirdas dėl didelių gabumų iš kepėjo sūnaus i
   temporalinis_llm_pakomentavimas: 'Pataisyta žodžių tvarka, kad žodyno objektas būtų aiškiai susietas su pareigybe.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 650483-650692; hash=46fedf0af26d6d477f977001f0ed869e8387e05784d70f5b8be2503b8ee3b36b; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Radvilos: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pataurininkis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Radvilos: mention_match, group, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pataurininkis" parinktas kaip owner_note_path. Targetas "Radvilos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/zodynas/pataurininkis rykūnė.md#claim-t-86605|pataurininkis rykūnė]]: Aukštutinės pilies kalno griūtis užpylė Manvydo pataurininkį ir rykūnes, o nuošliaužos užvertė jo brangenybes.
+- susijęs iš [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas.md#claim-t-185389|pataurininkis stalininkas rūmininkas iždininkas]]: Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.
 - susijęs iš [[objektai/asmenys/Andrejus Kurbskis.md#claim-t-186030|Andrejus Kurbskis]]: Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurbskį su visais palydovais.
 - susijęs iš [[objektai/asmenys/Eustachijus Valavičius.md#claim-t-184697|Eustachijus Valavičius]]: Maršalas Eustachijus Valavičius dalyvavo derybose su maskvėnų pasiuntiniais.
 - susijęs iš [[objektai/asmenys/Mikalojus Naruševičius.md#claim-t-186151|Mikalojus Naruševičius]]: Iždininkas Mikalojus Naruševičius dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.
@@ -63,8 +85,6 @@ Tai buvo žmogus, kurį dar Algirdas dėl didelių gabumų iš kepėjo sūnaus i
 - susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Kalno, ant kurio stovėjo Aukštutinė pilis, griūtis užslinko ant Manvydo rūmo ir pridarė daug nuostolių.
 - susijęs iš Vilniaus Aukštutinė pilis: Kalno, ant kurio stovėjo Aukštutinė pilis, griūtis užslinko ant Manvydo rūmo ir pridarė daug nuostolių.
 - susijęs iš Vilniaus pilies kalnas: Vilniaus pilies kalnas nuslinko ant Manvydo rūmo ir pridarė daug nuostolių.
-- susijęs iš [[objektai/zodynas/pataurininkis rykūnė.md#claim-t-86605|pataurininkis rykūnė]]: Aukštutinės pilies kalno griūtis užpylė Manvydo pataurininkį ir rykūnes, o nuošliaužos užvertė jo brangenybes.
-- susijęs iš [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas.md#claim-t-185389|pataurininkis stalininkas rūmininkas iždininkas]]: Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -98,4 +118,24 @@ Tai buvo žmogus, kurį dar Algirdas dėl didelių gabumų iš kepėjo sūnaus i
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 97177-97462; hash=33fccb157737c3226c8f2fc260ce43750a6f79ecf5a82e466449454229be0caf; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pataurininkis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=69
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pataurininkis" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 650483-650692; hash=46fedf0af26d6d477f977001f0ed869e8387e05784d70f5b8be2503b8ee3b36b; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Radvilos: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pataurininkis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Radvilos: mention_match, group, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pataurininkis" parinktas kaip owner_note_path. Targetas "Radvilos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

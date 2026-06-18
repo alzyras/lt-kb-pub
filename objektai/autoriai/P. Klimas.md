@@ -44,7 +44,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - t-001
   global_id: t-00063
   teiginys: 'P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_author: [[objektai/autoriai/P. Šležas|P. Šležas]]; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/P. Šležas|P. Šležas]]; mentioned_author: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 
@@ -60,7 +60,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   global_id: t-00068
   teiginys: 'P. Klimas buvo Lietuvos Tarybos narys.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, o P. Klimas citatoje įvardytas Lietuvos Tarybos nariu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/memorialas|memorialas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/memorialas|memorialas]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-003
 
@@ -76,8 +76,8 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/autoriai/Z. Ivinskis.md#claim-t-00084|Zenonas Ivinskis]]: Z. Ivinskis parašė veikalo dalį apie laikotarpį iki Gediminaičių dinastijos galo.
-- susijęs iš Lietuvių kalbos sintaksė: P. Klimo „Lietuvių kalbos sintaksės“ septintasis leidimas išleistas 1928 m.
 - susijęs iš P. Klimas, Vieno prancūzo įspūdžiai Lietuvoje Vytauto laikais. Guillebert de Lannoy kelionė 1413-14 metais: P. Klimo „Vieno prancūzo įspūdžiai Lietuvoje Vytauto laikais“ paskelbta „Židinyje“ 1930 m. Nr. 3, p. 232-245.
+- susijęs iš Lietuvių kalbos sintaksė: P. Klimo „Lietuvių kalbos sintaksės“ septintasis leidimas išleistas 1928 m.
 ## Reikšmingi paminėjimai
 
 - c-001

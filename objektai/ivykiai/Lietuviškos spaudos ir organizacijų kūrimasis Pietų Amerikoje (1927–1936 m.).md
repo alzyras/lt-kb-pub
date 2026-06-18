@@ -41,6 +41,9 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f1ed7f0a92f52f3c3d44224a6e7091f2b1110e746aebeebf83dfbfabc05ab1c3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 <a id="claim-t-66668"></a>
 - t-002
   global_id: t-66668
@@ -49,6 +52,9 @@ Nenurodyta
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=24affdd71f1894926f50de0535caceae5691a76670d4e5ec69ddac6d8f61ff47; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 <a id="claim-t-66669"></a>
 - t-003
   global_id: t-66669
@@ -57,6 +63,9 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0d2e16506bc20e6567169db7fe32895cdfb5183d63079804fe5bfa219ac18518; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -92,6 +101,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0d2e16506bc20e6567169db7fe32895cdfb5183d63079804fe5bfa219ac18518; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-001
 - c-003
   santrauka: 'Kunigas T. Radžius Urugvajuje subūrė tautiškas lietuvių organizacijas į Urugvajaus Lietuvių Klubą.'
@@ -111,4 +123,10 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f1ed7f0a92f52f3c3d44224a6e7091f2b1110e746aebeebf83dfbfabc05ab1c3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=24affdd71f1894926f50de0535caceae5691a76670d4e5ec69ddac6d8f61ff47; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

@@ -24,13 +24,23 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
   susije_objektai: 'mentioned_place: Kolainiai; mentioned_place: Kražiai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 937618-937895; hash=422e79d66d6d0e84f3aa140b4890e611c58df09fe4508a5bd13c6bf6e3c7e1e7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kolainiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalvarija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalvarija" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Kolainiai: Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis.
+- susijęs iš Padubysys: Padubysio mokykla buvo uždaryta kartu su Kalvarijos ir Kolainių mokyklomis.
+- susijęs iš Žemaičių Kalvarija: Po 1958 m. valdžia ribojo atlaidų lankymą Žemaičių Kalvarijoje ir Šiluvoje.
 - susijęs iš [[objektai/daiktai/Varpai.md#claim-t-89439|Varpai]]: 1958 m. pasibaigus „atšilimui“, sovietų valdžia draudė skambinti bažnyčių varpais.
 - susijęs iš [[objektai/daiktai/Varpai.md#claim-t-89442|Varpai]]: Po 1958 m. sovietų valdžia Lietuvoje draudė bažnyčiose skambinti varpais.
 - susijęs iš [[objektai/posakiai/„kiaulių marą“.md#claim-t-20906|„kiaulių marą“]]: 1958 m. pasibaigus „atšilimui“, valdžia ribojo atlaidų lankymą Šiluvoje, miestelį blokuodama ir skelbdama neva „kiaulių marą“.
-- susijęs iš Kolainiai: Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis.
-- susijęs iš Padubysys: Padubysio mokykla buvo uždaryta kartu su Kalvarijos ir Kolainių mokyklomis.
 - susijęs iš Šiluva: Nuo 1958 m. sovietų valdžia ribojo atlaidų lankymą Šiluvoje, blokuodama miestelį neva dėl „kiaulių maro“.
-- susijęs iš Žemaičių Kalvarija: Po 1958 m. valdžia ribojo atlaidų lankymą Žemaičių Kalvarijoje ir Šiluvoje.
 - susijęs iš [[objektai/zodynas/atšilimas.md#claim-t-22059|atšilimas]]: 1958 m. „atšilimas“ baigėsi, o valdžia pradėjo kovą su religija mokymo įstaigose, draudė skambinti varpais ir ribojo atlaidų lankymą.
 - susijęs iš [[objektai/zodynas/neutralitetas.md#claim-t-106804|neutralitetas]]: Po nesėkmingų Kalvarijos derybų lenkai apskundė Lietuvą Tautų Sąjungai, kaltindami ją sulaužius neutralitetą rusų ir lenkų kare.
 ## Reikšmingi paminėjimai
@@ -51,3 +61,13 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 937618-937895; hash=422e79d66d6d0e84f3aa140b4890e611c58df09fe4508a5bd13c6bf6e3c7e1e7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kolainiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalvarija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalvarija" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -24,6 +24,9 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   sudarymo_pagrindimas: 'Pašalintos OCR klaidos ir sujungta į glaustą sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 548628-548781; hash=8ea28af5b86a3b978eea3d0a7a3b695a6636f0e65616524b654c94eae034261d; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-72707"></a>
 - t-002
@@ -32,6 +35,9 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   sudarymo_pagrindimas: 'Antraštė pakeista citatos palaikomu faktiniu teiginiu.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ff917b771f7eccf6f186646e4de68f3ed858aff3e62d506bf74d3810c12c2380; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-72710"></a>
 - t-004
@@ -40,6 +46,9 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   sudarymo_pagrindimas: 'Pašalinta žodyninė įžanga ir suformuluotas pilnas faktinis sakinys.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 548628-548781; hash=8ea28af5b86a3b978eea3d0a7a3b695a6636f0e65616524b654c94eae034261d; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-182962"></a>
 - t-005
@@ -51,6 +60,9 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu įvardžiu, o citata leidžia pateikti aiškesnį sakinį apie objektą.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 548701-548995; hash=7b3ba14efcf9358ef3aa7607c3b465579979dd87ea7cdedb465104c38b02e918; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -84,6 +96,9 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 548628-548781; hash=8ea28af5b86a3b978eea3d0a7a3b695a6636f0e65616524b654c94eae034261d; match=exact
+  sprendimo_priezastis: auto
     - t-004
 
 - c-003
@@ -97,7 +112,13 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 548628-548781; hash=8ea28af5b86a3b978eea3d0a7a3b695a6636f0e65616524b654c94eae034261d; match=exact
+  sprendimo_priezastis: auto
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 550084-550286; hash=4ae56b15d89bcf0e8009dc35179b8950ca04c0b8900ed7bbbbc2d1e3a8dd5546; match=exact
+  sprendimo_priezastis: auto
     - t-002
 
 - c-004
@@ -114,4 +135,10 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ff917b771f7eccf6f186646e4de68f3ed858aff3e62d506bf74d3810c12c2380; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 548701-548995; hash=7b3ba14efcf9358ef3aa7607c3b465579979dd87ea7cdedb465104c38b02e918; match=exact
+  sprendimo_priezastis: auto

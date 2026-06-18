@@ -22,10 +22,21 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys labiau akcentuoja Vytautą, todėl perrašyta apie Vasilijų.'
-  susije_objektai: 'territory: Maskva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Marienburgas; mentioned_place: Maskva; mentioned_place: Plockas'
+  susije_objektai: 'territory: Maskva; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Marienburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Maskva; mentioned_place: Plockas'
   semantiniai_rysiai: '[[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)|Vasilijus (Maskvos kunigaikštis)]] buvo valdovas Maskva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 566154-566929; hash=9cbb7609893395a434b4eca3756a8df1488f5f54f8055d802a558305bce1621c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Vasilijus (Maskvos kunigaikštis): owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Marienburgas: candidate; Plockas: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vasilijus (Maskvos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 67, "match_index": 76, "path": "objektai/vietos/Marienburgas.md", "selected": false, "strategy": "candidate", "title": "Marienburgas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Plockas.md", "selected": false, "strategy": "candidate", "title": "Plockas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 <a id="claim-t-185993"></a>
 - t-002
@@ -35,9 +46,19 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Vasilijų, bet pradiniame teiginyje neįvardytas veiksmo subjektas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 642986-643558; hash=5e985268dbf4a49c7b935bbfa8d358061eb9ef566e7b5b5e23ae3da080fe525a; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vasilijus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vasilijus (Maskvos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vasilijus: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vasilijus (Maskvos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Vasilijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185994"></a>
 - t-003
@@ -47,9 +68,19 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko trumpesnį ir aiškesnį faktą apie Vasilijaus atsakymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vargiai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Maskva; mentioned_place: Vargiai'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1081317-1082243; hash=0da607561deb8fb11f7ea826e122c4ec5d76145d64fbdcaadf812129ca5a8add; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vasilijus (Maskvos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vasilijus (Maskvos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185995"></a>
 - t-004
@@ -62,6 +93,16 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1102383-1102885; hash=7e7aa7315a3365fe02afa9d228cd03ad2d3855f01c74044288d5f36924157af8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vasilijus (Maskvos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vasilijus (Maskvos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -120,6 +161,17 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 566154-566929; hash=9cbb7609893395a434b4eca3756a8df1488f5f54f8055d802a558305bce1621c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Vasilijus (Maskvos kunigaikštis): owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Marienburgas: candidate; Plockas: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vasilijus (Maskvos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 67, "match_index": 76, "path": "objektai/vietos/Marienburgas.md", "selected": false, "strategy": "candidate", "title": "Marienburgas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Plockas.md", "selected": false, "strategy": "candidate", "title": "Plockas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
     - t-002
 
 - c-003
@@ -148,6 +200,16 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 642986-643558; hash=5e985268dbf4a49c7b935bbfa8d358061eb9ef566e7b5b5e23ae3da080fe525a; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vasilijus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vasilijus (Maskvos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vasilijus: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vasilijus (Maskvos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Vasilijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -168,7 +230,27 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1081317-1082243; hash=0da607561deb8fb11f7ea826e122c4ec5d76145d64fbdcaadf812129ca5a8add; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vasilijus (Maskvos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vasilijus (Maskvos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1102383-1102885; hash=7e7aa7315a3365fe02afa9d228cd03ad2d3855f01c74044288d5f36924157af8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vasilijus (Maskvos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vasilijus (Maskvos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Vasilijus (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Maskva]]

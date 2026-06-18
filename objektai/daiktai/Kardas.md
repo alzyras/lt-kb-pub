@@ -69,7 +69,7 @@ Nenurodyta
   global_id: t-92969
   teiginys: '1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie kardą ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Valkininkai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Valkininkai'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie kardą ir atitinka citatą.'
@@ -109,6 +109,16 @@ Nenurodyta
   sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą ir aiškiai įvardyti įvykį.'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=de53b032681bbe7532401aa2e5b57b7c8961a3e5a283f9e3524dd69e9b851dc4; match=normalized; occurrences=1
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kardas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kardas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-92975"></a>
 - t-008
@@ -117,6 +127,31 @@ Nenurodyta
   sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą ir suformuluoti vientisą sakinį.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1e39db8b062f7f703fa3a7f2940579e7f529692703ca85465c8596b9df9d6a8c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Artilerija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kardas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kardas" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Paulius Vladimiri.md#claim-t-35262|Paulius Vladimiri]]: Paulius Vladimiri rašte išdėstė Lietuvai žalingą Ordino politiką, siekusią lietuvius krikštyti kardu ir ugnimi.
+- susijęs iš [[objektai/asmenys/Teodoras Nemyra.md#claim-t-186259|Teodoras Nemyra]]: Teodoras Nemyra, sužeistas ir beveik išsekęs, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš pavojaus.
+- susijęs iš [[objektai/daiktai/Kryžius ant kardo galo.md#claim-t-71565|Kryžius ant kardo galo]]: Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.
+- susijęs iš [[objektai/daiktai/Pistoletas.md#claim-t-40752|Pistoletas]]: Lenkas negalėjo panaudoti pistoleto, nes viena ranka laikė pavadžius, o kita kardą.
+- susijęs iš [[objektai/grupes/Kardo rinktinė.md#claim-t-38962|Kardo rinktinė]]: 1949 m. Kazimieras Kontrimas-Tėvas vadovavo Žemaičių apygardos Kardo rinktinei.
+- susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-07840|Krikščionys]]: Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir siekė juos pavergti.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179223|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179287|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
+- susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78379|Lietuvos totoriai]]: Lietuvos totoriai naudodavo rytietiškas strėlines ir buvo ginkluoti lanku, kardu bei skydu.
+- susijęs iš [[objektai/paprociai/Bajoriškųjų lengvatų suteikimas paliečiant petį kardu.md#claim-t-185911|Bajoriškųjų lengvatų suteikimas paliečiant petį kardu]]: Aleksandras ir Šich Achmetas suteikė bajoriškųjų lengvatų karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams, paliesdami jų petį kardu.
+- susijęs iš [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu.md#claim-t-87226|Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]: 1419 m. Vilniaus pilyje Vytautas didžiosios ordos chanu paskelbė Betsabutą, uždėdamas kepurę, apsiausdamas apsiaustu ir prisegdamas kardą.
+- susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
+- susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
+- susijęs iš [[objektai/zodynas/Meldžionys.md#claim-t-07679|meldžionys]]: Meldžionys Daukanto aiškinime atėjo iš Teutonijos į Žemaičius, Parusius ir Žemgalius krikštydami kardu.
+- susijęs iš [[objektai/zodynas/regimentorius.md#claim-t-70303|regimentorius]]: Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė jį savo karietoje į Valkininkus.
 - susijęs iš [[objektai/asmenys/Bogdanas Maskevičius.md#claim-t-186186|Bogdanas Maskevičius]]: Bogdanas Maskevičius su kitais sužeistais pulkų vadais prasiskynė kelią per ginkluotus būrius ir išvengė nelaisvės ar mirties.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54964|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89713|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočiai manė, kad Rygos arkivyskupas Fridrichas iš senos neapykantos atsikvietė lietuvių priešą į Livoniją.
@@ -126,44 +161,29 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Ivanas Jacyničius.md#claim-t-186212|Ivanas Jacyničius]]: Ivanas Jacyničius buvo vienas iš sužeistų pulkų vadų, kurie prasiskynė kelią per ginkluotus būrius ir išvengė nelaisvės ar mirties.
 - susijęs iš [[objektai/asmenys/Jonas XXIII.md#claim-t-176499|Jonas XXIII]]: Jonas XXIII panaikino visas Ordino privilegijas ir teises kariauti Lietuvą.
 - susijęs iš [[objektai/asmenys/Jurgis Valavičius.md#claim-t-186225|Jurgis Valavičius]]: Jurgis Valavičius su kitais sužeistais pulkų vadais prasiskynė kelią per ginkluotus būrius ir išvengė nelaisvės ar mirties.
-- susijęs iš [[objektai/asmenys/Paulius Vladimiri.md#claim-t-35262|Paulius Vladimiri]]: Paulius Vladimiri rašte išdėstė Lietuvai žalingą Ordino politiką, siekusią lietuvius krikštyti kardu ir ugnimi.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179644|Skirgaila]]: Skirgaila buvo apibūdintas kaip didelis girtuoklis, smarkus žmogus ir geras chirurgas.
-- susijęs iš [[objektai/asmenys/Teodoras Nemyra.md#claim-t-186259|Teodoras Nemyra]]: Teodoras Nemyra, sužeistas ir beveik išsekęs, su kardu rankoje prasiskynė kelią per ginkluotus būrius ir paspruko iš pavojaus.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176877|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis dažnai klausė Vytauto apie karūnacijos terminą ir skatino jį negaišti.
 - susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-08294|Karinė ginkluotė]]: Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę.
-- susijęs iš [[objektai/daiktai/Kryžius ant kardo galo.md#claim-t-71565|Kryžius ant kardo galo]]: Kryžiuočiai savo žygiuose nešė kryžių ant kardo galo.
-- susijęs iš [[objektai/daiktai/Pistoletas.md#claim-t-40752|Pistoletas]]: Lenkas negalėjo panaudoti pistoleto, nes viena ranka laikė pavadžius, o kita kardą.
-- susijęs iš [[objektai/grupes/Kardo rinktinė.md#claim-t-38962|Kardo rinktinė]]: 1949 m. Kazimieras Kontrimas-Tėvas vadovavo Žemaičių apygardos Kardo rinktinei.
 - susijęs iš [[objektai/grupes/Klevo kuopa.md#claim-t-40924|Klevo kuopa]]: 1945 m. Kazimieras Kontrimas-Tėvas vadovavo Kretingos apskrities partizanų Klevo kuopai.
-- susijęs iš [[objektai/grupes/Krikščionys.md#claim-t-07840|Krikščionys]]: Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir siekė juos pavergti.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178788|Kryžiuočių ordinas]]: Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes Prūsijoje, Žiemgalius ir Kuršius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178827|Kryžiuočių ordinas]]: Vytautą nuo sostinės dažnai atitraukdavo karai su Rusios kunigaikščiais, totorių chanais ir kryžiuočiais.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178866|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo paplitusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179103|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo įsigalėjusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179223|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179287|Lietuviai]]: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
 - susijęs iš [[objektai/grupes/Lietuvos laisvės armija.md#claim-t-78377|Lietuvos laisvės armija]]: Kazimieras Kontrimas-Tėvas 1943 m. įstojo į Lietuvos laisvės armiją ir gavo jaunesniojo leitenanto laipsnį.
-- susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78379|Lietuvos totoriai]]: Lietuvos totoriai naudodavo rytietiškas strėlines ir buvo ginkluoti lanku, kardu bei skydu.
 - susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78381|Lietuvos totoriai]]: Lietuvos totoriai naudodavo rytietiškas strėlines, kaip ir kita Lietuvos lengvoji kariuomenė.
 - susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.).md#claim-t-54161|Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]: Dovydiškių sutartimi pagoniškosios Kęstučio žemės buvo išskirtos ir paliktos tolesniems naikinimams.
 - susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas.md#claim-t-66526|Dovydiškių sutarties sudarymas]]: Dovydiškių sutartimi Kęstučio žemės buvo išskirtos ir paliktos tolesniems ordino naikinimams.
 - susijęs iš [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.).md#claim-t-05290|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]: Gedimino vardu į Vakarų Europą įvairiems adresatams buvo išsiuntinėti šeši laiškai.
 - susijęs iš [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą.md#claim-t-31420|Jonas III pirmasis kardu užatakavo Lietuvą]]: 1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karine jėga puolė Lietuvą.
 - susijęs iš [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę.md#claim-t-185541|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]: Po Vedrošos mūšio nelaisvės ar mirties išvengė Ivanas Jacyničius, Jurgis Valavičius, Teodoras Nemyra ir Bogdanas Maskevičius.
-- susijęs iš [[objektai/paprociai/Bajoriškųjų lengvatų suteikimas paliečiant petį kardu.md#claim-t-185911|Bajoriškųjų lengvatų suteikimas paliečiant petį kardu]]: Aleksandras ir Šich Achmetas suteikė bajoriškųjų lengvatų karo žygiais išgarsėjusiems lenkams, lietuviams ir skitams, paliesdami jų petį kardu.
-- susijęs iš [[objektai/paprociai/Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu.md#claim-t-87226|Totorių chanų įvesdinimas Vilniuje kunigaikščio kepure, apsiaustu ir kardu]]: 1419 m. Vilniaus pilyje Vytautas didžiosios ordos chanu paskelbė Betsabutą, uždėdamas kepurę, apsiausdamas apsiaustu ir prisegdamas kardą.
 - susijęs iš [[objektai/paprociai/Vytauto prekybos globa ir pirklių privilegijos Vilniuje.md#claim-t-87237|Vytauto prekybos globa ir pirklių privilegijos Vilniuje]]: Vytautas globojo pirklius, o Vilniaus prekyba išsiplėtė su Prūsijos, Livonijos, Pskovo, Naugardo ir Maskvos miestais.
 - susijęs iš [[objektai/posakiai/Damoklo kardas tikrai pakibo ant unijos.md#claim-t-35967|Damoklo kardas tikrai pakibo ant unijos (unija)]]: 1430 m. kovą Jogailos pašaukti lenkai susivažiavo į Jedlną ieškoti paramos unijai, kuriai kilo pavojus dėl Vytauto veiksmų.
 - susijęs iš Bobro upė: Aleksandras prie Bobro upės sužinojo apie pralaimėjimą ir Obolcuose įrengė karo stovyklą priešo žygiui stabdyti.
 - susijęs iš Dorpato vyskupija: Lietuvių pulkas įsiveržė į Livoniją ir pirmiausia ugnimi bei kardu nusiaubė Dorpato vyskupiją.
-- susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
-- susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
 - susijęs iš Vilnius: Vėlesniais Vytauto valdymo metais Vilnius atsigavo po Skirgailos valdymo žaizdų ir praturtėjo.
 - susijęs iš Žemaitija: Kol vokiečių kariuomenė stovyklavo Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.
 - susijęs iš Žemaitija: Vokiečių kariuomenei stovyklaujant Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją.
-- susijęs iš [[objektai/zodynas/Meldžionys.md#claim-t-07679|meldžionys]]: Meldžionys Daukanto aiškinime atėjo iš Teutonijos į Žemaičius, Parusius ir Žemgalius krikštydami kardu.
 - susijęs iš [[objektai/zodynas/Meldžionys.md#claim-t-07680|meldžionys]]: Meldžionis aiškinamas kaip žodis, kilęs nuo veiksmažodžio melsti.
-- susijęs iš [[objektai/zodynas/regimentorius.md#claim-t-70303|regimentorius]]: Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė jį savo karietoje į Valkininkus.
 - susijęs iš [[objektai/zodynas/vachmistras.md#claim-t-38738|vachmistras]]: Lenkų vachmistras išsiskyrė iš žiedo ir ėmė vytis bėgantį žvalgą.
 ## Reikšmingi paminėjimai
 
@@ -248,6 +268,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1e39db8b062f7f703fa3a7f2940579e7f529692703ca85465c8596b9df9d6a8c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Artilerija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kardas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kardas" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-006
@@ -301,3 +331,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=de53b032681bbe7532401aa2e5b57b7c8961a3e5a283f9e3524dd69e9b851dc4; match=normalized; occurrences=1
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kardas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kardas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

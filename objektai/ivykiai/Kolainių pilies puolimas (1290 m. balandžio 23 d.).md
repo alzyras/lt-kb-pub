@@ -45,12 +45,22 @@ Nenurodyta
   teiginys: '1290 m. balandžio 23 d. magistras Meinhardas su 500 raitelių ir 2000 pėstininkų smarkiai užpuolė Kolainių pilį.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kolainiai'
+  susije_objektai: 'mentioned_place: Kolainiai; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   temporaliniai_duomenys: 'įvykio data: 1290 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, gramatiškas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 559609-560069; hash=34df968df89f06ae8f31282c7918c6e76452138f299162529f2960ea5a6d5890; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kolainiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kolainių pilies puolimas (1290 m. balandžio 23 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kolainių pilies puolimas (1290 m. balandžio 23 d.)" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-62830"></a>
 - t-002
@@ -58,9 +68,19 @@ Nenurodyta
   teiginys: 'Per Kolainių pilies puolimą visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikėjo pašalinti perteklinį šaltinio stilių ir atribuciją.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/prisiekęs dievų galybe|prisiekęs dievų galybe]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Kolainiai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kolainiai; mentioned_object: [[objektai/posakiai/prisiekęs dievų galybe|prisiekęs dievų galybe]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 559935-560590; hash=e390b53d2b5f5bc4a80b757dc3d7d65ca133400d97bd52f63c6473d7572cab13; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kolainiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kolainių pilies puolimas (1290 m. balandžio 23 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kolainių pilies puolimas (1290 m. balandžio 23 d.)" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -96,5 +116,35 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 559935-560590; hash=e390b53d2b5f5bc4a80b757dc3d7d65ca133400d97bd52f63c6473d7572cab13; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kolainiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kolainių pilies puolimas (1290 m. balandžio 23 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kolainių pilies puolimas (1290 m. balandžio 23 d.)" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 559609-560069; hash=34df968df89f06ae8f31282c7918c6e76452138f299162529f2960ea5a6d5890; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kolainiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kolainių pilies puolimas (1290 m. balandžio 23 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kolainių pilies puolimas (1290 m. balandžio 23 d.)" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 559609-560069; hash=34df968df89f06ae8f31282c7918c6e76452138f299162529f2960ea5a6d5890; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kolainiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kolainių pilies puolimas (1290 m. balandžio 23 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kolainių pilies puolimas (1290 m. balandžio 23 d.)" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

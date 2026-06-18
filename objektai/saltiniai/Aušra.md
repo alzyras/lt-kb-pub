@@ -35,12 +35,22 @@ amziai:
   global_id: t-179569
   teiginys: 'Pirmajame „Aušros“ numeryje 1883 m. Jonas Basanavičius pradėjo istorinę prakalbą išverstu lotynišku humanistų posakiu.'
   sudarymo_pagrindimas: 'Pradinis teiginys nepagrįstas citata, tačiau citata leidžia suformuluoti siauresnį faktą.'
-  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_author: [[objektai/autoriai/Kantas|Kantas]]; mentioned_person: [[objektai/asmenys/J. Basanavičius|J. Basanavičius]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_person: [[objektai/asmenys/J. Basanavičius|J. Basanavičius]]; mentioned_author: [[objektai/autoriai/Kantas|Kantas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1883 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nepagrįstas citata, tačiau citata leidžia suformuluoti siauresnį faktą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ff016519bff54dd33e48d430fe9017d8af760d37e0d1ea1e9ed5fdd2dd60611f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> J. Basanavičius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aušra: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: J. Basanavičius: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aušra" parinktas kaip owner_note_path. Targetas "J. Basanavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-179570"></a>
 - t-002
@@ -51,6 +61,16 @@ amziai:
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ff016519bff54dd33e48d430fe9017d8af760d37e0d1ea1e9ed5fdd2dd60611f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> J. Basanavičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aušra: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: J. Basanavičius: mention_match, person, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aušra" parinktas kaip owner_note_path. Targetas "J. Basanavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183357"></a>
 - t-003
@@ -60,12 +80,22 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir gremėzdiškas, todėl sutrumpintas išlaikant citatos faktus.'
-  susije_objektai: 'mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1889 m.; įvykio data: 1889-1890; įvykio data: 1890 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir gremėzdiškas, todėl sutrumpintas išlaikant citatos faktus.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 226143-226887; hash=6341d2ee505ac78a4ee86d4e186b2a313782dc9f5a1455f69c2c928a75982a5f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aušra: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=89
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aušra" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -85,6 +115,16 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ff016519bff54dd33e48d430fe9017d8af760d37e0d1ea1e9ed5fdd2dd60611f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> J. Basanavičius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aušra: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: J. Basanavičius: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aušra" parinktas kaip owner_note_path. Targetas "J. Basanavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-002
@@ -113,4 +153,24 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ff016519bff54dd33e48d430fe9017d8af760d37e0d1ea1e9ed5fdd2dd60611f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> J. Basanavičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aušra: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: J. Basanavičius: mention_match, person, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aušra" parinktas kaip owner_note_path. Targetas "J. Basanavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 226143-226887; hash=6341d2ee505ac78a4ee86d4e186b2a313782dc9f5a1455f69c2c928a75982a5f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aušra: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=89
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aušra" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

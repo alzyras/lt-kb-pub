@@ -49,6 +49,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje įvardis neįvardija Vytauto, todėl sakinys patikslintas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 844484-844687; hash=fbcadcfb9edd137db8f68f4981fc5f26dec5f76faf18783b5302264a162adadf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Jadvyga: nearest_actor, person, gap=8
+  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Jadvyga" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 ## Reikšmingi paminėjimai
 
@@ -64,3 +74,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 844484-844687; hash=fbcadcfb9edd137db8f68f4981fc5f26dec5f76faf18783b5302264a162adadf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Jadvyga: nearest_actor, person, gap=8
+  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Jadvyga" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.

@@ -32,6 +32,9 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
   sudarymo_pagrindimas: 'Citata remia tikslesnį ir informatyvesnį sakinį.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2258c90b5612c9b41039e052e852f3b27f4fcafb0c3a566908a32f5b512968ea; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-168689"></a>
 - t-002
@@ -40,7 +43,12 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
   sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietųsi su protestantizmu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 686779-687157; hash=694570918da39c1f8ae66d80a8ca423df4490aee64eb51ceb0e8d2acf45a23ff; match=exact
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/J. Bretkūnas.md#claim-t-05719|J. Bretkūnas]]: J. Bretkūnas buvo tarp lietuvių, rašiusių protestantizmo skleidimo tekstus.
+- susijęs iš Mažoji Lietuva: Žmonių iš Mažosios Lietuvos lietuviškai skelbtas protestantizmas buvo silpnas ir trumpas judėjimas.
+- susijęs iš Šiaurės Europa: XVII–XVIII a. Šiaurės Europa dėl protestantizmo pritapo prie dinamiškosios Vakarų Europos dalies.
 - susijęs iš [[objektai/autoriai/Martynas Mažvydas Vaitkūnas.md#claim-t-64753|Martynas Mažvydas Vaitkūnas]]: Mažvydas rašė lietuviškas protestantiškas knygas.
 - susijęs iš [[objektai/autoriai/Stanislovas Rapagelionis.md#claim-t-05728|Stanislovas Rapagelionis]]: Stanislovas Rapagelionis buvo tarp lietuvių, rašiusių tikybines knygas Mažojoje Lietuvoje.
 - susijęs iš [[objektai/paprociai/Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo.md#claim-t-01930|Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo]]: Baudžiauninkai turėdavo priklausyti tam tikėjimui, kurio kunigą ponas paskirdavo savo bažnyčioje.
@@ -49,7 +57,6 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 - susijęs iš Lietuva: XVI a. pabaigoje protestantizmas Lietuvoje buvo labai įsigalėjęs tarp didikų ir miestiečių.
 - susijęs iš Lisabona: XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei barokinės architektūros ir dailės įtaką iki Meksikos ir Paragvajaus.
 - susijęs iš Madridas: XVI–XVII a. Madridas tebespinduliavo katalikybės ir barokinės architektūros bei dailės šviesą iki Meksikos ir Paragvajaus.
-- susijęs iš Mažoji Lietuva: Žmonių iš Mažosios Lietuvos lietuviškai skelbtas protestantizmas buvo silpnas ir trumpas judėjimas.
 - susijęs iš Mažoji Lietuva: 1921 m. lapkričio 11 d. Steigiamasis Seimas vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį, demonstruodamas vienybę su Mažąja Lietuva.
 - susijęs iš Olandija: XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.
 - susijęs iš Prancūzija: Katalikybė sudarė prielaidą Italijos ir Ispanijos baroko kultūrai plisti Prancūzijoje.
@@ -57,7 +64,6 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 - susijęs iš Skandinavija: Protestantizmas padėjo Skandinavijai pritapti prie dinamiškosios šiaurinės Vakarų Europos dalies.
 - susijęs iš Vidurio Europa: Katalikiškoji Vidurio Europa šliejosi prie katalikybę išpažinusios pietinės Vakarų Europos.
 - susijęs iš Vokietija: Vokietijos universitetuose besimokę didikų vaikai protestantų mokslą parsiveždavo į Lietuvą.
-- susijęs iš Šiaurės Europa: XVII–XVIII a. Šiaurės Europa dėl protestantizmo pritapo prie dinamiškosios Vakarų Europos dalies.
 - susijęs iš Šiaurės Europa: Protestantizmas lėmė, kad Šiaurės Europa per XVII–XVIII a. pritapo prie dinamiškosios Vakarų Europos dalies ir pralenkė katalikiškąją Vidurio Europą.
 ## Reikšmingi paminėjimai
 
@@ -93,4 +99,10 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 686779-687157; hash=694570918da39c1f8ae66d80a8ca423df4490aee64eb51ceb0e8d2acf45a23ff; match=exact
+  sprendimo_priezastis: auto
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2258c90b5612c9b41039e052e852f3b27f4fcafb0c3a566908a32f5b512968ea; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

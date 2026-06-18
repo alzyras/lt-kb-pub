@@ -29,9 +29,19 @@ periodo_grupes: []
   global_id: t-63885
   teiginys: 'Po J. Stalino mirties „atšilimo“ laikotarpiu oficialiai išspausdinta M. K. Čiurlionio kūrybos albumų.'
   sudarymo_pagrindimas: 'Teiginys pataisytas į gramatiškai sklandų sakinį apie Čiurlionio kūrybos leidybą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fc23c73767b6029bc120ad4e5d2b6ed347cf1702d27b898b359e00c24c3c4b6f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. K. Čiurlionis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. K. Čiurlionis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63886"></a>
 - t-002
@@ -40,6 +50,16 @@ periodo_grupes: []
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2b59ebe19b1367e253e677dcc3ac2546f50f65b3653a64699598e1617e4d5fb7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mikalojus Konstantinas Čiurlionis (dailininkas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. K. Čiurlionis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mikalojus Konstantinas Čiurlionis (dailininkas): mention_match, person, gap=61
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. K. Čiurlionis" parinktas kaip owner_note_path. Targetas "Mikalojus Konstantinas Čiurlionis (dailininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63887"></a>
 - t-003
@@ -52,9 +72,19 @@ periodo_grupes: []
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas buvo nutrūkęs, o citata leidžia suformuluoti aiškų sakinį apie Čiurlionį.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101690|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 451252-451602; hash=31b28648b815170e7e302bb43a63b777d281f51fb87f708394c6dba05ab3ca8e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mikalojus Konstantinas Čiurlionis (dailininkas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. K. Čiurlionis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mikalojus Konstantinas Čiurlionis (dailininkas): mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. K. Čiurlionis" parinktas kaip owner_note_path. Targetas "Mikalojus Konstantinas Čiurlionis (dailininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101691|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
 - susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101692|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: Mikalojus Konstantinas Čiurlionis, kilęs iš etniškai lietuviškos aplinkos, bet dar gerai nemokėjęs lietuviškai, pasirinko lietuvius.
+- susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101690|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius.
 - susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101694|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius.
 - susijęs iš Varšuva: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
 - susijęs iš Varšuva: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
@@ -99,6 +129,16 @@ periodo_grupes: []
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 451252-451602; hash=31b28648b815170e7e302bb43a63b777d281f51fb87f708394c6dba05ab3ca8e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mikalojus Konstantinas Čiurlionis (dailininkas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. K. Čiurlionis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mikalojus Konstantinas Čiurlionis (dailininkas): mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. K. Čiurlionis" parinktas kaip owner_note_path. Targetas "Mikalojus Konstantinas Čiurlionis (dailininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -114,4 +154,24 @@ periodo_grupes: []
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fc23c73767b6029bc120ad4e5d2b6ed347cf1702d27b898b359e00c24c3c4b6f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. K. Čiurlionis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. K. Čiurlionis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2b59ebe19b1367e253e677dcc3ac2546f50f65b3653a64699598e1617e4d5fb7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mikalojus Konstantinas Čiurlionis (dailininkas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. K. Čiurlionis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mikalojus Konstantinas Čiurlionis (dailininkas): mention_match, person, gap=61
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. K. Čiurlionis" parinktas kaip owner_note_path. Targetas "Mikalojus Konstantinas Čiurlionis (dailininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

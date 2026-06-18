@@ -48,7 +48,7 @@ Nenurodyta
 - t-001
   global_id: t-54706
   teiginys: 'Po mūšio ir Vilniaus pilių atsilaikymo sudaryta taikos sutartis įpareigojo kryžiuočius neliesti nuo ugnies nenukentėjusios Vilniaus dalies.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Arkikomtūras|Arkikomtūras]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Trakai; mentioned_place: Trakų pilis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Trakų pilis; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Arkikomtūras|Arkikomtūras]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 

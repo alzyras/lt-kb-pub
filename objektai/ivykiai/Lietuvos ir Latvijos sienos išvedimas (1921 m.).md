@@ -48,16 +48,36 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Latvija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1323504-1323738; hash=a800307636260ef169fe36387e77f3bffab4bdd021051b910e5898fdd71a1c85; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Latviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos ir Latvijos sienos išvedimas (1921 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Latviai: mention_match, group, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos ir Latvijos sienos išvedimas (1921 m.)" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-66696"></a>
 - t-002
   global_id: t-66696
   teiginys: '1921 m. Lietuvos ir Latvijos siena buvo išvesta maždaug buvusios Kuršo gubernijos riba, padarius nedidelių pakeitimų abiejų valstybių naudai.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Kuršas; mentioned_place: Latvija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kuršas; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1921 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1323739-1324020; hash=11df29032ea0f83e46c6af05fe2e04c2e4dea563aee3e0bf463d15dc0825723b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuršas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos ir Latvijos sienos išvedimas (1921 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos ir Latvijos sienos išvedimas (1921 m.)" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -87,4 +107,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1323739-1324020; hash=11df29032ea0f83e46c6af05fe2e04c2e4dea563aee3e0bf463d15dc0825723b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuršas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos ir Latvijos sienos išvedimas (1921 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos ir Latvijos sienos išvedimas (1921 m.)" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1323504-1323738; hash=a800307636260ef169fe36387e77f3bffab4bdd021051b910e5898fdd71a1c85; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Latviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos ir Latvijos sienos išvedimas (1921 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Latviai: mention_match, group, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos ir Latvijos sienos išvedimas (1921 m.)" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

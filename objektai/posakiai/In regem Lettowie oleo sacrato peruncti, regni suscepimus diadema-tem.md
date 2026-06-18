@@ -29,6 +29,9 @@ amziai:
   sudarymo_pagrindimas: 'Pradinis tekstas buvo bibliografinė nuotrupa su OCR laužymu, bet citata leidžia suformuluoti teiginį apie posakio šaltinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a694829054be16ed41017135668a5d845233ea7b2778031c1a1243043df54ff0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +50,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a694829054be16ed41017135668a5d845233ea7b2778031c1a1243043df54ff0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

@@ -33,6 +33,9 @@ Straubergs, K.
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=296b4d82581b4d2b063435b2d07d45a6a4179b5d3beab891d88de01dc13b5fdc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -48,3 +51,6 @@ Straubergs, K.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=296b4d82581b4d2b063435b2d07d45a6a4179b5d3beab891d88de01dc13b5fdc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

@@ -57,7 +57,7 @@ amziai:
   global_id: t-20817
   teiginys: '1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.'
   sudarymo_pagrindimas: 'Teiginys patikslintas pagal citatą, išlaikant manifestacijos vietą ir priežastį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Didžioji Britanija; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_place: Didžioji Britanija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys patikslintas pagal citatą, išlaikant manifestacijos vietą ir priežastį.'

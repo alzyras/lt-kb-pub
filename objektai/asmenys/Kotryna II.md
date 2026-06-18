@@ -62,7 +62,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   global_id: t-63844
   teiginys: 'Po Petro III pašalinimo ir nužudymo valdžią Rusijoje perėmė Kotryna II, Anhalt-Cerbsto kunigaikštytė vokietaitė.'
   sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir turi šalutinio konteksto; citata remia glaustesnį faktą apie Kotryną II.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_place: Petrapilis; mentioned_place: Rusija; mentioned_place: Saksonija'
+  susije_objektai: 'mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_place: Petrapilis; mentioned_place: Saksonija'
   pagrindžia:
     - c-003
 
@@ -70,7 +70,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - t-005
   global_id: t-63849
   teiginys: 'Kotryna II įvykdė Respublikos padalijimus, kurių metu jos trečdalį turėjo užleisti Prūsijai ir Austrijai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Austrija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Austrija; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 - susijęs iš Austrija: Per Abiejų Tautų Respublikos padalijimus Kotryna II trečdalį padalytos valstybės turėjo užleisti Prūsijai ir Austrijai.

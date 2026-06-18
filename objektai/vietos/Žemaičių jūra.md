@@ -61,7 +61,7 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
 - t-003
   global_id: t-92020
   teiginys: 'Šią jūrą kai kurie raštininkai vadino Rusų mare.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Rusnė; mentioned_place: Žemaičių kraštas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Rusnė; mentioned_place: Žemaičių kraštas'
   pagrindžia:
     - c-003
 

@@ -29,7 +29,7 @@ tags:
   global_id: t-09658
   teiginys: 'Kunigas Mackevičius pamoksle ragino eiti už šventą tikėjimą, tėvynę Lietuvą ir lietuvius brolius.'
   sudarymo_pagrindimas: 'Citata pagrindžia Mackevičiaus pamokslinį raginimą, bet teiginį reikia sukonkretinti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   pagrindžia:
     - c-001
 

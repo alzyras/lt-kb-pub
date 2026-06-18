@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-78714
   teiginys: 'XIII a. pabaigoje–XV a. pradžioje vakarinės lietuvių žemės sudarė vieningą valstybinę sistemą, valdomą valdovo paskirtų pareigūnų.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, turi aiškų subjektą ir predikatą, o citata jį pagrindžia.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]'
   pagrindžia:
     - c-001
 
@@ -52,7 +52,7 @@ Nenurodyta
 - t-002
   global_id: t-78715
   teiginys: 'XIII a. pabaigoje - XV a. pradžioje Lietuva palei naująją sieną sukūrė lietuviškų pilių tinklą, kurio pilys buvo ir gynybos fortai, ir administraciniai centrai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -61,7 +61,7 @@ Nenurodyta
   global_id: t-78716
   teiginys: 'Vakarinės lietuvių žemės sudarė vieningą valstybinę sistemą, todėl vokiečiai nebegalėjo atplėšti paskirų teritorijų kaip anksčiau.'
   sudarymo_pagrindimas: 'Teiginys aiškiai sieja vakarinių lietuvių žemių sistemą su vokiečių negalėjimu atplėšti teritorijų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]'
   pagrindžia:
     - c-001
 

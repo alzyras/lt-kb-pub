@@ -53,6 +53,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Flandrai|Flandrai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Prancūzija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b765cd7c005df636b8bd338bfe30ff7e9ac1fe785203e84905c1cbe224e61f27; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Flandrai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Flandrai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.)" parinktas kaip owner_note_path. Targetas "Flandrai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-62781"></a>
 - t-002
@@ -63,6 +73,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Flandrai|Flandrai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b568929cf4a762d074d06c3710493862051a8b914cb04039413934d38c844db7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Flandrai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Flandrai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.)" parinktas kaip owner_note_path. Targetas "Flandrai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -98,4 +118,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b765cd7c005df636b8bd338bfe30ff7e9ac1fe785203e84905c1cbe224e61f27; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Flandrai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Flandrai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.)" parinktas kaip owner_note_path. Targetas "Flandrai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b568929cf4a762d074d06c3710493862051a8b914cb04039413934d38c844db7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Flandrai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Flandrai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.)" parinktas kaip owner_note_path. Targetas "Flandrai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

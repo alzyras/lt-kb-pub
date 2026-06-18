@@ -32,6 +32,9 @@ Caland, W.
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dfcc593fab10f08f169ca131195d21312f51fb27828e0884d8454eadfae10e32; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +52,6 @@ Caland, W.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dfcc593fab10f08f169ca131195d21312f51fb27828e0884d8454eadfae10e32; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

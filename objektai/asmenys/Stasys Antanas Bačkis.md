@@ -31,12 +31,22 @@ LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo dip
   global_id: t-19246
   teiginys: 'Stasys Antanas Bačkis 1983–1991 m. ėjo Lietuvos diplomatinės tarnybos diplomatijos šefo pareigas.'
   sudarymo_pagrindimas: 'Teiginys perrašytas kaip sakinys apie konkretų asmenį ir jo pareigas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_place: Baltija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_place: Lietuva; mentioned_place: Baltija'
   temporaliniai_duomenys: 'įvykio data: 1940-1983; įvykio data: 1983 m.; įvykio data: 1983-1991; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas kaip sakinys apie konkretų asmenį ir jo pareigas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7f348adbd2c0d8d3ccb03cc06757619dd25c487c85308baefbc1383dcc31ae4a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Stasys Antanas Bačkis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stasys Antanas Bačkis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Stasys Lozoraitis.md#claim-t-46321|Stasys Lozoraitis]]: LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo diplomatai Stasys Lozoraitis (1940–1983 m.) ir Stasys Antanas Bačkis (1983–1991 m.).
 - susijęs iš [[objektai/asmenys/Stasys Lozoraitis.md#claim-t-46324|Stasys Lozoraitis]]: Stasys Lozoraitis 1940–1983 m. ėjo Lietuvos diplomatinės tarnybos diplomatijos šefo pareigas.
 - susijęs iš [[objektai/posakiai/„primus inter pares“.md#claim-t-77853|„primus inter pares“]]: Stasys Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares, pirmą tarp lygiųjų tarp visų pasiuntinių.
@@ -61,3 +71,13 @@ LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo dip
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7f348adbd2c0d8d3ccb03cc06757619dd25c487c85308baefbc1383dcc31ae4a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Stasys Antanas Bačkis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stasys Antanas Bačkis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

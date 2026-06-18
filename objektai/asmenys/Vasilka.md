@@ -24,6 +24,9 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys per ilgas ir turi OCR klaidų.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 202917-203531; hash=711ef331c0238c6fa8835cd002bdf2bdb9988a31aafb15a249e619988f5f6d19; match=exact
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-187752|Žemaičiai]]: Danieliaus ir Vasilkos pasiųstas Vykintas sidabru ir įvairiomis dovanomis palenkė jotvingius ir pusę žemaičių.
 ## Reikšmingi paminėjimai
 
@@ -52,3 +55,6 @@ Galičo kunigaikštis Vasilka su Švarnu buvo Leono išsiųstas į Ugrovską pak
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 202917-203531; hash=711ef331c0238c6fa8835cd002bdf2bdb9988a31aafb15a249e619988f5f6d19; match=exact
+  sprendimo_priezastis: auto

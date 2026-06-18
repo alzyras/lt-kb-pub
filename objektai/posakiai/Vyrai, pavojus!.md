@@ -62,3 +62,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1b44f78bae0c2e27ffcb4da562c825107fa645fdc8572902cc0d95fe6723103f; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/07_extract_sayings_notes.md::validation_repair

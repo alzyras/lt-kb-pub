@@ -28,7 +28,7 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
   global_id: t-79488
   teiginys: '1919 m. Kolupių kaime prie vieškelio iš Kėdainių į Šėtą bolševikai privertė trauktis Panevėžio būrio poziciją.'
   sudarymo_pagrindimas: 'Pradinis teiginys dėl OCR fragmento neaiškiai nusako, kas buvo priversta trauktis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis|Lietuvos kario savadarbė diržo sagtis]]; mentioned_place: Kaimas; mentioned_place: Kėdainiai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Kėdainiai; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis|Lietuvos kario savadarbė diržo sagtis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys dėl OCR fragmento neaiškiai nusako, kas buvo priversta trauktis.'

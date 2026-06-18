@@ -34,6 +34,9 @@ Senn, A. : On the Kinship between Slavic and Baltic , Slavonic and East European
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas bibliografine citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=51087d2c916e8d552c48e5b4ef03497e05ba81e309dbf0982dad1b2465378ddc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -50,3 +53,6 @@ Senn, A. : On the Kinship between Slavic and Baltic , Slavonic and East European
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=51087d2c916e8d552c48e5b4ef03497e05ba81e309dbf0982dad1b2465378ddc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

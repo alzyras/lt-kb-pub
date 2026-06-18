@@ -36,6 +36,9 @@ Dusburgietis teigia, kad voigt J.
   temporalinis_llm_pakomentavimas: 'Citata nurodo tomų skaičių, leidimo vietą ir metų intervalą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 804066-804167; hash=fbc7bcb97bf3a7cd7f798f5b416832c8fa19448441730d23b2869b580b3310c8; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -50,3 +53,6 @@ Dusburgietis teigia, kad voigt J.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 804066-804167; hash=fbc7bcb97bf3a7cd7f798f5b416832c8fa19448441730d23b2869b580b3310c8; match=exact
+  sprendimo_priezastis: auto

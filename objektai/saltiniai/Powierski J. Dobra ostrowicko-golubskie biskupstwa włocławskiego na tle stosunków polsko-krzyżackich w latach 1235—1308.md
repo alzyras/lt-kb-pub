@@ -39,6 +39,16 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 576251-576483; hash=27503f827d0ad714419ff0b5f2e94a9f69363068f142771ec85943f77a353860; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krikščionys: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków polsko-krzyżackich w latach 1235—1308: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Krikščionys: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków polsko-krzyżackich w latach 1235—1308" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-60960"></a>
 - t-002
@@ -51,6 +61,16 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR triukšmo; citata remia datavimo pataisą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 608112-608430; hash=eb8856892d711ba19b600b095c2895502e8a874c9cb2beb7cb4a67f1e7fa1a9b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków polsko-krzyżackich w latach 1235—1308: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=81
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków polsko-krzyżackich w latach 1235—1308" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60961"></a>
 - t-003
@@ -60,6 +80,9 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 616765-616841; hash=1c1f8f7f3a68eb84d3cfeaab7b26616985e05df86f1b0d0eaf76de09049106e9; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -90,6 +113,16 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 608112-608430; hash=eb8856892d711ba19b600b095c2895502e8a874c9cb2beb7cb4a67f1e7fa1a9b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków polsko-krzyżackich w latach 1235—1308: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=81
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków polsko-krzyżackich w latach 1235—1308" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -101,4 +134,17 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 616765-616841; hash=1c1f8f7f3a68eb84d3cfeaab7b26616985e05df86f1b0d0eaf76de09049106e9; match=exact
+  sprendimo_priezastis: auto
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 576251-576483; hash=27503f827d0ad714419ff0b5f2e94a9f69363068f142771ec85943f77a353860; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krikščionys: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków polsko-krzyżackich w latach 1235—1308: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Krikščionys: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków polsko-krzyżackich w latach 1235—1308" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

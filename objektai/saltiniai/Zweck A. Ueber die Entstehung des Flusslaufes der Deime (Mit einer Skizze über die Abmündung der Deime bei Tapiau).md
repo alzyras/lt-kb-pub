@@ -34,6 +34,9 @@ Dusburgietis teigia, kad zweck A.
   temporalinis_llm_pakomentavimas: 'Citata pateikia straipsnio temą, metus ir leidinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 806197-806343; hash=52851e44eb58b9180f9f41e90bdd5cc6fc1ad8975106a948de4830441a29b7b5; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -48,3 +51,6 @@ Dusburgietis teigia, kad zweck A.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 806197-806343; hash=52851e44eb58b9180f9f41e90bdd5cc6fc1ad8975106a948de4830441a29b7b5; match=exact
+  sprendimo_priezastis: auto

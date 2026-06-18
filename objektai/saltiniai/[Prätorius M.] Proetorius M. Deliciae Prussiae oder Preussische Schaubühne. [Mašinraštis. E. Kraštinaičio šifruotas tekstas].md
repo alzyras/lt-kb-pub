@@ -30,6 +30,9 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
   sudarymo_pagrindimas: 'Citata pagrindžia mašinraščio apibūdinimą ir fondo nuorodą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 793545-793698; hash=f8fc7ed28ae2aec8ad873e9e01beb4665252222e6f6b2abe9f25342090ff71e3; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -44,3 +47,6 @@ Dusburgietis teigia, kad [Prätorius M.] Proetorius M.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 793545-793698; hash=f8fc7ed28ae2aec8ad873e9e01beb4665252222e6f6b2abe9f25342090ff71e3; match=exact
+  sprendimo_priezastis: auto

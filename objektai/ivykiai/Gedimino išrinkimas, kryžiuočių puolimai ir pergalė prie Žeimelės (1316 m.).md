@@ -40,9 +40,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas nereikalingas šaltinio atribojimas ir išlaikytas citatos palaikomas vertinimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Livonija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 332401-333529; hash=3846e5b91cdbeba8a419359c133d0b5313a71f1e9a40d5444b18860e43f2620d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=67
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185489"></a>
 - t-002
@@ -52,9 +62,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie aprašomą įvykį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Jurbarkas; mentioned_place: Kaunas; mentioned_place: Kauno pilis; mentioned_place: Livonija; mentioned_place: Viena'
+  susije_objektai: 'territory: Jurbarkas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Jurbarkas; mentioned_place: Kaunas; mentioned_place: Kauno pilis; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 333530-334340; hash=5512d96ad7a0f5394ed640d9aef3a0a154d9eb3eb9580ef16fa81bac2feb4752; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzeme -> Jurbarkas: 0.87
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: Gediminas: nearest_actor, person, gap=49
+  ryšio_targeto_parinkimas: Jurbarkas: nearest_after_predicate, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Gediminas" parinktas kaip nearest_actor. Targetas "Jurbarkas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
 
 <a id="claim-t-185490"></a>
 - t-003
@@ -64,12 +84,22 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir remiasi citatos duomenimis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Medininkai; mentioned_place: Pagraudė'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Pagraudė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, konkretus ir remiasi citatos duomenimis.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 334101-334599; hash=5c2ddc0b5bfe60082f00e895b9c9c2eb83bfb530ae5df4774f29ab6930fd1531; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185491"></a>
 - t-004
@@ -79,9 +109,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Iš įvardžio padarytas aiškus veikėjas, sakinys sutrumpintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 335777-336107; hash=58b8fb581bc383b31f3bf8d6807374beaa0df60e1fa608667291d832ae449e55; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185492"></a>
 - t-005
@@ -91,9 +131,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir aiškiai susietas faktas su mūšiu bei Gedimino kariuomene.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Viena'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 337202-337765; hash=c09203281fd7f4ac2bab1c7ad942c2d3b1358c83392a76883bb61be713f45e5a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -168,6 +218,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 332401-333529; hash=3846e5b91cdbeba8a419359c133d0b5313a71f1e9a40d5444b18860e43f2620d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=67
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -194,6 +254,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 333530-334340; hash=5512d96ad7a0f5394ed640d9aef3a0a154d9eb3eb9580ef16fa81bac2feb4752; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzeme -> Jurbarkas: 0.87
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: Gediminas: nearest_actor, person, gap=49
+  ryšio_targeto_parinkimas: Jurbarkas: nearest_after_predicate, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Gediminas" parinktas kaip nearest_actor. Targetas "Jurbarkas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
     - t-003
 
 - c-004
@@ -211,6 +281,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 334101-334599; hash=5c2ddc0b5bfe60082f00e895b9c9c2eb83bfb530ae5df4774f29ab6930fd1531; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-005
@@ -232,4 +312,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 335777-336107; hash=58b8fb581bc383b31f3bf8d6807374beaa0df60e1fa608667291d832ae449e55; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 337202-337765; hash=c09203281fd7f4ac2bab1c7ad942c2d3b1358c83392a76883bb61be713f45e5a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

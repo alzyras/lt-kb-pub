@@ -33,6 +33,16 @@ Radijo stotys gautos iš Dariaus ir Girėno skraidymo klubo.
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1045041-1045388; hash=9fda259ace185487af58fdaf106b4ba24e02195346a2befb04bc3252e49ec13f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dariaus ir Girėno skraidymo klubas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=61
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dariaus ir Girėno skraidymo klubas" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos rūmai (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -56,4 +66,24 @@ Radijo stotys gautos iš Dariaus ir Girėno skraidymo klubo.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1045041-1045388; hash=9fda259ace185487af58fdaf106b4ba24e02195346a2befb04bc3252e49ec13f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dariaus ir Girėno skraidymo klubas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=61
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dariaus ir Girėno skraidymo klubas" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos rūmai (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1045041-1045388; hash=9fda259ace185487af58fdaf106b4ba24e02195346a2befb04bc3252e49ec13f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dariaus ir Girėno skraidymo klubas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=61
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dariaus ir Girėno skraidymo klubas" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos rūmai (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

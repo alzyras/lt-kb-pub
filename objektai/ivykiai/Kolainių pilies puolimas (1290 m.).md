@@ -57,9 +57,19 @@ Pilis liko nepaimta.
   global_id: t-70948
   teiginys: 'Kolainių apgula nutrūko, kai sargybos raitelių triukšmo išgąsdinti paprasti kariai pabėgo prie laivų.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir aiškiai susietas su Kolainių apgula.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/posakiai/prisiekęs dievų galybe|prisiekęs dievų galybe]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Kolainiai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Kolainiai; mentioned_object: [[objektai/posakiai/prisiekęs dievų galybe|prisiekęs dievų galybe]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a4485cd96ab5d634a2b2e5ddc610959e11d5b1ab1a92118bcbc4e2041e8fc57c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kolainiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kolainių pilies puolimas (1290 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kolainių pilies puolimas (1290 m.)" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -108,3 +118,13 @@ Pilis liko nepaimta.
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a4485cd96ab5d634a2b2e5ddc610959e11d5b1ab1a92118bcbc4e2041e8fc57c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kolainiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kolainių pilies puolimas (1290 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kolainių pilies puolimas (1290 m.)" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

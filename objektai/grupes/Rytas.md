@@ -27,12 +27,22 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   global_id: t-01471
   teiginys: 'Vilniuje įkurta švietimo draugija „Rytas“ buvo viena iš trijų ypatingą reikšmę turėjusių švietimo draugijų.'
   sudarymo_pagrindimas: 'Teiginys sutelktas į note objektą ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvių Dailės Draugija|Lietuvių Dailės Draugija]]; mentioned_place: Kaunas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvių Dailės Draugija|Lietuvių Dailės Draugija]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1907 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutelktas į note objektą ir paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=98c894c9e82bdf201112d36d9326a090e2ac2ae268d121a1fecf9bb376e7a321; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rytas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rytas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-182921"></a>
 - t-002
@@ -42,10 +52,27 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutelktas į pastabos objektą ir pataisytos kabutės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvių Dailės Draugija|Lietuvių Dailės Draugija]]; mentioned_place: Kaunas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvių Dailės Draugija|Lietuvių Dailės Draugija]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1048815-1049078; hash=9217fecb96974ffb81cc947be38548cc2bf45600b63e5d19879d01598dd9df2c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuvių Dailės Draugija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rytas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuvių Dailės Draugija: mention_match, group, gap=69
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rytas" parinktas kaip owner_note_path. Targetas "Lietuvių Dailės Draugija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102851|Dusburgas]]: Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.
+- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102851|Dusburgas]]: Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.
+- susijęs iš [[objektai/grupes/P. Lukšio rinktinė.md#claim-t-41108|P. Lukšio rinktinė]]: 1952 m. J. Paliūnas-Rytas vėl tapo P. Lukšio rinktinės vadu ir tais pačiais metais, po išdavystės apsuptas bolševikų, nusišovė.
+- susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-23312|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: 1926 m. gruodžio 17 d. ankstų rytą karininkai išvedė kareivius į miestą ir pastatė sargybas prie svarbiausių valstybinių įstaigų.
+- susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-23316|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Pabūgę staigaus šalies politinio vektoriaus kryptelėjimo į kairę, aktyviausi karininkai 1926 m. gruodžio 17 d. ankstų rytą išvedė kareivius į miestą, pastatė sargybas prie svarbiausių valstybinių įstaigų.
+- susijęs iš [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.).md#claim-t-78611|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]: NKVD puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų pasitraukimo kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.
+- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.).md#claim-t-09851|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]: Vasario 8-osios rytą Kėdainių gynėjai sudarė 17 žmonių žvalgybos patrulį, kuriam vadovavo V. Vainauskas, o padėjėju paskirtas P. Lukšys.
+- susijęs iš J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes: J. Juška pasakojo, kad Ažagų-Eimuliškio miško kautynės prasidėjo ankstų rytą ir truko iki pavakario.
 - susijęs iš [[objektai/asmenys/D. Kuruta.md#claim-t-40078|D. Kuruta]]: Mūšiui pasibaigus, generolas leitenantas D. Kuruta įsakė nutraukti sukilėlių persekiojimą.
 - susijęs iš [[objektai/asmenys/Dargis.md#claim-t-60261|Dargis]]: Dargis buvo Žiokos valsčiuje gyvenęs prūsas, nepakentęs baltų žirgų ir po Ditricho bandymų atsisakęs prietaro.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59839|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas nupirko Dargiui baltą arklį, norėdamas atpratinti jį nuo prietaro dėl baltų žirgų.
@@ -71,7 +98,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-102832|A. Vijūkas Kojelavičius]]: A. Vijūkas Kojelavičius Pagraudenę vadino Žemaitijos apylinke.
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-102833|A. Vijūkas Kojelavičius]]: Kojelavičius Pagraudenę vadino apylinke Žemaitijoje.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102843|Dusburgas]]: Dusburgas prie 1304 m. pirmą kartą paminėjo Pagraudenę, pasakodamas apie Eberhardo de Virnemburgo įsiveržimą į Lietuvą.
-- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102851|Dusburgas]]: Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.
 - susijęs iš [[objektai/autoriai/J. Maciūnas.md#claim-t-96052|J. Maciūnas]]: J. Maciūnas parengė „Trumpą higienos vadovėlį“ pagal Švietimo ministerijos programą.
 - susijęs iš [[objektai/autoriai/Kojałowicz Kojelavičius.md#claim-t-87997|Kojałowicz Kojelavičius]]: Kojelavičius Pagraudenę vadino Žemaitijos apylinke.
 - susijęs iš [[objektai/daiktai/Kardas.md#claim-t-92971|Kardas]]: Lenkų raitelis žvilgančiu kardu kelis kartus puolė griovyje atsigulusį žvalgą.
@@ -83,17 +109,13 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/grupes/Kėdainių įgula.md#claim-t-78195|Kėdainių įgula]]: Vasario 7 d. anksti ryte Kėdainių įgula iš Kauno gavo šautuvų, šovinių ir rankinių granatų.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179240|Lietuviai]]: Per pagrindinį puolimą lietuvių gynyba iš pradžių buvo narsi, bet Žemutinėje pilyje prasiveržė liepsna.
 - susijęs iš [[objektai/grupes/Lietuvos universitetas.md#claim-t-77829|Lietuvos universitetas]]: Aukštieji kursai Kaune peraugo į Lietuvos universitetą, atidarytą 1922 m. vasario 16 d.
-- susijęs iš [[objektai/grupes/P. Lukšio rinktinė.md#claim-t-41108|P. Lukšio rinktinė]]: 1952 m. J. Paliūnas-Rytas vėl tapo P. Lukšio rinktinės vadu ir tais pačiais metais, po išdavystės apsuptas bolševikų, nusišovė.
 - susijęs iš [[objektai/grupes/SSRS kariuomenė.md#claim-t-183184|SSRS kariuomenė]]: V. Molotovas J. Urbšiui pareiškė, kad SSRS kariuomenė įžygiuos į Lietuvą nepriklausomai nuo Lietuvos atsakymo.
 - susijęs iš [[objektai/grupes/SSRS kariuomenė.md#claim-t-19998|SSRS kariuomenė]]: 1940 m. birželio 14 d. ultimatumu SSRS pareikalavo, kad Lietuva įsileistų papildomus sovietų karinius dalinius.
 - susijęs iš [[objektai/grupes/asis šaulių pulko batalionas.md#claim-t-80645|asis šaulių pulko batalionas]]: 2-ojo šaulių pulko batalionas birželio 19 d. palaikė Trakų sukilėlių puolimą prieš rusų kairįjį sparną, bet ataka buvo atmušta.
 - susijęs iš [[objektai/grupes/Žarėnų kuopa.md#claim-t-41221|Žarėnų kuopa]]: 1949 m. gegužės 21 d. MGB vidaus kariuomenės 32-asis šaulių pulkas Dievo Krėslo miške aptiko Žarėnų kuopos partizanų stovyklą.
-- susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-23312|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: 1926 m. gruodžio 17 d. ankstų rytą karininkai išvedė kareivius į miestą ir pastatė sargybas prie svarbiausių valstybinių įstaigų.
 - susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-23313|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Per 1926 m. gruodžio 17 d. perversmą ginkluoti kariškiai nutraukė Seimo posėdį, išvaikė Seimą ir suėmė prezidentą, ministrus bei kelis Seimo narius.
-- susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-23316|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Pabūgę staigaus šalies politinio vektoriaus kryptelėjimo į kairę, aktyviausi karininkai 1926 m. gruodžio 17 d. ankstų rytą išvedė kareivius į miestą, pastatė sargybas prie svarbiausių valstybinių įstaigų.
 - susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-71724|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demokratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruodžio 1 d. komunistų pučas Estijoje rodė esant tokią galimybę).
 - susijęs iš [[objektai/ivykiai/Antroji Smolensko apgultis ir gudrus sienų plyšių užtaisymas.md#claim-t-185690|Antroji Smolensko apgultis ir gudrus sienų plyšių užtaisymas]]: Antrosios Smolensko apgulties metu priešas pabūklais sugriovė didelę gynybinės sienos dalį.
-- susijęs iš [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.).md#claim-t-78611|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]: NKVD puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų pasitraukimo kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.
 - susijęs iš [[objektai/ivykiai/Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.).md#claim-t-66478|Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)]]: 1264 m. Bartenšteino pilyje broliai stokojo maisto, nebegalėjo ilgiau priešintis prūsams ir apgaule priviliojo juos pulti pilį.
 - susijęs iš [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.).md#claim-t-186362|Biržų (Medeikių) mūšis (1863 m.)]]: Biržų mūšyje gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.
 - susijęs iš [[objektai/ivykiai/Biržų (Medeikių) mūšis (1863 m.).md#claim-t-186363|Biržų (Medeikių) mūšis (1863 m.)]]: Biržų mūšyje gen. mjr. I. Ganeckio rinktinė pasuko iš Medeikių į Biržų girią ir ties Šniurkiškių palivarku užklupo sukilėlių stovyklą.
@@ -101,7 +123,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/ivykiai/Bisenės pilies užkariavimas.md#claim-t-66499|Bisenės pilies užkariavimas]]: Konradas iš Tirbergo su didele kariuomene perėjo užšalusį Nemuną, puolė Bisenės pilį, įsiveržė į ją ir sudegino.
 - susijęs iš [[objektai/ivykiai/Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo.md#claim-t-62247|Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo]]: Dusburgiečio pasakojime prūsas Dargis po ketvirto balto žirgo bandymo įtikėjo ir tapo uoliu tikėjimo šalininku.
 - susijęs iš [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės.md#claim-t-91906|Krikščionių pergalingas mūšis prie Zirgūnos upės]]: Prie Zirgūnos upės Hermano vadovaujami krikščionys sumušė prūsų kariuomenę, o mūšyje krito daugiau nei penki tūkstančiai prūsų.
-- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.).md#claim-t-09851|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]: Vasario 8-osios rytą Kėdainių gynėjai sudarė 17 žmonių žvalgybos patrulį, kuriam vadovavo V. Vainauskas, o padėjėju paskirtas P. Lukšys.
 - susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės.md#claim-t-41299|Kėdainių-Šėtos kautynės]]: Prieš Kėdainių-Šėtos kautynes Kėdainių gynėjų vadovybė naktį iš vasario 7 į 8 d. sužinojo, kad bolševikų pajėgos traukiasi Šėtos link.
 - susijęs iš [[objektai/ivykiai/Lietuvos universiteto atidarymas (1922 m. vasario 16 d.).md#claim-t-23344|Lietuvos universiteto atidarymas (1922 m. vasario 16 d.)]]: Aukštieji kursai Kaune peraugo į Lietuvos universitetą, kuris buvo atidarytas 1922 m. vasario 16 d.
 - susijęs iš [[objektai/ivykiai/Mongolų (totorių) invazija (1237-1240 m.).md#claim-t-28850|Mongolų (totorių) invazija (1237-1240 m.)]]: 1237–1240 m. mongolų invazija smarkiai paveikė rusų politinį ir kultūrinį gyvenimą Riurikaičių susiskaldymo laikotarpiu.
@@ -116,7 +137,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/posakiai/Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs.md#claim-t-41468|Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs]]: Poeto Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 metų įvykių vertinimu.
 - susijęs iš [[objektai/posakiai/Vienas kraujo lašas būt tave nuplovęs.md#claim-t-09679|Vienas kraujo lašas būt tave nuplovęs]]: Dažnai kartojama Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 m. įvykių vertinimais.
 - susijęs iš A. Smetonos laiškas Michailui Kalininui: Taikingas A. Smetonos laiškas sovietų prezidentui Michailui Kalininui nepadėjo išvengti 1940 m. birželio 14 d. sovietų ultimatumo Lietuvai.
-- susijęs iš J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes: J. Juška pasakojo, kad Ažagų-Eimuliškio miško kautynės prasidėjo ankstų rytą ir truko iki pavakario.
 - susijęs iš SSRS ultimatumas Lietuvai (1940 m. birželio 14 d.): 1940 m. birželio 14 d. vakare J. Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai pareikalauta įsileisti neribotus sovietų karinius dalinius.
 - susijęs iš Trumpas higienos vadovėlis: J. Maciūno „Trumpas higienos vadovėlis“ buvo sudarytas pagal Švietimo ministerijos programą ir išleistas 1929 m.
 - susijęs iš Alionys: 7-asis pulkas turėjo pulti Širvintas ir užimti liniją: Alionys-Puoriai-Ramaškonys-Šešuolėlių dvaras.
@@ -176,9 +196,29 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=98c894c9e82bdf201112d36d9326a090e2ac2ae268d121a1fecf9bb376e7a321; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rytas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rytas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1048815-1049078; hash=9217fecb96974ffb81cc947be38548cc2bf45600b63e5d19879d01598dd9df2c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuvių Dailės Draugija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rytas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuvių Dailės Draugija: mention_match, group, gap=69
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rytas" parinktas kaip owner_note_path. Targetas "Lietuvių Dailės Draugija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] kariavo_pries Rytas
-- Rytas dalyvavo_musyje [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]
 - Rytas dalyvavo_musyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
+- Rytas dalyvavo_musyje [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]
+- [[objektai/asmenys/Gediminas]] kariavo_pries Rytas

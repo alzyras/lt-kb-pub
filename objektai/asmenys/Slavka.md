@@ -25,6 +25,16 @@ Kambarinis Slavka savo kūnu bandė užstoti leisgyvį valdovą nuo smūgių, be
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 813472-814018; hash=0c4c3d4d951278d188cc2da466b2ddac4ad5f6960e63affe4d2ad3b456124fd5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Slavka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Slavka" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -52,3 +62,13 @@ Kambarinis Slavka savo kūnu bandė užstoti leisgyvį valdovą nuo smūgių, be
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 813472-814018; hash=0c4c3d4d951278d188cc2da466b2ddac4ad5f6960e63affe4d2ad3b456124fd5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Slavka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Slavka" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

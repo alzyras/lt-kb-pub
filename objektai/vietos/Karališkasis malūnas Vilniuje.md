@@ -58,6 +58,16 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   temporalinis_llm_pakomentavimas: 'Reikėjo įvardyti karalių ir pašalinti dviprasmį agentą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 535108-535233; hash=c9a175e0d647f7033552141840283a3aa68082211f8016fb985f05842be7ede7; match=whitespace_regex
+  sprendimo_priezastis: gap::places
+  ryšio_patikimumas: susije_su -> Karališkasis malūnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karališkasis malūnas Vilniuje: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Karališkasis malūnas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karališkasis malūnas Vilniuje" parinktas kaip owner_note_path. Targetas "Karališkasis malūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-83469"></a>
 - t-003
@@ -67,14 +77,24 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-183843|Ulrikas Hozijus]]: Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.
-- susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87363|Ulrikas Hozijus]]: Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 533631-534249; hash=035a1adf8268300bf5c3287831d33dd9c96da24f4c0780dedbb2b326f1460aa8; match=whitespace_regex
+  sprendimo_priezastis: gap::places
+  ryšio_patikimumas: susije_su -> Iki gyvos galvos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karališkasis malūnas Vilniuje: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Iki gyvos galvos: mention_match, thing, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karališkasis malūnas Vilniuje" parinktas kaip owner_note_path. Targetas "Iki gyvos galvos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Bernardinų ordinas.md#claim-t-181538|Bernardinų ordinas]]: 1469 metais į Vilnių pakviestam Bernardinų ordinui bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis palei Vilnią prie Karališkojo malūno.
-- susijęs iš [[objektai/paprociai/Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija.md#claim-t-87263|Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija]]: 1469 m. karaliaus pavedimu į Vilnių pakviestiems bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis prie Vilnios.
 - susijęs iš Karališkasis malūnas Vilniuje (sujungti pirminiai pavadinimai Karališkasis malūnas; Karališkasis malūnas Vilniuje): Bernardinams Vilniuje buvo atiduotas slėnis su namais ir pieva palei Vilnią prie Karališkojo malūno.
-- susijęs iš Karališkasis malūnas: 1469 m. bernardinams Vilniuje buvo atiduotas platus slėnis palei Vilnios upę prie Karališkojo malūno.
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): 1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.
 - susijęs iš Vilnia: 1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.
+- susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-183843|Ulrikas Hozijus]]: Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.
+- susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87363|Ulrikas Hozijus]]: Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas.
+- susijęs iš [[objektai/paprociai/Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija.md#claim-t-87263|Bernardinų kvietimas neofitams įtvirtinti ir religinė Vilniaus fundacija]]: 1469 m. karaliaus pavedimu į Vilnių pakviestiems bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis prie Vilnios.
+- susijęs iš Karališkasis malūnas: 1469 m. bernardinams Vilniuje buvo atiduotas platus slėnis palei Vilnios upę prie Karališkojo malūno.
 - susijęs iš [[objektai/zodynas/neofitai.md#claim-t-113658|neofitai]]: 1469 m. į Vilnių buvo pakviestas bernardinų ordinas, kad neofitai įsitvirtintų krikščionių tikėjime.
 ## Reikšmingi paminėjimai
 
@@ -116,4 +136,24 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
   statusas: verified
   pagrindžia:
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 533631-534249; hash=035a1adf8268300bf5c3287831d33dd9c96da24f4c0780dedbb2b326f1460aa8; match=whitespace_regex
+  sprendimo_priezastis: gap::places
+  ryšio_patikimumas: susije_su -> Iki gyvos galvos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karališkasis malūnas Vilniuje: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Iki gyvos galvos: mention_match, thing, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karališkasis malūnas Vilniuje" parinktas kaip owner_note_path. Targetas "Iki gyvos galvos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 535108-535233; hash=c9a175e0d647f7033552141840283a3aa68082211f8016fb985f05842be7ede7; match=whitespace_regex
+  sprendimo_priezastis: gap::places
+  ryšio_patikimumas: susije_su -> Karališkasis malūnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karališkasis malūnas Vilniuje: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Karališkasis malūnas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karališkasis malūnas Vilniuje" parinktas kaip owner_note_path. Targetas "Karališkasis malūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

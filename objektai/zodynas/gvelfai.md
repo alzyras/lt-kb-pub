@@ -33,6 +33,16 @@ Dusburgietis teigia, kad apie gibelinus ir gvelfus 1228 viešpaties metais Itali
   temporalinis_llm_pakomentavimas: 'Reikia suvienodinti rašybą su citata ir palikti aiškų faktą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 697087-697303; hash=77711018bdc21a8729ed390f80e901a3bbd36f9e8aeb5d6ff77da367dc6c9d2f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Italija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: gvelfai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Italija: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "gvelfai" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -50,3 +60,13 @@ Dusburgietis teigia, kad apie gibelinus ir gvelfus 1228 viešpaties metais Itali
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 697087-697303; hash=77711018bdc21a8729ed390f80e901a3bbd36f9e8aeb5d6ff77da367dc6c9d2f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Italija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: gvelfai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Italija: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "gvelfai" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

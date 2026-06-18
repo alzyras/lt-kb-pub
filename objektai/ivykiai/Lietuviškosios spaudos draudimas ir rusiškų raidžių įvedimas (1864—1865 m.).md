@@ -40,6 +40,9 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ac57a775aec7cbf30ac6d51f5570cbbc96f5afcce488f72309a31a108ae61b0a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 <a id="claim-t-66673"></a>
 - t-002
   global_id: t-66673
@@ -48,6 +51,9 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 982652-982981; hash=07b99cedede868045748251dff3b6eaf1e9c519d7fc7d28acf600e0402264137; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -81,4 +87,10 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ac57a775aec7cbf30ac6d51f5570cbbc96f5afcce488f72309a31a108ae61b0a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 982652-982981; hash=07b99cedede868045748251dff3b6eaf1e9c519d7fc7d28acf600e0402264137; match=exact
+  sprendimo_priezastis: auto

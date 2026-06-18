@@ -30,6 +30,9 @@ Dusburgietis teigia, kad apie jubiliejaus metų indulgenciją Tais pačiais meta
   sudarymo_pagrindimas: 'Teiginys perrašytas į vientisą sakinį be OCR klaidų ir nuorodų triukšmo.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6f8fff7fde76cbd9e48db07cb24616b28fe2743409d5bd72ba381c1454538b40; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176734|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Atgimstančios lietuvių tautos sąmonėje Vytautas buvo pasirinktas valstybės ir tautos didvyriu.
 ## Reikšmingi paminėjimai
 
@@ -47,3 +50,6 @@ Dusburgietis teigia, kad apie jubiliejaus metų indulgenciją Tais pačiais meta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6f8fff7fde76cbd9e48db07cb24616b28fe2743409d5bd72ba381c1454538b40; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

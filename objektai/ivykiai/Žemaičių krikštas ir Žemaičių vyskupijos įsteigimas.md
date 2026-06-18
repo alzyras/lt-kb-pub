@@ -53,6 +53,16 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bc15929010ba75106fda9b600d64d3b7fa6f8cc8b89b154a2f4e65caf57f7756; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-186618"></a>
 - t-002
@@ -63,6 +73,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Varniai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 88932-89404; hash=50407cef301c05e2ae0bd0435943636dcd14e89066d65afd7ad38e7638ac8c2a; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Katalikų Bažnyčia: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Katalikų Bažnyčia: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)" parinktas kaip owner_note_path. Targetas "Katalikų Bažnyčia" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-186619"></a>
 - t-003
@@ -70,7 +90,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas įsteigė Žemaičių vyskupiją ir Medininkuose, žemaičių vadintuose Varniais, pastatė švento Petro bažnyčią.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Papildytas vietovės paaiškinimas, tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Varniai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Varniai; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -83,6 +103,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Varniai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cd63864a29c5fb639713565a7af910cf2815e108f0c8e3a6b5c9de23fc4aedbc; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Varniai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Varniai: mention_match, place, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)" parinktas kaip owner_note_path. Targetas "Varniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -113,6 +143,16 @@ Nenurodyta
   pagrindžia:
     - t-003
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 88932-89404; hash=50407cef301c05e2ae0bd0435943636dcd14e89066d65afd7ad38e7638ac8c2a; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Katalikų Bažnyčia: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Katalikų Bažnyčia: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)" parinktas kaip owner_note_path. Targetas "Katalikų Bažnyčia" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
 
 - c-002
@@ -129,6 +169,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cd63864a29c5fb639713565a7af910cf2815e108f0c8e3a6b5c9de23fc4aedbc; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Varniai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Varniai: mention_match, place, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)" parinktas kaip owner_note_path. Targetas "Varniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -146,4 +196,14 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bc15929010ba75106fda9b600d64d3b7fa6f8cc8b89b154a2f4e65caf57f7756; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004

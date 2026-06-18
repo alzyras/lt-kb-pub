@@ -25,6 +25,16 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   susije_objektai: 'mentioned_group: [[objektai/grupes/Edukacinė Komisija|Edukacinė Komisija]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d987c85e2ad0cf10da53c6c90ec122c3c4060e2009fc2a98fd2d3ac961bc0ea3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pijarų ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pijarų ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-72602"></a>
 - t-002
@@ -33,6 +43,16 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   sudarymo_pagrindimas: 'Pašalintas kontekstinis įvardijimas ir perteiktas aiškus faktas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=182928735167e0c15844642f4db1122934a71f940475c4265611acaa62c3ba8f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vitebskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pijarų ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Vitebskas: mention_match, place, gap=105
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pijarų ordinas" parinktas kaip owner_note_path. Targetas "Vitebskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-72604"></a>
 - t-003
@@ -41,6 +61,16 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 853784-854035; hash=a80106ffad45949cf7cecb05bede7159921015530f035c3801f43edf9d43ab64; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Edukacinė Komisija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pijarų ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Edukacinė Komisija: mention_match, group, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pijarų ordinas" parinktas kaip owner_note_path. Targetas "Edukacinė Komisija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-72605"></a>
 - t-004
@@ -49,6 +79,9 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   susije_objektai: 'mentioned_place: Vitebskas; mentioned_place: Želviai'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 693887-694313; hash=3eda857bf5008ca7f077c7a16b4272bb4878edbaecfc3e11b986314cd1ca5578; match=exact
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/zodynas/dievobaimingosios mokyklos scholae piae.md#claim-t-02977|dievobaimingosios mokyklos scholae piae]]: Pijarai XVIII a. Lietuvoje kūrė dievobaimingąsias mokyklas, lotyniškai vadintas scholae piae.
 ## Reikšmingi paminėjimai
 
@@ -83,6 +116,16 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=182928735167e0c15844642f4db1122934a71f940475c4265611acaa62c3ba8f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vitebskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pijarų ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Vitebskas: mention_match, place, gap=105
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pijarų ordinas" parinktas kaip owner_note_path. Targetas "Vitebskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -96,6 +139,16 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 853784-854035; hash=a80106ffad45949cf7cecb05bede7159921015530f035c3801f43edf9d43ab64; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Edukacinė Komisija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pijarų ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Edukacinė Komisija: mention_match, group, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pijarų ordinas" parinktas kaip owner_note_path. Targetas "Edukacinė Komisija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-004
@@ -113,4 +166,17 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d987c85e2ad0cf10da53c6c90ec122c3c4060e2009fc2a98fd2d3ac961bc0ea3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pijarų ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pijarų ordinas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 693887-694313; hash=3eda857bf5008ca7f077c7a16b4272bb4878edbaecfc3e11b986314cd1ca5578; match=exact
+  sprendimo_priezastis: auto

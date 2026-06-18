@@ -22,9 +22,19 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   teiginys: 'Krasnyj Gorod tapatinamas su Krasnogorodskoje, esančiu 30 km į šiaurės vakarus nuo Opočkos.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Opočka; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_place: Opočka; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dc057428eac20b397a21652262ab72c8c58147a18f714a8401d24fcd76e135b4; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Krasnogorodskoje: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krasnyj Gorod: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krasnogorodskoje: mention_match, place, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krasnyj Gorod" parinktas kaip owner_note_path. Targetas "Krasnogorodskoje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187242"></a>
 - t-002
@@ -32,9 +42,19 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   teiginys: 'Komentare Krasnyj gorod tapatinamas su Krasnogorodskoje.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia komentaro tapatinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Krasnogorodskoje; mentioned_place: Opočka; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_place: Krasnogorodskoje; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Opočka; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dc057428eac20b397a21652262ab72c8c58147a18f714a8401d24fcd76e135b4; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Opočka: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krasnyj Gorod: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Opočka: mention_match, place, gap=83
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krasnyj Gorod" parinktas kaip owner_note_path. Targetas "Opočka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187587"></a>
 - t-003
@@ -47,11 +67,21 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; mentioned_place: Pinskas; mentioned_place: Porchovas; mentioned_place: Pskovas; mentioned_place: Veližas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 181196-181980; hash=43fc6f15a4bd7a15edefd444255452f790575c1bd4273d670bb31f4b8985b56a; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Naugardas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krasnyj Gorod: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Naugardas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krasnyj Gorod" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Veližas: Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod.
 - susijęs iš Krasnogorodskoje: Krasnogorodskoje lokalizuojamas 30 km į šiaurės vakarus nuo Opočkos.
 - susijęs iš Krasnogorodskoje: Krasnyj gorod komentare tapatinamas su Krasnogorodskoje.
 - susijęs iš Opočka: Krasnogorodskoje lokalizuojama 30 km į šiaurės vakarus nuo Opočkos.
 - susijęs iš Opočka: Krasnogorodskoje lokalizuojama į šiaurės vakarus nuo Opočkos.
-- susijęs iš Veližas: Vytautas išsirengė prieš Pskovą ir paėmė Pskovo miestus Veližą bei Krasnyj Gorod.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,6 +95,16 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dc057428eac20b397a21652262ab72c8c58147a18f714a8401d24fcd76e135b4; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Opočka: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krasnyj Gorod: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Opočka: mention_match, place, gap=83
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krasnyj Gorod" parinktas kaip owner_note_path. Targetas "Opočka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-002
@@ -94,4 +134,24 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dc057428eac20b397a21652262ab72c8c58147a18f714a8401d24fcd76e135b4; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Krasnogorodskoje: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krasnyj Gorod: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krasnogorodskoje: mention_match, place, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krasnyj Gorod" parinktas kaip owner_note_path. Targetas "Krasnogorodskoje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 181196-181980; hash=43fc6f15a4bd7a15edefd444255452f790575c1bd4273d670bb31f4b8985b56a; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Naugardas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krasnyj Gorod: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Naugardas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krasnyj Gorod" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

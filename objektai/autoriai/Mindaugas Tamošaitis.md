@@ -32,7 +32,7 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
   global_id: t-26608
   teiginys: 'Mindaugas Tamošaitis apibendrino įvykius nuo 1940 m. okupacijų iki Lietuvos narystės Europos Sąjungoje 2004 m.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Alfonsas Eidintas|Alfonsas Eidintas]]; mentioned_author: [[objektai/autoriai/Alfredas Bumblauskas|Alfredas Bumblauskas]]; mentioned_author: [[objektai/autoriai/Antanas Kulakauskas|Antanas Kulakauskas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Alfonsas Eidintas|Alfonsas Eidintas]]; mentioned_author: [[objektai/autoriai/Alfredas Bumblauskas|Alfredas Bumblauskas]]; mentioned_author: [[objektai/autoriai/Antanas Kulakauskas|Antanas Kulakauskas]]; mentioned_place: Rusija; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: iki 2004 m.; įvykio data: 1009 m.; įvykio data: 1795-1915; įvykio data: 1915 m.; įvykio data: 1918-1940; įvykio data: po 1940 m.; įvykio data: 1940 m.; įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -46,13 +46,23 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=85be16995f461bcb3e7668c5e756a4d60c99c153747d6c475c2c0062c5254e9d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mindaugas Tamošaitis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=85
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas Tamošaitis" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-169891"></a>
 - t-003
   global_id: t-169891
   teiginys: '2013 m. antrajame leidime Mindaugas Tamošaitis nurodytas tarp autorių teisių turėtojų.'
   sudarymo_pagrindimas: 'Reikia aiškesnio faktinio predikato apie Mindaugo Tamošaičio įrašą leidinyje.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Alvydas Jokubaitis|Alvydas Jokubaitis]]; mentioned_author: [[objektai/autoriai/Inga Vinogradnaitė|Inga Vinogradnaitė]]; mentioned_author: [[objektai/autoriai/Raimundas Lopata|Raimundas Lopata]]; mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija|Mindaugo karūnacija]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Vytautas Radžvilas|Vytautas Radžvilas]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija|Mindaugo karūnacija]]; mentioned_author: [[objektai/autoriai/Alvydas Jokubaitis|Alvydas Jokubaitis]]; mentioned_author: [[objektai/autoriai/Inga Vinogradnaitė|Inga Vinogradnaitė]]; mentioned_author: [[objektai/autoriai/Raimundas Lopata|Raimundas Lopata]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Vytautas Radžvilas|Vytautas Radžvilas]]; mentioned_place: Europa; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 2013 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškesnio faktinio predikato apie Mindaugo Tamošaičio įrašą leidinyje.'
@@ -153,4 +163,14 @@ Mindaugas Tamošaitis nurodytas kaip vienas knygos „Lietuvos istorija“ autor
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=85be16995f461bcb3e7668c5e756a4d60c99c153747d6c475c2c0062c5254e9d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mindaugas Tamošaitis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=85
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mindaugas Tamošaitis" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003

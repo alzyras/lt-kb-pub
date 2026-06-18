@@ -21,9 +21,19 @@ Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad 
 - t-001
   global_id: t-36595
   teiginys: 'Sūdavija su Jotvingija buvo laikomos lietuvių kraštais, dėl kurių negalėjo kilti ginčas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Cibulka|Cibulka]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Aukštaitija; mentioned_place: Jotvingija; mentioned_place: Lietuva; mentioned_place: Žemaitija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Jotvingija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Cibulka|Cibulka]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Aukštaitija; mentioned_place: Žemaitija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2fe016e57664ed53aaa3f4d13cdf780f2fdcc9c7652bdd55743d4571c2ba2d41; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jotvingija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sūdavija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jotvingija: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūdavija" parinktas kaip owner_note_path. Targetas "Jotvingija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184433|Martynas V]]: Popiežius Martynas V galutinai patvirtino Žemaičių vyskupiją.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184440|Martynas V]]: Popiežius Martynas V galutinai patvirtino Žemaičių vyskupiją.
 - susijęs iš [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.).md#claim-t-50801|Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]: Vytautas susitarė su Ordinu dėl pagal taiką nustatytų sienų, suteikė laisvę prekybai ir užmezgė draugiškus santykius.
@@ -50,3 +60,13 @@ Po to parašė jam dar kitą raš­ tą, kuriame labai gražiai išdėstė, kad 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2fe016e57664ed53aaa3f4d13cdf780f2fdcc9c7652bdd55743d4571c2ba2d41; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jotvingija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sūdavija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jotvingija: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sūdavija" parinktas kaip owner_note_path. Targetas "Jotvingija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

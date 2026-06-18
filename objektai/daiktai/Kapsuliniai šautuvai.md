@@ -52,9 +52,19 @@ Nenurodyta
   global_id: t-40722
   teiginys: 'Rusų kariai pranoko sukilėlius ginkluote, nes buvo ginkluoti naujo pavyzdžio kapsuliniais šautuvais.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako kapsulinių šautuvų reikšmę ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Krymas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Krymas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=aded673afb90454aa3f176e59d1f025adb2d53244e6aebfc8d55d728baaf05bb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Šautuvai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kapsuliniai šautuvai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Šautuvai: mention_match, thing, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kapsuliniai šautuvai" parinktas kaip owner_note_path. Targetas "Šautuvai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -73,3 +83,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=aded673afb90454aa3f176e59d1f025adb2d53244e6aebfc8d55d728baaf05bb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Šautuvai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kapsuliniai šautuvai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Šautuvai: mention_match, thing, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kapsuliniai šautuvai" parinktas kaip owner_note_path. Targetas "Šautuvai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -34,7 +34,7 @@ periodo_grupes:
   global_id: t-40147
   teiginys: 'Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusi Riurikaičių dinastija.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir aiškiai susietas su asmeniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Riurikaičių dinastija|Riurikaičių dinastija]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_place: Rusija; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Riurikaičių dinastija|Riurikaičių dinastija]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Smolenskas'
   temporaliniai_duomenys: 'įvykio data: 1610 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir aiškiai susietas su asmeniu.'

@@ -34,6 +34,16 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
   susije_objektai: 'location: Markburgas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Markburgas; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fc18dadf920040fc1b40f6369953d94c221f80a0bb199548b1a931521fa019fe; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: landgrafas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "landgrafas" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58823"></a>
 - t-002
@@ -45,6 +55,9 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai atitinka citatos informaciją.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=781ef8aa4fa30bd39a5d6898dea26fa47aae7608b461fa92db4e0935d65c3c2f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-58824"></a>
 - t-003
@@ -57,6 +70,18 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
   temporalinis_llm_pakomentavimas: 'Pašalintas antraštinis triukšmas ir suformuluotas pilnas faktinis sakinys.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 700938-701689; hash=b230a64cd214d4cd458c7ed3257c2d23d242e0e4411be337f8247ac07dd8df0b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: mire -> Markburgas: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_death_local_place
+  ryšio_targeto_parinkimas: Markburgas: nearest_after_predicate, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_death_local_place". Subjektas "subjektas" parinktas kaip local_match. Targetas "Markburgas" parinktas kaip nearest_after_predicate aplink predikatą "mire". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas).md#claim-t-60324|Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas)]]: Hermanas, Saksonijos hercogas ir Tiuringijos landgrafas, buvo tarp didikų, pritarusių siųsti legatus dėl ligoninės patvirtinimo.
+- susijęs iš [[objektai/asmenys/Konradas (Tiuringijos landgrafas).md#claim-t-59988|Konradas (Tiuringijos landgrafas)]]: Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.
+- susijęs iš [[objektai/ivykiai/Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas.md#claim-t-185721|Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas]]: Čekijos karalius, Brandenburgo markgrafas, Tiuringijos landgrafas ir Braunšveigo kunigaikštis atvedė kariuomenes į Prūsiją, bet lietuvių nepuolė.
 - susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markgrafas).md#claim-t-60262|Ditrichas (Meiseno markgrafas)]]: Meiseno markgrafas Ditrichas buvo tarp didikų, pritarusių siųsti legatus Henrikui VI dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Gruningeno.md#claim-t-60266|Ditrichas iš Gruningeno]]: Ditrichas iš Gruningeno kartu su Hartmanu iš Heldrungeno buvo Teneburgo pilyje, kur Konradas ieškojo ramybės.
@@ -70,18 +95,15 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-184084|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63622|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Henrikas iš Kalendino.md#claim-t-60314|Henrikas iš Kalendino]]: Henrikas iš Kalendino buvo imperijos maršalas, minimas tarp didikų, pritarusių legatų siuntimui dėl ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas).md#claim-t-60324|Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas)]]: Hermanas, Saksonijos hercogas ir Tiuringijos landgrafas, buvo tarp didikų, pritarusių siųsti legatus dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Hugonas.md#claim-t-60330|Hugonas]]: Hugonas, Tiberiados valdovo Radolfo brolis, buvo tarp Jeruzalės karalystės baronų, pritarusių siųsti legatus dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Jonas iš Hibelino.md#claim-t-60346|Jonas iš Hibelino]]: Jonas iš Hibelino buvo vienas iš Jeruzalės karalystės didikų, pritarusių siūlymui prašyti popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Konradas (Landsbergo markgrafas).md#claim-t-60360|Konradas (Landsbergo markgrafas)]]: Landsbergo markgrafas Konradas buvo tarp didikų, pritarusių pasiūlymui prašyti popiežiaus patvirtinti naują ligoninę.
 - susijęs iš [[objektai/asmenys/Konradas (Mainco arkivyskupas).md#claim-t-60361|Konradas (Mainco arkivyskupas)]]: Mainco arkivyskupas Konradas buvo tarp Vokietijos didikų, pritarusių prašymui popiežiui leisti įsteigti ir patvirtinti ligoninę.
-- susijęs iš [[objektai/asmenys/Konradas (Tiuringijos landgrafas).md#claim-t-59988|Konradas (Tiuringijos landgrafas)]]: Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.
 - susijęs iš [[objektai/asmenys/Konradas (Viurcburgo vyskupas).md#claim-t-60362|Konradas (Viurcburgo vyskupas)]]: Konradas, Viurcburgo vyskupas ir Romos imperijos kancleris, buvo tarp Vokietijos didikų, palaikiusių ligoninės patvirtinimo prašymą.
 - susijęs iš [[objektai/asmenys/Volfgeris.md#claim-t-60468|Volfgeris]]: Pasau vyskupas Volfgeris buvo tarp didikų, pritarusių siųsti legatus dėl ligoninės steigimo ir patvirtinimo.
 - susijęs iš [[objektai/daiktai/Altorius.md#claim-t-59677|Altorius]]: Markburge priimami riteriai prieš įvilktuves kniūpsti puolė prieš altorių.
 - susijęs iš [[objektai/daiktai/Baltas apsiaustas su juodu kryžiumi.md#claim-t-59679|Baltas apsiaustas su juodu kryžiumi]]: Popiežius leido Jeruzalės ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi.
 - susijęs iš [[objektai/grupes/Joanitų ordinas.md#claim-t-72079|Joanitų ordinas]]: Švento Jono ligoninės magistras buvo tarp Šventosios Žemės ordinų ir didikų atstovų, palaikiusių naujai įsteigtą ligoninę.
-- susijęs iš [[objektai/ivykiai/Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas.md#claim-t-185721|Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas]]: Čekijos karalius, Brandenburgo markgrafas, Tiuringijos landgrafas ir Braunšveigo kunigaikštis atvedė kariuomenes į Prūsiją, bet lietuvių nepuolė.
 - susijęs iš [[objektai/paprociai/Teutonų namų ordino įvilktuvių apeiga.md#claim-t-175141|Teutonų namų ordino įvilktuvių apeiga]]: Markburge į Teutonų namų ordiną įvelkami kandidatai kniūpsti puldavo prieš altorių, kol kunigas melsdavosi ir giedodavo.
 - susijęs iš Jeruzalė: Jeruzalės patriarchas Henrikas ir kiti didikai pritarė, kad Fridrichas prašytų popiežiaus patvirtinti naujai įsteigtą ligoninę.
 - susijęs iš Markburgas: Landgrafas su riteriais ir kilmingaisiais atvyko pas Teutonų ordino brolius Markburge lapkričio 18 d.
@@ -124,6 +146,16 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fc18dadf920040fc1b40f6369953d94c221f80a0bb199548b1a931521fa019fe; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: landgrafas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "landgrafas" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -138,4 +170,16 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 700938-701689; hash=b230a64cd214d4cd458c7ed3257c2d23d242e0e4411be337f8247ac07dd8df0b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: mire -> Markburgas: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_death_local_place
+  ryšio_targeto_parinkimas: Markburgas: nearest_after_predicate, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_death_local_place". Subjektas "subjektas" parinktas kaip local_match. Targetas "Markburgas" parinktas kaip nearest_after_predicate aplink predikatą "mire". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=781ef8aa4fa30bd39a5d6898dea26fa47aae7608b461fa92db4e0935d65c3c2f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

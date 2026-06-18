@@ -28,7 +28,7 @@ amziai:
 - t-001
   global_id: t-66382
   teiginys: 'Žemaičių medininkai šiame šaltinyje pateikiami kaip atspari ir pajūrį ginanti žemaičių grupė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Medininkai'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
 

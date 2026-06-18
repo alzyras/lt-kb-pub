@@ -41,18 +41,38 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas į glaustą ir pilną sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=88516c90438abb83c07272130e545dad60e91c5ca083136ae8d4e4f2618853af; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ukraina: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: monopolis privati prekyba: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Ukraina: mention_match, place, gap=73
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "monopolis privati prekyba" parinktas kaip owner_note_path. Targetas "Ukraina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-86488"></a>
 - t-002
   global_id: t-86488
   teiginys: 'Martynas Smigleckis privačios prekybos arba monopolio klausimą aiškino Vilniaus stiklo prekių pavyzdžiu.'
   sudarymo_pagrindimas: 'Citata palaiko konkrečią enciklopedinę formuluotę apie monopolio ir privačios prekybos aptarimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Vilniaus ginklų liejykla; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilniaus ginklų liejykla; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]'
   temporaliniai_duomenys: 'įvykio data: 1619 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkrečią enciklopedinę formuluotę apie monopolio ir privačios prekybos aptarimą.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 579621-581555; hash=796411076c645df5acce364977af93afeaf9d7d4f774a5d624dcbf9622c32e3e; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilniaus ginklų liejykla: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: monopolis privati prekyba: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vilniaus ginklų liejykla: mention_match, place, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "monopolis privati prekyba" parinktas kaip owner_note_path. Targetas "Vilniaus ginklų liejykla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86489"></a>
 - t-003
@@ -62,6 +82,16 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
   susije_objektai: 'mentioned_place: Ukraina; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=17a2ad253e1d237fd5a30f397ef938cb03c89a596e21cd97ebbb8ba6fccabdf3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Iki gyvos galvos: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: monopolis privati prekyba: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Iki gyvos galvos: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "monopolis privati prekyba" parinktas kaip owner_note_path. Targetas "Iki gyvos galvos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -139,6 +169,16 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=88516c90438abb83c07272130e545dad60e91c5ca083136ae8d4e4f2618853af; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ukraina: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: monopolis privati prekyba: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Ukraina: mention_match, place, gap=73
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "monopolis privati prekyba" parinktas kaip owner_note_path. Targetas "Ukraina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-003
@@ -202,4 +242,24 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=17a2ad253e1d237fd5a30f397ef938cb03c89a596e21cd97ebbb8ba6fccabdf3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Iki gyvos galvos: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: monopolis privati prekyba: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Iki gyvos galvos: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "monopolis privati prekyba" parinktas kaip owner_note_path. Targetas "Iki gyvos galvos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 579621-581555; hash=796411076c645df5acce364977af93afeaf9d7d4f774a5d624dcbf9622c32e3e; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilniaus ginklų liejykla: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: monopolis privati prekyba: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vilniaus ginklų liejykla: mention_match, place, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "monopolis privati prekyba" parinktas kaip owner_note_path. Targetas "Vilniaus ginklų liejykla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

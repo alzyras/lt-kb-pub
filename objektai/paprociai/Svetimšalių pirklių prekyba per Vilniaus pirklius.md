@@ -50,9 +50,19 @@ Nenurodyta
   global_id: t-87302
   teiginys: 'Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metines muges, galėjo prekėmis mainytis tik su Vilniaus pirkliais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai atitinka citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos, totorių ir valakų pirkliai|Maskvos, totorių ir valakų pirkliai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_person: [[objektai/asmenys/Jonas Markovičius|Jonas Markovičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Bobruiskas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rudamina; mentioned_place: Smolenskas; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Maskvos, totorių ir valakų pirkliai|Maskvos, totorių ir valakų pirkliai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_person: [[objektai/asmenys/Jonas Markovičius|Jonas Markovičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Bobruiskas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rudamina; mentioned_place: Smolenskas; mentioned_place: Vilija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 538440-541242; hash=aa4d19e04fb2ba7b0a662fb2e5d40a926d5fc5503e64ec287322fd0f6e217719; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Svetimšalių pirklių prekyba per Vilniaus pirklius: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Svetimšalių pirklių prekyba per Vilniaus pirklius" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -141,3 +151,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 538440-541242; hash=aa4d19e04fb2ba7b0a662fb2e5d40a926d5fc5503e64ec287322fd0f6e217719; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Svetimšalių pirklių prekyba per Vilniaus pirklius: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Svetimšalių pirklių prekyba per Vilniaus pirklius" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

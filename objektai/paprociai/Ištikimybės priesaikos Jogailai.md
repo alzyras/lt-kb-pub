@@ -61,7 +61,7 @@ Nenurodyta
   global_id: t-176231
   teiginys: 'Tuo metu Jogailai ir Karūnai buvo duotos trys ištikimybės priesaikos.'
   sudarymo_pagrindimas: 'Šaltinis palaiko faktą, bet pirminis tekstas turi OCR triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Polockas; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Polockas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-002
 

@@ -38,7 +38,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   global_id: t-182818
   teiginys: 'XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.'
   sudarymo_pagrindimas: 'Teiginys aiškus ir tiesiogiai patvirtintas citatoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Malburgas; mentioned_place: Prūsai; mentioned_place: Revelis; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Malburgas; mentioned_place: Prūsai; mentioned_place: Revelis; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija'
   pagrindžia:
     - c-003
 
@@ -47,7 +47,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   global_id: t-182819
   teiginys: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir paremtas citatos informacija apie Baltijos pakrantę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Baltija; mentioned_place: Dvina; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Dvina; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -56,7 +56,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   global_id: t-182822
   teiginys: 'Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.'
   sudarymo_pagrindimas: 'Teiginys atitinka citatą ir aiškiai nusako Baltijos pakrantės užėmimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vilija; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Dvina; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Būgas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vilija'
   pagrindžia:
     - c-001
 
@@ -65,7 +65,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   global_id: t-182823
   teiginys: 'Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiesiogiai paremtas citatos aprašymu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Skandinavija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Skandinavija; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -86,7 +86,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata apie išėjimą į Baltijos jūrą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-006
 
@@ -98,7 +98,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir ištaisytos OCR klaidos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija; mentioned_place: Livonija; mentioned_place: Palanga'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Palanga; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija'
   pagrindžia:
     - c-007
 

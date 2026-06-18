@@ -32,12 +32,22 @@ periodo_grupes:
   global_id: t-87927
   teiginys: 'Petras Pliuščius 1620 m. buvo Vilniaus burmistras nuo katalikų.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytas pareigas, metus ir konfesinę grupę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Kuzma Mamoničius|Kuzma Mamoničius]]; mentioned_person: [[objektai/asmenys/Leonas Mamoničius|Leonas Mamoničius]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Kuzma Mamoničius|Kuzma Mamoničius]]; mentioned_person: [[objektai/asmenys/Leonas Mamoničius|Leonas Mamoničius]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1597 m.; įvykio data: 1600 m.; įvykio data: 1610 m.; įvykio data: 1620 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytas pareigas, metus ir konfesinę grupę.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8017b95f430f3653bc2dd3de46fa30559da59da87a48b39eb6870a1000865b1f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Petras Pliuščius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Pliuščius" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87350|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: 1620 m. burmistrais buvo nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius.
 - susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87351|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Motiejus, arba Matas, Božiminskis 1597 m. karaliaus Zigmanto Vazos raštu iš Varšuvos buvo paskirtas Vilniaus vaitu.
 - susijęs iš [[objektai/asmenys/Leonas Mamoničius.md#claim-t-87915|Leonas Mamoničius]]: 1620 m. Leonas Mamoničius ėjo Vilniaus burmistro nuo stačiatikių pareigas.
@@ -72,3 +82,13 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8017b95f430f3653bc2dd3de46fa30559da59da87a48b39eb6870a1000865b1f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Petras Pliuščius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Pliuščius" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

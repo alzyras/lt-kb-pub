@@ -52,6 +52,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Pašalintas antraštės, puslapio ir bibliografinis triukšmas; sakinys užbaigtas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 700273-700497; hash=2b3459319f9e321342b9bd1c0c135a5439a01a49fe6711865c6082234cfae54b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lionas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liono suvažiavimas ir Marijos gimimo oktavos įsteigimas (1245 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lionas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liono suvažiavimas ir Marijos gimimo oktavos įsteigimas (1245 m.)" parinktas kaip owner_note_path. Targetas "Lionas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -71,4 +81,24 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 700273-700497; hash=2b3459319f9e321342b9bd1c0c135a5439a01a49fe6711865c6082234cfae54b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lionas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liono suvažiavimas ir Marijos gimimo oktavos įsteigimas (1245 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lionas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liono suvažiavimas ir Marijos gimimo oktavos įsteigimas (1245 m.)" parinktas kaip owner_note_path. Targetas "Lionas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 700273-700497; hash=2b3459319f9e321342b9bd1c0c135a5439a01a49fe6711865c6082234cfae54b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lionas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liono suvažiavimas ir Marijos gimimo oktavos įsteigimas (1245 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lionas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liono suvažiavimas ir Marijos gimimo oktavos įsteigimas (1245 m.)" parinktas kaip owner_note_path. Targetas "Lionas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

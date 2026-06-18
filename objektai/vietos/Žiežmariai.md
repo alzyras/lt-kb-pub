@@ -31,12 +31,22 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
   global_id: t-69972
   teiginys: '1919 m. vasario pradžioje bolševikų karinė vadovybė, sužinojusi, kad nuo Žiežmarių iki Alytaus nėra lietuvių ir vokiečių dalinių, ryžosi pulti Kauną iš pietų.'
   sudarymo_pagrindimas: 'Teiginys palaikomas citata, bet jį reikia sutrumpinti ir išvalyti nuo gremėzdiškos konstrukcijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Alytus; mentioned_place: Kaunas; mentioned_place: Kėdainiai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Alytus; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Kėdainiai'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys palaikomas citata, bet jį reikia sutrumpinti ir išvalyti nuo gremėzdiškos konstrukcijos.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e5df8bcfc98fab2dc0aea063c69e94b361c9c4ad0e6a63e78bc523b215561fa4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žiežmariai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiežmariai" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-69973"></a>
 - t-002
@@ -49,10 +59,21 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4a76e4cf7a278e9efd307147396fffadac962dbc2f8f3ced39c46f09c5644fd2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Alytus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žiežmariai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Alytus: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiežmariai" parinktas kaip owner_note_path. Targetas "Alytus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Strėvos mūšis (1348 m.).md#claim-t-10297|Strėvos mūšis (1348 m.)]]: 1348 m. vasario 2 d. Strėvos kautynės vyko ties Žiežmarių brasta, o lietuviai ir rusų daliniai atakavo priešą ietimis ir lankais.
+- susijęs iš Strėva: Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.
 - susijęs iš [[objektai/grupes/Rusai.md#claim-t-117251|Rusai]]: Strėvos mūšio pradžioje Lietuvos kariai rusai šaudė į priešą iš lankų.
 - susijęs iš [[objektai/grupes/Rusai.md#claim-t-117255|Rusai]]: Strėvos mūšio pradžioje Lietuvos kariai rusai priešą atakavo šaudydami iš lankų.
 - susijęs iš [[objektai/grupes/Vytauto apygarda.md#claim-t-41201|Vytauto apygarda]]: 1951 m. kovo 19 d. Pagaigalės kautynėse žuvo 10 Šiaurės Rytų Lietuvos srities ir Vytauto apygardos štabo narių.
-- susijęs iš [[objektai/ivykiai/Strėvos mūšis (1348 m.).md#claim-t-10297|Strėvos mūšis (1348 m.)]]: 1348 m. vasario 2 d. Strėvos kautynės vyko ties Žiežmarių brasta, o lietuviai ir rusų daliniai atakavo priešą ietimis ir lankais.
 - susijęs iš Alytus: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje ir iš pietų pulti Kauną.
 - susijęs iš Alytus: Bolševikų pajėgos planavo persikelti per Nemuną Alytuje ir Prienuose, kad galėtų pulti Kauną iš pietų.
 - susijęs iš Kiauneliškio geležinkelio stotis: 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kariai puolė partizanų žemines Kiauneliškio geležinkelio stoties apylinkėse.
@@ -60,7 +81,6 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
 - susijęs iš Naručio apylinkės: 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai Naručio apylinkėse puolė dvi partizanų žemines.
 - susijęs iš Pagaigalė: 1951 m. kovo 19 d. MGB 137-ojo šaulių pulko kareiviai Pagaigalės kaimo apylinkėse puolė dvi partizanų žemines.
 - susijęs iš Prienai: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.
-- susijęs iš Strėva: Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -100,4 +120,24 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e5df8bcfc98fab2dc0aea063c69e94b361c9c4ad0e6a63e78bc523b215561fa4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Algirdas (Lietuvos valdovas): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žiežmariai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Algirdas (Lietuvos valdovas): mention_match, person, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiežmariai" parinktas kaip owner_note_path. Targetas "Algirdas (Lietuvos valdovas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4a76e4cf7a278e9efd307147396fffadac962dbc2f8f3ced39c46f09c5644fd2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Alytus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žiežmariai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Alytus: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žiežmariai" parinktas kaip owner_note_path. Targetas "Alytus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

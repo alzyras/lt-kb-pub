@@ -33,6 +33,16 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas faktinis sakinys apie Virgoličiaus rinktinę.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 784695-784939; hash=d33d3fb7e8cf1d5fc2eeaade37dedde94e7db5bc6470773b51735f8add8c1a72; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuršėnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Virgoličiaus rinktinė: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kuršėnai: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Virgoličiaus rinktinė" parinktas kaip owner_note_path. Targetas "Kuršėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Virgoličius.md#claim-t-40510|Virgoličius]]: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
 - susijęs iš [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.).md#claim-t-66496|Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]: Lietuvos vyriausybė negalėjo užkirsti kelio plk. Virgoličiaus rinktinei, nes Lietuvos kariuomenė tuo metu dar kovėsi su bolševikais Dauguvos fronte.
 - susijęs iš Dauguva: Spalio 5 d. Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte.
@@ -58,3 +68,13 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 784695-784939; hash=d33d3fb7e8cf1d5fc2eeaade37dedde94e7db5bc6470773b51735f8add8c1a72; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuršėnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Virgoličiaus rinktinė: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kuršėnai: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Virgoličiaus rinktinė" parinktas kaip owner_note_path. Targetas "Kuršėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

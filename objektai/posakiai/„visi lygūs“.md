@@ -23,6 +23,9 @@ Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žin
   sudarymo_pagrindimas: 'Teiginys pilnai perteikia citatos mintį apie posakio reikšmę stalinizmo kontekste.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5e03353cc49f5a4126e9d5b334128dd9a99b26248288e7744db41c8bf978d32e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/posakiai/„Prokrusto komunistinė lova“.md#claim-t-20866|„Prokrusto komunistinė lova“]]: Sovietmečiu nepavyko visiškai parklupdyti Lietuvos kultūros ir sugrūsti jos į „Prokrusto komunistinę lovą“.
 - susijęs iš [[objektai/zodynas/socialistinis realizmas.md#claim-t-22301|socialistinis realizmas]]: Brežnevinėje epochoje menininkai vis dažniau atsiribodavo nuo socialistinio realizmo ir vengė derinti meną su politika bei propaganda.
 ## Reikšmingi paminėjimai
@@ -59,4 +62,10 @@ Kūrybai pasitarnavo vadinamoji „brežnevinė epocha“: kuo žmogus buvo žin
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5e03353cc49f5a4126e9d5b334128dd9a99b26248288e7744db41c8bf978d32e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 453179-453651; hash=81662d1a66abaeaffc3040e0b578a171531d362f008b6f455f79c34abbeef358; match=whitespace_regex
+  sprendimo_priezastis: auto

@@ -44,12 +44,22 @@ Nenurodyta
   global_id: t-80681
   teiginys: '1792 m. birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė Rusijos kariuomenę.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ir apima kitus įvykius, o citata pagrindžia glaustą faktą apie Zelencų mūšį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Zelencai; mentioned_place: Zelva'
+  susije_objektai: 'mentioned_place: Rusija; mentioned_place: Zelencai; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Zelva'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta ir apima kitus įvykius, o citata pagrindžia glaustą faktą apie Zelencų mūšį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=65866d3942dc19c3160959e801178ac1448e2051dba43e71c5d792c782fc3ffb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zelencų mūšis (1792 m. birželio 18 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zelencų mūšis (1792 m. birželio 18 d.)" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -72,3 +82,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=65866d3942dc19c3160959e801178ac1448e2051dba43e71c5d792c782fc3ffb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zelencų mūšis (1792 m. birželio 18 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zelencų mūšis (1792 m. birželio 18 d.)" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

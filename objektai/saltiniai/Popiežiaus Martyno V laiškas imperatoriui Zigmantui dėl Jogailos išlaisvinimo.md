@@ -34,6 +34,16 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Citata aiškiai nurodo to paties popiežiaus laišką Zigmantui ir jo tikslą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 427800-428255; hash=d475a7659869d2db08698a177ac2015ae9beea5f7eb8d326684853c373e70d56; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas V: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Popiežiaus Martyno V laiškas imperatoriui Zigmantui dėl Jogailos išlaisvinimo: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Martynas V: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Popiežiaus Martyno V laiškas imperatoriui Zigmantui dėl Jogailos išlaisvinimo" parinktas kaip owner_note_path. Targetas "Martynas V" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -59,3 +69,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 427800-428255; hash=d475a7659869d2db08698a177ac2015ae9beea5f7eb8d326684853c373e70d56; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas V: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Popiežiaus Martyno V laiškas imperatoriui Zigmantui dėl Jogailos išlaisvinimo: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Martynas V: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Popiežiaus Martyno V laiškas imperatoriui Zigmantui dėl Jogailos išlaisvinimo" parinktas kaip owner_note_path. Targetas "Martynas V" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

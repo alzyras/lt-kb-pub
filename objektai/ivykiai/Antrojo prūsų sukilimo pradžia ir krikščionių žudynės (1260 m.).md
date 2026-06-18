@@ -46,9 +46,19 @@ Nenurodyta
   global_id: t-66454
   teiginys: 'Prūsų vadai paskyrė dieną krikščionims Prūsijoje išžudyti, o nepaslėptus už įtvirtinimų nužudė arba išsivarė į vergovę.'
   sudarymo_pagrindimas: 'Pradinė formuluotė prasideda šaltinio antrašte; citata palaiko aiškų faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 374135-375104; hash=df4be47cf3c49fdb7e66e0c302b5713b4d8b881164bf01f9aa4cc97a77308b6c; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bartai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Bartai: mention_match, group, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-66455"></a>
 - t-002
@@ -61,6 +71,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie įvykį ir remiasi citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 375133-376001; hash=68578e35bec9c03e64e4483f69eaae84097ffc94751fd10fbeeb54244d93e1ad; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183912"></a>
 - t-003
@@ -70,9 +90,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinė formuluotė dubliuota ir su antraštės triukšmu; citata palaiko kitą savarankišką faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 375133-376001; hash=68578e35bec9c03e64e4483f69eaae84097ffc94751fd10fbeeb54244d93e1ad; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -96,6 +126,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 374135-375104; hash=df4be47cf3c49fdb7e66e0c302b5713b4d8b881164bf01f9aa4cc97a77308b6c; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bartai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Bartai: mention_match, group, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)" parinktas kaip owner_note_path. Targetas "Bartai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-002
@@ -122,4 +162,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 375133-376001; hash=68578e35bec9c03e64e4483f69eaae84097ffc94751fd10fbeeb54244d93e1ad; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 375133-376001; hash=68578e35bec9c03e64e4483f69eaae84097ffc94751fd10fbeeb54244d93e1ad; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antrojo prūsų sukilimo pradžia ir krikščionių žudynės (1260 m.)" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

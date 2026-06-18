@@ -22,9 +22,19 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citatą reikia sutrumpinti iki fakto apie note objektą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Gardinas; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lietuva; mentioned_place: Gardinas; mentioned_place: Kijevas; mentioned_place: Polockas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 772552-773130; hash=0b43e672f7533ee41ce5f3fbfc53011363ebd84e8a2e410c79d341ede69608e4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Boleslovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonas Nemiravičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Boleslovas: mention_match, person, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Nemiravičius" parinktas kaip owner_note_path. Targetas "Boleslovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -50,3 +60,13 @@ atnaujinta: ''
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 772552-773130; hash=0b43e672f7533ee41ce5f3fbfc53011363ebd84e8a2e410c79d341ede69608e4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Boleslovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonas Nemiravičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Boleslovas: mention_match, person, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Nemiravičius" parinktas kaip owner_note_path. Targetas "Boleslovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

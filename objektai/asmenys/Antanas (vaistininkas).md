@@ -23,6 +23,9 @@ Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną va
   sudarymo_pagrindimas: 'Citata pagrindžia faktą apie pas Antaną buvusius sidabrinius dubenis.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f1e0d3573f15b67670084a0c74f16027f7af6ba3cd66f16e15def28199abc0ba; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-00058|Motiejus Valančius]]: Motiejaus Valančiaus „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“ turėjo nemažą reikšmę.
 - susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-179554|Motiejus Valančius]]: Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams.
 ## Reikšmingi paminėjimai
@@ -44,3 +47,6 @@ Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną va
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f1e0d3573f15b67670084a0c74f16027f7af6ba3cd66f16e15def28199abc0ba; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

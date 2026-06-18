@@ -36,15 +36,28 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie šaltinį ir atitinka citatos turinį.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 137123-137432; hash=7b72bb64de52eba638a33e57d0e48f0089ee22231987b1c2d7ba50739b87f640; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Didžiųjų magistrų jaunesnioji kronika: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=71
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiųjų magistrų jaunesnioji kronika" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60951"></a>
 - t-002
   global_id: t-60951
   teiginys: 'Vėlesnėje didžiojo magistro kronikoje Skomantas vadinamas lietuvių vadu.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Gardinas; mentioned_place: Naugardukas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Gardinas; mentioned_place: Naugardukas'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 429495-429700; hash=56f34ac08f4d68fb1fffda5e47f27f495908039c5b42859bd985b9bfd6fa20fc; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-60952"></a>
 - t-003
@@ -53,6 +66,16 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
   sudarymo_pagrindimas: 'Pašalintas puslapio numeris ir glaudžiau suformuluota citatos paremta mintis.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 464283-464611; hash=508764f401f51f0f4bbd1cd628ced251744528942e79e7c84abe18a64db2d913; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Didžiųjų magistrų jaunesnioji kronika: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiųjų magistrų jaunesnioji kronika" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -83,6 +106,16 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 464283-464611; hash=508764f401f51f0f4bbd1cd628ced251744528942e79e7c84abe18a64db2d913; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Didžiųjų magistrų jaunesnioji kronika: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiųjų magistrų jaunesnioji kronika" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -97,4 +130,17 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 137123-137432; hash=7b72bb64de52eba638a33e57d0e48f0089ee22231987b1c2d7ba50739b87f640; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Didžiųjų magistrų jaunesnioji kronika: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=71
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžiųjų magistrų jaunesnioji kronika" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 429495-429700; hash=56f34ac08f4d68fb1fffda5e47f27f495908039c5b42859bd985b9bfd6fa20fc; match=exact
+  sprendimo_priezastis: auto

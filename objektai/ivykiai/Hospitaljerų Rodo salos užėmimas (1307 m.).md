@@ -46,6 +46,9 @@ Nenurodyta
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c60c483848085b553f3380887c5b93822e7538fb2a4ac6ecbb137484134af14b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -62,3 +65,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c60c483848085b553f3380887c5b93822e7538fb2a4ac6ecbb137484134af14b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

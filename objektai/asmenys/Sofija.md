@@ -45,6 +45,16 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f71ee31e50da0d73d513694b7dab9a40ed52cc155af9612215e13b26914d1439; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Julijona (Algirdo žmona): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sofija: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Julijona (Algirdo žmona): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sofija" parinktas kaip owner_note_path. Targetas "Julijona (Algirdo žmona)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Bieloviežo giria: Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti stumbrų.
 - susijęs iš Bieloviežo giria: Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti stumbrų.
 - susijęs iš Pernu: Kunigaikštytė Sofija su palyda iš Gdansko laivais per jūrą pasiekė Pernu ir Pskovą.
@@ -89,3 +99,13 @@ Po paskutiniojo žygio jis kartu su žmona Ona, dukra Sofija ir seserimi Ringail
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f71ee31e50da0d73d513694b7dab9a40ed52cc155af9612215e13b26914d1439; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Julijona (Algirdo žmona): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sofija: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Julijona (Algirdo žmona): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sofija" parinktas kaip owner_note_path. Targetas "Julijona (Algirdo žmona)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

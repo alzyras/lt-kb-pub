@@ -23,6 +23,11 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
   sudarymo_pagrindimas: 'Citata perteikia legendinį sapno epizodą, o pradinis teiginys per ilgas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 249654-249879; hash=b4c2b7fc6660bb9c4d74b57fd09792e8c0a4bb4028d894b94598180b584011d7; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+- susijęs iš [[objektai/asmenys/Bernardas iš Svidnicos.md#claim-t-87633|Bernardas iš Svidnicos]]: 1322 m. žiemą Silezijos kunigaikštis Bernardas iš Svidnicos vedė atskirą kryžiuočių ekspedicijos į Prūsiją pulką.
+- susijęs iš [[objektai/asmenys/Bernardas (Jachnos sūnus).md#claim-t-87632|Bernardas (Jachnos sūnus)]]: 1491 m. dokumente Jachnos sūnus Bernardas vadinamas magistru Bernardu, pono Jachnos sūnumi.
 - susijęs iš [[objektai/asmenys/Bernardas (Jachnos sūnus).md#claim-t-87632|Bernardas (Jachnos sūnus)]]: 1491 m. dokumente Jachnos sūnus Bernardas vadinamas magistru Bernardu, pono Jachnos sūnumi.
 - susijęs iš [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas).md#claim-t-184674|Bernardas (Šv. Teofrido vienuolyno abatas)]]: Šv. Teofrido vienuolyno abatas Bernardas kartu su Alėto vyskupu Baltramiejumi tapo pasiuntiniu taikos ir krikšto reikalu.
 - susijęs iš [[objektai/asmenys/Bernardas iš Svidnicos.md#claim-t-87633|Bernardas iš Svidnicos]]: 1322 m. žiemą Silezijos kunigaikštis Bernardas iš Svidnicos vedė atskirą kryžiuočių ekspedicijos į Prūsiją pulką.
@@ -46,3 +51,10 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 249654-249879; hash=b4c2b7fc6660bb9c4d74b57fd09792e8c0a4bb4028d894b94598180b584011d7; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+
+## Ryšiai
+- [[objektai/asmenys/Bernardas iš Svidnicos]] vede Bernardas
+- [[objektai/asmenys/Bernardas (Jachnos sūnus)]] buvo_sunus Bernardas

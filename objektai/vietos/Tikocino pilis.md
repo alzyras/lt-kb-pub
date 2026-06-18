@@ -34,6 +34,16 @@ Norėdami, kad šis mūsų valios pareiški­ mas greičiau pasiektų žmones, �
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradinė formuluotė per ilga ir su OCR triukšmu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 683490-684202; hash=60eb90c3ef57d9d93cf2d8cf0202173e59b0b1d79504bf0bb2b4b3f6574a98f1; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Tikocinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tikocino pilis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Tikocinas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tikocino pilis" parinktas kaip owner_note_path. Targetas "Tikocinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -59,3 +69,13 @@ Norėdami, kad šis mūsų valios pareiški­ mas greičiau pasiektų žmones, �
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 683490-684202; hash=60eb90c3ef57d9d93cf2d8cf0202173e59b0b1d79504bf0bb2b4b3f6574a98f1; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Tikocinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tikocino pilis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Tikocinas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tikocino pilis" parinktas kaip owner_note_path. Targetas "Tikocinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

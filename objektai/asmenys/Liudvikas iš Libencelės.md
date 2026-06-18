@@ -34,12 +34,22 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   teiginys: '1294–1300 m. Liudvikas iš Libencelės buvo Ragainės komtūras ir daug kartų kariavo su lietuviais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir atitinka citatoje pateiktą antraštę bei tekstą.'
   susije_objektai: 'counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; counterparty: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Lietuva; mentioned_place: Ragainė'
-  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]] kariavo prieš [[objektai/asmenys/Liudvikas|Liudvikas]]; [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]] kariavo prieš [[objektai/asmenys/Liudvikas|Liudvikas]]'
   temporaliniai_duomenys: 'mūšio data: 1294-1300; mūšio data: 1300 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liudvikas iš Libencelės kariavo prieš Liudvikas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liudvikas iš Libencelės kariavo prieš Lietuviai“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir atitinka citatoje pateiktą antraštę bei tekstą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1c6f5a51f9ce38731ea314fbb4f74764995b6b263d63d9dc5a7c93df1383c5e7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Liudvikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liudvikas iš Libencelės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Liudvikas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudvikas iš Libencelės" parinktas kaip owner_note_path. Targetas "Liudvikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59883"></a>
 - t-002
@@ -49,6 +59,16 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Sūduva'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8df036f8f3fea8e3308dba83e46d2128d634d629a8fdbef34d0b890c8acd6713; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kantigirdas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liudvikas iš Libencelės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kantigirdas: mention_match, person, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudvikas iš Libencelės" parinktas kaip owner_note_path. Targetas "Kantigirdas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59884"></a>
 - t-003
@@ -58,24 +78,54 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Markvardas (Ragainės komtūras)|Markvardas (Ragainės komtūras)]]; mentioned_person: [[objektai/asmenys/Markvardas iš Revelingės|Markvardas iš Revelingės]]; mentioned_place: Ragainė'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 536317-537015; hash=7a7eef7cf03c838b0a263bb33b32172ee835ec51d7b5c7481bcd4f875c05b564; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Liudvikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liudvikas iš Libencelės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Liudvikas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudvikas iš Libencelės" parinktas kaip owner_note_path. Targetas "Liudvikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59885"></a>
 - t-004
   global_id: t-59885
   teiginys: 'Antrą kartą patekęs į nelaisvę Liudvikas iš Libencelės buvo nuvestas pas kilmingąjį Kantigirdą ir pavestas jo globai.'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir dviprasmis įvardijimas; citata remia konkretų įvykį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Kantigirdas|Kantigirdas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kantigirdas|Kantigirdas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=84bdcf4a9f311cf0b1f06d8499d32c8b02f0826ce9a566d967965fc11834c310; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Liudvikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liudvikas iš Libencelės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Liudvikas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudvikas iš Libencelės" parinktas kaip owner_note_path. Targetas "Liudvikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59886"></a>
 - t-005
   global_id: t-59886
   teiginys: 'Liudvikas iš Libencelės, būdamas nelaisvėje, į Kristaus tikėjimą atvertė tūkstantį šešis šimtus abiejų lyčių sūduvių.'
   sudarymo_pagrindimas: 'Citata aiškiai remia 1600 sūduvių atvertimą, bet nepakankamai aiškiai Kantigirdo atvertimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Kimenava; mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kimenava; mentioned_place: Semba; mentioned_place: Viena'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=21c34ccabef8f4570266c3feda4bfa61f0ba737aace49d7ed2a4f0b8a00e1274; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_combat_counterparty
+  ryšio_subjekto_parinkimas: Liudvikas iš Libencelės: owner_note_path, person, gap=61
+  ryšio_targeto_parinkimas: Lietuviai: counterparty_iteration, group, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Liudvikas iš Libencelės" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 <a id="claim-t-59887"></a>
 - t-006
@@ -88,7 +138,16 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs; citata leidžia suformuluoti aiškų žygio rezultatą.'
   pagrindžia:
     - c-004
-- susijęs iš [[objektai/asmenys/Kantigirdas.md#claim-t-60154|Kantigirdas]]: Brolis Liudvikas iš Libencelės pas magistrą Konradą atsivedė Kantigirdą, kurio anksčiau buvo paimtas į nelaisvę.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 595635-596537; hash=f2fa9211dd336ae0d7d1173e83c9fe7c6b05eca334e5b27d8ae95fb87780aa56; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kimelis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liudvikas iš Libencelės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kimelis: mention_match, place, gap=96
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudvikas iš Libencelės" parinktas kaip owner_note_path. Targetas "Kimelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Markvardas iš Revelingės.md#claim-t-60383|Markvardas iš Revelingės]]: Markvardas iš Revelingės su Liudviku iš Libencelės, dviem broliais ir 26 ginklanešiais užpuolė plėšikautojus ir 25 jų nukovė.
 - susijęs iš [[objektai/asmenys/Ulrichas Bajeris.md#claim-t-60070|Ulrichas Bajeris]]: Ulrichas Bajeris, Tepliavos komtūras, žuvo mūšyje, kuriame taip pat krito keturi vyrai, o Liudvikas iš Libencelės pateko į nelaisvę.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175107|Sūduviai-jotvingiai]]: Skomantas, sūduvių vadas, gavo belaisvį Liudviką iš Libencelės ir pamėgo jį dėl drąsos.
@@ -96,14 +155,15 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-183904|Sūduviai-jotvingiai]]: Skomantas, sūduvių vadas, gavo belaisvį Liudviką iš Libencelės ir pamėgo jį dėl drąsos.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-183901|Sūduviai]]: Skomantas, sūduvių vadas, gavo belaisvį Liudviką iš Libencelės ir pamėgo jį dėl drąsos.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89248|Sūduviai]]: Skomantas, sūduvių vadas, gavo belaisvį Liudviką iš Libencelės ir pamėgo jį dėl drąsos.
+- susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje.md#claim-t-62892|Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje]]: Liudvikas iš Libencelės Pagraudės valsčiuje surengė pasalą ir nukovė visus jį vijusius raitelius, išskyrus šešis.
+- susijęs iš [[objektai/ivykiai/Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.).md#claim-t-62904|Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)]]: Ragainės broliai, gavę žinią iš žvalgo, užpuolė 36 lietuvius viename lauke ir 25 iš jų nukovė.
+- susijęs iš [[objektai/ivykiai/Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę.md#claim-t-59460|Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę]]: Antrą kartą patekęs į nelaisvę, brolis Liudvikas iš Libencelės buvo nuvestas pas kilmingąjį Kantigirdą ir pavestas jo globai.
+- susijęs iš [[objektai/asmenys/Kantigirdas.md#claim-t-60154|Kantigirdas]]: Brolis Liudvikas iš Libencelės pas magistrą Konradą atsivedė Kantigirdą, kurio anksčiau buvo paimtas į nelaisvę.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89250|Sūduviai]]: Liudvikas iš Libencelės į Kristaus tikėjimą atvertė tūkstantį šešis šimtus abiejų lyčių sūduvių.
 - susijęs iš [[objektai/ivykiai/Kimelio pilies sunaikinimas (1296 m.).md#claim-t-62317|Kimelio pilies sunaikinimas (1296 m.)]]: 1296 m. Liudvikas iš Libencelės su broliais įsiveržė į Kimelio pilį, išžudė jos gyventojus ir sudegino pilį ligi pamatų.
 - susijęs iš [[objektai/ivykiai/Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas.md#claim-t-89369|Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas (pilis, XVI a.)]]: Liudvikas iš Libencelės pas magistrą Konradą atvedė Kantigirdą ir 1600 sūduvių, kuriuos nelaisvėje atvertė į Kristaus tikėjimą.
 - susijęs iš [[objektai/ivykiai/Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas.md#claim-t-89370|Kimenavos pilies paėmimas ir 1600 sūduvių atsivertimas (pilis, XVI a.)]]: Liudvikas iš Libencelės pas magistrą atvedė Kantigirdą ir 1600 abiejų lyčių sūduvių, kuriuos nelaisvėje atvertė į Kristaus tikėjimą.
 - susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-66638|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų.
-- susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje.md#claim-t-62892|Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje]]: Liudvikas iš Libencelės Pagraudės valsčiuje surengė pasalą ir nukovė visus jį vijusius raitelius, išskyrus šešis.
-- susijęs iš [[objektai/ivykiai/Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.).md#claim-t-62904|Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)]]: Ragainės broliai, gavę žinią iš žvalgo, užpuolė 36 lietuvius viename lauke ir 25 iš jų nukovė.
-- susijęs iš [[objektai/ivykiai/Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę.md#claim-t-59460|Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę]]: Antrą kartą patekęs į nelaisvę, brolis Liudvikas iš Libencelės buvo nuvestas pas kilmingąjį Kantigirdą ir pavestas jo globai.
 - susijęs iš [[objektai/zodynas/ginklanešiai.md#claim-t-175174|ginklanešiai]]: Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė lietuvius ir 25 jų nukovė.
 - susijęs iš [[objektai/zodynas/ginklanešys.md#claim-t-175178|ginklanešys]]: Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė lietuvius ir 25 jų nukovė.
 ## Reikšmingi paminėjimai
@@ -143,6 +203,16 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1c6f5a51f9ce38731ea314fbb4f74764995b6b263d63d9dc5a7c93df1383c5e7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Liudvikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liudvikas iš Libencelės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Liudvikas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudvikas iš Libencelės" parinktas kaip owner_note_path. Targetas "Liudvikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -163,6 +233,16 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 536317-537015; hash=7a7eef7cf03c838b0a263bb33b32172ee835ec51d7b5c7481bcd4f875c05b564; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Liudvikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liudvikas iš Libencelės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Liudvikas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudvikas iš Libencelės" parinktas kaip owner_note_path. Targetas "Liudvikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-004
@@ -185,6 +265,16 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=84bdcf4a9f311cf0b1f06d8499d32c8b02f0826ce9a566d967965fc11834c310; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Liudvikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liudvikas iš Libencelės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Liudvikas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudvikas iš Libencelės" parinktas kaip owner_note_path. Targetas "Liudvikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-005
@@ -202,6 +292,16 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 595635-596537; hash=f2fa9211dd336ae0d7d1173e83c9fe7c6b05eca334e5b27d8ae95fb87780aa56; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kimelis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liudvikas iš Libencelės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kimelis: mention_match, place, gap=96
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudvikas iš Libencelės" parinktas kaip owner_note_path. Targetas "Kimelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-006
@@ -222,9 +322,40 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8df036f8f3fea8e3308dba83e46d2128d634d629a8fdbef34d0b890c8acd6713; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kantigirdas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liudvikas iš Libencelės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kantigirdas: mention_match, person, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudvikas iš Libencelės" parinktas kaip owner_note_path. Targetas "Kantigirdas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 536317-537015; hash=7a7eef7cf03c838b0a263bb33b32172ee835ec51d7b5c7481bcd4f875c05b564; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Liudvikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liudvikas iš Libencelės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Liudvikas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liudvikas iš Libencelės" parinktas kaip owner_note_path. Targetas "Liudvikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=21c34ccabef8f4570266c3feda4bfa61f0ba737aace49d7ed2a4f0b8a00e1274; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: kariavo_pries -> Lietuviai: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_combat_counterparty
+  ryšio_subjekto_parinkimas: Liudvikas iš Libencelės: owner_note_path, person, gap=61
+  ryšio_targeto_parinkimas: Lietuviai: counterparty_iteration, group, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Liudvikas iš Libencelės" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 ## Ryšiai
 - Liudvikas iš Libencelės kariavo_pries [[objektai/grupes/Lietuviai]]
+- Liudvikas iš Libencelės buvo_brolis [[objektai/asmenys/Liudvikas]]
 - Liudvikas iš Libencelės kariavo_pries [[objektai/asmenys/Liudvikas]]

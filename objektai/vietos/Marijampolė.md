@@ -35,7 +35,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 - t-001
   global_id: t-68592
   teiginys: 'Po mūšio prie Berezinos Napoleonas per Vilnių, Kauną, Marijampolę ir Varšuvą parskubėjo į Paryžių.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Berezina; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_place: Paryžius; mentioned_place: Varšuva; mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Berezina; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -62,21 +62,31 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir paliktas citata paremtas faktas apie Marijampolę.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/E. Adamkavičius.md#claim-t-40092|E. Adamkavičius]]: Plk. ltn. E. Adamkavičius vadovavo Kauno batalionui Varnionių-Daugėlaičių-Šiaulėnų atkarpoje.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 902284-902652; hash=227cdb740682599a1dd68ca710e28520fcec8cad99737a7f56611f9b9f1e5a95; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Marijampolė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marijampolė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Petras Kriaučiūnas.md#claim-t-75997|Petras Kriaučiūnas]]: Petras Kriaučiūnas vienu metu mokė Marijampolės gimnazijoje kartu su V. Staniškiu ir J. Jasiulaičiu.
-- susijęs iš [[objektai/daiktai/Mauser 98 šautuvas.md#claim-t-40742|Mauser 98 šautuvas]]: Atskirojo Marijampolės bataliono kariai ties Arnenhofu buvo ginkluoti šautuvais Mauser 98 su užmautais durtuvais.
-- susijęs iš [[objektai/grupes/11 brigada.md#claim-t-183651|11 brigada]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
-- susijęs iš [[objektai/grupes/11 brigada.md#claim-t-38838|11 brigada]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
 - susijęs iš [[objektai/grupes/Marijampolės batalionas.md#claim-t-78386|Marijampolės batalionas]]: Atskirojo Marijampolės bataliono viršila Antanas Šukys aprašė naktinę žvalgybinę-diversinę operaciją į bolševikų divizijos štabą.
 - susijęs iš [[objektai/grupes/Marijampolės batalionas.md#claim-t-78387|Marijampolės batalionas]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
 - susijęs iš [[objektai/grupes/Saulė.md#claim-t-168658|Saulė]]: „Saulė“ buvo viena iš trijų ypatingos reikšmės švietimo draugijų greta Vilniaus „Ryto“ ir Marijampolės „Žiburio“.
+- susijęs iš Kučinskas A. Kęstutis lietuvių tautos gynėjas: A. Kučinsko „Kęstutis lietuvių tautos gynėjas“ išleista Marijampolėje 1938 m.
+- susijęs iš Kšivickis L. Žemaičių senovė: L. Kšivickio „Žemaičių senovė“ išleista Kaune ir Marijampolėje 1928 m.
+- susijęs iš [[objektai/asmenys/E. Adamkavičius.md#claim-t-40092|E. Adamkavičius]]: Plk. ltn. E. Adamkavičius vadovavo Kauno batalionui Varnionių-Daugėlaičių-Šiaulėnų atkarpoje.
+- susijęs iš [[objektai/daiktai/Mauser 98 šautuvas.md#claim-t-40742|Mauser 98 šautuvas]]: Atskirojo Marijampolės bataliono kariai ties Arnenhofu buvo ginkluoti šautuvais Mauser 98 su užmautais durtuvais.
+- susijęs iš [[objektai/grupes/11 brigada.md#claim-t-183651|11 brigada]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
+- susijęs iš [[objektai/grupes/11 brigada.md#claim-t-38838|11 brigada]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.
 - susijęs iš [[objektai/grupes/Žiburys.md#claim-t-182933|Žiburys]]: Marijampolėje veikęs „Žiburys“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų.
 - susijęs iš [[objektai/posakiai/Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų.md#claim-t-41480|Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų (mūšis)]]: Ant prie buožės pritvirtintos lentelės buvo užrašyta: „Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų“.
 - susijęs iš Atskirojo Marijampolės bataliono viršilos Antano Šukio pasvarstymai: 6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakojo apie savo kuopos kontrataką prieš lenkų pajėgas tarp Seinų ir Gibų.
 - susijęs iš Ko bėgo Kęstučio sūnus iš Lietuvos: „Ko bėgo Kęstučio sūnus iš Lietuvos“ buvo paskelbta „Židinyje“ 1932 m. 12 numeryje, p. 449–457.
-- susijęs iš Kučinskas A. Kęstutis lietuvių tautos gynėjas: A. Kučinsko „Kęstutis lietuvių tautos gynėjas“ išleista Marijampolėje 1938 m.
 - susijęs iš Kęstučio Brasta: „Kęstučio Brasta“ nurodoma Lietuvių enciklopedijos 11 tome, 405 puslapyje.
-- susijęs iš Kšivickis L. Žemaičių senovė: L. Kšivickio „Žemaičių senovė“ išleista Kaune ir Marijampolėje 1928 m.
 - susijęs iš P. Šležas Kauno pilies išgriovimas: P. Šležo „Kauno pilies išgriovimas“ paskelbtas „Židinyje“ 1932 m. Nr. 10, p. 271 ir toliau.
 - susijęs iš Salys, A. Kęstučio vardas: A. Salio straipsnis „Kęstučio vardas“ paskelbtas „Lietuvių enciklopedijos“ 11 tome, 405-407 puslapiuose.
 - susijęs iš Berezina: Po žiauraus mūšio prie Berezinos Napoleonas pavedė kariuomenę maršalui Miuratui ir parskubėjo į Paryžių rinkti naujų jėgų.
@@ -116,6 +126,16 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 902284-902652; hash=227cdb740682599a1dd68ca710e28520fcec8cad99737a7f56611f9b9f1e5a95; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Marijampolė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Marijampolė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-003

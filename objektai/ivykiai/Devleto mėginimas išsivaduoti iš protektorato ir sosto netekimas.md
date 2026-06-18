@@ -50,6 +50,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 691899-692144; hash=ebdd9870c3283c721d5dc9f5b4e6750ee38bfd88e1b489859e22666368d28f90; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Devletas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Devletas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas" parinktas kaip owner_note_path. Targetas "Devletas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -66,3 +76,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 691899-692144; hash=ebdd9870c3283c721d5dc9f5b4e6750ee38bfd88e1b489859e22666368d28f90; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Devletas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Devletas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas" parinktas kaip owner_note_path. Targetas "Devletas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

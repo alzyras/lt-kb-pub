@@ -37,6 +37,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_person: [[objektai/asmenys/Jurgis Chodkevičius|Jurgis Chodkevičius]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1197218-1197520; hash=1c1b7ab6fdbffb6bbb6ccdac09bd34d67bffd70cc7dee6bfe48a6ab5bf30b5fb; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę (seimas): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę (seimas)" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -58,3 +68,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1197218-1197520; hash=1c1b7ab6fdbffb6bbb6ccdac09bd34d67bffd70cc7dee6bfe48a6ab5bf30b5fb; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę (seimas): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę (seimas)" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

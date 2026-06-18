@@ -36,18 +36,38 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - t-001
   global_id: t-65554
   teiginys: 'Kuršas minimas tarp duoklinių tautų, kurios turėjo atskiras kalbas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Dauguva; mentioned_place: Kuršas'
+  susije_objektai: 'mentioned_place: Kuršas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Dauguva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b0292cd77dfdbe2862fe269a956fdb298d3dcf4f819622e38354f8c77063820c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuršas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-65555"></a>
 - t-002
   global_id: t-65555
   teiginys: 'Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie kuršius ir prūsus vikingų epochoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Vikingai|Vikingai]]; mentioned_place: Dniepras; mentioned_place: Prūsai; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Vikingai|Vikingai]]; mentioned_place: Dniepras; mentioned_place: Prūsai; mentioned_place: Švedija'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a1ac941cc332915e82ed0a0cbac0d30149b3d3782d062e2565ffa1e36ae3090b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietgaliai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietgaliai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Lietgaliai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-65556"></a>
 - t-003
@@ -57,18 +77,38 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietgaliai|Lietgaliai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 377012-377282; hash=7fc944edebe160ef078eb51340ca5987d20b7506537c6965fa6ef0a78e3c823f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žiemgaliai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Žiemgaliai: mention_match, group, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Žiemgaliai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-65557"></a>
 - t-004
   global_id: t-65557
   teiginys: 'Livonijoje sukilę estai, kuršiai ir žiemgaliai 1263-1270 m. mažino išorinį pavojų Lietuvai.'
   sudarymo_pagrindimas: 'Ilgas kontekstas sutrauktas į aiškų faktą apie kuršius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1263-1270; įvykio data: 1267 m.; įvykio data: 1270 m.; įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Ilgas kontekstas sutrauktas į aiškų faktą apie kuršius.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8218502b530b7264b92d955feb2676ad433257ed3caa724374b2ce66dd6e119a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žiemgaliai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Žiemgaliai: mention_match, group, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Žiemgaliai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-65558"></a>
 - t-005
@@ -78,6 +118,16 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Nemunas'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ceb79aff4247ac60b5aab12a47eecd185410e3477650d9845600b468a35cefa; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuršas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-65559"></a>
 - t-006
@@ -87,22 +137,42 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietgaliai|Lietgaliai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=643d741aea60b51176ed4d72c6004d7969a4d232b5ec1917bd3113372bd480a5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skandinavai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Skandinavai: mention_match, group, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Skandinavai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-65560"></a>
 - t-007
   global_id: t-65560
   teiginys: 'Kuršiai XI a. jau rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.'
   sudarymo_pagrindimas: 'Teiginys yra glaustas, pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Vikingai|Vikingai]]; mentioned_place: Dniepras; mentioned_place: Prūsai; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_place: Švedija; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Vikingai|Vikingai]]; mentioned_place: Dniepras; mentioned_place: Prūsai'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=643d741aea60b51176ed4d72c6004d7969a4d232b5ec1917bd3113372bd480a5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Švedija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Švedija: mention_match, place, gap=61
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Švedija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-65561"></a>
 - t-008
   global_id: t-65561
   teiginys: 'Kronikininkai mini spindinčius metalo ginklus pas kuršius ir žiemgalius.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Livonija'
   pagrindžia:
     - c-008
 
@@ -110,9 +180,19 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - t-009
   global_id: t-65564
   teiginys: 'Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietgaliai|Lietgaliai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_group: [[objektai/grupes/Lietgaliai|Lietgaliai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b0292cd77dfdbe2862fe269a956fdb298d3dcf4f819622e38354f8c77063820c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dauguva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Dauguva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-65565"></a>
 - t-010
@@ -122,21 +202,41 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Dauguva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a1ac941cc332915e82ed0a0cbac0d30149b3d3782d062e2565ffa1e36ae3090b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-65566"></a>
 - t-011
   global_id: t-65566
   teiginys: 'Kuršių gyvenama teritorija prasidėjo į šiaurę nuo Minijos žemupio, Klaipėdos apylinkėse.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako kuršių teritorijos pradžią ir remiasi citata.'
-  susije_objektai: 'mentioned_place: Kuršių marios; mentioned_place: Lietuva; mentioned_place: Minija; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_place: Kuršių marios; mentioned_place: Minija; mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ceb79aff4247ac60b5aab12a47eecd185410e3477650d9845600b468a35cefa; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuršas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-65567"></a>
 - t-012
   global_id: t-65567
   teiginys: 'Livonijoje sukilę kuršiai buvo pajungti tik po septynerių metų kovos, 1267 m.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Kuršas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1263-1270; įvykio data: 1267 m.; įvykio data: 1270 m.; įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -150,6 +250,16 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija; mentioned_place: Prūsija'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a9ea29301fb0173409268b9364825afb6d1ffffef51f5c6e0b843e9e753c6913; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Latviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Latviai: mention_match, group, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184514"></a>
 - t-015
@@ -159,9 +269,19 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta be boilerplate, paliekant citatos palaikomą faktą apie kuršius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/kolonijos|kolonijos]]; mentioned_person: [[objektai/asmenys/Avigenas|Avigenas]]; mentioned_place: Latvija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Latvija; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/kolonijos|kolonijos]]; mentioned_person: [[objektai/asmenys/Avigenas|Avigenas]]'
   pagrindžia:
     - c-011
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 366457-367134; hash=f59007dbab603dd6bbde562a3deadeab11908a70e61760deb5168aedd21d626d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184515"></a>
 - t-016
@@ -174,15 +294,19 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   susije_objektai: 'mentioned_place: Kuršas; mentioned_place: Livonija'
   pagrindžia:
     - c-012
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 376871-377135; hash=3078711bbaa0df3fe5a0bc3614d511633e65d872b8cbf7ba9142a7c952931730; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žiemgaliai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Žiemgaliai: mention_match, group, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Žiemgaliai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Barkus.md#claim-t-186097|Barkus]]: Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitijos dalį iki Kuršių įlankos.
 - susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60094|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.
-- susijęs iš [[objektai/asmenys/Engelbertas.md#claim-t-80713|Engelbertas]]: Kuršo vyskupas Engelbertas buvo išnaikintas kartu su tos bažnyčios dvasininkais ir tikinčiųjų tauta.
-- susijęs iš [[objektai/asmenys/Fridrichas, vadinamas Hole.md#claim-t-60280|Fridrichas, vadinamas Hole]]: Fridrichas, vadinamas Hole, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą, o grįždamas iš Kirsnavos valsčiaus buvo nukautas su 30 vyrų.
 - susijęs iš [[objektai/asmenys/Henrikas Botelis.md#claim-t-116281|Henrikas Botelis]]: Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje.
-- susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-184105|Konradas Žakas]]: Konradas Žakas 1303 m. žiemą su didžiule kariuomene įsiveržė į Karšuvos žemę.
-- susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-60043|Konradas Žakas]]: Konradas Žakas 1303 m. žiemą su didžiule kariuomene įsiveržė į Karšuvos žemę.
-- susijęs iš [[objektai/asmenys/Sklodas iš Kvedenavos.md#claim-t-60205|Sklodas iš Kvedenavos]]: Sembas Sklodas iš Kvedenavos sušaukė giminaičius ir bičiulius, ragindamas juos kovoti už tikėjimą ir brolius.
-- susijęs iš [[objektai/asmenys/Volkvinas.md#claim-t-39676|Volkvinas]]: Magistras Volkvinas su kariuomene žygiavo į lietuvių kraštą ir Saulės žemėje buvo lietuvių užmuštas.
 - susijęs iš [[objektai/autoriai/Mažiulis V.md#claim-t-60847|Mažiulis V]]: V. Mažiulis teigė, kad lietuvių kalboje Kuršių nerija vadinta Kopomis, Kalnais, Pajūriais ir Randavomis.
 - susijęs iš [[objektai/autoriai/Rimbertas.md#claim-t-30953|Rimbertas]]: Rimbertas pažymėjo, jog kuršiai sukilo ir ilgai stengėsi savo penkiose srityse būti nepriklausomi.
 - susijęs iš [[objektai/autoriai/Rimbertas.md#claim-t-30955|Rimbertas]]: Rimbertas pirmasis paminėjo kuršių (Cori) vardą ir rašė, kad jie anksčiau priklausę švedų valdžiai.
@@ -190,18 +314,51 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - susijęs iš [[objektai/autoriai/Rimberto, Rimbertas.md#claim-t-30957|Rimberto, Rimbertas]]: Rimbertas pirmasis paminėjo kuršių (Cori) vardą ir rašė, kad jie anksčiau priklausę švedų valdžiai.
 - susijęs iš [[objektai/autoriai/Saxo Grammaticus.md#claim-t-30977|Saxo Grammaticus]]: XI-XII a. danų šaltiniai, tarp jų Saxo Grammaticus, rodo, kad kuršiai ir sembai protarpiais mokėjo duoklę danams.
 - susijęs iš [[objektai/autoriai/V. Mažiulis.md#claim-t-64861|V. Mažiulis]]: V. Mažiulio darbe „Dėl Neringos“ remiamasi aiškinant Kuršių nerijos pavadinimus.
-- susijęs iš [[objektai/daiktai/Šventojo kryžiaus ženklas.md#claim-t-59715|Šventojo kryžiaus ženklas]]: Broliai paženklino save šventojo kryžiaus ženklu ir prasiveržė pro didelę lietuvių kariuomenę.
 - susijęs iš [[objektai/grupes/Estai.md#claim-t-65146|Estai]]: Broliams puolant lietuvius, estai kartu su kuršiais pasitraukė iš mūšio lauko.
-- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178770|Jotvingiai]]: 1282 m. lietuviai drauge su jotvingiais teriojo Liublino ir Sandomiero žemes.
-- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178781|Jotvingiai]]: 1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178788|Kryžiuočių ordinas]]: Sutikdami krikštytis, Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes Prūsijoje, Žiemgalius ir Kuršius.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179250|Lietuviai]]: Mūšyje lietuviai puolė iš priekio, o kuršiai iš užpakalio, todėl beveik visi Prūsijos ir Livonijos žmonės pasitraukė.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179301|Lietuviai]]: 1283 m. žiemą 800 raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
+- susijęs iš [[objektai/ivykiai/1283 m. žiemos lietuvių antpuolis Sembos žemėje.md#claim-t-62736|1283 m. žiemos lietuvių antpuolis Sembos žemėje]]: 1283 m. žiemą 800 lietuvių raitelių per Kuršių neriją įsiveržė į Sembą, nusiaubė Abendos ir Pabečių valsčius, nužudė 150 krikščionių ir grįžo be pasipriešinimo.
+- susijęs iš [[objektai/ivykiai/Apuolės apgula (853 m.).md#claim-t-31404|Apuolės apgula (853 m.)]]: Po aštuonių dienų Apuolės apgulos švedų karalius Olafas privertė kuršius grąžinti danų grobį, sudaryti taiką, mokėti duoklę ir duoti 30 įkaitų.
+- susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66528|Durbės mūšis (1260 m.)]]: Prieš Durbės mūšį kuršiai prašė, kad krikščionims laimėjus jiems būtų sugrąžintos moterys ir vaikai.
+- susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66530|Durbės mūšis (1260 m.)]]: Durbės mūšyje lietuviai puolė krikščionis iš priekio, o kuršiai juos užgriuvo iš užpakalio.
+- susijęs iš [[objektai/ivykiai/Noihauzo pilies pastatymas Kuršių nerijoje.md#claim-t-62415|Noihauzo pilies pastatymas Kuršių nerijoje (pilis)]]: Magistras Konradas Kuršių nerijoje, Sūriosios jūros pakrantėje, pastatydino Noihauzo pilį, kad lietuviai netikėtai nesiveržtų į Sembą.
+- susijęs iš [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.).md#claim-t-35874|Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]: 1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes iki Deimės ir Alės upių, Žiemgalius ir Kuršius.
+- susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-10289|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus.
+- susijęs iš Eiliuotoji Livonijos kronika: Eiliuotojoje Livonijos kronikoje rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius, o jų pavyzdžiu pasekė estai.
+- susijęs iš Genealogia regum Danorum: „Genealogia regum Danorum“ yra vienas iš XI-XII a. danų šaltinių, iš kurių matyti, kad kuršiai ir sembai protarpiais mokėjo duoklę danams.
+- susijęs iš Hervararsaga: Hervararsaga apie 675 m. teigė, kad Kuršą buvo užvaldęs švedų karalius Ivaras.
+- susijęs iš Apuolės pilis (pilis): Apuolės piliakalnio 3640 kv. m aikštėje negalėjo tilpti kronikose minėti 15 tūkst. kuršių kovotojų.
+- susijęs iš Dauguvos žiotys: 1202 m. Dauguvos žiotyse susikūrė Kalavijuočių ordinas, vėliau pradėjęs užkariauti lybius, latvius, estus ir kuršius.
+- susijęs iš Klaipėda: Klaipėdos apylinkėse prasidėjo kuršių gyvenama teritorija.
+- susijęs iš Kuršas: Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedams.
+- susijęs iš Kuršas: Rimbertas pirmasis paminėjo kuršių vardą, o Hervararsaga Kuršo užvaldymą siejo su švedų karaliumi Ivaru.
+- susijęs iš Kuršas: Istorinių laikų angoje kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir Klaipėdos apylinkę.
+- susijęs iš Kuršas: Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedų naudai.
+- susijęs iš Kuršių Neringa: Kuršių Neringa buvo patogaus kelio tarp Prūsijos ir Livonijos dalis, kurį turėjo ginti Klaipėdos pilis.
+- susijęs iš Kuršių marios: Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo.
+- susijęs iš Kuršių marios: Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos.
+- susijęs iš Kuršių marios: Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo.
+- susijęs iš Kuršių marios: Kronikoje pasakojama, kad broliai, traukdami per ploną Kuršių marių ledą, buvo Dievo globojami.
+- susijęs iš Kuršių marios: Kuršių marios iki Klaipėdos ilgą laiką laikytos Nemuno tąsa.
+- susijęs iš Kuršių nerija: 1283 m. žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė du valsčius.
+- susijęs iš Nemunas: Į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai ir lamatiečiai, o toliau į šiaurę, Klaipėdos apylinkėse, prasidėjo kuršių teritorija.
+- susijęs iš Noihauzas: Konradas pastatydino Noihauzą Kuršių nerijoje prie Sūriosios jūros, kad lietuviai netikėtai nesiveržtų į Sembą.
+- susijęs iš Pabečiai: Pabečiai buvo gyvenvietė šiaurės Semboje, į pietryčius nuo buvusių Naujųjų Kuršių.
+- susijęs iš [[objektai/asmenys/Engelbertas.md#claim-t-80713|Engelbertas]]: Kuršo vyskupas Engelbertas buvo išnaikintas kartu su tos bažnyčios dvasininkais ir tikinčiųjų tauta.
+- susijęs iš [[objektai/asmenys/Fridrichas, vadinamas Hole.md#claim-t-60280|Fridrichas, vadinamas Hole]]: Fridrichas, vadinamas Hole, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą, o grįždamas iš Kirsnavos valsčiaus buvo nukautas su 30 vyrų.
+- susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-184105|Konradas Žakas]]: Konradas Žakas 1303 m. žiemą su didžiule kariuomene įsiveržė į Karšuvos žemę.
+- susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-60043|Konradas Žakas]]: Konradas Žakas 1303 m. žiemą su didžiule kariuomene įsiveržė į Karšuvos žemę.
+- susijęs iš [[objektai/asmenys/Sklodas iš Kvedenavos.md#claim-t-60205|Sklodas iš Kvedenavos]]: Sembas Sklodas iš Kvedenavos sušaukė giminaičius ir bičiulius, ragindamas juos kovoti už tikėjimą ir brolius.
+- susijęs iš [[objektai/asmenys/Volkvinas.md#claim-t-39676|Volkvinas]]: Magistras Volkvinas su kariuomene žygiavo į lietuvių kraštą ir Saulės žemėje buvo lietuvių užmuštas.
+- susijęs iš [[objektai/daiktai/Šventojo kryžiaus ženklas.md#claim-t-59715|Šventojo kryžiaus ženklas]]: Broliai paženklino save šventojo kryžiaus ženklu ir prasiveržė pro didelę lietuvių kariuomenę.
+- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178770|Jotvingiai]]: 1282 m. lietuviai drauge su jotvingiais teriojo Liublino ir Sandomiero žemes.
+- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178781|Jotvingiai]]: 1282 metais lietuviai drauge su jotvingiais teriojo Liublino ir Sandomieriaus žemes.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178839|Kryžiuočių ordinas]]: Klaipėdos pilis beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.
 - susijęs iš [[objektai/grupes/Lamatiečiai.md#claim-t-59036|Lamatiečiai]]: Lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje, kartu su skalviais.
 - susijęs iš [[objektai/grupes/Lietgaliai.md#claim-t-184331|Lietgaliai]]: Net tarp vienkiemius mėgusių lietgalių rasta kuopinių kaimų.
 - susijęs iš [[objektai/grupes/Lietgaliai.md#claim-t-31268|Lietgaliai]]: Net tarp vienkiemius mėgusių lietgalių rasta kuopinių kaimų.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179250|Lietuviai]]: Mūšyje lietuviai puolė iš priekio, o kuršiai iš užpakalio, todėl beveik visi Prūsijos ir Livonijos žmonės pasitraukė.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179301|Lietuviai]]: 1283 m. žiemą 800 raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179327|Lietuviai]]: Konradas Kuršių nerijoje pastatydino Noihauzo pilį, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96813|Lybiai]]: Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175089|Sembai]]: XI-XII a. danų šaltiniai rodo, kad kuršiai ir sembai protarpiais mokėjo duoklę danams.
@@ -215,29 +372,19 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89351|Žiemgaliai]]: 1263-1270 m. Livonijoje prieš kryžiuočius buvo sukilę estai, kuršiai ir žiemgaliai.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89354|Žiemgaliai]]: 1263-1270 m. Livonijoje prieš kryžiuočius buvo sukilę estai, kuršiai ir žiemgaliai.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89356|Žiemgaliai]]: Kronikininkai mini, kad kuršiai ir žiemgaliai turėjo spindinčių metalo ginklų.
-- susijęs iš [[objektai/ivykiai/1283 m. žiemos lietuvių antpuolis Sembos žemėje.md#claim-t-62736|1283 m. žiemos lietuvių antpuolis Sembos žemėje]]: 1283 m. žiemą 800 lietuvių raitelių per Kuršių neriją įsiveržė į Sembą, nusiaubė Abendos ir Pabečių valsčius, nužudė 150 krikščionių ir grįžo be pasipriešinimo.
-- susijęs iš [[objektai/ivykiai/Apuolės apgula (853 m.).md#claim-t-31404|Apuolės apgula (853 m.)]]: Po aštuonių dienų Apuolės apgulos švedų karalius Olafas privertė kuršius grąžinti danų grobį, sudaryti taiką, mokėti duoklę ir duoti 30 įkaitų.
 - susijęs iš [[objektai/ivykiai/Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje.md#claim-t-91910|Brolio Fridricho Holės ir 30 vyrų žūtis Kirsnavos žygyje]]: Brolis Fridrichas Holė su 100 raitelių žygiavo į Sūduvą, o grįžtant iš Kirsnavos valsčiaus priešai nukovė jį ir 30 vyrų.
 - susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66527|Durbės mūšis (1260 m.)]]: Durbės mūšyje 1260 m. liepos 13 d. žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 brolių.
-- susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66528|Durbės mūšis (1260 m.)]]: Prieš Durbės mūšį kuršiai prašė, kad krikščionims laimėjus jiems būtų sugrąžintos moterys ir vaikai.
-- susijęs iš [[objektai/ivykiai/Durbės mūšis (1260 m.).md#claim-t-66530|Durbės mūšis (1260 m.)]]: Durbės mūšyje lietuviai puolė krikščionis iš priekio, o kuršiai juos užgriuvo iš užpakalio.
 - susijęs iš [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis.md#claim-t-183918|Dviejų pilių sugriovimas ir Pipino žūtis]]: Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.
 - susijęs iš [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis.md#claim-t-66534|Dviejų pilių sugriovimas ir Pipino žūtis]]: Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.
 - susijęs iš [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema).md#claim-t-183929|Karšuvos žemės nusiaubimas (1303 m. žiema)]]: 1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.
 - susijęs iš [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema).md#claim-t-62821|Karšuvos žemės nusiaubimas (1303 m. žiema)]]: 1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.
 - susijęs iš [[objektai/ivykiai/Kuršių sukilimas prieš danus (853 m.).md#claim-t-28832|Kuršių sukilimas prieš danus (853 m.)]]: 853 m. kuršiai susivieniję sumušė juos vėl pavergti ir apiplėšti atvykusius danus, užgrobė dalį laivų ir daug turto.
-- susijęs iš [[objektai/ivykiai/Noihauzo pilies pastatymas Kuršių nerijoje.md#claim-t-62415|Noihauzo pilies pastatymas Kuršių nerijoje (pilis)]]: Magistras Konradas Kuršių nerijoje, Sūriosios jūros pakrantėje, pastatydino Noihauzo pilį, kad lietuviai netikėtai nesiveržtų į Sembą.
 - susijęs iš [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.).md#claim-t-66816|Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]: 1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Ordinas grąžintų žemes iki Deimės ir Alės upių ir keltųsi kovoti su totoriais.
-- susijęs iš [[objektai/ivykiai/Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.).md#claim-t-35874|Pasiuntinybė į Nürnbergą dėl krikšto (1358 m.)]]: 1358 m. pasiuntinybėje dėl krikšto Lietuvos valdovai reikalavo, kad Vokiečių ordinas grąžintų žemes iki Deimės ir Alės upių, Žiemgalius ir Kuršius.
-- susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-10289|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus.
 - susijęs iš [[objektai/paprociai/Belaisvių likimo sprendimas pagal visiems žinomus karo papročius.md#claim-t-62671|Belaisvių likimo sprendimas pagal visiems žinomus karo papročius]]: Prūsijos ir Livonijos žmonės priešinosi kuršių belaisvių grąžinimui, remdamiesi visiems žinomais karo papročiais.
 - susijęs iš [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes.md#claim-t-78705|Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]: Kuršiai XI a. rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
 - susijęs iš [[objektai/paprociai/Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes.md#claim-t-78706|Kuršių plėšiamieji žygiai į Danijos ir Švedijos pakrantes]]: XI a. kuršiai patys rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
 - susijęs iš [[objektai/posakiai/Šiandien prisiminkite puikius drabužius.md#claim-t-59172|Šiandien prisiminkite puikius drabužius]]: Sembas Sklodas iš Kvedenavos ragino giminaičius prisiminti puikius drabužius, kurių jie dažnai gaudavo iš Ordino brolių.
 - susijęs iš Badania archeologiczne na Litwie w latach 1955-1961: P. Kulikausko „Badania archeologiczne na Litwie w latach 1955-1961“ buvo paskelbta ABaSl II tome 1965 m., p. 203-259.
-- susijęs iš Eiliuotoji Livonijos kronika: Eiliuotojoje Livonijos kronikoje rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius, o jų pavyzdžiu pasekė estai.
-- susijęs iš Genealogia regum Danorum: „Genealogia regum Danorum“ yra vienas iš XI-XII a. danų šaltinių, iš kurių matyti, kad kuršiai ir sembai protarpiais mokėjo duoklę danams.
-- susijęs iš Hervararsaga: Hervararsaga apie 675 m. teigė, kad Kuršą buvo užvaldęs švedų karalius Ivaras.
 - susijęs iš Issledovanie archeologičeskich pamiatnikov Litvy: P. Kulikausko „Issledovanie archeologičeskich pamiatnikov Litvy“ paskelbta 1952 m. leidinio „Kratkie soobščenija“ 42 tome.
 - susijęs iš Lietuvos TSR archeologijos atlasas Akmens ir žalvario amžiaus paminklai: Lietuvos TSR archeologijos atlaso pirmasis tomas „Akmens ir žalvario amžiaus paminklai“ išleistas Vilniuje 1974 m.
 - susijęs iš Lietuvos proistorė: Marijos Gimbutienės „Lietuvos proistorė“ paskelbta „Lietuvių enciklopedijos“ 15 tome, 269-291 puslapiuose.
@@ -246,33 +393,16 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - susijęs iš O drevuejšich kul’turnych oblastjach na territorii Litvy: R. Jablonskytė-Rimantienė straipsnį „O drevuejšich kul’turnych oblastjach na territorii Litvy“ paskelbė 1955 m. žurnalo „Sovetskaja Etnografija“ 3 tome.
 - susijęs iš Abenda: 1283 m. žiemą Lietuvos raiteliai įsiveržė į Sembą ir nusiaubė Abendos bei Pabečių valsčius.
 - susijęs iš Apuolės pilis (pilis): Apuolės piliakalnio 3640 m² aikštėje negalėjo tilpti kronikų minimi 15 000 kovotojų.
-- susijęs iš Apuolės pilis (pilis): Apuolės piliakalnio 3640 kv. m aikštėje negalėjo tilpti kronikose minėti 15 tūkst. kuršių kovotojų.
 - susijęs iš Ceklio sritis: Kuršiams priskiriama Ceklio sritis istorinių laikų pradžioje siekė dešinįjį Ventos krantą.
-- susijęs iš Dauguvos žiotys: 1202 m. Dauguvos žiotyse susikūrė Kalavijuočių ordinas, vėliau pradėjęs užkariauti lybius, latvius, estus ir kuršius.
 - susijęs iš Dubysa: Prie Dubysos žiočių atvykėliai padėjo naujos sodybos, vėliau vadintos Romanova, pamatus.
-- susijęs iš Klaipėda: Klaipėdos apylinkėse prasidėjo kuršių gyvenama teritorija.
 - susijęs iš Klaipėda: Klaipėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.
-- susijęs iš Kuršas: Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedams.
-- susijęs iš Kuršas: Rimbertas pirmasis paminėjo kuršių vardą, o Hervararsaga Kuršo užvaldymą siejo su švedų karaliumi Ivaru.
-- susijęs iš Kuršas: Istorinių laikų angoje kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir Klaipėdos apylinkę.
-- susijęs iš Kuršas: Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedų naudai.
-- susijęs iš Kuršių Neringa: Kuršių Neringa buvo patogaus kelio tarp Prūsijos ir Livonijos dalis, kurį turėjo ginti Klaipėdos pilis.
-- susijęs iš Kuršių marios: Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo.
-- susijęs iš Kuršių marios: Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos.
-- susijęs iš Kuršių marios: Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo.
-- susijęs iš Kuršių marios: Kronikoje pasakojama, kad broliai, traukdami per ploną Kuršių marių ledą, buvo Dievo globojami.
-- susijęs iš Kuršių marios: Kuršių marios iki Klaipėdos ilgą laiką laikytos Nemuno tąsa.
-- susijęs iš Kuršių nerija: 1283 m. žiemą aštuoni šimtai raitelių iš Lietuvos per Kuršių neriją įsibrovė į Sembą ir nusiaubė du valsčius.
 - susijęs iš Lenkija: Po 1183 m. lietuvių žygiai padažnėjo ir kasmet vyko ne tik į Rusios žemes, bet ir į Lenkiją bei Livoniją.
 - susijęs iš Livonija: Po 1183 m. žygio į Rusios žemes lietuviai kasmet rengė po vieną ar du žygius ne tik į Rusią, bet ir į Lenkiją bei Livoniją.
 - susijęs iš Livonija: Utenis perkėlė karą iš Kuršo į Livoniją, kur kuršių ir žemaičių kariuomenė nusiaubė didelius plotus.
-- susijęs iš Nemunas: Į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai ir lamatiečiai, o toliau į šiaurę, Klaipėdos apylinkėse, prasidėjo kuršių teritorija.
 - susijęs iš Nemunas: Dusburgiečio pasakojime iš Lietuvos traukianti brolių kariuomenė vidurnaktį sėkmingai perėjo per skylantį Nemuno ledą.
 - susijęs iš Nemunas: Susitikimas vyko Salyne, Nemuno saloje prie dabartinės Kulautuvos.
 - susijęs iš Nemunas: Vytauto ir magistro susitikimas įvyko Salyne, Nemuno saloje netoli dabartinės Kulautuvos.
 - susijęs iš Nemunas: Barkus Jūros žiotyse, kur ji įteka į Nemuną, pasistatė Jurbarko pilį ir gavo valdyti dalį Žemaitijos.
-- susijęs iš Noihauzas: Konradas pastatydino Noihauzą Kuršių nerijoje prie Sūriosios jūros, kad lietuviai netikėtai nesiveržtų į Sembą.
-- susijęs iš Pabečiai: Pabečiai buvo gyvenvietė šiaurės Semboje, į pietryčius nuo buvusių Naujųjų Kuršių.
 - susijęs iš Prūsija: Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo grąžinti Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.
 - susijęs iš Prūsija: Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo, kad Vokiečių Ordinas grąžintų Lietuvai žemes iki Deimės ir Alės upių Prūsijoje.
 - susijęs iš Ragainė: Dusburgiečio kronikoje pasakojama, kad nuo kariuomenės Žemaitijoje atsilikęs kryžiuočių karys pėsčiomis grįžo į Ragainę.
@@ -299,6 +429,16 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   statusas: verified
   pagrindžia:
     - t-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a1ac941cc332915e82ed0a0cbac0d30149b3d3782d062e2565ffa1e36ae3090b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-002
@@ -313,7 +453,27 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b0292cd77dfdbe2862fe269a956fdb298d3dcf4f819622e38354f8c77063820c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuršas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=643d741aea60b51176ed4d72c6004d7969a4d232b5ec1917bd3113372bd480a5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skandinavai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Skandinavai: mention_match, group, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Skandinavai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -328,6 +488,16 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 377012-377282; hash=7fc944edebe160ef078eb51340ca5987d20b7506537c6965fa6ef0a78e3c823f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žiemgaliai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Žiemgaliai: mention_match, group, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Žiemgaliai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
 
 - c-004
@@ -347,7 +517,27 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b0292cd77dfdbe2862fe269a956fdb298d3dcf4f819622e38354f8c77063820c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dauguva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Dauguva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8218502b530b7264b92d955feb2676ad433257ed3caa724374b2ce66dd6e119a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žiemgaliai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Žiemgaliai: mention_match, group, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Žiemgaliai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-012
 
 - c-005
@@ -367,6 +557,16 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   statusas: verified
   pagrindžia:
     - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=643d741aea60b51176ed4d72c6004d7969a4d232b5ec1917bd3113372bd480a5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Švedija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Švedija: mention_match, place, gap=61
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Švedija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-006
@@ -383,6 +583,16 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a1ac941cc332915e82ed0a0cbac0d30149b3d3782d062e2565ffa1e36ae3090b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietgaliai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietgaliai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Lietgaliai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
 
 - c-007
@@ -402,6 +612,16 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ceb79aff4247ac60b5aab12a47eecd185410e3477650d9845600b468a35cefa; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuršas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-013
 
 - c-008
@@ -416,6 +636,16 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a9ea29301fb0173409268b9364825afb6d1ffffef51f5c6e0b843e9e753c6913; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Latviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Latviai: mention_match, group, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-009
@@ -445,6 +675,16 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ceb79aff4247ac60b5aab12a47eecd185410e3477650d9845600b468a35cefa; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuršas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kuršas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Kuršas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-014
 
 - c-011
@@ -467,6 +707,16 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 171114-171489; hash=3a4add714437a096e446287d96170ab5bec6c7f0720abd6552851a59db65815e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuršių marios: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kuršių marios: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Kuršių marios" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-015
 
 - c-012
@@ -491,7 +741,27 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 366457-367134; hash=f59007dbab603dd6bbde562a3deadeab11908a70e61760deb5168aedd21d626d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-016
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 376871-377135; hash=3078711bbaa0df3fe5a0bc3614d511633e65d872b8cbf7ba9142a7c952931730; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žiemgaliai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kuršiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Žiemgaliai: mention_match, group, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kuršiai" parinktas kaip owner_note_path. Targetas "Žiemgaliai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Kuršiai dalyvavo_musyje [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]

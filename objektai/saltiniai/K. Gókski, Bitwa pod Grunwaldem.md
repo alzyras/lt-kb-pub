@@ -37,6 +37,9 @@ amziai:
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f33a861994356f94c6e26bd0de75ae73fba9cefa59b34587a4e7500ae66d9d78; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -53,3 +56,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f33a861994356f94c6e26bd0de75ae73fba9cefa59b34587a4e7500ae66d9d78; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

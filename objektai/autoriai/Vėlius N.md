@@ -34,15 +34,35 @@ Dusburgietis teigia, kad 1-oje pusėje Įsrutiės ir kitose lietuviškose Rytpr�
   susije_objektai: 'mentioned_place: Rytprūsiai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 207514-207927; hash=80884e2058eed96a546049d8d023bc512ea4b19873464c6873bc1b35155d5072; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rytprūsiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vėlius N: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Rytprūsiai: mention_match, place, gap=61
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėlius N" parinktas kaip owner_note_path. Targetas "Rytprūsiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60564"></a>
 - t-002
   global_id: t-60564
   teiginys: 'N. Vėliaus darbas nurodytas tarp literatūros apie Romovę arba Romuvą.'
   sudarymo_pagrindimas: 'Citata pagrindžia tik Vėliaus darbo įtraukimą į literatūrą apie Romovę.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Romuva'
+  susije_objektai: 'mentioned_place: Romuva; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 218342-218802; hash=e0ef744f1c54e006bdd6c68cf32a7e399ad6288a7cd32a95bda36d9492612764; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Romuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vėlius N: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Romuva: mention_match, place, gap=62
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėlius N" parinktas kaip owner_note_path. Targetas "Romuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60565"></a>
 - t-003
@@ -52,6 +72,16 @@ Dusburgietis teigia, kad 1-oje pusėje Įsrutiės ir kitose lietuviškose Rytpr�
   susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 222597-222821; hash=c832506b0be91929dd331ccaadfdbf87d3080dfc74ec14a41fdd2b9aba1f99c1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> kunigaikščiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vėlius N: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: kunigaikščiai: mention_match, thing, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėlius N" parinktas kaip owner_note_path. Targetas "kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -81,6 +111,16 @@ Dusburgietis teigia, kad 1-oje pusėje Įsrutiės ir kitose lietuviškose Rytpr�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 207514-207927; hash=80884e2058eed96a546049d8d023bc512ea4b19873464c6873bc1b35155d5072; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rytprūsiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vėlius N: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Rytprūsiai: mention_match, place, gap=61
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėlius N" parinktas kaip owner_note_path. Targetas "Rytprūsiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -97,4 +137,24 @@ Dusburgietis teigia, kad 1-oje pusėje Įsrutiės ir kitose lietuviškose Rytpr�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 222597-222821; hash=c832506b0be91929dd331ccaadfdbf87d3080dfc74ec14a41fdd2b9aba1f99c1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> kunigaikščiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vėlius N: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: kunigaikščiai: mention_match, thing, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėlius N" parinktas kaip owner_note_path. Targetas "kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 218342-218802; hash=e0ef744f1c54e006bdd6c68cf32a7e399ad6288a7cd32a95bda36d9492612764; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Romuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vėlius N: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Romuva: mention_match, place, gap=62
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vėlius N" parinktas kaip owner_note_path. Targetas "Romuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

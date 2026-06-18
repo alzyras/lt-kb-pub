@@ -24,9 +24,19 @@ tags:
   global_id: t-87734
   teiginys: 'Jonas Švitrigaila buvo Trakų kaštelionas, priskirtas Lietuvos didikams.'
   sudarymo_pagrindimas: 'Citata aiškiai nurodo Jono Švitrigailos pareigybę ir socialinę grupę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Mykolas Skirgaila|Mykolas Skirgaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Černigovas; mentioned_place: Šalčininkai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Mykolas Skirgaila|Mykolas Skirgaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Medininkai; mentioned_place: Vilnius; mentioned_place: Černigovas; mentioned_place: Šalčininkai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 339463-340001; hash=a7bad0926b66d615ec68522f89672664e2885757eddb5edb83ad5a9169edc7d3; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonas Švitrigaila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Švitrigaila" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -54,3 +64,13 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 339463-340001; hash=a7bad0926b66d615ec68522f89672664e2885757eddb5edb83ad5a9169edc7d3; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonas Švitrigaila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Švitrigaila" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

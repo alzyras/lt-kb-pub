@@ -23,9 +23,19 @@ Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos (asociacijos) suta
   global_id: t-21039
   teiginys: 'Lietuva, Latvija ir Estija pasirašė Europos asociacijos sutartis su ES, kuriose ES pripažino Baltijos valstybių tikslą tapti narėmis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Europa; mentioned_place: Latvija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5516171f5e372e1b8fd7395c8079a893619f12167663616a588f3f69cf649727; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Europos (asociacijos) sutartys su ES: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Europos (asociacijos) sutartys su ES" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -45,3 +55,13 @@ Po trejų metų Lietuva, Latvija ir Estija pasirašė Europos (asociacijos) suta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5516171f5e372e1b8fd7395c8079a893619f12167663616a588f3f69cf649727; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Europos (asociacijos) sutartys su ES: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Europos (asociacijos) sutartys su ES" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

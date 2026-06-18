@@ -23,6 +23,9 @@ Dusburgietis teigia, kad otrembskis etnonimą prūsas siejo su sanskrito púrusa
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko aiškų faktą apie autoriaus teiginį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 174695-174813; hash=76b8296420e538ded6eb657aeb0e19e2805e67c70f7dd757af4477cc363c29ce; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -37,3 +40,6 @@ Dusburgietis teigia, kad otrembskis etnonimą prūsas siejo su sanskrito púrusa
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 174695-174813; hash=76b8296420e538ded6eb657aeb0e19e2805e67c70f7dd757af4477cc363c29ce; match=exact
+  sprendimo_priezastis: auto

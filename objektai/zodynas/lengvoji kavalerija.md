@@ -23,6 +23,18 @@ Taktinį pranašumą sąlygojo jų lengvoji kavalerija.
   susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Krymas; mentioned_place: Perekopas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=511b995d50bbda86156167e8760dd03be997673bae640299ab3a2f13a66e92a5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: lengvoji kavalerija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "lengvoji kavalerija" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70311|rotmistras]]: Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.
+- susijęs iš [[objektai/zodynas/sunkioji kavalerija.md#claim-t-42513|sunkioji kavalerija]]: Tautinio autoramento pagrindu formuota sunkioji kavalerija buvo husarai.
 - susijęs iš [[objektai/asmenys/Antoine Gramont.md#claim-t-40035|Antoine Gramont]]: Prancūzijos grafas Antoine Gramont 1663-1664 m. pasakojo apie kazokus, tarnavusius Lenkijos-Lietuvos kariuomenėse.
 - susijęs iš [[objektai/daiktai/Šarvai.md#claim-t-176222|Šarvai]]: Lengvosios kavalerijos šarvai buvo lengvesni, dengė pečius ir krūtinę, o galvas saugojo šalmai.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171420|Totoriai]]: Totoriams strateginį privalumą teikė jų pagrindinės buveinės Krymo pusiasalyje nuošalumas nuo stiprių galios centrų.
@@ -31,8 +43,6 @@ Taktinį pranašumą sąlygojo jų lengvoji kavalerija.
 - susijęs iš Krymo pusiasalis: Krymo pusiasalio nuošalumas nuo Lenkijos, Lietuvos ir Maskvos valstybės totoriams teikė strateginį pranašumą.
 - susijęs iš Perekopo sąsmauka: Įtvirtinta Perekopo sąsmauka saugojo Krymą ir didino totorių pagrindinės buveinės strateginį pranašumą.
 - susijęs iš Perekopo sąsmauka: Įtvirtinta Perekopo sąsmauka saugojo sunkiai pasiekiamą totorių bazę, iš kurios jie galėjo leistis į tolimus žygius.
-- susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70311|rotmistras]]: Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.
-- susijęs iš [[objektai/zodynas/sunkioji kavalerija.md#claim-t-42513|sunkioji kavalerija]]: Tautinio autoramento pagrindu formuota sunkioji kavalerija buvo husarai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,3 +65,13 @@ Taktinį pranašumą sąlygojo jų lengvoji kavalerija.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=511b995d50bbda86156167e8760dd03be997673bae640299ab3a2f13a66e92a5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: lengvoji kavalerija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "lengvoji kavalerija" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

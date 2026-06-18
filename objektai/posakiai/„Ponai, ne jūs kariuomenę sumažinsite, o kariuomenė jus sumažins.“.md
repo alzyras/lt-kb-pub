@@ -35,6 +35,9 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti patį posakį ir pašalinti perteklinį kontekstą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 312486-312941; hash=85308914ee0df38ccd9371aefc4e61ddd3f0408bbcd5380a18f529ce65ba6d65; match=whitespace_regex
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/daiktai/Raudonos vėliavos.md#claim-t-19584|Raudonos vėliavos]]: 1926 m. rudenį po komunistų mitingų chuliganai su raudonomis vėliavomis gatvėse užkabinėjo uniformuotus kariškius.
 ## Reikšmingi paminėjimai
 
@@ -54,3 +57,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 312486-312941; hash=85308914ee0df38ccd9371aefc4e61ddd3f0408bbcd5380a18f529ce65ba6d65; match=whitespace_regex
+  sprendimo_priezastis: auto

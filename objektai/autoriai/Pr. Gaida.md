@@ -23,6 +23,9 @@ Gaida, Arkiv.
   sudarymo_pagrindimas: 'Citata leidžia teigti, kad šis darbas buvo rengiamas spaudai.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1111081-1111148; hash=50c44c4e8d3000966bc50c9fc5b316b76026144d866983177aa3bd765e17d599; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -36,3 +39,6 @@ Gaida, Arkiv.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1111081-1111148; hash=50c44c4e8d3000966bc50c9fc5b316b76026144d866983177aa3bd765e17d599; match=exact
+  sprendimo_priezastis: auto

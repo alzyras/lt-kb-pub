@@ -47,7 +47,7 @@ amziai:
   teiginys: 'Kojelavičiaus „Lietuvos istorijos“ pirmasis tomas išėjo 1650 m. Gdanske, o antrasis - 1669 m. Antverpene.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata palaiko leidybos faktą; reikia pašalinti klaidingą „Kojelavičius teigia“ pradžią.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Antverpenas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Antverpenas; mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]'
   temporaliniai_duomenys: 'įvykio data: 1650 m.; įvykio data: 1669 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko leidybos faktą; reikia pašalinti klaidingą „Kojelavičius teigia“ pradžią.'
@@ -66,6 +66,16 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Reikia išplėsti autoriaus vardą ir patikslinti faktą pagal citatos kontekstą.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1087-1497; hash=c87b2019d5994d06fca02702a0a4259978f54ae8ab9c6140015c8893e9a136ce; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
+  ryšio_patikimumas: susije_su -> Juozas Jurginis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Juozas Jurginis: mention_match, author, gap=103
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)" parinktas kaip owner_note_path. Targetas "Juozas Jurginis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184454"></a>
 - t-003
@@ -73,9 +83,19 @@ amziai:
   teiginys: 'Juozas Jurginis įvade rašė, kad Kojelavičiaus „Lietuvos istorija“ nėra originalus veikalas ir remiasi M. Strijkovskio kronika.'
   teiginio_tipas: 'interpretacija'
   sudarymo_pagrindimas: 'Teiginys yra apie įvado autoriaus interpretaciją, todėl reikalinga tiksli atribucija ir trumpesnė forma.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_author: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_author: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 4583-5019; hash=6c85db2726d880132cc11c836c1e6291b6d849c98cf0241eed80a91fb9b538f1; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
+  ryšio_patikimumas: susije_su -> Motiejus Strijkovskis (kronikininkas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Motiejus Strijkovskis (kronikininkas): mention_match, author, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)" parinktas kaip owner_note_path. Targetas "Motiejus Strijkovskis (kronikininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184455"></a>
 - t-004
@@ -83,12 +103,22 @@ amziai:
   teiginys: '1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata yra leidybiniai duomenys, ne Kojelavičiaus teiginys; sakinį reikia pataisyti.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_author: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_author: [[objektai/autoriai/Leonas Valkūnas|Leonas Valkūnas]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_author: [[objektai/autoriai/Leonas Valkūnas|Leonas Valkūnas]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]'
   temporaliniai_duomenys: 'įvykio data: 1988 m.; įvykio data: 1989 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata yra leidybiniai duomenys, ne Kojelavičiaus teiginys; sakinį reikia pataisyti.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 5428-5645; hash=618ce3c46bc1738fad55a3de99f1e312d4f98fdab80a557c2ea419fb0805be58; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
+  ryšio_patikimumas: susije_su -> Antverpenas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Antverpenas: mention_match, place, gap=79
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)" parinktas kaip owner_note_path. Targetas "Antverpenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -122,6 +152,16 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 4583-5019; hash=6c85db2726d880132cc11c836c1e6291b6d849c98cf0241eed80a91fb9b538f1; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
+  ryšio_patikimumas: susije_su -> Motiejus Strijkovskis (kronikininkas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Motiejus Strijkovskis (kronikininkas): mention_match, author, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)" parinktas kaip owner_note_path. Targetas "Motiejus Strijkovskis (kronikininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -167,4 +207,24 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 5428-5645; hash=618ce3c46bc1738fad55a3de99f1e312d4f98fdab80a557c2ea419fb0805be58; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
+  ryšio_patikimumas: susije_su -> Antverpenas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Antverpenas: mention_match, place, gap=79
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)" parinktas kaip owner_note_path. Targetas "Antverpenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1087-1497; hash=c87b2019d5994d06fca02702a0a4259978f54ae8ab9c6140015c8893e9a136ce; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
+  ryšio_patikimumas: susije_su -> Juozas Jurginis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Juozas Jurginis: mention_match, author, gap=103
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)" parinktas kaip owner_note_path. Targetas "Juozas Jurginis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

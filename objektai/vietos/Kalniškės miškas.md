@@ -37,6 +37,16 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   temporalinis_llm_pakomentavimas: 'Perrašyta su taisyklinga vietovardžio forma ir išlaikytais citatos faktais.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=342f7412a137aa2a067ef16820cb18971a9810040d4bbe37d7230a3d3972e1ba; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Parakas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalniškės miškas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Parakas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalniškės miškas" parinktas kaip owner_note_path. Targetas "Parakas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-171635"></a>
 - t-002
@@ -49,18 +59,38 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja Joną Neifaltą su Kalniškės mišku ir yra pagrįstas citata.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8311b1eb17b1ba8a14d9dafdb4e8211c928ff4f51823e2bafe405659da100592; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krosna: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalniškės miškas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krosna: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalniškės miškas" parinktas kaip owner_note_path. Targetas "Krosna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-171636"></a>
 - t-003
   global_id: t-171636
   teiginys: 'Kalniškės miškas tęsiasi apie kilometrą už Krosnos Lazdijų link ir yra 3–4 km pločio bei apie 8 km ilgio kalvotas mišrus miškas.'
   sudarymo_pagrindimas: 'Perrašyta į sklandesnį sakinį, išlaikant citatoje nurodytą vietą ir apibūdinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Krosna; mentioned_place: Lazdijai; mentioned_place: Simnas'
+  susije_objektai: 'mentioned_place: Krosna; mentioned_place: Lazdijai; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Simnas'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į sklandesnį sakinį, išlaikant citatoje nurodytą vietą ir apibūdinimą.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 916171-916490; hash=80b472b01811de4ae0c09c95a9fc6751681e990d8ce820b206e74686a3011a17; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalniškės mūšis (1945 m. gegužės 16-17 d.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalniškės miškas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kalniškės mūšis (1945 m. gegužės 16-17 d.): mention_match, event, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalniškės miškas" parinktas kaip owner_note_path. Targetas "Kalniškės mūšis (1945 m. gegužės 16-17 d.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-171638"></a>
 - t-004
@@ -73,6 +103,16 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir apima citatos pagrįstus duomenis apie mišką bei mūšį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=360bec83938613b76167c339fdb823be00b6644a739f624bb8a00ce815dd0819; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> NKVD: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalniškės miškas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: NKVD: mention_match, group, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalniškės miškas" parinktas kaip owner_note_path. Targetas "NKVD" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Krosna: Apie kilometrą už Krosnos Lazdijų link kairėje plento pusėje driekėsi kalvotas mišrus Kalniškės miškas.
 ## Reikšmingi paminėjimai
 
@@ -123,6 +163,16 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=360bec83938613b76167c339fdb823be00b6644a739f624bb8a00ce815dd0819; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> NKVD: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalniškės miškas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: NKVD: mention_match, group, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalniškės miškas" parinktas kaip owner_note_path. Targetas "NKVD" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -158,6 +208,16 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=342f7412a137aa2a067ef16820cb18971a9810040d4bbe37d7230a3d3972e1ba; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Parakas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalniškės miškas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Parakas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalniškės miškas" parinktas kaip owner_note_path. Targetas "Parakas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-004
@@ -185,4 +245,24 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8311b1eb17b1ba8a14d9dafdb4e8211c928ff4f51823e2bafe405659da100592; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krosna: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalniškės miškas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krosna: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalniškės miškas" parinktas kaip owner_note_path. Targetas "Krosna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 916171-916490; hash=80b472b01811de4ae0c09c95a9fc6751681e990d8ce820b206e74686a3011a17; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalniškės mūšis (1945 m. gegužės 16-17 d.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalniškės miškas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kalniškės mūšis (1945 m. gegužės 16-17 d.): mention_match, event, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalniškės miškas" parinktas kaip owner_note_path. Targetas "Kalniškės mūšis (1945 m. gegužės 16-17 d.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

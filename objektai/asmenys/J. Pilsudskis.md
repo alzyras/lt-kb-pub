@@ -33,7 +33,7 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   global_id: t-108750
   teiginys: 'Pilsudskis motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe.'
   sudarymo_pagrindimas: 'Sakinys aiškus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Viena; mentioned_place: Vilnija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena; mentioned_place: Vilnija'
   pagrindžia:
     - c-002
 
@@ -42,9 +42,19 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   global_id: t-108751
   teiginys: 'J. Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu.'
   sudarymo_pagrindimas: 'Sakinys pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gabrielis Narutovičius|Gabrielis Narutovičius]]; mentioned_person: [[objektai/asmenys/Stanislovas Narutavičius|Stanislovas Narutavičius]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vargiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gabrielis Narutovičius|Gabrielis Narutovičius]]; mentioned_person: [[objektai/asmenys/Stanislovas Narutavičius|Stanislovas Narutavičius]]; mentioned_place: Vargiai'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3b336e884f59e587dbddd48249f7d95c62227085709fae7137fdc9eb718380fe; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Pilsudskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Pilsudskis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-108753"></a>
 - t-003
@@ -57,6 +67,16 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys klaidingai rodė tiesioginį Pilsudskio veiksmą; citata palaiko platesnį poveikį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f08be723e9fa1d6f26404bffad3fa7ec628b5932757a9011714210912337896e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Pilsudskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Pilsudskis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-108754"></a>
 - t-004
@@ -75,7 +95,7 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   global_id: t-108755
   teiginys: 'J. Pilsudskis turėjo gausių lenkų šalininkų, kurie siekė išlaikyti Lietuvą Lenkijos sudėtyje.'
   sudarymo_pagrindimas: 'Pradinė formuluotė nepakankamai aiškiai sieja faktą su J. Pilsudskiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Suvalkai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Suvalkai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė nepakankamai aiškiai sieja faktą su J. Pilsudskiu.'
@@ -90,22 +110,22 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia išplėsti inicialą ir aiškiau nurodyti veiksmą dėl Klaipėdos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/fait accompli|fait accompli]]; mentioned_person: [[objektai/asmenys/Ernestas Galvanauskas|Ernestas Galvanauskas]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Klaipėda; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fait accompli|fait accompli]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Klaipėda; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_person: [[objektai/asmenys/Ernestas Galvanauskas|Ernestas Galvanauskas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75772|Augustinas Voldemaras]]: 1927 m. gruodžio 10 d. Ženevoje Augustinas Voldemaras atsakė Juzefui Pilsudskiui, kad karo padėties tarp Lietuvos ir Lenkijos nėra.
-- susijęs iš [[objektai/asmenys/Dovas Zaunius.md#claim-t-26437|Dovas Zaunius]]: Dovas Zaunius 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje narys.
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101666|Juzefas Pilsudskis]]: Juzefas Pilsudskis rėmė buvusios dvilypės Lenkijos ir Lietuvos valstybės atkūrimą, įsivaizduodamas ją kaip federaciją.
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101667|Juzefas Pilsudskis]]: Juzefas Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kurią laikė „tėvynine“ šalimi.
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101669|Juzefas Pilsudskis]]: Juzefo Pilsudskio šalininkai rėmė ryžtingą kovą pirmiausia prieš Rusiją ir nevengė teroristinių veiksmų.
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101671|Juzefas Pilsudskis]]: Juzefas Pilsudskis Vilniaus užėmimą motyvavo vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe.
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101673|Juzefas Pilsudskis]]: 1927 m. gruodžio 10 d. Ženevoje Juzefas Pilsudskis Augustinui Voldemarui uždavė klausimą „Karas ar taika?“.
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101676|Juzefas Pilsudskis]]: 1927 m. gruodžio 10 d. Ženevoje Juzefas Pilsudskis Augustinui Voldemarui uždavė klausimą „Karas ar taika?“.
+- susijęs iš Ženeva: Ženevoje Tautų Sąjungos Taryboje Juzefas Pilsudskis paklausė Augustino Voldemaro: „Karas ar taika?“
+- susijęs iš [[objektai/asmenys/Dovas Zaunius.md#claim-t-26437|Dovas Zaunius]]: Dovas Zaunius 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje narys.
 - susijęs iš [[objektai/asmenys/Petras Klimas.md#claim-t-46283|Petras Klimas]]: Petras Klimas 1926 m. dalyvavo Lietuvos delegacijoje Tautų Sąjungoje Ženevoje kaip pasiuntinys.
 - susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78201|Lenkijos kariuomenė]]: Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio 18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes, laikydamasi Rusijos nedalomumo principo.
 - susijęs iš [[objektai/posakiai/„Karas ar taika “.md#claim-t-26348|„Karas ar taika “]]: Ženevoje J. Pilsudskis paklausė A. Voldemaro „Karas ar taika?“, o šis atsakė, kad karo padėties tarp Lietuvos ir Lenkijos nėra.
 - susijęs iš [[objektai/posakiai/„tėvyninė“ šalis.md#claim-t-20955|„tėvyninė“ šalis]]: Józefas Piłsudskis pareiškė, kad jo politika taiki ir kad jis nepuls Lietuvos, kurią vadino „tėvynine“ šalimi.
-- susijęs iš Ženeva: Ženevoje Tautų Sąjungos Taryboje Juzefas Pilsudskis paklausė Augustino Voldemaro: „Karas ar taika?“
 - susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108561|administracinė linija demarkacijos linija]]: 1919 m. birželio 18 d. „Maršalo Fošo“ demarkacijos liniją lenkai ignoravo, o Antantė vengė pripažinti naujas valstybes.
 - susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108566|administracinė linija demarkacijos linija]]: Tautų Sąjungos Taryba ribą tarp Lietuvos ir Lenkijos pavadino administracine linija, bet ne siena.
 ## Reikšmingi paminėjimai
@@ -143,6 +163,16 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f08be723e9fa1d6f26404bffad3fa7ec628b5932757a9011714210912337896e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Pilsudskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Pilsudskis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -183,6 +213,16 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3b336e884f59e587dbddd48249f7d95c62227085709fae7137fdc9eb718380fe; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Pilsudskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Pilsudskis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-005

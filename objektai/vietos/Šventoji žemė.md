@@ -34,6 +34,16 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d66b93419f6235e4e80c3cd17bd80207eb0d649ef314a041caa7323ae94609ad; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Heraklijus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šventoji žemė: owner_note_path, place
+  ryšio_targeto_parinkimas: Heraklijus: mention_match, person, gap=91
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventoji žemė" parinktas kaip owner_note_path. Targetas "Heraklijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58408"></a>
 - t-002
@@ -46,6 +56,16 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia glaustą faktą apie Šventosios žemės praradimą ir Akono sugriovimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=93380db0587da569b216e21b6b9b3589141378df4fed1b15984977675392eea7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> kunigaikščiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šventoji žemė: owner_note_path, place
+  ryšio_targeto_parinkimas: kunigaikščiai: mention_match, thing, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventoji žemė" parinktas kaip owner_note_path. Targetas "kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58409"></a>
 - t-003
@@ -54,15 +74,28 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   sudarymo_pagrindimas: 'Citata yra autoriaus retorinė interpretacija, todėl tinka atribučiuota formuluotė.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7753f0ba97885141e47d112f9c190287ac90e869b214046206c9b71443575574; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-58410"></a>
 - t-004
   global_id: t-58410
   teiginys: 'Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė po Heraklijaus pasitraukimo.'
   sudarymo_pagrindimas: 'Citata pagrindžia įvykį, bet pradinė formuluotė buvo fragmentiška ir su boilerplate.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_person: [[objektai/asmenys/Heraklijus|Heraklijus]]; mentioned_place: Jeruzalė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Heraklijus|Heraklijus]]; mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_place: Jeruzalė'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4768d51352adb8b1c3ed79ca69f6ac09037c96880e08ed70fa42a62ae6f492fd; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skydas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šventoji žemė: owner_note_path, place
+  ryšio_targeto_parinkimas: Skydas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventoji žemė" parinktas kaip owner_note_path. Targetas "Skydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -107,6 +140,16 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=93380db0587da569b216e21b6b9b3589141378df4fed1b15984977675392eea7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> kunigaikščiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šventoji žemė: owner_note_path, place
+  ryšio_targeto_parinkimas: kunigaikščiai: mention_match, thing, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventoji žemė" parinktas kaip owner_note_path. Targetas "kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -125,6 +168,16 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d66b93419f6235e4e80c3cd17bd80207eb0d649ef314a041caa7323ae94609ad; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Heraklijus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šventoji žemė: owner_note_path, place
+  ryšio_targeto_parinkimas: Heraklijus: mention_match, person, gap=91
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventoji žemė" parinktas kaip owner_note_path. Targetas "Heraklijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-004
@@ -144,4 +197,17 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4768d51352adb8b1c3ed79ca69f6ac09037c96880e08ed70fa42a62ae6f492fd; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skydas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šventoji žemė: owner_note_path, place
+  ryšio_targeto_parinkimas: Skydas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šventoji žemė" parinktas kaip owner_note_path. Targetas "Skydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7753f0ba97885141e47d112f9c190287ac90e869b214046206c9b71443575574; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

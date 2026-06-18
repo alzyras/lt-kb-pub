@@ -32,6 +32,16 @@ Dusburgietis teigia, kad odoj R.
   susije_objektai: 'mentioned_place: Mozūrija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 818729-818820; hash=d13a3860e562c523306560c751bf637a4b93b33e31569eb265c3d9448c433fcf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mozūrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Odoj R: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Mozūrija: mention_match, place, gap=66
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Odoj R" parinktas kaip owner_note_path. Targetas "Mozūrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +56,13 @@ Dusburgietis teigia, kad odoj R.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 818729-818820; hash=d13a3860e562c523306560c751bf637a4b93b33e31569eb265c3d9448c433fcf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mozūrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Odoj R: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Mozūrija: mention_match, place, gap=66
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Odoj R" parinktas kaip owner_note_path. Targetas "Mozūrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

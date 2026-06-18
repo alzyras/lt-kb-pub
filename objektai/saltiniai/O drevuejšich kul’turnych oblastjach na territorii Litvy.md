@@ -27,12 +27,22 @@ amziai:
   global_id: t-31866
   teiginys: 'R. Jablonskytė-Rimantienė straipsnį „O drevuejšich kul’turnych oblastjach na territorii Litvy“ paskelbė 1955 m. žurnalo „Sovetskaja Etnografija“ 3 tome.'
   sudarymo_pagrindimas: 'Reikia pataisyti leidinio apibūdinimą ir pašalinti OCR triukšmą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/R. Jablonskytė-Rimantienė|R. Jablonskytė-Rimantienė]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Maskva; mentioned_place: Milanas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_author: [[objektai/autoriai/R. Jablonskytė-Rimantienė|R. Jablonskytė-Rimantienė]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Maskva; mentioned_place: Milanas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1955 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pataisyti leidinio apibūdinimą ir pašalinti OCR triukšmą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=038d04b6d9e04005fe2bd187f9cb13dc1614664edf7dcb590f5073ce9608d371; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: O drevuejšich kul’turnych oblastjach na territorii Litvy: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=110
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "O drevuejšich kul’turnych oblastjach na territorii Litvy" parinktas kaip owner_note_path. Targetas "Tomas (Hertvigo iš Pokarvių sūnus)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -58,3 +68,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=038d04b6d9e04005fe2bd187f9cb13dc1614664edf7dcb590f5073ce9608d371; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Tomas (Hertvigo iš Pokarvių sūnus): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: O drevuejšich kul’turnych oblastjach na territorii Litvy: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): mention_match, person, gap=110
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "O drevuejšich kul’turnych oblastjach na territorii Litvy" parinktas kaip owner_note_path. Targetas "Tomas (Hertvigo iš Pokarvių sūnus)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

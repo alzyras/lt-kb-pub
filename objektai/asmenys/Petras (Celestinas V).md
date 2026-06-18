@@ -38,6 +38,16 @@ Dusburgietis teigia, kad apie švento Petro, kadaise Celestino V, popiežiaus, k
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatoje nurodytą kanonizavimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2230c045637f345d7c077e8e8eb89fbbc1d3c430ed6c5104d1606cbe023c679b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Klemensas V: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Petras (Celestinas V): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Klemensas V: mention_match, person, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras (Celestinas V)" parinktas kaip owner_note_path. Targetas "Klemensas V" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -55,3 +65,13 @@ Dusburgietis teigia, kad apie švento Petro, kadaise Celestino V, popiežiaus, k
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2230c045637f345d7c077e8e8eb89fbbc1d3c430ed6c5104d1606cbe023c679b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Klemensas V: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Petras (Celestinas V): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Klemensas V: mention_match, person, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras (Celestinas V)" parinktas kaip owner_note_path. Targetas "Klemensas V" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

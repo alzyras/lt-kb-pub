@@ -36,6 +36,16 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 249880-250442; hash=c57e871c4f0180c173929c4b1fccc248bfad8a99c4f12d399dd6a8b51c38a396; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mergelė Marija: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Marija: mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mergelė Marija" parinktas kaip owner_note_path. Targetas "Marija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59889"></a>
 - t-002
@@ -45,6 +55,16 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f49c4821f5a8eb0a795df07cc20128ec116224a355b0a4aa2395824c8bf66a98; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mergelė Marija: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mergelė Marija" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59890"></a>
 - t-003
@@ -54,6 +74,16 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Kaimas; mentioned_place: Livonija; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 362146-362858; hash=2fb6a1fefe62f1596750eb262fcfad7bfd21ce77039d74d36f77b4c02a82052c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mergelė Marija: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Marija: mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mergelė Marija" parinktas kaip owner_note_path. Targetas "Marija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59891"></a>
 - t-004
@@ -63,27 +93,57 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Kulmas; mentioned_place: Pilėnai; mentioned_place: Viena'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 369544-370039; hash=aec449af279fc7a111c477ea130341e0a11403dced4a2fe21a32dc8840aa7add; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mergelė Marija: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): mention_match, person, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mergelė Marija" parinktas kaip owner_note_path. Targetas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59892"></a>
 - t-005
   global_id: t-59892
   teiginys: 'Dusburgiečio pasakojime Mergelė Marija vienu rankos prisilietimu pagydė sužalotą brolį.'
   sudarymo_pagrindimas: 'Citata palaiko stebuklinio gydymo pasakojimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Nogatas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Nogatas'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 371805-372402; hash=ffedff0a16886ca98629289bb7965d0aa241e2c66178d2540bbd82b0e771fc99; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mergelė Marija: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mergelė Marija" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-59893"></a>
 - t-006
   global_id: t-59893
   teiginys: 'Dusburgiečio pasakojime Mergelė Marija ne kartą slaptai ir draugiškai kalbėjosi su broliu Hermanu.'
   sudarymo_pagrindimas: 'Citata patvirtina pasirodymus ir pokalbius su Hermanu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patvirtina pasirodymus ir pokalbius su Hermanu.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c230f9d67026da702eb71c128e8bb698fd578078381ca36941cad9d14115a382; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mergelė Marija: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Marija: mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mergelė Marija" parinktas kaip owner_note_path. Targetas "Marija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184113"></a>
 - t-007
@@ -96,18 +156,28 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 249654-250206; hash=c48272dfe38d58cec039b3473b54ca9020d3ac149ad073b4758d8838d5ff4baf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mergelė Marija: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Marija: mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mergelė Marija" parinktas kaip owner_note_path. Targetas "Marija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Hermanas Saracėnas.md#claim-t-59921|Hermanas Saracėnas]]: Hermanas Saracėnas iš Karaliaučiaus pilies rengėsi vykti į karą Kurše, kai, pasak pasakojimo, jam pasirodė Mergelė Marija.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176625|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas tikėjo, kad viename pralaimėtame mūšyje jį išgelbėjo Švč. Mergelė Marija.
+- susijęs iš [[objektai/posakiai/Hermanai, aš tave kviečiu į savo sūnaus puotą.md#claim-t-59096|Hermanai, aš tave kviečiu į savo sūnaus puotą]]: Broliui Hermanui, vadinamam Saracėnu, prieš žygį į Kuršą pasirodžiusi Mergelė Marija pakvietė jį į savo sūnaus puotą.
+- susijęs iš [[objektai/posakiai/Man liūdna, kad mano mielieji sūnūs.md#claim-t-59127|Man liūdna, kad mano mielieji sūnūs]]: Petras Dusburgietis pasakoja, kad Mergelei Marijai nuliūdus ji broliui Hermanui priekaištavo dėl Teutonų ordino brolių kalbų.
 - susijęs iš [[objektai/asmenys/Albertas (Karaliaučiaus komtūras).md#claim-t-60228|Albertas (Karaliaučiaus komtūras)]]: Dusburgiečio pasakojime per žygį prieš Lietuvą besimeldžiančiam Karaliaučiaus komtūrui Albertui prie burnos pasirodė komunijos paplotėlis.
 - susijęs iš [[objektai/asmenys/Heidenreichas.md#claim-t-60301|Heidenreichas (vyskupas, XIII–XIV a.)]]: Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas.
-- susijęs iš [[objektai/asmenys/Hermanas Saracėnas.md#claim-t-59921|Hermanas Saracėnas]]: Hermanas Saracėnas iš Karaliaučiaus pilies rengėsi vykti į karą Kurše, kai, pasak pasakojimo, jam pasirodė Mergelė Marija.
 - susijęs iš [[objektai/asmenys/Hermanas Saracėnas.md#claim-t-59923|Hermanas Saracėnas]]: Pasakojime Mergelė Marija ne kartą slapta ir draugiškai kalbėjosi su Hermanu Saracėnu, jau priimtu į Teutonų ordiną.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176625|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas tikėjo, kad viename pralaimėtame mūšyje jį išgelbėjo Švč. Mergelė Marija.
 - susijęs iš [[objektai/daiktai/Paplotėlis.md#claim-t-59699|Paplotėlis]]: Žygio prieš Lietuvą metu broliui Albertui prie burnos pasirodė Viešpaties kūnas paplotėlio pavidalu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178824|Kryžiuočių ordinas]]: Pasak Petro Dusburgiečio, Mergelė Marija broliui Hermanui skundėsi, kad Teutonų ordino broliai kalba apie pasaulio tuštybę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178982|Kryžiuočių ordinas]]: Pasak Petro Dusburgiečio, sapne Švenčiausioji Mergelė Marija pasirodė su daugybe Teutonų namų ordino brolių.
 - susijęs iš [[objektai/ivykiai/Dusburgiečio pasakojamas Marijos laiško stebuklas Heidenreichui.md#claim-t-91912|Dusburgiečio pasakojamas Marijos laiško stebuklas Heidenreichui]]: Pamokslininkų ordino brolis Heidenreichas antrosios prūsų atskalūnybės metais buvo Kulmo vyskupas.
 - susijęs iš [[objektai/ivykiai/Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje.md#claim-t-91907|Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje]]: Jai tarus šiuos žodžius, regėjimas dingo.
-- susijęs iš [[objektai/posakiai/Hermanai, aš tave kviečiu į savo sūnaus puotą.md#claim-t-59096|Hermanai, aš tave kviečiu į savo sūnaus puotą]]: Broliui Hermanui, vadinamam Saracėnu, prieš žygį į Kuršą pasirodžiusi Mergelė Marija pakvietė jį į savo sūnaus puotą.
-- susijęs iš [[objektai/posakiai/Man liūdna, kad mano mielieji sūnūs.md#claim-t-59127|Man liūdna, kad mano mielieji sūnūs]]: Petras Dusburgietis pasakoja, kad Mergelei Marijai nuliūdus ji broliui Hermanui priekaištavo dėl Teutonų ordino brolių kalbų.
 - susijęs iš [[objektai/posakiai/Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti.md#claim-t-184038|Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti]]: Regėjime šventoji mergelė Marija šiais žodžiais atsakė broliui, prašiusiam leisti pasilikti Teutonų ordino brolių bendrijoje.
 - susijęs iš [[objektai/posakiai/Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti.md#claim-t-59140|Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti]]: Regėjime Marija parodė Teutonų ordino brolių žaizdas ir randus, patirtus ginant tikėjimą.
 - susijęs iš [[objektai/posakiai/Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti.md#claim-t-59141|Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti]]: Regėjime šventoji mergelė Marija šiais žodžiais atsakė broliui, prašiusiam leisti pasilikti Teutonų ordino brolių bendrijoje.
@@ -152,6 +222,16 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 249880-250442; hash=c57e871c4f0180c173929c4b1fccc248bfad8a99c4f12d399dd6a8b51c38a396; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mergelė Marija: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Marija: mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mergelė Marija" parinktas kaip owner_note_path. Targetas "Marija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -173,6 +253,16 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 362146-362858; hash=2fb6a1fefe62f1596750eb262fcfad7bfd21ce77039d74d36f77b4c02a82052c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mergelė Marija: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Marija: mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mergelė Marija" parinktas kaip owner_note_path. Targetas "Marija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-004
@@ -195,6 +285,16 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 371805-372402; hash=ffedff0a16886ca98629289bb7965d0aa241e2c66178d2540bbd82b0e771fc99; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mergelė Marija: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mergelė Marija" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-006
 
 - c-005
@@ -217,6 +317,16 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c230f9d67026da702eb71c128e8bb698fd578078381ca36941cad9d14115a382; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mergelė Marija: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Marija: mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mergelė Marija" parinktas kaip owner_note_path. Targetas "Marija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-006
@@ -242,6 +352,16 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f49c4821f5a8eb0a795df07cc20128ec116224a355b0a4aa2395824c8bf66a98; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mergelė Marija: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mergelė Marija" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-007
@@ -259,4 +379,24 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 369544-370039; hash=aec449af279fc7a111c477ea130341e0a11403dced4a2fe21a32dc8840aa7add; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mergelė Marija: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): mention_match, person, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mergelė Marija" parinktas kaip owner_note_path. Targetas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 249654-250206; hash=c48272dfe38d58cec039b3473b54ca9020d3ac149ad073b4758d8838d5ff4baf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mergelė Marija: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Marija: mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mergelė Marija" parinktas kaip owner_note_path. Targetas "Marija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

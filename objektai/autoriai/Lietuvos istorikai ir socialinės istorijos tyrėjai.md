@@ -32,22 +32,42 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   susije_objektai: 'mentioned_author: [[objektai/autoriai/R. Vėbra|R. Vėbra]]'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=07e56108b63644f9bbfa48c9ad01d1beb60984fe6e2cd508d34becf4fe1767dc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> LTSR Mokslų Akademijos Istorijos Institutas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: LTSR Mokslų Akademijos Istorijos Institutas: mention_match, group, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos istorikai ir socialinės istorijos tyrėjai" parinktas kaip owner_note_path. Targetas "LTSR Mokslų Akademijos Istorijos Institutas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179533"></a>
 - t-002
   global_id: t-179533
   teiginys: 'A. Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako A. Šidlausko tyrimo temą ir remiasi citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Šidlauskas|A. Šidlauskas]]; mentioned_author: [[objektai/autoriai/M. Lukšienė|M. Lukšienė]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/A. Šidlauskas|A. Šidlauskas]]; mentioned_author: [[objektai/autoriai/M. Lukšienė|M. Lukšienė]]'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=00ff28687bdbd25574ac5171d529b87d47b92425b2c7f602c98994690a0fcf69; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos istorikai ir socialinės istorijos tyrėjai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179535"></a>
 - t-003
   global_id: t-179535
   teiginys: 'P. Pakarklis gvildeno Lietuvos istorijos klausimus ir ypač rašė apie teutonų ordinus.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis ir atitinka citatoje pateiktą informaciją.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/E. Radzvilovaitė|E. Radzvilovaitė]]; mentioned_author: [[objektai/autoriai/J. Stankus|J. Stankus]]; mentioned_author: [[objektai/autoriai/P. Pakarklis|P. Pakarklis]]; mentioned_group: [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas|LTSR Mokslų Akademijos Istorijos Institutas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas|LTSR Mokslų Akademijos Istorijos Institutas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/E. Radzvilovaitė|E. Radzvilovaitė]]; mentioned_author: [[objektai/autoriai/J. Stankus|J. Stankus]]; mentioned_author: [[objektai/autoriai/P. Pakarklis|P. Pakarklis]]'
   pagrindžia:
     - c-010
 
@@ -56,7 +76,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   global_id: t-179536
   teiginys: 'R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.'
   sudarymo_pagrindimas: 'Citata įvardija autorius ir temą, bet pradinė formuluotė nutrūkusi.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Jučas|M. Jučas]]; mentioned_author: [[objektai/autoriai/R. Jasas|R. Jasas]]; mentioned_author: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas|LTSR Mokslų Akademijos Istorijos Institutas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Jučas|M. Jučas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/R. Jasas|R. Jasas]]; mentioned_author: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas|LTSR Mokslų Akademijos Istorijos Institutas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1260-1274; įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata įvardija autorius ir temą, bet pradinė formuluotė nutrūkusi.'
@@ -68,7 +88,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   global_id: t-179537
   teiginys: 'L. Vladimirovas rašė apie caro vyriausybės politiką kultūros ir švietimo srityje Lietuvoje 1871-1904 m.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra nutrūkęs bibliografinis fragmentas.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/L. Vladimirovas|L. Vladimirovas]]; mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Kražiai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/L. Vladimirovas|L. Vladimirovas]]; mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Kražiai'
   temporaliniai_duomenys: 'įvykio data: 1871-1904; įvykio data: 1904 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra nutrūkęs bibliografinis fragmentas.'
@@ -80,19 +100,29 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   global_id: t-179538
   teiginys: 'P. Dundulienė, R. Marčėnas ir A. Makarevičius rašė apie žemdirbystės istoriją Lietuvoje ir ekonomikos klausimus.'
   sudarymo_pagrindimas: 'Citata aiškiai pagrindžia autorių ir tyrimų temų sąsają.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Lazutka|S. Lazutka]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/S. Lazutka|S. Lazutka]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1769 m.; įvykio data: 1783-1832; įvykio data: 1832 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai pagrindžia autorių ir tyrimų temų sąsają.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5521f5937ce04aea95db0d16c547d235f260d87e62acf1e87bdd98a7acdc9daf; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos istorikai ir socialinės istorijos tyrėjai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179539"></a>
 - t-007
   global_id: t-179539
   teiginys: 'P. Žostautaitė tyrė Prūsijos lietuvių vokietinimą ir pasipriešinimą jam 1848-1914 m.'
   sudarymo_pagrindimas: 'Citata pagrindžia autorę, temą ir laikotarpį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/P. Žostautaitė|P. Žostautaitė]]; mentioned_author: [[objektai/autoriai/S. Matulaitytė|S. Matulaitytė]]; mentioned_author: [[objektai/autoriai/V. Merkys|V. Merkys]]; mentioned_author: [[objektai/autoriai/V. Milius|V. Milius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Merkys; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/V. Merkys|V. Merkys]]; mentioned_author: [[objektai/autoriai/V. Milius|V. Milius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/P. Žostautaitė|P. Žostautaitė]]; mentioned_author: [[objektai/autoriai/S. Matulaitytė|S. Matulaitytė]]; mentioned_place: Merkys; mentioned_place: Prūsija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1848-1914; įvykio data: 1868-1914; įvykio data: 1914 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorę, temą ir laikotarpį.'
@@ -104,7 +134,7 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   global_id: t-179542
   teiginys: 'R. Strazdūnaitė 1959 m. paskelbė darbą „Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje“.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus bibliografinis sakinys, paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/R. Strazdūnaitė|R. Strazdūnaitė]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/R. Strazdūnaitė|R. Strazdūnaitė]]'
   temporaliniai_duomenys: 'įvykio data: 1831 m.; įvykio data: 1959 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus bibliografinis sakinys, paremtas citata.'
@@ -116,24 +146,44 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   global_id: t-179544
   teiginys: 'P. Girdzijauskienė parašė veikalą „1905-1907 metų revoliucija Lietuvoje“.'
   sudarymo_pagrindimas: 'Citata leidžia atkurti pilną autorės pavardę ir veikalo pavadinimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Tyla|A. Tyla]]; mentioned_author: [[objektai/autoriai/E. Griškūnaitė|E. Griškūnaitė]]; mentioned_author: [[objektai/autoriai/L. Mulevičius|L. Mulevičius]]; mentioned_author: [[objektai/autoriai/P. Girdzijauskienė|P. Girdzijauskienė]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Augustavas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/L. Mulevičius|L. Mulevičius]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/A. Tyla|A. Tyla]]; mentioned_author: [[objektai/autoriai/E. Griškūnaitė|E. Griškūnaitė]]; mentioned_author: [[objektai/autoriai/P. Girdzijauskienė|P. Girdzijauskienė]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Augustavas'
   temporaliniai_duomenys: 'įvykio data: 1905 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia atkurti pilną autorės pavardę ir veikalo pavadinimą.'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=adebababd40511232e78f0527ddbb07febec71722e49ca7b9875cd4dc32a942d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos istorikai ir socialinės istorijos tyrėjai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179545"></a>
 - t-010
   global_id: t-179545
   teiginys: 'L. Bičkauskas-Gentvila 1958 m. rašė apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje.'
   sudarymo_pagrindimas: 'Citata leidžia pridėti datą ir pašalinti perteklinį kontekstą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/O. Maksimaitienė|O. Maksimaitienė]]; mentioned_author: [[objektai/autoriai/V. Černeckis|V. Černeckis]]; mentioned_place: Baltarusija; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Baltarusija; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/O. Maksimaitienė|O. Maksimaitienė]]; mentioned_author: [[objektai/autoriai/V. Černeckis|V. Černeckis]]; mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1831 m.; įvykio data: 1861-1913; įvykio data: 1863 m.; įvykio data: apie 1863 m.; įvykio data: 1913 m.; įvykio data: 1958 m.; įvykio data: 1965 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia pridėti datą ir pašalinti perteklinį kontekstą.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=55c264ab032efd3d128a055c1ce62222b774697ca446d59edc73ede42d155419; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltarusija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Baltarusija: mention_match, place, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos istorikai ir socialinės istorijos tyrėjai" parinktas kaip owner_note_path. Targetas "Baltarusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -195,6 +245,16 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5521f5937ce04aea95db0d16c547d235f260d87e62acf1e87bdd98a7acdc9daf; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos istorikai ir socialinės istorijos tyrėjai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-004
@@ -237,6 +297,16 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=55c264ab032efd3d128a055c1ce62222b774697ca446d59edc73ede42d155419; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltarusija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Baltarusija: mention_match, place, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos istorikai ir socialinės istorijos tyrėjai" parinktas kaip owner_note_path. Targetas "Baltarusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
 
 - c-006
@@ -249,6 +319,16 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=adebababd40511232e78f0527ddbb07febec71722e49ca7b9875cd4dc32a942d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos istorikai ir socialinės istorijos tyrėjai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-007
@@ -266,6 +346,16 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=07e56108b63644f9bbfa48c9ad01d1beb60984fe6e2cd508d34becf4fe1767dc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> LTSR Mokslų Akademijos Istorijos Institutas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: LTSR Mokslų Akademijos Istorijos Institutas: mention_match, group, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos istorikai ir socialinės istorijos tyrėjai" parinktas kaip owner_note_path. Targetas "LTSR Mokslų Akademijos Istorijos Institutas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-008
@@ -287,6 +377,16 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=00ff28687bdbd25574ac5171d529b87d47b92425b2c7f602c98994690a0fcf69; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos istorikai ir socialinės istorijos tyrėjai: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos istorikai ir socialinės istorijos tyrėjai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-009

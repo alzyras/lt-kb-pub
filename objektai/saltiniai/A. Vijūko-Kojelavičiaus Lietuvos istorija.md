@@ -30,7 +30,7 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
 - t-001
   global_id: t-55207
   teiginys: 'Kojelavičius sekė Strijkovskiu pasakojime apie Kęstučio gudrybes puolant Vilnių.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 
@@ -38,21 +38,41 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
 - t-002
   global_id: t-55208
   teiginys: 'Kojelavičius ir Dlugošas palaikė versiją, kad Vilniaus pilių gaisrą sukėlė papirkti išdavikai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 100782-101507; hash=896a515b95405cecca29f91471cba6798d6f45a832734b817e10a516fe4cfeff; match=whitespace_regex
+  sprendimo_priezastis: gap::sources
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Vijūko-Kojelavičiaus Lietuvos istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Vijūko-Kojelavičiaus Lietuvos istorija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-81985"></a>
 - t-003
   global_id: t-81985
   teiginys: 'A. Vijūko-Kojelavičiaus Lietuvos istorijos p. 270 minimas Gedimino 1323-1324 m. įsiveržimas į Mazoviją ir Dobrynės žemę.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų teiginį apie Kojelavičiaus veikalo turinį, pašalinus vertinamąją ir puslapio triukšmo dalį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dobrynė; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dobrynė; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1323-1324; įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkretų teiginį apie Kojelavičiaus veikalo turinį, pašalinus vertinamąją ir puslapio triukšmo dalį.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 270295-270879; hash=512dc1d640d038058e1545681b14e0f9e7b4fbd6ac9aafe926912732ad5eae9c; match=whitespace_regex
+  sprendimo_priezastis: gap::sources
+  ryšio_patikimumas: susije_su -> Dlugošas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Vijūko-Kojelavičiaus Lietuvos istorija: owner_note_path, source
+  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Vijūko-Kojelavičiaus Lietuvos istorija" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -134,4 +154,24 @@ A. Vijūko-Kojelavičiaus Lietuvos istorija Balińskio tekste naudojama kaip pas
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 100782-101507; hash=896a515b95405cecca29f91471cba6798d6f45a832734b817e10a516fe4cfeff; match=whitespace_regex
+  sprendimo_priezastis: gap::sources
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Vijūko-Kojelavičiaus Lietuvos istorija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Vijūko-Kojelavičiaus Lietuvos istorija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 270295-270879; hash=512dc1d640d038058e1545681b14e0f9e7b4fbd6ac9aafe926912732ad5eae9c; match=whitespace_regex
+  sprendimo_priezastis: gap::sources
+  ryšio_patikimumas: susije_su -> Dlugošas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Vijūko-Kojelavičiaus Lietuvos istorija: owner_note_path, source
+  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Vijūko-Kojelavičiaus Lietuvos istorija" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

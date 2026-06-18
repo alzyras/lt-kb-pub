@@ -49,13 +49,23 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=353166aa6d4c67472ce6aa184c641ef7d11a3a24a2ed11db8c3be6bda7cd3e9e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Taryba (institucija): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Taryba (institucija)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-182710"></a>
 - t-003
   global_id: t-182710
   teiginys: '1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas chronologijos įrašu.'
-  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas chronologijos įrašu.'
@@ -73,6 +83,16 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1079637-1080159; hash=e41ed8a5b786612d6995e97139454a5170be8abb7c4d69eb05aacdae4c45b68a; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Taryba (institucija): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Taryba (institucija)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-182905"></a>
 - t-005
@@ -82,9 +102,19 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta taip, kad teiginys būtų tiesiogiai apie Tarybos veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1090166-1090551; hash=102dd7eb9ef5f1aae27af9ea8218a0c29ba2150973c5231d1b048217b83f6947; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> konstitucijos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Taryba (institucija): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: konstitucijos: mention_match, thing, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Taryba (institucija)" parinktas kaip owner_note_path. Targetas "konstitucijos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-182906"></a>
 - t-006
@@ -97,26 +127,36 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75719|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1917 m. Lietuvių konferencijoje Vilniuje Antanas Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks Tarybos vidaus prieštaravimus.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1090552-1090793; hash=e19df8d52adf6e9133c6cb50d22f9033abec83873630c49b05f6240bf798e505; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Valstybės Taryba: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Taryba (institucija): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Valstybės Taryba: mention_match, group, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Taryba (institucija)" parinktas kaip owner_note_path. Targetas "Valstybės Taryba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75745|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1917 m. A. Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks radikaliosios ir konservatyviosios dalių prieštaravimus.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75779|Augustinas Voldemaras]]: Augustinas Voldemaras vadovavo Lietuvos delegacijai prie Paryžiaus taikos konferencijos.
-- susijęs iš [[objektai/asmenys/Dominykas Semaško.md#claim-t-63539|Dominykas Semaško]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
 - susijęs iš [[objektai/asmenys/J. Basanavičius.md#claim-t-63664|J. Basanavičius]]: 1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą.
 - susijęs iš [[objektai/asmenys/Matijas Ercbergeris.md#claim-t-26455|Matijas Ercbergeris]]: Matijas Ercbergeris rėmė Lietuvos Tarybos monarchistus, kai 1918 m. liepos 13 d. Vilhelmas fon Urachas buvo pakviestas į Lietuvos sostą.
-- susijęs iš [[objektai/asmenys/Oskaras Milašius.md#claim-t-64020|Oskaras Milašius]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
-- susijęs iš [[objektai/asmenys/Simonas Rozenbaumas.md#claim-t-64059|Simonas Rozenbaumas]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
 - susijęs iš [[objektai/asmenys/Vilhelmas fon Urachas.md#claim-t-26463|Vilhelmas fon Urachas]]: Vilhelmas fon Urachas 1918 m. liepos 13 d. buvo pakviestas užimti Lietuvos sostą ir paskelbtas karaliumi Mindaugu II.
 - susijęs iš [[objektai/grupes/Antantė.md#claim-t-19637|Antantė]]: Antantė pripažino, kad Lietuvos Taryba iškėlė nepriklausomybės klausimą ir išsivadavo iš Vokietijos politikos diktato.
 - susijęs iš [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos.md#claim-t-74635|Lietuvos delegacija prie Paryžiaus taikos konferencijos]]: Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes Lietuva nebuvo juridinė 1919 m. prasidėjusios konferencijos dalyvė.
 - susijęs iš [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos.md#claim-t-74638|Lietuvos delegacija prie Paryžiaus taikos konferencijos]]: Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes Lietuva nebuvo juridinė 1919 m. prasidėjusios konferencijos dalyvė.
 - susijęs iš [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos.md#claim-t-74640|Lietuvos delegacija prie Paryžiaus taikos konferencijos]]: Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes Lietuva nebuvo juridinė konferencijos dalyvė.
-- susijęs iš [[objektai/ivykiai/Karaliaus Uracho rinkimas.md#claim-t-01638|Karaliaus Uracho rinkimas]]: Lietuvos Taryba nusprendė valdovu kviesti kataliką kunigaikštį von Urachą, kuris priėmė lietuvių pateiktas karaliavimo sąlygas.
 - susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1918-1919 m.).md#claim-t-20329|Lietuvos nepriklausomybės atkūrimas (1918-1919 m.)]]: 1918 m. vasario 16 d. Jono Basanavičiaus vadovaujama Lietuvos Taryba Vokietijos okupacijos sąlygomis paskelbė nepriklausomos Lietuvos valstybės atkūrimą.
 - susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.).md#claim-t-01730|Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.)]]: 1918 m. vasario 16 d. Lietuvos Taryba priėmė naują savarankišką pareiškimą, tapusį Lietuvos nepriklausomybės paskelbimu.
 - susijęs iš [[objektai/posakiai/Skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium.md#claim-t-67284|Skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium]]: 1917 m. gruodžio 11 d. Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą su sostine Vilniumi.
-- susijęs iš [[objektai/posakiai/„atkuria“ „atkūrimu“ „atstatymu“.md#claim-t-104217|„atkuria“ „atkūrimu“ „atstatymu“]]: 1918 m. vasario 16 d. Lietuvos Taryba paskelbė atkurianti nepriklausomą demokratinę Lietuvos valstybę su sostine Vilniumi.
 - susijęs iš Kaunas: Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, greitosiomis kūrė Lietuvos karines pajėgas.
 - susijęs iš Paryžius: 1919 m. prasidėjusioje Paryžiaus taikos konferencijoje Lietuva nebuvo juridinė dalyvė ir veikė kuluaruose.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75719|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1917 m. Lietuvių konferencijoje Vilniuje Antanas Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks Tarybos vidaus prieštaravimus.
+- susijęs iš [[objektai/asmenys/Dominykas Semaško.md#claim-t-63539|Dominykas Semaško]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
+- susijęs iš [[objektai/asmenys/Oskaras Milašius.md#claim-t-64020|Oskaras Milašius]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
+- susijęs iš [[objektai/asmenys/Simonas Rozenbaumas.md#claim-t-64059|Simonas Rozenbaumas]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
+- susijęs iš [[objektai/ivykiai/Karaliaus Uracho rinkimas.md#claim-t-01638|Karaliaus Uracho rinkimas]]: Lietuvos Taryba nusprendė valdovu kviesti kataliką kunigaikštį von Urachą, kuris priėmė lietuvių pateiktas karaliavimo sąlygas.
+- susijęs iš [[objektai/posakiai/„atkuria“ „atkūrimu“ „atstatymu“.md#claim-t-104217|„atkuria“ „atkūrimu“ „atstatymu“]]: 1918 m. vasario 16 d. Lietuvos Taryba paskelbė atkurianti nepriklausomą demokratinę Lietuvos valstybę su sostine Vilniumi.
 - susijęs iš Paryžius: Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.
 ## Reikšmingi paminėjimai
 
@@ -149,6 +189,16 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1090552-1090793; hash=e19df8d52adf6e9133c6cb50d22f9033abec83873630c49b05f6240bf798e505; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Valstybės Taryba: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Taryba (institucija): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Valstybės Taryba: mention_match, group, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Taryba (institucija)" parinktas kaip owner_note_path. Targetas "Valstybės Taryba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-003
@@ -173,6 +223,16 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=353166aa6d4c67472ce6aa184c641ef7d11a3a24a2ed11db8c3be6bda7cd3e9e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Taryba (institucija): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Taryba (institucija)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-004
@@ -229,4 +289,24 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1079637-1080159; hash=e41ed8a5b786612d6995e97139454a5170be8abb7c4d69eb05aacdae4c45b68a; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Taryba (institucija): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Taryba (institucija)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1090166-1090551; hash=102dd7eb9ef5f1aae27af9ea8218a0c29ba2150973c5231d1b048217b83f6947; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> konstitucijos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Taryba (institucija): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: konstitucijos: mention_match, thing, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Taryba (institucija)" parinktas kaip owner_note_path. Targetas "konstitucijos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

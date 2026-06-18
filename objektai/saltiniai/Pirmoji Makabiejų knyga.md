@@ -24,6 +24,9 @@ Dusburgietis teigia, kad siek tiek toliau jis priduria (1 Mak 2. 67—68): „..
   sudarymo_pagrindimas: 'Citata remia apibendrintą teiginį apie cituojamas Pirmosios Makabiejų knygos vietas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 751589-752025; hash=03ec152ae5e147efb01067538252174a1a4b89a80653fddeba578afb655ad8d0; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -42,3 +45,6 @@ Dusburgietis teigia, kad siek tiek toliau jis priduria (1 Mak 2. 67—68): „..
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 751589-752025; hash=03ec152ae5e147efb01067538252174a1a4b89a80653fddeba578afb655ad8d0; match=exact
+  sprendimo_priezastis: auto

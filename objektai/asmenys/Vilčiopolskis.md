@@ -32,6 +32,16 @@ Jonas Neliubovičius mūrinį namą su sklypu par­ davė Vilniaus kanauninkui V
   susije_objektai: 'mentioned_group: [[objektai/grupes/Neliubovičiai|Neliubovičiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Jonas Neliubovičius|Jonas Neliubovičius]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 386566-386930; hash=67bf2fea86b3272f64b2f65771705447a341d8802344b5a58d55f2868a3f3162; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas Neliubovičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilčiopolskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas Neliubovičius: mention_match, person, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilčiopolskis" parinktas kaip owner_note_path. Targetas "Jonas Neliubovičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Neliubovičiai.md#claim-t-86814|Neliubovičiai]]: 1583 m. Savickių Kristupui Zalivskiui parduota valda vėliau iš Zalivskių atiteko Neliubovičiams.
 - susijęs iš Šv. Jono Akademijos Spaustuvės kronika: 1631 m. Akademijos kolegija įgijo sklypą ir mūrinį namą, kurį vėliau pavertė spaustuve.
 - susijęs iš Šv. Jono Akademijos Spaustuvės kronika: 1547 m. Jonas Hozijus pardavė sklypą ir mūrinį namą, kuriame buvo spaustuvė, Sebastijonui Vitinskiui.
@@ -55,3 +65,13 @@ Jonas Neliubovičius mūrinį namą su sklypu par­ davė Vilniaus kanauninkui V
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 386566-386930; hash=67bf2fea86b3272f64b2f65771705447a341d8802344b5a58d55f2868a3f3162; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas Neliubovičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilčiopolskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas Neliubovičius: mention_match, person, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilčiopolskis" parinktas kaip owner_note_path. Targetas "Jonas Neliubovičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -25,6 +25,16 @@ Vytautas paėmė Oviučio miestą.
   susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Podolė; mentioned_place: Vladimiras; mentioned_place: Žitomiras'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bafec99f5e01f0c11bc00af746101cbaac205ca3f06879dc1dc45c2794795c42; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Podolė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Oviučis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Podolė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Oviučis" parinktas kaip owner_note_path. Targetas "Podolė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -58,4 +68,24 @@ Vytautas paėmė Oviučio miestą.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bafec99f5e01f0c11bc00af746101cbaac205ca3f06879dc1dc45c2794795c42; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Podolė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Oviučis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Podolė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Oviučis" parinktas kaip owner_note_path. Targetas "Podolė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 167882-168158; hash=06a4114239270b81f01630e2870e61f4dc450f9bebd83ba89125488ea006e578; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kijevas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Oviučis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kijevas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Oviučis" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

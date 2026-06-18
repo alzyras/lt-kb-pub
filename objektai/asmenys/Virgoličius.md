@@ -35,22 +35,42 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
   temporalinis_llm_pakomentavimas: 'Išskleista santrumpa ir pašalinti OCR laužymai.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=068f82b1e322effe6293c72a083c93391fafc7eddf11dad230da494f2a0c72a4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bermontininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Virgoličius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bermontininkai: mention_match, group, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Virgoličius" parinktas kaip owner_note_path. Targetas "Bermontininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-40510"></a>
 - t-002
   global_id: t-40510
   teiginys: 'Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Virgoličiaus rinktinė|Virgoličiaus rinktinė]]; mentioned_place: Dauguva; mentioned_place: Kuršėnai; mentioned_place: Lietuva; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Virgoličiaus rinktinė|Virgoličiaus rinktinė]]; mentioned_place: Kuršėnai; mentioned_place: Šiauliai; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Dauguva; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/P. Bermontas-Avalovas.md#claim-t-40381|P. Bermontas-Avalovas]]: P. Bermontas-Avalovas siekė nuversti bolševikus Rusijoje ir atkurti Rusijos imperiją, o jo pajėgos 1919 m. telkėsi Mintaujoje.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 784866-785070; hash=39996f9e4e66240007223618b7fdf451f4bff8e4b96bd360d847cfd886b5b107; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuršėnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Virgoličius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kuršėnai: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Virgoličius" parinktas kaip owner_note_path. Targetas "Kuršėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/P. Virgoličius.md#claim-t-80741|P. Virgoličius]]: Pulkininko P. Virgoličiaus pajėgos turėjo užimti Lietuvą.
 - susijęs iš [[objektai/grupes/Virgoličiaus rinktinė.md#claim-t-39014|Virgoličiaus rinktinė]]: 1919 m. spalio 5 d. plk. Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
 - susijęs iš [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.).md#claim-t-66494|Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]: 1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai.
 - susijęs iš [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.).md#claim-t-66496|Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]: Lietuvos vyriausybė negalėjo užkirsti kelio plk. Virgoličiaus rinktinei, nes Lietuvos kariuomenė tuo metu dar kovėsi su bolševikais Dauguvos fronte.
+- susijęs iš Kuršėnai: 1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai.
+- susijęs iš [[objektai/asmenys/P. Bermontas-Avalovas.md#claim-t-40381|P. Bermontas-Avalovas]]: P. Bermontas-Avalovas siekė nuversti bolševikus Rusijoje ir atkurti Rusijos imperiją, o jo pajėgos 1919 m. telkėsi Mintaujoje.
 - susijęs iš Dauguva: Spalio 5 d. Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte.
 - susijęs iš Kuršėnai: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
-- susijęs iš Kuršėnai: 1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai.
 - susijęs iš Šiauliai: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
 ## Reikšmingi paminėjimai
 
@@ -87,4 +107,24 @@ Virgoličiaus, kur ėmė užiminėti patalpas, plėšti gyventojus ir kitaip sav
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 784866-785070; hash=39996f9e4e66240007223618b7fdf451f4bff8e4b96bd360d847cfd886b5b107; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuršėnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Virgoličius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kuršėnai: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Virgoličius" parinktas kaip owner_note_path. Targetas "Kuršėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=068f82b1e322effe6293c72a083c93391fafc7eddf11dad230da494f2a0c72a4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bermontininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Virgoličius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bermontininkai: mention_match, group, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Virgoličius" parinktas kaip owner_note_path. Targetas "Bermontininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

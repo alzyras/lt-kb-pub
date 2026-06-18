@@ -45,38 +45,67 @@ Nenurodyta
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 611001-612143; hash=758e204c1e1b656e7da0609e1676e4e1cc00a9a712f19586e20634dd09f0358d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Henrikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žirgai: owner_note_path, thing
+  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=1
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žirgai" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Albrechtas (Prūsijos kunigaikštis).md#claim-t-87612|Albrechtas (Prūsijos kunigaikštis)]]: Albrechtas, Prūsijos kunigaikštis, testamente turėjo gauti du gerus žirgus ir būti paskutinės valios gynėju bei globėju.
+- susijęs iš [[objektai/asmenys/Dargis.md#claim-t-60261|Dargis]]: Dargis buvo Žiokos valsčiuje gyvenęs prūsas, nepakentęs baltų žirgų ir po Ditricho bandymų atsisakęs prietaro.
+- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59839|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas nupirko Dargiui baltą arklį, norėdamas atpratinti jį nuo prietaro dėl baltų žirgų.
+- susijęs iš [[objektai/asmenys/Henrikas iš Berkos.md#claim-t-60311|Henrikas iš Berkos]]: Henrikas iš Berkos iš Tiuringijos buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
+- susijęs iš [[objektai/asmenys/Henrikas iš Ceico.md#claim-t-60312|Henrikas iš Ceico]]: Henrikas iš Ceico iš Vitchendorfo kaimo buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
+- susijęs iš [[objektai/asmenys/Ibrahimas (Turkijos čiaušas).md#claim-t-87513|Ibrahimas (Turkijos čiaušas)]]: Turkijos imperatoriaus čiaušas Ibrahimas buvo atsiųstas pas karalių ir, atvykęs iš Maskvos, paliko Vilniuje tarnus, žirgus bei daiktus.
+- susijęs iš [[objektai/asmenys/Jonas Jurgis (Brandenburgo kurfiurstas).md#claim-t-87722|Jonas Jurgis (Brandenburgo kurfiurstas)]]: Jonui Jurgiui, Brandenburgo kurfiurstui, turėjo būti duoti du geri žirgai ir prašyta globoti paskutinę valią.
+- susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59931|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas, prūsų įbaugintas, perduodavo jų pasiuntiniams žirgus ir ryškiaspalvius drabužius.
+- susijęs iš [[objektai/asmenys/Krivis.md#claim-t-60048|Krivis]]: Dusburgiečio pasakojime krivis mirusiojo tėvams nurodydavo mirusiojo drabužius, ginklus, žirgus ir šeimyną.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05221|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas kautynių metu tvarkė pulkus, davinėjo įsakymus, jodinėjo keisdamas žirgus ir atstatinėjo pralaužtas vietas.
+- susijęs iš [[objektai/autoriai/Dundulienė P.md#claim-t-64573|Dundulienė P]]: Dundulienės darbas cituojamas teiginiui, kad balti ir juodi Perkūno žirgai buvo žinomi, o tokio plauko žirgai ypatingai gerbti.
+- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-187733|Didžiojo Naugardo respublika]]: Didžiojo Naugardo gyventojai kasmet mokėjo Vytautui 10 000 auksinų, 40 sunkiųjų žirgų ir kailių duoklę.
+- susijęs iš [[objektai/grupes/Pskoviečiai.md#claim-t-187768|Pskoviečiai]]: Pskoviečiai Vytautui kasmet duodavo pusę tos duoklės, kurią naugardiečiai mokėjo auksu, žirgais ir kailiais.
+- susijęs iš [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.).md#claim-t-66509|Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]: Po pergalės broliai ir maldininkai grįžo namo su 1600 priešo žirgų ir kitu grobiu.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186538|Klecko mūšis (mūšis, XVI a.)]]: Lietuvos metraštis pasakoja, kad po Klecko mūšio Mykolas Glinskis ir Lietuvos kariuomenė grįžo į stovyklą su belaisviais, auksu, sidabru, ginklais ir žirgais.
+- susijęs iš [[objektai/ivykiai/Konrado dovanos prūsų pasiuntiniams siekiant malšinti antpuolius.md#claim-t-62328|Konrado dovanos prūsų pasiuntiniams siekiant malšinti antpuolius]]: Kunigaikštis Konradas prūsų pasiuntiniams davė žirgų ir ryškiaspalvių drabužių, tačiau dovanos jų antpuolių nesušvelnino.
+- susijęs iš [[objektai/ivykiai/Livonijos raitelių žūtis Žemaitijoje (1466 m.).md#claim-t-185614|Livonijos raitelių žūtis Žemaitijoje (1466 m.)]]: Lietuvių pasalos išgąsdinti Livonijos raiteliai pasileido žirgais ir, suvirtę į užmaskuotus griovius, visi žuvo.
+- susijęs iš [[objektai/ivykiai/Naugardo pasidavimas Vytautui ir duoklės nustatymas.md#claim-t-186603|Naugardo pasidavimas Vytautui ir duoklės nustatymas]]: Lietuvos metraštis nurodo, kad Naugardas Vytauto iždui kasmet mokėjo dešimt tūkstančių auksinų, žirgus ir kailius, o Pskovas davė pusę tiek.
+- susijęs iš [[objektai/ivykiai/Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.).md#claim-t-62449|Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.)]]: 1295 m. birželio 19 d. lietuviai saloje prie Ragainės pilies pagrobė brolių žirgus ir galvijus.
+- susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-05333|Aisčių laidotuvių ir vėlinių apeigos]]: Aisčių laidotuvių apeigose mirusiųjų kapai darėsi turtingesni, o drauge su mirusiaisiais buvo pakasami išpuošti žirgai.
+- susijęs iš [[objektai/posakiai/Palikime savo žirgus toli užpakalyje.md#claim-t-09674|Palikime savo žirgus toli užpakalyje]]: Matas pasiūlė kryžiuočiams palikti žirgus užnugaryje ir pulti priešus pėsčiomis.
+- susijęs iš [[objektai/posakiai/Palikime savo žirgus toli užpakalyje.md#claim-t-09675|Palikime savo žirgus toli užpakalyje]]: „Palikime savo žirgus toli užpakalyje“ reiškė sumanymą atimti kariams viltį trauktis ir priversti juos nevengti mūšio.
+- susijęs iš [[objektai/posakiai/aš tą užstatytą arklį paėmiau už savo pinigus.md#claim-t-86853|aš tą užstatytą arklį paėmiau už savo pinigus]]: Formulė „aš tą užstatytą arklį paėmiau už savo pinigus“ buvo žydo priesaikos tekstas ginče dėl vogto žirgo.
+- susijęs iš Lenkija: Lenkijos kunigaikštis, prūsų įbaugintas, duodavo jų pasiuntiniams reikalaujamus žirgus ir ryškiaspalvius drabužius.
+- susijęs iš Ragainė: Sekmadienį prieš Jonines lietuviai saloje prie Ragainės pilies pagrobė visus brolių žirgus ir galvijus.
+- susijęs iš [[objektai/zodynas/duoklė.md#claim-t-187520|duoklė]]: Naugardiečiai kasmet mokėjo Vytautui duoklę auksinais, sunkiaisiais žirgais ir įvairių žvėrių kailiais.
+- susijęs iš [[objektai/zodynas/lengvoji kavalerija.md#claim-t-42478|lengvoji kavalerija]]: Lengvoji kavalerija totoriams suteikė taktinį pranašumą, nes raiteliai su savimi vesdavosi po tris atsarginius žirgus.
+- susijęs iš [[objektai/zodynas/stabmeldys.md#claim-t-42510|stabmeldys]]: Stabmeldžiai svaidė ietis į krikščionis, o rusai strėlėmis sužeidė daug vyrų ir žirgų.
+- susijęs iš [[objektai/zodynas/žirgų kapai.md#claim-t-28617|žirgų kapai]]: Terminas „žirgų kapai“ kilo iš papročio šalia sudegintų žmonių lavonų su įkapėmis užkasti nedegintus žirgus.
+- susijęs iš [[objektai/zodynas/žygūnai.md#claim-t-58933|žygūnai]]: Prūsai siųsdavo žygūnus pas Lenkijos kunigaikštį reikalauti žirgų ir ryškiaspalvių drabužių.
 - susijęs iš [[objektai/asmenys/Asianas Abrahimovičius.md#claim-t-87628|Asianas Abrahimovičius]]: Asianas Abrahimovičius buvo paskirtas vertėju Turkijos imperatoriaus čiaušui Ibrahimui, kuriam leista kurį laiką gyventi Vilniuje.
 - susijęs iš [[objektai/asmenys/Burnašas.md#claim-t-80731|Burnašas]]: Mengli-Girėjaus jaunesnieji sūnūs Fatihas ir Burnašas vadovavo žygiui į LDK gilumą.
 - susijęs iš [[objektai/asmenys/Danutė.md#claim-t-186193|Danutė]]: Danutė, Mazovijos kunigaikščio Jonušo žmona, atpažino į Mazoviją atvykusį tėvą ir padėjo jam grįžti į Lietuvą.
-- susijęs iš [[objektai/asmenys/Dargis.md#claim-t-60261|Dargis]]: Dargis buvo Žiokos valsčiuje gyvenęs prūsas, nepakentęs baltų žirgų ir po Ditricho bandymų atsisakęs prietaro.
-- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59839|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas nupirko Dargiui baltą arklį, norėdamas atpratinti jį nuo prietaro dėl baltų žirgų.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Bernheimo.md#claim-t-59908|Ditrichas iš Bernheimo]]: Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją.
 - susijęs iš [[objektai/asmenys/Fatihas.md#claim-t-80733|Fatihas]]: Mengli-Girėjaus jaunesnieji sūnūs Fatihas ir Burnašas vadovavo žygiui į LDK gilumą.
-- susijęs iš [[objektai/asmenys/Henrikas iš Berkos.md#claim-t-60311|Henrikas iš Berkos]]: Henrikas iš Berkos iš Tiuringijos buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
-- susijęs iš [[objektai/asmenys/Henrikas iš Ceico.md#claim-t-60312|Henrikas iš Ceico]]: Henrikas iš Ceico iš Vitchendorfo kaimo buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
 - susijęs iš [[objektai/asmenys/Hermanas Balkas.md#claim-t-89816|Hermanas Balkas]]: 1230 m. didysis magistras Hermanas iš Zalcos pasiuntė Hermaną Balką eiti magistro pareigų Prūsijoje.
-- susijęs iš [[objektai/asmenys/Ibrahimas (Turkijos čiaušas).md#claim-t-87513|Ibrahimas (Turkijos čiaušas)]]: Turkijos imperatoriaus čiaušas Ibrahimas buvo atsiųstas pas karalių ir, atvykęs iš Maskvos, paliko Vilniuje tarnus, žirgus bei daiktus.
-- susijęs iš [[objektai/asmenys/Jonas Jurgis (Brandenburgo kurfiurstas).md#claim-t-87722|Jonas Jurgis (Brandenburgo kurfiurstas)]]: Jonui Jurgiui, Brandenburgo kurfiurstui, turėjo būti duoti du geri žirgai ir prašyta globoti paskutinę valią.
 - susijęs iš [[objektai/asmenys/Jonas Lonei.md#claim-t-80718|Jonas Lonei]]: Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos.
-- susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59931|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas, prūsų įbaugintas, perduodavo jų pasiuntiniams žirgus ir ryškiaspalvius drabužius.
 - susijęs iš [[objektai/asmenys/Konradas Jungingenas.md#claim-t-87535|Konradas Jungingenas]]: Konradas Jungingenas kartu su Švitrigaila įsibrovė į Lietuvą ir niokojo žemes nuo Gardino apylinkių iki Šalčininkų.
 - susijęs iš [[objektai/asmenys/Konradas iš Tuteleno.md#claim-t-60367|Konradas iš Tuteleno]]: Konradas iš Tuteleno, buvęs šventosios Elžbietos kamerarijus, buvo paskirtas pagalbininku Hermanui Balkui.
 - susijęs iš [[objektai/asmenys/Kristupas Radvila.md#claim-t-87403|Kristupas Radvila]]: 1586 m. atviras Lietuvos Ponų Tarybos laiškas Kristupui Radvilai įpareigojo Vilniuje parinkti namus čiaušui Ibrahimui.
 - susijęs iš [[objektai/asmenys/Krivis.md#claim-t-60046|Krivis]]: Po pergalės kriviui atiduodavo trečdalį karo grobio aukos, o krivis tą dalį sudegindavo.
-- susijęs iš [[objektai/asmenys/Krivis.md#claim-t-60048|Krivis]]: Dusburgiečio pasakojime krivis mirusiojo tėvams nurodydavo mirusiojo drabužius, ginklus, žirgus ir šeimyną.
 - susijęs iš [[objektai/asmenys/Ottonas Luterbergas.md#claim-t-39398|Ottonas Luterbergas]]: Livonijos magistras Ottonas Luterbergas buvo nukautas kovoje, kurioje žuvo ir 52 Ordino broliai.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90026|Sventopelkas]]: Šiame gabale Sventopelkas siejamas su taikos atnaujinimu, nauju jos sulaužymu ir Santyro pilies pastatymu.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90042|Sventopelkas]]: Sventopelkas sutelkė kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius.
 - susijęs iš [[objektai/asmenys/Vaclovas (Čekijos ir Lenkijos karalius).md#claim-t-60453|Vaclovas (Čekijos ir Lenkijos karalius)]]: 1300 m. Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173229|Vladislovas Jogaila]]: 1401 m. Vladislovas Jogaila iš Vytauto gavo aktą, kad po Vytauto mirties Lietuva ir Rusia pereis karaliaus valdžion.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05221|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas kautynių metu tvarkė pulkus, davinėjo įsakymus, jodinėjo keisdamas žirgus ir atstatinėjo pralaužtas vietas.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176624|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1401 m. Vytautas iškilmingu aktu laidavo, kad po jo mirties Lietuva ir Rusia pereis Jogailos valdžion.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176631|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1401 m. Vytautas davė Jogailai aktą, kad po jo mirties Lietuva ir Rusia pereis karaliaus valdžion.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176720|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas kautynių metu tvarkė pulkus, davinėjo įsakymus ir pralaužtas vietas atstatinėjo arba keitė naujais daliniais.
 - susijęs iš [[objektai/asmenys/Zygfridas iš Da[he]nfeldo.md#claim-t-80728|Zygfridas iš Da[he]nfeldo]]: Zygfridas iš Da[he]nfeldo 1348 m. dalyvavo Strėvos mūšyje kaip Ordino maršalas.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179715|Švitrigaila]]: 1395 m. Švitrigaila su kryžiuočių pulku ir magistru Konradu Jungingenu įsibrovė į Lietuvą ir nusiaubė vietoves prie Gardino.
-- susijęs iš [[objektai/autoriai/Dundulienė P.md#claim-t-64573|Dundulienė P]]: Dundulienės darbas cituojamas teiginiui, kad balti ir juodi Perkūno žirgai buvo žinomi, o tokio plauko žirgai ypatingai gerbti.
 - susijęs iš [[objektai/autoriai/Giovanni Villani.md#claim-t-88057|Giovanni Villani]]: Giovanni Villani nurodytas kaip šaltinis apie anglų bombardų panaudojimą 1346 m. rugpjūčio 26 d. mūšyje prie Kreši.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172867|J. Dlugošas]]: J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje rikiavo lietuvių kariuomenę pulkais ir daliniais.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172878|J. Dlugošas]]: J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje lietuvių kariuomenę paskirstė raitelių pulkais ir daliniais.
@@ -90,7 +119,6 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2.md#claim-t-40758|Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2]]: Pirmojo pasaulinio karo metu, pradėjus trūkti ginklų, buvo naudojami ir senieji Berdan šautuvai.
 - susijęs iš [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje.md#claim-t-55054|Užstato daiktai Trakų žydų privilegijoje]]: Žirgus privilegijoje leista priimti užstatu tik dienai.
 - susijęs iš [[objektai/grupes/Danijos karaliaus kariai iš Revelio.md#claim-t-40871|Danijos karaliaus kariai iš Revelio]]: Danijos karaliaus kariai iš Revelio nepritarė siūlymui kautis pėsčiomis, nes dėl sunkios ginkluotės manė neatsilaikysią mūšyje.
-- susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-187733|Didžiojo Naugardo respublika]]: Didžiojo Naugardo gyventojai kasmet mokėjo Vytautui 10 000 auksinų, 40 sunkiųjų žirgų ir kailių duoklę.
 - susijęs iš [[objektai/grupes/Kiršenšteinai.md#claim-t-86799|Kiršenšteinai]]: Kiršenšteinų giminė, vėliau gavusi pilietybę, keletą šimtmečių valdė Raudonės pilį.
 - susijęs iš [[objektai/grupes/Korano giminė.md#claim-t-187779|Korano giminė]]: Lietuvos metraštyje Klecko kautynių aprašyme Korano giminės patirtis vaizduojama kaip neapsakomas kraujo praliejimas.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
@@ -98,12 +126,10 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-169700|Lietuvos Didžioji Kunigaikštystė]]: 1564 m. pradžioje į Lietuvos Didžiąją Kunigaikštystę įsiveržė dvi didelės Maskvos kariuomenės.
 - susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89173|Pomeranai]]: Sventopelkas drąsino saviškius, teigdamas, kad pomeranai ir prūsai galės visiems laikams nusikratyti teutonų jungo.
 - susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89174|Pomeranai]]: Magistras, broliai ir kunigaikštis Kazimieras devynias dienas bei naktis niokojo Pomeranijos žemę plėšimais ir gaisrais.
-- susijęs iš [[objektai/grupes/Pskoviečiai.md#claim-t-187768|Pskoviečiai]]: Pskoviečiai Vytautui kasmet duodavo pusę tos duoklės, kurią naugardiečiai mokėjo auksu, žirgais ir kailiais.
 - susijęs iš [[objektai/grupes/Rusai.md#claim-t-117248|Rusai]]: Prieš Strėvos mūšį į Lietuvos kariuomenę buvo pašaukti rusai iš Vladimiro, Brastos, Vitebsko, Smolensko ir Polocko.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172840|Vilniaus miestiečių luomas]]: Vilniaus gyventojai įvertino, kad gaisras didžiajam kunigaikščiui padarė iki 60 tūkstančių sidabro luitų žalą.
 - susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
 - susijęs iš [[objektai/ivykiai/Brolių ir Livonijos pagalbos pergalė prieš sembus Bečių (Pabečių) valsčiuje.md#claim-t-62756|Brolių ir Livonijos pagalbos pergalė prieš sembus Bečių (Pabečių) valsčiuje]]: Livonijos broliams atskubėjus į Bečių valsčių, brolių kariuomenė nugalėjo sembus, paėmė į nelaisvę moteris ir vaikus bei sudegino kiemus.
-- susijęs iš [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.).md#claim-t-66509|Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]: Po pergalės broliai ir maldininkai grįžo namo su 1600 priešo žirgų ir kitu grobiu.
 - susijęs iš [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.).md#claim-t-66511|Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]: 1246 m. Sventopelkas su didesne kariuomene persekiojo atsitraukiančius brolius, bet mūšyje prarado 1500 vyrų.
 - susijęs iš [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis.md#claim-t-183918|Dviejų pilių sugriovimas ir Pipino žūtis]]: Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.
 - susijęs iš [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis.md#claim-t-66534|Dviejų pilių sugriovimas ir Pipino žūtis]]: Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.
@@ -112,25 +138,16 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto pergalė prie Savranės ir skitų stovyklos sutriuškinimas prie Kopistrino (1489 m.).md#claim-t-185524|Jono Olbrachto pergalė prie Savranės ir skitų stovyklos sutriuškinimas prie Kopistrino (1489 m.)]]: Kovos prie Savranės pradžia buvo sunki, nes skitai dar prieš tikrąsias kautynes iš tolo apšaudė Jono Olbrachto karius strėlėmis.
 - susijęs iš [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.).md#claim-t-66606|Karusės mūšis (1270 m. vasario 16 d.)]]: Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-171466|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Po mūšio lietuviai paėmė arba nukovė daugybę totorių ir paėmė daug belaisvių bei grobio.
-- susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186538|Klecko mūšis (mūšis, XVI a.)]]: Lietuvos metraštis pasakoja, kad po Klecko mūšio Mykolas Glinskis ir Lietuvos kariuomenė grįžo į stovyklą su belaisviais, auksu, sidabru, ginklais ir žirgais.
-- susijęs iš [[objektai/ivykiai/Konrado dovanos prūsų pasiuntiniams siekiant malšinti antpuolius.md#claim-t-62328|Konrado dovanos prūsų pasiuntiniams siekiant malšinti antpuolius]]: Kunigaikštis Konradas prūsų pasiuntiniams davė žirgų ir ryškiaspalvių drabužių, tačiau dovanos jų antpuolių nesušvelnino.
 - susijęs iš [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos įkalinimas (1381 m. rugpjūtis).md#claim-t-86919|Kęstučio Vilniaus užėmimas ir Jogailos įkalinimas (1381 m. rugpjūtis)]]: Jogaila be Kęstučio žinios sudarė slaptą sutartį su Livonijos magistru, kad šis padėtų vykdyti jo užmačias.
-- susijęs iš [[objektai/ivykiai/Livonijos raitelių žūtis Žemaitijoje (1466 m.).md#claim-t-185614|Livonijos raitelių žūtis Žemaitijoje (1466 m.)]]: Lietuvių pasalos išgąsdinti Livonijos raiteliai pasileido žirgais ir, suvirtę į užmaskuotus griovius, visi žuvo.
-- susijęs iš [[objektai/ivykiai/Naugardo pasidavimas Vytautui ir duoklės nustatymas.md#claim-t-186603|Naugardo pasidavimas Vytautui ir duoklės nustatymas]]: Lietuvos metraštis nurodo, kad Naugardas Vytauto iždui kasmet mokėjo dešimt tūkstančių auksinų, žirgus ir kailius, o Pskovas davė pusę tiek.
 - susijęs iš [[objektai/ivykiai/Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.).md#claim-t-183959|Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.)]]: 1295 m. rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius.
-- susijęs iš [[objektai/ivykiai/Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.).md#claim-t-62449|Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.)]]: 1295 m. birželio 19 d. lietuviai saloje prie Ragainės pilies pagrobė brolių žirgus ir galvijus.
 - susijęs iš [[objektai/ivykiai/Skirgailos ir Livonijos magistro Polocko apgultis (1381 m.).md#claim-t-86925|Skirgailos ir Livonijos magistro Polocko apgultis (1381 m.)]]: 1381 m. Skirgaila su Livonijos magistru 12 savaičių laikė apsupę Polocką, bet apgultį nutraukė dėl pokyčių Lietuvoje.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-186580|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vasilijus Dimitrijevičius pavasariop atvyko į Smolenską pas Vytautą ir pagerbė jį brangiomis dovanomis.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-186581|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vytautas apdovanojo Vasilijų, išlydėjo jį į Maskvą ir pats išvyko į Lietuvą.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-186582|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraščio pasakojime Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis, sabalais, brangakmeniais, indais ir bachmatais.
-- susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-05333|Aisčių laidotuvių ir vėlinių apeigos]]: Aisčių laidotuvių apeigose mirusiųjų kapai darėsi turtingesni, o drauge su mirusiaisiais buvo pakasami išpuošti žirgai.
 - susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71802|Husarų vėliavų „draugų“ ir palydos sistema]]: Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.
 - susijęs iš [[objektai/paprociai/Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui.md#claim-t-62710|Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui]]: Po pergalės prūsai aukodavo dievams padėkos auką iš karo grobio, o trečdalį grobio atiduodavo kriviui sudeginti.
 - susijęs iš [[objektai/posakiai/Kai aš atvykau pas didįjį kunigaikštį.md#claim-t-95941|Kai aš atvykau pas didįjį kunigaikštį]]: Henne, keliavęs su Vytautu, atvykęs pas didįjį kunigaikštį rado Vytautą ketvirtą kartą ilsintis kelionėje iš Trakų į Smolenską.
-- susijęs iš [[objektai/posakiai/Palikime savo žirgus toli užpakalyje.md#claim-t-09674|Palikime savo žirgus toli užpakalyje]]: Matas pasiūlė kryžiuočiams palikti žirgus užnugaryje ir pulti priešus pėsčiomis.
-- susijęs iš [[objektai/posakiai/Palikime savo žirgus toli užpakalyje.md#claim-t-09675|Palikime savo žirgus toli užpakalyje]]: „Palikime savo žirgus toli užpakalyje“ reiškė sumanymą atimti kariams viltį trauktis ir priversti juos nevengti mūšio.
 - susijęs iš [[objektai/posakiai/Teisybė, jie niekada nesitraukia.md#claim-t-41466|Teisybė, jie niekada nesitraukia]]: Posakis „Teisybė, jie niekada nesitraukia“ apibūdina raitelius kaip nesitraukiančius ir visu greičiu puolančius.
-- susijęs iš [[objektai/posakiai/aš tą užstatytą arklį paėmiau už savo pinigus.md#claim-t-86853|aš tą užstatytą arklį paėmiau už savo pinigus]]: Formulė „aš tą užstatytą arklį paėmiau už savo pinigus“ buvo žydo priesaikos tekstas ginče dėl vogto žirgo.
 - susijęs iš 1401 m. Vilniaus aktas dėl Lietuvos grįžimo Jogailos valdžion: 1401 m. aktu Vytautas laidavo, kad po jo mirties Lietuva ir Rusia pereis Jogailos valdžion ir bus prijungta prie Lenkijos.
 - susijęs iš Atviras Lietuvos ponų tarybos laiškas dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje (1586 m. gruodžio 13 d.): 1586 m. gruodžio 13 d. Lietuvos ponų taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje ir nurodė pasirūpinti jo nakvyne bei saugumu.
 - susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą: Dinaburgo komtūro laiške pranešta, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.
@@ -142,13 +159,11 @@ Nenurodyta
 - susijęs iš Dubrovna: Jogaila ir Vytautas su savo kariuomenėmis, perėję miškus, priėjo Dubrovnos laukus.
 - susijęs iš Gardinas: Švitrigaila su didžiuoju magistru Konradu Jungingenu nusiaubė prie Gardino buvusius panemunės pavietus.
 - susijęs iš Gardinas: 1586 metų gruodžio 13 dieną Gardine Lietuvos ponų taryba parengė laišką dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje.
-- susijęs iš Lenkija: Lenkijos kunigaikštis, prūsų įbaugintas, duodavo jų pasiuntiniams reikalaujamus žirgus ir ryškiaspalvius drabužius.
 - susijęs iš Lietuva: Švitrigaila, nepatenkintas Vytauto iškėlimu, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.
 - susijęs iš Polockas: 1381 m. Skirgaila su Livonijos magistru dvylika savaičių laikė apsupęs Polocką.
 - susijęs iš Polockas: 1381 m. Skirgaila su Livonijos magistru dvylika savaičių laikė apsupęs Polocką, bet buvo priverstas nutraukti apgultį.
 - susijęs iš Prūsija: 1394 m. Prūsijos ordinas pasinaudojo proga pradėti karą ir niokoti Lietuvą.
 - susijęs iš Prūsija: 1394 m. Prūsijos ordinas pasinaudojo Švitrigailos išvykimu pas kryžiuočius ir pradėjo karą prieš Lietuvą bei Lenkiją.
-- susijęs iš Ragainė: Sekmadienį prieš Jonines lietuviai saloje prie Ragainės pilies pagrobė visus brolių žirgus ir galvijus.
 - susijęs iš Ragainė: Tų pačių metų rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius.
 - susijęs iš Skalvių pilis (pilis, XIII a.): Tų pačių metų rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius.
 - susijęs iš Skalvių pilis (pilis, XIII a.): Tų pačių metų rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius.
@@ -160,15 +175,10 @@ Nenurodyta
 - susijęs iš Vilnius: 1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje.
 - susijęs iš Vilnius: Laiško kopijoje pranešama, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.
 - susijęs iš [[objektai/zodynas/bombarda.md#claim-t-86584|bombarda]]: Bombarda buvo Vokietijoje neseniai išrastas ir Lietuvoje dar nežinomas šaunamasis ginklas.
-- susijęs iš [[objektai/zodynas/duoklė.md#claim-t-187520|duoklė]]: Naugardiečiai kasmet mokėjo Vytautui duoklę auksinais, sunkiaisiais žirgais ir įvairių žvėrių kailiais.
 - susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-113626|gurguolė]]: Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išdrykusi per dvi mylias.
-- susijęs iš [[objektai/zodynas/lengvoji kavalerija.md#claim-t-42478|lengvoji kavalerija]]: Lengvoji kavalerija totoriams suteikė taktinį pranašumą, nes raiteliai su savimi vesdavosi po tris atsarginius žirgus.
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70313|rotmistras]]: Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185340|skitai]]: Kovos pradžioje skitai iš tolo apšaudė priešininkus strėlėmis dar neprasidėjus tikroms kautynėms.
-- susijęs iš [[objektai/zodynas/stabmeldys.md#claim-t-42510|stabmeldys]]: Stabmeldžiai svaidė ietis į krikščionis, o rusai strėlėmis sužeidė daug vyrų ir žirgų.
 - susijęs iš [[objektai/zodynas/vyskupo teisėjas.md#claim-t-42524|vyskupo teisėjas]]: Sembos vyskupo teisėjui Jonui Lonei buvo atimta gyvybė kartu su Gdansko komtūru ir penkiomis dešimtimis prie vėliavos nukautųjų.
-- susijęs iš [[objektai/zodynas/žirgų kapai.md#claim-t-28617|žirgų kapai]]: Terminas „žirgų kapai“ kilo iš papročio šalia sudegintų žmonių lavonų su įkapėmis užkasti nedegintus žirgus.
-- susijęs iš [[objektai/zodynas/žygūnai.md#claim-t-58933|žygūnai]]: Prūsai siųsdavo žygūnus pas Lenkijos kunigaikštį reikalauti žirgų ir ryškiaspalvių drabužių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -194,3 +204,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 611001-612143; hash=758e204c1e1b656e7da0609e1676e4e1cc00a9a712f19586e20634dd09f0358d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Henrikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žirgai: owner_note_path, thing
+  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=1
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žirgai" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

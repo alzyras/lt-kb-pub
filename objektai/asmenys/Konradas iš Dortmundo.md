@@ -24,9 +24,19 @@ Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su vi
   global_id: t-60366
   teiginys: 'Prūsai nužudė Konradą iš Dortmundo su visa jo šeimyna per žemutinių Prūsijos apygardų puolimą.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir apima per daug konteksto; citata palaiko konkretų faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; mentioned_place: Prūsai; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 281668-282235; hash=fbd810cfc8fee7c2e4ef6255320d49409b081726157a9ce12077dc090b2bb886; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konradas iš Dortmundo: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas iš Dortmundo" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -51,3 +61,13 @@ Dusburgietis teigia, kad be to, jie nužudė brolį Konradą iš Dortmundo su vi
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 281668-282235; hash=fbd810cfc8fee7c2e4ef6255320d49409b081726157a9ce12077dc090b2bb886; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konradas iš Dortmundo: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konradas iš Dortmundo" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

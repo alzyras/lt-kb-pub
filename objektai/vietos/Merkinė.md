@@ -38,7 +38,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - t-001
   global_id: t-180304
   teiginys: '1920 m. spalio 7 d. Suvalkų sutartis visą Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Bastūnai; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Suvalkai; mentioned_place: Varėna'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Bastūnai; mentioned_place: Lenkija; mentioned_place: Varėna; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Suvalkai'
   temporaliniai_duomenys: 'sutarties data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -99,12 +99,22 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   global_id: t-180311
   teiginys: '1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną su kunigija ir diduomene.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Merkinę ir atitinka citatos informaciją.'
-  susije_objektai: 'location: Nemunas; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Nemunas'
+  susije_objektai: 'location: Nemunas; mentioned_place: Kaunas; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Nemunas'
   temporaliniai_duomenys: 'kelionės data: 1413 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Nemunas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Merkinę ir atitinka citatos informaciją.'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1a2515800fa1e2a114502bc2ba9211cea27f52a1fa72cbc73d8e055ad442037e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gardinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkinė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkinė" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-180312"></a>
 - t-008
@@ -115,6 +125,16 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d0b02269bff649abbd1e7c96d66f223660e274aa723c85a257b251cf58b7037a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Nemunas: 0.88
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_actor, person, gap=8
+  ryšio_targeto_parinkimas: Nemunas: nearest_after_predicate, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Nemunas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 <a id="claim-t-180313"></a>
 - t-009
@@ -124,6 +144,16 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Adolfas Ramanauskas-Vanagas|Adolfas Ramanauskas-Vanagas]]; mentioned_place: Dainava; mentioned_place: Dzūkija'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 939854-940090; hash=d45df4344845cef5dc262db7bc6668253b72ecd7a19cce5080e5ff0032d13680; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Merkinės puolimas (1945 m. gruodžio 15 d.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkinė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Merkinės puolimas (1945 m. gruodžio 15 d.): mention_match, event, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkinė" parinktas kaip owner_note_path. Targetas "Merkinės puolimas (1945 m. gruodžio 15 d.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-180314"></a>
 - t-010
@@ -136,18 +166,38 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatos fragmentu.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3e0ce1ac25281cb924e63f8a844e6f78e85d1c22af0da78b5419f0bb81b94beb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Adolfas Ramanauskas-Vanagas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkinė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Adolfas Ramanauskas-Vanagas: mention_match, person, gap=125
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkinė" parinktas kaip owner_note_path. Targetas "Adolfas Ramanauskas-Vanagas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-180315"></a>
 - t-011
   global_id: t-180315
   teiginys: '1920 m. spalio 7 d. Suvalkų sutartis Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje.'
   sudarymo_pagrindimas: 'Teiginys buvo nutrūkęs; citata leidžia sudaryti pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Bastūnai; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Suvalkai; mentioned_place: Varėna'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Bastūnai; mentioned_place: Lenkija; mentioned_place: Varėna; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Suvalkai'
   temporaliniai_duomenys: 'sutarties data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys buvo nutrūkęs; citata leidžia sudaryti pilną sakinį.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=edd4e2106e828e25841331bb7b6d157f8aa41c24f0cce4e6cc680fbc280da6fe; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Merkinės puolimas (1945 m. gruodžio 15 d.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkinė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Merkinės puolimas (1945 m. gruodžio 15 d.): mention_match, event, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkinė" parinktas kaip owner_note_path. Targetas "Merkinės puolimas (1945 m. gruodžio 15 d.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-180316"></a>
 - t-012
@@ -156,42 +206,78 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 354582-354850; hash=e76135c8d2469eebae9398acf147d64bdfdacf9bdce59410b80414cabb802b19; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkinė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=80
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkinė" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-180317"></a>
 - t-013
   global_id: t-180317
   teiginys: 'Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos.'
-  susije_objektai: 'location: Nemunas; mentioned_event: Torno taika (1411 m.); mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Aukokalnis; mentioned_place: Betygala; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Torno'
+  susije_objektai: 'location: Nemunas; mentioned_place: Aukokalnis; mentioned_place: Betygala; mentioned_place: Kaunas; mentioned_event: Torno taika (1411 m.); mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Nemunas; mentioned_place: Torno'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1a2515800fa1e2a114502bc2ba9211cea27f52a1fa72cbc73d8e055ad442037e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gardinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkinė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkinė" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-180318"></a>
 - t-014
   global_id: t-180318
   teiginys: 'Nuo Gardino link Merkinės besitęsęs Nemuno aukštupio dešiniojo kranto miškų masyvas buvo ištisai lietuvių gyvenamas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Lazūnai; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nemunas; mentioned_place: Gardinas; mentioned_place: Lazūnai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6c3d9f311db401f0fcf07cc28efbfc8bb9554258fc1de1723dee69434e7797a3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Nemunas: 0.88
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_actor, person, gap=8
+  ryšio_targeto_parinkimas: Nemunas: nearest_after_predicate, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Nemunas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 - susijęs iš Kaunas: 1413 metų rudenį Vytautas ir Jogaila Nemunu keliavo iš Merkinės į Kauną, o iš Kauno plaukė iki Dubysos.
 - susijęs iš Nemunas: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau Nemunu pasiekė Dubysos upę.
 - susijęs iš [[objektai/asmenys/Jonas iš Zabrežjės.md#claim-t-87525|Jonas iš Zabrežjės]]: 1503 m. Vilniuje Jonas iš Zabrežjės dalyvavo rašto išdavimo paliudijime kaip LDK didysis maršalka, Trakų vaivada ir Merkinės laikytojas.
-- susijęs iš [[objektai/asmenys/Kazimieras Skirgaila.md#claim-t-185950|Kazimieras Skirgaila (Lenkijos karalius)]]: Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo.
-- susijęs iš [[objektai/asmenys/Mykolas (Glinsko kunigaikštis).md#claim-t-87557|Mykolas (Glinsko kunigaikštis)]]: 1503 m. Vilniuje duotame rašte dalyvavęs Mykolas įvardytas kaip Glinsko kunigaikštis ir Lietuvos rūmų maršalka.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173248|Vladislovas Jogaila]]: Vladislovas Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.
-- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
 - susijęs iš [[objektai/autoriai/H. Łowmiański.md#claim-t-30633|H. Łowmiański]]: H. Łowmiańskis bandė seniausias lietuvių sienas nukelti iki Merkinės, Eišiškių ir Šalčininkų linijos.
 - susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
-- susijęs iš [[objektai/daiktai/Medinės pilys.md#claim-t-19569|Medinės pilys]]: XIII–XIV a. ant Lietuvos piliakalnių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai.
-- susijęs iš [[objektai/daiktai/Tanketė.md#claim-t-40775|Tanketė]]: Per Merkinės puolimą 1945 m. gruodžio 15 d. plentų kryžkelėje pasirodžiusi tanketė atidengė ugnį į miestelį.
-- susijęs iš [[objektai/daiktai/Vokiškas universalusis kulkosvaidis MG 42.md#claim-t-183689|Vokiškas universalusis kulkosvaidis MG 42]]: Vokiškas universalusis kulkosvaidis MG 42 naudojo 7,92x57 mm Mauser šovinius, svėrė 11,57 kg be trikojo ir šaudė 900–1500 šūvių per minutę.
 - susijęs iš [[objektai/grupes/Merkinės batalionas.md#claim-t-38986|Merkinės batalionas]]: Rugpjūtį Vanago vadovaujama 140 vyrų Merkinės ir Alovės partizanų kuopa buvo performuota į Merkinės batalioną.
 - susijęs iš [[objektai/grupes/Vilniaus gyventojai.md#claim-t-86692|Vilniaus gyventojai]]: Valdovas Vilniaus gyventojų ištikimybę ir prieraišumą paminėjo suteikdamas miestui Magdeburgo teises Merkinėje rašytu aktu.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-183675|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: 1945 m. gruodžio 15 d. 11 val. Adolfas Ramanauskas-Vanagas balta raketa paskelbė Merkinės puolimo pradžią.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66775|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė telkti partizanus Merkinės puolimui.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66776|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Per Merkinės puolimą partizanai užėmė NKVD būstinę, paštą, valsčiaus ir milicijos įstaigas.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66777|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Druskininkų bataliono grupei nenutraukus ryšio linijų tarp Merkinės ir Druskininkų, sovietai susisiekė su Alytumi ir išsikvietė pagalbą.
-- susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66779|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: 1945 m. gruodžio 15 d. 11 val. A. Ramanauskas-Vanagas iššovė baltą raketą ir paskelbė atakos pradžią.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66780|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Prieš Merkinės puolimą 1945 m. gruodžio 5 d. prie Mardasavo NKVD dalinio užklupti žuvo keturi Marcinkonių bataliono partizanai.
+- susijęs iš Merkinės dvaras: Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.
+- susijęs iš Merkinės dvaras: Merkinės dvaro valstiečiai buvo atleisti vien už piniginį mokestį ir gavo savivaldybę.
+- susijęs iš Nemunas: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau Nemunu pasiekė Dubysos upę.
+- susijęs iš Nemunas: Keliautojai Nemunu vyko iš Merkinės į Kauną, o iš ten Nemunu ir Dubysa pasiekė Aukokalnį ties dabartine Betygala.
+- susijęs iš Turgeliai: Prie Turgelių, netoli Vilniaus, buvusio Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.
+- susijęs iš Varėnos, Valkininkų ir Merkinės miškai: Balińskis Varėnos, Valkininkų ir Merkinės miškus priskyrė amžinosioms girioms, esą siekiančioms žmonijos pradžią.
+- susijęs iš [[objektai/asmenys/Kazimieras Skirgaila.md#claim-t-185950|Kazimieras Skirgaila (Lenkijos karalius)]]: Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo.
+- susijęs iš [[objektai/asmenys/Mykolas (Glinsko kunigaikštis).md#claim-t-87557|Mykolas (Glinsko kunigaikštis)]]: 1503 m. Vilniuje duotame rašte dalyvavęs Mykolas įvardytas kaip Glinsko kunigaikštis ir Lietuvos rūmų maršalka.
+- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
+- susijęs iš [[objektai/daiktai/Medinės pilys.md#claim-t-19569|Medinės pilys]]: XIII–XIV a. ant Lietuvos piliakalnių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai.
+- susijęs iš [[objektai/daiktai/Tanketė.md#claim-t-40775|Tanketė]]: Per Merkinės puolimą 1945 m. gruodžio 15 d. plentų kryžkelėje pasirodžiusi tanketė atidengė ugnį į miestelį.
+- susijęs iš [[objektai/daiktai/Vokiškas universalusis kulkosvaidis MG 42.md#claim-t-183689|Vokiškas universalusis kulkosvaidis MG 42]]: Vokiškas universalusis kulkosvaidis MG 42 naudojo 7,92x57 mm Mauser šovinius, svėrė 11,57 kg be trikojo ir šaudė 900–1500 šūvių per minutę.
+- susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66779|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: 1945 m. gruodžio 15 d. 11 val. A. Ramanauskas-Vanagas iššovė baltą raketą ir paskelbė atakos pradžią.
 - susijęs iš [[objektai/ivykiai/Vilniui suteikiamos Magdeburgo teisės (1387 m.).md#claim-t-54696|Vilniui suteikiamos Magdeburgo teisės (1387 m.)]]: Merkinėje rašytu iškilmingu aktu Vilniui buvo suteiktos Magdeburgo teisės.
 - susijęs iš [[objektai/ivykiai/Žemaičių krikštas.md#claim-t-35925|Žemaičių krikštas (krikštas)]]: Žalgirio mūšis ir Torno taika galutinai išsprendė Žemaičių krikšto klausimą.
 - susijęs iš Akmens periodo (mesolithicum-neolithicum) žmogus Žemaitijoje ir Suvalkijoje: J. Žilinsko veikalas „Akmens periodo (mesolithicum-neolithicum) žmogus Žemaitijoje ir Suvalkijoje“ išleistas 1931 m.
@@ -210,16 +296,10 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - susijęs iš Kaunas: 1413 metų rudenį Vytautas ir Jogaila Nemunu keliavo iš Merkinės į Kauną, o iš Kauno plaukė iki Dubysos.
 - susijęs iš Lazūnai: Lazūnai, esantys į rytus nuo Lydos, minimi kaip lietuvių kalbos sala gudiškai kalbančiųjų plote arti Nemuno.
 - susijęs iš Lietuva: Pagal Jogailos su Lenkija sutartį Vytauto valdoma Lietuva ir jai priklausoma Rusia turėjo likti Lenkijos karaliaus valdžioje.
-- susijęs iš Merkinės dvaras: Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.
-- susijęs iš Merkinės dvaras: Merkinės dvaro valstiečiai buvo atleisti vien už piniginį mokestį ir gavo savivaldybę.
-- susijęs iš Nemunas: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau Nemunu pasiekė Dubysos upę.
 - susijęs iš Nemunas: Varėnos, Valkininkų ir Merkinės miškai driekėsi nuo Rūdninkų link Nemuno.
 - susijęs iš Nemunas: Varėnos, Valkininkų ir Merkinės miškai driekėsi nuo Rūdninkų link Nemuno ir Balińskio priskirti amžinosioms girioms.
-- susijęs iš Nemunas: Keliautojai Nemunu vyko iš Merkinės į Kauną, o iš ten Nemunu ir Dubysa pasiekė Aukokalnį ties dabartine Betygala.
 - susijęs iš Subartonys: Viena kovotojų grupė nuvyko Subartonių miško link sulaikyti galimo pastiprinimo iš Alytaus.
 - susijęs iš Turgeliai: Merkinės dvaro prie Turgelių valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.
-- susijęs iš Turgeliai: Prie Turgelių, netoli Vilniaus, buvusio Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.
-- susijęs iš Varėnos, Valkininkų ir Merkinės miškai: Balińskis Varėnos, Valkininkų ir Merkinės miškus priskyrė amžinosioms girioms, esą siekiančioms žmonijos pradžią.
 - susijęs iš Vilnius: Karalius Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.
 - susijęs iš [[objektai/zodynas/Lietuvos didysis kunigaikštis.md#claim-t-185374|Lietuvos didysis kunigaikštis]]: Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113643|Magdeburgo teisės]]: Vladislovas Jogaila Merkinėje rašytu aktu kitą dieną po Šv. Benedikto, abato, šventės suteikė Vilniui Magdeburgo teises.
@@ -259,6 +339,16 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6c3d9f311db401f0fcf07cc28efbfc8bb9554258fc1de1723dee69434e7797a3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Nemunas: 0.88
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_actor, person, gap=8
+  ryšio_targeto_parinkimas: Nemunas: nearest_after_predicate, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Nemunas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
     - t-001
     - t-011
 
@@ -291,7 +381,27 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=edd4e2106e828e25841331bb7b6d157f8aa41c24f0cce4e6cc680fbc280da6fe; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Merkinės puolimas (1945 m. gruodžio 15 d.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkinė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Merkinės puolimas (1945 m. gruodžio 15 d.): mention_match, event, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkinė" parinktas kaip owner_note_path. Targetas "Merkinės puolimas (1945 m. gruodžio 15 d.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3e0ce1ac25281cb924e63f8a844e6f78e85d1c22af0da78b5419f0bb81b94beb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Adolfas Ramanauskas-Vanagas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkinė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Adolfas Ramanauskas-Vanagas: mention_match, person, gap=125
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkinė" parinktas kaip owner_note_path. Targetas "Adolfas Ramanauskas-Vanagas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
 
 - c-004
@@ -326,7 +436,27 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d0b02269bff649abbd1e7c96d66f223660e274aa723c85a257b251cf58b7037a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Nemunas: 0.88
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): nearest_actor, person, gap=8
+  ryšio_targeto_parinkimas: Nemunas: nearest_after_predicate, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Nemunas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
     - t-012
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 354582-354850; hash=e76135c8d2469eebae9398acf147d64bdfdacf9bdce59410b80414cabb802b19; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkinė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=80
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkinė" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-006
@@ -402,6 +532,16 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1a2515800fa1e2a114502bc2ba9211cea27f52a1fa72cbc73d8e055ad442037e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gardinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkinė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkinė" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-009
 
 - c-009
@@ -418,6 +558,16 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 939854-940090; hash=d45df4344845cef5dc262db7bc6668253b72ecd7a19cce5080e5ff0032d13680; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Merkinės puolimas (1945 m. gruodžio 15 d.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkinė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Merkinės puolimas (1945 m. gruodžio 15 d.): mention_match, event, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkinė" parinktas kaip owner_note_path. Targetas "Merkinės puolimas (1945 m. gruodžio 15 d.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-010
@@ -436,8 +586,18 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1a2515800fa1e2a114502bc2ba9211cea27f52a1fa72cbc73d8e055ad442037e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gardinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkinė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkinė" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Merkinė
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Merkinė
+- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Merkinė

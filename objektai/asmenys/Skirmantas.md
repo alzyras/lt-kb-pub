@@ -22,9 +22,19 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia trumpesnį faktą apie Skirmantą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mingaila|Mingaila]]; mentioned_place: Naugardukas'
+  susije_objektai: 'mentioned_place: Naugardukas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mingaila|Mingaila]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 135595-136020; hash=aaad68b367b4999dcb9e67b8699b2f9037fe439512a8a2e671c94cee3cfc6827; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Naugardukas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skirmantas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Naugardukas: mention_match, place, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirmantas" parinktas kaip owner_note_path. Targetas "Naugardukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186015"></a>
 - t-002
@@ -37,6 +47,16 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Jaselda'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 137475-138081; hash=94866a8dcd2ee40192e2703150b1ed556929501b8794c28a6ddf67258f5c0d56; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jaselda: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skirmantas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jaselda: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirmantas" parinktas kaip owner_note_path. Targetas "Jaselda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-186016"></a>
 - t-003
@@ -46,13 +66,20 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Karačevas; mentioned_place: Severskas'
+  susije_objektai: 'mentioned_place: Karačevas; mentioned_place: Severskas; mentioned_object: [[objektai/zodynas/skitai|skitai]]'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 140304-140658; hash=c6b27c30448a9fcf0ea9dbd2e890bd7a9bb633e11f3f1f04226638fd9ef46ae0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Karačevas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skirmantas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Karačevas: mention_match, place, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirmantas" parinktas kaip owner_note_path. Targetas "Karačevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Mingaila.md#claim-t-184791|Mingaila]]: Po pergalės prie Polocko Mingaila netrukus mirė, įpėdiniais palikdamas Skirmantą ir Ginvilą.
-- susijęs iš [[objektai/asmenys/Mstislavas Romanovičius.md#claim-t-186072|Mstislavas Romanovičius]]: Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187746|Totoriai]]: Lietuvos metraštyje totorių chanas su sutelktomis ordomis patraukė į Rusų žemę ir, pasak kronikos, padarė jai daug žalos.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187488|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraščio pasakojime Skirmantas liepė sužaloti Balaklajaus pasiuntinius, o kitais metais chanas patraukė į Rusų žemę.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187489|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis teigia, kad Skirmantas prie Kaidanovo nugalėjo chaną Balaklajų ir nukovė jį mūšyje.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187490|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus.
@@ -60,6 +87,9 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
 - susijęs iš Jaselda: Prie Jaseldos upės Skirmanto pajėgos sumušė Mstislavą, kuris praradęs kariuomenę paspruko į Lucką.
 - susijęs iš Kaidanovas: Lietuvos metraštyje Kaidanovas vaizduojamas kaip vieta prie Skirmanto sienos, kur jis pasitiko chano pajėgas.
 - susijęs iš Kaidanovas: Lietuvos metraštyje pasakojama, kad Kaidanove Skirmantas pasitiko chano pajėgas, jas sumušė ir nukovė patį chaną.
+- susijęs iš [[objektai/asmenys/Ginvilas.md#claim-t-186111|Ginvilas]]: Po Mingailos mirties Ginvilas paveldėjo tėvo valdžią Polocke.
+- susijęs iš [[objektai/asmenys/Mstislavas Romanovičius.md#claim-t-186072|Mstislavas Romanovičius]]: Mstislavas Romanovičius prie Jaseldos upės buvo sumuštas, prarado kariuomenę ir vos gyvas paspruko į Lucką.
+- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187746|Totoriai]]: Lietuvos metraštyje totorių chanas su sutelktomis ordomis patraukė į Rusų žemę ir, pasak kronikos, padarė jai daug žalos.
 - susijęs iš Karačevas: Lietuvos metraštis pasakoja, kad po Skirmanto mirties Liubartas sėdo valdyti Karačevą ir ėmė tituluotis Karačevo kunigaikščiu.
 - susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
 - susijęs iš Karačevas: Lietuvos metraštis Liubartą sieja su Karačevo valdymu ir Karačevo kunigaikščio titulu.
@@ -130,6 +160,16 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 135595-136020; hash=aaad68b367b4999dcb9e67b8699b2f9037fe439512a8a2e671c94cee3cfc6827; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Naugardukas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skirmantas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Naugardukas: mention_match, place, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirmantas" parinktas kaip owner_note_path. Targetas "Naugardukas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -148,4 +188,27 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 137475-138081; hash=94866a8dcd2ee40192e2703150b1ed556929501b8794c28a6ddf67258f5c0d56; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jaselda: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skirmantas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jaselda: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirmantas" parinktas kaip owner_note_path. Targetas "Jaselda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 140304-140658; hash=c6b27c30448a9fcf0ea9dbd2e890bd7a9bb633e11f3f1f04226638fd9ef46ae0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Karačevas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skirmantas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Karačevas: mention_match, place, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skirmantas" parinktas kaip owner_note_path. Targetas "Karačevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Skirmantas uzeme [[objektai/vietos/Starodubas]]

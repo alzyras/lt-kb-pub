@@ -32,6 +32,9 @@ Dusburgietis teigia, kad trautmann R.
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia leidimo vietą ir metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 800320-800382; hash=0878595bf48b09cc0986c329620b6a2d8a99cd9a39c32a340dadf7d5fdaadbdb; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -45,3 +48,6 @@ Dusburgietis teigia, kad trautmann R.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 800320-800382; hash=0878595bf48b09cc0986c329620b6a2d8a99cd9a39c32a340dadf7d5fdaadbdb; match=exact
+  sprendimo_priezastis: auto

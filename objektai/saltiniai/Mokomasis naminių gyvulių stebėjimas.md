@@ -23,6 +23,9 @@ Raikovo, NAMINIŲ GYVULIŲ MOKOMASAI STEBĖJIMAS Gausiai iliustruota — apie 60
   teiginys: 'Prof. Raikovo „Mokomasis naminių gyvulių stebėjimas“, redaguotas V. Ruzgo, aiškino, kaip geriau pažinti naminius gyvulius.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 738745-739090; hash=7b942c30dbe79c281b259279ead5ac651af6d34d90f1983f4400840a629865c6; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -41,3 +44,6 @@ Raikovo, NAMINIŲ GYVULIŲ MOKOMASAI STEBĖJIMAS Gausiai iliustruota — apie 60
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 738745-739090; hash=7b942c30dbe79c281b259279ead5ac651af6d34d90f1983f4400840a629865c6; match=exact
+  sprendimo_priezastis: auto

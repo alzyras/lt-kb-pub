@@ -30,6 +30,9 @@ Prochaska, Nieznany akt homogialny Witolda, Kwartalnik histor.
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=86544386342aec28f073e00d30e221ee77fbbb7a9a5c34b3c33053cb22812908; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -45,3 +48,6 @@ Prochaska, Nieznany akt homogialny Witolda, Kwartalnik histor.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=86544386342aec28f073e00d30e221ee77fbbb7a9a5c34b3c33053cb22812908; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

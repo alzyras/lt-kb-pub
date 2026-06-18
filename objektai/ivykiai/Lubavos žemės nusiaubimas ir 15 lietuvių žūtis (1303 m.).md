@@ -44,12 +44,22 @@ Nenurodyta
   teiginys: '1303 m. penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę, apiplėšė daug kaimų ir paėmė į nelaisvę arba nukovė daugybę krikščionių.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata remia faktą, o pradinis tekstas yra nutrūkęs ir su boilerplate.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; mentioned_place: Lubava; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lubava; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1303 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia faktą, o pradinis tekstas yra nutrūkęs ir su boilerplate.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 615540-616105; hash=f931e0c907248a1d5822b2673cb205f0e279435120e24bd83b0af0a0b1d3b0dd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lubava: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lubavos žemės nusiaubimas ir 15 lietuvių žūtis (1303 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lubava: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubavos žemės nusiaubimas ir 15 lietuvių žūtis (1303 m.)" parinktas kaip owner_note_path. Targetas "Lubava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -70,3 +80,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 615540-616105; hash=f931e0c907248a1d5822b2673cb205f0e279435120e24bd83b0af0a0b1d3b0dd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lubava: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lubavos žemės nusiaubimas ir 15 lietuvių žūtis (1303 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lubava: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lubavos žemės nusiaubimas ir 15 lietuvių žūtis (1303 m.)" parinktas kaip owner_note_path. Targetas "Lubava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

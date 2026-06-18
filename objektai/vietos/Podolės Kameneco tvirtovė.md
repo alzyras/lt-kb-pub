@@ -30,12 +30,22 @@ Turkai, nujausdami lenkų ir lietuvių ir privertė ją Atėjo žinia, kad Turki
   global_id: t-38639
   teiginys: 'Turkai stiprino įtvirtinimus prie Podolės Kameneco tvirtovės, numatydami lenkų ir lietuvių puolimo kryptį.'
   sudarymo_pagrindimas: 'Citata dėl OCR triukšmo patikimai paremia įtvirtinimų stiprinimą, bet ne aiškų kariuomenės sutelkimą ten.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Chotinas; mentioned_place: Kamenecas; mentioned_place: Podolė; mentioned_place: Turkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kamenecas; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Chotinas; mentioned_place: Turkija'
   temporaliniai_duomenys: 'įvykio data: 1621 m.; įvykio data: 1673 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata dėl OCR triukšmo patikimai paremia įtvirtinimų stiprinimą, bet ne aiškų kariuomenės sutelkimą ten.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 528537-529046; hash=540f684376a75a19f6b155620f65a6ef60cd95a214943ed14fadeb2ec458f48b; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kamenecas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Podolės Kameneco tvirtovė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kamenecas: mention_match, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolės Kameneco tvirtovė" parinktas kaip owner_note_path. Targetas "Kamenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -56,3 +66,13 @@ Turkai, nujausdami lenkų ir lietuvių ir privertė ją Atėjo žinia, kad Turki
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 528537-529046; hash=540f684376a75a19f6b155620f65a6ef60cd95a214943ed14fadeb2ec458f48b; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kamenecas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Podolės Kameneco tvirtovė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kamenecas: mention_match, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Podolės Kameneco tvirtovė" parinktas kaip owner_note_path. Targetas "Kamenecas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

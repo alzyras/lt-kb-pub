@@ -21,11 +21,21 @@ Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vl
 - t-001
   global_id: t-36173
   teiginys: 'Cholmo stačiatikių vyskupas kartu su kitais vyskupais išleido aplinkraštį dėl savo teisių gynimo nuo Rusijos metropolitų.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.)|Naugarduko susirinkimas (1415 m.)]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Rusija; mentioned_place: Turovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Rusija; mentioned_event: [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.)|Naugarduko susirinkimas (1415 m.)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Turovas'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93284|Gregorijus Cemblakas]]: Naugarduko susirinkimas paskyrė Gregorijų Cemblaką Kijevo metropolitu.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a329b84cbaa029aefd6d1e4b1f95c82cb7bd7544cc32ed541388c9c99c42f5f9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Cholmas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=101
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cholmas" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78616|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: Kristupo Radvilos pajėgos nusiaubė Dubno ir Opokos apylinkes, užėmė Cholmą ir sudegino Starają Rusą.
+- susijęs iš [[objektai/asmenys/Gregorijus Cemblakas.md#claim-t-93284|Gregorijus Cemblakas]]: Naugarduko susirinkimas paskyrė Gregorijų Cemblaką Kijevo metropolitu.
 - susijęs iš [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.).md#claim-t-34490|Naugarduko susirinkimas (1415 m.)]]: Naugarduko susirinkimas pasiuntė delegaciją dėl kito Kijevo metropolito, tačiau ji nieko nelaimėjo.
 - susijęs iš Turovas: Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie teisių gynimą nuo Rusijos metropolitų.
 - susijęs iš Černigovas: Černigovo stačiatikių vyskupas dalyvavo susirinkime, kuris paskyrė Cemblaką Kijevo metropolitu.
@@ -47,3 +57,13 @@ Susirinkusieji stačiatikių vyskupai: Polocko, Smolensko, Lucko, Černigovo, Vl
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a329b84cbaa029aefd6d1e4b1f95c82cb7bd7544cc32ed541388c9c99c42f5f9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Cholmas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=101
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cholmas" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

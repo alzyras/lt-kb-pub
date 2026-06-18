@@ -51,12 +51,22 @@ Nenurodyta
   global_id: t-87020
   teiginys: '1323 m. per Užgavėnes lietuviai įsiveržė į Revelio žemę ir Dorpato vyskupiją, pagrobė 4000 žmonių ir sudegino 42 parapijų bažnyčias su sakramentais.'
   sudarymo_pagrindimas: 'Reikia patikslinti, kad sudegintos bažnyčios buvo su sakramentais, kaip nurodyta citatoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Revelis'
+  susije_objektai: 'mentioned_place: Dorpatas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Livonija; mentioned_place: Revelis'
   temporaliniai_duomenys: 'įvykio data: 1323 m.; įvykio data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia patikslinti, kad sudegintos bažnyčios buvo su sakramentais, kaip nurodyta citatoje.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a340163549035db23317411fe19234f3335be22e9d9fc59bac86ec70773fd980; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87021"></a>
 - t-002
@@ -66,6 +76,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Brodnica; mentioned_place: Dobrynė; mentioned_place: Drevenca; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 165764-166259; hash=556e7757048022aa842d31b1adacf9766eda970c4e392645c18ed0c876b39b33; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Brodnica: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Brodnica: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste" parinktas kaip owner_note_path. Targetas "Brodnica" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -123,4 +143,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 165764-166259; hash=556e7757048022aa842d31b1adacf9766eda970c4e392645c18ed0c876b39b33; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Brodnica: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Brodnica: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste" parinktas kaip owner_note_path. Targetas "Brodnica" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a340163549035db23317411fe19234f3335be22e9d9fc59bac86ec70773fd980; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dorpatas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Dorpatas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

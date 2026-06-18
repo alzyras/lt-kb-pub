@@ -29,12 +29,22 @@ Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulric
   global_id: t-60450
   teiginys: '1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo karius, nukovė 55 lietuvius ir atsiėmė visą grobį.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; sutrumpinta iki aiškaus fakto apie asmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_place: Gardinas; mentioned_place: Prūsija; mentioned_place: Tepliava'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Gardinas; mentioned_place: Prūsija; mentioned_place: Tepliava'
   temporaliniai_duomenys: 'įvykio data: 1319 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs; sutrumpinta iki aiškaus fakto apie asmenį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 664016-664825; hash=646b5499244280ae33cb655ebfd9c9453690212e55968ea12d450cf427aeb79d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fridrichas Kvicas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrichas iš Drinlevės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Fridrichas Kvicas: mention_match, person, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrichas iš Drinlevės" parinktas kaip owner_note_path. Targetas "Fridrichas Kvicas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-184065|Fridrichas Kvicas]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo iš Gardino vyrus, nukovė 55 lietuvius ir atsiėmė jų grobį.
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59958|Fridrichas Kvicas]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo iš Gardino vyrus, nukovė 55 lietuvius ir atsiėmė jų grobį.
 ## Reikšmingi paminėjimai
@@ -59,4 +69,24 @@ Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulric
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 664016-664825; hash=646b5499244280ae33cb655ebfd9c9453690212e55968ea12d450cf427aeb79d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fridrichas Kvicas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrichas iš Drinlevės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Fridrichas Kvicas: mention_match, person, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrichas iš Drinlevės" parinktas kaip owner_note_path. Targetas "Fridrichas Kvicas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 664016-664825; hash=646b5499244280ae33cb655ebfd9c9453690212e55968ea12d450cf427aeb79d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fridrichas Kvicas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ulrichas iš Drinlevės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Fridrichas Kvicas: mention_match, person, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ulrichas iš Drinlevės" parinktas kaip owner_note_path. Targetas "Fridrichas Kvicas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

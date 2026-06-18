@@ -24,9 +24,19 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   global_id: t-60016
   teiginys: 'Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos tėvas, gerai žinojęs Sembos karių galią.'
   sudarymo_pagrindimas: 'Pašalinta perteklinė konteksto įžanga, palikta informacija apie asmenį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Baiga; mentioned_place: Medenava; mentioned_place: Semba; mentioned_place: Viena; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_place: Medenava; mentioned_place: Semba; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Baiga; mentioned_place: Viena; mentioned_place: Čekija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=af6ddca93ca80cf949c90e3d91580943a3e0547625fe188fc923aeda454a9671; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medenava: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gedūnas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Medenava: mention_match, place, gap=67
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedūnas" parinktas kaip owner_note_path. Targetas "Medenava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60017"></a>
 - t-002
@@ -36,6 +46,16 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Ringėlas|Ringėlas]]; mentioned_place: Semba'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 345119-345853; hash=7fc38c013444dbd94ca990eaca5120d23e5b6f265518c23bab277d283699a722; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Semba: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gedūnas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Semba: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedūnas" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-60018"></a>
 - t-003
@@ -45,6 +65,16 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   susije_objektai: 'mentioned_place: Semba'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 345672-346325; hash=4fda609748dd71beb6fcc9e1bd7e6f31c523ba2a6b57accffe605a13abe241cd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ringėlas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gedūnas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ringėlas: mention_match, person, gap=73
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedūnas" parinktas kaip owner_note_path. Targetas "Ringėlas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -87,6 +117,16 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 345672-346325; hash=4fda609748dd71beb6fcc9e1bd7e6f31c523ba2a6b57accffe605a13abe241cd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ringėlas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gedūnas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ringėlas: mention_match, person, gap=73
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedūnas" parinktas kaip owner_note_path. Targetas "Ringėlas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -105,6 +145,16 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=af6ddca93ca80cf949c90e3d91580943a3e0547625fe188fc923aeda454a9671; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medenava: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gedūnas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Medenava: mention_match, place, gap=67
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedūnas" parinktas kaip owner_note_path. Targetas "Medenava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-004
@@ -125,4 +175,24 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 345119-345853; hash=7fc38c013444dbd94ca990eaca5120d23e5b6f265518c23bab277d283699a722; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Semba: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gedūnas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Semba: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedūnas" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 345255-346111; hash=2bc16829a1587fb3f1a3c99cf138ee41ff6e72a166ce1e4a1d2516f548bebd4f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Semba: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gedūnas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Semba: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gedūnas" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

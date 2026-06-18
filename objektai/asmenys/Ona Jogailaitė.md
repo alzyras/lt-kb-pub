@@ -52,9 +52,19 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 - t-001
   global_id: t-54979
   teiginys: 'Karalaitė Ona (Ona Jogailaitė) testamente paskelbta viena iš valdų, dvarų ir kito turto paveldėtojų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Braunsbergas; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Braunsbergas; mentioned_place: Vilnius; mentioned_place: Švedija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 658650-659417; hash=4735018b9494bb79ba34901fccb2ab0e93d017aea1414e675856aed6742c0cca; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54980"></a>
 - t-002
@@ -63,14 +73,34 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Braunsbergas; mentioned_place: Vilnius; mentioned_place: Švedija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 658650-659417; hash=4735018b9494bb79ba34901fccb2ab0e93d017aea1414e675856aed6742c0cca; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Braunsbergas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Braunsbergas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Braunsbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-54981"></a>
 - t-003
   global_id: t-54981
   teiginys: 'Karalaitei Onai (Onai Jogailaitei) turėjo būti atiduotas kraitis ir tūkstantis raudonųjų vengriškų zlotų auksu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Braunsbergas; mentioned_place: Ispanija; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Neapolis; mentioned_place: Vengrija; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Braunsbergas; mentioned_place: Ispanija; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Neapolis; mentioned_place: Vengrija; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Švedija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 661802-663918; hash=3d8dc8f05998dd845322fd62063a65e3f99d6d337f4a40e91d860de5064ecd97; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Ona Vytautienė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ona Vytautienė: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Ona Vytautienė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54982"></a>
 - t-004
@@ -79,22 +109,52 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Auksinė'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 667237-667778; hash=41a03e30839e3087c6e33b2e5b3dc52e4f201b4c7c8a7a413b3613c85b56f661; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Ona Vytautienė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ona Vytautienė: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Ona Vytautienė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54983"></a>
 - t-005
   global_id: t-54983
   teiginys: 'Karalaitei Onai (Onai Jogailaitei) buvo dovanojami karalienės Barboros apdarai, vežimai, virtuvės rykai ir manta.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Rykai|Rykai]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Gzovskis|Gzovskis]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Rykai|Rykai]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Gzovskis|Gzovskis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 670663-672645; hash=22f2c9e9e4aff36f666d6aed19e396fcf41e7978a9d452dc052173a1c114b0ee; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Barbora Radvilaitė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Barbora Radvilaitė: mention_match, person, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Barbora Radvilaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54984"></a>
 - t-006
   global_id: t-54984
   teiginys: 'Karalaitė Ona (Ona Jogailaitė) buvo prašoma prisidėti prie valios vykdymo ir Šv. Onos bažnyčios užbaigimo.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_object: [[objektai/zodynas/mansionieriai|mansionieriai]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Šv. Onos bažnyčia'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Šv. Onos bažnyčia; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_object: [[objektai/zodynas/mansionieriai|mansionieriai]]'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 673263-673913; hash=497b983da1b74d0131972e0880eb2d4e634b00d85d134f4dd29d64c6d39adaca; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Ona Vytautienė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ona Vytautienė: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Ona Vytautienė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54985"></a>
 - t-007
@@ -103,14 +163,34 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Švedija'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 679500-680900; hash=f02907f7490da3b39817db3915cbfc3a16db338fe1c6ac16627d40ff85e5f265; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Ona Vytautienė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ona Vytautienė: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Ona Vytautienė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54986"></a>
 - t-008
   global_id: t-54986
   teiginys: 'Karalaitei Onai (Onai Jogailaitei) palikta spręsti dėl Šv. Onos bažnyčios užbaigimo ir laiškų sudeginimo.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vienaragis (pabūklas)|Vienaragis (pabūklas)]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Vilnius; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_object: [[objektai/daiktai/Vienaragis (pabūklas)|Vienaragis (pabūklas)]]; mentioned_place: Vilnius; mentioned_place: Švedija'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 680733-681831; hash=e969d5ff9c22fb09acc0ce752984239b045bf53615257c913a945ace8503e14e; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Ona Vytautienė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ona Vytautienė: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Ona Vytautienė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-82639"></a>
 - t-009
@@ -120,6 +200,16 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Lenkija; mentioned_place: Švedija'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 679500-680900; hash=f02907f7490da3b39817db3915cbfc3a16db338fe1c6ac16627d40ff85e5f265; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Kotryna Jogailaitė.md#claim-t-87401|Kotryna Jogailaitė]]: Karalaitė Ona turėjo dalį jai perduoto turto atiduoti Kotrynai Jogailaitei, Švedijos karalienei.
 - susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Karalaitė Ona buvo prašoma prisidėti, kad Šv. Onos bažnyčia būtų užbaigta, o jos dvasininkai aprūpinti.
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Karalaitė Ona buvo prašoma prisidėti, kad Šv. Onos bažnyčia būtų užbaigta, o jos dvasininkai aprūpinti.
@@ -147,6 +237,16 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 658650-659417; hash=4735018b9494bb79ba34901fccb2ab0e93d017aea1414e675856aed6742c0cca; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-002
@@ -197,6 +297,16 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 658650-659417; hash=4735018b9494bb79ba34901fccb2ab0e93d017aea1414e675856aed6742c0cca; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Braunsbergas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Braunsbergas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Braunsbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-003
@@ -216,6 +326,16 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 661802-663918; hash=3d8dc8f05998dd845322fd62063a65e3f99d6d337f4a40e91d860de5064ecd97; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Ona Vytautienė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ona Vytautienė: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Ona Vytautienė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-004
@@ -259,6 +379,16 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 667237-667778; hash=41a03e30839e3087c6e33b2e5b3dc52e4f201b4c7c8a7a413b3613c85b56f661; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Ona Vytautienė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ona Vytautienė: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Ona Vytautienė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-005
@@ -280,6 +410,16 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 670663-672645; hash=22f2c9e9e4aff36f666d6aed19e396fcf41e7978a9d452dc052173a1c114b0ee; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Barbora Radvilaitė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Barbora Radvilaitė: mention_match, person, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Barbora Radvilaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-006
@@ -308,6 +448,16 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 673263-673913; hash=497b983da1b74d0131972e0880eb2d4e634b00d85d134f4dd29d64c6d39adaca; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Ona Vytautienė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ona Vytautienė: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Ona Vytautienė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-007
@@ -347,5 +497,35 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 680733-681831; hash=e969d5ff9c22fb09acc0ce752984239b045bf53615257c913a945ace8503e14e; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Ona Vytautienė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ona Vytautienė: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Ona Vytautienė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 679500-680900; hash=f02907f7490da3b39817db3915cbfc3a16db338fe1c6ac16627d40ff85e5f265; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 679500-680900; hash=f02907f7490da3b39817db3915cbfc3a16db338fe1c6ac16627d40ff85e5f265; match=whitespace_regex
+  sprendimo_priezastis: gap::people
+  ryšio_patikimumas: susije_su -> Ona Vytautienė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ona Jogailaitė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ona Vytautienė: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ona Jogailaitė" parinktas kaip owner_note_path. Targetas "Ona Vytautienė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

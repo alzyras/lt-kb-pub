@@ -26,6 +26,16 @@ Dusburgietis teigia, kad toje pilyje gyveno kilmingasis brolis Hermanas iš Lich
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 422164-422846; hash=2d0a56c8a0a8453af6acc79e233b57e1052f643287b4e0c80a9a53363a682bdb; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Balti vilnoniai marškiniai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Hermanas iš Lichtenburgo: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Balti vilnoniai marškiniai: mention_match, thing, gap=90
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas iš Lichtenburgo" parinktas kaip owner_note_path. Targetas "Balti vilnoniai marškiniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -47,4 +57,24 @@ Dusburgietis teigia, kad toje pilyje gyveno kilmingasis brolis Hermanas iš Lich
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 422164-422846; hash=2d0a56c8a0a8453af6acc79e233b57e1052f643287b4e0c80a9a53363a682bdb; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Balti vilnoniai marškiniai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Hermanas iš Lichtenburgo: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Balti vilnoniai marškiniai: mention_match, thing, gap=90
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas iš Lichtenburgo" parinktas kaip owner_note_path. Targetas "Balti vilnoniai marškiniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 422164-422846; hash=2d0a56c8a0a8453af6acc79e233b57e1052f643287b4e0c80a9a53363a682bdb; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Balti vilnoniai marškiniai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Hermanas iš Lichtenburgo: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Balti vilnoniai marškiniai: mention_match, thing, gap=90
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hermanas iš Lichtenburgo" parinktas kaip owner_note_path. Targetas "Balti vilnoniai marškiniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -27,6 +27,16 @@ Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su s
   semantiniai_rysiai: '[[objektai/asmenys/Geremferdenas|Geremferdenas]] keliavo į Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 335059-335692; hash=b590650ae93d2a2b3aaa1256f3f91aa125878d0cc91211497254603ed901987d; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Geremferdenas: owner_note_path, person, gap=57
+  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Geremferdenas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -54,6 +64,16 @@ Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su s
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 335059-335692; hash=b590650ae93d2a2b3aaa1256f3f91aa125878d0cc91211497254603ed901987d; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Geremferdenas: owner_note_path, person, gap=57
+  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Geremferdenas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Geremferdenas keliavo_i [[objektai/vietos/Vilnius]]

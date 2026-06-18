@@ -24,9 +24,19 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
   global_id: t-86577
   teiginys: 'Vidivarijų vardas, Jornandeso duotas tautai prie Vyslos žiočių, aiškintas kaip įvairių tautų sambūrio nomen sociale.'
   sudarymo_pagrindimas: 'Citata palaiko aiškinimą, kad tai bendruomenės, o ne vienos giminės vardas.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Thunmanas|Thunmanas]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vidivarii|Vidivarii]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Gardinas; mentioned_place: Vilija; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Vysla; mentioned_author: [[objektai/autoriai/Thunmanas|Thunmanas]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vidivarii|Vidivarii]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Gardinas; mentioned_place: Vilija; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dc860b9b062ebdb222d6e9f803d50cd20effcc812cb78e1d785693a6ecb40a8e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vysla: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vidivarijai nomen gentile nomen sociale: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vysla: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vidivarijai nomen gentile nomen sociale" parinktas kaip owner_note_path. Targetas "Vysla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -63,3 +73,13 @@ Tikrai tikėtina, jog vardas tautos, įsikūru­ sios prie Vyslos žiočių - vi
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dc860b9b062ebdb222d6e9f803d50cd20effcc812cb78e1d785693a6ecb40a8e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vysla: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vidivarijai nomen gentile nomen sociale: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vysla: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vidivarijai nomen gentile nomen sociale" parinktas kaip owner_note_path. Targetas "Vysla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -37,6 +37,16 @@ Dusburgietis teigia, kad varakauskas R.
   temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį įrašą, todėl galima suformuluoti faktą apie publikaciją.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 802300-802476; hash=697671acc10611a49e0d087104724410baff4b6a9f7fee73b4e9cc6725864259; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Varakauskas R. Kautynės ties Ašerade (1279 m.) Iš lietuvių kovų prieš Livonijos ordiną XIII a: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varakauskas R. Kautynės ties Ašerade (1279 m.) Iš lietuvių kovų prieš Livonijos ordiną XIII a" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -52,3 +62,13 @@ Dusburgietis teigia, kad varakauskas R.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 802300-802476; hash=697671acc10611a49e0d087104724410baff4b6a9f7fee73b4e9cc6725864259; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Varakauskas R. Kautynės ties Ašerade (1279 m.) Iš lietuvių kovų prieš Livonijos ordiną XIII a: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varakauskas R. Kautynės ties Ašerade (1279 m.) Iš lietuvių kovų prieš Livonijos ordiną XIII a" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -43,12 +43,22 @@ PUB = Preussisches Urkundenbuch, t.
   global_id: t-67524
   teiginys: '„Preussisches Urkundenbuch“ nurodomas prie teiginio, kad Kristijonas 1215 m. antroje pusėje arba 1216 m. pradžioje paskelbtas pirmuoju Prūsijos vyskupu.'
   sudarymo_pagrindimas: 'Teiginį reikia susieti su šaltinio objektu, nes citatoje jis pateiktas kaip bibliografinė nuoroda.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]'
   temporaliniai_duomenys: 'įvykio data: 1215 m.; įvykio data: 1216 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginį reikia susieti su šaltinio objektu, nes citatoje jis pateiktas kaip bibliografinė nuoroda.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 130483-131389; hash=ba173c26e8365b3bea205fb8ee81fc91908956fe9514d40ea9fcb135db82ebb4; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kristijonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Preussisches Urkundenbuch: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Preussisches Urkundenbuch" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -85,3 +95,13 @@ PUB = Preussisches Urkundenbuch, t.
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 130483-131389; hash=ba173c26e8365b3bea205fb8ee81fc91908956fe9514d40ea9fcb135db82ebb4; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kristijonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Preussisches Urkundenbuch: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Preussisches Urkundenbuch" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -42,6 +42,9 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f3e639e640f10fea9440e132b7b27dececf7d3e47fb40ddeb329353c61056311; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 <a id="claim-t-66635"></a>
 - t-002
   global_id: t-66635
@@ -50,6 +53,9 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 888305-888578; hash=d7c9e34330b4e0f5464c284f0773ac4017146bb9f44316c65ac9c05a44e4b470; match=exact
+  sprendimo_priezastis: auto
 <a id="claim-t-66637"></a>
 - t-003
   global_id: t-66637
@@ -58,6 +64,9 @@ Nenurodyta
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=528752ae53c9350dd002427a2dbe1351082c763359b9e67d04d2e7aca5682e31; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -98,6 +107,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f3e639e640f10fea9440e132b7b27dececf7d3e47fb40ddeb329353c61056311; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
 - c-003
   santrauka: 'Kosciuška leido atsišaukimus, žadėdamas laisvę prie sukilimo prisidėjusiems valstiečiams; tokių atsišaukimų buvo ir lietuviškų.'
@@ -116,4 +128,10 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 888305-888578; hash=d7c9e34330b4e0f5464c284f0773ac4017146bb9f44316c65ac9c05a44e4b470; match=exact
+  sprendimo_priezastis: auto
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=528752ae53c9350dd002427a2dbe1351082c763359b9e67d04d2e7aca5682e31; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

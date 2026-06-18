@@ -36,28 +36,58 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
   susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_person: [[objektai/asmenys/Maudelis|Maudelis]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 352766-353333; hash=4cbc38b15b3499df5bf85aab66b51aaa443c2c89cc609acdf8d9b49fa3d17bb4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maudelis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tirskas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maudelis: mention_match, person, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tirskas" parinktas kaip owner_note_path. Targetas "Maudelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60068"></a>
 - t-002
   global_id: t-60068
   teiginys: 'Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia Tirsko vaidmenį žygyje ir yra paremtas citata.'
-  susije_objektai: 'territory: Kapsteta; territory: Vonsdorfas; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]; mentioned_place: Kapsteta; mentioned_place: Oliva; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Tvankstė (pilis); mentioned_place: Vonsdorfas; mentioned_place: Vėluva'
+  susije_objektai: 'territory: Kapsteta; territory: Vonsdorfas; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Kapsteta; mentioned_place: Vonsdorfas; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]; mentioned_place: Oliva; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Tvankstė (pilis); mentioned_place: Vėluva'
   semantiniai_rysiai: '[[objektai/asmenys/Tirskas|Tirskas]] užkariavo Kapsteta; [[objektai/asmenys/Tirskas|Tirskas]] užkariavo Vonsdorfas'
   temporaliniai_duomenys: 'mūšio data: 1257 m.; mūšio data: 1258 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Tirskas užkariavo Kapsteta“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tirskas užkariavo Vonsdorfas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia Tirsko vaidmenį žygyje ir yra paremtas citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 353349-355304; hash=434c113d781377eddcb17a4c2f8b810945e31a47b7400b6eb05ddc3a18b04207; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzkariavo -> Kapsteta: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality; multiple_competing_places
+  ryšio_sprendimo_taisykle: rule_conquest_territory
+  ryšio_subjekto_parinkimas: Tirskas: owner_note_path, person, gap=87
+  ryšio_targeto_parinkimas: Kapsteta: territory_iteration, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_conquest_territory". Subjektas "Tirskas" parinktas kaip owner_note_path. Targetas "Kapsteta" parinktas kaip territory_iteration aplink predikatą "uzkariavo". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality, multiple_competing_places.
 
 <a id="claim-t-60069"></a>
 - t-003
   global_id: t-60069
   teiginys: 'Tirskas, Maudelio tėvas ir Vėluvos pilininkas, su visais artimaisiais pasidavė tikėjimui ir Ordino broliams.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Maudelis|Maudelis]]; mentioned_place: Nadruva; mentioned_place: Vėluva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Maudelis|Maudelis]]; mentioned_place: Vėluva; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Nadruva'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=59ae49fc8df63793e58690ed42c1e745c531dd4dceccaa7766cdf4fe865b7438; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maudelis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tirskas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maudelis: mention_match, person, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tirskas" parinktas kaip owner_note_path. Targetas "Maudelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Sembos nuniokojimas ir Vėluvos pilies pastatymas.md#claim-t-62917|Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)]]: Vėluvos pilies vadas Tirskas su kitais pilyje buvusiais vyrais išsižadėjo stabmeldystės ir tapo krikščionių tikėjimo gynėjais.
 ## Reikšmingi paminėjimai
 
@@ -114,6 +144,16 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 352766-353333; hash=4cbc38b15b3499df5bf85aab66b51aaa443c2c89cc609acdf8d9b49fa3d17bb4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maudelis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tirskas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maudelis: mention_match, person, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tirskas" parinktas kaip owner_note_path. Targetas "Maudelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -135,7 +175,27 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 353349-355304; hash=434c113d781377eddcb17a4c2f8b810945e31a47b7400b6eb05ddc3a18b04207; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzkariavo -> Kapsteta: 0.90
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality; multiple_competing_places
+  ryšio_sprendimo_taisykle: rule_conquest_territory
+  ryšio_subjekto_parinkimas: Tirskas: owner_note_path, person, gap=87
+  ryšio_targeto_parinkimas: Kapsteta: territory_iteration, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_conquest_territory". Subjektas "Tirskas" parinktas kaip owner_note_path. Targetas "Kapsteta" parinktas kaip territory_iteration aplink predikatą "uzkariavo". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality, multiple_competing_places.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=59ae49fc8df63793e58690ed42c1e745c531dd4dceccaa7766cdf4fe865b7438; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maudelis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tirskas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maudelis: mention_match, person, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tirskas" parinktas kaip owner_note_path. Targetas "Maudelis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Tirskas uzkariavo [[objektai/vietos/Kapsteta]]

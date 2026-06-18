@@ -33,24 +33,44 @@ periodo_grupes:
   global_id: t-96027
   teiginys: 'Machmetas pasiuntė savo sūnų auklėtis į Vytauto Didžiojo dvarą ir rėmė Vytauto žygius į Pskovą bei Naugardą.'
   sudarymo_pagrindimas: 'Citata palaiko Machmeto sūnaus siuntimą ir paramą Vytautui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_place: Luckas; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_place: Luckas; mentioned_place: Smolenskas'
   temporaliniai_duomenys: 'įvykio data: 1424 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko Machmeto sūnaus siuntimą ir paramą Vytautui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=aaaae6d4fee76ad13c75145bef9c41aa65b05f846187e780382ce76fa3a57454; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Auksinė Orda: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Machmetas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Auksinė Orda: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Machmetas" parinktas kaip owner_note_path. Targetas "Auksinė Orda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-96028"></a>
 - t-002
   global_id: t-96028
   teiginys: '1424 m. Didysis Machmetas Vytauto pagalba atsisėdo į Kipčako sostą ir išsilaikė iki 1437 ar 1438 m.'
   sudarymo_pagrindimas: 'Citata palaiko datą, Vytauto pagalbą ir Machmeto išsilaikymo laiką.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Didysis Machmetas|Didysis Machmetas]]; mentioned_place: Kipčakas; mentioned_place: Konstantinopolis'
+  susije_objektai: 'mentioned_place: Kipčakas; mentioned_person: [[objektai/asmenys/Didysis Machmetas|Didysis Machmetas]]; mentioned_place: Konstantinopolis'
   temporaliniai_duomenys: 'įvykio data: 1424 m.; įvykio data: 1438 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko datą, Vytauto pagalbą ir Machmeto išsilaikymo laiką.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 357393-357850; hash=05c66765dd9278a2c1846cdafbcedf1b72f3b8ea79f61c0905b767729ac28d2c; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Naugardas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Machmetas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=99
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Machmetas" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-96029"></a>
 - t-003
@@ -110,6 +130,16 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 357393-357850; hash=05c66765dd9278a2c1846cdafbcedf1b72f3b8ea79f61c0905b767729ac28d2c; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Naugardas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Machmetas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=99
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Machmetas" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -127,4 +157,17 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=aaaae6d4fee76ad13c75145bef9c41aa65b05f846187e780382ce76fa3a57454; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Auksinė Orda: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Machmetas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Auksinė Orda: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Machmetas" parinktas kaip owner_note_path. Targetas "Auksinė Orda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+
+## Ryšiai
+- Machmetas uzeme [[objektai/vietos/Kipčakas]]

@@ -25,6 +25,16 @@ Vienas pulkas, Dolegos vedamas, antras kunigo Mackevičiaus, trečias kunigo Pe�
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 656735-657001; hash=c2e7307167b8442dc02c9ce44b223017507b749a6d086b9b65cae1513eeddd19; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dolega: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dolega" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Peža-Palionis.md#claim-t-39799|Peža-Palionis]]: Kunigas Peža-Palionis vadovavo trečiajam Lietuvos kariuomenės pulkui, sudarytam iš dalgėmis ginkluotų sodiečių.
 - susijęs iš [[objektai/daiktai/Konfederatka.md#claim-t-39258|Konfederatka]]: Dolegos vedamo pulko kareiviai buvo apsitaisę, ginkluoti šobliomis ir muškietomis, o ant galvų dėvėjo konfederatkas.
 - susijęs iš [[objektai/daiktai/Šobliai.md#claim-t-39309|Šobliai]]: Dolegos vedamo pirmojo pulko kareiviai prie šonų turėjo šoblias, ant pečių - muškietus, ant galvų - konfederatkes.
@@ -43,3 +53,13 @@ Vienas pulkas, Dolegos vedamas, antras kunigo Mackevičiaus, trečias kunigo Pe�
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 656735-657001; hash=c2e7307167b8442dc02c9ce44b223017507b749a6d086b9b65cae1513eeddd19; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dolega: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dolega" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

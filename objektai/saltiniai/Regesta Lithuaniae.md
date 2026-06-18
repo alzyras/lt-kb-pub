@@ -43,13 +43,23 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia aiškų datavimo pataisymą ir Regesta Lithuaniae nuorodą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 457484-458251; hash=cf8b27f51832cdc747b160d577b4e82052759a158bf0602957b36472848acf02; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mindaugas (valdovas, XIII a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Regesta Lithuaniae: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Regesta Lithuaniae" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60926"></a>
 - t-002
   global_id: t-60926
   teiginys: 'Regesta Lithuaniae Nr. 393 siejamas su 1262 m. Mindaugo organizuotu žygiu, kuriam vadovavo Treniota.'
   sudarymo_pagrindimas: 'Teiginys sutvarkytas į aiškų sakinį apie nurodytą šaltinį ir jo siejamą įvykį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kulmas; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_place: Torunė'
   temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutvarkytas į aiškų sakinį apie nurodytą šaltinį ir jo siejamą įvykį.'
@@ -67,6 +77,16 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   temporalinis_llm_pakomentavimas: 'Rewrite failed deterministic gates: heading_or_page_noise'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 572857-572979; hash=93a77016427f6e32626207dab1239fb9d5bc26c31e5c8f487e8e89e8491d0ebc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> žygis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Regesta Lithuaniae: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: žygis: mention_match, thing, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Regesta Lithuaniae" parinktas kaip owner_note_path. Targetas "žygis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60929"></a>
 - t-004
@@ -79,6 +99,16 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia leidinio tomo, rengėjo ir leidimo vietos bei metų faktus.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 576251-576483; hash=27503f827d0ad714419ff0b5f2e94a9f69363068f142771ec85943f77a353860; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krikščionys: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Regesta Lithuaniae: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Krikščionys: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Regesta Lithuaniae" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -117,6 +147,16 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 457484-458251; hash=cf8b27f51832cdc747b160d577b4e82052759a158bf0602957b36472848acf02; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mindaugas (valdovas, XIII a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Regesta Lithuaniae: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Mindaugas (valdovas, XIII a.): mention_match, person, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Regesta Lithuaniae" parinktas kaip owner_note_path. Targetas "Mindaugas (valdovas, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -142,4 +182,24 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 572857-572979; hash=93a77016427f6e32626207dab1239fb9d5bc26c31e5c8f487e8e89e8491d0ebc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> žygis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Regesta Lithuaniae: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: žygis: mention_match, thing, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Regesta Lithuaniae" parinktas kaip owner_note_path. Targetas "žygis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 576251-576483; hash=27503f827d0ad714419ff0b5f2e94a9f69363068f142771ec85943f77a353860; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krikščionys: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Regesta Lithuaniae: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Krikščionys: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Regesta Lithuaniae" parinktas kaip owner_note_path. Targetas "Krikščionys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

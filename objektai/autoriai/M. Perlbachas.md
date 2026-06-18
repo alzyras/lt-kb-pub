@@ -39,6 +39,15 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai sieja šią nuomonę su M. Perlbachu.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=59a1c5069b94a2b6e67981f0439592e9322b8ffbed3bc68f876d8c93fcecbfc2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyveno -> Prūsija: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_residence_local_place
+  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "subjektas" parinktas kaip local_match. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-175146"></a>
 - t-002
@@ -48,21 +57,41 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Torunė; mentioned_place: Viena; mentioned_place: Vysla'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d5eee92028aca853c5e5d7e086742a2fc9cbcb92a15cb0c505769ee067766cb4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Oliva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Perlbachas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Oliva: mention_match, place, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Perlbachas" parinktas kaip owner_note_path. Targetas "Oliva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-175148"></a>
 - t-003
   global_id: t-175148
   teiginys: 'M. Perlbachas rašė apie senesniąją Olivos kroniką.'
   sudarymo_pagrindimas: 'Citatoje pateikta bibliografinė nuoroda į Perlbacho darbą apie Olivos kroniką.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Oliva; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Oliva; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59858|Fridrichas II]]: M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 163614-164826; hash=7c2a0770e6596e607ade3f6d1564eac56323891ab42de7ee42f01dd9b8410db2; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Perlbachas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Perlbachas" parinktas kaip owner_note_path. Targetas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš 1230 m. Krušvicos falsifikatas: M. Perlbachas nurodė, kad Dusburgietis Konrado ir Ordino sutartis nušvietė pagal Ordino 1230 m. Krušvicos falsifikatą.
 - susijęs iš 1230 m. Krušvicos falsifikatas: M. Perlbachas nurodė, kad Dusburgietis Konrado ir Ordino sutartis nušvietė pagal Ordino 1230 m. Krušvicos falsifikatą.
 - susijęs iš 1230 m. rugsėjo 12 d. popiežiaus bulė: M. Perlbachas nurodė, kad Dusburgietis panaudojo 1230 m. rugsėjo 12 d. popiežiaus bulę, patvirtinusią Konrado ir Ordino sutartį.
 - susijęs iš 1232 m. sausio 23 d. popiežiaus bulė: M. Perlbachas nurodė, kad Dusburgietis panaudojo 1232 m. sausio 23 d. popiežiaus bulę, patvirtinusią Konrado ir Ordino sutartį.
 - susijęs iš Fridricho II 1226 m. aukso bulė: M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.
+- susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59858|Fridrichas II]]: M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -111,6 +140,16 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d5eee92028aca853c5e5d7e086742a2fc9cbcb92a15cb0c505769ee067766cb4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Oliva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Perlbachas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Oliva: mention_match, place, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Perlbachas" parinktas kaip owner_note_path. Targetas "Oliva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -127,4 +166,23 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=59a1c5069b94a2b6e67981f0439592e9322b8ffbed3bc68f876d8c93fcecbfc2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyveno -> Prūsija: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_residence_local_place
+  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "subjektas" parinktas kaip local_match. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 163614-164826; hash=7c2a0770e6596e607ade3f6d1564eac56323891ab42de7ee42f01dd9b8410db2; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Perlbachas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Perlbachas" parinktas kaip owner_note_path. Targetas "Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -52,21 +52,41 @@ Nenurodyta
   global_id: t-87197
   teiginys: 'Šv. Stanislovo katedroje Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.'
   sudarymo_pagrindimas: 'Citata pagrindžia tikslesnį faktą apie mišrių apeigų santuoką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos pasiuntiniai|Maskvos pasiuntiniai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Foma|Foma]]; mentioned_person: [[objektai/asmenys/Kulešinas|Kulešinas]]; mentioned_person: [[objektai/asmenys/Rapolovska|Rapolovska]]; mentioned_person: [[objektai/asmenys/Vaitiekus Taboras|Vaitiekus Taboras]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Foma|Foma]]; mentioned_group: [[objektai/grupes/Maskvos pasiuntiniai|Maskvos pasiuntiniai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Kulešinas|Kulešinas]]; mentioned_person: [[objektai/asmenys/Rapolovska|Rapolovska]]; mentioned_person: [[objektai/asmenys/Vaitiekus Taboras|Vaitiekus Taboras]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=88deac52e1f69b557732fbda5fa92e575e48ed7e521602387536f79d240ceee5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): nearest_actor, person, gap=6
+  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 <a id="claim-t-87198"></a>
 - t-002
   global_id: t-87198
   teiginys: '1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį.'
   sudarymo_pagrindimas: 'Iš ilgo fragmento išskirtas aiškus atvykimo ir sutikimo faktas.'
-  susije_objektai: 'location: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nemėžis; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'location: Vilnius; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Maskva; mentioned_place: Nemėžis; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Trakai'
   temporaliniai_duomenys: 'kelionės data: 1494 m.; kelionės data: 1495 m.; kelionės data: 1496 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Iš ilgo fragmento išskirtas aiškus atvykimo ir sutikimo faktas.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 467430-468045; hash=f88f09214723d33a6ddef01a0ac211275bea5caf091eade43715e1936c7b4434; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -115,4 +135,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=88deac52e1f69b557732fbda5fa92e575e48ed7e521602387536f79d240ceee5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Vilnius: 0.88
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Elena (vyskupas, XV–XVI a.): nearest_actor, person, gap=6
+  ryšio_targeto_parinkimas: Vilnius: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Elena (vyskupas, XV–XVI a.)" parinktas kaip nearest_actor. Targetas "Vilnius" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 467430-468045; hash=f88f09214723d33a6ddef01a0ac211275bea5caf091eade43715e1936c7b4434; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

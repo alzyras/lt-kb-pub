@@ -48,6 +48,16 @@ Nenurodyta
   pagrindžia:
     - c-002
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 233029-233418; hash=b0565fb1c6cdaeab1e391a558102c785aa9feb81a50d0f84797b7a9d0588c9cb; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Namas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-62732"></a>
 - t-002
@@ -120,4 +130,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 233029-233418; hash=b0565fb1c6cdaeab1e391a558102c785aa9feb81a50d0f84797b7a9d0588c9cb; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Namas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 233029-233418; hash=b0565fb1c6cdaeab1e391a558102c785aa9feb81a50d0f84797b7a9d0588c9cb; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Namas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žmonų išpirka ir žmonos tarnystės pareigos Dusburgiečio vaizde" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

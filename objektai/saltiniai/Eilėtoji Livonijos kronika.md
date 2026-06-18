@@ -33,7 +33,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   global_id: t-171530
   teiginys: 'Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir beveik trečdalį kronikos skyrė Livonijos ordino santykiams su Lietuva.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubysa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Minija; mentioned_place: Venta; mentioned_place: Šušvė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Dubysa; mentioned_place: Minija; mentioned_place: Venta; mentioned_place: Šušvė'
   pagrindžia:
     - c-004
 
@@ -42,7 +42,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   global_id: t-171531
   teiginys: 'Eiliuotoji Livonijos kronika prie Skuodo mūšio mini žemaičius, o Durbės mūšio išvakarėse ir mūšyje - lietuvius arba pagonis.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet perrašytas glaudžiau ir be perteklinių žodžių.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Durbė; mentioned_place: Georgenburgas; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Durbė; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Georgenburgas; mentioned_place: Kuršas'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet perrašytas glaudžiau ir be perteklinių žodžių.'
@@ -63,7 +63,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   global_id: t-171533
   teiginys: 'Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citatos palaikomas teiginys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubysa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Minija; mentioned_place: Venta; mentioned_place: Šušvė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Dubysa; mentioned_place: Minija; mentioned_place: Venta; mentioned_place: Šušvė'
   pagrindžia:
     - c-004
 
@@ -72,7 +72,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   global_id: t-171534
   teiginys: '1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.'
   sudarymo_pagrindimas: 'Pradinis tekstas sujungia nesusijusius fragmentus; citata pagrindžia konkretų faktą apie Algirdo žygį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Dmitrijus|Dmitrijus]]; mentioned_place: Aizkrauklė; mentioned_place: Gotesverderis; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Aizkrauklė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Dmitrijus|Dmitrijus]]; mentioned_place: Gotesverderis; mentioned_place: Lietuva; mentioned_place: Nemunas'
   temporaliniai_duomenys: 'įvykio data: 1369 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas sujungia nesusijusius fragmentus; citata pagrindžia konkretų faktą apie Algirdo žygį.'
@@ -87,7 +87,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia pašalinti perteklinę formuluotę ir išlaikyti citatos palaikomą faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Polockas; mentioned_place: Žiemgala'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Polockas; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Kuršas; mentioned_place: Žiemgala'
   temporaliniai_duomenys: 'įvykio data: 1247 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti perteklinę formuluotę ir išlaikyti citatos palaikomą faktą.'
@@ -102,7 +102,7 @@ Eilėtoji Livonijos kronika šiame veikale minima ir kaip konkretus pasakojimo �
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]'
   pagrindžia:
     - c-006
 

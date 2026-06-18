@@ -25,15 +25,35 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b3d93ea038b51f57774527bb97237aee8bfb63f378830f51e2c1539c66cd6e2a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Albertas: mention_match, person, gap=85
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-59168"></a>
 - t-002
   global_id: t-59168
   teiginys: 'Brolis Albertas paprašė, kad paplotėlis įeitų į jį, jei tai tikras Kristaus kūnas, ir priėmė ore pasirodžiusį paplotėlį.'
   sudarymo_pagrindimas: 'Teiginį reikia sutrumpinti ir pašalinti neaiškų įvardį; citata remia šį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e3372f989c8f87acca88115d6dabc52e0fd845c73c1b067bba666e079c648f83; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kūnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kūnas: mention_match, person, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas" parinktas kaip owner_note_path. Targetas "Kūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -74,4 +94,24 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b3d93ea038b51f57774527bb97237aee8bfb63f378830f51e2c1539c66cd6e2a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Albertas: mention_match, person, gap=85
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e3372f989c8f87acca88115d6dabc52e0fd845c73c1b067bba666e079c648f83; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kūnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kūnas: mention_match, person, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas" parinktas kaip owner_note_path. Targetas "Kūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

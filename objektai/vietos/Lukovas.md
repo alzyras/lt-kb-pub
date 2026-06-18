@@ -24,6 +24,9 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 826496-826628; hash=1ef8313ac508f3a6456a5b98b019752738e6faa090a18f6077625c26c4313cdf; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 <a id="claim-t-185035"></a>
 - t-002
@@ -33,15 +36,25 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia Vytenio veiksmus Lukovo apygardose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Jotvingija; mentioned_place: Sandomiras'
+  susije_objektai: 'mentioned_place: Sandomiras; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Jotvingija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 259337-260290; hash=72f41166a579b8ea41460fca826150dce92d8ef92ee0eadb8439f5e3b7de4f69; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Sandomiras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lukovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Sandomiras: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lukovas" parinktas kaip owner_note_path. Targetas "Sandomiras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Turčinas.md#claim-t-87586|Turčinas]]: Turčinas Lukove keisdamas lietuviškas monetas į lenkiškas prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių.
+- susijęs iš [[objektai/ivykiai/Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.).md#claim-t-185790|Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.)]]: Vytenis, sutelkęs didesnę nei įprasta kariuomenę, užpuolė lenkų kraštą, nuniokojo Lukovo apylinkes ir įsiveržė į Sandomiro žemę.
 - susijęs iš [[objektai/asmenys/Mogilnickis.md#claim-t-87793|Mogilnickis]]: Lukove L. Mogilnickis Karališkosios Didenybės reikalams supirko lietuviškų monetų už 2 florinus.
 - susijęs iš [[objektai/asmenys/Pekarskis.md#claim-t-87820|Pekarskis]]: Pekarskiui buvo paskolinti 800 zlotų sidabrui, užstatytam Jo Karališkosios Didenybės reikalams.
-- susijęs iš [[objektai/asmenys/Turčinas.md#claim-t-87586|Turčinas]]: Turčinas Lukove keisdamas lietuviškas monetas į lenkiškas prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184884|Vytenis]]: Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184522|Lenkai]]: Mūšyje lenkai atsiėmė visą grobį, o keli tūkstančiai lietuvių žuvo kautynėse ir bėgdami.
-- susijęs iš [[objektai/ivykiai/Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.).md#claim-t-185790|Vytenio žygis į Lenkiją ir Lešeko pergalė prieš lietuvius (1283 m.)]]: Vytenis, sutelkęs didesnę nei įprasta kariuomenę, užpuolė lenkų kraštą, nuniokojo Lukovo apylinkes ir įsiveržė į Sandomiro žemę.
 - susijęs iš [[objektai/paprociai/Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais.md#claim-t-87138|Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais]]: Turčinas Lukove prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių, keisdamas lietuviškas monetas į lenkiškas.
 - susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185464|Ugnimi ir kalaviju]]: Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusiaubė aplinkinius kaimus bei dvarus.
 - susijęs iš Sandomiras: Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę ir siaubė jos kaimus bei dvarus.
@@ -89,4 +102,17 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 826496-826628; hash=1ef8313ac508f3a6456a5b98b019752738e6faa090a18f6077625c26c4313cdf; match=whitespace_regex
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 259337-260290; hash=72f41166a579b8ea41460fca826150dce92d8ef92ee0eadb8439f5e3b7de4f69; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Sandomiras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lukovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Sandomiras: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lukovas" parinktas kaip owner_note_path. Targetas "Sandomiras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

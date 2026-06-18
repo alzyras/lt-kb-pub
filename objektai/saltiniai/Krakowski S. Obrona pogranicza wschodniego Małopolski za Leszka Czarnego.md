@@ -32,6 +32,9 @@ Dusburgietis teigia, kad krakowski S.
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia autoriaus darbo publikavimo faktą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 779632-779819; hash=66c3d930f74b4ddbe1a783bac0ec8239d64a5ea38c5483424de8ab8bf2fc18cd; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +50,6 @@ Dusburgietis teigia, kad krakowski S.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 779632-779819; hash=66c3d930f74b4ddbe1a783bac0ec8239d64a5ea38c5483424de8ab8bf2fc18cd; match=exact
+  sprendimo_priezastis: auto

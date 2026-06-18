@@ -43,7 +43,7 @@ amziai:
 - t-002
   global_id: t-36116
   teiginys: 'Torno sutartis laikyta palankia Lietuvai, nes Lietuvai buvo grąžinta Žemaitija, o Lenkijai ji naudos nesuteikė.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Torno; mentioned_place: Žemaitija'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Torno; mentioned_place: Žemaitija; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 

@@ -29,12 +29,22 @@ amziai:
   teiginys: 'Kurenecas lokalizuojamas į šiaurę nuo Molodečno.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas lokalizacijos citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Daugpilis; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Molodečnas; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_place: Molodečnas; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Daugpilis; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1432 m.; įvykio data: 1433 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas lokalizacijos citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1e3c7b566a579775d80601162a7993946d71b1133efab0a3d9b287457429d57b; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kurenecas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kurenecas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187247"></a>
 - t-002
@@ -42,12 +52,22 @@ amziai:
   teiginys: '1433 m. vasario 15 d. Švitrigailos ir Livonijos ordino magistro Rutenbergo pajėgos turėjo susijungti Kurenece bendram žygiui į Vilnių.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Išskleistas laikas, Rutenbergo vaidmuo ir žygio tikslas, tiesiogiai nurodyti citatoje. Nepridėtas vertinimas apie sėkmę ar platesnį karo kontekstą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Daugpilis; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Daugpilis; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1432 m.; įvykio data: 1433 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išskleistas laikas, Rutenbergo vaidmuo ir žygio tikslas, tiesiogiai nurodyti citatoje. Nepridėtas vertinimas apie sėkmę ar platesnį karo kontekstą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1e3c7b566a579775d80601162a7993946d71b1133efab0a3d9b287457429d57b; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Molodečnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kurenecas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Molodečnas: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kurenecas" parinktas kaip owner_note_path. Targetas "Molodečnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186744|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: Švitrigailos ir Livonijos ordino magistro Rutenbergo susitarimas susijungti Kurenece bendram žygiui į Vilnių nebuvo įgyvendintas.
 - susijęs iš [[objektai/ivykiai/Livonijos ordino reidas po šiaurės rytų Lietuvą.md#claim-t-186747|Livonijos ordino reidas po šiaurės rytų Lietuvą]]: 1433 m. vasario 15 d. Livonijos ordino magistras Rutenbergas ir Švitrigaila turėjo susijungti Kurenece bendram žygiui į Vilnių.
 - susijęs iš Molodečnas: Kurenecas lokalizuojamas į šiaurę nuo Molodečno kaip planuota Livonijos kariuomenės ir Švitrigailos susijungimo vieta.
@@ -68,4 +88,24 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1e3c7b566a579775d80601162a7993946d71b1133efab0a3d9b287457429d57b; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Molodečnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kurenecas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Molodečnas: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kurenecas" parinktas kaip owner_note_path. Targetas "Molodečnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1e3c7b566a579775d80601162a7993946d71b1133efab0a3d9b287457429d57b; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kurenecas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kurenecas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

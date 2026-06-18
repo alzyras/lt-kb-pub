@@ -37,6 +37,16 @@ Pičeta : Agrarnaja reforma Sigizmundą Avgusta v Litovsko-russkom gosudarstve (
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra bibliografinis fragmentas, todėl reikia pilno sakinio.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 246102-246291; hash=20b8b2925facdb72b366f4ad202c6af7e0bdd86f800dc1cea17dc72f254d8d8d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: V. Pičeta: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "V. Pičeta" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -56,3 +66,13 @@ Pičeta : Agrarnaja reforma Sigizmundą Avgusta v Litovsko-russkom gosudarstve (
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 246102-246291; hash=20b8b2925facdb72b366f4ad202c6af7e0bdd86f800dc1cea17dc72f254d8d8d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: V. Pičeta: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "V. Pičeta" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

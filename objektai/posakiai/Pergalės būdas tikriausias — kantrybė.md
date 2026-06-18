@@ -25,6 +25,16 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a27a9987657efd0b62b16943d072bb87c23a22efa2ce4081529fe1a551201a7a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bachidas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pergalės būdas tikriausias — kantrybė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bachidas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pergalės būdas tikriausias — kantrybė" parinktas kaip owner_note_path. Targetas "Bachidas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-59051"></a>
 - t-002
@@ -34,6 +44,16 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 155068-155347; hash=0c63f559c38ca01906580b7c69d4c311e4fa7c2ebcb78d90983c6fc04db1e607; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Grigalius (vicekancleris): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pergalės būdas tikriausias — kantrybė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Grigalius (vicekancleris): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pergalės būdas tikriausias — kantrybė" parinktas kaip owner_note_path. Targetas "Grigalius (vicekancleris)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-59052"></a>
 - t-003
@@ -43,6 +63,16 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Jeronimas|Jeronimas]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 155216-155518; hash=09aab4684a3c0eeac448a08246e9324a1ed6c325cabf9c24ae8a6011d171e78a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Grigalius (vicekancleris): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pergalės būdas tikriausias — kantrybė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Grigalius (vicekancleris): mention_match, person, gap=101
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pergalės būdas tikriausias — kantrybė" parinktas kaip owner_note_path. Targetas "Grigalius (vicekancleris)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -85,6 +115,16 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a27a9987657efd0b62b16943d072bb87c23a22efa2ce4081529fe1a551201a7a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bachidas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pergalės būdas tikriausias — kantrybė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bachidas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pergalės būdas tikriausias — kantrybė" parinktas kaip owner_note_path. Targetas "Bachidas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-003
@@ -99,4 +139,24 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 155068-155347; hash=0c63f559c38ca01906580b7c69d4c311e4fa7c2ebcb78d90983c6fc04db1e607; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Grigalius (vicekancleris): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pergalės būdas tikriausias — kantrybė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Grigalius (vicekancleris): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pergalės būdas tikriausias — kantrybė" parinktas kaip owner_note_path. Targetas "Grigalius (vicekancleris)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 155216-155518; hash=09aab4684a3c0eeac448a08246e9324a1ed6c325cabf9c24ae8a6011d171e78a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Grigalius (vicekancleris): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pergalės būdas tikriausias — kantrybė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Grigalius (vicekancleris): mention_match, person, gap=101
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pergalės būdas tikriausias — kantrybė" parinktas kaip owner_note_path. Targetas "Grigalius (vicekancleris)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

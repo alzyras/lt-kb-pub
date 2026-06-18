@@ -25,10 +25,20 @@ Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatori
   susije_objektai: 'mentioned_group: [[objektai/grupes/Moravai|Moravai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Frederikas Joachimas Mansfeldas.md#claim-t-40108|Frederikas Joachimas Mansfeldas]]: 1608 m. vasarą Frederikas Joachimas Mansfeldas vadovavo 8000 Švedijos karių ekspediciniam korpusui Livonijoje.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 402695-403098; hash=840538e23f47e9d9567046ef49fd4628d7adf1758d8d054eeb77511a4abb66cf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Moravai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karolis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Moravai: mention_match, group, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis" parinktas kaip owner_note_path. Targetas "Moravai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89881|Karolis (didysis magistras)]]: 1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti.
 - susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89882|Karolis (didysis magistras)]]: 1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti.
 - susijęs iš [[objektai/asmenys/Karolis (švedų kunigaikštis).md#claim-t-40261|Karolis (švedų kunigaikštis)]]: Švedų kunigaikštis Karolis vadovavo Revelio danų kariuomenei ir turėjo savo būrį.
+- susijęs iš [[objektai/asmenys/Frederikas Joachimas Mansfeldas.md#claim-t-40108|Frederikas Joachimas Mansfeldas]]: 1608 m. vasarą Frederikas Joachimas Mansfeldas vadovavo 8000 Švedijos karių ekspediciniam korpusui Livonijoje.
 - susijęs iš [[objektai/asmenys/Zigmantas Vaza.md#claim-t-82987|Zigmantas Vaza]]: 1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.
 - susijęs iš [[objektai/ivykiai/Junigedos papilio sudeginimas (1315 m. spalio 12 d.).md#claim-t-62300|Junigedos papilio sudeginimas (1315 m. spalio 12 d.)]]: 1315 m. spalio 12 d. Karolis su 6000 vyrų naktį puolė Junigedos papilį, paėmė 78 žmones į nelaisvę ir sudegino papilį iki pamatų.
 - susijęs iš [[objektai/ivykiai/Stanislovo Leščinskio išrinkimas karalium (1704 m.).md#claim-t-01806|Stanislovo Leščinskio išrinkimas karalium (1704 m.)]]: 1704 m. Karolis privertė sušaukti švedų kariuomenės apsuptą elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį.
@@ -56,3 +66,13 @@ Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatori
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 402695-403098; hash=840538e23f47e9d9567046ef49fd4628d7adf1758d8d054eeb77511a4abb66cf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Moravai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karolis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Moravai: mention_match, group, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolis" parinktas kaip owner_note_path. Targetas "Moravai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -47,8 +47,8 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/autoriai/Salys A.md#claim-t-64844|Salys A]]: Asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie.
 - susijęs iš Šilutės deklaracija: 1923 m. sausio 19 d. Šilutėje sušauktame Visuotiniame seime krašto atstovai vienbalsiai priėmė Šilutės deklaraciją.
+- susijęs iš [[objektai/autoriai/Salys A.md#claim-t-64844|Salys A]]: Asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie.
 - susijęs iš Pagėgiai: Pagėgių sukilėlių grupę sudarė 3 kuopos, kuriose buvo 13 karininkų, 180 kareivių ir 250 šaulių.
 - susijęs iš Pagėgiai: Sausio 14 d. iš Pagėgių atvyko dalis II ir III grupių sukilėlių pagrindinėms pajėgoms sustiprinti.
 - susijęs iš [[objektai/zodynas/sukilimo inscenizacija.md#claim-t-183468|sukilimo inscenizacija]]: Lietuvai liko sukilimo inscenizacijos scenarijus.

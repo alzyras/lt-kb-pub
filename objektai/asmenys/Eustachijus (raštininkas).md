@@ -33,12 +33,22 @@ Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka
   global_id: t-87662
   teiginys: 'Raštininkas Eustachijus pasirašė 1538 m. rugsėjo 1 d. Žygimanto Augusto laišką dėl Drujos vandens tiekimo į Vilnių.'
   sudarymo_pagrindimas: 'Citata pagrindžia parašą ant laiško, bet pradinis teiginys fragmentiškas ir per ilgas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Druja; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Vilnelė; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Druja; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Vilnelė; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1538 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia parašą ant laiško, bet pradinis teiginys fragmentiškas ir per ilgas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ff5e3253de3dedc62f80060a132251f4df1f2c3c290980703c4737df268a2984; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Augustas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Eustachijus (raštininkas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eustachijus (raštininkas)" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -75,3 +85,13 @@ Iš tos versmės ištekantis upelis vadi­ nosi Druja, nes yra miesto archyve ka
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ff5e3253de3dedc62f80060a132251f4df1f2c3c290980703c4737df268a2984; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Augustas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Eustachijus (raštininkas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eustachijus (raštininkas)" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

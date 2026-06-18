@@ -31,22 +31,43 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   global_id: t-51184
   teiginys: 'Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė pas Vytautą.'
   sudarymo_pagrindimas: 'Kontekstinis fragmentas perrašytas į pilną citata paremtą sakinį apie Tochtamyšą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Saladinas|Saladinas]]; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Saladinas|Saladinas]]; mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vorskla'
   temporaliniai_duomenys: 'įvykio data: 1409 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Kontekstinis fragmentas perrašytas į pilną citata paremtą sakinį apie Tochtamyšą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1d3584e89d3a4797843331b9f30bdf84b4e33451e4c76be0e1cc52e26dec29e0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_sunus -> Saladinas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_family_local_relative
+  ryšio_subjekto_parinkimas: Tochtamyšas: owner_note_path, person, gap=33
+  ryšio_targeto_parinkimas: Saladinas: nearest_family_person, person, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Tochtamyšas" parinktas kaip owner_note_path. Targetas "Saladinas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 <a id="claim-t-51185"></a>
 - t-002
   global_id: t-51185
   teiginys: 'Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Saladinas|Saladinas]]; mentioned_place: Vorskla'
+  susije_objektai: 'family: [[objektai/asmenys/Saladinas|Saladinas]]; mentioned_person: [[objektai/asmenys/Saladinas|Saladinas]]; mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vorskla'
+  semantiniai_rysiai: '[[objektai/asmenys/Tochtamyšas|Tochtamyšas]] buvo sūnus [[objektai/asmenys/Saladinas|Saladinas]]'
   temporaliniai_duomenys: 'įvykio data: 1409 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1d3584e89d3a4797843331b9f30bdf84b4e33451e4c76be0e1cc52e26dec29e0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Saladinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tochtamyšas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Saladinas: mention_match, person, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamyšas" parinktas kaip owner_note_path. Targetas "Saladinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184841"></a>
 - t-003
@@ -59,6 +80,16 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 694669-695149; hash=55eb61aebbdee1e89c71bc3d84931bbc82d0069bb828ed7fe5b5656f64e3ca5a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tochtamyšas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamyšas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184842"></a>
 - t-004
@@ -68,9 +99,19 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Geriau teiginį formuluoti tiesiogiai apie Tochtamyšą.'
-  susije_objektai: 'mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Viena'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 694945-695510; hash=6d7a94bec726ddd283c9181b0d2b89ab33b2083c648c8dbb4af00bd72e7a7c52; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tochtamyšas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamyšas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184843"></a>
 - t-005
@@ -83,9 +124,19 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Kerim Berdis|Kerim Berdis]]'
   pagrindžia:
     - c-004
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179003|Kryžiuočių ordinas]]: Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 695511-695962; hash=9d174d4c5c54ed641f4ff9f99fa9adc5515ab434c60c7a270fa0d19aa54bfe37; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kerim Berdis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tochtamyšas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kerim Berdis: mention_match, person, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamyšas" parinktas kaip owner_note_path. Targetas "Kerim Berdis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186583|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis pasakoja, kad prieš Vorsklos mūšį Vytautas su Tochtamyšu ištraukė prieš chaną Temir-Kutlujų su didele kariuomene.
 - susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186586|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis pasakoja, kad prieš Vorsklos mūšį Vytauto pusėje buvo Tochtamyšo kariuomenė, lietuviai, lenkai, vokiečiai, žemaičiai, totoriai ir moldavai.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179003|Kryžiuočių ordinas]]: Ordinas atsiuntė komtūrą Marquardą von Salzbachą su keliais tūkstančiais karių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -103,6 +154,16 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1d3584e89d3a4797843331b9f30bdf84b4e33451e4c76be0e1cc52e26dec29e0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_sunus -> Saladinas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_family_local_relative
+  ryšio_subjekto_parinkimas: Tochtamyšas: owner_note_path, person, gap=33
+  ryšio_targeto_parinkimas: Saladinas: nearest_family_person, person, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Tochtamyšas" parinktas kaip owner_note_path. Targetas "Saladinas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
     - t-002
 
 - c-002
@@ -123,6 +184,16 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1d3584e89d3a4797843331b9f30bdf84b4e33451e4c76be0e1cc52e26dec29e0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Saladinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tochtamyšas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Saladinas: mention_match, person, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamyšas" parinktas kaip owner_note_path. Targetas "Saladinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -144,6 +215,16 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 694669-695149; hash=55eb61aebbdee1e89c71bc3d84931bbc82d0069bb828ed7fe5b5656f64e3ca5a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tochtamyšas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamyšas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
 
 - c-004
@@ -167,4 +248,27 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 694945-695510; hash=6d7a94bec726ddd283c9181b0d2b89ab33b2083c648c8dbb4af00bd72e7a7c52; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tochtamyšas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamyšas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 695511-695962; hash=9d174d4c5c54ed641f4ff9f99fa9adc5515ab434c60c7a270fa0d19aa54bfe37; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kerim Berdis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tochtamyšas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kerim Berdis: mention_match, person, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamyšas" parinktas kaip owner_note_path. Targetas "Kerim Berdis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- Tochtamyšas buvo_sunus [[objektai/asmenys/Saladinas]]

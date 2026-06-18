@@ -46,6 +46,16 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1016258-1016512; hash=ac25be1a7155184aa5cf0757b9706aebfbd75232056505a38ffa7cc7232bdf5a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-31518"></a>
 - t-002
@@ -54,6 +64,16 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a9f86876e83f2b74921ce1f5150f9c4c9df994a9fce87ce89354f32dcb37c1de; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -87,4 +107,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1016258-1016512; hash=ac25be1a7155184aa5cf0757b9706aebfbd75232056505a38ffa7cc7232bdf5a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a9f86876e83f2b74921ce1f5150f9c4c9df994a9fce87ce89354f32dcb37c1de; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaus vainikavimo ceremonialas be būtino vyskupo patepimo" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -46,7 +46,7 @@ Nenurodyta
 - t-001
   global_id: t-47770
   teiginys: 'Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą, bet jo eiga metraštyje neaprašyta.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/na Litvu|na Litvu]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Gardinas; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_object: [[objektai/posakiai/na Litvu|na Litvu]]; mentioned_place: Gardinas; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1040 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -57,7 +57,7 @@ Nenurodyta
   global_id: t-47771
   teiginys: 'XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/na Litvu|na Litvu]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Gardinas; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_object: [[objektai/posakiai/na Litvu|na Litvu]]; mentioned_place: Gardinas; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1040 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
@@ -76,6 +76,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys perteikia autoriaus interpretaciją, todėl reikia aiškios atribucijos.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e3569f7b3667899be24e9605af3a975268144d93e65ef21b1232c566a51888d8; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Jaroslavas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kijevo Jaroslavo žygis į Lietuvą (1040 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jaroslavas: mention_match, person, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevo Jaroslavo žygis į Lietuvą (1040 m.)" parinktas kaip owner_note_path. Targetas "Jaroslavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -114,6 +124,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e3569f7b3667899be24e9605af3a975268144d93e65ef21b1232c566a51888d8; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Jaroslavas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kijevo Jaroslavo žygis į Lietuvą (1040 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jaroslavas: mention_match, person, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kijevo Jaroslavo žygis į Lietuvą (1040 m.)" parinktas kaip owner_note_path. Targetas "Jaroslavas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] dalyvavo_musyje Kijevo Jaroslavo žygis į Lietuvą (1040 m.)

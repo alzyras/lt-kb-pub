@@ -35,7 +35,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - t-001
   global_id: t-75429
   teiginys: 'Tai kartu paaiškina ir Vilniaus Gaono autoritetą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]'
   pagrindžia:
     - c-005
 
@@ -43,7 +43,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - t-002
   global_id: t-75430
   teiginys: 'Didžiausiu Vilniaus Gaono nuopelnu laikytas Babilono Talmudo redagavimas ir komentavimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -51,7 +51,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - t-003
   global_id: t-75431
   teiginys: 'Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/akcijos|akcijos]]; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Viena; mentioned_object: [[objektai/zodynas/akcijos|akcijos]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1720-1797; įvykio data: 1797 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -89,7 +89,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   global_id: t-75437
   teiginys: 'Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.'
   sudarymo_pagrindimas: 'Sakinys aiškiai apibūdina asmenį ir jo reikšmę pagal citatą.'
-  susije_objektai: 'location: Viena; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/akcijos|akcijos]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'location: Viena; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/akcijos|akcijos]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1720-1797; gyvenimo laikotarpis: 1797 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys aiškiai apibūdina asmenį ir jo reikšmę pagal citatą.'
@@ -97,6 +97,10 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
     - c-003
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45928|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
 - susijęs iš [[objektai/asmenys/Julius Slovackis.md#claim-t-19011|Julius Slovackis]]: Julius Slovackis buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
+- susijęs iš [[objektai/grupes/Vilniaus baroko architektūros mokykla.md#claim-t-20068|Vilniaus baroko architektūros mokykla]]: Abiejų Tautų Respublika išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architektūros mokyklą.
+- susijęs iš [[objektai/grupes/Vilniaus romantizmo mokykla.md#claim-t-75020|Vilniaus romantizmo mokykla]]: Vilniaus romantizmo mokyklos didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis.
+- susijęs iš [[objektai/grupes/Vilniaus romantizmo mokykla.md#claim-t-75021|Vilniaus romantizmo mokykla]]: Vilniaus romantizmo mokyklos didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis.
+- susijęs iš Vilnius: XVI–XVIII a. Vilnius buvo Europos sostinė, kurioje sugyveno dešimt konfesijų, o žydų pasaulyje jis vadintas Vilniaus Gaono miestu ir Šiaurės Jeruzale.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92962|Herbai]]: Herbyne „Stemmata Polonica“ užfiksuotas XVI a. vidurio LDK herbas Vytis.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92964|Herbai]]: LDK herbas Vytis XVI a. viduryje buvo pavaizduotas herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80773|Abiejų Tautų Respublika]]: Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.
@@ -107,9 +111,6 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - susijęs iš [[objektai/grupes/LGGRTC Genocido aukų muziejus.md#claim-t-77827|LGGRTC Genocido aukų muziejus]]: Leidinyje panaudotos nuotraukos iš LGGRTC Genocido aukų muziejaus fondų.
 - susijęs iš [[objektai/grupes/Litvakai.md#claim-t-183170|Litvakai]]: Vilniaus Gaono autoritetui priskiriama įtaka litvakų reputacijai kaip griežtos religinės tradicijos ir pagarbaus požiūrio į mokslą žydų.
 - susijęs iš [[objektai/grupes/Litvakai.md#claim-t-45104|Litvakai]]: Vilniaus Gaono autoritetas galėjo lemti, kad litvakai imti laikyti iškiliais žydais, išsiskyrusiais religine tradicija, racionalumu ir pagarba išsimokslinimui.
-- susijęs iš [[objektai/grupes/Vilniaus baroko architektūros mokykla.md#claim-t-20068|Vilniaus baroko architektūros mokykla]]: Abiejų Tautų Respublika išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architektūros mokyklą.
-- susijęs iš [[objektai/grupes/Vilniaus romantizmo mokykla.md#claim-t-75020|Vilniaus romantizmo mokykla]]: Vilniaus romantizmo mokyklos didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis.
-- susijęs iš [[objektai/grupes/Vilniaus romantizmo mokykla.md#claim-t-75021|Vilniaus romantizmo mokykla]]: Vilniaus romantizmo mokyklos didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117389|Žydai]]: Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-183206|Žydai]]: Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų.
 - susijęs iš [[objektai/ivykiai/Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.).md#claim-t-75089|Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.)]]: Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.
@@ -130,7 +131,6 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - susijęs iš Gdanskas: Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
 - susijęs iš Gdanskas: Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
 - susijęs iš Vilnius: XVI–XVIII a. Vilnius tapo Europos sostine ant dviejų pasaulių ribos, kurioje sugyveno dešimt konfesijų.
-- susijęs iš Vilnius: XVI–XVIII a. Vilnius buvo Europos sostinė, kurioje sugyveno dešimt konfesijų, o žydų pasaulyje jis vadintas Vilniaus Gaono miestu ir Šiaurės Jeruzale.
 - susijęs iš [[objektai/zodynas/bajoriškoji demokratija luominė monarchija.md#claim-t-22069|bajoriškoji demokratija luominė monarchija]]: Abiejų Tautų Respublika sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją.
 - susijęs iš [[objektai/zodynas/bajoriškoji demokratija.md#claim-t-25330|bajoriškoji demokratija]]: Abiejų Tautų Respublika aprūpino Vakarus javais ir sukūrė religinės tolerancijos bei bajoriškosios demokratijos tradiciją.
 - susijęs iš [[objektai/zodynas/chasidizmas rabinizmas.md#claim-t-22092|chasidizmas rabinizmas]]: Vilniaus Gaonas inicijavo akcijas prieš chasidizmą ir savo autoritetu sustabdė jo plitimą Lietuvoje.

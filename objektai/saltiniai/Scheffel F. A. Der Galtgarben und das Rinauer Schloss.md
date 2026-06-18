@@ -32,6 +32,9 @@ Dusburgietis teigia, kad scheffel F.
   temporalinis_llm_pakomentavimas: 'Bibliografinis fragmentas perrašytas į pilną lietuvišką sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 796494-796637; hash=583b6ec92799366ec5897b88bd88198eb0a8022e92298eb4d1ef3747e9ddc04c; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +49,6 @@ Dusburgietis teigia, kad scheffel F.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 796494-796637; hash=583b6ec92799366ec5897b88bd88198eb0a8022e92298eb4d1ef3747e9ddc04c; match=exact
+  sprendimo_priezastis: auto

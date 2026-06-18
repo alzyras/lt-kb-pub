@@ -66,10 +66,20 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   global_id: t-81593
   teiginys: 'Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.'
   sudarymo_pagrindimas: 'Teiginys buvo OCR fragmentas; citata pagrindžia prancūzų savanorių atvykimą į žygį.'
-  susije_objektai: 'location: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Prūsija'
+  susije_objektai: 'location: Prūsija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Anglija'
   semantiniai_rysiai: '[[objektai/grupes/Prancūzai|Prancūzai]] keliavo į Prūsija'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 259602-260285; hash=2221a93e3f8c6e9ee62076d811d681f92f08dc9e23441ab7cafcf8e6a82889da; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Prancūzai: owner_note_path, group, gap=23
+  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Prancūzai" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183891"></a>
 - t-005
@@ -79,23 +89,58 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie prancūzų dalyvavimą užimant Konstantinopolį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Konstantinopolis; mentioned_place: Venecija'
+  susije_objektai: 'mentioned_place: Konstantinopolis; mentioned_place: Venecija; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]'
   temporaliniai_duomenys: 'įvykio data: 1200 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata apie prancūzų dalyvavimą užimant Konstantinopolį.'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c2e5e465ab7d84c01d711206634171618cf017313140cb398fae2bfb6632df89; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prancūzai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prancūzai" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63416|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1303 m. Bonifacas VIII paskelbė Albrechtą imperatoriumi ir atidavė jam Prancūzijos karalystę.
+- susijęs iš [[objektai/asmenys/Bonifacas VIII.md#claim-t-59902|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]: 1303 m. Bonifacas VIII paskelbė Romos karalių Albrechtą imperatoriumi ir perdavė jam Prancūzijos karalystę, bet Klemensas V tai atšaukė.
+- susijęs iš [[objektai/asmenys/Boucicaut.md#claim-t-87490|Boucicaut]]: Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno.
+- susijęs iš [[objektai/asmenys/Dominykas Semaško.md#claim-t-63539|Dominykas Semaško]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
+- susijęs iš [[objektai/asmenys/Klemensas V.md#claim-t-59928|Klemensas V]]: Popiežius Klemensas V atšaukė Bonifaco sprendimą paskelbti Albrechtą imperatoriumi ir jam atiduoti Prancūzijos karalystę.
+- susijęs iš [[objektai/asmenys/Paleologas.md#claim-t-60404|Paleologas]]: 1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.
+- susijęs iš [[objektai/asmenys/Simonas Rozenbaumas.md#claim-t-64059|Simonas Rozenbaumas]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
+- susijęs iš [[objektai/grupes/Flandrai.md#claim-t-62996|Flandrai]]: Flandrijos gyventojai liepos mėnesį sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.
+- susijęs iš [[objektai/grupes/Templininkų ordinas.md#claim-t-72652|Templininkų ordinas]]: Templininkų ordinas buvo prancūzų ordinas, minimas šalia italų joanitų ir vokiečių Marijos Mergelės ordino.
+- susijęs iš [[objektai/grupes/Škotai.md#claim-t-86839|Škotai]]: Škotijos savanoriai kartu su anglais ir prancūzais papildė vokiečių riterių būrius Karaliaučiuje.
+- susijęs iš [[objektai/ivykiai/Bonifaco VIII Albrechto paskelbimas imperatoriumi ir Prancūzijos karalystės atidavimas (1303 m.).md#claim-t-62748|Bonifaco VIII Albrechto paskelbimas imperatoriumi ir Prancūzijos karalystės atidavimas (1303 m.)]]: 1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi ir jam atidavė Prancūzijos karalystę, bet Klemensas V tai atšaukė.
+- susijęs iš [[objektai/ivykiai/Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.).md#claim-t-62780|Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.)]]: Liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.
+- susijęs iš [[objektai/ivykiai/Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.).md#claim-t-62781|Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.)]]: Per Flandrijos sukilimo laikotarpio prancūzų ir flandrų kautynes abi šalys neteko daug užmuštųjų.
+- susijęs iš [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.).md#claim-t-01635|Jono Sobieskio elekcija (1674 m.)]]: Prancūziškoji partija kandidatu į sostą iškėlė hetmoną Joną Sobieskį, kai paaiškėjo, kad Kondės išrinkti nepavyks.
+- susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-23327|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: Žygis į Klaipėdą buvo pristatytas kaip vietinis sukilimas; susišaudymuose žuvo 16 lietuvių ir du prancūzai.
+- susijęs iš [[objektai/ivykiai/Konstantinopolio miesto atgavimas (1259 m.).md#claim-t-62332|Konstantinopolio miesto atgavimas (1259 m.)]]: 1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.
+- susijęs iš [[objektai/ivykiai/Konstantinopolio miesto užėmimas (1200 m.).md#claim-t-62333|Konstantinopolio miesto užėmimas (1200 m.)]]: 1200 m. Konstantinopolį užėmė prancūzai ir Venecijos kariai, o Flandrijos grafas Balduinas tapo imperatoriumi.
+- susijęs iš [[objektai/paprociai/Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu.md#claim-t-183828|Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu]]: Lenkų iššūkyje prancūzai turėjo pasirinkti dvikovos vietą, o priėmę kvietimą pasirinko Prahą ir imperatorių Vaclovą teisėju.
+- susijęs iš [[objektai/paprociai/Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu.md#claim-t-87220|Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu]]: Lenkų iššūkyje prancūzai turėjo pasirinkti dvikovos vietą, o priėmę kvietimą pasirinko Prahą ir imperatorių Vaclovą teisėju.
+- susijęs iš [[objektai/paprociai/Riterių garbės puota prieš karo žygį.md#claim-t-87283|Riterių garbės puota prieš karo žygį]]: Kryžiuočių žygio metu Karaliaučiuje riterių garbės puota buvo nutraukta dėl anglų, škotų ir prancūzų vaidų.
+- susijęs iš Klaipėdos konvencija: 1939 m. pradžioje Klaipėdos konvencijos signatarai britai ir prancūzai pranešė negarantuosiantys Klaipėdos status quo.
+- susijęs iš Memelio (Klaipėdos) Konvencija ir Statutas: 1939 m. pradžioje Klaipėdos konvencijos signatarai britai ir prancūzai pranešė, kad negarantuoja Klaipėdos status quo.
+- susijęs iš Versalio sutartis: Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.
+- susijęs iš Versalio sutartis: Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.
+- susijęs iš Berlynas: Maskva ir Berlynas, kaip ir prancūzai bei britai, patarė Kaunui priimti lenkų reikalavimus.
+- susijęs iš Klaipėda: Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.
+- susijęs iš Klaipėdos kraštas: Pagal Versalio sutartį Klaipėdą ir Klaipėdos kraštą valdė prancūzų administracija, remiama prancūzų pėstininkų bataliono.
+- susijęs iš Konstantinopolis: 1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.
+- susijęs iš Ruhro sritis: Tarptautinės bendruomenės dėmesys buvo nukrypęs į Vokietijos Ruhro sritį, kurią tuo metu okupavo prancūzų kariuomenė.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63419|Albrechtas (Romos karalius)]]: 1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi, bet popiežius Klemensas V vėliau tai atšaukė.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75736|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona teigė, kad be faktinės Klaipėdos kontrolės Lietuva neturės juridinės kontrolės.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75763|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona laikėsi nuostatos, kad be faktinės Klaipėdos kontrolės Lietuva neįgis juridinės krašto kontrolės.
 - susijęs iš [[objektai/asmenys/Antuanas Mejė.md#claim-t-24538|Antuanas Mejė]]: Prancūzų kalbininkas Antuanas Mejė pabrėžė archajišką lietuvių valstiečių kalbos pobūdį.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75779|Augustinas Voldemaras]]: Augustinas Voldemaras vadovavo Lietuvos delegacijai prie Paryžiaus taikos konferencijos.
 - susijęs iš [[objektai/asmenys/Balduinas (Flandrijos grafas).md#claim-t-60244|Balduinas (Flandrijos grafas)]]: Po Konstantinopolio užėmimo Balduinas, Flandrijos grafas, tapo imperatoriumi, o lotynai miestą valdė 57 metus.
-- susijęs iš [[objektai/asmenys/Bonifacas VIII.md#claim-t-59902|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]: 1303 m. Bonifacas VIII paskelbė Romos karalių Albrechtą imperatoriumi ir perdavė jam Prancūzijos karalystę, bet Klemensas V tai atšaukė.
 - susijęs iš [[objektai/asmenys/Boucicaut.md#claim-t-87489|Boucicaut]]: Prancūzų vadas Boucicaut'as per kautynes buvo pridaręs nemažai žalos apgultiesiems.
-- susijęs iš [[objektai/asmenys/Boucicaut.md#claim-t-87490|Boucicaut]]: Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno.
-- susijęs iš [[objektai/asmenys/Dominykas Semaško.md#claim-t-63539|Dominykas Semaško]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
 - susijęs iš [[objektai/asmenys/Dominykas Semaško.md#claim-t-63540|Dominykas Semaško]]: Dominyko Semaškos argumentais Lietuvos delegacija rėmėsi derybose su Sovietų Rusija dėl didesnės teritorijos Rytuose.
 - susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-183531|Ernestas Galvanauskas]]: Ernestas Galvanauskas nusistatė Klaipėdos kraštą užimti jėga, manydamas, kad Lietuva jo negaus per Tautų Sąjungą ar Ambasadorių konferenciją.
 - susijęs iš [[objektai/asmenys/Gabrielis Žanas Petisnė.md#claim-t-18896|Gabrielis Žanas Petisnė]]: Gabrielis Žanas Petisnė vadovavo administracijai, prieš kurią lietuviai neigė nukreipę Klaipėdos sukilimą.
@@ -108,13 +153,10 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - susijęs iš [[objektai/asmenys/Jonas de Gandas.md#claim-t-87524|Jonas de Gandas]]: Jonas de Gandas buvo Lankasterio kunigaikštis, Ričardo II dėdė ir Henriko Lankasterio tėvas.
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101667|Juzefas Pilsudskis]]: Juzefas Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kurią laikė „tėvynine“ šalimi.
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101675|Juzefas Pilsudskis]]: Ernestas Galvanauskas ketino Juzefą Pilsudskį sekti pavyzdžiu: pirmiausia sudaryti fait accompli padėtį, o tada derėtis.
-- susijęs iš [[objektai/asmenys/Klemensas V.md#claim-t-59928|Klemensas V]]: Popiežius Klemensas V atšaukė Bonifaco sprendimą paskelbti Albrechtą imperatoriumi ir jam atiduoti Prancūzijos karalystę.
 - susijęs iš [[objektai/asmenys/Oskaras Milašius.md#claim-t-64020|Oskaras Milašius]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
-- susijęs iš [[objektai/asmenys/Paleologas.md#claim-t-60404|Paleologas]]: 1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.
 - susijęs iš [[objektai/asmenys/Philippe de Mezières.md#claim-t-100077|Philippe de Mezières]]: Philippe de Mezières siūlė į kryžiaus žygį prieš krikščionybės priešus pritraukti ir lietuvius.
 - susijęs iš [[objektai/asmenys/Ričardas II.md#claim-t-87570|Ričardas II]]: Apie 1390 m. Anglijoje viešpatavo Ričardas II, o prie Vilniaus buvo Henrikas Lankasteris, Jono de Gando sūnus.
 - susijęs iš [[objektai/asmenys/Simonas Rozenbaumas.md#claim-t-64057|Simonas Rozenbaumas]]: Simonas Rozenbaumas buvo Lietuvos delegacijos narys žydas, kurio argumentais lietuviai rėmėsi derybose su Sovietų Rusija.
-- susijęs iš [[objektai/asmenys/Simonas Rozenbaumas.md#claim-t-64059|Simonas Rozenbaumas]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
 - susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101712|Stasys Raštikis]]: Stasys Raštikis pareiškė, kad Lietuvos kariuomenė kovos, jei gaus tokį įsakymą.
 - susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101715|Stasys Raštikis]]: Stasys Raštikis vyriausybės posėdyje pareiškė, kad kariuomenė kovos, jei gaus tokį įsakymą.
 - susijęs iš [[objektai/autoriai/Canaparius.md#claim-t-30580|Canaparius]]: Canaparius, šv. Adalberto biografas, 999 m. pirmasis paminėjo tikrąjį prūsų vardą, kalbėdamas apie „Pruzzorum fines“.
@@ -124,7 +166,6 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172903|Motiejus Strijkovskis (kronikininkas)]]: Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą.
 - susijęs iš [[objektai/daiktai/Rittersverderio pilis ir laikini įtvirtinimai.md#claim-t-87034|Rittersverderio pilis ir laikini įtvirtinimai]]: Laikini įtvirtinimai buvo pastatyti iš statybai skirtų medžiagų, kad gintųsi, kol atvyks raiteliai.
 - susijęs iš [[objektai/daiktai/Sklandytuvai.md#claim-t-19592|Sklandytuvai]]: Kaune lietuviai konstravo karo ir sporto lėktuvus, lengvuosius bombonešius ir gamino sportui skirtus sklandytuvus.
-- susijęs iš [[objektai/grupes/Flandrai.md#claim-t-62996|Flandrai]]: Flandrijos gyventojai liepos mėnesį sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.
 - susijęs iš [[objektai/grupes/Flandrai.md#claim-t-62997|Flandrai]]: Prancūzų ir flandrų kautynėse abi šalys prarado daug užmuštųjų.
 - susijęs iš [[objektai/grupes/Kiršenšteinai.md#claim-t-86799|Kiršenšteinai]]: Kiršenšteinų giminė, vėliau gavusi pilietybę, keletą šimtmečių valdė Raudonės pilį.
 - susijęs iš [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos.md#claim-t-74635|Lietuvos delegacija prie Paryžiaus taikos konferencijos]]: Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes Lietuva nebuvo juridinė 1919 m. prasidėjusios konferencijos dalyvė.
@@ -133,27 +174,15 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - susijęs iš [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos.md#claim-t-74639|Lietuvos delegacija prie Paryžiaus taikos konferencijos]]: Lietuvos delegacija prie Paryžiaus taikos konferencijos buvo instruktuota siekti išėjimo į jūrą per Klaipėdą arba Liepoją.
 - susijęs iš [[objektai/grupes/Lotynai.md#claim-t-63146|Lotynai]]: Po Konstantinopolio užėmimo imperatoriumi tapo Flandrijos grafas Balduinas, o lotynai ten valdė 57 metus.
 - susijęs iš [[objektai/grupes/Prancūziškoji partija.md#claim-t-66038|Prancūziškoji partija]]: Prancūzų partija atrodė stipriausia po to, kai Jokūbą silpnino nepopuliarumas ir šeimos kivirčai.
-- susijęs iš [[objektai/grupes/Templininkų ordinas.md#claim-t-72652|Templininkų ordinas]]: Templininkų ordinas buvo prancūzų ordinas, minimas šalia italų joanitų ir vokiečių Marijos Mergelės ordino.
 - susijęs iš [[objektai/grupes/Templininkų ordinas.md#claim-t-72653|Templininkų ordinas]]: Prancūzai turėjo templininkų ordiną, priskiriamą kariaujančiųjų riterių ordinams.
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113359|Vilniaus universitetas]]: Michałas Balińskis 1812 m. rugsėjo 22 d. įstojo į Vilniaus universiteto Fizikos ir matematinių mokslų fakultetą.
-- susijęs iš [[objektai/grupes/Škotai.md#claim-t-86839|Škotai]]: Škotijos savanoriai kartu su anglais ir prancūzais papildė vokiečių riterių būrius Karaliaučiuje.
 - susijęs iš [[objektai/ivykiai/1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.).md#claim-t-20146|1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.)]]: 1928 m. gegužę paskelbta nauja Lietuvos konstitucija deklaravo Vilnių Lietuvos sostine.
-- susijęs iš [[objektai/ivykiai/Bonifaco VIII Albrechto paskelbimas imperatoriumi ir Prancūzijos karalystės atidavimas (1303 m.).md#claim-t-62748|Bonifaco VIII Albrechto paskelbimas imperatoriumi ir Prancūzijos karalystės atidavimas (1303 m.)]]: 1303 m. popiežius Bonifacas paskelbė Romos karalių Albrechtą imperatoriumi ir jam atidavė Prancūzijos karalystę, bet Klemensas V tai atšaukė.
 - susijęs iš [[objektai/ivykiai/Daugybės prancūzų ir flandrų žūtis.md#claim-t-62766|Daugybės prancūzų ir flandrų žūtis]]: Flandrijos gyventojai liepos mėnesį sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.
-- susijęs iš [[objektai/ivykiai/Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.).md#claim-t-62780|Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.)]]: Liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.
-- susijęs iš [[objektai/ivykiai/Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.).md#claim-t-62781|Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.)]]: Per Flandrijos sukilimo laikotarpio prancūzų ir flandrų kautynes abi šalys neteko daug užmuštųjų.
-- susijęs iš [[objektai/ivykiai/Jono Sobieskio elekcija (1674 m.).md#claim-t-01635|Jono Sobieskio elekcija (1674 m.)]]: Prancūziškoji partija kandidatu į sostą iškėlė hetmoną Joną Sobieskį, kai paaiškėjo, kad Kondės išrinkti nepavyks.
-- susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-23327|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: Žygis į Klaipėdą buvo pristatytas kaip vietinis sukilimas; susišaudymuose žuvo 16 lietuvių ir du prancūzai.
 - susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-26645|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo.
-- susijęs iš [[objektai/ivykiai/Konstantinopolio miesto atgavimas (1259 m.).md#claim-t-62332|Konstantinopolio miesto atgavimas (1259 m.)]]: 1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.
-- susijęs iš [[objektai/ivykiai/Konstantinopolio miesto užėmimas (1200 m.).md#claim-t-62333|Konstantinopolio miesto užėmimas (1200 m.)]]: 1200 m. Konstantinopolį užėmė prancūzai ir Venecijos kariai, o Flandrijos grafas Balduinas tapo imperatoriumi.
 - susijęs iš [[objektai/ivykiai/Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.).md#claim-t-183233|Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)]]: Kauno politikai tikėjosi Lenkijos ultimatumo ir patys ieškojo būdų užmegzti santykius su Lenkija.
 - susijęs iš [[objektai/ivykiai/Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.).md#claim-t-75120|Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)]]: Kauno politikai tikėjosi Lenkijos ultimatumo ir patys ieškojo būdų užmegzti santykius su Lenkija.
 - susijęs iš [[objektai/ivykiai/Napoleono karo kampanija Rusijos imperijos gilumoje.md#claim-t-86922|Napoleono karo kampanija Rusijos imperijos gilumoje]]: 1812 m. prancūzams valdant Vilnių ir Lietuvą, krašto bajorai laukė žinių apie Napoleono kampaniją Rusijos imperijos gilumoje.
 - susijęs iš [[objektai/paprociai/Klaipėdos krašto autonominis režimas.md#claim-t-67119|Klaipėdos krašto autonominis režimas (kraštas)]]: Klaipėdos krašto autonominis statutas apibrėžė vietinių organų kompetenciją, seimelio, direktorijos ir gubernatoriaus funkcijas.
-- susijęs iš [[objektai/paprociai/Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu.md#claim-t-183828|Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu]]: Lenkų iššūkyje prancūzai turėjo pasirinkti dvikovos vietą, o priėmę kvietimą pasirinko Prahą ir imperatorių Vaclovą teisėju.
-- susijęs iš [[objektai/paprociai/Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu.md#claim-t-87220|Riteriškas dvikovos iššūkis su neutralios vietos ir teisėjo pasirinkimu]]: Lenkų iššūkyje prancūzai turėjo pasirinkti dvikovos vietą, o priėmę kvietimą pasirinko Prahą ir imperatorių Vaclovą teisėju.
-- susijęs iš [[objektai/paprociai/Riterių garbės puota prieš karo žygį.md#claim-t-87283|Riterių garbės puota prieš karo žygį]]: Kryžiuočių žygio metu Karaliaučiuje riterių garbės puota buvo nutraukta dėl anglų, škotų ir prancūzų vaidų.
 - susijęs iš [[objektai/paprociai/Šturmovųjų grupių fronto pralaužimo taktika.md#claim-t-67244|Šturmovųjų grupių fronto pralaužimo taktika]]: Lenkai frontui pralaužti atsivežė specialias šturmovąsias grupes.
 - susijęs iš [[objektai/posakiai/Menko grobio ir tuščios garbės pasigviešę.md#claim-t-86863|Menko grobio ir tuščios garbės pasigviešę]]: Apgultieji prancūzams priekaištavo, kad šie, menko grobio ir tuščios garbės pasigviešę, atvyko lieti krikščionių kraujo.
 - susijęs iš [[objektai/posakiai/Teisybė, jie niekada nesitraukia.md#claim-t-41466|Teisybė, jie niekada nesitraukia]]: Posakis „Teisybė, jie niekada nesitraukia“ apibūdina raitelius kaip nesitraukiančius ir visu greičiu puolančius.
@@ -162,18 +191,13 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - susijęs iš [[objektai/posakiai/„tėvyninė“ šalis.md#claim-t-20955|„tėvyninė“ šalis]]: Józefas Piłsudskis pareiškė, kad jo politika taiki ir kad jis nepuls Lietuvos, kurią vadino „tėvynine“ šalimi.
 - susijęs iš Guillaume de Machaut Confort d’Ami: Guillaume de Machaut 1357 m. veikale „Confort d’Ami“ paminėjo žygį, kuriame dalyvavo svečių net iš Anglijos.
 - susijęs iš Klaipėdos konvencija: Vasario 16 d. Santarvės šalių atstovai po ilgų derybų pripažino Klaipėdos kraštą Lietuvai.
-- susijęs iš Klaipėdos konvencija: 1939 m. pradžioje Klaipėdos konvencijos signatarai britai ir prancūzai pranešė negarantuosiantys Klaipėdos status quo.
 - susijęs iš Klaipėdos teritorijos perdavimo sutartis: 1939 m. pradžioje britai ir prancūzai pranešė negarantuosiantys Klaipėdos status quo, o be pagalbos Lietuva Klaipėdos nebegalėjo išlaikyti.
 - susijęs iš Latopisiec Litwy i Kronika Ruška: „Latopisiec Litewski“ mūšio vietą nurodo prie Vilijos upės, ties Horodoku, vietovėje, vadintoje Weyiszczuszki.
-- susijęs iš Memelio (Klaipėdos) Konvencija ir Statutas: 1939 m. pradžioje Klaipėdos konvencijos signatarai britai ir prancūzai pranešė, kad negarantuoja Klaipėdos status quo.
-- susijęs iš Versalio sutartis: Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.
-- susijęs iš Versalio sutartis: Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.
 - susijęs iš Wremiennik Sofijski: Sofijski Wremiennik rašo, kad vokiečių pulkai atėjo prie Vilniaus prieš Vytautą, kovėsi prie miesto ir buvo Lietuvos nugalėti.
 - susijęs iš Anglija: Derbio grafas Henrikas vadovavo Gdansko uoste išsilaipinusiems lankininkams ir vėliau, kaip Henrikas IV, paveldėjo Anglijos sostą.
 - susijęs iš Aukaimis: Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Aukaimį bei dar tris pilis.
 - susijęs iš Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė): Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.
 - susijęs iš Bajerburgas Raudonė: Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.
-- susijęs iš Berlynas: Maskva ir Berlynas, kaip ir prancūzai bei britai, patarė Kaunui priimti lenkų reikalavimus.
 - susijęs iš Gedimino pilis (pilis): Guillaume de Machaut rašė, kad 1357 m. žygyje pilgrimai, be Medvėgalio, paėmė Kvėdarną, Gedimino pilį, Gegužkalnį ir Aukaimį.
 - susijęs iš Gegužkalnis: Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Gegužkalnį kartu su Kvėdarna, Gedimino pilimi bei Aukaimiu.
 - susijęs iš JAV: 1937 m. Lietuvos krepšininkams padėjo JAV lietuvių treneriai ir keli žaidėjai.
@@ -181,11 +205,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - susijęs iš Kaunas: Kaune lietuviai konstravo ir statė karo bei sporto lėktuvus, įskaitant lengvuosius bombonešius, ir gamino sportinius sklandytuvus.
 - susijęs iš Klaipėda: Britai iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti Klaipėdą, bet vėliau pasisakė už laisvojo miesto statusą.
 - susijęs iš Klaipėda: 1252 m. Livonijos ordinas prie Kuršmarių ir Baltijos sandūros statytą pilį pavadino Memeliu, o senoji vietos sodyba vadinosi Klaipėda.
-- susijęs iš Klaipėda: Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.
 - susijęs iš Klaipėda: 1923 m. sausio 9 d. į Klaipėdą žygiavo 40 reguliariosios kariuomenės karininkų, 584 kariai, šauliai, studentai ir apie 300 vietinių gyventojų.
 - susijęs iš Klaipėda: Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo.
-- susijęs iš Klaipėdos kraštas: Pagal Versalio sutartį Klaipėdą ir Klaipėdos kraštą valdė prancūzų administracija, remiama prancūzų pėstininkų bataliono.
-- susijęs iš Konstantinopolis: 1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.
 - susijęs iš Konstantinopolis: 1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas.
 - susijęs iš Krautuvių Pilis: Gaisras staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį.
 - susijęs iš Kvėdarna: Eiliuotoje kronikoje Kvėdarna minima tarp pilių, kurias pilgrimai esą paėmė kartu su Medvėgaliu.
@@ -200,7 +221,6 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - susijęs iš Neris Vilija: Kitoje Vilijos pusėje, prie Visevaldės pilies netoli senojo Kauno, buvo Skirgailos stovykla.
 - susijęs iš Pagėgiai: Sausio 14 d. iš Pagėgių atvyko dalis II ir III grupių sukilėlių pagrindinėms pajėgoms sustiprinti.
 - susijęs iš Praha: Prancūzai priėmė kvietimą į dvikovą ir pasirinko Prahą kautynių vieta.
-- susijęs iš Ruhro sritis: Tarptautinės bendruomenės dėmesys buvo nukrypęs į Vokietijos Ruhro sritį, kurią tuo metu okupavo prancūzų kariuomenė.
 - susijęs iš Ruro kraštas (kraštas): Vakaruose vyko ginčai dėl nesumokėtų Vokietijos reparacijų ir prancūzų dalinių įvedimo į Ruro kraštą.
 - susijęs iš Ruro kraštas (kraštas): Vakaruose vyko ginčai dėl nesumokėtų Vokietijos reparacijų ir prancūzų dalinių įvedimo į Ruro kraštą.
 - susijęs iš Stabina: Lietuvos vyriausybė pasiūlė laikiną demarkacijos liniją, kuri turėjo eiti per Grabovą, Augustavą ir Stabiną.
@@ -315,6 +335,16 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 259602-260285; hash=2221a93e3f8c6e9ee62076d811d681f92f08dc9e23441ab7cafcf8e6a82889da; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.96
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Prancūzai: owner_note_path, group, gap=23
+  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Prancūzai" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-005
@@ -333,7 +363,18 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   statusas: verified
   pagrindžia:
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c2e5e465ab7d84c01d711206634171618cf017313140cb398fae2bfb6632df89; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prancūzai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prancūzai" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
 - Prancūzai dalyvavo_musyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
 - Prancūzai keliavo_i [[objektai/vietos/Prūsija]]
+- Prancūzai uzeme [[objektai/vietos/Venecija]]

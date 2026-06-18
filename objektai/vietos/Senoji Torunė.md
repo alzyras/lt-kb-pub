@@ -31,24 +31,44 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   global_id: t-58634
   teiginys: 'Senojoje Torunėje minimi septyni broliai veikiausiai buvo ne įgula, o 1231 m. Kulmo žemės puolime dalyvavę riteriai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kulmas; mentioned_place: Pilaitė; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Torunė; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Pilaitė'
   temporaliniai_duomenys: 'įvykio data: 1231 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos informaciją.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 166228-166627; hash=27722730ce88c0f3361ef73339aec42212f37d3dd5c67f78f47a5c6cc3c7f892; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Torunė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Senoji Torunė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Torunė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senoji Torunė" parinktas kaip owner_note_path. Targetas "Torunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58635"></a>
 - t-002
   global_id: t-58635
   teiginys: 'Senojoje Torunėje greta pilies augo miestas, 1233 m. gavęs privilegiją.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_place: Lisske; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_place: Torunė; mentioned_place: Lisske'
   temporaliniai_duomenys: 'įvykio data: 1233 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9059677b6323e6ccbfd54ec9cede669e085832b4306161a512d8b9c57b95db94; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Senoji Torunė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=69
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senoji Torunė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -79,4 +99,24 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 166228-166627; hash=27722730ce88c0f3361ef73339aec42212f37d3dd5c67f78f47a5c6cc3c7f892; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Torunė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Senoji Torunė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Torunė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senoji Torunė" parinktas kaip owner_note_path. Targetas "Torunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9059677b6323e6ccbfd54ec9cede669e085832b4306161a512d8b9c57b95db94; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Senoji Torunė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=69
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senoji Torunė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

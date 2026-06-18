@@ -29,6 +29,9 @@ Dusburgietis teigia, kad kuris netgi turėjo ilgai jam mokėti duoklę po 1000 a
   sudarymo_pagrindimas: 'Citata palaiko pinigų rūšį ir jų naudojimą duoklei, bet pradinis teiginys yra fragmentiškas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 697988-698098; hash=5c3f7e78d80a8d34f07078eda734390c17c9446600088cb700138a689c37d6e1; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +50,6 @@ Dusburgietis teigia, kad kuris netgi turėjo ilgai jam mokėti duoklę po 1000 a
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 697988-698098; hash=5c3f7e78d80a8d34f07078eda734390c17c9446600088cb700138a689c37d6e1; match=exact
+  sprendimo_priezastis: auto

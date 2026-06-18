@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-55031
   teiginys: 'Šventaragio slėnyje buvęs aukuras buvo skirtas mirusiųjų kūnams deginti pagal lietuvių pagonių papročius.'
   sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie aukuro paskirtį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]'
   pagrindžia:
     - c-002
 
@@ -70,18 +70,18 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Birutė|Birutė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/autoriai/Józef Wolff.md#claim-t-11263|Józef Wolff]]: Istorikas Józef Wolff teigė, kad sunku Patirgą ir Ringailę laikyti vienos motinos vaikais.
 - susijęs iš [[objektai/daiktai/Aukuro kalnai ir akmenys.md#claim-t-77919|Aukuro kalnai ir akmenys]]: Ugnies garbinimas buvo susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
+- susijęs iš Šventaragio slėnis: Šventaragio slėnyje buvęs aukuras naudotas mirusiųjų kūnams deginti pagal lietuvių pagonių papročius.
+- susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86451|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Šventaragio vardas aiškintas lietuviškais žodžiais „šventas ragas“, siejant juos su aukuru ir kyšuliu tarp Vilijos bei Vilnios.
+- susijęs iš [[objektai/autoriai/Józef Wolff.md#claim-t-11263|Józef Wolff]]: Istorikas Józef Wolff teigė, kad sunku Patirgą ir Ringailę laikyti vienos motinos vaikais.
 - susijęs iš [[objektai/daiktai/Dievų stabai.md#claim-t-08288|Dievų stabai]]: Per metines viešas aukas žmonės meldėsi prie šėtroje stovinčio aukuro ir dievo stabo.
 - susijęs iš [[objektai/daiktai/Torielius.md#claim-t-08336|Torielius]]: Per išeiginių aukų apeigą viršaitis nešė duonos šmotelį ant torieliaus ir midaus kaušą arba taurę.
 - susijęs iš [[objektai/paprociai/Išeiginės aukos per metines viešes.md#claim-t-07768|Išeiginės aukos per metines viešes]]: Per metines viešes viršaitis ar viršininkas kartu su žyniais ir svietu atlikdavo viešą aukos apeigą po didžiuoju ąžuolu.
 - susijęs iš [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas.md#claim-t-183333|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]: Romuvoje pagrindinis kulto objektas buvo ugnis.
 - susijęs iš [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas.md#claim-t-54334|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]: Romuvoje pagrindinis kulto objektas buvo ugnis.
 - susijęs iš Romuva: Romuvoje pagrindinis kulto objektas buvo ugnis.
-- susijęs iš Šventaragio slėnis: Šventaragio slėnyje buvęs aukuras naudotas mirusiųjų kūnams deginti pagal lietuvių pagonių papročius.
 - susijęs iš [[objektai/zodynas/Romuva ir krivis.md#claim-t-75585|Romuva ir krivis]]: Romuvoje pagrindinis kulto objektas buvo ugnis.
 - susijęs iš [[objektai/zodynas/Romuva krivis.md#claim-t-77805|Romuva krivis]]: Romuvoje pagrindinis kulto objektas buvo ugnis.
-- susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86451|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Šventaragio vardas aiškintas lietuviškais žodžiais „šventas ragas“, siejant juos su aukuru ir kyšuliu tarp Vilijos bei Vilnios.
 ## Reikšmingi paminėjimai
 
 - c-001

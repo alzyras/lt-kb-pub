@@ -23,9 +23,19 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
   global_id: t-60399
   teiginys: 'Romos karalius Rudolfas kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė savo sūnui Albrechtui.'
   sudarymo_pagrindimas: 'Teiginys yra gramatinis ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_place: Austrija; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_place: Austrija; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_place: Čekija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 716578-716900; hash=fad42dc315a276de1303990fb63c4eac0a984d890cd3d5a1b847ac76f480b06b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Austrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Otokaras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Otokaras" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Otokaras (Čekijos karalius).md#claim-t-35259|Otokaras (Čekijos karalius)]]: Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje.
 ## Reikšmingi paminėjimai
 
@@ -46,4 +56,24 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 716578-716900; hash=fad42dc315a276de1303990fb63c4eac0a984d890cd3d5a1b847ac76f480b06b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Austrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Otokaras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Otokaras" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 716578-716900; hash=fad42dc315a276de1303990fb63c4eac0a984d890cd3d5a1b847ac76f480b06b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Austrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Otokaras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Otokaras" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

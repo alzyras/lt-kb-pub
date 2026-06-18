@@ -35,11 +35,21 @@ Mulevičius 120.
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=29e00702ba6de9f51ae92b292668a19b21c3d999e2793bd841168d10649941b0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antspaudai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: L. Mulevičius: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Antspaudai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "L. Mulevičius" parinktas kaip owner_note_path. Targetas "Antspaudai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/A. Tyla.md#claim-t-30546|A. Tyla]]: A. Tyla svarstė 1905 m. revoliucijos klausimus ir teikė pastabų dėl lietuviškos knygos istorijos.
 - susijęs iš [[objektai/autoriai/E. Griškūnaitė.md#claim-t-30592|E. Griškūnaitė]]: E. Griškūnaitė rašė apie 1905 m. sukilimą Lietuvoje.
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179544|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Girdzijauskienė parašė veikalą „1905-1907 metų revoliucija Lietuvoje“.
-- susijęs iš [[objektai/autoriai/O. Maksimaitienė.md#claim-t-30883|O. Maksimaitienė]]: O. Maksimaitienė pateikė duomenų apie 1863 m. sukilėlių kovinius veiksmus Augustavo gubernijoje ir jų antspaudus.
 - susijęs iš [[objektai/autoriai/P. Girdzijauskienė.md#claim-t-30898|P. Girdzijauskienė]]: P. Girdzijauskienė 1955 m. paskelbė darbą „1905-1907 metų revoliucija Lietuvoje“.
+- susijęs iš [[objektai/autoriai/O. Maksimaitienė.md#claim-t-30883|O. Maksimaitienė]]: O. Maksimaitienė pateikė duomenų apie 1863 m. sukilėlių kovinius veiksmus Augustavo gubernijoje ir jų antspaudus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -62,3 +72,13 @@ Mulevičius 120.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=29e00702ba6de9f51ae92b292668a19b21c3d999e2793bd841168d10649941b0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antspaudai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: L. Mulevičius: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Antspaudai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "L. Mulevičius" parinktas kaip owner_note_path. Targetas "Antspaudai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

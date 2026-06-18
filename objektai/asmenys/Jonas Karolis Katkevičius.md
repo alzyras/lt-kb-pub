@@ -35,7 +35,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   global_id: t-79042
   teiginys: '1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo labiau apie karo eigą, todėl perrašytas kaip faktas apie užrašo objektą.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Estija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Salaspilis; mentioned_place: Valakija; mentioned_place: Švedija'
+  susije_objektai: 'counterparty: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Livonija; mentioned_place: Švedija; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Estija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Salaspilis; mentioned_place: Valakija'
   semantiniai_rysiai: '[[objektai/asmenys/Jonas Karolis Katkevičius|Jonas Karolis Katkevičius]] kariavo prieš [[objektai/grupes/Švedai|Švedai]]'
   temporaliniai_duomenys: 'mūšio data: 1590 m.; mūšio data: 1595 m.; mūšio data: 1599 m.; mūšio data: 1600 m.; mūšio data: 1601-1602; mūšio data: 1602 m.; mūšio data: 1603 m.; mūšio data: 1604 m.; mūšio data: 1605 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Karolis Katkevičius kariavo prieš Švedai“, o ne visam objekto laikotarpiui.'
@@ -74,7 +74,7 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   global_id: t-79047
   teiginys: 'Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.'
   sudarymo_pagrindimas: 'Teiginys yra rišlus ir paremtas citata, pašalinant OCR triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/rokošas|rokošas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Daugavgryva; mentioned_place: Kuoknesė; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Viljandis'
+  susije_objektai: 'mentioned_place: Kuoknesė; mentioned_place: Livonija; mentioned_place: Viljandis; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/rokošas|rokošas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Daugavgryva; mentioned_place: Lenkija; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1608 m.; įvykio data: 1609 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra rišlus ir paremtas citata, pašalinant OCR triukšmą.'

@@ -34,9 +34,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išplėstas įvardis į aiškų veikėją ir pašalintas šaltinio boilerplate.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kaidanas|Kaidanas]]; mentioned_place: Naugardukas; mentioned_place: Pripetė; mentioned_place: Slonimas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kaidanas|Kaidanas]]; mentioned_place: Pripetė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Naugardukas; mentioned_place: Slonimas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 131584-132185; hash=4e1ee9fd3fe054143f493dda3dd215e76de98fb9eb498b37b353dc91da0b982f; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaidanas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kaidanas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių" parinktas kaip owner_note_path. Targetas "Kaidanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185565"></a>
 - t-002
@@ -46,9 +56,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sutrumpinta ir išvalyta fragmentiška citatos kopija, išlaikant palaikomus faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kaidanas|Kaidanas]]; mentioned_place: Naugardukas; mentioned_place: Slonimas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kaidanas|Kaidanas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Naugardukas; mentioned_place: Slonimas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 131890-132581; hash=90d6c0b37f71f8e63c28e6b11efdf260472efcbe15ee943455b89a872cb58bc1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaidanas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kaidanas: mention_match, person, gap=92
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių" parinktas kaip owner_note_path. Targetas "Kaidanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185566"></a>
 - t-003
@@ -58,9 +78,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas menkinantis žodis ir OCR triukšmas, faktas sukonkretintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_person: [[objektai/asmenys/Kaidanas|Kaidanas]]; mentioned_place: Dnepras; mentioned_place: Pripetė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kaidanas|Kaidanas]]; mentioned_place: Dnepras; mentioned_place: Pripetė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 132582-133256; hash=728fe110e97331c0ba4f148c9b773f864e57a133a1f9e2795bb820ddb6b4cba7; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dnepras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Dnepras: mention_match, place, gap=80
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių" parinktas kaip owner_note_path. Targetas "Dnepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -107,6 +137,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 131584-132185; hash=4e1ee9fd3fe054143f493dda3dd215e76de98fb9eb498b37b353dc91da0b982f; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaidanas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kaidanas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių" parinktas kaip owner_note_path. Targetas "Kaidanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -138,4 +178,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 131890-132581; hash=90d6c0b37f71f8e63c28e6b11efdf260472efcbe15ee943455b89a872cb58bc1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaidanas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kaidanas: mention_match, person, gap=92
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių" parinktas kaip owner_note_path. Targetas "Kaidanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 132582-133256; hash=728fe110e97331c0ba4f148c9b773f864e57a133a1f9e2795bb820ddb6b4cba7; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dnepras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Dnepras: mention_match, place, gap=80
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių" parinktas kaip owner_note_path. Targetas "Dnepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

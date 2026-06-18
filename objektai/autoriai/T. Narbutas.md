@@ -33,6 +33,16 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų.
   susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1377639-1377888; hash=ff039c8969799628e5afb2d0484e3d23cb9121f29e68f5d9b7444a011811d2ed; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: T. Narbutas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "T. Narbutas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186510|Teodoras Narbutas]]: Teodoras Narbutas plačiai, nors ir nekritiškai, panaudojo Bychovco kroniką devynių tomų „Lietuvių tautos istorijoje“ ir laikė ją itin vertingu šaltiniu.
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186512|Teodoras Narbutas]]: 1846 m. atskiru leidiniu paskelbtos Bychovco kronikos išnašose Teodoras Narbutas paaiškino kai kurias teksto vietas.
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186513|Teodoras Narbutas]]: Teodoro Narbuto dėka istoriografijoje įsigalėjo dabartinis kronikos pavadinimas „Bychovco kronika“.
@@ -59,3 +69,13 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1377639-1377888; hash=ff039c8969799628e5afb2d0484e3d23cb9121f29e68f5d9b7444a011811d2ed; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: T. Narbutas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "T. Narbutas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

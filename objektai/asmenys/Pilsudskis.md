@@ -34,11 +34,7 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
   susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75736|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona teigė, kad be faktinės Klaipėdos kontrolės Lietuva neturės juridinės kontrolės.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75763|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona laikėsi nuostatos, kad be faktinės Klaipėdos kontrolės Lietuva neįgis juridinės krašto kontrolės.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75772|Augustinas Voldemaras]]: 1927 m. gruodžio 10 d. Ženevoje Augustinas Voldemaras atsakė Juzefui Pilsudskiui, kad karo padėties tarp Lietuvos ir Lenkijos nėra.
-- susijęs iš [[objektai/asmenys/Dovas Zaunius.md#claim-t-26437|Dovas Zaunius]]: Dovas Zaunius 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje narys.
-- susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-183531|Ernestas Galvanauskas]]: Ernestas Galvanauskas nusistatė Klaipėdos kraštą užimti jėga, manydamas, kad Lietuva jo negaus per Tautų Sąjungą ar Ambasadorių konferenciją.
 - susijęs iš [[objektai/asmenys/J. Pilsudskis.md#claim-t-108750|J. Pilsudskis]]: Pilsudskis motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe.
 - susijęs iš [[objektai/asmenys/J. Pilsudskis.md#claim-t-108753|J. Pilsudskis]]: 1926 m. karinis perversmas Lenkijoje, sugrąžinęs J. Pilsudskį į valdžią, skatino veikti Seimo valdymu nepatenkintas jėgas.
 - susijęs iš [[objektai/asmenys/J. Pilsudskis.md#claim-t-108755|J. Pilsudskis]]: J. Pilsudskis turėjo gausių lenkų šalininkų, kurie siekė išlaikyti Lietuvą Lenkijos sudėtyje.
@@ -47,9 +43,14 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101670|Juzefas Pilsudskis]]: 1919 m. Juzefo Pilsudskio šalininkai tarp lenkų siekė išlaikyti Lietuvą Lenkijos sudėtyje.
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101672|Juzefas Pilsudskis]]: Juzefo Pilsudskio grįžimas į valdžią po 1926 m. perversmo Lenkijoje skatino veikti Seimo valdymu nepatenkintas Lietuvos politines jėgas.
 - susijęs iš [[objektai/asmenys/Juzefas Pilsudskis.md#claim-t-101675|Juzefas Pilsudskis]]: Ernestas Galvanauskas ketino Juzefą Pilsudskį sekti pavyzdžiu: pirmiausia sudaryti fait accompli padėtį, o tada derėtis.
+- susijęs iš [[objektai/asmenys/Romanas Dmovskis.md#claim-t-19207|Romanas Dmovskis]]: Romano Dmovskio ir J. Pilsudskio šalininkai siekė išlaikyti Lietuvą Lenkijos sudėtyje.
+- susijęs iš Ženeva: Ženevoje Tautų Sąjungos Taryboje Juzefas Pilsudskis paklausė Augustino Voldemaro: „Karas ar taika?“
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75736|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona teigė, kad be faktinės Klaipėdos kontrolės Lietuva neturės juridinės kontrolės.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75763|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona laikėsi nuostatos, kad be faktinės Klaipėdos kontrolės Lietuva neįgis juridinės krašto kontrolės.
+- susijęs iš [[objektai/asmenys/Dovas Zaunius.md#claim-t-26437|Dovas Zaunius]]: Dovas Zaunius 1926 m. buvo Lietuvos delegacijos Tautų Sąjungoje Ženevoje narys.
+- susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-183531|Ernestas Galvanauskas]]: Ernestas Galvanauskas nusistatė Klaipėdos kraštą užimti jėga, manydamas, kad Lietuva jo negaus per Tautų Sąjungą ar Ambasadorių konferenciją.
 - susijęs iš [[objektai/asmenys/L. Želigovskis.md#claim-t-183558|L. Želigovskis]]: 1920 m. spalio 9 d. L. Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
 - susijęs iš [[objektai/asmenys/Petras Klimas.md#claim-t-46283|Petras Klimas]]: Petras Klimas 1926 m. dalyvavo Lietuvos delegacijoje Tautų Sąjungoje Ženevoje kaip pasiuntinys.
-- susijęs iš [[objektai/asmenys/Romanas Dmovskis.md#claim-t-19207|Romanas Dmovskis]]: Romano Dmovskio ir J. Pilsudskio šalininkai siekė išlaikyti Lietuvą Lenkijos sudėtyje.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179169|Lenkai]]: Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, o Lietuvai teko stabdyti tolesnį jo dalinių judėjimą į Lietuvos teritoriją.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179180|Lenkai]]: Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, Tautų Sąjunga pasirodė bejėgė, o Lietuvai teko stabdyti želigovskininkų judėjimą.
 - susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78201|Lenkijos kariuomenė]]: Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariuomenių, lenkai ignoravo 1919 m. birželio 18 d. „Maršalo Fošo“ liniją, o Antantė vengė pripažinti naujas valstybes, laikydamasi Rusijos nedalomumo principo.
@@ -61,7 +62,6 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
 - susijęs iš [[objektai/posakiai/„tėvyninė“ šalis.md#claim-t-20955|„tėvyninė“ šalis]]: Józefas Piłsudskis pareiškė, kad jo politika taiki ir kad jis nepuls Lietuvos, kurią vadino „tėvynine“ šalimi.
 - susijęs iš Lietuvos delegacijos nota Paryžiaus taikos konferencijoje (1919 m. kovo 24 d.): 1919 m. kovo 24 d. Lietuvos delegacijos nota kaltino Lenkiją išnaudojus Lietuvą ir XVI a. unija sukėlus vidinį chaosą.
 - susijęs iš Suvalkų sutartis: Lucjanui Želigovskiui buvo pavesta inscenizuoti 1-osios lietuvių-baltarusių divizijos maištą ir įsiveržti į Lietuvą, pažeidžiant Suvalkų taikos sutartį.
-- susijęs iš Ženeva: Ženevoje Tautų Sąjungos Taryboje Juzefas Pilsudskis paklausė Augustino Voldemaro: „Karas ar taika?“
 - susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108561|administracinė linija demarkacijos linija]]: 1919 m. birželio 18 d. „Maršalo Fošo“ demarkacijos liniją lenkai ignoravo, o Antantė vengė pripažinti naujas valstybes.
 - susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108566|administracinė linija demarkacijos linija]]: Tautų Sąjungos Taryba ribą tarp Lietuvos ir Lenkijos pavadino administracine linija, bet ne siena.
 - susijęs iš [[objektai/zodynas/fait accompli.md#claim-t-77794|fait accompli]]: Ernestas Galvanauskas siekė jėga užimti Klaipėdos kraštą, sudaryti fait accompli padėtį ir tada derėtis.

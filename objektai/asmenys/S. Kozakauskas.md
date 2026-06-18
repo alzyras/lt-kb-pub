@@ -24,6 +24,16 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
   susije_objektai: 'mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=eeb006a6fbff04107513adf6eb01e0e4e2aec434ee7f0562a24ca4d4f5e1e96a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> M. Stanišauskas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: S. Kozakauskas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: M. Stanišauskas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "S. Kozakauskas" parinktas kaip owner_note_path. Targetas "M. Stanišauskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-40409"></a>
 - t-002
@@ -32,6 +42,16 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
   susije_objektai: 'mentioned_person: [[objektai/asmenys/M. Stanišauskas|M. Stanišauskas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9aecc44089b9c5528bda806614338c47befaa096ae995704d03cb7a6b6fb9c32; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: S. Kozakauskas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rusija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "S. Kozakauskas" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75699|Antanas Mackevičius]]: Antanui Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti juos pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą.
 - susijęs iš [[objektai/asmenys/B. Kolyška.md#claim-t-40053|B. Kolyška]]: B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais pateko į nelaisvę.
 - susijęs iš [[objektai/asmenys/Zigmantas Sierakauskas.md#claim-t-64420|Zigmantas Sierakauskas]]: Zigmantas Sierakauskas pateko į nelaisvę, kai gegužės 10-osios naktį sukilėlius apsupo paporučikio fon Gaso dalinys.
@@ -73,4 +93,24 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9aecc44089b9c5528bda806614338c47befaa096ae995704d03cb7a6b6fb9c32; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: S. Kozakauskas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rusija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "S. Kozakauskas" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=eeb006a6fbff04107513adf6eb01e0e4e2aec434ee7f0562a24ca4d4f5e1e96a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> M. Stanišauskas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: S. Kozakauskas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: M. Stanišauskas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "S. Kozakauskas" parinktas kaip owner_note_path. Targetas "M. Stanišauskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

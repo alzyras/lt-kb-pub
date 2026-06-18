@@ -35,6 +35,9 @@ Dusburgietis teigia, kad miškinis A.
   temporalinis_llm_pakomentavimas: 'Citata leidžia teigti publikavimo vietą ir metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 786854-786973; hash=cdded8ac49f3e6000d9665f60ee7de06474950c4d2883987b1b1621faf732699; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +52,6 @@ Dusburgietis teigia, kad miškinis A.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 786854-786973; hash=cdded8ac49f3e6000d9665f60ee7de06474950c4d2883987b1b1621faf732699; match=exact
+  sprendimo_priezastis: auto

@@ -23,6 +23,9 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
   sudarymo_pagrindimas: 'Pradiniame teiginyje buvo neaiški pirmojo asmens forma ir sutrumpinimai.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 829190-829277; hash=b192519e555ac925f9ce4ccacde409c4589821ffe635be8ec1318a580050c66f; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 <a id="claim-t-87541"></a>
 - t-002
@@ -31,6 +34,9 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
   sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas; citata leidžia atkurti pilną faktinį sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c93360a491c33e88c25ca6d6bf8a699c87a70bdc7de1256fb4070da4ec3adb02; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -58,4 +64,10 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c93360a491c33e88c25ca6d6bf8a699c87a70bdc7de1256fb4070da4ec3adb02; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 829190-829277; hash=b192519e555ac925f9ce4ccacde409c4589821ffe635be8ec1318a580050c66f; match=whitespace_regex
+  sprendimo_priezastis: auto

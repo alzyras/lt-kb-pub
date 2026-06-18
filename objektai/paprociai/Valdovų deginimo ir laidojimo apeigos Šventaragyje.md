@@ -40,6 +40,16 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Neris'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 214543-215373; hash=1ebe435ee021a49159da38f694cc8d843166309d233bc13ad3e12095a03a69e4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Germantas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valdovų deginimo ir laidojimo apeigos Šventaragyje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Germantas: mention_match, person, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valdovų deginimo ir laidojimo apeigos Šventaragyje" parinktas kaip owner_note_path. Targetas "Germantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185857"></a>
 - t-002
@@ -52,6 +62,16 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 215624-216307; hash=4a32ca32128d359702a8feab0b21b0918c64d084fe9dfbef2e6cf671ea0a0565; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valdovų deginimo ir laidojimo apeigos Šventaragyje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valdovų deginimo ir laidojimo apeigos Šventaragyje" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185858"></a>
 - t-003
@@ -64,6 +84,16 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Laužas|Laužas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 215749-216661; hash=5e56b0d7a4f749931736046a5c906b9d1cbcf5eb56dc26ef84edb4e720ec0052; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drabužiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valdovų deginimo ir laidojimo apeigos Šventaragyje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Drabužiai: mention_match, thing, gap=75
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valdovų deginimo ir laidojimo apeigos Šventaragyje" parinktas kaip owner_note_path. Targetas "Drabužiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -121,6 +151,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 214543-215373; hash=1ebe435ee021a49159da38f694cc8d843166309d233bc13ad3e12095a03a69e4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Germantas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valdovų deginimo ir laidojimo apeigos Šventaragyje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Germantas: mention_match, person, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valdovų deginimo ir laidojimo apeigos Šventaragyje" parinktas kaip owner_note_path. Targetas "Germantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-003
@@ -155,4 +195,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 215624-216307; hash=4a32ca32128d359702a8feab0b21b0918c64d084fe9dfbef2e6cf671ea0a0565; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valdovų deginimo ir laidojimo apeigos Šventaragyje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valdovų deginimo ir laidojimo apeigos Šventaragyje" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 215749-216661; hash=5e56b0d7a4f749931736046a5c906b9d1cbcf5eb56dc26ef84edb4e720ec0052; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drabužiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valdovų deginimo ir laidojimo apeigos Šventaragyje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Drabužiai: mention_match, thing, gap=75
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valdovų deginimo ir laidojimo apeigos Šventaragyje" parinktas kaip owner_note_path. Targetas "Drabužiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -32,7 +32,7 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
   global_id: t-82167
   teiginys: 'Caras Aleksandras II su aplinka rengė baudžiavos panaikinimo projektus Rusijos imperijoje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Aleksandrą II ir jo aplinką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus Senienų muziejus|Vilniaus Senienų muziejus]]; mentioned_place: Krymas; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Vilniaus Senienų muziejus|Vilniaus Senienų muziejus]]; mentioned_place: Krymas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1855 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Aleksandrą II ir jo aplinką.'
@@ -44,23 +44,33 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
   global_id: t-82169
   teiginys: 'Aleksandro II atėjimas į sostą žymėjo liberalių reformų pradžią ir atgaivino visuomenės politinius siekius.'
   sudarymo_pagrindimas: 'Teiginys perrašytas į rišlų sakinį apie Aleksandrą II.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas į rišlų sakinį apie Aleksandrą II.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9465e12f9de49ef797d9f39fe968f88e635758b948b61641a0c7f437c3e3a7ad; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandras II: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras II" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Aleksandro II reformų pradžia.md#claim-t-86905|Aleksandro II reformų pradžia]]: 1855 m., po Nikolajaus I mirties ir Rusijos pralaimėjimo Krymo kare, imperijoje prasidėjo Aleksandro II reformos.
+- susijęs iš Aleksandro II manifestas dėl baudžiavos panaikinimo (1861 m.): 1861 m. pavasarį Aleksandras II pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės.
 - susijęs iš [[objektai/asmenys/Eustachijus Tiškevičius.md#claim-t-87665|Eustachijus Tiškevičius]]: Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus, sutelkęs krašto visuomenę.
 - susijęs iš [[objektai/autoriai/Adomas Honorijus Kirkoras.md#claim-t-54996|Adomas Honorijus Kirkoras]]: Adomas Honorijus Kirkoras 1857–1858 m. leido leidinį „Teki Wileńskie“ („Vilniaus aplankus“).
 - susijęs iš [[objektai/autoriai/Adomas Honorijus Kirkoras.md#claim-t-81882|Adomas Honorijus Kirkoras]]: Adomas Honorijus Kirkoras 1857-1858 m. leido leidinį „Teki Wileńskie“ („Vilniaus aplankus“).
 - susijęs iš [[objektai/grupes/Vilniaus Senienų muziejus.md#claim-t-55074|Vilniaus Senienų muziejus]]: Vilniaus Senienų muziejus buvo įkurtas Eustachijaus Tiškevičiaus iniciatyva.
 - susijęs iš [[objektai/grupes/Vilniaus Senienų muziejus.md#claim-t-55075|Vilniaus Senienų muziejus]]: Vilniaus Senienų muziejus apibūdinamas kaip mokslinė institucija, sutelkusi krašto visuomenę.
 - susijęs iš [[objektai/grupes/Vilniaus Senienų muziejus.md#claim-t-81727|Vilniaus Senienų muziejus]]: Eustachijaus Tiškevičiaus iniciatyva įkurtas Vilniaus Senienų muziejus sutelkė krašto visuomenę.
-- susijęs iš [[objektai/ivykiai/Aleksandro II reformų pradžia.md#claim-t-86905|Aleksandro II reformų pradžia]]: 1855 m., po Nikolajaus I mirties ir Rusijos pralaimėjimo Krymo kare, imperijoje prasidėjo Aleksandro II reformos.
 - susijęs iš [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas.md#claim-t-55133|Vilniaus Senienų muziejaus įkūrimas]]: Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus.
 - susijęs iš [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas.md#claim-t-55134|Vilniaus Senienų muziejaus įkūrimas]]: Vilniaus Senienų muziejus buvo mokslinė institucija, sutelkusi krašto visuomenę.
 - susijęs iš [[objektai/ivykiai/Vilniaus Senienų muziejaus įkūrimas.md#claim-t-81829|Vilniaus Senienų muziejaus įkūrimas]]: Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus, sutelkęs krašto visuomenę.
-- susijęs iš Aleksandro II manifestas dėl baudžiavos panaikinimo (1861 m.): 1861 m. pavasarį Aleksandras II pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės.
 - susijęs iš Teki Wileńskie: Adomas Honorijus Kirkoras 1857–1858 m. leido „Teki Wileńskie“.
 - susijęs iš [[objektai/zodynas/Baudžiava.md#claim-t-108576|Baudžiava]]: Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus.
 - susijęs iš [[objektai/zodynas/Baudžiava.md#claim-t-108582|Baudžiava]]: Caras Aleksandras II ir jo aplinka rengė baudžiavos panaikinimo projektus.
@@ -109,3 +119,13 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9465e12f9de49ef797d9f39fe968f88e635758b948b61641a0c7f437c3e3a7ad; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandras II: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rusija: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras II" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

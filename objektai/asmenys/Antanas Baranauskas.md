@@ -40,6 +40,16 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas interpretacinis faktas, kurį tiesiogiai remia citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 213803-214278; hash=c0a43a06e4a4072e7aa4f2a7d59bdd460a04101a25989c44c835fc06e085f088; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antanas Baranauskas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Baranauskas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-78030"></a>
 - t-002
@@ -49,10 +59,20 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Tautinės mažumos|Tautinės mažumos]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 247654-248097; hash=87914f830dab7e323a42c9ae50d466ebea7d6e0ca13f7e289b2c939234d1e007; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antanas Baranauskas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Baranauskas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Anykščių šilelis: „Anykščių šilelis“ apibūdinamas kaip Antano Baranausko lietuvių literatūros šedevras.
 - susijęs iš [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“.md#claim-t-26651|„Viso svieto mokslus lietuviam paduosiu...“]]: 1859 m. Antanas Baranauskas parašė eilutes „Viso svieto mokslus lietuviam paduosiu“.
 - susijęs iš [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“.md#claim-t-26903|„Viso svieto mokslus lietuviam paduosiu...“]]: 1859 m. Antanas Baranauskas žadėjo lietuviams perduoti pasaulio mokslus ir lietuviškai versti pasaulio raštus bei knygas.
 - susijęs iš [[objektai/posakiai/„Viso svieto mokslus lietuviam paduosiu...“.md#claim-t-67317|„Viso svieto mokslus lietuviam paduosiu...“]]: Antano Baranausko žodžiai apie pasaulio mokslus lietuviams vadinami civilizuotos, aukštąją kultūrą turinčios tautos vizija.
-- susijęs iš Anykščių šilelis: „Anykščių šilelis“ apibūdinamas kaip Antano Baranausko lietuvių literatūros šedevras.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -85,4 +105,24 @@ Tačiau antros šio sąjūdžio kartos atstovas, aukštaitis, kunigas ir poetas,
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 247654-248097; hash=87914f830dab7e323a42c9ae50d466ebea7d6e0ca13f7e289b2c939234d1e007; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antanas Baranauskas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Baranauskas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 213803-214278; hash=c0a43a06e4a4072e7aa4f2a7d59bdd460a04101a25989c44c835fc06e085f088; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antanas Baranauskas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antanas Baranauskas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

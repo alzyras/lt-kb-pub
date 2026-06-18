@@ -44,7 +44,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - t-002
   global_id: t-122422
   teiginys: 'Karališkųjų muitinių valdytojai Ukrainoje naujais mokesčiais bandė varžyti iš Vilniaus gabenamų prekių prekybą.'
-  susije_objektai: 'mentioned_place: Gniezno; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Gniezno; mentioned_place: Lenkija'
   pagrindžia:
     - c-003
 
@@ -68,6 +68,16 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   temporalinis_llm_pakomentavimas: 'Pirminiame teiginyje trūko aiškaus veiksnio, o citata asmens neįvardija.'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=06ce889dda3f893ca783ad8cfe3c09afb84a54e220a86f9c10ded463895279c2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ukraina: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukraina" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-122427"></a>
 - t-005
@@ -77,6 +87,16 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vitebskas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 448468-449086; hash=876f97f128944c624e17f268888bf4b97a416bf101b11e8e282f6c50766fd517; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ukraina: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukraina" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-122429"></a>
 - t-006
@@ -86,6 +106,16 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_place: Lenkija; mentioned_place: Moldavija; mentioned_place: Turkija; mentioned_place: Valakija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c98b36f21a00608373b2af71a304c7d6ad5c482cb5cdb1afe7e5a37ffeff666c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Artilerija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ukraina: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=85
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukraina" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185168"></a>
 - t-008
@@ -95,16 +125,46 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Ukrainą ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1648 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Ukrainą ir atitinka citatą.'
   pagrindžia:
     - c-006
-- susijęs iš [[objektai/asmenys/Antoine Gramont.md#claim-t-40035|Antoine Gramont]]: Prancūzijos grafas Antoine Gramont 1663-1664 m. pasakojo apie kazokus, tarnavusius Lenkijos-Lietuvos kariuomenėse.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ceb802b674d100fe198f0d43ec7a32a853f354d53f4ba9ab608874755578dfca; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kazokai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ukraina: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kazokai: mention_match, group, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukraina" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Bogdanas Chmelnickis.md#claim-t-186099|Bogdanas Chmelnickis]]: 1648 m. Bogdano Chmelnickio vadovaujami sukilę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti savo valstybę.
-- susijęs iš [[objektai/asmenys/Firstenbergas (Livonijos ordino magistras).md#claim-t-87670|Firstenbergas (Livonijos ordino magistras)]]: 1557 m. žygis į Livoniją prieš magistrą Firstenbergą baigėsi jo nuolankumu Žygimantui Augustui ir valdžios Livonijoje pripažinimu.
 - susijęs iš [[objektai/asmenys/Juzefas Poniatovskis.md#claim-t-19045|Juzefas Poniatovskis]]: Juzefas Poniatovskis vadovavo Lenkijos kariuomenei Ukrainoje.
+- susijęs iš [[objektai/asmenys/Petro Sahaidačnij.md#claim-t-40394|Petro Sahaidačnij]]: Petro Sahaidačnij vadovavo apie 25 tūkst. Ukrainos kazokų, prisijungusių prie J. K. Chodkevičiaus pajėgų.
+- susijęs iš [[objektai/autoriai/D. Pochilevyč.md#claim-t-29457|D. Pochilevyč]]: D. Pochilevyč buvo Lvovo universiteto profesorius ir tyrinėjo Lietuvos, Gudijos bei Ukrainos kaimo ūkinius santykius.
+- susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47900|Rusų ir ukrainiečių istorikai]]: Rusų ir ukrainiečių istorikai davė naujų tyrinėjimų apie Lietuvos, Gudijos ir Ukrainos (t.
+- susijęs iš [[objektai/grupes/Janičarai.md#claim-t-40893|Janičarai]]: Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija atakavo atskirai įsikūrusių Ukrainos kazokų stovyklą.
+- susijęs iš [[objektai/grupes/Lietuvių policijos savisaugos batalionai.md#claim-t-19813|Lietuvių policijos savisaugos batalionai]]: Dalis lietuvių policijos savisaugos batalionų buvo panaudota akcijose prieš civilius Baltarusijoje, Lenkijoje ir Ukrainoje.
+- susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74913|Rusėnai]]: XV–XVI a. Lietuvos Metrikos rusėnų kalboje buvo vartojamos lietuviškos ūkio sąvokos, paplitusios net Ukrainoje.
+- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-184599|Liublino unija (1569 m.)]]: Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos ir pripažino karalių bei bendrą seimą jungtinės valstybės suverenu.
+- susijęs iš [[objektai/ivykiai/Šiaulių ekonomijos valstiečių sukilimas (1769 m.).md#claim-t-01890|Šiaulių ekonomijos valstiečių sukilimas (1769 m.)]]: Šiaulių ekonomijos sukilėliai norėjo susidėti su Ukrainos valstiečiais, bet atvykusi kariuomenė jų sukilimą žiauriai numalšino.
+- susijęs iš Targovicos konfederacijos aktas (1792 m.): Opozicionieriai Targovicos miestelyje Ukrainoje paskelbė reformoms priešingos konfederacijos aktą.
+- susijęs iš Baltarusija: Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
+- susijęs iš Baltarusija: ATR ir LDK erdvėje susiformavo keturios moderniosios Naujųjų laikų valstybės: Lenkija, Lietuva, Baltarusija ir Ukraina.
+- susijęs iš Baltarusija: LDK erdvė apėmė Lietuvos, Baltarusijos, Ukrainos ir Lenkijos žydus, vadintus „Rusijos žydais“.
+- susijęs iš Naugardukas: Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.
+- susijęs iš Podolė: Apsirūpinus artilerija ir amunicija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis.
+- susijęs iš Tlumačas: Tlumačas lokalizuojamas vakarų Ukrainos dalyje prie Stanislavo.
+- susijęs iš Vakarų Ukraina: Mindaugo, Vytenio ir Gedimino laikais prie Lietuvos prijungtos rusėnų žemės apėmė dalį dabartinės Vakarų Ukrainos.
+- susijęs iš Valakija: Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją.
+- susijęs iš Vitebskas: Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą praleisti paskutines audringos senatvės dienas.
+- susijęs iš Vitebskas: Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybėje praleisti paskutines audringos senatvės dienas.
+- susijęs iš Voluinė: Apsirūpinus artilerija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis.
+- susijęs iš [[objektai/asmenys/Antoine Gramont.md#claim-t-40035|Antoine Gramont]]: Prancūzijos grafas Antoine Gramont 1663-1664 m. pasakojo apie kazokus, tarnavusius Lenkijos-Lietuvos kariuomenėse.
+- susijęs iš [[objektai/asmenys/Firstenbergas (Livonijos ordino magistras).md#claim-t-87670|Firstenbergas (Livonijos ordino magistras)]]: 1557 m. žygis į Livoniją prieš magistrą Firstenbergą baigėsi jo nuolankumu Žygimantui Augustui ir valdžios Livonijoje pripažinimu.
 - susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-183553|Konstantinas Ostrogiškis]]: Konstantinas Ostrogiškis gotikos stiliumi perstatydino Vilniaus ir Naugarduko cerkves ir skleidė gotiką savo tėvonijoje Voluinėje.
 - susijęs iš [[objektai/asmenys/Michailas Gorbačiovas.md#claim-t-101680|Michailas Gorbačiovas]]: Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvos visuomenės nepasitenkinimas didėjo.
 - susijęs iš [[objektai/asmenys/Michailas Gorbačiovas.md#claim-t-101685|Michailas Gorbačiovas]]: Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje LKP vadovybė laikėsi pasyviai.
@@ -112,7 +172,6 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - susijęs iš [[objektai/asmenys/Nikolajus Mitkinas.md#claim-t-25704|Nikolajus Mitkinas]]: Nikolajus Mitkinas buvo lietuviškai nekalbantis LKP CK antrasis sekretorius, siekęs „Lietuvą padaryti internacionalinę“.
 - susijęs iš [[objektai/asmenys/Petras Griškevičius.md#claim-t-64025|Petras Griškevičius]]: Petras Griškevičius, būdamas LKP CK pirmuoju sekretoriumi, Michailo Gorbačiovo pertvarkos pradžioje laikėsi pasyviai.
 - susijęs iš [[objektai/asmenys/Petras Griškevičius.md#claim-t-64026|Petras Griškevičius]]: Prasidėjus Michailo Gorbačiovo pertvarkai, LKP CK pirmasis sekretorius Petras Griškevičius Lietuvoje laikėsi pasyviai.
-- susijęs iš [[objektai/asmenys/Petro Sahaidačnij.md#claim-t-40394|Petro Sahaidačnij]]: Petro Sahaidačnij vadovavo apie 25 tūkst. Ukrainos kazokų, prisijungusių prie J. K. Chodkevičiaus pajėgų.
 - susijęs iš [[objektai/asmenys/Rimgaudas Songaila.md#claim-t-64040|Rimgaudas Songaila]]: Rimgaudas Songaila, pakeitęs Petrą Griškevičių LKP CK pirmojo sekretoriaus poste, Michailo Gorbačiovo pertvarkos pradžioje laikėsi pasyviai.
 - susijęs iš [[objektai/asmenys/Rimgaudas Songaila.md#claim-t-64041|Rimgaudas Songaila]]: Rimgaudas Songaila, pakeitęs Petrą Griškevičių LKP CK pirmojo sekretoriaus pareigose, laikėsi pasyviai.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113985|Steponas Batoras]]: Steponas Batoras buvo sudaręs 500 raitelių vėliavą.
@@ -120,17 +179,12 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113996|Steponas Batoras]]: Po Stepono Batoro kampanijų Didieji Lukai, Zavoločė, Sebežas, Nevelis ir Voronežas buvo sugrąžinti Rusijai.
 - susijęs iš [[objektai/asmenys/Vladimiras Leninas.md#claim-t-64246|Vladimiras Leninas]]: Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183852|Žygimantas Augustas (arkivyskupas, XVI a.)]]: 1557 m. žygis į Livoniją baigėsi, kai didysis magistras pripažino Žygimanto Augusto valdžią Livonijoje.
-- susijęs iš [[objektai/autoriai/D. Pochilevyč.md#claim-t-29457|D. Pochilevyč]]: D. Pochilevyč buvo Lvovo universiteto profesorius ir tyrinėjo Lietuvos, Gudijos bei Ukrainos kaimo ūkinius santykius.
-- susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47900|Rusų ir ukrainiečių istorikai]]: Rusų ir ukrainiečių istorikai davė naujų tyrinėjimų apie Lietuvos, Gudijos ir Ukrainos (t.
 - susijęs iš [[objektai/daiktai/Vilniaus ginklų liejyklos pabūklai, bombos ir amunicija.md#claim-t-87126|Vilniaus ginklų liejyklos pabūklai, bombos ir amunicija]]: Vilniaus ginklų liejykloje buvo išlieta daug pabūklų, gamintos bombos ir kiti karo reikmenys.
-- susijęs iš [[objektai/grupes/Janičarai.md#claim-t-40893|Janičarai]]: Pirmiausiai janičarai (turkų pėstininkai), o po to ir turkų kavalerija atakavo atskirai įsikūrusių Ukrainos kazokų stovyklą.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175533|Kalavijuočių ordinas]]: 1557 m. iš Vilniaus į Livoniją žygiavo kariuomenė prieš kalavijuočių ordino magistrą Firstembergą.
 - susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65306|Kazokai]]: Ukrainos kazokų stovyklą pirmiausia atakavo janičarai, o po jų puolė turkų kavalerija.
-- susijęs iš [[objektai/grupes/Lietuvių policijos savisaugos batalionai.md#claim-t-19813|Lietuvių policijos savisaugos batalionai]]: Dalis lietuvių policijos savisaugos batalionų buvo panaudota akcijose prieš civilius Baltarusijoje, Lenkijoje ir Ukrainoje.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179369|Livonijos ordinas]]: 1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš didįjį Kalavijuočių ordino magistrą Firstembergą.
 - susijęs iš [[objektai/grupes/Raudonoji armija.md#claim-t-78436|Raudonoji armija]]: 1918 m. gruodžio 16 d. lietuvių bolševikai, remdamiesi tik Raudonosios armijos daliniais, deklaravo Sovietų Lietuvą.
 - susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74910|Rusėnai]]: Lenkijai ir Lietuvai priklausiusiose rusėnų žemėse išplito alodas, vakarietiška ūkininkavimo ir nuosavybės forma.
-- susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74913|Rusėnai]]: XV–XVI a. Lietuvos Metrikos rusėnų kalboje buvo vartojamos lietuviškos ūkio sąvokos, paplitusios net Ukrainoje.
 - susijęs iš [[objektai/grupes/Turkijos kariuomenė.md#claim-t-41184|Turkijos kariuomenė]]: Chotino link artėjusią Turkijos kariuomenę sudarė apie 100000 karių, įskaitant spahius, janičarus, totorius, moldavus ir valakus.
 - susijęs iš [[objektai/ivykiai/Andrusavo paliaubų pasirašymas (1667 m. sausio 30 d.).md#claim-t-39123|Andrusavo paliaubų pasirašymas (1667 m. sausio 30 d.)]]: 1667 m. sausio 30 d. netoli Smolensko pasirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko Smolenskas, Černigovas, Severų Naugardas, Kijevas.
 - susijęs iš [[objektai/ivykiai/Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.).md#claim-t-39100|Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)]]: Prie Lojevo priartėjusios Kijevo, Černobylio ir Ovručo kazokų pajėgos buvo triskart gausesnės už LDK kariuomenę.
@@ -138,13 +192,11 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - susijęs iš [[objektai/ivykiai/Jekaterinos II sėslumo ribos nustatymas (1791 m.).md#claim-t-20210|Jekaterinos II sėslumo ribos nustatymas (1791 m.)]]: Jekaterina II 1791 m. nubrėžė sėslumo ribą, išvardydama gubernijas, kuriose galėjo gyventi žydai.
 - susijęs iš [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.).md#claim-t-75109|Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius.
 - susijęs iš [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.).md#claim-t-75111|Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius.
-- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-184599|Liublino unija (1569 m.)]]: Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos ir pripažino karalių bei bendrą seimą jungtinės valstybės suverenu.
 - susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186763|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Redakcinėje pastaboje Moldavijos vaivados Stepono atvykimas į Kolomyją datuojamas 1485 m. rugsėjo 6-12 d.
 - susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186764|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Redakcinėje pastaboje Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje datuojama 1485 m. rugsėjo 15 d.
 - susijęs iš [[objektai/ivykiai/Podolės patekimas lietuvių Karijotaičių valdžion.md#claim-t-186698|Podolės patekimas lietuvių Karijotaičių valdžion]]: Redakcinė pastaba teigia, kad Lietuvos metraščių pasakojimas apie Podolės patekimą Lietuvos kunigaikščių valdžion sietinas su XV a. Lietuvos ir Lenkijos ginčais dėl Podolės vakarinės dalies.
 - susijęs iš [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.).md#claim-t-41353|Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]: 1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą.
 - susijęs iš [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.).md#claim-t-41382|Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]: 1655 m. rugpjūčio 7 d. po aršių kautynių Rusijos kariuomenė ir jos sąjungininkai kazokai užėmė Lietuvos sostinę Vilnių.
-- susijęs iš [[objektai/ivykiai/Šiaulių ekonomijos valstiečių sukilimas (1769 m.).md#claim-t-01890|Šiaulių ekonomijos valstiečių sukilimas (1769 m.)]]: Šiaulių ekonomijos sukilėliai norėjo susidėti su Ukrainos valstiečiais, bet atvykusi kariuomenė jų sukilimą žiauriai numalšino.
 - susijęs iš [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika.md#claim-t-67037|Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]: Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija.
 - susijęs iš [[objektai/paprociai/Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje.md#claim-t-54377|Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje]]: Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.
 - susijęs iš [[objektai/posakiai/„Lietuvą padaryti internacionalinę“.md#claim-t-25373|„Lietuvą padaryti internacionalinę“]]: Petras Griškevičius ir Rimgaudas Songaila laikėsi pasyviai, o Nikolajus Mitkinas siekė „Lietuvą padaryti internacionalinę“.
@@ -156,11 +208,7 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - susijęs iš Salaspilio mūšis: Apie 1619 m. Pieterio Snayerso paveiksle „Salaspilio mūšis“ Lietuvos husarai vaizduojami naikinantys švedų pėstininkų batalioną.
 - susijęs iš Sovietų Lietuvos manifestas (1918 m. gruodžio 16 d.): Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 dienos manifestu deklaravo Sovietų Lietuvą.
 - susijęs iš Sovietų Rusijos dekretas dėl Sovietų Lietuvos pripažinimo: Vladimiro Lenino pasirašytu dekretu Sovietų Rusija pripažino Sovietų Lietuvą.
-- susijęs iš Targovicos konfederacijos aktas (1792 m.): Opozicionieriai Targovicos miestelyje Ukrainoje paskelbė reformoms priešingos konfederacijos aktą.
 - susijęs iš Užsienio Lietuvių Spaudos Metraštis: „Užsienio Lietuvių Spaudos Metraštis“ rodyklėje nurodytas 17 puslapyje.
-- susijęs iš Baltarusija: Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos.
-- susijęs iš Baltarusija: ATR ir LDK erdvėje susiformavo keturios moderniosios Naujųjų laikų valstybės: Lenkija, Lietuva, Baltarusija ir Ukraina.
-- susijęs iš Baltarusija: LDK erdvė apėmė Lietuvos, Baltarusijos, Ukrainos ir Lenkijos žydus, vadintus „Rusijos žydais“.
 - susijęs iš Baltoji Rusia: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m.
 - susijęs iš Cecora: 1620 m. Lenkijos kariuomenė įžengė į Valakiją ir mūšyje prie Cecoro netoli Jasų buvo sutriuškinta Turkijos kariuomenės.
 - susijęs iš Kaukazas: Indoeuropiečiai į Europą greičiausiai atkeliavo per pietų Rusijos stepes ir Kaukazą.
@@ -171,25 +219,17 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
 - susijęs iš Kolomyja: Lenkijos karalius Kazimieras 1485 m. rugpjūčio 24 d. atvyko į Kolomyją ir išbuvo ten iki rugsėjo 18 d.
 - susijęs iš Livonija: 1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš kalavijuočių ordino magistrą Firstenbergą.
 - susijęs iš Myro pilis (pilis): Myro pilis prie Nesvyžiaus yra gotikinių LDK cerkvių stiliaus analogas rezidencijų architektūroje.
-- susijęs iš Naugardukas: Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.
 - susijęs iš Nesvyžius: Myro pilis prie Nesvyžiaus laikoma viena iš gotikinių LDK cerkvių stiliaus analogijų rezidencijų architektūroje.
 - susijęs iš Nesvyžius: Myro pilis prie Nesvyžiaus citatoje pateikiama kaip gotikinių LDK cerkvių stiliaus analogas rezidencijų architektūroje.
 - susijęs iš Paleckio stiklo liejykla prie Vilijos: Sutartis su stiklo liejyklos savininku Paleckiu išlaisvino Vilnių nuo stiklo monopolio grėsmės.
 - susijęs iš Pietų Rusija: Indoeuropiečiai į Europą greičiausiai atkeliavo per Pietų Rusijos stepes ir Kaukazą.
-- susijęs iš Podolė: Apsirūpinus artilerija ir amunicija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis.
 - susijęs iš Polockas: Vytenio ir Gedimino laikais Polockas 1307 m. buvo prijungtas prie Lietuvos kaip Baltosios Rusios dalis.
 - susijęs iš Rytų Lietuva: 1919 m. pavasarį Rytų Lietuvą kontroliavo bolševikai.
-- susijęs iš Tlumačas: Tlumačas lokalizuojamas vakarų Ukrainos dalyje prie Stanislavo.
 - susijęs iš Tlumačas: 1440 m. birželio 6 d. Švitrigaila pasirodė Lenkijai priklausiusioje vakarų Ukrainos dalyje, Tlumače prie Stanislavo.
 - susijęs iš Uturiai: Uturiai buvo prie Betygalos.
-- susijęs iš Vakarų Ukraina: Mindaugo, Vytenio ir Gedimino laikais prie Lietuvos prijungtos rusėnų žemės apėmė dalį dabartinės Vakarų Ukrainos.
-- susijęs iš Valakija: Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją.
 - susijęs iš Vilnius: Prie Vilniaus pilies įkurta didžioji ginklų liejykla stipriai veikė miesto amatininkų gerovę ir tobulėjimą.
-- susijęs iš Vitebskas: Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą praleisti paskutines audringos senatvės dienas.
 - susijęs iš Vitebskas: Vytenio ir Gedimino laikais prie Lietuvos prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m.
-- susijęs iš Vitebskas: Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybėje praleisti paskutines audringos senatvės dienas.
 - susijęs iš Voluinė: Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.
-- susijęs iš Voluinė: Apsirūpinus artilerija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis.
 - susijęs iš Voluinė: 1340 m. Vytenio ir Gedimino laikų plėtros kontekste prie Lietuvos buvo prijungta Voluinė.
 - susijęs iš [[objektai/zodynas/Lite litvakai.md#claim-t-183445|Lite litvakai]]: Kai kurių vertinimu, kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK erdvės kilę žydai litvakai.
 - susijęs iš [[objektai/zodynas/Lite litvakai.md#claim-t-22005|Lite litvakai]]: Kuriant Izraelį reikšmingus vaidmenis suvaidino iš istorinės Lietuvos erdvės kilę žydai, vadinęsi litvakais.
@@ -250,7 +290,27 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c98b36f21a00608373b2af71a304c7d6ad5c482cb5cdb1afe7e5a37ffeff666c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Artilerija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ukraina: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=85
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukraina" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 448468-449086; hash=876f97f128944c624e17f268888bf4b97a416bf101b11e8e282f6c50766fd517; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ukraina: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukraina" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-003
@@ -291,6 +351,16 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e41b2450a3941756048e166ee4f7719df1afcb30a0256751d40f325b7e79e100; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ukraina: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukraina" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-005
@@ -329,4 +399,24 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=06ce889dda3f893ca783ad8cfe3c09afb84a54e220a86f9c10ded463895279c2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ukraina: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukraina" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ceb802b674d100fe198f0d43ec7a32a853f354d53f4ba9ab608874755578dfca; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kazokai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ukraina: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kazokai: mention_match, group, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukraina" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

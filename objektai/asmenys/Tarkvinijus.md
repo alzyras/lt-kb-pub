@@ -24,6 +24,16 @@ Dusburgietis teigia, kad netgi žiaurusis Tarkvinijus, tiek daug sugalvojęs vis
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 335904-336170; hash=06e384ee20a30b5b1659b66317f366de8a77bad83d6e9a3edabc3fb4bff0428f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Petras Dusburgietis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tarkvinijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Petras Dusburgietis: mention_match, author, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tarkvinijus" parinktas kaip owner_note_path. Targetas "Petras Dusburgietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -40,3 +50,13 @@ Dusburgietis teigia, kad netgi žiaurusis Tarkvinijus, tiek daug sugalvojęs vis
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 335904-336170; hash=06e384ee20a30b5b1659b66317f366de8a77bad83d6e9a3edabc3fb4bff0428f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Petras Dusburgietis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tarkvinijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Petras Dusburgietis: mention_match, author, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tarkvinijus" parinktas kaip owner_note_path. Targetas "Petras Dusburgietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

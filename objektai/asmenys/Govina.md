@@ -22,9 +22,19 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   global_id: t-60295
   teiginys: 'Govina kartu su Stanta, Trinta, Misinu ir kitais rengė notangų žygį bei jam vadovavo.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs, bet citata palaiko glaustą faktą apie Goviną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_place: Bartenšteinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Bartenšteinas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bba2ce3ddb101ba79ac192b0bf4fd6d487369f8e7d5a8cecab97e25af55ed4af; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Misinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Govina: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Misinas: mention_match, person, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Govina" parinktas kaip owner_note_path. Targetas "Misinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +59,13 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bba2ce3ddb101ba79ac192b0bf4fd6d487369f8e7d5a8cecab97e25af55ed4af; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Misinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Govina: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Misinas: mention_match, person, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Govina" parinktas kaip owner_note_path. Targetas "Misinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

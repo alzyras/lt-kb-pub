@@ -51,7 +51,7 @@ Nenurodyta
   global_id: t-06172
   teiginys: 'Pasakojimas apie vieną vyriausiąją Romuvą laikomas viduramžių rašytojų prasimanymu.'
   sudarymo_pagrindimas: 'Citata palaiko tikslesnį enciklopedinį teiginį apie Romuvos vaizdinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Romuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Romuva; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 

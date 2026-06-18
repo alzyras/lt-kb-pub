@@ -24,9 +24,19 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
   global_id: t-86198
   teiginys: 'Turtinga Klodovo klebonija Gniezno diecezijoje buvo anksčiau duota naujajam Vilniaus vyskupui.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą apie Klodovo kleboniją, bet pradiniame teiginyje įsimaišęs pašalinis tekstas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Brasta; mentioned_place: Dubnas; mentioned_place: Gniezno; mentioned_place: Tauragnai; mentioned_place: Verkiai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_place: Gniezno; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Brasta; mentioned_place: Dubnas; mentioned_place: Tauragnai; mentioned_place: Verkiai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 242726-243574; hash=ba3145fcabbeaf8ad8b097e8c251783b20e5e8c7ee8aa9fa75b1e098fdaf3e85; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gniezno: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Klodovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gniezno: mention_match, place, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klodovas" parinktas kaip owner_note_path. Targetas "Gniezno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Dobrogostas.md#claim-t-82253|Dobrogostas]]: Poznanės vyskupas Dobrogostas buvo nusiųstas pas popiežių išprašyti bulės dėl Vilniaus vyskupijos fundacijos.
 - susijęs iš [[objektai/asmenys/Dobrogostas.md#claim-t-82255|Dobrogostas]]: Poznanės vyskupas Dobrogostas buvo nusiųstas pas popiežių išprašyti bulės, patvirtinančios Vilniaus vyskupijos fundaciją ir naujo ganytojo išrinkimą.
 - susijęs iš Gniezno diecezija: Vilniaus katedrai skirtų pajamų dalimi buvo turtinga Klodovo klebonija Gniezno diecezijoje.
@@ -72,3 +82,13 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 242726-243574; hash=ba3145fcabbeaf8ad8b097e8c251783b20e5e8c7ee8aa9fa75b1e098fdaf3e85; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gniezno: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Klodovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gniezno: mention_match, place, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klodovas" parinktas kaip owner_note_path. Targetas "Gniezno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

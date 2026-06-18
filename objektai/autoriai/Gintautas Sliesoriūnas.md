@@ -29,7 +29,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   global_id: t-80746
   teiginys: 'Gintautas Sliesoriūnas gimė 1964 m. ir 1989 m. baigė Vilniaus universiteto Istorijos fakulteto istorijos specialybę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie autorių ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1964 m.; įvykio data: 1989 m.; įvykio data: 1997 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie autorių ir tiksliai remiasi citata.'

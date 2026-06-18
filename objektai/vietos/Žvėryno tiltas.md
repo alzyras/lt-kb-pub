@@ -35,6 +35,16 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c67dca03993f06af1b200d6adba1e9e5bb61c846e8bb85bf76bc9fd63366f163; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas Mažvydas Vaitkūnas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žvėryno tiltas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Martynas Mažvydas Vaitkūnas: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žvėryno tiltas" parinktas kaip owner_note_path. Targetas "Martynas Mažvydas Vaitkūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-42417"></a>
 - t-002
@@ -47,6 +57,16 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
   temporalinis_llm_pakomentavimas: 'Sakinys patikslintas pagal citatą ir aiškiau įvardija veikėją.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=04e5601eadd66e92d18860d6dd170778f661b31127d2dc5fce4ce08051de7ed4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> ATAS: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žvėryno tiltas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: ATAS: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žvėryno tiltas" parinktas kaip owner_note_path. Targetas "ATAS" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/ATAS.md#claim-t-40832|ATAS]]: 1991 m. sausio 13 d. Vytautą Landsbergį saugojo ATAS pareigūnai.
 ## Reikšmingi paminėjimai
 
@@ -95,4 +115,24 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c67dca03993f06af1b200d6adba1e9e5bb61c846e8bb85bf76bc9fd63366f163; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas Mažvydas Vaitkūnas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žvėryno tiltas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Martynas Mažvydas Vaitkūnas: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žvėryno tiltas" parinktas kaip owner_note_path. Targetas "Martynas Mažvydas Vaitkūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=04e5601eadd66e92d18860d6dd170778f661b31127d2dc5fce4ce08051de7ed4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> ATAS: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žvėryno tiltas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: ATAS: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žvėryno tiltas" parinktas kaip owner_note_path. Targetas "ATAS" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

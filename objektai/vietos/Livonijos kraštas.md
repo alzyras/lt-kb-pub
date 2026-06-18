@@ -22,9 +22,19 @@ Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų. Jogaila be Kęstučio �
   teiginys: 'Vytauto pasakojime Jogaila be Kęstučio žinios sudarė taiką su Prūsų ir Livonijos kraštais.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata yra poleminis Vytauto pasakojimas apie išdavystę, todėl reikalinga atribucija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Prūsai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=58cd7a5b5f2e28775ba89bcc90a1cbbe0ce3c48448dd13efe73c9a9d2d5b4f99; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Livonijos kraštas (kraštas): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos kraštas (kraštas)" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187258"></a>
 - t-002
@@ -32,9 +42,19 @@ Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų. Jogaila be Kęstučio �
   teiginys: 'Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys aiškus ir perteikia citatoje nurodytą Livonijos ponų buvimą Jogailos kariuomenėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ponai|Livonijos ponai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Livonija; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ponai|Livonijos ponai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Livonija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Trakai'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d0b39ff1790902a1a51d7897b7484f5122dd7e058ad1b111a1e795dc4502235b; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Livonijos kraštas (kraštas): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos kraštas (kraštas)" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -77,4 +97,24 @@ Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų. Jogaila be Kęstučio �
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=58cd7a5b5f2e28775ba89bcc90a1cbbe0ce3c48448dd13efe73c9a9d2d5b4f99; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Livonijos kraštas (kraštas): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos kraštas (kraštas)" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d0b39ff1790902a1a51d7897b7484f5122dd7e058ad1b111a1e795dc4502235b; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Livonijos kraštas (kraštas): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Livonijos kraštas (kraštas)" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

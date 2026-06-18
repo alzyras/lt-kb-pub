@@ -24,7 +24,7 @@ Dusburgietis teigia, kad buvę „per du akmens sviedimus nuo tos vietos, kur da
   global_id: t-59151
   teiginys: 'Posakis „po šiai dienai tebestovi apleista“ vartojamas apibūdinant Spitenbergo pilį Pamedėje.'
   sudarymo_pagrindimas: 'Citata palaiko posakio vartojimą konkrečiam objektui, bet pradinis teiginys perkrautas kontekstu.'
-  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Spitenbergas; mentioned_place: Sūduva; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Pamedė; mentioned_place: Spitenbergas; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Sūduva; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 - susijęs iš Pamedė: Pamedės žemėje buvusią Spitenbergo pilį antrosios atskalūnybės metais broliai sudegino ir paliko dėl prūsų antpuolių bei reikmenų stokos.

@@ -37,6 +37,16 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus biografinis faktas, tiesiogiai paremtas pastaba.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e907b9e8f48273ac24c0a98bd8a508f50164c16dee79506f14ae071727724f1f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Otonas (Braunšveigo-Liuneburgo kunigaikštis): owner_note_path, person, gap=79
+  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Otonas (Braunšveigo-Liuneburgo kunigaikštis)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60190"></a>
 - t-002
@@ -47,6 +57,16 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
   semantiniai_rysiai: '[[objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis)|Otonas (Braunšveigo-Liuneburgo kunigaikštis)]] keliavo į Prūsija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 270588-270736; hash=94f7431a787f22036ff92392452aa6b991350ce37dd237bbbe4fa5dad29c90f5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hamburgas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Otonas (Braunšveigo-Liuneburgo kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Hamburgas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Otonas (Braunšveigo-Liuneburgo kunigaikštis)" parinktas kaip owner_note_path. Targetas "Hamburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -81,7 +101,27 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e907b9e8f48273ac24c0a98bd8a508f50164c16dee79506f14ae071727724f1f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Prūsija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Otonas (Braunšveigo-Liuneburgo kunigaikštis): owner_note_path, person, gap=79
+  ryšio_targeto_parinkimas: Prūsija: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Otonas (Braunšveigo-Liuneburgo kunigaikštis)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 270588-270736; hash=94f7431a787f22036ff92392452aa6b991350ce37dd237bbbe4fa5dad29c90f5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hamburgas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Otonas (Braunšveigo-Liuneburgo kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Hamburgas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Otonas (Braunšveigo-Liuneburgo kunigaikštis)" parinktas kaip owner_note_path. Targetas "Hamburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
 - Otonas (Braunšveigo-Liuneburgo kunigaikštis) keliavo_i [[objektai/vietos/Prūsija]]

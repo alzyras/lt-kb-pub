@@ -45,12 +45,22 @@ Nenurodyta
   teiginys: '1300 m. brolis Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Henrikas iš Dobino|Henrikas iš Dobino]]; mentioned_place: Aukaimis; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Aukaimis; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Henrikas iš Dobino|Henrikas iš Dobino]]; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1300 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 604408-604797; hash=e41cf767ee9812494b40de509bdaec81c00501f82f060a1f80ab50f6f744d226; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukaimis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aukaimio pilies apylinkių nusiaubimas (1300 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukaimio pilies apylinkių nusiaubimas (1300 m.)" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183913"></a>
 - t-002
@@ -60,9 +70,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinė formuluotė dubliuota; citata palaiko kitą savarankišką faktą apie įvykio eigą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Henrikas iš Dobino|Henrikas iš Dobino]]; mentioned_place: Aukaimis; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Aukaimis; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas iš Dobino|Henrikas iš Dobino]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 604408-604797; hash=e41cf767ee9812494b40de509bdaec81c00501f82f060a1f80ab50f6f744d226; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukaimis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aukaimio pilies apylinkių nusiaubimas (1300 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukaimio pilies apylinkių nusiaubimas (1300 m.)" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -85,4 +105,24 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 604408-604797; hash=e41cf767ee9812494b40de509bdaec81c00501f82f060a1f80ab50f6f744d226; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukaimis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aukaimio pilies apylinkių nusiaubimas (1300 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukaimio pilies apylinkių nusiaubimas (1300 m.)" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 604408-604797; hash=e41cf767ee9812494b40de509bdaec81c00501f82f060a1f80ab50f6f744d226; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukaimis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aukaimio pilies apylinkių nusiaubimas (1300 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukaimio pilies apylinkių nusiaubimas (1300 m.)" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

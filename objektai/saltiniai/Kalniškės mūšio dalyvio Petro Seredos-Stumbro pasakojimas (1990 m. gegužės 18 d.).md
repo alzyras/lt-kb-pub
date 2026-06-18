@@ -48,7 +48,7 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   global_id: t-78856
   teiginys: 'Petras Sereda-Stumbras pasakojo, kad NKVD kariuomenė Kalniškės mišką apsupo iš vakaro Simno stribų prašymu.'
   sudarymo_pagrindimas: 'Pradinė formuluotė buvo triukšminga, o citata palaiko šį konkretų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Alytus; mentioned_place: Lietuva; mentioned_place: Simnas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Simnas; mentioned_place: Alytus; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -63,6 +63,16 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   temporalinis_llm_pakomentavimas: 'Pašalintas antraščių triukšmas ir paliktas citatos paremtas faktas.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 926219-926558; hash=3306e12ff3f29d3f10e41660b9868f3e4a43a472a96aa46cdd62737b10ad1140; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> NKVD: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalniškės mūšio dalyvio Petro Seredos-Stumbro pasakojimas (1990 m. gegužės 18 d.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: NKVD: mention_match, group, gap=111
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalniškės mūšio dalyvio Petro Seredos-Stumbro pasakojimas (1990 m. gegužės 18 d.)" parinktas kaip owner_note_path. Targetas "NKVD" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -102,4 +112,14 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   statusas: verified
   pagrindžia:
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 926219-926558; hash=3306e12ff3f29d3f10e41660b9868f3e4a43a472a96aa46cdd62737b10ad1140; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> NKVD: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalniškės mūšio dalyvio Petro Seredos-Stumbro pasakojimas (1990 m. gegužės 18 d.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: NKVD: mention_match, group, gap=111
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalniškės mūšio dalyvio Petro Seredos-Stumbro pasakojimas (1990 m. gegužės 18 d.)" parinktas kaip owner_note_path. Targetas "NKVD" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002

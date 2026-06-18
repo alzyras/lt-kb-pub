@@ -40,9 +40,19 @@ Nenurodyta
   teiginys: 'Treniota subūrė iki 30 tūkst. vyrų, įsiveržė į Kulmo žemę ir paėmė Birgelavos pilį, pagrobdamas gyvulius bei mantą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Birgelava; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Birgelava; mentioned_place: Kulmas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 456820-457408; hash=9dce7b960cc19e623319fb6f41e664e65b305bb2b51673de594dbfa1dc1cf2b3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Birgelava: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Treniotos žygis į Kulmo žemę ir Birgelavos pilies apiplėšimas (pilis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Birgelava: mention_match, place, gap=67
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Treniotos žygis į Kulmo žemę ir Birgelavos pilies apiplėšimas (pilis)" parinktas kaip owner_note_path. Targetas "Birgelava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -64,3 +74,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 456820-457408; hash=9dce7b960cc19e623319fb6f41e664e65b305bb2b51673de594dbfa1dc1cf2b3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Birgelava: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Treniotos žygis į Kulmo žemę ir Birgelavos pilies apiplėšimas (pilis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Birgelava: mention_match, place, gap=67
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Treniotos žygis į Kulmo žemę ir Birgelavos pilies apiplėšimas (pilis)" parinktas kaip owner_note_path. Targetas "Birgelava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

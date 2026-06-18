@@ -32,21 +32,41 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
 - t-001
   global_id: t-35264
   teiginys: 'Petras iš Kustynės 1414-1421 m. buvo ketvirtasis Vilniaus vyskupas, delegatas Konstancijoje ir pasiuntinys Žemaitijoje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Dziežgavičius|Mikalojus Dziežgavičius]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Konstancija; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Mikalojus Dziežgavičius|Mikalojus Dziežgavičius]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Trakai'
   temporaliniai_duomenys: 'įvykio data: 1414-1421; įvykio data: 1421 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 278056-278263; hash=d25020b0798e91f69934d828b208770fef47a1ef217927811bc545e8021b683e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstancija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Petras iš Kustynės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konstancija: mention_match, place, gap=109
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras iš Kustynės" parinktas kaip owner_note_path. Targetas "Konstancija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-35265"></a>
 - t-002
   global_id: t-35265
   teiginys: 'Petras iš Kustynės 1415 m. kaip Vilniaus vyskupas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.'
-  susije_objektai: 'mentioned_place: Breslavas; mentioned_place: Gniezno; mentioned_place: Konstancija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Konstancija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Breslavas; mentioned_place: Gniezno; mentioned_place: Lvovas'
   temporaliniai_duomenys: 'įvykio data: 1415 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fd9bf44b0460baa38e88795b212a140836fa1846ce6fc7a135d2bfba2e770d89; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstancija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Petras iš Kustynės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konstancija: mention_match, place, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras iš Kustynės" parinktas kaip owner_note_path. Targetas "Konstancija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Mikalojus Dziežgavičius.md#claim-t-35227|Mikalojus Dziežgavičius]]: Mikalojus Dziežgavičius 1421–1453 m. buvo antrasis Žemaičių vyskupas, paskirtas Vytautui jį rekomendavus.
 - susijęs iš [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas).md#claim-t-176557|Motiejus (Žemaičių ir Vilniaus vyskupas)]]: Motiejus buvo pirmasis Žemaičių ir vėliau Vilniaus vyskupas, paskirtas Vytautui jį rekomendavus.
 ## Reikšmingi paminėjimai
@@ -81,4 +101,24 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fd9bf44b0460baa38e88795b212a140836fa1846ce6fc7a135d2bfba2e770d89; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstancija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Petras iš Kustynės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konstancija: mention_match, place, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras iš Kustynės" parinktas kaip owner_note_path. Targetas "Konstancija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 278056-278263; hash=d25020b0798e91f69934d828b208770fef47a1ef217927811bc545e8021b683e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstancija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Petras iš Kustynės: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konstancija: mention_match, place, gap=109
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras iš Kustynės" parinktas kaip owner_note_path. Targetas "Konstancija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

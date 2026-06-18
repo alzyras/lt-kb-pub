@@ -47,7 +47,7 @@ Sudegė abiejų pilių papiliai.
 - t-001
   global_id: t-70938
   teiginys: '1293 m. liepos 25 d. Meinhardas su gausia raitija puolė Junigedą ir Pieštvę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Junigeda; mentioned_place: Pieštvė'
+  susije_objektai: 'mentioned_place: Pieštvė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Junigeda'
   temporaliniai_duomenys: 'įvykio data: 1293 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

@@ -41,6 +41,16 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5bb87d2547cc72c0e3d4a253f8dcc344736ebf460de5ba5c4aff4f652839264f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ptolomėjaus iš Lukos Analai: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ptolomėjaus iš Lukos Analai" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60889"></a>
 - t-002
@@ -53,15 +63,35 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citatoje nurodyta data bei popiežiumi.'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e4d6ea43dcceb8d85a45831bb3e6b000e4421eefa43896070190e24c508421b1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Inocentas III: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ptolomėjaus iš Lukos Analai: owner_note_path, source
+  ryšio_targeto_parinkimas: Inocentas III: mention_match, person, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ptolomėjaus iš Lukos Analai" parinktas kaip owner_note_path. Targetas "Inocentas III" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60890"></a>
 - t-003
   global_id: t-60890
   teiginys: 'Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė dėl Prancūzijos karalystės pavaldumo apaštališkajam sostui.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje liko neaiškus „tais pačiais metais“, o citata leidžia patikslinti nesantarvės priežastį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/reskriptas|reskriptas]]; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_place: Prancūzija; mentioned_object: [[objektai/zodynas/reskriptas|reskriptas]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5e03ba28a3093acd5073284a75c1d6d8b5f5729864421352fe29a6a6547ca855; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Altorius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ptolomėjaus iš Lukos Analai: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Altorius: mention_match, thing, gap=68
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ptolomėjaus iš Lukos Analai" parinktas kaip owner_note_path. Targetas "Altorius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60891"></a>
 - t-004
@@ -74,6 +104,16 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Ptolomėjaus iš Lukos vaidmenį ir jo „Analų“ pobūdį.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=543635b2b5c651b9797d28a446684ef1ed5345246a9777269216316ccf2b0409; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Popiežius Honorijus III: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ptolomėjaus iš Lukos Analai: owner_note_path, source
+  ryšio_targeto_parinkimas: Popiežius Honorijus III: mention_match, person, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ptolomėjaus iš Lukos Analai" parinktas kaip owner_note_path. Targetas "Popiežius Honorijus III" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60892"></a>
 - t-005
@@ -86,6 +126,16 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 697087-697303; hash=77711018bdc21a8729ed390f80e901a3bbd36f9e8aeb5d6ff77da367dc6c9d2f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Italija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ptolomėjaus iš Lukos Analai: owner_note_path, source
+  ryšio_targeto_parinkimas: Italija: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ptolomėjaus iš Lukos Analai" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60893"></a>
 - t-006
@@ -98,6 +148,9 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos įvykį.'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 699754-699937; hash=2b297b1010bbe9f5f746b8fb8d7c983457cc783048225cfaef1fb7c74d623bb4; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-60894"></a>
 - t-007
@@ -110,6 +163,16 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai ir gramatiškai perteikia citatos informaciją apie gibelinus ir gvelfus.'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 733186-733970; hash=1a6926aa977aca430ad5969abcd29d50cb0a549681fb2e22847dc5d0f787fb4d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prancūzija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ptolomėjaus iš Lukos Analai: owner_note_path, source
+  ryšio_targeto_parinkimas: Prancūzija: mention_match, place, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ptolomėjaus iš Lukos Analai" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60895"></a>
 - t-008
@@ -118,6 +181,16 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo, perteklinę atribuciją ir nėra suformuluotas kaip tvarkingas sakinys.'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=72b11b1becc42bcf0743c4ee63a1063bd34c5ec7aa707b308a77ac65ee7baf7e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Klemensas V: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ptolomėjaus iš Lukos Analai: owner_note_path, source
+  ryšio_targeto_parinkimas: Klemensas V: mention_match, person, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ptolomėjaus iš Lukos Analai" parinktas kaip owner_note_path. Targetas "Klemensas V" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60896"></a>
 - t-009
@@ -127,6 +200,16 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Inocentas III|Inocentas III]]'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 740607-741332; hash=e7eb519341abf1b1d604bd86437c4464a4a080d84d1a60dd10bd8b0a2b64d08d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ptolomėjaus iš Lukos Analai: owner_note_path, source
+  ryšio_targeto_parinkimas: Viena: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ptolomėjaus iš Lukos Analai" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -159,6 +242,16 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 697087-697303; hash=77711018bdc21a8729ed390f80e901a3bbd36f9e8aeb5d6ff77da367dc6c9d2f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Italija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ptolomėjaus iš Lukos Analai: owner_note_path, source
+  ryšio_targeto_parinkimas: Italija: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ptolomėjaus iš Lukos Analai" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -179,6 +272,16 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5bb87d2547cc72c0e3d4a253f8dcc344736ebf460de5ba5c4aff4f652839264f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ptolomėjaus iš Lukos Analai: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ptolomėjaus iš Lukos Analai" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -194,6 +297,16 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5e03ba28a3093acd5073284a75c1d6d8b5f5729864421352fe29a6a6547ca855; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Altorius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ptolomėjaus iš Lukos Analai: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Altorius: mention_match, thing, gap=68
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ptolomėjaus iš Lukos Analai" parinktas kaip owner_note_path. Targetas "Altorius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-005
@@ -214,6 +327,16 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=543635b2b5c651b9797d28a446684ef1ed5345246a9777269216316ccf2b0409; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Popiežius Honorijus III: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ptolomėjaus iš Lukos Analai: owner_note_path, source
+  ryšio_targeto_parinkimas: Popiežius Honorijus III: mention_match, person, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ptolomėjaus iš Lukos Analai" parinktas kaip owner_note_path. Targetas "Popiežius Honorijus III" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-006
@@ -227,6 +350,9 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 699754-699937; hash=2b297b1010bbe9f5f746b8fb8d7c983457cc783048225cfaef1fb7c74d623bb4; match=exact
+  sprendimo_priezastis: auto
     - t-002
 
 - c-007
@@ -241,6 +367,16 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e4d6ea43dcceb8d85a45831bb3e6b000e4421eefa43896070190e24c508421b1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Inocentas III: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ptolomėjaus iš Lukos Analai: owner_note_path, source
+  ryšio_targeto_parinkimas: Inocentas III: mention_match, person, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ptolomėjaus iš Lukos Analai" parinktas kaip owner_note_path. Targetas "Inocentas III" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
 
 - c-008
@@ -257,6 +393,16 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 740607-741332; hash=e7eb519341abf1b1d604bd86437c4464a4a080d84d1a60dd10bd8b0a2b64d08d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ptolomėjaus iš Lukos Analai: owner_note_path, source
+  ryšio_targeto_parinkimas: Viena: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ptolomėjaus iš Lukos Analai" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-008
 
 - c-009
@@ -272,4 +418,24 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=72b11b1becc42bcf0743c4ee63a1063bd34c5ec7aa707b308a77ac65ee7baf7e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Klemensas V: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ptolomėjaus iš Lukos Analai: owner_note_path, source
+  ryšio_targeto_parinkimas: Klemensas V: mention_match, person, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ptolomėjaus iš Lukos Analai" parinktas kaip owner_note_path. Targetas "Klemensas V" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 733186-733970; hash=1a6926aa977aca430ad5969abcd29d50cb0a549681fb2e22847dc5d0f787fb4d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prancūzija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ptolomėjaus iš Lukos Analai: owner_note_path, source
+  ryšio_targeto_parinkimas: Prancūzija: mention_match, place, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ptolomėjaus iš Lukos Analai" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -31,27 +31,57 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
   global_id: t-86044
   teiginys: 'Užimtame Dobrynės mieste žuvo apie du tūkstančius gyventojų, o kunigaikštystėje buvo plėšiami ir deginami kaimai bei bažnyčios.'
   sudarymo_pagrindimas: 'Pašalintas OCR ir antraštės triukšmas; citata leidžia suformuluoti enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dobrynė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Dobrynė; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 163610-164079; hash=3afd6eeee7835892b2881c5b025303e30b722ca972b2e0f3615f544349940839; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė)" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86045"></a>
 - t-002
   global_id: t-86045
   teiginys: '1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Gedimino kariaunos įsiveržimą ir siaubimą Dobrynės žemėje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dobrynė; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Dobrynė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 165761-166078; hash=6409644083cf9ee512fb15872e24f5bfe41ee7600cd3bd04430a71249f579ba3; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė)" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86046"></a>
 - t-003
   global_id: t-86046
   teiginys: 'Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą apie kunigaikštystės nuniokojimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dobrynė; mentioned_place: Mazovija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Dobrynė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Mazovija; mentioned_place: Viena'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=86da6ef375bc6ea2c80e19d1aa4332e0e6b866a7ae17b29f7d30a400306feb85; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė)" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -107,6 +137,16 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 165761-166078; hash=6409644083cf9ee512fb15872e24f5bfe41ee7600cd3bd04430a71249f579ba3; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė)" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -127,4 +167,24 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 163610-164079; hash=3afd6eeee7835892b2881c5b025303e30b722ca972b2e0f3615f544349940839; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė)" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=86da6ef375bc6ea2c80e19d1aa4332e0e6b866a7ae17b29f7d30a400306feb85; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė)" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

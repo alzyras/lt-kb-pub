@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-77010
   teiginys: 'Lietuviai nebepretendavo į Minsko Lietuvą, bet neįsivaizdavo savo valstybės be istorinės sostinės Vilniaus.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas ir tiesiogiai susijęs su Minsko Lietuva.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Vilnius; mentioned_place: Lenkija'
   pagrindžia:
     - c-004
 
@@ -58,7 +58,7 @@ Nenurodyta
   global_id: t-77011
   teiginys: 'Minsko, arba rusėnų, Lietuva vadintos senosios rusėniškosios LDK žemės į rytus nuo Vidurinės Lietuvos.'
   sudarymo_pagrindimas: 'Sakinys aiškiai apibrėžia Minsko Lietuvos sampratą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vidurinė Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lietuva; mentioned_place: Vidurinė Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -67,7 +67,7 @@ Nenurodyta
   global_id: t-77012
   teiginys: 'Lenkiškoje trijų dalių Lietuvos sampratoje Minsko Lietuva buvo siejama su senosiomis rusėniškosiomis LDK žemėmis.'
   sudarymo_pagrindimas: 'Pradinis teiginys menkai siejosi su objekto pavadinimu, todėl sukonkretintas pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lietuva; mentioned_place: Minskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]'
   pagrindžia:
     - c-003
 
@@ -76,7 +76,7 @@ Nenurodyta
   global_id: t-77013
   teiginys: 'Minsko Lietuva vadintos į rytus nuo Vidurinės Lietuvos buvusios senosios rusėniškosios LDK žemės.'
   sudarymo_pagrindimas: 'Sakinys aiškiai apibrėžia Minsko Lietuvos sampratą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Vidurinė Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Vidurinė Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -85,7 +85,7 @@ Nenurodyta
   global_id: t-77014
   teiginys: 'Lietuviai siekė kurti valstybę etniniais pagrindais ir nebepretendavo į Minsko Lietuvą.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Lenkija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1922 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas ir pagrįstas citata.'
@@ -97,7 +97,7 @@ Nenurodyta
   global_id: t-77016
   teiginys: 'Lietuviai, apsisprendę kurti Lietuvos valstybę etniniais pagrindais, nebepretendavo į Minsko Lietuvą.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas ir tiesiogiai susijęs su Minsko Lietuva.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Lenkija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1922 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas ir tiesiogiai susijęs su Minsko Lietuva.'

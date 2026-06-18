@@ -27,6 +27,16 @@ Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, p
   susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 700938-701689; hash=b230a64cd214d4cd458c7ed3257c2d23d242e0e4411be337f8247ac07dd8df0b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Teutonai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Markburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Teutonai: mention_match, group, gap=71
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Markburgas" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58591"></a>
 - t-002
@@ -36,12 +46,23 @@ Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, p
   susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d5fb0dbca3e76659f02f06642b3821a0342933f35fb2fa705e1321c9cf7d459f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Teutonai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Markburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Teutonai: mention_match, group, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Markburgas" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Konradas (Tiuringijos landgrafas).md#claim-t-59988|Konradas (Tiuringijos landgrafas)]]: Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.
 - susijęs iš [[objektai/asmenys/Konradas (Tiuringijos landgrafas).md#claim-t-59988|Konradas (Tiuringijos landgrafas)]]: Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.
 - susijęs iš [[objektai/zodynas/landgrafas.md#claim-t-58822|landgrafas]]: Brolis Konradas, kadaise Tiuringijos landgrafas ir penktasis Teutonų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.
 - susijęs iš [[objektai/asmenys/Konradas (Tiuringijos landgrafas).md#claim-t-59988|Konradas (Tiuringijos landgrafas)]]: Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.
+- susijęs iš [[objektai/zodynas/landgrafas.md#claim-t-58822|landgrafas]]: Brolis Konradas, kadaise Tiuringijos landgrafas ir penktasis Teutonų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.
 - susijęs iš [[objektai/daiktai/Altorius.md#claim-t-59677|Altorius]]: Markburge priimami riteriai prieš įvilktuves kniūpsti puolė prieš altorių.
 - susijęs iš [[objektai/paprociai/Teutonų namų ordino įvilktuvių apeiga.md#claim-t-175141|Teutonų namų ordino įvilktuvių apeiga]]: Markburge į Teutonų namų ordiną įvelkami kandidatai kniūpsti puldavo prieš altorių, kol kunigas melsdavosi ir giedodavo.
-- susijęs iš [[objektai/zodynas/landgrafas.md#claim-t-58822|landgrafas]]: Brolis Konradas, kadaise Tiuringijos landgrafas ir penktasis Teutonų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -82,8 +103,39 @@ Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, p
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 700938-701689; hash=b230a64cd214d4cd458c7ed3257c2d23d242e0e4411be337f8247ac07dd8df0b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Teutonai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Markburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Teutonai: mention_match, group, gap=71
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Markburgas" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d5fb0dbca3e76659f02f06642b3821a0342933f35fb2fa705e1321c9cf7d459f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Teutonai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Markburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Teutonai: mention_match, group, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Markburgas" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 700938-701689; hash=b230a64cd214d4cd458c7ed3257c2d23d242e0e4411be337f8247ac07dd8df0b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Teutonai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Markburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Teutonai: mention_match, group, gap=71
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Markburgas" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
+- [[objektai/asmenys/Konradas (Tiuringijos landgrafas)]] buvo_palaidotas Markburgas
 - [[objektai/asmenys/Konradas (Tiuringijos landgrafas)]] mire Markburgas

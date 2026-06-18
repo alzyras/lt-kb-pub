@@ -43,9 +43,19 @@ Nenurodyta
   global_id: t-92024
   teiginys: 'Mediniai noragai buvo dirbami tada, kai dėl užimtų pajūrio pilių nebegauta geležies žambių noragams.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas, su fragmentais ir citatos triukšmu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Noragai|Noragai]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Noragai|Noragai]]; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 148896-149811; hash=79bc10ef588d8ba81042dc61d9f5a80a13c156aa7c9a5fb85e8c3676cbed7bdf; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Noragai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medžio noragai geležiniai noragai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Noragai: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medžio noragai geležiniai noragai" parinktas kaip owner_note_path. Targetas "Noragai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -73,3 +83,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 148896-149811; hash=79bc10ef588d8ba81042dc61d9f5a80a13c156aa7c9a5fb85e8c3676cbed7bdf; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Noragai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medžio noragai geležiniai noragai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Noragai: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medžio noragai geležiniai noragai" parinktas kaip owner_note_path. Targetas "Noragai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

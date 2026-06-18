@@ -42,6 +42,9 @@ Nenurodyta
   teiginio_tipas: 'faktas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 149046-149661; hash=f217932a7baf780f7eb8d532741e90439aba8a8530d5df8fee6203250faed3ab; match=exact
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/Guagnini.md#claim-t-30624|Guagnini]]: Guagnini kartu su Herbersteinu ir Lasiciu pateikė netikslių XVI a. žinių, kad Žemaičiuose naudoti tik mediniai arklų noragai.
 - susijęs iš [[objektai/daiktai/Medžio noragai geležiniai noragai.md#claim-t-92024|Medžio noragai geležiniai noragai]]: Mediniai noragai buvo dirbami tada, kai dėl užimtų pajūrio pilių nebegauta geležies žambių noragams.
 ## Reikšmingi paminėjimai
@@ -55,6 +58,9 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 149046-149661; hash=f217932a7baf780f7eb8d532741e90439aba8a8530d5df8fee6203250faed3ab; match=exact
+  sprendimo_priezastis: auto
 
 ## Pastabos
 

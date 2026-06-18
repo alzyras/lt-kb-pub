@@ -32,6 +32,9 @@ Dusburgietis teigia, kad vanagas A.
   temporalinis_llm_pakomentavimas: 'Citata pateikia autorių, pavadinimą, leidinį ir metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 801565-801632; hash=f1da11f6fc05d4d9b6d44ec4c0e2dbe12ece26c15d02ed663748263a98ffebc6; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -45,3 +48,6 @@ Dusburgietis teigia, kad vanagas A.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 801565-801632; hash=f1da11f6fc05d4d9b6d44ec4c0e2dbe12ece26c15d02ed663748263a98ffebc6; match=exact
+  sprendimo_priezastis: auto

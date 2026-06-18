@@ -33,6 +33,16 @@ Lenkijos ir Lietuvos konstitucijos konstruojama santvarka turėjo lygiuotis į A
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys labiau apie Lenkijos ir Lietuvos konstituciją, todėl perrašyta apie note objektą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 157272-157637; hash=a2d831a6702e2b6dd87f128a009c9ef9dd96c7c9d5a27b2668fe66988f9a51e8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> konstitucijos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: JAV konstitucija (1783 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: konstitucijos: mention_match, thing, gap=4
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "JAV konstitucija (1783 m.)" parinktas kaip owner_note_path. Targetas "konstitucijos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -51,3 +61,13 @@ Lenkijos ir Lietuvos konstitucijos konstruojama santvarka turėjo lygiuotis į A
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 157272-157637; hash=a2d831a6702e2b6dd87f128a009c9ef9dd96c7c9d5a27b2668fe66988f9a51e8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> konstitucijos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: JAV konstitucija (1783 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: konstitucijos: mention_match, thing, gap=4
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "JAV konstitucija (1783 m.)" parinktas kaip owner_note_path. Targetas "konstitucijos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -33,6 +33,16 @@ periodo_grupes: []
   temporalinis_llm_pakomentavimas: 'Teiginys išsamus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb850c5f09ed2c1763ea06c3399bef58a3c2b5855f1878ee948b548ff31cd793; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aaron Klug: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bernard Lown: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Aaron Klug: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernard Lown" parinktas kaip owner_note_path. Targetas "Aaron Klug" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Aaron Klug.md#claim-t-18753|Aaron Klug]]: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.
 - susijęs iš [[objektai/asmenys/Czesław Miłosz.md#claim-t-75793|Czesław Miłosz]]: Czesławas Miłoszas buvo 1980 m. Nobelio literatūros premijos laureatas ir šlovino Vilnių už čia išeitą mokslą.
 - susijęs iš [[objektai/asmenys/Czesław Miłosz.md#claim-t-75795|Czesław Miłosz]]: Czesławas Miłoszas buvo 1980 m. Nobelio literatūros premijos laureatas ir šlovino Vilnių už čia išeitą mokslą.
@@ -65,3 +75,13 @@ periodo_grupes: []
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb850c5f09ed2c1763ea06c3399bef58a3c2b5855f1878ee948b548ff31cd793; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aaron Klug: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bernard Lown: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Aaron Klug: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernard Lown" parinktas kaip owner_note_path. Targetas "Aaron Klug" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

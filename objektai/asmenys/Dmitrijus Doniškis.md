@@ -33,13 +33,23 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
   global_id: t-87652
   teiginys: 'Dmitrijus Doniškis kovojo prieš totorius kartu su Andriumi, kuris daug prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.'
   sudarymo_pagrindimas: 'Citata remia Dmitrijaus Doniškio ryšį su Andriumi ir Kulikovo mūšiu, bet pradinis sakinys fragmentiškas.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'counterparty: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   semantiniai_rysiai: '[[objektai/asmenys/Dmitrijus Doniškis|Dmitrijus Doniškis]] kariavo prieš [[objektai/grupes/Totoriai|Totoriai]]'
   temporaliniai_duomenys: 'mūšio data: 1380 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Dmitrijus Doniškis kariavo prieš Totoriai“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia Dmitrijaus Doniškio ryšį su Andriumi ir Kulikovo mūšiu, bet pradinis sakinys fragmentiškas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f9d0ea0f4b047faa33a26129f7a58eccba57f5c0a68628bf33d7a6b8798ee8a4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 1.00
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_combat_counterparty
+  ryšio_subjekto_parinkimas: Dmitrijus Doniškis: owner_note_path, person, gap=19
+  ryšio_targeto_parinkimas: Totoriai: counterparty_iteration, group, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Dmitrijus Doniškis" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -81,6 +91,16 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f9d0ea0f4b047faa33a26129f7a58eccba57f5c0a68628bf33d7a6b8798ee8a4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: kariavo_pries -> Totoriai: 1.00
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_combat_counterparty
+  ryšio_subjekto_parinkimas: Dmitrijus Doniškis: owner_note_path, person, gap=19
+  ryšio_targeto_parinkimas: Totoriai: counterparty_iteration, group, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Dmitrijus Doniškis" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Dmitrijus Doniškis kariavo_pries [[objektai/grupes/Totoriai]]

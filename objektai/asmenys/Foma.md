@@ -24,13 +24,23 @@ Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasi
   global_id: t-87671
   teiginys: 'Graikų tikėjimo dvasininkas Foma kartu su Vilniaus vyskupu Vaitiekumi Taboru sutuokė didįjį kunigaikštį su Elena.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų sakinį apie Fomos vaidmenį santuokos apeigose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos pasiuntiniai|Maskvos pasiuntiniai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Kulešinas|Kulešinas]]; mentioned_person: [[objektai/asmenys/Rapolovska|Rapolovska]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Maskvos pasiuntiniai|Maskvos pasiuntiniai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Kulešinas|Kulešinas]]; mentioned_person: [[objektai/asmenys/Rapolovska|Rapolovska]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Elena.md#claim-t-54958|Elena (vyskupas, XV–XVI a.)]]: Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.
-- susijęs iš [[objektai/asmenys/Elena.md#claim-t-82290|Elena (vyskupas, XV–XVI a.)]]: Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė didįjį kunigaikštį Aleksandrą su Elena.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 467608-468045; hash=a03a12e62592cd523721aa13c3e5352bd3063aadbc883d8ef691f9c001d15211; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Foma: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Foma" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Vaitiekus Taboras.md#claim-t-87414|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]: Vilniaus vyskupas Vaitiekus Taboras kartu su graikų tikėjimo dvasininku Foma sutuokė didįjį kunigaikštį su Elena.
 - susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas.md#claim-t-87197|Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]: Šv. Stanislovo katedroje Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.
+- susijęs iš [[objektai/asmenys/Elena.md#claim-t-54958|Elena (vyskupas, XV–XVI a.)]]: Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.
+- susijęs iš [[objektai/asmenys/Elena.md#claim-t-82290|Elena (vyskupas, XV–XVI a.)]]: Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė didįjį kunigaikštį Aleksandrą su Elena.
 - susijęs iš Kijevas: Skirgaila po puotos susirgo Miloslavičiuose ir, grįžęs į Kijevą, septintą dieną mirė.
 - susijęs iš Miloslavičiai: Po puotos Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė.
 - susijęs iš Miloslavičiai: Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė.
@@ -53,3 +63,13 @@ Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasi
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 467608-468045; hash=a03a12e62592cd523721aa13c3e5352bd3063aadbc883d8ef691f9c001d15211; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Foma: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Foma" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

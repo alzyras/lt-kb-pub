@@ -29,12 +29,22 @@ Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pra
   global_id: t-61327
   teiginys: '„Trumpieji Prūsijos analai“ buvo pratęsti iki 1337 m.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs ir užterštas nuorodų triukšmu, bet citata remia trumpą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vysla'
   temporaliniai_duomenys: 'įvykio data: iki 1337 m.; įvykio data: 1337 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūkęs ir užterštas nuorodų triukšmu, bet citata remia trumpą faktą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 58951-59859; hash=43e4d73eb7c9d552a053d81789b07f46674d5fb621d9c09937d7504992afcf18; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Trumpieji Prūsijos analai: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Trumpieji Prūsijos analai" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -65,3 +75,13 @@ Dusburgietis teigia, kad panašaus turinio „Trumpieji Prūsijos analai“ (pra
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 58951-59859; hash=43e4d73eb7c9d552a053d81789b07f46674d5fb621d9c09937d7504992afcf18; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Trumpieji Prūsijos analai: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Trumpieji Prūsijos analai" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

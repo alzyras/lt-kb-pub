@@ -40,12 +40,22 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys perrašytas neutraliu enciklopediniu stiliumi.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bajazitas|Bajazitas]]; mentioned_place: Dakija; mentioned_place: Lietuva; mentioned_place: Valachija'
+  susije_objektai: 'territory: Dakija; mentioned_person: [[objektai/asmenys/Bajazitas|Bajazitas]]; mentioned_place: Dakija; mentioned_place: Valachija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1485 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas neutraliu enciklopediniu stiliumi.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 938853-939392; hash=936bae9ae3d6f5c084164580015a778c1e8133bed75e695011cfe1d2cff75064; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzeme -> Dakija: 0.87
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: Bajazitas: nearest_actor, person, gap=59
+  ryšio_targeto_parinkimas: Dakija: nearest_after_predicate, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Bajazitas" parinktas kaip nearest_actor. Targetas "Dakija" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
 
 <a id="claim-t-185694"></a>
 - t-002
@@ -58,6 +68,16 @@ Nenurodyta
   susije_objektai: 'mentioned_place: Valachija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 939393-939681; hash=1ca5cbdd77a4124ddc79529862c9d42355b51c26b63598d8760aed12b0a055d6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Valachija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Valachija: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)" parinktas kaip owner_note_path. Targetas "Valachija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -104,4 +124,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 938853-939392; hash=936bae9ae3d6f5c084164580015a778c1e8133bed75e695011cfe1d2cff75064; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzeme -> Dakija: 0.87
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_places
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: Bajazitas: nearest_actor, person, gap=59
+  ryšio_targeto_parinkimas: Dakija: nearest_after_predicate, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Bajazitas" parinktas kaip nearest_actor. Targetas "Dakija" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_places.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 939393-939681; hash=1ca5cbdd77a4124ddc79529862c9d42355b51c26b63598d8760aed12b0a055d6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Valachija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Valachija: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)" parinktas kaip owner_note_path. Targetas "Valachija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

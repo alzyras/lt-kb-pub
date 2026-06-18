@@ -34,6 +34,16 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti glaustą bibliografinį faktą apie veikalą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 5042-5138; hash=83e94f60760f4df8dd0f4167f10fe05a3d8fbd142814ecd9a3fd168b0db0637e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Leipcigas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Historiae Polonicae libri XII Dziejų Polskich ksiąg dwanaście: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Leipcigas: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Historiae Polonicae libri XII Dziejų Polskich ksiąg dwanaście" parinktas kaip owner_note_path. Targetas "Leipcigas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +57,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 5042-5138; hash=83e94f60760f4df8dd0f4167f10fe05a3d8fbd142814ecd9a3fd168b0db0637e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Leipcigas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Historiae Polonicae libri XII Dziejų Polskich ksiąg dwanaście: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Leipcigas: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Historiae Polonicae libri XII Dziejų Polskich ksiąg dwanaście" parinktas kaip owner_note_path. Targetas "Leipcigas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

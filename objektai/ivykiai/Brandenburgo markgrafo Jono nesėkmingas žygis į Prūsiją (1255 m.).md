@@ -53,6 +53,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Citata remia aiškesnį enciklopedinį sakinį apie žygio nesėkmę.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 358842-359458; hash=81b79cdd6c2609a62ca2379dee9df983cdee2817c12ed6f187d078700d8b1124; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brandenburgo markgrafo Jono nesėkmingas žygis į Prūsiją (1255 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brandenburgo markgrafo Jono nesėkmingas žygis į Prūsiją (1255 m.)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -74,3 +84,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 358842-359458; hash=81b79cdd6c2609a62ca2379dee9df983cdee2817c12ed6f187d078700d8b1124; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brandenburgo markgrafo Jono nesėkmingas žygis į Prūsiją (1255 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brandenburgo markgrafo Jono nesėkmingas žygis į Prūsiją (1255 m.)" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

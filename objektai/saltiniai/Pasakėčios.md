@@ -33,6 +33,9 @@ Rygiškių Jono redaguotos „PASAKĖČIOS”.
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia redaktorių, leidimo metus ir leidimo pobūdį, o pradinis teiginys nėra pilnas sakinys.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 735616-735788; hash=60e634500ad6af1270f75574de0b7084655153085c5015f65c8658a43e259d5d; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -48,3 +51,6 @@ Rygiškių Jono redaguotos „PASAKĖČIOS”.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 735616-735788; hash=60e634500ad6af1270f75574de0b7084655153085c5015f65c8658a43e259d5d; match=exact
+  sprendimo_priezastis: auto

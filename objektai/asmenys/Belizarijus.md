@@ -28,6 +28,16 @@ Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero v
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai remiasi citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 87888-88265; hash=8b6b626b8ddaa751ebeff5a0aa8ecb521b75402f3b077745fa228dd9a8829ee2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herulai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Belizarijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Herulai: mention_match, group, gap=62
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Belizarijus" parinktas kaip owner_note_path. Targetas "Herulai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -50,3 +60,13 @@ Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero v
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 87888-88265; hash=8b6b626b8ddaa751ebeff5a0aa8ecb521b75402f3b077745fa228dd9a8829ee2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herulai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Belizarijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Herulai: mention_match, group, gap=62
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Belizarijus" parinktas kaip owner_note_path. Targetas "Herulai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

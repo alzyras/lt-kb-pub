@@ -24,7 +24,7 @@ tags:
   global_id: t-75524
   teiginys: 'Vašingtono sutarties 5-asis straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus vieną Aljanso narę.'
   sudarymo_pagrindimas: 'Pradinis teiginys per bendras; citata leidžia suformuluoti konkretesnį faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Vašingtonas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Vašingtonas; mentioned_place: Viena; mentioned_group: [[objektai/grupes/NATO|NATO]]'
   pagrindžia:
     - c-001
 
@@ -36,6 +36,16 @@ tags:
   susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Vašingtonas; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 533162-533737; hash=616f2e185dd175b0d5e1738e7d00b10e3ce719e8eb7fef462fef465d33be239e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vašingtonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vašingtono sutartis: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Vašingtonas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vašingtono sutartis" parinktas kaip owner_note_path. Targetas "Vašingtonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -58,4 +68,14 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 533162-533737; hash=616f2e185dd175b0d5e1738e7d00b10e3ce719e8eb7fef462fef465d33be239e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vašingtonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vašingtono sutartis: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Vašingtonas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vašingtono sutartis" parinktas kaip owner_note_path. Targetas "Vašingtonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001

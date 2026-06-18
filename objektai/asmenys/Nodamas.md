@@ -24,9 +24,19 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
   global_id: t-60395
   teiginys: 'Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais ir atsisėdo Nemuno pakrantėje, siekdamas apgauti brolius.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Nodamo veiksmą ir tikslą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Vienos|Jonas iš Vienos]]; mentioned_place: Kolainiai; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Ragainė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_place: Nemunas; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Vienos|Jonas iš Vienos]]; mentioned_place: Kolainiai; mentioned_place: Pilėnai; mentioned_place: Ragainė; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f08e012e9717064b1487f8272403fe22a7860378dd2b4326cf89e3a087bc987d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drabužiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nodamas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Drabužiai: mention_match, thing, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nodamas" parinktas kaip owner_note_path. Targetas "Drabužiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184807"></a>
 - t-002
@@ -38,6 +48,9 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
   sudarymo_pagrindimas: 'Pradinėje formuluotėje vadovas ir veikiantieji asmenys per mažai aiškūs.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 278683-279367; hash=6dd338415c139d0c5c5fade5a4b2fab6194e59e64662cdba9e1b398c0dbdfe25; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-184808"></a>
 - t-003
@@ -50,6 +63,16 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Aukaimis'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 280011-280647; hash=2106ce63d58d4851decbd75fa2aab6357feba175e5c87f7a94f132c6c7c01c2a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukaimis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nodamas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Aukaimis: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nodamas" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Karine klasta paimamas kryžiuočių laivas.md#claim-t-185802|Karine klasta paimamas kryžiuočių laivas]]: Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą.
 ## Reikšmingi paminėjimai
 
@@ -99,6 +122,16 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f08e012e9717064b1487f8272403fe22a7860378dd2b4326cf89e3a087bc987d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drabužiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nodamas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Drabužiai: mention_match, thing, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nodamas" parinktas kaip owner_note_path. Targetas "Drabužiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -122,4 +155,17 @@ Dusburgietis teigia, kad todėl vienas lietuvis, vardu Nodamas, prityręs karys,
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 278683-279367; hash=6dd338415c139d0c5c5fade5a4b2fab6194e59e64662cdba9e1b398c0dbdfe25; match=exact
+  sprendimo_priezastis: auto
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 280011-280647; hash=2106ce63d58d4851decbd75fa2aab6357feba175e5c87f7a94f132c6c7c01c2a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukaimis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nodamas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Aukaimis: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nodamas" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

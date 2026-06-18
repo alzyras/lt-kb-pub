@@ -23,6 +23,9 @@ Vėbra^128.
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako R. Vėbros rašymo temą ir yra paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fb7c5fcf5cd762350907f06dc727c163ede1304b86ee67474975aa052a458520; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179531|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais.
 ## Reikšmingi paminėjimai
 
@@ -36,3 +39,6 @@ Vėbra^128.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fb7c5fcf5cd762350907f06dc727c163ede1304b86ee67474975aa052a458520; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

@@ -23,6 +23,9 @@ Baniulio, ltn.
   sudarymo_pagrindimas: 'Pradinis tekstas fragmentiškas, citata remia konkretų faktą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 825483-825595; hash=b569a1c947241e2388ced8a353ecc93141f7d77867fb6ff36ff30743026001ed; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -36,3 +39,6 @@ Baniulio, ltn.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 825483-825595; hash=b569a1c947241e2388ced8a353ecc93141f7d77867fb6ff36ff30743026001ed; match=exact
+  sprendimo_priezastis: auto

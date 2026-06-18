@@ -23,6 +23,9 @@ tags:
   sudarymo_pagrindimas: 'Pradinė formuluotė yra bibliografinis fragmentas be predikato.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 740481-740562; hash=14a71b02299ad95138fb0f9f2e1d605b19576607c15320dfdf530159ac166682; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-34910"></a>
 - t-002
@@ -32,6 +35,16 @@ tags:
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Kuzmickis|Kuzmickis]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 740563-740798; hash=732f56f8271edc2dd3a272bca82a72919aee7c05c3a6b8157c8f219c2cb4d9b8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuzmickis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalba: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Kuzmickis: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalba" parinktas kaip owner_note_path. Targetas "Kuzmickis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -58,4 +71,17 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 740481-740562; hash=14a71b02299ad95138fb0f9f2e1d605b19576607c15320dfdf530159ac166682; match=exact
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 740563-740798; hash=732f56f8271edc2dd3a272bca82a72919aee7c05c3a6b8157c8f219c2cb4d9b8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuzmickis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalba: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Kuzmickis: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalba" parinktas kaip owner_note_path. Targetas "Kuzmickis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

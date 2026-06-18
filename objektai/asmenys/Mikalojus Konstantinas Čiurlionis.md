@@ -32,7 +32,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - t-002
   global_id: t-101689
   teiginys: 'Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Leipcigas; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Leipcigas; mentioned_place: Varšuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -41,7 +41,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   global_id: t-101690
   teiginys: 'M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs fragmentas, o citata palaiko aiškų sakinį apie Čiurlionį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/M. K. Čiurlionis|M. K. Čiurlionis]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/M. K. Čiurlionis|M. K. Čiurlionis]]; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: po 1795 m.; įvykio data: 1795 m.; įvykio data: 1918-1919; įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nutrūkęs fragmentas, o citata palaiko aiškų sakinį apie Čiurlionį.'
@@ -53,7 +53,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   global_id: t-101691
   teiginys: 'Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/M. K. Čiurlionis|M. K. Čiurlionis]]; mentioned_place: Leipcigas; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/M. K. Čiurlionis|M. K. Čiurlionis]]; mentioned_place: Leipcigas; mentioned_place: Varšuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
 
@@ -82,11 +82,12 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
+- susijęs iš [[objektai/asmenys/M. K. Čiurlionis.md#claim-t-63885|M. K. Čiurlionis]]: Po J. Stalino mirties „atšilimo“ laikotarpiu oficialiai išspausdinta M. K. Čiurlionio kūrybos albumų.
+- susijęs iš [[objektai/asmenys/M. K. Čiurlionis.md#claim-t-63886|M. K. Čiurlionis]]: Čiurlionio muziejaus senojo meno ekspozicija.
+- susijęs iš Pažaislio vienuolynas: Pažaislio vienuolyne veikė M. K. Čiurlionio muziejaus senojo meno ekspozicija.
 - susijęs iš [[objektai/asmenys/Balys Sruoga.md#claim-t-18847|Balys Sruoga]]: Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta Balio Sruogos kūrinių.
 - susijęs iš [[objektai/asmenys/Jonas Mačiulis-Maironis.md#claim-t-63726|Jonas Mačiulis-Maironis]]: Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta Maironio, Vinco Mykolaičio-Putino ir kitų lietuvių autorių kūrinių.
 - susijęs iš [[objektai/asmenys/Jurgis Baltrušaitis.md#claim-t-19032|Jurgis Baltrušaitis]]: Po J. Stalino mirties „atšilimo“ laikotarpiu buvo išspausdinta Jurgio Baltrušaičio kūrinių.
-- susijęs iš [[objektai/asmenys/M. K. Čiurlionis.md#claim-t-63885|M. K. Čiurlionis]]: Po J. Stalino mirties „atšilimo“ laikotarpiu oficialiai išspausdinta M. K. Čiurlionio kūrybos albumų.
-- susijęs iš [[objektai/asmenys/M. K. Čiurlionis.md#claim-t-63886|M. K. Čiurlionis]]: Čiurlionio muziejaus senojo meno ekspozicija.
 - susijęs iš [[objektai/asmenys/S. Girėnas.md#claim-t-78078|S. Girėnas]]: Sovietmečiu buvo leista rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį.
 - susijęs iš [[objektai/asmenys/Stasys Girėnas.md#claim-t-64102|Stasys Girėnas]]: Sovietmečiu buvo leidžiama rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį.
 - susijęs iš [[objektai/asmenys/V. Krėvė-Mickevičius.md#claim-t-64199|V. Krėvė-Mickevičius]]: Po J. Stalino mirties V. Krėvė-Mickevičius buvo reabilituotas, o jo kūriniai vėl išspausdinti.
@@ -97,7 +98,6 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - susijęs iš [[objektai/ivykiai/Sausio 13-oji (1991 m.).md#claim-t-75268|Sausio 13-oji (1991 m.)]]: Sausio 13-osios herojai minimi tarp XX a. Lietuvos įnašą į Europos istoriją simbolizuojančių veikėjų.
 - susijęs iš Kauno įgulos bažnyčia: Kauno įgulos bažnyčioje buvo įkurtas Skulptūros ir vitražo muziejus.
 - susijęs iš Leipcigas: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
-- susijęs iš Pažaislio vienuolynas: Pažaislio vienuolyne veikė M. K. Čiurlionio muziejaus senojo meno ekspozicija.
 - susijęs iš Varšuva: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
 - susijęs iš Varšuva: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
 - susijęs iš Vilniaus arkikatedra: Uždarytoje Vilniaus arkikatedroje buvo atidaryta Paveikslų galerija.

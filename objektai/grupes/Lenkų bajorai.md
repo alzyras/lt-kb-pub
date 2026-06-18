@@ -32,10 +32,13 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir teiginys išlaikytas kaip aiškus faktas.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=365a82de19dc30c5b5d970d390a193dc7c54f794d1deec9b7560ad7860af7f9f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+- susijęs iš [[objektai/ivykiai/Vilniaus-Radomo susitarimas.md#claim-t-66976|Vilniaus-Radomo susitarimas]]: 1401 m. po ilgų derybų pasiektą Vilniaus-Radomo susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos ir Lenkijos bajorai.
 - susijęs iš [[objektai/asmenys/Vilhelmas Habsburgas.md#claim-t-64243|Vilhelmas Habsburgas]]: Vienuolikmetė Jadvyga buvo sužieduota su Austrijos hercogu Vilhelmu.
 - susijęs iš [[objektai/asmenys/Vilhelmas.md#claim-t-51186|Vilhelmas]]: Vienuolikmetė Jadvyga buvo sužieduota su Austrijos hercogu Vilhelmu.
 - susijęs iš [[objektai/asmenys/Vilhelmas.md#claim-t-51187|Vilhelmas]]: Austrijos hercogas Vilhelmas buvo sužieduotas su vienuolikmete Jadvyga dar jos tėvui mirštant.
-- susijęs iš [[objektai/ivykiai/Vilniaus-Radomo susitarimas.md#claim-t-66976|Vilniaus-Radomo susitarimas]]: 1401 m. po ilgų derybų pasiektą Vilniaus-Radomo susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos ir Lenkijos bajorai.
 - susijęs iš Konstancija: Vytautas ir Jogaila susitaikė, nes abiem rūpėjo kryžiuočių klausimas, susijęs su Konstancijoje vykusiu suvažiavimu.
 - susijęs iš Radomas: Lenkų bajorai Vilniaus ir Radomo susitarimo dokumentą surašė Radome.
 ## Reikšmingi paminėjimai
@@ -72,4 +75,17 @@ atskirais dokumentais jį patvirtino Vytautas, Jo- gaila, Lietuvos ir Lenkų baj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 255006-255430; hash=12faf0163c051f19d2def5c45e158bb7a264b247bbabc133702697b734a10f88; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lenkų bajorai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lenkų bajorai" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=365a82de19dc30c5b5d970d390a193dc7c54f794d1deec9b7560ad7860af7f9f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

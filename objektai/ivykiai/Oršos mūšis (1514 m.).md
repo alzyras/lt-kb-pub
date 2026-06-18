@@ -46,7 +46,7 @@ Nenurodyta
 - t-001
   global_id: t-54178
   teiginys: 'Po Oršos mūšio propagandos kampanija padėjo Žygimantui spręsti tarptautinius klausimus, o žymesni belaisviai buvo siunčiami į Europos valdovų dvarus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Europa; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -54,7 +54,7 @@ Nenurodyta
 - t-002
   global_id: t-54179
   teiginys: 'Po Oršos mūšio Vilniuje buvo surengtos triumfo iškilmės, vedami belaisviai ir pakabintos trofėjinės vėliavos.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Vilnius; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1530 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

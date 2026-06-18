@@ -36,7 +36,7 @@ Romo Kalantos sušukta frazė siejama su susideginimo protestu prieš okupacinę
   global_id: t-13498
   teiginys: 'Šūksnis „Laisvę Lietuvai!“ siejamas su Romo Kalantos pasidegimu Kauno miesto sode 1972 m. gegužės 14 d.'
   sudarymo_pagrindimas: 'Citata nepagrindžia, kad tai buvo pirmas toks protesto atvejis.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/„Laisvę Lietuvai!“|„Laisvę Lietuvai!“]]; mentioned_place: Baltija; mentioned_place: Kaunas; mentioned_place: SSRS; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„Laisvę Lietuvai!“|„Laisvę Lietuvai!“]]; mentioned_place: Kaunas; mentioned_place: Baltija; mentioned_place: SSRS; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1971 m.; įvykio data: 1972 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata nepagrindžia, kad tai buvo pirmas toks protesto atvejis.'

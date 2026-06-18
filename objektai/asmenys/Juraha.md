@@ -30,12 +30,22 @@ Juraha taip pat prie kole­ gijos pastarąją priskyrė, o kolegijos namą, vadi
   global_id: t-87530
   teiginys: 'Akademijos rektorius Juraha 1756 m. Valerijono mūrinį namą priskyrė prie kolegijos.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir remiasi citatoje nurodytu 1756 m. veiksmu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1756 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir remiasi citatoje nurodytu 1756 m. veiksmu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d89d91b0152f7703ef74bf75567ef763089e1505d00a18c61ee66851deb4b20d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Namas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Juraha: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juraha" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Mauricijus.md#claim-t-87775|Mauricijus]]: Mauricijaus ir Uršulės mūras kadaise buvo įpareigotas kasmet mokėti 140 auksinų pamaldoms.
 - susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-55108|Vilniaus žydų kahalas]]: Kahalas mokėjo procentus nuo jame investuotų sumų įpareigotų pamaldų reikmėms.
 - susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-81750|Vilniaus žydų kahalas]]: Tėvas Juraha viderkafto mokestį priskyrė kahale investuotoms sumoms, nuo kurių kahalas mokėjo procentus įpareigotoms pamaldoms.
@@ -76,3 +86,13 @@ Juraha taip pat prie kole­ gijos pastarąją priskyrė, o kolegijos namą, vadi
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d89d91b0152f7703ef74bf75567ef763089e1505d00a18c61ee66851deb4b20d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Namas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Juraha: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juraha" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

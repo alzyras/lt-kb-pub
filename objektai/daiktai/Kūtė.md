@@ -43,6 +43,16 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 48864-49718; hash=f806c2419636fb1a114945793e575b87f12a4c26a5fb29613be879c6bce2d65e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Namas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kūtė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kūtė" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-08301"></a>
 - t-002
@@ -52,6 +62,16 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 49719-50185; hash=db42a2d36875773ddcf43ccd2acd92feb0eb009be76668080ad84d1361032a45; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Namas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kūtė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kūtė" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -86,7 +106,27 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 48864-49718; hash=f806c2419636fb1a114945793e575b87f12a4c26a5fb29613be879c6bce2d65e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Namas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kūtė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kūtė" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 49719-50185; hash=db42a2d36875773ddcf43ccd2acd92feb0eb009be76668080ad84d1361032a45; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Namas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kūtė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kūtė" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Pastabos
 

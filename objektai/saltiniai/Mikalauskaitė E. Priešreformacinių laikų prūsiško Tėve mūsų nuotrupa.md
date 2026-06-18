@@ -32,6 +32,9 @@ Dusburgietis teigia, kad mikalauskaitė E.
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia publikavimo vietą ir metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 786533-786656; hash=ae6d8a2e84bf04e80d368735ab6c8b536759a4e737cd600c584d957514aae145; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +50,6 @@ Dusburgietis teigia, kad mikalauskaitė E.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 786533-786656; hash=ae6d8a2e84bf04e80d368735ab6c8b536759a4e737cd600c584d957514aae145; match=whitespace_regex
+  sprendimo_priezastis: auto

@@ -31,6 +31,16 @@ LAUKO FORTIFIKACIJA", Andžej Geglis, dail.
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Andžej Geglis|Andžej Geglis]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1135221-1135295; hash=04fc98d33ae932d65e484ab93741619fc9bd7364c5e6abb137943e6228139c34; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Andžej Geglis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: XVII A. LAUKO FORTIFIKACIJA: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Andžej Geglis: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "XVII A. LAUKO FORTIFIKACIJA" parinktas kaip owner_note_path. Targetas "Andžej Geglis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -43,3 +53,13 @@ LAUKO FORTIFIKACIJA", Andžej Geglis, dail.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1135221-1135295; hash=04fc98d33ae932d65e484ab93741619fc9bd7364c5e6abb137943e6228139c34; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Andžej Geglis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: XVII A. LAUKO FORTIFIKACIJA: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Andžej Geglis: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "XVII A. LAUKO FORTIFIKACIJA" parinktas kaip owner_note_path. Targetas "Andžej Geglis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

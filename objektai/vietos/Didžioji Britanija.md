@@ -35,13 +35,23 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas šalių sąrašu citatoje.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=94a2e18acb50457152e8268d37154d9bdf5e82e805f8e8a275dd5c82e9775ea4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Didžioji Britanija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžioji Britanija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-67799"></a>
 - t-002
   global_id: t-67799
   teiginys: 'Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lietuvos užsienio prekybą.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Suomija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Baltija; mentioned_place: SSRS; mentioned_place: Suomija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -53,11 +63,24 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pirminis sakinys per ilgas ir labiau orientuotas į JAV, todėl sutelktas į Didžiąją Britaniją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Australija; mentioned_place: Baltija; mentioned_place: Kanada; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Australija; mentioned_place: Kanada; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija; mentioned_place: Lenkija'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 374423-374704; hash=cf49c76a61305462f4550ebacb049a311ceb789a1e535e4e1d6863f8b83e51ca; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Didžioji Britanija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžioji Britanija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77984|A. Smetona]]: 1919 m. rugsėjo 26 d. Kaune prezidentas A. Smetona iš balkono sveikino minias, susirinkusias dėl Didžiosios Britanijos de facto pripažinimo.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75729|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1919 m. rugsėjo 26 d. Kaune prezidentas Antanas Smetona iš balkono sveikino minias po Didžiosios Britanijos de facto pripažinimo.
+- susijęs iš [[objektai/paprociai/Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą.md#claim-t-20817|Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą]]: 1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.
+- susijęs iš Kaunas: 1919 m. rugsėjo 26 d. tūkstančiai žmonių Kaune susirinko prie rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.
+- susijęs iš Lietuva: 1991 m. Lietuvą pripažino Prancūzija, Didžioji Britanija, JAV ir rugsėjo 6 d. SSRS.
 - susijęs iš [[objektai/asmenys/J. Stalinas.md#claim-t-101645|J. Stalinas]]: Lietuvoje tikėta, kad Vakarai pakils į žygį prieš J. Stalino SSRS ir padės sugrąžinti nepriklausomybę dėl karo jos netekusioms šalims.
 - susijęs iš [[objektai/asmenys/Josifas Stalinas.md#claim-t-101664|Josifas Stalinas]]: J. Stalino SSRS buvo laikoma jėga, prieš kurią Baltijos šalių pasipriešinimo dalyviai tikėjosi Vakarų žygio.
 - susijęs iš [[objektai/daiktai/Lietuvos trispalvė.md#claim-t-75339|Lietuvos trispalvė]]: 1919 m. rugsėjo 26 d. virš Kauno skraidę lėktuvai tempė Lietuvos trispalvę.
@@ -67,10 +90,7 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
 - susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.).md#claim-t-75172|Lietuvos nepriklausomybės tarptautinis pripažinimas (1991 m. vasario 11 d. – rugsėjo 6 d.)]]: Rugpjūtį žlugus Maskvos pučui, per kurį komunistai mėgino susigrąžinti valdžią Sovietų Sąjungoje, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas.
 - susijęs iš [[objektai/ivykiai/Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.).md#claim-t-75175|Lietuvos partizaninis karas dėl nepriklausomybės atkūrimo (1944–1953 m.)]]: Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą.
 - susijęs iš [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.).md#claim-t-75182|Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]: Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą.
-- susijęs iš [[objektai/paprociai/Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą.md#claim-t-20817|Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą]]: 1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.
 - susijęs iš Atlanto chartija: Lietuvoje tikėta, kad JAV ir Didžioji Britanija įvykdys Atlanto chartijos pažadus grąžinti nepriklausomybę karo metu ją praradusioms šalims.
-- susijęs iš Kaunas: 1919 m. rugsėjo 26 d. tūkstančiai žmonių Kaune susirinko prie rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.
-- susijęs iš Lietuva: 1991 m. Lietuvą pripažino Prancūzija, Didžioji Britanija, JAV ir rugsėjo 6 d. SSRS.
 - susijęs iš Maskva: 1991 m. rugpjūtį žlugus Maskvos pučui, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas.
 - susijęs iš [[objektai/zodynas/de facto.md#claim-t-75545|de facto]]: 1919 m. rugsėjo 26 d. žinia apie Didžiosios Britanijos de facto pripažinimą Lietuvai sukėlė masines manifestacijas prie Kauno rotušės.
 - susijęs iš [[objektai/zodynas/de facto.md#claim-t-75546|de facto]]: 1919 m. Lietuvą de facto pripažino Norvegija, Latvija ir Suomija, o 1920 m. - Prancūzija ir Lenkija.
@@ -123,6 +143,16 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=94a2e18acb50457152e8268d37154d9bdf5e82e805f8e8a275dd5c82e9775ea4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Didžioji Britanija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžioji Britanija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -137,4 +167,24 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9a91af1e31115a228bcef4cadf1ab1c096ed7ab2c4d5bd03e6226b2b18ecc41f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Didžioji Britanija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžioji Britanija" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 374423-374704; hash=cf49c76a61305462f4550ebacb049a311ceb789a1e535e4e1d6863f8b83e51ca; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Didžioji Britanija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Didžioji Britanija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

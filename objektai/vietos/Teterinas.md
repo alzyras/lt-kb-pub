@@ -23,14 +23,24 @@ Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upė
   global_id: t-86108
   teiginys: 'Teterino dvarui buvo grąžinti ir užrašyti prie Pruto upės buvę kaimai, atimti iš Seislavo kunigaikštienės.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis tekstas per ilgas ir su OCR triukšmu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/inkorporuoti|inkorporuoti]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_place: Bełskas; mentioned_place: Losičiai; mentioned_place: Prutas; mentioned_place: Smolnėnai; mentioned_place: Čirčinskas'
+  susije_objektai: 'mentioned_place: Prutas; mentioned_object: [[objektai/zodynas/inkorporuoti|inkorporuoti]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_place: Bełskas; mentioned_place: Losičiai; mentioned_place: Smolnėnai; mentioned_place: Čirčinskas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 697537-699723; hash=b6886aad04f11d078128bf54b213ee003c0635dace8c679f52b691b3d8d0c546; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prutas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Teterinas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Prutas: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Teterinas" parinktas kaip owner_note_path. Targetas "Prutas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Prutas: Prie Pruto upės buvę kaimai buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.
+- susijęs iš Prutas: Kaimai greta Pruto upės buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.
 - susijęs iš Aleksandro Jogailaičio dovanojimas Maksimui Vasiljevičiui dėl pievos Užupyje (1493 m. sausio 13 d.): 1493 m. sausio 13 d. Aleksandras Jogailaitis Vilniuje dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą Užupyje už Vilnelės.
 - susijęs iš Horodiščė: Horodiščės dvaras ir Losičiai buvo dovanojami su visomis Horodiščės ir Losičių žemėmis bei kaimiečiais.
 - susijęs iš Losičiai: Losičiai buvo dovanojami kartu su Horodiščės ir Losičių žemėmis bei visais kaimiečiais.
-- susijęs iš Prutas: Prie Pruto upės buvę kaimai buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.
-- susijęs iš Prutas: Kaimai greta Pruto upės buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.
 - susijęs iš Smolnėnai: Smolnėnai buvo dovanojami su visomis Smolnėnų ir Čirčinsko žemėmis bei žmonėmis.
 - susijęs iš Čirčinskas: Smolnėnų turtas buvo dovanojamas kartu su visomis Čirčinsko žemėmis ir Čirčinsko žmonėmis.
 - susijęs iš [[objektai/zodynas/indiktas.md#claim-t-86421|indiktas]]: Rašytas Vilniuje, sausio 13 dieną, Il indikte.
@@ -88,3 +98,13 @@ Taip pat kitus kaimus prie Teterino dvaro, išsi­ dėsčiusius greta Pruto upė
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 697537-699723; hash=b6886aad04f11d078128bf54b213ee003c0635dace8c679f52b691b3d8d0c546; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prutas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Teterinas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Prutas: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Teterinas" parinktas kaip owner_note_path. Targetas "Prutas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

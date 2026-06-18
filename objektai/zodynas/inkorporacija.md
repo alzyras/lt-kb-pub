@@ -59,7 +59,7 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
   global_id: t-47923
   teiginys: 'Ivinskio aiškinimu, 1385 m. aktas rodė ne inkorporaciją, o būsimą Lietuvos Didžiosios Kunigaikštystės leno santykį su karūna.'
   sudarymo_pagrindimas: 'Tai autoriaus interpretacija, todėl reikia aiškios atribucijos ir taisyklingos formuluotės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]'
   temporaliniai_duomenys: 'įvykio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Tai autoriaus interpretacija, todėl reikia aiškios atribucijos ir taisyklingos formuluotės.'
@@ -70,7 +70,7 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
 - t-002
   global_id: t-47924
   teiginys: '1385 m. aktas nerodė Lietuvos inkorporacijos, o veikiau būsimą Lietuvos Didžiosios Kunigaikštijos ir karūnos leno santykį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

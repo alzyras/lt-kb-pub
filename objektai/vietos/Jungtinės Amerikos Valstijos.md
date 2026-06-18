@@ -34,6 +34,16 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_person: [[objektai/asmenys/Džordžas Bušas|Džordžas Bušas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8bfb4ff6685775ca1a38123cb617bb3dc19db4d9aa9bf2da46a1911ba17f13ba; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jungtinės Amerikos Valstijos: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jungtinės Amerikos Valstijos" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-76353"></a>
 - t-002
@@ -52,12 +62,22 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   global_id: t-76354
   teiginys: 'Jungtinėse Amerikos Valstijose veikė didžiausia lietuvių išeivijos dalis ir svarbiausios jos organizacijos ALT, PLB bei VLIK.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir faktinis, tiesiogiai susijęs su Jungtinėmis Amerikos Valstijomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Europa'
   temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1951 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir faktinis, tiesiogiai susijęs su Jungtinėmis Amerikos Valstijomis.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b42291cc9333ab7dc86b08d44129b1605b5437afd188296d59e9fdcb1ddc60c0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Amerikos lietuvių taryba (institucija): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jungtinės Amerikos Valstijos: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Amerikos lietuvių taryba (institucija): mention_match, group, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jungtinės Amerikos Valstijos" parinktas kaip owner_note_path. Targetas "Amerikos lietuvių taryba (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -91,6 +111,16 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b42291cc9333ab7dc86b08d44129b1605b5437afd188296d59e9fdcb1ddc60c0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Amerikos lietuvių taryba (institucija): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jungtinės Amerikos Valstijos: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Amerikos lietuvių taryba (institucija): mention_match, group, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jungtinės Amerikos Valstijos" parinktas kaip owner_note_path. Targetas "Amerikos lietuvių taryba (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -107,4 +137,14 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8bfb4ff6685775ca1a38123cb617bb3dc19db4d9aa9bf2da46a1911ba17f13ba; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jungtinės Amerikos Valstijos: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jungtinės Amerikos Valstijos" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002

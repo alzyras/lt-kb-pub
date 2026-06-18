@@ -34,6 +34,9 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Prancūzija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 700273-700497; hash=2b3459319f9e321342b9bd1c0c135a5439a01a49fe6711865c6082234cfae54b; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-58458"></a>
 - t-002
@@ -45,6 +48,16 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   temporalinis_llm_pakomentavimas: 'Pašalinta antraštė, nuorodos ir nutrūkęs bibliografinis fragmentas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 715044-715442; hash=20a8b5054eef2b09e64a220d1aaf10cd365a714468f408d161b5b2ac6c359c19; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lionas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lionas" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58459"></a>
 - t-003
@@ -57,20 +70,30 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Liono sinodą ir citatos faktus.'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Aštikas.md#claim-t-87629|Aštikas]]: 1434 m. rugsėjo 8 d. Trakuose Vilniaus kaštelionas Aštikas buvo tarp akto patvirtinimui pritarusių asmenų.
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82506|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7573e2d5ff270196650816ad4c4f99294d41e293921c29cc768431676e7ec657; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mūro sienos ir miesto sienos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lionas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Mūro sienos ir miesto sienos: mention_match, thing, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lionas" parinktas kaip owner_note_path. Targetas "Mūro sienos ir miesto sienos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Klemensas V.md#claim-t-59927|Klemensas V]]: Po Klemenso V vainikavimo prie Liono sugriuvusi mūro siena pražudė daug žmonių, o pats popiežius nukentėjo.
 - susijęs iš [[objektai/ivykiai/Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.).md#claim-t-183931|Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.)]]: Per nelaimę prie Liono nukentėjo popiežius Klemensas V, o nuo jo galvos nulėkė vainikas, iš kurio iškrito ir pradingo rubinas.
 - susijęs iš [[objektai/ivykiai/Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.).md#claim-t-62322|Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.)]]: Po Klemenso V vainikavimo prie Liono išgriuvusi mūro siena nuslėgė daug žmonių, tarp jų ir popiežiaus arklį vedusį Britanijos kunigaikštį.
 - susijęs iš [[objektai/ivykiai/Liono suvažiavimas ir Marijos gimimo oktavos įsteigimas (1245 m.).md#claim-t-183939|Liono suvažiavimas ir Marijos gimimo oktavos įsteigimas (1245 m.)]]: 1245 m. popiežius Lione sušaukė suvažiavimą, kuriame nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavą.
 - susijęs iš [[objektai/ivykiai/Liono suvažiavimas ir Marijos gimimo oktavos įsteigimas (1245 m.).md#claim-t-62377|Liono suvažiavimas ir Marijos gimimo oktavos įsteigimas (1245 m.)]]: 1245 m. popiežius Lione sušaukė suvažiavimą, kuriame nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavą.
+- susijęs iš [[objektai/zodynas/oktava.md#claim-t-58858|oktava]]: Per švento Martyno oktavą popiežiui Klemensui leidžiantis iš švento Justo bažnyčios prie Liono išgriuvo mūro siena.
+- susijęs iš [[objektai/asmenys/Aštikas.md#claim-t-87629|Aštikas]]: 1434 m. rugsėjo 8 d. Trakuose Vilniaus kaštelionas Aštikas buvo tarp akto patvirtinimui pritarusių asmenų.
+- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82506|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
 - susijęs iš [[objektai/paprociai/Švenčiausiosios Mergelės Marijos gimimo oktavų šventimas.md#claim-t-183994|Švenčiausiosios Mergelės Marijos gimimo oktavų šventimas]]: 1245 m. Lione sušauktame popiežiaus suvažiavime nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavas.
 - susijęs iš [[objektai/paprociai/Švenčiausiosios Mergelės Marijos gimimo oktavų šventimas.md#claim-t-62178|Švenčiausiosios Mergelės Marijos gimimo oktavų šventimas]]: 1245 m. Lione sušauktame popiežiaus suvažiavime nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavas.
 - susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Po popiežiaus Klemenso vainikavimo prie Liono išgriuvusi mūro siena pražudė daug žmonių ir sužeidė patį popiežių.
 - susijęs iš Paryžius: Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
 - susijęs iš Trakai: Kazimieras Jogailaitis, teikdamas pirmenybę Lietuvai, dažniausiai gyveno Trakuose arba Vilniuje.
 - susijęs iš [[objektai/zodynas/bendrasis rezervas.md#claim-t-38708|bendrasis rezervas]]: Bendrąjį rezervą, vadovaujamą karininko J. Reikalos, sudarė Panevėžio bataliono 2-oji ir 6-oji kuopos bei kiti daliniai.
-- susijęs iš [[objektai/zodynas/oktava.md#claim-t-58858|oktava]]: Per švento Martyno oktavą popiežiui Klemensui leidžiantis iš švento Justo bažnyčios prie Liono išgriuvo mūro siena.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176265|vietininkas]]: Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
 ## Reikšmingi paminėjimai
 
@@ -90,6 +113,16 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 715044-715442; hash=20a8b5054eef2b09e64a220d1aaf10cd365a714468f408d161b5b2ac6c359c19; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lionas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lionas" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-002
@@ -107,6 +140,9 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 700273-700497; hash=2b3459319f9e321342b9bd1c0c135a5439a01a49fe6711865c6082234cfae54b; match=exact
+  sprendimo_priezastis: auto
     - t-001
 
 - c-003
@@ -123,4 +159,17 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 700273-700497; hash=2b3459319f9e321342b9bd1c0c135a5439a01a49fe6711865c6082234cfae54b; match=exact
+  sprendimo_priezastis: auto
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7573e2d5ff270196650816ad4c4f99294d41e293921c29cc768431676e7ec657; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mūro sienos ir miesto sienos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lionas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Mūro sienos ir miesto sienos: mention_match, thing, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lionas" parinktas kaip owner_note_path. Targetas "Mūro sienos ir miesto sienos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

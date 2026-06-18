@@ -24,6 +24,16 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=acbc6a18843dbfa5e00a01dc119244987b0645134e2e9edbe68df38e4fe0dab5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herkus Mantas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šiandien pat pasiųsiu tave į dangų: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Herkus Mantas: mention_match, person, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šiandien pat pasiųsiu tave į dangų" parinktas kaip owner_note_path. Targetas "Herkus Mantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -42,3 +52,13 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=acbc6a18843dbfa5e00a01dc119244987b0645134e2e9edbe68df38e4fe0dab5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herkus Mantas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šiandien pat pasiųsiu tave į dangų: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Herkus Mantas: mention_match, person, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šiandien pat pasiųsiu tave į dangų" parinktas kaip owner_note_path. Targetas "Herkus Mantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

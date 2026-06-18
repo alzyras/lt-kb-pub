@@ -35,6 +35,16 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   sudarymo_pagrindimas: 'Pradinis teiginys turi nereikalingą šaltinio formuluotę; citata pagrindžia mirtį ir palaidojimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9c083d1d9f1a73a4073c1a204299400d45f44cdd03a84a5926245efd1dab5e66; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vokietija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas VII: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vokietija: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas VII" parinktas kaip owner_note_path. Targetas "Vokietija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-59977"></a>
 - t-002
@@ -43,6 +53,16 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Henriko VII vainikavimo vietą, titulą ir chronologinį kontekstą pagal citatą.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e85ae99953b0c3cf5cc9805f166eddec1d653c0b01a6ccb11bffaabc256fa6c2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Milanas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas VII: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Milanas: mention_match, place, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas VII" parinktas kaip owner_note_path. Targetas "Milanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59978"></a>
 - t-003
@@ -55,6 +75,9 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR ir antraštės triukšmo; citata pagrindžia glaustą sakinį.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9aad0eabcb591a133ff65ffbc4fc1bcc6148e57f8b0a2c788964207ba379556e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-59979"></a>
 - t-004
@@ -64,6 +87,9 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vokietijos valdovai elektoriai|Vokietijos valdovai elektoriai]]; mentioned_object: [[objektai/zodynas/elektoriai|elektoriai]]; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ae6db43c6007ce66581cde040606d00027c7ec7676cf5905f7e0819640cc1c13; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -95,6 +121,16 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9c083d1d9f1a73a4073c1a204299400d45f44cdd03a84a5926245efd1dab5e66; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vokietija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas VII: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vokietija: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas VII" parinktas kaip owner_note_path. Targetas "Vokietija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
 
 - c-003
@@ -109,6 +145,9 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ae6db43c6007ce66581cde040606d00027c7ec7676cf5905f7e0819640cc1c13; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-003
 
 - c-004
@@ -124,5 +163,21 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9aad0eabcb591a133ff65ffbc4fc1bcc6148e57f8b0a2c788964207ba379556e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e85ae99953b0c3cf5cc9805f166eddec1d653c0b01a6ccb11bffaabc256fa6c2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Milanas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas VII: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Milanas: mention_match, place, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas VII" parinktas kaip owner_note_path. Targetas "Milanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9aad0eabcb591a133ff65ffbc4fc1bcc6148e57f8b0a2c788964207ba379556e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

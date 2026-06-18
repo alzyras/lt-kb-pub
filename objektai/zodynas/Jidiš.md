@@ -22,31 +22,41 @@ Gerai nemokėdami lietuviškai žydų atstovai Lietuvos Seime galėjo kalbėti j
   global_id: t-26336
   teiginys: 'Žydų atstovai Lietuvos Seime galėjo kalbėti jidiš, nes gerai nemokėjo lietuvių kalbos; Europoje tai buvo precedento neturintis atvejis.'
   sudarymo_pagrindimas: 'Teiginys sutvarkytas į pilną enciklopedinį sakinį be daugtaškio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Europa; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 338924-339032; hash=e0e83547e6f5ab1dc339f2a55d14972359218af9971cf8aaae1df27b92a783b0; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jidiš: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jidiš" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75436|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.
+- susijęs iš [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena.md#claim-t-183324|Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]: Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.
+- susijęs iš [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena.md#claim-t-54307|Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]: Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.
+- susijęs iš [[objektai/paprociai/Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos.md#claim-t-77943|Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos]]: Žydai Lietuvoje išlaikė atskirą kultūrinį gyvenimą, o jų mokyklose pamokos vyko hebrajų arba jidiš kalba.
+- susijęs iš [[objektai/zodynas/ješiva.md#claim-t-23436|ješiva]]: Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba.
+- susijęs iš [[objektai/zodynas/ješiva.md#claim-t-26964|ješiva]]: Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba.
+- susijęs iš [[objektai/zodynas/litvakas litviš.md#claim-t-22223|litvakas litviš]]: Litviš buvo Lietuvoje susiformavusi jidiš kalbos tarmė, ilgainiui tapusi norminės jidiš kalbos pagrindu.
 - susijęs iš [[objektai/asmenys/Jonas Mačiulis-Maironis.md#claim-t-63723|Jonas Mačiulis-Maironis]]: Jonas Mačiulis-Maironis tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis.
 - susijęs iš [[objektai/asmenys/Juozas Tumas-Vaižgantas.md#claim-t-63766|Juozas Tumas-Vaižgantas]]: Juozas Tumas-Vaižgantas tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis.
 - susijęs iš [[objektai/asmenys/Vaižgantas.md#claim-t-78080|Vaižgantas]]: Vaižgantas buvo vienas iš lietuvių literatūros klasikų, minėtų kaip dar vaikščiojusių Kauno gatvėmis.
 - susijęs iš [[objektai/autoriai/Juozas Tumas (Vaižgantas).md#claim-t-19412|Juozas Tumas (Vaižgantas)]]: Vaižgantas buvo vienas iš lietuvių literatūros klasikų, tarpukariu dar gyvenusių Kaune.
 - susijęs iš [[objektai/autoriai/Maironis.md#claim-t-125059|Maironis]]: Maironis buvo vienas lietuvių literatūros klasikų, tuo metu dar vaikščiojusių Kauno gatvėmis.
 - susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75429|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Tai kartu paaiškina ir Vilniaus Gaono autoritetą.
-- susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75436|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.
 - susijęs iš [[objektai/grupes/Litvakai.md#claim-t-45106|Litvakai]]: Litvakas reiškė žydą iš istorinės Lietuvos, tačiau šiuo vardu imta vadinti ir savita gyvensena pasižymėjusius žydus.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117382|Žydai]]: Nepriklausomoje Lietuvoje žydai galėjo tenkinti savo kultūrinius poreikius, bet su lietuviais gyveno daugiausia atskirai.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117387|Žydai]]: Lietuvoje žydai galėjo tenkinti nacionalinius kultūrinius poreikius, bet su lietuviais gyveno atskirus, daugiausia darbo ryšiais susijusius gyvenimus.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117389|Žydai]]: Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų.
-- susijęs iš [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena.md#claim-t-183324|Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]: Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.
-- susijęs iš [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena.md#claim-t-54307|Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]: Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.
-- susijęs iš [[objektai/paprociai/Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos.md#claim-t-77943|Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos]]: Žydai Lietuvoje išlaikė atskirą kultūrinį gyvenimą, o jų mokyklose pamokos vyko hebrajų arba jidiš kalba.
 - susijęs iš [[objektai/paprociai/Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime.md#claim-t-77944|Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime]]: 1920 m. Lietuvos žydų kahalų atstovų konferencijoje sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus.
 - susijęs iš Babilono Talmudas: Sklido gandai, kad Vilniaus išminčiai atmintinai mokėjo visus 64 Talmudo tomus.
 - susijęs iš Babilono Talmudas: Vilniaus Gaonas redagavo ir komentavo Babilono Talmudą; tai citatoje įvardijama kaip didžiausias jo nuopelnas.
 - susijęs iš Lietuva: Ir šiandien vartojama sąvoka „litvakas“ susijusi su gyvenamosios vietos pavadinimu – tai žydas iš Lietuvos (turima omenyje istorinė Lietuva – LDK po Liublino unijos).
-- susijęs iš [[objektai/zodynas/ješiva.md#claim-t-23436|ješiva]]: Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba.
-- susijęs iš [[objektai/zodynas/ješiva.md#claim-t-26964|ješiva]]: Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba.
 - susijęs iš [[objektai/zodynas/litvakai Lite litviš.md#claim-t-26549|litvakai Lite litviš]]: Lietuvoje susiformavusi jidiš kalbos tarmė litviš ilgainiui tapo norminės jidiš kalbos pagrindu.
-- susijęs iš [[objektai/zodynas/litvakas litviš.md#claim-t-22223|litvakas litviš]]: Litviš buvo Lietuvoje susiformavusi jidiš kalbos tarmė, ilgainiui tapusi norminės jidiš kalbos pagrindu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,3 +70,13 @@ Gerai nemokėdami lietuviškai žydų atstovai Lietuvos Seime galėjo kalbėti j
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 338924-339032; hash=e0e83547e6f5ab1dc339f2a55d14972359218af9971cf8aaae1df27b92a783b0; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jidiš: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jidiš" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

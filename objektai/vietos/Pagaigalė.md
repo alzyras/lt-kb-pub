@@ -28,12 +28,22 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
   global_id: t-41991
   teiginys: '1951 m. kovo 19 d. MGB 137-ojo šaulių pulko kareiviai Pagaigalės kaimo apylinkėse puolė dvi partizanų žemines.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prisikėlimo apygarda|Prisikėlimo apygarda]]; mentioned_group: [[objektai/grupes/Vytauto apygarda|Vytauto apygarda]]; mentioned_place: Giedraičiai; mentioned_place: Kaimas; mentioned_place: Kaunas; mentioned_place: Labanoras; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Smilgiai; mentioned_place: Švenčionėliai; mentioned_place: Žiežmariai'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_group: [[objektai/grupes/Prisikėlimo apygarda|Prisikėlimo apygarda]]; mentioned_group: [[objektai/grupes/Vytauto apygarda|Vytauto apygarda]]; mentioned_place: Giedraičiai; mentioned_place: Kaunas; mentioned_place: Labanoras; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Smilgiai; mentioned_place: Švenčionėliai; mentioned_place: Žiežmariai'
   temporaliniai_duomenys: 'įvykio data: 1949 m.; įvykio data: 1951 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1ac6ed59f5a6dcf8e983b31c64bf54f9e544455db346c819062b13abf2b6fb4e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagaigalė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagaigalė" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Vytauto apygarda.md#claim-t-41201|Vytauto apygarda]]: 1951 m. kovo 19 d. Pagaigalės kautynėse žuvo 10 Šiaurės Rytų Lietuvos srities ir Vytauto apygardos štabo narių.
 - susijęs iš Kiauneliškio geležinkelio stotis: 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kariai puolė partizanų žemines Kiauneliškio geležinkelio stoties apylinkėse.
 - susijęs iš Labanoro giria: 1951 m. kovo 19 d. Labanoro girioje MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai puolė dvi partizanų žemines.
@@ -65,3 +75,13 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1ac6ed59f5a6dcf8e983b31c64bf54f9e544455db346c819062b13abf2b6fb4e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagaigalė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagaigalė" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

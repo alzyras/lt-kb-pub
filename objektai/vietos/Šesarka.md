@@ -23,17 +23,27 @@ Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios
   global_id: t-86272
   teiginys: 'Pabaisko parapijos riba ėjo iki Šesarkos upės, kur ties Skočiūnų dvaru Šešulka įteka į Šventąją.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi perteklinio dokumento teksto.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Kertuša; mentioned_place: Šešulka; mentioned_place: Šešuolė; mentioned_place: Širvinta'
+  susije_objektai: 'mentioned_place: Šešulka; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Kertuša; mentioned_place: Šešuolė; mentioned_place: Širvinta'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/paprociai/Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis.md#claim-t-87218|Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis]]: Pabaisko parapijos ribose neturėjo veikti kita parapinė bažnyčia, o savavališkai pastatytos bažnyčios turėjo tapti Pabaisko filijomis.
-- susijęs iš [[objektai/paprociai/Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis.md#claim-t-87219|Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis]]: Pabaisko parapijos ribose neturėjo būti statoma ar veikti kita parapinė bažnyčia, kad ji nedarytų nuostolio Pabaisko bažnyčiai.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ab605063a7bd1d1816cc37b0973ad06a23293e6e93fc218b28ea8eab97e4d123; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Šešulka: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šesarka: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Šešulka: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šesarka" parinktas kaip owner_note_path. Targetas "Šešulka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Kertuša: Pabaisko parapijos ribos ėjo nuo Širvintos iki Šventosios ir buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos.
 - susijęs iš Kertuša: Pabaisko parapijos ribos buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės.
+- susijęs iš Šešuolės miškas: Kertušos upė tekėjo per Šešuolės mišką iki Šesarkos upės.
+- susijęs iš [[objektai/paprociai/Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis.md#claim-t-87218|Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis]]: Pabaisko parapijos ribose neturėjo veikti kita parapinė bažnyčia, o savavališkai pastatytos bažnyčios turėjo tapti Pabaisko filijomis.
+- susijęs iš [[objektai/paprociai/Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis.md#claim-t-87219|Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis]]: Pabaisko parapijos ribose neturėjo būti statoma ar veikti kita parapinė bažnyčia, kad ji nedarytų nuostolio Pabaisko bažnyčiai.
 - susijęs iš Pabaisko bažnyčia ir parapija: Pabaisko parapijos ribos turėjo eiti nuo Širvintos upės iki Šventosios ir būti juosiamos Kertušos upės.
 - susijęs iš Skočiūnų dvaras: Pabaisko parapijos riba ėjo ties Skočiūnų dvaru, kur Šešulka, dar vadinama Šešuolėle, įteka į Šventąją.
 - susijęs iš Šešulka: Šešulka ties Skočiūnų dvaru įteka į Šventąją.
-- susijęs iš Šešuolės miškas: Kertušos upė tekėjo per Šešuolės mišką iki Šesarkos upės.
 - susijęs iš Širvinta: Pabaisko parapijos ribos ėjo nuo Širvintos upės iki Šventosios.
 - susijęs iš Širvinta: Pabaisko parapijos riba ėjo nuo Širvintos upės iki Šventosios.
 - susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86419|fundacija]]: Remiantis prisiekusių liudininkų duomenimis apie Pabaisko bažnyčios fundaciją, Valentinui iš Pilzno suteikta nauja privilegija.
@@ -64,3 +74,13 @@ Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ab605063a7bd1d1816cc37b0973ad06a23293e6e93fc218b28ea8eab97e4d123; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Šešulka: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šesarka: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Šešulka: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šesarka" parinktas kaip owner_note_path. Targetas "Šešulka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

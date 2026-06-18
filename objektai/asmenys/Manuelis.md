@@ -20,9 +20,19 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
 - t-001
   global_id: t-35214
   teiginys: 'Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)|Konstancijos susirinkimas (1414–1418 m.)]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Muradas II|Muradas II]]; mentioned_person: [[objektai/asmenys/Paleologas|Paleologas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Konstantinopolis; mentioned_place: Maskva; mentioned_place: Moldavija; mentioned_place: Smolenskas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Paleologas|Paleologas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstantinopolis; mentioned_place: Maskva; mentioned_event: [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.)|Konstancijos susirinkimas (1414–1418 m.)]]; mentioned_person: [[objektai/asmenys/Muradas II|Muradas II]]; mentioned_place: Konstancija; mentioned_place: Moldavija; mentioned_place: Smolenskas; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=433e0dd1b2904ce9b86be6a88b6c197ed29c24312c50288bf90a2b4e11b5e189; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstantinopolis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Manuelis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konstantinopolis: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Manuelis" parinktas kaip owner_note_path. Targetas "Konstantinopolis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Jonas Paleologas.md#claim-t-35152|Jonas Paleologas]]: Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
 ## Reikšmingi paminėjimai
 
@@ -44,3 +54,13 @@ Vytautas rėmė prieš turkus Moldavijos Aleksandrą — savo švo­ gerį ir Ko
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=433e0dd1b2904ce9b86be6a88b6c197ed29c24312c50288bf90a2b4e11b5e189; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstantinopolis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Manuelis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konstantinopolis: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Manuelis" parinktas kaip owner_note_path. Targetas "Konstantinopolis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

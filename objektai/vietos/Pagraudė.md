@@ -38,6 +38,9 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą žygį ir kariuomenės padalijimą.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 585234-585636; hash=63e0122ea0e1b375ab7549d7e803a94db0fd85e652fe9f8702deaba6aa4e10cd; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-58392"></a>
 - t-002
@@ -47,6 +50,16 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gedimino pilis'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 587602-588145; hash=683f3f1f69ca6f103dfc223cd0e98dc837424b0182eb1029e6aaf872e65b7dcc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagraudė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudė" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58393"></a>
 - t-003
@@ -55,6 +68,16 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   sudarymo_pagrindimas: 'Pašalintas triukšmas ir suformuluotas aiškus faktas apie Pagraudę.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5a6fa5a22cd14f99fd7028182da4efa8871db8c02e3977cc05941a37395eadbe; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Eberhardas (Varmės vyskupas): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagraudė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Eberhardas (Varmės vyskupas): mention_match, person, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudė" parinktas kaip owner_note_path. Targetas "Eberhardas (Varmės vyskupas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58394"></a>
 - t-004
@@ -64,6 +87,16 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=45088ca7186321129bfa4c3c70dce2615336e85535ca4ced53319cac3720676c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fridrichas Kvicas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagraudė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Fridrichas Kvicas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudė" parinktas kaip owner_note_path. Targetas "Fridrichas Kvicas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184189"></a>
 - t-005
@@ -75,6 +108,9 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos turinį.'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 585177-585539; hash=23e8e610ae2a7dbe59e81ea36aee17ae766d05b45098f03541585b541f887d0f; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-185076"></a>
 - t-006
@@ -90,27 +126,37 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo su OCR triukšmu; citata remia konkretų faktą apie Pagraudę.'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 334341-334759; hash=391439d7222eecbf3ef47172543a5126fbd10b32d3e92497bcb246af1eea13e8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagraudė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59960|Fridrichas Kvicas]]: Broliai Hartmanas ir Fridrichas Kvicas su 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė.
-- susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59955|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.
 - susijęs iš [[objektai/asmenys/Hartmanas.md#claim-t-60299|Hartmanas]]: 1317 m. brolis Hartmanas su Fridrichu Kvicu ir 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė.
-- susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-184834|Sudargas]]: Sudargo šeimyna nukentėjo, kai priešas paėmė į nelaisvę jo žmoną, sūnus ir visus šeimynykščius.
-- susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-60210|Sudargas]]: Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose.
 - susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185490|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: 1316 m. pradžioje kryžiuočiai pasiuntė skirtingas kariaunas krašto niokoti ir nusiaubė Paštuvos, Medininkų bei Pagraudės valsčius.
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje.md#claim-t-62892|Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje]]: Liudvikas iš Libencelės Pagraudės valsčiuje surengė pasalą ir nukovė visus jį vijusius raitelius, išskyrus šešis.
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje.md#claim-t-62893|Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje]]: Liudviko iš Libencelės karas taip palaužė Pagraudės žmones, kad jie ilgus metus nebesubūrė ankstesnio dydžio raitelių būrio.
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-183951|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. maršalas su broliais ir Sembos vyrais žygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis.
-- susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56681|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. viena Ordino kariuomenės dalis nesėkmingai mėgino paimti Gedimino pilį, bet sudegino jos papilį.
-- susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56683|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. Fridrichas iš Libencelės su 150 vyrų turėjo slapta paimti Gedimino pilį, bet pilėnai ją apgynė, o papilys sudegė.
-- susijęs iš [[objektai/ivykiai/Vaikių valsčiaus puolimas ir kilmingųjų žūtis.md#claim-t-62944|Vaikių valsčiaus puolimas ir kilmingųjų žūtis]]: Vaikių valsčiuje iš pasalų buvo nukauta daug kilmingųjų.
 - susijęs iš Ivinskis Z. Gedimino pilis: Gedimino pilies lokalizacija buvusioje Pagraudės teritorijoje prie Graumenos laikoma patikimesne.
-- susijęs iš Livonijos atstovų prieštaravimas dėl 1323 m. taikos: Livonijos atstovų prieštaravimo originale minimas Lietuvos karalius ir Aukštaičių, Žemaičių, Pskovo bei rusų kraštai.
 - susijęs iš Mortensen H., Mortensen G. Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts: H. ir G. Mortensenų veikalas nurodomas kaip darbas, kuriame Pagraudės ieškota labiau į rytus.
 - susijęs iš Pašuta V. Lietuvos valstybės susidarymas: Pašutos veikalo puslapis 340 nurodomas prie bandymo lokalizuoti minimą vietovę buvusioje Pagraudės teritorijoje.
 - susijęs iš Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: Zajączkowskio veikalas nurodomas tarp šaltinių, patikimiau lokalizuojančių minimą vietą buvusioje Pagraudės teritorijoje prie Graumenos.
+- susijęs iš Medininkų valsčius: 1316 m. kryžiuočiai nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.
+- susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59955|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.
+- susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-184834|Sudargas]]: Sudargo šeimyna nukentėjo, kai priešas paėmė į nelaisvę jo žmoną, sūnus ir visus šeimynykščius.
+- susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-60210|Sudargas]]: Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose.
+- susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56681|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. viena Ordino kariuomenės dalis nesėkmingai mėgino paimti Gedimino pilį, bet sudegino jos papilį.
+- susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56683|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. Fridrichas iš Libencelės su 150 vyrų turėjo slapta paimti Gedimino pilį, bet pilėnai ją apgynė, o papilys sudegė.
+- susijęs iš [[objektai/ivykiai/Vaikių valsčiaus puolimas ir kilmingųjų žūtis.md#claim-t-62944|Vaikių valsčiaus puolimas ir kilmingųjų žūtis]]: Vaikių valsčiuje iš pasalų buvo nukauta daug kilmingųjų.
+- susijęs iš Livonijos atstovų prieštaravimas dėl 1323 m. taikos: Livonijos atstovų prieštaravimo originale minimas Lietuvos karalius ir Aukštaičių, Žemaičių, Pskovo bei rusų kraštai.
 - susijęs iš Gardinas: 1305 m. Konradas iš Lichtenhageno su didele kariuomene nusiaubė Gardino pilies apylinkes degindamas ir plėšdamas.
 - susijęs iš Gedimino pilis (pilis): 1317 m. vasarą Gedimino pilies pilėnai apgynė pilį, nors Ordino broliams pavyko visiškai sudeginti papilį.
 - susijęs iš Gedimino pilis (pilis): Fridrichas iš Libencelės su 150 vyrų slapta priėjo prie Gedimino pilies, bet įspėti pilėnai pilį apgynė.
-- susijęs iš Medininkų valsčius: 1316 m. kryžiuočiai nusiaubė Paštuvos, Medininkų ir Pagraudės valsčius.
 - susijęs iš Vaikiai: Vieno žygio į Vaikių valsčių metu iš pasalų buvo nukauta daug kilmingųjų.
 - susijęs iš Vaikių valsčius: Vieno žygio į Vaikių valsčių metu iš pasalų buvo nukauta daug kilmingųjų.
 - susijęs iš Žemaitija: Vaikių ir Pagraudės valsčiai Žemaitijoje buvo nusiaubti žudynėmis ir apiplėšti, todėl daugelį metų beveik neturėjo gyventojų.
@@ -150,6 +196,16 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 587602-588145; hash=683f3f1f69ca6f103dfc223cd0e98dc837424b0182eb1029e6aaf872e65b7dcc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagraudė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudė" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-003
@@ -169,6 +225,16 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5a6fa5a22cd14f99fd7028182da4efa8871db8c02e3977cc05941a37395eadbe; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Eberhardas (Varmės vyskupas): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagraudė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Eberhardas (Varmės vyskupas): mention_match, person, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudė" parinktas kaip owner_note_path. Targetas "Eberhardas (Varmės vyskupas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
 
 - c-004
@@ -188,6 +254,16 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=45088ca7186321129bfa4c3c70dce2615336e85535ca4ced53319cac3720676c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fridrichas Kvicas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagraudė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Fridrichas Kvicas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudė" parinktas kaip owner_note_path. Targetas "Fridrichas Kvicas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-005
@@ -203,6 +279,9 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 585234-585636; hash=63e0122ea0e1b375ab7549d7e803a94db0fd85e652fe9f8702deaba6aa4e10cd; match=exact
+  sprendimo_priezastis: auto
     - t-005
 
 - c-006
@@ -223,4 +302,17 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 585177-585539; hash=23e8e610ae2a7dbe59e81ea36aee17ae766d05b45098f03541585b541f887d0f; match=exact
+  sprendimo_priezastis: auto
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 334341-334759; hash=391439d7222eecbf3ef47172543a5126fbd10b32d3e92497bcb246af1eea13e8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagraudė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

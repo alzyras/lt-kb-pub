@@ -31,6 +31,9 @@ Srokowski, St.
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cc30a9c986e347fefc4a96a607def0ef7dd56ef0bf3a62e355923b320d708837; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +50,6 @@ Srokowski, St.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cc30a9c986e347fefc4a96a607def0ef7dd56ef0bf3a62e355923b320d708837; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

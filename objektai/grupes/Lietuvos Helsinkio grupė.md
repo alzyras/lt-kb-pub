@@ -30,12 +30,22 @@ amziai:
   global_id: t-74673
   teiginys: 'Lietuvos Helsinkio grupės nariai palaikė ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra vardų fragmentas be aiškaus tarinio.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]'
   temporaliniai_duomenys: 'įvykio data: 1988 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra vardų fragmentas be aiškaus tarinio.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dc7f7f8f3c2e277fdba645fba91d29a69a54c8b43d9db221306044de066734c1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Helsinkio grupė: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Helsinkio grupė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-74674"></a>
 - t-002
@@ -48,25 +58,45 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, konkretus ir pagrįstas citatoje išvardytais nariais.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0a51f0586dbbe34a8c751de9d526c517ca0d70cbf6b01be5dda582ff2e332a2e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> SSRS: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
+  ryšio_subjekto_parinkimas: Lietuvos Helsinkio grupė: owner_note_path, group, gap=25
+  ryšio_targeto_parinkimas: SSRS: nearest_after_predicate, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Lietuvos Helsinkio grupė" parinktas kaip owner_note_path. Targetas "SSRS" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-74675"></a>
 - t-003
   global_id: t-74675
   teiginys: 'Lietuvos Helsinkio grupė susikūrė 1976 m.'
   sudarymo_pagrindimas: 'Citata yra chronologijos fragmentas, bet palaiko pilną sakinį apie objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1976 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata yra chronologijos fragmentas, bet palaiko pilną sakinį apie objektą.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0a51f0586dbbe34a8c751de9d526c517ca0d70cbf6b01be5dda582ff2e332a2e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Helsinkio grupė: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Helsinkio grupė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-74677"></a>
 - t-004
   global_id: t-74677
   teiginys: 'Lietuvos Helsinkio grupė priklausė SSRS Helsinkio grupių tinklui, stebėjusiam Helsinkio Baigiamojo akto įgyvendinimą.'
   sudarymo_pagrindimas: 'Pradinis teiginys daugiausia kalba apie platesnį SSRS reiškinį; perrašyta susiejant faktą su note objektu.'
-  susije_objektai: 'owner: SSRS; mentioned_group: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
+  susije_objektai: 'owner: SSRS; mentioned_group: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_place: Maskva'
   semantiniai_rysiai: '[[objektai/grupes/Lietuvos Helsinkio grupė|Lietuvos Helsinkio grupė]] priklausė SSRS'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1976 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuvos Helsinkio grupė priklausė SSRS“, o ne visam objekto laikotarpiui.'
@@ -79,12 +109,22 @@ amziai:
   global_id: t-74678
   teiginys: '1976 m. rudenį Vilniuje įsikūrė grupė, panaši į Maskvos Helsinkio grupę.'
   sudarymo_pagrindimas: 'Pašalintas antraštinis triukšmas ir paliktas citatos paremtas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; mentioned_person: [[objektai/asmenys/Jonas Kauneckas|Jonas Kauneckas]]; mentioned_place: Maskva; mentioned_place: SSRS; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Jonas Kauneckas|Jonas Kauneckas]]; mentioned_place: SSRS; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1976 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas antraštinis triukšmas ir paliktas citatos paremtas faktas.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 472816-473292; hash=8b7427087884976eb3823667f7ab5077fef75912470962b57c7ad256088c5e22; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Helsinkio grupė: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Helsinkio grupė" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Balys Gajauskas.md#claim-t-18846|Balys Gajauskas]]: Sovietinė valdžia Balį Gajauską teisė kaip vieną iš disidentų, prieš kuriuos taikė represijas.
 - susijęs iš [[objektai/asmenys/Viktoras Petkus.md#claim-t-19314|Viktoras Petkus]]: Sovietinė valdžia suėmė ir nuteisė Viktorą Petkų kaip vieną iš disidentų.
 - susijęs iš [[objektai/zodynas/disidentai disidentinis judėjimas kitaminčiai.md#claim-t-104186|disidentai disidentinis judėjimas kitaminčiai]]: Sovietinė valdžia žinomus disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus, tarp jų Balį Gajauską ir Viktorą Petkų, suimdavo ir nuteisdavo.
@@ -109,6 +149,16 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0a51f0586dbbe34a8c751de9d526c517ca0d70cbf6b01be5dda582ff2e332a2e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> SSRS: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
+  ryšio_subjekto_parinkimas: Lietuvos Helsinkio grupė: owner_note_path, group, gap=25
+  ryšio_targeto_parinkimas: SSRS: nearest_after_predicate, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Lietuvos Helsinkio grupė" parinktas kaip owner_note_path. Targetas "SSRS" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-002
@@ -142,6 +192,16 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dc7f7f8f3c2e277fdba645fba91d29a69a54c8b43d9db221306044de066734c1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Helsinkio grupė: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Helsinkio grupė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -163,7 +223,27 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0a51f0586dbbe34a8c751de9d526c517ca0d70cbf6b01be5dda582ff2e332a2e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Helsinkio grupė: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Helsinkio grupė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 472816-473292; hash=8b7427087884976eb3823667f7ab5077fef75912470962b57c7ad256088c5e22; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Helsinkio grupė: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Helsinkio grupė" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Lietuvos Helsinkio grupė priklause [[objektai/vietos/SSRS]]

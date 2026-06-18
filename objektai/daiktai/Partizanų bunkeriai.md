@@ -75,14 +75,14 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą laiką, veiksmą ir bunkerių paskirtį.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/grupes/Algimanto apygarda.md#claim-t-78162|Algimanto apygarda]]: 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, o per Šimonių girios apgultį žuvo beveik visa apygardos vadovybė.
-- susijęs iš [[objektai/grupes/Šarūno rinktinė.md#claim-t-49114|Šarūno rinktinė]]: 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.
-- susijęs iš [[objektai/grupes/Šarūno rinktinė.md#claim-t-49117|Šarūno rinktinė]]: 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.
 - susijęs iš [[objektai/ivykiai/Šimonių girios apgultis (1949 m.).md#claim-t-67009|Šimonių girios apgultis (1949 m.)]]: Didžiausio susirėmimo metu Šimonių girioje susprogdinti aštuoni partizanų bunkeriai, žuvo 33 partizanai, 10 pateko į nelaisvę, o 1949 m. rudenį sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.
 - susijęs iš [[objektai/ivykiai/Šimonių girios apgultis.md#claim-t-39118|Šimonių girios apgultis]]: Šimonių girioje sovietų kariai susprogdino aštuonis partizanų bunkerius: žuvo 33 partizanai, 10 laisvės kovotojų pateko į nelaisvę.
 - susijęs iš Denionių ežeras: Prie Denionių ežero buvusiame Tarzano bunkeryje buvo suimtas Vladas Karosas-Vilkas.
-- susijęs iš Juodelių sodyba: Per kautynes Juozas Kemeklis-Rokas išsiveržė iš bunkerio, prasiveržė pro apsupimą ir atbėgo į Pamaleišio kaimo Juodelių sodybą.
 - susijęs iš Šimonių giria: Šimonių girioje sovietų kariai susprogdino aštuonis partizanų bunkerius: žuvo 33 partizanai, 10 laisvės kovotojų pateko į nelaisvę.
+- susijęs iš [[objektai/grupes/Algimanto apygarda.md#claim-t-78162|Algimanto apygarda]]: 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai, o per Šimonių girios apgultį žuvo beveik visa apygardos vadovybė.
+- susijęs iš [[objektai/grupes/Šarūno rinktinė.md#claim-t-49114|Šarūno rinktinė]]: 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.
+- susijęs iš [[objektai/grupes/Šarūno rinktinė.md#claim-t-49117|Šarūno rinktinė]]: 1949 m. rudenį buvo sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.
+- susijęs iš Juodelių sodyba: Per kautynes Juozas Kemeklis-Rokas išsiveržė iš bunkerio, prasiveržė pro apsupimą ir atbėgo į Pamaleišio kaimo Juodelių sodybą.
 ## Reikšmingi paminėjimai
 
 - c-001

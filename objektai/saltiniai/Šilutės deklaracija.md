@@ -30,12 +30,22 @@ Jame krašto atstovai vienbalsiai priėmė Šilutės deklaraciją, kuria buvo nu
   global_id: t-10550
   teiginys: '1923 m. sausio 19 d. Šilutėje sušauktame Visuotiniame seime krašto atstovai vienbalsiai priėmė Šilutės deklaraciją.'
   sudarymo_pagrindimas: 'Išplėsta neaiški nuoroda „jame“ ir suformuluotas savarankiškas sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_place: Šilutė'
+  susije_objektai: 'mentioned_place: Šilutė; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1923 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėsta neaiški nuoroda „jame“ ir suformuluotas savarankiškas sakinys.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 883416-883738; hash=57497b130bb86b355ea6743479c49789ad6d42c0e1c8b162a7f040bb98c0da55; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Šilutė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šilutės deklaracija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Šilutė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šilutės deklaracija" parinktas kaip owner_note_path. Targetas "Šilutė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -60,3 +70,13 @@ Jame krašto atstovai vienbalsiai priėmė Šilutės deklaraciją, kuria buvo nu
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 883416-883738; hash=57497b130bb86b355ea6743479c49789ad6d42c0e1c8b162a7f040bb98c0da55; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Šilutė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šilutės deklaracija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Šilutė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šilutės deklaracija" parinktas kaip owner_note_path. Targetas "Šilutė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

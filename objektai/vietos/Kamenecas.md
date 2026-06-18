@@ -26,18 +26,38 @@ tags:
   global_id: t-86075
   teiginys: 'Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie Kamenecą, pradinė formuluotė per ilga ir nutrūkusi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Vilniaus pilis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Podolė; mentioned_place: Vilniaus pilis; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 423262-424333; hash=3981265d982fd5fea8d6ad2c4bcc3e6ffc467f25faed1ee69a61c802b20ebace; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Podolė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kamenecas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Podolė: mention_match, place, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kamenecas" parinktas kaip owner_note_path. Targetas "Podolė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86076"></a>
 - t-002
   global_id: t-86076
   teiginys: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių.'
   sudarymo_pagrindimas: 'Citata palaiko sakinį, pradinė formuluotė turi konteksto nuotrupą ir OCR triukšmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Podolė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Podolė; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 424334-424805; hash=2ff665bb1565573323f6badeb2da1530ae7179ff52c3704e4f32e41c6439bb06; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Podolė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kamenecas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Podolė: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kamenecas" parinktas kaip owner_note_path. Targetas "Podolė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184966"></a>
 - t-003
@@ -49,6 +69,9 @@ tags:
   sudarymo_pagrindimas: 'Pašalinta atribucija ir OCR klaida; faktas paremtas citata.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 479741-479993; hash=853325913ed73c113facbfadb06ec2bb5918daf4f5fd56b9f0e62b25f2ce6969; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-184967"></a>
 - t-004
@@ -61,6 +84,16 @@ tags:
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 600952-601424; hash=290280e80b76ca53e5f8f56ab732b848db5912369fa1a95ac55e872349624406; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kamenecas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kamenecas" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-187579"></a>
 - t-005
@@ -70,33 +103,53 @@ tags:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Patikslinta kryptis ir pašalintas negrakštus jungimas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Moldavija'
+  susije_objektai: 'mentioned_place: Lvovas; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184669|Algirdas (Lietuvos valdovas)]]: Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 265487-265924; hash=e3e51e4e5dfa608bf7040a6998a7a471dd6513759a392b0521c2b6eb48f43992; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lvovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kamenecas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lvovas: mention_match, place, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kamenecas" parinktas kaip owner_note_path. Targetas "Lvovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185986|Jonušas (Mazovijos kunigaikštis)]]: Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
-- susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185987|Jonušas (Mazovijos kunigaikštis)]]: Jonušas ir Zemovitas priėmė į Mazoviją pasitraukusį Vytautą, bet nesistengė suteikti jam deramos pagalbos.
 - susijęs iš [[objektai/asmenys/Nestanas.md#claim-t-186242|Nestanas]]: Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių.
-- susijęs iš [[objektai/asmenys/Teodoras (Konstantino Karijotaičio brolis).md#claim-t-186167|Teodoras (Konstantino Karijotaičio brolis)]]: Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konstantino vietą Podolėje.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184865|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Mazovijos kunigaikščiai Jonušas ir Zemovitas priėmė Vytautą, bet nesistengė suteikti jam deramos pagalbos.
-- susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-184895|Zemovitas]]: Mazovijos kunigaikščiai Jonušas ir Zemovitas priėmė Vytautą, bet nesuteikė jam deramos pagalbos.
-- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171342|Karijotaičiai]]: Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras.
 - susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171343|Karijotaičiai]]: Algirdo remiami Karijotaičiai Mažojoje Podolėje organizavo krašto gynybą nuo totorių puolimų ir statė Smotričo, Bakotos bei Kameneco pilis.
 - susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78204|Lenkijos kariuomenė]]: Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.
 - susijęs iš [[objektai/ivykiai/Jonušo antpuolis į Poleksiją ir pasienio pilių užėmimas.md#claim-t-185708|Jonušo antpuolis į Poleksiją ir pasienio pilių užėmimas]]: Jonušas nesuteikė Kęstučiui pagalbos, užpuolė Poleksiją ir staigiu įsiveržimu užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
 - susijęs iš [[objektai/ivykiai/Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos.md#claim-t-185580|Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos]]: Kameneco gynėjų Podolės ir Valachijos kariai susipyko, todėl buvo pasiųsti žygūnai tartis dėl pilies perdavimo sąlygų.
 - susijęs iš [[objektai/ivykiai/Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos.md#claim-t-185581|Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos]]: Perdavus Kameneco pilį ir Podolę vėl prijungus prie Lietuvos, Vytautas pilyse ir miestuose paliko lietuvių įgulas bei vietininkus.
 - susijęs iš [[objektai/ivykiai/Moldavijos ir osmanų žygis į Lenkiją.md#claim-t-186665|Moldavijos ir osmanų žygis į Lenkiją]]: Moldavijos vaivada Steponas ir turkų sultono didysis paša Malkočas vasarą bei rudenį kariavo Lenkijoje nuo Kameneco iki Lvovo ir Tarnovo.
-- susijęs iš [[objektai/ivykiai/Moldavijos ir osmanų žygis į Lenkiją.md#claim-t-186666|Moldavijos ir osmanų žygis į Lenkiją]]: Moldavijos vaivados Stepono ir Malkočo žygis, Lietuvos metraščio pasakojimu, padarė daug žalos Lenkijos žemei.
-- susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185660|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Sustiprinęs Palenkę ir Polesę, Vytautas su žmona, šeimyna, turtais ir šalininkais pasitraukė į Mazoviją pas Jonušą ir Zemovitą.
 - susijęs iš [[objektai/paprociai/Kameneco viršininko skyrimas tik iš lenkų tautybės žmonių.md#claim-t-185917|Kameneco viršininko skyrimas tik iš lenkų tautybės žmonių]]: Lenkai paskelbė nutarimą, kad ateityje Kameneco viršininku turi būti skiriamas tik lenkų tautybės žmogus.
-- susijęs iš [[objektai/paprociai/Kapituliacijos sąlygų derinimas ir pasidavimas nugalėtojo malonei.md#claim-t-185918|Kapituliacijos sąlygų derinimas ir pasidavimas nugalėtojo malonei]]: Kameneco pilies apsuptieji išsiuntė žygūnus tartis dėl pilies perdavimo sąlygų ir pasidavė Vytauto malonei.
-- susijęs iš Bučačo taikos sutartis (1672 m.): 1672 m. Turkija pradėjo karo veiksmus prieš Lenkiją ir privertė ją pasirašyti Bučačo taikos sutartį.
 - susijęs iš Bakotos pilis (pilis): Karijotaičiai Podolėje pastatė Smotričo, Bakotos ir Kameneco pilis.
-- susijęs iš Chotinas: 1673 m. turkai prie Chotino įrengė stiprius lauko įtvirtinimus.
 - susijęs iš Kameneco pilis (pilis): Karijotaičiai Podolėje pastatė Smotričo, Bakotos ir Kameneco pilis.
 - susijęs iš Lenkijos karalystė: Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje.
 - susijęs iš Lenkijos karalystė: Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių.
+- susijęs iš Podolė: Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.
+- susijęs iš Podolė: 1621 m. liepos 14 d. LDK kariuomenė atžygiavo į bendrą stovyklą prie Orinino, netoli Podolės Kameneco.
+- susijęs iš Podolė: Susidarius grėsmingai situacijai, Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir padėti Lenkijos kariuomenei.
+- susijęs iš Podolės Kamenecas: Podolės Kamenecas yra istorinis Podolės miestas prie Dniestro intako Smotričės.
+- susijęs iš Podolės Kamenecas: XIV a. antrojoje pusėje Podolės Kamenecas buvo Konstantino Karijotaičio sostinė.
+- susijęs iš Podolės Kamenecas: Podolės Kamenecas istoriniuose šaltiniuose minimas jau 1062 m.
+- susijęs iš Podolės Kamenecas: 1971 m. leidimo įvade Petras Goštautas siejamas su pasakojimais apie Podolės Kameneco ir Vilniaus vaivadą.
+- susijęs iš Podolės Kameneco tvirtovė: Turkai stiprino įtvirtinimus prie Podolės Kameneco tvirtovės, numatydami lenkų ir lietuvių puolimo kryptį.
+- susijęs iš Smotričo pilis (pilis): Karijotaičiai Podolėje pastatė Smotričo, Bakotos ir Kameneco pilis ir valdė visą šią žemę.
+- susijęs iš Suražas: Jonušas, atvykęs su kariuomene į Drohičiną, puolė Suražą, Kamenecą ir apgulė Brastą.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184669|Algirdas (Lietuvos valdovas)]]: Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.
+- susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185987|Jonušas (Mazovijos kunigaikštis)]]: Jonušas ir Zemovitas priėmė į Mazoviją pasitraukusį Vytautą, bet nesistengė suteikti jam deramos pagalbos.
+- susijęs iš [[objektai/asmenys/Teodoras (Konstantino Karijotaičio brolis).md#claim-t-186167|Teodoras (Konstantino Karijotaičio brolis)]]: Mirus Konstantinui Karijotaičiui, Algirdas jo brolį Teodorą paskyrė į Konstantino vietą Podolėje.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184865|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Mazovijos kunigaikščiai Jonušas ir Zemovitas priėmė Vytautą, bet nesistengė suteikti jam deramos pagalbos.
+- susijęs iš [[objektai/asmenys/Zemovitas.md#claim-t-184895|Zemovitas]]: Mazovijos kunigaikščiai Jonušas ir Zemovitas priėmė Vytautą, bet nesuteikė jam deramos pagalbos.
+- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171342|Karijotaičiai]]: Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras.
+- susijęs iš [[objektai/ivykiai/Moldavijos ir osmanų žygis į Lenkiją.md#claim-t-186666|Moldavijos ir osmanų žygis į Lenkiją]]: Moldavijos vaivados Stepono ir Malkočo žygis, Lietuvos metraščio pasakojimu, padarė daug žalos Lenkijos žemei.
+- susijęs iš [[objektai/ivykiai/Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia.md#claim-t-185660|Vytauto pasitraukimas į Mazoviją, perėjimas pas kryžiuočius ir karo su kryžiuočiais pradžia]]: Sustiprinęs Palenkę ir Polesę, Vytautas su žmona, šeimyna, turtais ir šalininkais pasitraukė į Mazoviją pas Jonušą ir Zemovitą.
+- susijęs iš [[objektai/paprociai/Kapituliacijos sąlygų derinimas ir pasidavimas nugalėtojo malonei.md#claim-t-185918|Kapituliacijos sąlygų derinimas ir pasidavimas nugalėtojo malonei]]: Kameneco pilies apsuptieji išsiuntė žygūnus tartis dėl pilies perdavimo sąlygų ir pasidavė Vytauto malonei.
+- susijęs iš Bučačo taikos sutartis (1672 m.): 1672 m. Turkija pradėjo karo veiksmus prieš Lenkiją ir privertė ją pasirašyti Bučačo taikos sutartį.
+- susijęs iš Chotinas: 1673 m. turkai prie Chotino įrengė stiprius lauko įtvirtinimus.
 - susijęs iš Livonija: 1621 m. švedai užėmė didelę dalį Livonijos, o Rusija grasino Lietuvai karu.
 - susijęs iš Lvovas: Moldavijos vaivada Steponas ir turkų sultono paša Malkočas kariavo Lenkijos žemėje nuo Kameneco iki Lvovo, Tarnovo ir Krokuvos apylinkių.
 - susijęs iš Mažoji Podolė: Algirdo remiami Karijotaičiai įsitvirtino Mažojoje Podolėje, organizavo jos gynybą nuo totorių ir statė pilis.
@@ -104,19 +157,9 @@ tags:
 - susijęs iš Melnikas: Lietuvos metraštyje Jonušas, neįveikęs Brastos, pasitraukė ir paliko įgulas Drohičine bei Melnike.
 - susijęs iš Podolė: Vytautas buvo perleidęs Švitrigailai Kamenecą ir kitas Podolės pilis.
 - susijęs iš Podolė: Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių.
-- susijęs iš Podolė: Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.
 - susijęs iš Podolė: Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje.
-- susijęs iš Podolė: 1621 m. liepos 14 d. LDK kariuomenė atžygiavo į bendrą stovyklą prie Orinino, netoli Podolės Kameneco.
-- susijęs iš Podolė: Susidarius grėsmingai situacijai, Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir padėti Lenkijos kariuomenei.
 - susijęs iš Podolė: Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas pilis Podolėje.
-- susijęs iš Podolės Kamenecas: Podolės Kamenecas yra istorinis Podolės miestas prie Dniestro intako Smotričės.
-- susijęs iš Podolės Kamenecas: XIV a. antrojoje pusėje Podolės Kamenecas buvo Konstantino Karijotaičio sostinė.
-- susijęs iš Podolės Kamenecas: Podolės Kamenecas istoriniuose šaltiniuose minimas jau 1062 m.
-- susijęs iš Podolės Kamenecas: 1971 m. leidimo įvade Petras Goštautas siejamas su pasakojimais apie Podolės Kameneco ir Vilniaus vaivadą.
-- susijęs iš Podolės Kameneco tvirtovė: Turkai stiprino įtvirtinimus prie Podolės Kameneco tvirtovės, numatydami lenkų ir lietuvių puolimo kryptį.
 - susijęs iš Poleksija: Atgavus Poleksiją, didesni rūpesčiai paskatino kariuomenę skubėti į tėvynę.
-- susijęs iš Smotričo pilis (pilis): Karijotaičiai Podolėje pastatė Smotričo, Bakotos ir Kameneco pilis ir valdė visą šią žemę.
-- susijęs iš Suražas: Jonušas, atvykęs su kariuomene į Drohičiną, puolė Suražą, Kamenecą ir apgulė Brastą.
 - susijęs iš Tamovas: Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos žemėje ribą prie Krokuvos.
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
@@ -185,6 +228,16 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 423262-424333; hash=3981265d982fd5fea8d6ad2c4bcc3e6ffc467f25faed1ee69a61c802b20ebace; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Podolė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kamenecas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Podolė: mention_match, place, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kamenecas" parinktas kaip owner_note_path. Targetas "Podolė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -205,6 +258,16 @@ tags:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 424334-424805; hash=2ff665bb1565573323f6badeb2da1530ae7179ff52c3704e4f32e41c6439bb06; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Podolė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kamenecas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Podolė: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kamenecas" parinktas kaip owner_note_path. Targetas "Podolė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -228,6 +291,9 @@ tags:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 479741-479993; hash=853325913ed73c113facbfadb06ec2bb5918daf4f5fd56b9f0e62b25f2ce6969; match=exact
+  sprendimo_priezastis: auto
     - t-004
 
 - c-005
@@ -246,4 +312,24 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 600952-601424; hash=290280e80b76ca53e5f8f56ab732b848db5912369fa1a95ac55e872349624406; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kamenecas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kamenecas" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 265487-265924; hash=e3e51e4e5dfa608bf7040a6998a7a471dd6513759a392b0521c2b6eb48f43992; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lvovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kamenecas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lvovas: mention_match, place, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kamenecas" parinktas kaip owner_note_path. Targetas "Lvovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

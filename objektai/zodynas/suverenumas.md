@@ -35,6 +35,16 @@ Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių tautos masių 
   temporalinis_llm_pakomentavimas: 'Citata remia sovietinių istorikų interpretaciją, todėl teiginį reikia suformuluoti aiškiau.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c3dcf9c98eb2cde6bdfbf3b0ec6b30dc02e7f86ed958a2552b18e32d3d97a37f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: suverenumas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "suverenumas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Lietuvos Tarybų socialistinė respublika.md#claim-t-31291|Lietuvos Tarybų socialistinė respublika (institucija)]]: Tarybiniai istorikai teigė, kad Lietuvos Tarybų respublikos suverenumas po kliūčių esą buvęs įvykdytas 1940 m.
 - susijęs iš [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.).md#claim-t-183212|1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]: 1938 m. Lietuvos Konstitucijoje Vilnius nurodytas Lietuvos sostine.
 - susijęs iš [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.).md#claim-t-20147|1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]: 1938 m. Konstitucija suteikė prezidentui teisę leisti įstatymus, sudaryti ir ratifikuoti sutartis bei skirti aukščiausius pareigūnus.
@@ -61,3 +71,13 @@ Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių tautos masių 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c3dcf9c98eb2cde6bdfbf3b0ec6b30dc02e7f86ed958a2552b18e32d3d97a37f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: suverenumas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "suverenumas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -34,6 +34,16 @@ Dusburgietis teigia, kad joachim; Herausgegeben von W.
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti faktą apie E. Joachimo darbą rengiant leidinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 794817-795068; hash=6c8c0db65e4534921280e2ca072fd70f12bc17c227403cd6bcfada4ab6a595a9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Joachimas (Pskovo vietininkas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: E. Joachim: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Joachimas (Pskovo vietininkas): mention_match, person, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "E. Joachim" parinktas kaip owner_note_path. Targetas "Joachimas (Pskovo vietininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -50,3 +60,13 @@ Dusburgietis teigia, kad joachim; Herausgegeben von W.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 794817-795068; hash=6c8c0db65e4534921280e2ca072fd70f12bc17c227403cd6bcfada4ab6a595a9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Joachimas (Pskovo vietininkas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: E. Joachim: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Joachimas (Pskovo vietininkas): mention_match, person, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "E. Joachim" parinktas kaip owner_note_path. Targetas "Joachimas (Pskovo vietininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

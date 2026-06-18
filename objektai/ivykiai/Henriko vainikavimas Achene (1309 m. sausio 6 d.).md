@@ -51,6 +51,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi neaiškų įvardį ir nutrūkusį bibliografinį fragmentą; citata pagrindžia datą, asmenį ir veiksmą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7adf9427a3c14db2d21db31ab33d2558b435a1b3b040869794bec72abe9eac67; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Henrikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henriko vainikavimas Achene (1309 m. sausio 6 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henriko vainikavimas Achene (1309 m. sausio 6 d.)" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -67,3 +77,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7adf9427a3c14db2d21db31ab33d2558b435a1b3b040869794bec72abe9eac67; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Henrikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henriko vainikavimas Achene (1309 m. sausio 6 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henriko vainikavimas Achene (1309 m. sausio 6 d.)" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

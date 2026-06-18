@@ -55,7 +55,7 @@ Nenurodyta
   global_id: t-41423
   teiginys: 'Konstitucinė teisė priešintis numato, kad Tauta ir kiekvienas pilietis gali priešintis kėsinimuisi į Lietuvos valstybės nepriklausomybę.'
   sudarymo_pagrindimas: 'Pašalinta nepagrįsta nuoroda į 3 straipsnį ir išlaikyta citatos esmė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]'
   pagrindžia:
     - c-001
 

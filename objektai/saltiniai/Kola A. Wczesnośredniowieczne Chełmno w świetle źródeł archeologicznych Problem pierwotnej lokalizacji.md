@@ -33,6 +33,16 @@ Dusburgietis teigia, kad wczesnośredniowieczne Chełmno w świetle źródeł ar
   temporalinis_llm_pakomentavimas: 'Citata yra bibliografinis įrašas, iš kurio galima sudaryti tvarkingą faktinį sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 778903-779084; hash=a0d59b619353197f28b84661f60e2aa2496e7a8a4f8fd8a4df600381c8b21671; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Torunė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kola A. Wczesnośredniowieczne Chełmno w świetle źródeł archeologicznych Problem pierwotnej lokalizacji: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Torunė: mention_match, place, gap=95
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kola A. Wczesnośredniowieczne Chełmno w świetle źródeł archeologicznych Problem pierwotnej lokalizacji" parinktas kaip owner_note_path. Targetas "Torunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -48,3 +58,13 @@ Dusburgietis teigia, kad wczesnośredniowieczne Chełmno w świetle źródeł ar
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 778903-779084; hash=a0d59b619353197f28b84661f60e2aa2496e7a8a4f8fd8a4df600381c8b21671; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Torunė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kola A. Wczesnośredniowieczne Chełmno w świetle źródeł archeologicznych Problem pierwotnej lokalizacji: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Torunė: mention_match, place, gap=95
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kola A. Wczesnośredniowieczne Chełmno w świetle źródeł archeologicznych Problem pierwotnej lokalizacji" parinktas kaip owner_note_path. Targetas "Torunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

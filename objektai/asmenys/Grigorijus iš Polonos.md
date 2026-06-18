@@ -22,9 +22,19 @@ Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis sakinys daugiausia apie Vaišvilką, todėl perrašyta aiškiau susiejant faktą su Grigorijumi.'
-  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Polona'
+  susije_objektai: 'mentioned_place: Polona; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 184427-185084; hash=78042761d2e7e3f60824dc929d81a8917f563e21bb0d1b61deca62de3ffb99c0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Polona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Grigorijus iš Polonos: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Polona: mention_match, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grigorijus iš Polonos" parinktas kaip owner_note_path. Targetas "Polona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -50,3 +60,13 @@ Grigorijaus iš Polonos mokslu buvo grindžiamas griežtesnių regulų gyvenimas
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 184427-185084; hash=78042761d2e7e3f60824dc929d81a8917f563e21bb0d1b61deca62de3ffb99c0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Polona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Grigorijus iš Polonos: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Polona: mention_match, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grigorijus iš Polonos" parinktas kaip owner_note_path. Targetas "Polona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

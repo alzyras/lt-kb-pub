@@ -36,6 +36,16 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Pirminį teiginį verta patikslinti citatoje nurodytu laikotarpiu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8616a3b3f91807bf1bd5522ac2584a650eec5ecee34cc3577ccceff0e32240c2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyveno -> Dauguva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_residence_local_place
+  ryšio_subjekto_parinkimas: Baltai: nearest_actor, group, gap=17
+  ryšio_targeto_parinkimas: Dauguva: nearest_after_predicate, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Baltai" parinktas kaip nearest_actor. Targetas "Dauguva" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -58,3 +68,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8616a3b3f91807bf1bd5522ac2584a650eec5ecee34cc3577ccceff0e32240c2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyveno -> Dauguva: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_residence_local_place
+  ryšio_subjekto_parinkimas: Baltai: nearest_actor, group, gap=17
+  ryšio_targeto_parinkimas: Dauguva: nearest_after_predicate, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Baltai" parinktas kaip nearest_actor. Targetas "Dauguva" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.

@@ -40,18 +40,38 @@ Nenurodyta
   global_id: t-66922
   teiginys: 'Sventopelkas subūrė 2000 karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Vysla; mentioned_place: Pomeranija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 300136-301050; hash=c36d753a822f1a1beac843300a86a3dd41474133895b411aa12baf0882987953; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=71
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-66923"></a>
 - t-002
   global_id: t-66923
   teiginys: 'Prie Kulmo miesto broliai ir jų sąjungininkai užpuolė Sventopelko kariauną, o po kautynių Sventopelkas pabėgo prie Vyslos.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys turi religinės retorikos ir neaiškių įvardžių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 301382-302455; hash=97b3255cefee8126ee5d52757bb210f0ba05f892b911a15dcd9c6f2e1c650a6a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=5
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -76,6 +96,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 300136-301050; hash=c36d753a822f1a1beac843300a86a3dd41474133895b411aa12baf0882987953; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=71
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-002
@@ -99,4 +129,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 300136-301050; hash=c36d753a822f1a1beac843300a86a3dd41474133895b411aa12baf0882987953; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=71
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 301382-302455; hash=97b3255cefee8126ee5d52757bb210f0ba05f892b911a15dcd9c6f2e1c650a6a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=5
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

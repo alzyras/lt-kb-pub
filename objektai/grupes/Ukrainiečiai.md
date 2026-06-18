@@ -21,27 +21,40 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
   global_id: t-99994
   teiginys: 'Ukrainiečiai, kaip ir rusai, XVII-XVIII a. vertė Stryjkovskio kroniką ar jos dalis ir juo domėjosi.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir suformuluotas savarankiškas sakinys apie ukrainiečius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=77c12de178b95b8a097533b34968eb6e19769bf2121e86a178e56b3b9ea35da3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ukrainiečiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukrainiečiai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Bogdanas Chmelnickis.md#claim-t-186099|Bogdanas Chmelnickis]]: 1648 m. Bogdano Chmelnickio vadovaujami sukilę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti savo valstybę.
 - susijęs iš [[objektai/asmenys/Bogdanas Chmelnickis.md#claim-t-186100|Bogdanas Chmelnickis]]: Kojelavičius Bogdano Chmelnickio vadovautą ukrainiečių sukilimą vadino Rusios baudžiauninkų sukilimu.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-10675|Gediminas]]: Gediminas sudarė sąjungą su Lenkija ir plėtė valstybę gudria politika bei dinastinėmis vedybomis.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176388|Gediminas]]: Gediminas laiškuose ir pareiškime popiežiaus legatams kaltino kryžiuočius niokojant žemes, darant skriaudas ir nuostolius.
 - susijęs iš [[objektai/autoriai/M. Hruševskis.md#claim-t-30833|M. Hruševskis]]: M. Hruševskis rusų ir ukrainiečių kalbomis tyrinėjo senovės Kijevo žemės istoriją iki mongolų laikų ir Lietuvos kunigaikščių valdžią joje.
-- susijęs iš [[objektai/autoriai/Pranciškus Skorina.md#claim-t-64822|Pranciškus Skorina]]: Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku.
-- susijęs iš [[objektai/autoriai/Pranciškus Skorina.md#claim-t-64824|Pranciškus Skorina]]: Pranciškus Skorina buvo iš rusėnų kultūrinės aplinkos kilęs pirmasis Lietuvos spaustuvininkas, gimęs Polocko pirklių šeimoje.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47897|Rusų ir ukrainiečių istorikai]]: Ukrainiečių istorikai M. Hruševskis ir V. Zaikinas rašė Lietuvos Didžiosios Kunigaikštystės istorijos temomis.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47898|Rusų ir ukrainiečių istorikai]]: M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją ir jos užvaldymą Lietuvos kunigaikščių.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47899|Rusų ir ukrainiečių istorikai]]: M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją iki mongolų laikų.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47900|Rusų ir ukrainiečių istorikai]]: Rusų ir ukrainiečių istorikai davė naujų tyrinėjimų apie Lietuvos, Gudijos ir Ukrainos (t.
+- susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74906|Rusėnai]]: LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos.
+- susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74912|Rusėnai]]: Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.
+- susijęs iš [[objektai/posakiai/„tautų kalėjimas“ „lydymosi katilas“ „tautų lopšys“.md#claim-t-183511|„tautų kalėjimas“ „lydymosi katilas“ „tautų lopšys“]]: LDK vykę tautų lydymosi procesai baigėsi ne visuotine polonizacija, o lietuvių, baltarusių ir ukrainiečių modernių tautų susikūrimu.
+- susijęs iš Lietuva: LDK lydymosi procesai baigėsi ne visuotine polonizacija, o modernių lietuvių, baltarusių ir ukrainiečių tautų susikūrimu.
+- susijęs iš [[objektai/zodynas/akcijos.md#claim-t-183393|akcijos]]: Akcijose prieš žydus Lietuvoje naciai panaudojo Andrejaus Vlasovo armijos dalinius ir ukrainiečių bei latvių policijos batalionus.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-10675|Gediminas]]: Gediminas sudarė sąjungą su Lenkija ir plėtė valstybę gudria politika bei dinastinėmis vedybomis.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176388|Gediminas]]: Gediminas laiškuose ir pareiškime popiežiaus legatams kaltino kryžiuočius niokojant žemes, darant skriaudas ir nuostolius.
+- susijęs iš [[objektai/autoriai/Pranciškus Skorina.md#claim-t-64822|Pranciškus Skorina]]: Pranciškus Skorina vadinamas pirmuoju Lietuvos spaustuvininku.
+- susijęs iš [[objektai/autoriai/Pranciškus Skorina.md#claim-t-64824|Pranciškus Skorina]]: Pranciškus Skorina buvo iš rusėnų kultūrinės aplinkos kilęs pirmasis Lietuvos spaustuvininkas, gimęs Polocko pirklių šeimoje.
 - susijęs iš [[objektai/autoriai/V. Zaikin.md#claim-t-31054|V. Zaikin]]: V. Zaikinas rašė teisės filosofijos ir religijos istorijos temomis, liesdamas Didžiąją Lietuvos Kunigaikštystę.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96110|Gediminaičių dinastija]]: Iš lietuvių tautos buvo kilusi ir valdančioji Gediminaičių šeima.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179225|Lietuviai]]: 1897 m. surašymo duomenimis, dabartinės Lietuvos ribose be Klaipėdos krašto gyveno apie 2,7 mln. žmonių.
 - susijęs iš [[objektai/grupes/Rusijos kariuomenė.md#claim-t-66080|Rusijos kariuomenė]]: 1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą.
 - susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74904|Rusėnai]]: Pranciškus Skorina kilo iš rusėnų kultūrinės aplinkos ir buvo pirmasis Lietuvos spaustuvininkas.
-- susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74906|Rusėnai]]: LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos.
-- susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74912|Rusėnai]]: Pagrindinė Lietuvos metrikos, o ir apskritai LDK rašto kalba buvo rusėnų – LDK stačiatikių (baltarusių ir ukrainiečių protėvių) kalba.
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-184599|Liublino unija (1569 m.)]]: Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos ir pripažino karalių bei bendrą seimą jungtinės valstybės suverenu.
 - susijęs iš [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas.md#claim-t-77887|Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]: 1897 m. surašymo duomenimis, gyventojų skaičius maždaug dabartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln.
 - susijęs iš [[objektai/ivykiai/Pranciškaus Skorinos spaustuvės įkūrimas Vilniuje.md#claim-t-20458|Pranciškaus Skorinos spaustuvės įkūrimas Vilniuje]]: Pranciškus Skorina buvo pirmasis Lietuvos spaustuvininkas, kilęs iš rusėnų kultūrinės aplinkos ir gimęs Polocko pirklių šeimoje.
@@ -53,19 +66,16 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
 - susijęs iš [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme.md#claim-t-75378|Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]: Rusios žemėse lietuviai rado bažnytinę sistemą ir raštiją, kurių patys neturėjo.
 - susijęs iš [[objektai/paprociai/Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje.md#claim-t-54345|Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje]]: Vytauto laikais didėjo raštijos poreikiai, lietuvių kalba dar neturėjo raštijos tradicijų, o stačiatikiai valdiniai turėjo seną rašto tradiciją.
 - susijęs iš [[objektai/paprociai/Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje.md#claim-t-54346|Rusėnų kalbos vartojimas LDK raštinėse ir raštijoje]]: Vytauto laikais LDK raštijos poreikiai sparčiai didėjo, o lietuvių kalba dar neturėjo susiformavusios raštijos tradicijos.
-- susijęs iš [[objektai/posakiai/„tautų kalėjimas“ „lydymosi katilas“ „tautų lopšys“.md#claim-t-183511|„tautų kalėjimas“ „lydymosi katilas“ „tautų lopšys“]]: LDK vykę tautų lydymosi procesai baigėsi ne visuotine polonizacija, o lietuvių, baltarusių ir ukrainiečių modernių tautų susikūrimu.
 - susijęs iš Lietuvos Statutai: Lietuvos Statutai buvo parašyti oficialiąja LDK raštų kalba, kuri XVI–XVIII a. vadinta lietuvių kalba.
 - susijęs iš Litovskij Statut 1588 goda: I. I. Lappo „Litovskij Statut 1588 goda“ dalys buvo išleistos Kaune 1934 m., 1936 m. ir 1938 m.
 - susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
 - susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
 - susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
-- susijęs iš Lietuva: LDK lydymosi procesai baigėsi ne visuotine polonizacija, o modernių lietuvių, baltarusių ir ukrainiečių tautų susikūrimu.
 - susijęs iš Lietuva: 1897 m. surašymo duomenimis, gyventojų skaičius maždaug dabartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln.
 - susijęs iš Maskva: Maskvoje saugoma Lietuvos Metrika tapo Lietuvos paveldo išbarstymo ar išgrobstymo simboliu.
 - susijęs iš Minskas: Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus.
 - susijęs iš Paduva: Pranciškus Skorina baigė Paduvos universitetą ir ten įgijo medicinos daktaro laipsnį.
 - susijęs iš Ukraina: Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos.
-- susijęs iš [[objektai/zodynas/akcijos.md#claim-t-183393|akcijos]]: Akcijose prieš žydus Lietuvoje naciai panaudojo Andrejaus Vlasovo armijos dalinius ir ukrainiečių bei latvių policijos batalionus.
 - susijęs iš [[objektai/zodynas/federacinė valstybė.md#claim-t-185383|federacinė valstybė]]: Unijos aktai ir Lietuvos Statutas pripažino karalių ir bendrą seimą jungtinės valstybės suverenu.
 - susijęs iš [[objektai/zodynas/feodalinis imunitetas.md#claim-t-185384|feodalinis imunitetas]]: Žymesnieji buržuazinės istoriografijos atstovai feodalinio imuniteto saugojimą vaizdavo kaip valstybės ar tautos reikalų gynimą.
 - susijęs iš [[objektai/zodynas/istorinė Lietuva.md#claim-t-75551|istorinė Lietuva]]: XVI–XVIII a. LDK bajorai, nepaisydami etninės kilmės, laikė save lietuviais.
@@ -90,3 +100,13 @@ Bet ir rusai, kurie Kroniką ar jos dalis keliais atvejais XVII-XVIII amž. buvo
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=77c12de178b95b8a097533b34968eb6e19769bf2121e86a178e56b3b9ea35da3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ukrainiečiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ukrainiečiai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

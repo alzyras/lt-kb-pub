@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-09821
   teiginys: 'Po Bezdežo mūšio M. K. Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos Aleksandro Suvorovo pajėgų.'
   sudarymo_pagrindimas: 'Citata leidžia suformuoti konkretesnį teiginį apie tiesiogines pasekmes.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)|Baro konfederacija (1768–1772 m.)]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Stalovičiai'
+  susije_objektai: 'mentioned_place: Stalovičiai; mentioned_event: [[objektai/ivykiai/Baro konfederacija (1768–1772 m.)|Baro konfederacija (1768–1772 m.)]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]'
   temporaliniai_duomenys: 'įvykio data: 1772 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuoti konkretesnį teiginį apie tiesiogines pasekmes.'

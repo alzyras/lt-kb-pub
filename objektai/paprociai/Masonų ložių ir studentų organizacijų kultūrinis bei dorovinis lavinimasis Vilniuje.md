@@ -51,6 +51,16 @@ Nenurodyta
   susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Mickevičius|A. Mickevičius]]; mentioned_author: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_place: Europa; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 194255-194598; hash=0525e4a3c6945b5156f8aec471a30d85d68a269f4c1407ead9e4257064de539b; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-54311"></a>
 - t-002
@@ -61,6 +71,16 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9631d4c4b55ae8de51d93171001f6e968ea3b716ba8a1a1774e911bb4f36f809; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Mickevičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: A. Mickevičius: mention_match, author, gap=87
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje" parinktas kaip owner_note_path. Targetas "A. Mickevičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183325"></a>
 - t-003
@@ -113,6 +133,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 194255-194598; hash=0525e4a3c6945b5156f8aec471a30d85d68a269f4c1407ead9e4257064de539b; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
     - t-002
 
@@ -129,4 +159,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9631d4c4b55ae8de51d93171001f6e968ea3b716ba8a1a1774e911bb4f36f809; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Mickevičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: A. Mickevičius: mention_match, author, gap=87
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje" parinktas kaip owner_note_path. Targetas "A. Mickevičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 194255-194598; hash=0525e4a3c6945b5156f8aec471a30d85d68a269f4c1407ead9e4257064de539b; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

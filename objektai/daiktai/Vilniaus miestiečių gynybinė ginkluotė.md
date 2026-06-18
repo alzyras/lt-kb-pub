@@ -50,9 +50,19 @@ Nenurodyta
   global_id: t-87127
   teiginys: 'Vilniaus magistratas turėjo išlaikyti 24 įprastai ginkluotus sargybinius, kad miesto tvarka būtų prižiūrima dieną ir naktį.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia pataisyti OCR ir suformuluoti sklandžiai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 519676-520351; hash=6bba86c2e49039f4339bc34017b430231426adf8150ea6400fcdc7bd1ae45831; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilniaus magistratas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių gynybinė ginkluotė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vilniaus magistratas: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių gynybinė ginkluotė" parinktas kaip owner_note_path. Targetas "Vilniaus magistratas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -77,3 +87,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 519676-520351; hash=6bba86c2e49039f4339bc34017b430231426adf8150ea6400fcdc7bd1ae45831; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilniaus magistratas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus miestiečių gynybinė ginkluotė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vilniaus magistratas: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus miestiečių gynybinė ginkluotė" parinktas kaip owner_note_path. Targetas "Vilniaus magistratas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -24,6 +24,9 @@ Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis ai
   sudarymo_pagrindimas: 'Nutrūkęs fragmentas perrašytas į pilną sakinį su aiškiu veiksmu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 674283-674652; hash=9832be2e0d150d9090e92c43195a802e3dd53f27c67a71e1562463927d45c02f; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -44,3 +47,6 @@ Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis ai
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 674283-674652; hash=9832be2e0d150d9090e92c43195a802e3dd53f27c67a71e1562463927d45c02f; match=exact
+  sprendimo_priezastis: auto

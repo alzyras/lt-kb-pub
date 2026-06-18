@@ -35,7 +35,7 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   global_id: t-169731
   teiginys: '1920 m. balandžio 14–15 d. rinkimuose Lietuvos socialdemokratų partija liko trečia.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo rinkimų datą ir partijos rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionių demokratų blokas|Krikščionių demokratų blokas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga|Lietuvos valstiečių liaudininkų sąjunga]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga|Lietuvos valstiečių liaudininkų sąjunga]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Krikščionių demokratų blokas|Krikščionių demokratų blokas]]'
   temporaliniai_duomenys: 'įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo rinkimų datą ir partijos rezultatą.'
@@ -47,9 +47,19 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   global_id: t-169732
   teiginys: 'Lietuvos socialdemokratų partija Steigiamojo Seimo rinkimuose liko trečia.'
   sudarymo_pagrindimas: 'Pradinis teiginys apie kitų politinių jėgų pažadus, o citata tiesiogiai palaiko faktą apie LSDP vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga|Lietuvos valstiečių liaudininkų sąjunga]]; mentioned_object: [[objektai/zodynas/Tautinės mažumos|Tautinės mažumos]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga|Lietuvos valstiečių liaudininkų sąjunga]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Tautinės mažumos|Tautinės mažumos]]'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=955cfeb015a282001977bf12c0fd56d61c4b94ce1372d77f7ead3a98b1d2db30; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos socialdemokratų partija: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos socialdemokratų partija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-169733"></a>
 - t-003
@@ -62,6 +72,16 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   temporalinis_llm_pakomentavimas: 'Teiginys susietas su LSDP ir papildytas citatoje esančiais metais.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0c33c77511057be7c313244f5c14c01d03a42d175f78a7765f4455e191cb06e2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kazys Grinius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos socialdemokratų partija: owner_note_path, group
+  ryšio_targeto_parinkimas: Kazys Grinius: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos socialdemokratų partija" parinktas kaip owner_note_path. Targetas "Kazys Grinius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-169734"></a>
 - t-004
@@ -74,9 +94,9 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys apie valdymo sistemą, o citata leidžia pagrįsti faktą apie LSDP susidarymą.'
   pagrindžia:
     - c-001
+- susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101469|Lietuvos valstiečių liaudininkų sąjunga]]: Kairysis valstiečių liaudininkų blokas, vėliau tapęs Lietuvos valstiečių liaudininkų sąjunga, 1920 m. rinkimuose gavo 29 vietas.
 - susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74191|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas laimėjo 1920 m. balandžio 14–15 d. rinkimus ir gavo 59 vietas.
 - susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74193|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas laimėjo 1920 m. balandžio 14–15 d. rinkimus ir gavo 59 vietas.
-- susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101469|Lietuvos valstiečių liaudininkų sąjunga]]: Kairysis valstiečių liaudininkų blokas, vėliau tapęs Lietuvos valstiečių liaudininkų sąjunga, 1920 m. rinkimuose gavo 29 vietas.
 - susijęs iš [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.).md#claim-t-75287|Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]: 1920 m. balandžio 14–15 d. Steigiamojo Seimo rinkimus laimėjo krikščionių demokratų blokas, gavęs 59 vietas.
 - susijęs iš [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.).md#claim-t-75288|Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]: 1920 m. balandžio 14–15 d. rinkimus į Steigiamąjį Seimą laimėjo krikščionių demokratų blokas, gavęs 59 vietas.
 ## Reikšmingi paminėjimai
@@ -142,6 +162,16 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0c33c77511057be7c313244f5c14c01d03a42d175f78a7765f4455e191cb06e2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kazys Grinius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos socialdemokratų partija: owner_note_path, group
+  ryšio_targeto_parinkimas: Kazys Grinius: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos socialdemokratų partija" parinktas kaip owner_note_path. Targetas "Kazys Grinius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-004
@@ -175,4 +205,14 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=955cfeb015a282001977bf12c0fd56d61c4b94ce1372d77f7ead3a98b1d2db30; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos socialdemokratų partija: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos socialdemokratų partija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005

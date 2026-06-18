@@ -46,12 +46,22 @@ Nenurodyta
   teiginys: '1313 m. vasarą Henrikas iš Plockės puolė Bisenės pilį, bet po nesėkmingos apgulties pasitraukė sužeidus kelis brolius ir pilėnus.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūko; citata palaiko aiškų puolimo ir rezultato aprašą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]]; mentioned_place: Bisenė; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Salos'
+  susije_objektai: 'mentioned_place: Bisenė; mentioned_place: Pilėnai; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]]; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Salos'
   temporaliniai_duomenys: 'įvykio data: 1313 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūko; citata palaiko aiškų puolimo ir rezultato aprašą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 645087-645550; hash=298c92f63ba4de3bc66a3e378b4c793a7071fb5afb5433f136d800d9ac0c91c7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bisenė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bisenės pilies puolimas (1313 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bisenės pilies puolimas (1313 m.)" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -74,3 +84,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 645087-645550; hash=298c92f63ba4de3bc66a3e378b4c793a7071fb5afb5433f136d800d9ac0c91c7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bisenė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bisenės pilies puolimas (1313 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Bisenė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bisenės pilies puolimas (1313 m.)" parinktas kaip owner_note_path. Targetas "Bisenė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

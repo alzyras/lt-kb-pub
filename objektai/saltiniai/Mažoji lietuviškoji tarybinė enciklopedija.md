@@ -34,6 +34,9 @@ Dusburgietis teigia, kad mažoji lietuviškoji tarybinė enciklopedija.—T.
   temporalinis_llm_pakomentavimas: 'Citata patvirtina tomų skaičių ir leidimo metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 786127-786200; hash=b3ea7d7365c7d18e6e045254ad7cf632f2435017a42958c12ff319c330e4f285; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +50,6 @@ Dusburgietis teigia, kad mažoji lietuviškoji tarybinė enciklopedija.—T.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 786127-786200; hash=b3ea7d7365c7d18e6e045254ad7cf632f2435017a42958c12ff319c330e4f285; match=exact
+  sprendimo_priezastis: auto

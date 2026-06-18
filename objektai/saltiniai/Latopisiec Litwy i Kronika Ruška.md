@@ -47,13 +47,23 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 82243-82441; hash=6c2976a959c73bdecbae14fcfa73c4c84eb1e9d69f76ec2deb56b89a2fe3ce5d; match=whitespace_regex
+  sprendimo_priezastis: gap::sources
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Latopisiec Litwy i Kronika Ruška: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=86
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Latopisiec Litwy i Kronika Ruška" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-82002"></a>
 - t-003
   global_id: t-82002
   teiginys: '„Latopisiec Litewski“ mūšio vietą nurodo prie Vilijos upės, ties Horodoku, vietovėje, vadintoje Weyiszczuszki.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo gramatiškai nepatogus ir turėjo neaiškų įvardijimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Vilija'
+  susije_objektai: 'mentioned_place: Vilija; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]'
   pagrindžia:
     - c-004
 
@@ -73,6 +83,16 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 276335-276628; hash=b4114567a6f6bc34c6f0bcad336db2d2ba88da209970edf7957c5ecbdbe6b8d8; match=whitespace_regex
+  sprendimo_priezastis: gap::sources
+  ryšio_patikimumas: susije_su -> Karigaila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Latopisiec Litwy i Kronika Ruška: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Karigaila: mention_match, person, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Latopisiec Litwy i Kronika Ruška" parinktas kaip owner_note_path. Targetas "Karigaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -108,6 +128,16 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 82243-82441; hash=6c2976a959c73bdecbae14fcfa73c4c84eb1e9d69f76ec2deb56b89a2fe3ce5d; match=whitespace_regex
+  sprendimo_priezastis: gap::sources
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Latopisiec Litwy i Kronika Ruška: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=86
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Latopisiec Litwy i Kronika Ruška" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-003
@@ -123,6 +153,16 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 276335-276628; hash=b4114567a6f6bc34c6f0bcad336db2d2ba88da209970edf7957c5ecbdbe6b8d8; match=whitespace_regex
+  sprendimo_priezastis: gap::sources
+  ryšio_patikimumas: susije_su -> Karigaila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Latopisiec Litwy i Kronika Ruška: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Karigaila: mention_match, person, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Latopisiec Litwy i Kronika Ruška" parinktas kaip owner_note_path. Targetas "Karigaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-004

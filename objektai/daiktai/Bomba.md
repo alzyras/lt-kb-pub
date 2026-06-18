@@ -65,10 +65,10 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-183530|Ernestas Galvanauskas]]: 1921 m. lapkričio 15 d. Kaune sprogus bombai Ernestas Galvanauskas buvo sužeistas, bet liko gyvas.
 - susijęs iš [[objektai/daiktai/Vilniaus ginklų liejyklos pabūklai, bombos ir amunicija.md#claim-t-87126|Vilniaus ginklų liejyklos pabūklai, bombos ir amunicija]]: Vilniaus ginklų liejykloje buvo išlieta daug pabūklų, gamintos bombos ir kiti karo reikmenys.
-- susijęs iš Alkuskų kasykla: Iš Alkuskų kasyklos buvo vežami plienas ir geležis.
 - susijęs iš Kaunas: Lapkričio 15 d. Kaune ant Ernesto Galvanausko miegamojo palangės sprogo bomba, o sužeistas Galvanauskas liko gyvas.
+- susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-183530|Ernestas Galvanauskas]]: 1921 m. lapkričio 15 d. Kaune sprogus bombai Ernestas Galvanauskas buvo sužeistas, bet liko gyvas.
+- susijęs iš Alkuskų kasykla: Iš Alkuskų kasyklos buvo vežami plienas ir geležis.
 - susijęs iš Podolė: Apsirūpinus artilerija ir amunicija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis.
 - susijęs iš Ukraina: Apsirūpinus artilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai buvo siuntinėjami po Ukrainos pilis.
 - susijęs iš Vengrija: Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o iš ten superkami į Vilnių.

@@ -22,9 +22,19 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
   global_id: t-20013
   teiginys: 'Sluckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių.'
   sudarymo_pagrindimas: 'Perrašyta, kad sakinys tiesiogiai apibūdintų note objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Alšėnų kunigaikščiai|Alšėnų kunigaikščiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Alšėnai; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Alšėnų kunigaikščiai|Alšėnų kunigaikščiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Alšėnai; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 64837-65368; hash=296b3667ad5c4da7ae5d8c7dc17d62734aefd796ccac7303c0194f37a634523c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Alšėnų kunigaikščiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sluckiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Alšėnų kunigaikščiai: mention_match, group, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sluckiai" parinktas kaip owner_note_path. Targetas "Alšėnų kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/paprociai/Gedimino dinastinė vedybų politika.md#claim-t-05341|Gedimino dinastinė vedybų politika]]: Gediminaičių vedybos ir rusų papročių perėmimas davė pradžią vėlesnėms kunigaikščių giminėms.
 ## Reikšmingi paminėjimai
 
@@ -47,4 +57,24 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 64837-65368; hash=296b3667ad5c4da7ae5d8c7dc17d62734aefd796ccac7303c0194f37a634523c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Alšėnų kunigaikščiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sluckiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Alšėnų kunigaikščiai: mention_match, group, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sluckiai" parinktas kaip owner_note_path. Targetas "Alšėnų kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 64837-65368; hash=296b3667ad5c4da7ae5d8c7dc17d62734aefd796ccac7303c0194f37a634523c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Alšėnų kunigaikščiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sluckiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Alšėnų kunigaikščiai: mention_match, group, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sluckiai" parinktas kaip owner_note_path. Targetas "Alšėnų kunigaikščiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

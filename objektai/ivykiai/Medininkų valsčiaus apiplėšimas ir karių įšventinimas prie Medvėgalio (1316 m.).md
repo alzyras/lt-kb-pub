@@ -45,12 +45,22 @@ Nenurodyta
   teiginys: '1316 m. brolis Henrikas su Reino krašto maldininkais nusiaubė Medininkų valsčių, nukovė arba paėmė į nelaisvę 200 žmonių.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį faktinį sakinį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Medininkai; mentioned_place: Medvėgalis; mentioned_place: Reinas'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Medvėgalis; mentioned_place: Reinas'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškesnį faktinį sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 655197-655783; hash=24c87d2b1064fc36de457712cfca9515e57a6f83e60deb5a19454ff76bc2a22d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183945"></a>
 - t-002
@@ -60,12 +70,22 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra išbaigtas ir tiksliai atitinka cituojamą informaciją.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Medininkai; mentioned_place: Medvėgalis; mentioned_place: Reinas'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Medvėgalis; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Reinas'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išbaigtas ir tiksliai atitinka cituojamą informaciją.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 655197-655783; hash=24c87d2b1064fc36de457712cfca9515e57a6f83e60deb5a19454ff76bc2a22d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -86,4 +106,24 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 655197-655783; hash=24c87d2b1064fc36de457712cfca9515e57a6f83e60deb5a19454ff76bc2a22d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 655197-655783; hash=24c87d2b1064fc36de457712cfca9515e57a6f83e60deb5a19454ff76bc2a22d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

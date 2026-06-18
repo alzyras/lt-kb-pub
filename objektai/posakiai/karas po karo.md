@@ -53,10 +53,7 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Teiginys yra enciklopedinis, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Blinkevičius.md#claim-t-80709|Blinkevičius]]: Apylinkės pirmininkas Blinkevičius gavo Pušaloto valsčiaus valdžios leidimą surinkti miške likusius lavonus.
 - susijęs iš [[objektai/asmenys/J. Juška.md#claim-t-40156|J. Juška]]: J. Juška prisiminė, kad tą dieną žuvo daug savųjų ir gal ne mažiau okupantų karių.
-- susijęs iš [[objektai/asmenys/Josifas Stalinas.md#claim-t-101664|Josifas Stalinas]]: J. Stalino SSRS buvo laikoma jėga, prieš kurią Baltijos šalių pasipriešinimo dalyviai tikėjosi Vakarų žygio.
-- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171499|Karolis Zikaras]]: Karolis Zikaras yra informacinio bloko „Partizanų bunkeriai“ autorius.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171507|Karolis Zikaras]]: Karolis Zikaras ir Loreta Uzdraitė yra teksto apie 1923 m. sausio 9-15 d. sukilėlių žygį į Klaipėdos kraštą autoriai.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171508|Karolis Zikaras]]: Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.
@@ -67,10 +64,13 @@ amziai:
 - susijęs iš [[objektai/posakiai/„karas po karo“.md#claim-t-20904|„karas po karo“]]: Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, iš kurio kilo dešimtmetį trukęs partizaninis karas dėl nepriklausomybės.
 - susijęs iš Atlanto chartija: Lietuvoje tikėta, kad JAV ir Didžioji Britanija įvykdys Atlanto chartijos pažadus grąžinti nepriklausomybę karo metu ją praradusioms šalims.
 - susijęs iš J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes: J. Juška teigė, kad Ažagų-Eimuliškio miško kautynėse okupantų pajėgos žmonių skaičiumi galėjo būti 10 ar 20 kartų pranašesnės už partizanus.
-- susijęs iš Kovų istorijos II knyga XX amžius: V. Lesčiaus ir A. Anušausko „Kovų istorijos II knyga. XX amžius“ 2008 m. išleista Vilniuje.
 - susijęs iš LIETUVOS PARTIZANŲ APYGARDOS IR JŲ ŽYMESNI ATSTOVAI: Informacinio bloko „Lietuvos partizanų apygardos ir jų žymesni atstovai“ autoriai nurodyti Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė.
-- susijęs iš Ribentropo-Molotovo paktas: 1939 m. Ribentropo-Molotovo paktu Stalinas ir Hitleris susitarė pasidalyti Vidurio Europą.
 - susijęs iš Lietuva: Nuo 1944 m. vasaros sovietų represijos ir teroras skatino lietuvių pasipriešinimą, todėl kilo partizaninis karas dėl Lietuvos nepriklausomybės atkūrimo.
+- susijęs iš [[objektai/asmenys/Blinkevičius.md#claim-t-80709|Blinkevičius]]: Apylinkės pirmininkas Blinkevičius gavo Pušaloto valsčiaus valdžios leidimą surinkti miške likusius lavonus.
+- susijęs iš [[objektai/asmenys/Josifas Stalinas.md#claim-t-101664|Josifas Stalinas]]: J. Stalino SSRS buvo laikoma jėga, prieš kurią Baltijos šalių pasipriešinimo dalyviai tikėjosi Vakarų žygio.
+- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
+- susijęs iš Kovų istorijos II knyga XX amžius: V. Lesčiaus ir A. Anušausko „Kovų istorijos II knyga. XX amžius“ 2008 m. išleista Vilniuje.
+- susijęs iš Ribentropo-Molotovo paktas: 1939 m. Ribentropo-Molotovo paktu Stalinas ir Hitleris susitarė pasidalyti Vidurio Europą.
 - susijęs iš Žuvinto ežeras: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.
 - susijęs iš Žuvinto ežeras: Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas.
 - susijęs iš Žuvinto palios: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.

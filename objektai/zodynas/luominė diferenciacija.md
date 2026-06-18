@@ -36,6 +36,9 @@ Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomi
   sudarymo_pagrindimas: 'Pradinis sakinys turi OCR ir gramatikos klaidų, bet citata aiškiai palaiko teiginį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 419799-420314; hash=9e47cf7653e65a9eba1f71cda9d8154303bb6579126b178d422349d570239cef; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -55,3 +58,6 @@ Socialiniu atžvilgiu ši epocha yra charakterizuojama išryškė­ jusią luomi
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 419799-420314; hash=9e47cf7653e65a9eba1f71cda9d8154303bb6579126b178d422349d570239cef; match=exact
+  sprendimo_priezastis: auto

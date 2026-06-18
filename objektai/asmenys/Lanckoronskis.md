@@ -25,6 +25,16 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš val
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1095185-1095675; hash=8fefba5d0920e84abe95dc087797083c0b1a1054573f45c4c03a46b8761ec190; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lanckoronskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lanckoronskis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-186137"></a>
 - t-002
@@ -37,6 +47,16 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš val
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1097111-1097583; hash=782f006c2c9b81370266a7df87e6c8decc79b5fc97a7bfccaec211680090fa42; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstantinas (Karijotaitis): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lanckoronskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konstantinas (Karijotaitis): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lanckoronskis" parinktas kaip owner_note_path. Targetas "Konstantinas (Karijotaitis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -80,4 +100,24 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš val
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1095185-1095675; hash=8fefba5d0920e84abe95dc087797083c0b1a1054573f45c4c03a46b8761ec190; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lanckoronskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lanckoronskis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1097111-1097583; hash=782f006c2c9b81370266a7df87e6c8decc79b5fc97a7bfccaec211680090fa42; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstantinas (Karijotaitis): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lanckoronskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konstantinas (Karijotaitis): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lanckoronskis" parinktas kaip owner_note_path. Targetas "Konstantinas (Karijotaitis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

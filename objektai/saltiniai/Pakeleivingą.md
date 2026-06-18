@@ -23,6 +23,9 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
   sudarymo_pagrindimas: 'Teiginys pagrįstas citata, bet pataisyta sakinio forma pagal pavadinimą ir citatos prasmę.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2daa0780eb116fb0b5c59164ed5287258cfc06301833c0304ffc9c751a55dfa5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -40,3 +43,6 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2daa0780eb116fb0b5c59164ed5287258cfc06301833c0304ffc9c751a55dfa5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

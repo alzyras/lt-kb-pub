@@ -29,9 +29,19 @@ Hubatsch^158.
 - t-001
   global_id: t-64883
   teiginys: 'Bonnos universiteto profesorius W. Hubatschas parašė išsamią monografiją apie Prūsų hercogą Albrechtą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ee20030fffde1c34514f836dfada752d32acf5a3faf3c0eca136ea431717d599; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: W. Hubatsch: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "W. Hubatsch" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64884"></a>
 - t-002
@@ -43,6 +53,9 @@ Hubatsch^158.
   temporalinis_llm_pakomentavimas: 'Citata nurodo W. Hubatschą kaip leidėją ir pateikia leidimo vietą bei metus.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 794817-795068; hash=6c8c0db65e4534921280e2ca072fd70f12bc17c227403cd6bcfada4ab6a595a9; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -72,4 +85,17 @@ Hubatsch^158.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ee20030fffde1c34514f836dfada752d32acf5a3faf3c0eca136ea431717d599; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: W. Hubatsch: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "W. Hubatsch" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 794817-795068; hash=6c8c0db65e4534921280e2ca072fd70f12bc17c227403cd6bcfada4ab6a595a9; match=exact
+  sprendimo_priezastis: auto

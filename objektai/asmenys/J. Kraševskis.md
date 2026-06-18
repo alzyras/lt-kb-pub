@@ -33,7 +33,7 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
   global_id: t-63665
   teiginys: 'J. I. Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.'
   sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. I. Kraševskis|J. I. Kraševskis]]; mentioned_author: [[objektai/autoriai/Kraševskis|Kraševskis]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. I. Kraševskis|J. I. Kraševskis]]; mentioned_author: [[objektai/autoriai/Kraševskis|Kraševskis]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Liublinas'
   temporaliniai_duomenys: 'įvykio data: 1841-1851; įvykio data: 1851 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
@@ -45,12 +45,22 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
   global_id: t-63666
   teiginys: 'J. Kraševskio kūrybai priskiriama didelė reikšmė lietuvių tautinės savimonės plėtotei.'
   sudarymo_pagrindimas: 'Pirminis teiginys buvo fragmentiškas ir nukrypo į Maironį; citata palaiko vertinamąjį teiginį apie Kraševskį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kraševskis|Kraševskis]]; mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaimas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kraševskis|Kraševskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Kaimas'
   temporaliniai_duomenys: 'įvykio data: 1895 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys buvo fragmentiškas ir nukrypo į Maironį; citata palaiko vertinamąjį teiginį apie Kraševskį.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5384453bab7cd9097dd60ccf0eb1c65c4ca867e060092a9379aeb5902a666f5d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> J. I. Kraševskis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Kraševskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: J. I. Kraševskis: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Kraševskis" parinktas kaip owner_note_path. Targetas "J. I. Kraševskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -88,3 +98,13 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5384453bab7cd9097dd60ccf0eb1c65c4ca867e060092a9379aeb5902a666f5d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> J. I. Kraševskis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Kraševskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: J. I. Kraševskis: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Kraševskis" parinktas kaip owner_note_path. Targetas "J. I. Kraševskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

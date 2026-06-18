@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-19512
   teiginys: 'Sovietmečio Lietuvoje deficitinės buvo maisto prekės, baldai, indai, televizoriai, medicinos reikmenys ir vaistai.'
   sudarymo_pagrindimas: 'Citata kalba apie platesnį vartojimo prekių deficitą, todėl sakinys patikslintas pagal objektą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 

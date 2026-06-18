@@ -36,9 +36,19 @@ Nenurodyta
   global_id: t-87666
   teiginys: 'Fabianas buvo Varmės vyskupas, kurio išrinkimą Žygimantas sutiko pripažinti galiojančiu.'
   sudarymo_pagrindimas: 'Lotyniška citata pagrindžia Fabiano pareigas ir pripažintą išrinkimą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Varmė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Varmė; mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b8e8485b0307305cb1bed20d5d96cbcd2b8f120c3755d1d9582d10554f89d047; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Varmė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fabianas (Varmės vyskupas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Varmė: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fabianas (Varmės vyskupas)" parinktas kaip owner_note_path. Targetas "Varmė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Andrius Kopernikas.md#claim-t-87483|Andrius Kopernikas]]: Andrius Kopernikas 1514 m. buvo Varmės kanauninkas, kuriam rašė Lenkijos karalius Žygimantas.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173308|Žygimantas Senasis]]: 1514 m. Žygimantas Senasis rašė Varmės kanauninkui Andriui Kopernikui.
 - susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86737|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu.
@@ -81,3 +91,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b8e8485b0307305cb1bed20d5d96cbcd2b8f120c3755d1d9582d10554f89d047; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Varmė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fabianas (Varmės vyskupas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Varmė: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fabianas (Varmės vyskupas)" parinktas kaip owner_note_path. Targetas "Varmė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

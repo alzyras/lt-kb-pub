@@ -34,6 +34,16 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   temporalinis_llm_pakomentavimas: 'Formuluotė priartinta prie citatos: palikta, kad jis turėjo emigruoti, o ne neutraliai pridėta, kad emigravo. Nepridėta daugiau apie patį sukilimą ar leidinio aplinkybes.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e3012c3dc5cbdca4485641019eb6f8462a3795e635d99117c52eb0887df639e8; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Mogiliovcai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mogiliovcai: mention_match, place, gap=128
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)" parinktas kaip owner_note_path. Targetas "Mogiliovcai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186505"></a>
 - t-002
@@ -41,12 +51,22 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   teiginys: 'Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. aptikęs Bychovco kronikos rankraštį Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata. Subjektas, pareigos, radimo vieta ir laikas jau aiškiai įvardyti.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Mogiliovcai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Mogiliovcai; mentioned_place: Vilnius; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1446 m.; įvykio data: 1446 m.; įvykio data: 1506 m.; įvykio data: 1830 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata. Subjektas, pareigos, radimo vieta ir laikas jau aiškiai įvardyti.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1059e5b81ee054313830ca5badba144068c41347265a542c7f1d3d1ab107458f; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Mogiliovcai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mogiliovcai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)" parinktas kaip owner_note_path. Targetas "Mogiliovcai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-186506"></a>
 - t-003
@@ -60,10 +80,20 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Ipolitą Klimaševskį ir atitinka citatos informaciją. Rankraščio radimo kontekstas išskleistas pakankamai aiškiai.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Aleksandras Bychovcas.md#claim-t-186502|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]: Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4dbeaa9bb69da4ae35aa6ea85e40ff828033dc0e4b800615022c135180e29ef8; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Mogiliovcai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mogiliovcai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)" parinktas kaip owner_note_path. Targetas "Mogiliovcai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186807|Bychovco kronikos rankraštis]]: Bychovco kronikos rankraštį prieš 1830 m. Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje aptiko Ipolitas Klimaševskis.
-- susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio nužudymas.md#claim-t-187470|Žygimanto Kęstutaičio nužudymas]]: Ipolitas Klimaševskis paskelbė Bychovco kronikos pasakojimą apie Žygimanto Kęstutaičio nužudymą 1440 m.
 - susijęs iš Mogiliovcai: Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klimaševskis aptiko Bychovco kronikos rankraštį.
+- susijęs iš [[objektai/asmenys/Aleksandras Bychovcas.md#claim-t-186502|Aleksandras Bychovcas (volkovysko apskrities teisėjas)]]: Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.
+- susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio nužudymas.md#claim-t-187470|Žygimanto Kęstutaičio nužudymas]]: Ipolitas Klimaševskis paskelbė Bychovco kronikos pasakojimą apie Žygimanto Kęstutaičio nužudymą 1440 m.
 - susijęs iš Mogiliovcai: Iki 1830 m. Ipolitas Klimaševskis Bychovco kronikos rankraštį aptiko Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje.
 ## Reikšmingi paminėjimai
 
@@ -103,6 +133,16 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e3012c3dc5cbdca4485641019eb6f8462a3795e635d99117c52eb0887df639e8; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Mogiliovcai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mogiliovcai: mention_match, place, gap=128
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)" parinktas kaip owner_note_path. Targetas "Mogiliovcai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -122,4 +162,24 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4dbeaa9bb69da4ae35aa6ea85e40ff828033dc0e4b800615022c135180e29ef8; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Mogiliovcai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mogiliovcai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)" parinktas kaip owner_note_path. Targetas "Mogiliovcai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1059e5b81ee054313830ca5badba144068c41347265a542c7f1d3d1ab107458f; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/03_extract_people_notes.md
+  ryšio_patikimumas: susije_su -> Mogiliovcai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mogiliovcai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ipolitas Klimaševskis (Vilniaus gimnazijos mokytojas, XIX a.)" parinktas kaip owner_note_path. Targetas "Mogiliovcai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

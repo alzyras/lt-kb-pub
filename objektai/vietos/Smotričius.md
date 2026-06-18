@@ -36,6 +36,16 @@ Smotričius yra sena Podolės gyvenvietė, minima jau XII a. 1240 m. ją sunaiki
   temporalinis_llm_pakomentavimas: 'Citata teigia priklausymą, todėl „valdė“ pakeista tikslesne formuluote.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=512f382979554a2a198eaca5f5964858de6b6fca884be8f1e2f2ea257b7b0d4c; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Podolė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Smotričius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Podolė: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smotričius" parinktas kaip owner_note_path. Targetas "Podolė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187329"></a>
 - t-002
@@ -49,6 +59,16 @@ Smotričius yra sena Podolės gyvenvietė, minima jau XII a. 1240 m. ją sunaiki
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija subjektą, datą ir veiksmą. Citata tiesiogiai nurodo 1240 m. totorių sunaikinimą, todėl papildomos atribucijos čia nereikia.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=512f382979554a2a198eaca5f5964858de6b6fca884be8f1e2f2ea257b7b0d4c; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Smotričius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smotričius" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187330"></a>
 - t-003
@@ -56,12 +76,22 @@ Smotričius yra sena Podolės gyvenvietė, minima jau XII a. 1240 m. ją sunaiki
   teiginys: 'Smotričius yra sena Podolės gyvenvietė, minima jau XII a.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys jau yra pilnas lietuviškas sakinys apie Smotričių. Jis remiasi citatos informacija apie Podolę ir XII a. paminėjimą, nepridedant papildomų faktų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
   temporaliniai_duomenys: 'įvykio data: 1240 m.; įvykio data: 1375 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys jau yra pilnas lietuviškas sakinys apie Smotričių. Jis remiasi citatos informacija apie Podolę ir XII a. paminėjimą, nepridedant papildomų faktų.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=512f382979554a2a198eaca5f5964858de6b6fca884be8f1e2f2ea257b7b0d4c; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Podolė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Smotričius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Podolė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smotričius" parinktas kaip owner_note_path. Targetas "Podolė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-187656"></a>
 - t-004
@@ -77,6 +107,16 @@ Smotričius yra sena Podolės gyvenvietė, minima jau XII a. 1240 m. ją sunaiki
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir sujungia dvi citatoje tiesiogiai pateiktas žinias apie Smotričių. Nepridėta informacijos už citatos ribų.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=512f382979554a2a198eaca5f5964858de6b6fca884be8f1e2f2ea257b7b0d4c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Podolė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Smotričius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Podolė: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smotričius" parinktas kaip owner_note_path. Targetas "Podolė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Podolės patekimas lietuvių Karijotaičių valdžion.md#claim-t-186697|Podolės patekimas lietuvių Karijotaičių valdžion]]: Podolės patekimas lietuvių Karijotaičių valdžion 1971 m. komentare pateikiamas kaip nedatuojamas vieningai: minimi 1349, 1350–1351 ir 1362 m.
 - susijęs iš [[objektai/ivykiai/Podolės patekimas lietuvių Karijotaičių valdžion.md#claim-t-186699|Podolės patekimas lietuvių Karijotaičių valdžion]]: Redakcinė pastaba teigia, kad Podolės patekimo lietuvių Karijotaičių valdžion data istoriografijoje nėra vieningai nustatyta.
 - susijęs iš Smotričė: Smotričė yra kairysis Dnestro intakas.
@@ -95,6 +135,46 @@ Smotričius yra sena Podolės gyvenvietė, minima jau XII a. 1240 m. ją sunaiki
   statusas: verified
   pagrindžia:
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=512f382979554a2a198eaca5f5964858de6b6fca884be8f1e2f2ea257b7b0d4c; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Podolė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Smotričius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Podolė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smotričius" parinktas kaip owner_note_path. Targetas "Podolė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=512f382979554a2a198eaca5f5964858de6b6fca884be8f1e2f2ea257b7b0d4c; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Smotričius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smotričius" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=512f382979554a2a198eaca5f5964858de6b6fca884be8f1e2f2ea257b7b0d4c; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Podolė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Smotričius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Podolė: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smotričius" parinktas kaip owner_note_path. Targetas "Podolė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=512f382979554a2a198eaca5f5964858de6b6fca884be8f1e2f2ea257b7b0d4c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Podolė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Smotričius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Podolė: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Smotričius" parinktas kaip owner_note_path. Targetas "Podolė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -29,18 +29,28 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
 - t-001
   global_id: t-42426
   teiginys: 'Pirmaisiais mėnesiais besikurianti Lietuvos kariuomenė nepajėgė aprūpinti pirmųjų savanorių ginklais, uniformomis ir ekipuote.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Geltonas lankelis ant kepurės|Geltonas lankelis ant kepurės]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis|Lietuvos kario savadarbė diržo sagtis]]; mentioned_place: Kolupiai; mentioned_place: Kėdainiai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Geltonas lankelis ant kepurės|Geltonas lankelis ant kepurės]]; mentioned_object: [[objektai/daiktai/Lietuvos kario savadarbė diržo sagtis|Lietuvos kario savadarbė diržo sagtis]]; mentioned_place: Kolupiai; mentioned_place: Kėdainiai; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Antanas Šukys.md#claim-t-40033|Antanas Šukys]]: Savanoris Antanas Šukys, mokydamasis Kauno Karužų mokykloje, prisiminė, kaip buvo renkami kariai per Jiezną besiveržusiai Raudonajai armijai sulaikyti.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 699935-700716; hash=08dadc60aa90f63020a234b90cd7bb27ef8e80fcaaca43a8f1ef848c96c6f996; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Savanoris: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Savanoris" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Artūras Sakalauskas.md#claim-t-40040|Artūras Sakalauskas]]: Artūras Sakalauskas buvo paskutinis 1991 m. kovoje už laisvę žuvęs Lietuvos savanoris.
+- susijęs iš [[objektai/daiktai/Savadarbis lygiavamzdis šautuvas.md#claim-t-39281|Savadarbis lygiavamzdis šautuvas]]: Savadarbį lygiavamzdį 16,5 mm kalibro šautuvą 1991 m. pagamino savanoris I. Drakša.
+- susijęs iš [[objektai/ivykiai/Susirėmimas prie pagrindinio įvažiavimo į AT rūmus ir Artūro Sakalausko žūtis (1991 m. rugpjūčio 21 d.).md#claim-t-39114|Susirėmimas prie pagrindinio įvažiavimo į AT rūmus ir Artūro Sakalausko žūtis (1991 m. rugpjūčio 21 d.)]]: Augant įtampai, sovietų kariškių provokacijos metu poste prie pagrindinio įvažiavimo į AT rūmus žuvo Lietuvos savanoris Artūras Sakalauskas.
+- susijęs iš [[objektai/asmenys/Antanas Šukys.md#claim-t-40033|Antanas Šukys]]: Savanoris Antanas Šukys, mokydamasis Kauno Karužų mokykloje, prisiminė, kaip buvo renkami kariai per Jiezną besiveržusiai Raudonajai armijai sulaikyti.
 - susijęs iš [[objektai/asmenys/Artūras Sakalauskas.md#claim-t-40041|Artūras Sakalauskas]]: Augant įtampai, sovietų kariškių provokacijos metu poste prie pagrindinio įvažiavimo į AT rūmus žuvo Lietuvos savanoris Artūras Sakalauskas.
 - susijęs iš [[objektai/asmenys/I. Drakša.md#claim-t-39436|I. Drakša]]: Savanoris I. Drakša 1991 m. pagamino savadarbį 16,5 mm kalibro lygiavamzdį šautuvą.
 - susijęs iš [[objektai/asmenys/Jonas Domicini iš Rogūzos.md#claim-t-35146|Jonas Domicini iš Rogūzos]]: Kardinolas Jonas Domicini iš Rogūzos pasisiūlė vykti į Lietuvą, o jam į pagalbą buvo paskirti dar du vyskupai.
 - susijęs iš [[objektai/asmenys/Vygantas Jocius.md#claim-t-39677|Vygantas Jocius]]: Parlamento gynėjas ir kūrėjas savanoris Vygantas Jocius 2010 m. pagamino demonstracinę butelio su padegamuoju skysčiu versiją.
-- susijęs iš [[objektai/daiktai/Savadarbis lygiavamzdis šautuvas.md#claim-t-39281|Savadarbis lygiavamzdis šautuvas]]: Savadarbį lygiavamzdį 16,5 mm kalibro šautuvą 1991 m. pagamino savanoris I. Drakša.
 - susijęs iš [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.).md#claim-t-50803|Konstancijos susirinkimas (1414–1418 m.)]]: Konstancijos susirinkimas nusprendė pasiųsti vyskupus Žemaičių vyskupijai įkurti.
-- susijęs iš [[objektai/ivykiai/Susirėmimas prie pagrindinio įvažiavimo į AT rūmus ir Artūro Sakalausko žūtis (1991 m. rugpjūčio 21 d.).md#claim-t-39114|Susirėmimas prie pagrindinio įvažiavimo į AT rūmus ir Artūro Sakalausko žūtis (1991 m. rugpjūčio 21 d.)]]: Augant įtampai, sovietų kariškių provokacijos metu poste prie pagrindinio įvažiavimo į AT rūmus žuvo Lietuvos savanoris Artūras Sakalauskas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,3 +75,13 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 699935-700716; hash=08dadc60aa90f63020a234b90cd7bb27ef8e80fcaaca43a8f1ef848c96c6f996; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Savanoris: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Savanoris" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -34,6 +34,16 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie s
   temporalinis_llm_pakomentavimas: 'Pataisyta, kad Prokopijaus autorystė aiškiai sietųsi tik su citatoje nurodyta dalimi.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 88370-89045; hash=70396e8e5157800185d346bb219847fbee6ce93ba3fc884452e148522ae60622; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gepidai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prokopijaus veikalas: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Gepidai: mention_match, group, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prokopijaus veikalas" parinktas kaip owner_note_path. Targetas "Gepidai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -65,3 +75,13 @@ Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie s
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 88370-89045; hash=70396e8e5157800185d346bb219847fbee6ce93ba3fc884452e148522ae60622; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gepidai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prokopijaus veikalas: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Gepidai: mention_match, group, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prokopijaus veikalas" parinktas kaip owner_note_path. Targetas "Gepidai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

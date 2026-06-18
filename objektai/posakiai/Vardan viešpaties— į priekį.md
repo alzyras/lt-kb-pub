@@ -24,6 +24,16 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 611484-612143; hash=f23becefb5723f792e74224ca4b517789284dc00508b744ddc460ef54d556cc3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Henrikas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vardan viešpaties— į priekį: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vardan viešpaties— į priekį" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -58,4 +68,24 @@ Dusburgietis teigia, kad galop Henrikas tarė savo arkliui, stipriai jį paspaus
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 611484-612143; hash=f23becefb5723f792e74224ca4b517789284dc00508b744ddc460ef54d556cc3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Henrikas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vardan viešpaties— į priekį: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vardan viešpaties— į priekį" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 611411-611767; hash=d2187162d08c6114e2888945bf739cdce02a92775c1a89bb2abbe750f7a3f60c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Henrikas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vardan viešpaties— į priekį: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vardan viešpaties— į priekį" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -34,8 +34,18 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Reikia išplėsti asmens įvardijimą ir palikti aiškų faktą apie Usviatus.'
   pagrindžia:
     - c-001
-- susijęs iš Jezeriščė: 1580 m. buvo paimtos Veližo, Didžiųjų Lukų, Usviatų ir Jezeriščės tvirtovės.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3ebcdfed22aa219fa5a13ea7d1d87fedb92b356e321fb7a593b6585da661858b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jezeriščė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Usviatai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jezeriščė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Usviatai" parinktas kaip owner_note_path. Targetas "Jezeriščė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/zodynas/paliaubos.md#claim-t-184632|paliaubos]]: Ivanas atsakė Vasilijui Zaborovskiui, kad paliaubos nedraudžia jam statyti pilių prie Usviatų ir Ūlos.
+- susijęs iš Jezeriščė: 1580 m. buvo paimtos Veližo, Didžiųjų Lukų, Usviatų ir Jezeriščės tvirtovės.
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70312|rotmistras]]: Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai.
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70314|rotmistras]]: Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams.
 ## Reikšmingi paminėjimai
@@ -55,3 +65,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3ebcdfed22aa219fa5a13ea7d1d87fedb92b356e321fb7a593b6585da661858b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jezeriščė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Usviatai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jezeriščė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Usviatai" parinktas kaip owner_note_path. Targetas "Jezeriščė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

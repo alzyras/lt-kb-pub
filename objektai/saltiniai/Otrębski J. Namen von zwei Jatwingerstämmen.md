@@ -33,6 +33,16 @@ Dusburgietis teigia, kad otrębski J.
   temporalinis_llm_pakomentavimas: 'Citata nurodo autorių, pavadinimą, leidinį, vietą ir metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 789066-789163; hash=c46577c1852e5040810369f7e532d34f661c27248d0734e05a222f607752b5a5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Berlynas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Otrębski J. Namen von zwei Jatwingerstämmen: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=67
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Otrębski J. Namen von zwei Jatwingerstämmen" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +57,13 @@ Dusburgietis teigia, kad otrębski J.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 789066-789163; hash=c46577c1852e5040810369f7e532d34f661c27248d0734e05a222f607752b5a5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Berlynas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Otrębski J. Namen von zwei Jatwingerstämmen: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=67
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Otrębski J. Namen von zwei Jatwingerstämmen" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

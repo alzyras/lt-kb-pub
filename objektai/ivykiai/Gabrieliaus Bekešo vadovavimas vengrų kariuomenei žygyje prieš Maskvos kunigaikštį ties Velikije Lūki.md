@@ -40,9 +40,19 @@ Nenurodyta
   global_id: t-86945
   teiginys: 'Žygyje ties Velikije Lūki Gabrielis Bekešas buvo paskirtas vadovauti vengrų kariuomenės riteriams.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia Bekešo paskyrimą vadovauti vengrų riteriams.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Gabrielius Bekešas|Gabrielius Bekešas]]; mentioned_place: Alanta; mentioned_place: Maskva; mentioned_place: Ukmergė; mentioned_place: Velikije Lūki'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Gabrielius Bekešas|Gabrielius Bekešas]]; mentioned_place: Velikije Lūki; mentioned_place: Alanta; mentioned_place: Maskva; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 795944-797749; hash=a1ef25ed07e3f97988db3a52b6688c0dff28f8489844b47899db12f6ab6f618e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gabrielius Bekešas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Gabrielius Bekešas: mention_match, person, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki" parinktas kaip owner_note_path. Targetas "Gabrielius Bekešas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -88,3 +98,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 795944-797749; hash=a1ef25ed07e3f97988db3a52b6688c0dff28f8489844b47899db12f6ab6f618e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gabrielius Bekešas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Gabrielius Bekešas: mention_match, person, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gabrieliaus Bekešo vadovavimas vengrų kariuomenei žygyje prieš Maskvos kunigaikštį ties Velikije Lūki" parinktas kaip owner_note_path. Targetas "Gabrielius Bekešas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

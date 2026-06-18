@@ -35,17 +35,17 @@ Rygos miesto tarė­ jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323 
     - c-001
 - susijęs iš [[objektai/asmenys/Motiejus (Vilniaus vyskupas).md#claim-t-87447|Motiejus (Vilniaus vyskupas)]]: Vilniaus vyskupas Motiejus raštu suteikė kapitulai ir jos valdiniams jurisdikciją su teise taikyti bažnytines cenzūras.
 - susijęs iš [[objektai/grupes/Apaštalų Sostas.md#claim-t-172079|Apaštalų Sostas]]: Vilniaus kapitula teigė besivadovaujanti teise, kurią patvirtino Apaštalų Sostas, Lietuvos kunigaikščiai ir valdovas.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176076|Vilniaus kapitula]]: Vilniaus tarėjai reikalavo, kad miestas būtų atleistas nuo, jų teigimu, naujai kapitulos pasisavintos jurisdikcijos.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176092|Vilniaus kapitula]]: Vilniaus kapitulos prelatai ir kanauninkai teigė, kad naudojosi sena vyskupų ir Apaštalų Sosto patvirtinta jurisdikcija.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176104|Vilniaus kapitula]]: Vilniaus bažnyčios prelatai ir kanauninkai buvo raginami laisvai skirti dalį savo beneficijų klierikų kolegijai.
+- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus katedros kapitula teigė, kad jos jurisdikciją patvirtino Apaštalų Sostas ir Lietuvos kunigaikščiai.
+- susijęs iš Vilniaus katedros bažnyčia: Vilniaus katedros bažnyčios kapitula teigė, kad jos jurisdikciją patvirtino Apaštalų Sostas ir Lietuvos kunigaikščiai.
+- susijęs iš [[objektai/zodynas/ekskomunikacija ekskomunika.md#claim-t-86468|ekskomunikacija ekskomunika]]: Vilniaus kapitula teigė turėjusi teisę ekskomunikuoti paprotinės teisės ir bažnyčios valdinių niekintojus.
+- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176076|Vilniaus kapitula]]: Vilniaus tarėjai reikalavo, kad miestas būtų atleistas nuo, jų teigimu, naujai kapitulos pasisavintos jurisdikcijos.
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172815|Vilniaus magistratas]]: Vilniaus kapitula teigė, kad bausti bažnyčios valdinius priklauso jai, o ne Vilniaus miestui ar tarėjams.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.).md#claim-t-86886|Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]: Vilniaus miesto tarėjai reikalavo atleisti miestą nuo, jų teigimu, naujai kapitulos pasisavintos jurisdikcijos.
 - susijęs iš Vilniaus vyskupo Motiejaus raštas Vilniaus kapitulai dėl jurisdikcijos ir bažnytinių cenzūrų: Vilniaus tarėjai reikalavo, kad miestas būtų atleistas nuo naujai kapitulos pasisavintos jurisdikcijos.
 - susijęs iš Žygimanto Senojo raštas Vilniaus magistratui dėl Vilniaus kapitulos jurisdikcijos (1533 m. liepos 26 d.): Vilniaus tarėjai miesto vardu reikalavo būti atleisti nuo jurisdikcijos, kurią, jų teigimu, naujai pasisavino kapitula.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus katedros kapitula teigė, kad jos jurisdikciją patvirtino Apaštalų Sostas ir Lietuvos kunigaikščiai.
-- susijęs iš Vilniaus katedros bažnyčia: Vilniaus katedros bažnyčios kapitula teigė, kad jos jurisdikciją patvirtino Apaštalų Sostas ir Lietuvos kunigaikščiai.
 - susijęs iš [[objektai/zodynas/bažnytinės cenzūros.md#claim-t-86516|bažnytinės cenzūros]]: Vilniaus vyskupo Motiejaus raštu Vilniaus kapitulai suteikta jurisdikcija ir leidimas taikyti bažnytines cenzūras.
-- susijęs iš [[objektai/zodynas/ekskomunikacija ekskomunika.md#claim-t-86468|ekskomunikacija ekskomunika]]: Vilniaus kapitula teigė turėjusi teisę ekskomunikuoti paprotinės teisės ir bažnyčios valdinių niekintojus.
 - susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-173019|jurisdikcija]]: Vilniaus tarėjai reikalavo atleisti miestą nuo Vilniaus kapitulos naujai pasisavintos jurisdikcijos.
 ## Reikšmingi paminėjimai
 

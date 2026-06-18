@@ -30,21 +30,41 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
   global_id: t-61014
   teiginys: 'Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs ir ne apie šio užrašo objektą; citata aiškiai paremia tik Volynės metraščio vietovardžio formas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Mstivojus|Mstivojus]]; mentioned_place: Lenkija; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Volynė; mentioned_place: Zilija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Volynė; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Mstivojus|Mstivojus]]; mentioned_place: Lenkija; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Zilija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 525434-525611; hash=56e34a94dea961cdb60be3eff52497c6439ef1d4f3f7ee705b7d501a810f7afe; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Volynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Volynės metraštis: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Volynė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volynės metraštis" parinktas kaip owner_note_path. Targetas "Volynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-61015"></a>
 - t-002
   global_id: t-61015
   teiginys: 'Volynės metraštyje teritorija Crasim minima forma Krismence.'
   sudarymo_pagrindimas: 'Pradinė formuluotė buvo nutrūkusi; citata pagrindžia pavadinimo formą metraštyje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Volynė; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė buvo nutrūkusi; citata pagrindžia pavadinimo formą metraštyje.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3930a8dc7395641bbdecb003ea062db337976cbc46c4bd475caa1bc76becca9d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Volynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Volynės metraštis: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Volynė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volynės metraštis" parinktas kaip owner_note_path. Targetas "Volynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -76,4 +96,24 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 525434-525611; hash=56e34a94dea961cdb60be3eff52497c6439ef1d4f3f7ee705b7d501a810f7afe; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Volynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Volynės metraštis: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Volynė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volynės metraštis" parinktas kaip owner_note_path. Targetas "Volynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3930a8dc7395641bbdecb003ea062db337976cbc46c4bd475caa1bc76becca9d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Volynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Volynės metraštis: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Volynė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volynės metraštis" parinktas kaip owner_note_path. Targetas "Volynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

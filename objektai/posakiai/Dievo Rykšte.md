@@ -41,6 +41,9 @@ Religinę ir baudžiamąją prasmę turintis panegirinis ar demonizuojantis epit
   sudarymo_pagrindimas: 'Tai prievardžio vartojimas, todėl formuluotė turi aiškiai rodyti šaltinio priskyrimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d182e357558b25de1e3d6805254597adde5d38ba424cc192423fb9a7da5fdbd2; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/07_extract_sayings_notes.md
 
 ## Reikšmingi paminėjimai
 
@@ -58,3 +61,6 @@ Religinę ir baudžiamąją prasmę turintis panegirinis ar demonizuojantis epit
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d182e357558b25de1e3d6805254597adde5d38ba424cc192423fb9a7da5fdbd2; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/07_extract_sayings_notes.md

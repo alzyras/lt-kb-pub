@@ -49,22 +49,32 @@ Nenurodyta
   global_id: t-31104
   teiginys: 'Druska buvo vienas būtiniausių dalykų, kuriuos Lietuva per Rygą gabendavosi iš Vakarų.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko faktą apie druskos importą per Rygą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5eaf6a719085a4e090922657a8a5b45e9be42143b85e3ae63da4ebc389433595; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Druska: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druska" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/daiktai/Vąšas.md#claim-t-08353|Vąšas]]: Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.
+- susijęs iš [[objektai/ivykiai/Burgundijos kalno nuslinkimas (1225 m.).md#claim-t-62229|Burgundijos kalno nuslinkimas (1225 m.)]]: 1225 m. Burgundijos Druskos kalnuose dėl žemės drebėjimo kalnas nuslinko, užvertė slėnį ir nuslėgė penkis tūkstančius žmonių.
+- susijęs iš [[objektai/posakiai/„Lietuvos žemės druska“.md#claim-t-20855|„Lietuvos žemės druska“]]: Jaunieji Lietuvos bajorai buvo raginami būti „Lietuvos žemės druska“: kalbėti lietuviškai, mylėti kraštą ir rūpintis liaudies gerove.
+- susijęs iš Karaliaučius: 1400 m. Kalėdoms į Karaliaučių nuvykę kilmingieji buvo apdovanoti druska ir vilnoniais audiniais.
+- susijęs iš Karaliaučius: 1400 m. Kalėdoms į Karaliaučių nuvykę kilmingieji buvo apdovanoti druska ir vilnoniais audiniais.
 - susijęs iš [[objektai/asmenys/Ulrikas Hozijus.md#claim-t-87364|Ulrikas Hozijus]]: Ulrikas Hozijus ragino pastatyti tiltą per Vilijos upę ir gavo pavedimą jį nutiesti savo lėšomis.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173313|Žygimantas Senasis]]: Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tiltą per Viliją prie Vilniaus.
-- susijęs iš [[objektai/daiktai/Vąšas.md#claim-t-08353|Vąšas]]: Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-08355|Vėliavos]]: Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis.
-- susijęs iš [[objektai/ivykiai/Burgundijos kalno nuslinkimas (1225 m.).md#claim-t-62229|Burgundijos kalno nuslinkimas (1225 m.)]]: 1225 m. Burgundijos Druskos kalnuose dėl žemės drebėjimo kalnas nuslinko, užvertė slėnį ir nuslėgė penkis tūkstančius žmonių.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus.md#claim-t-86972|Žygimanto Senojo pavedimas Ulrikui Hozijui pastatyti tiltą per Viliją prie Vilniaus]]: Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus.
-- susijęs iš [[objektai/posakiai/„Lietuvos žemės druska“.md#claim-t-20855|„Lietuvos žemės druska“]]: Jaunieji Lietuvos bajorai buvo raginami būti „Lietuvos žemės druska“: kalbėti lietuviškai, mylėti kraštą ir rūpintis liaudies gerove.
 - susijęs iš Adomo Jakšto-Dambrausko lenkiška knygelė apie lietuvių siekius (1902 m.): Knygelėje Lietuvos bajorai raginti kalbėti lietuviškai, mylėti savo kraštą, jam dirbti ir rūpintis liaudies švietimu.
 - susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: 1225 m. Burgundijos Druskos kalnuose žemės drebėjimas esą nustūmė kalną ir pražudė penkis tūkstančius žmonių.
 - susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus.
 - susijęs iš Juodoji jūra: Uksinė jūra Daukanto tekste tapatinama su Juodąja jūra.
-- susijęs iš Karaliaučius: 1400 m. Kalėdoms į Karaliaučių nuvykę kilmingieji buvo apdovanoti druska ir vilnoniais audiniais.
-- susijęs iš Karaliaučius: 1400 m. Kalėdoms į Karaliaučių nuvykę kilmingieji buvo apdovanoti druska ir vilnoniais audiniais.
 - susijęs iš Marienburgas: 1401 m. sausio mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys krikštijosi.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Prie Vilniaus buvusi perkėla per Viliją kėlė LDK valdiniams ir kitiems žmonėms sunkumų, išlaidų ir nepatogumų.
 - susijęs iš Vilijos upė: Prie Vilniaus per Vilijos upę naudota perkėla kėlė sunkumų, išlaidų ir nepatogumų LDK valdiniams bei kitiems žmonėms.
@@ -87,3 +97,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5eaf6a719085a4e090922657a8a5b45e9be42143b85e3ae63da4ebc389433595; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Druska: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druska" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

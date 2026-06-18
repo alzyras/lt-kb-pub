@@ -31,6 +31,16 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   susije_objektai: 'mentioned_place: Nadruva; mentioned_place: Pilėnai'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5c652ff6025e475b200f3d912e2cc7a414570313217633046d0a46b62af9a8c0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nadruva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Auktuolyčiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Nadruva: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auktuolyčiai" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58524"></a>
 - t-002
@@ -39,8 +49,11 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   sudarymo_pagrindimas: 'Teiginys yra glaustas, pilnas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65936|Nadruviai]]: Katinavos apylinkėse esanti Katinavos kalva nadruvių buvo laikoma šventa.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 478928-479820; hash=a8e363a1707cb0d413904ddf2eba9da52919b39600279b06c230e5b4527666ed; match=whitespace_regex
+  sprendimo_priezastis: auto
 - susijęs iš Katavos valsčius: Brolis Ditrichas su kariuomene atžygiavo į Nadruvos valsčių Katavą ir pradėjo pulti Auktuolyčių pilį.
+- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65936|Nadruviai]]: Katinavos apylinkėse esanti Katinavos kalva nadruvių buvo laikoma šventa.
 - susijęs iš Katinavos apylinkės: Katinavos apylinkės išsiskyrė tarp pagoniškam kultui skirtų Nadruvos regionų, nes Katinavos kalva buvo laikoma šventa.
 ## Reikšmingi paminėjimai
 
@@ -82,4 +95,17 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 478928-479820; hash=a8e363a1707cb0d413904ddf2eba9da52919b39600279b06c230e5b4527666ed; match=whitespace_regex
+  sprendimo_priezastis: auto
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5c652ff6025e475b200f3d912e2cc7a414570313217633046d0a46b62af9a8c0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nadruva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Auktuolyčiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Nadruva: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Auktuolyčiai" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

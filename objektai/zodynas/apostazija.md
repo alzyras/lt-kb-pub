@@ -49,10 +49,20 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - t-001
   global_id: t-05588
   teiginys: 'Mindaugo apostazijos klausimas šaltinyje pateikiamas kaip viena pagrindinių problemų.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/H. Lowmiański|H. Lowmiański]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Durbė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Viena; mentioned_author: [[objektai/autoriai/H. Lowmiański|H. Lowmiański]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Durbė'
   pagrindžia:
     - c-001
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3676692bc4b6df1b618757ce0c6731f917919fd5d207ce588182d222734a4594; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: apostazija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "apostazija" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-05589"></a>
 - t-002
@@ -61,6 +71,16 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   susije_objektai: 'mentioned_author: [[objektai/autoriai/H. Lowmiański|H. Lowmiański]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Durbė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3676692bc4b6df1b618757ce0c6731f917919fd5d207ce588182d222734a4594; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Durbė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: apostazija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Durbė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "apostazija" parinktas kaip owner_note_path. Targetas "Durbė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-05590"></a>
 - t-003
@@ -72,15 +92,35 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   pagrindžia:
     - c-002
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e023cbe1d8337bde0402fad7e42729fb54e6f71411cea3d00cb7498bd64779ff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas XXII (arkivyskupas, XIV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: apostazija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Jonas XXII (arkivyskupas, XIV a.): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "apostazija" parinktas kaip owner_note_path. Targetas "Jonas XXII (arkivyskupas, XIV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-05591"></a>
 - t-004
   global_id: t-05591
   teiginys: 'Mindaugo apostazijos klausimas siejamas su ginču, ar Mindaugas po Žemaičių laimėjimo prie Durbės atsimetė nuo krikščionybės.'
   sudarymo_pagrindimas: 'Sąvoka perrašyta į pilną faktinį sakinį, paremtą citatos problema.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/H. Lowmiański|H. Lowmiański]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Durbė'
+  susije_objektai: 'mentioned_place: Durbė; mentioned_author: [[objektai/autoriai/H. Lowmiański|H. Lowmiański]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3676692bc4b6df1b618757ce0c6731f917919fd5d207ce588182d222734a4594; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Durbė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: apostazija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Durbė: mention_match, place, gap=81
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "apostazija" parinktas kaip owner_note_path. Targetas "Durbė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-05592"></a>
 - t-005
@@ -90,15 +130,35 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=af37de13db24e41063623447cb807a7fb91236ec040ce61de6e1e04a7fff1591; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: apostazija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "apostazija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-97278"></a>
 - t-006
   global_id: t-97278
   teiginys: 'J. Stakauskas pripažino, kad nuomonė apie Mindaugo apostaziją po Durbės mūšio turi tam tikro pagrindo.'
   sudarymo_pagrindimas: 'Pradinė frazė nutrūkusi ir triukšminga, o citata remia pilną sakinį apie Mindaugo apostazijos klausimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/H. Lowmiański|H. Lowmiański]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Durbė'
+  susije_objektai: 'mentioned_place: Durbė; mentioned_author: [[objektai/autoriai/H. Lowmiański|H. Lowmiański]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3676692bc4b6df1b618757ce0c6731f917919fd5d207ce588182d222734a4594; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Durbė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: apostazija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Durbė: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "apostazija" parinktas kaip owner_note_path. Targetas "Durbė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -123,8 +183,38 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   statusas: verified
   pagrindžia:
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3676692bc4b6df1b618757ce0c6731f917919fd5d207ce588182d222734a4594; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Durbė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: apostazija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Durbė: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "apostazija" parinktas kaip owner_note_path. Targetas "Durbė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3676692bc4b6df1b618757ce0c6731f917919fd5d207ce588182d222734a4594; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: apostazija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "apostazija" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3676692bc4b6df1b618757ce0c6731f917919fd5d207ce588182d222734a4594; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Durbė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: apostazija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Durbė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "apostazija" parinktas kaip owner_note_path. Targetas "Durbė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
 
 - c-002
@@ -144,6 +234,16 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3676692bc4b6df1b618757ce0c6731f917919fd5d207ce588182d222734a4594; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Durbė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: apostazija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Durbė: mention_match, place, gap=81
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "apostazija" parinktas kaip owner_note_path. Targetas "Durbė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -161,6 +261,16 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e023cbe1d8337bde0402fad7e42729fb54e6f71411cea3d00cb7498bd64779ff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas XXII (arkivyskupas, XIV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: apostazija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Jonas XXII (arkivyskupas, XIV a.): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "apostazija" parinktas kaip owner_note_path. Targetas "Jonas XXII (arkivyskupas, XIV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
 
 - c-004
@@ -181,6 +291,16 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=af37de13db24e41063623447cb807a7fb91236ec040ce61de6e1e04a7fff1591; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: apostazija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "apostazija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-005
@@ -200,4 +320,24 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3676692bc4b6df1b618757ce0c6731f917919fd5d207ce588182d222734a4594; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: apostazija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "apostazija" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e023cbe1d8337bde0402fad7e42729fb54e6f71411cea3d00cb7498bd64779ff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas XXII (arkivyskupas, XIV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: apostazija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Jonas XXII (arkivyskupas, XIV a.): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "apostazija" parinktas kaip owner_note_path. Targetas "Jonas XXII (arkivyskupas, XIV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -22,9 +22,19 @@ Krokuvos vaivada Jaranda iš Brudzevo buvo įtrauktas į senato pasiuntinybę, i
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia faktą apie Jarandos dalyvavimą pasiuntinybėje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Brudzevas; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_place: Brudzevas; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Krokuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 773393-773986; hash=cc26907c26b3f25ec41ed2c0ae399c3922ebb3d9fb5cc573a30246ca0438d594; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Brudzevas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jaranda iš Brudzevo (vyskupas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Brudzevas: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jaranda iš Brudzevo (vyskupas)" parinktas kaip owner_note_path. Targetas "Brudzevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -54,3 +64,13 @@ Krokuvos vaivada Jaranda iš Brudzevo buvo įtrauktas į senato pasiuntinybę, i
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 773393-773986; hash=cc26907c26b3f25ec41ed2c0ae399c3922ebb3d9fb5cc573a30246ca0438d594; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Brudzevas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jaranda iš Brudzevo (vyskupas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Brudzevas: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jaranda iš Brudzevo (vyskupas)" parinktas kaip owner_note_path. Targetas "Brudzevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

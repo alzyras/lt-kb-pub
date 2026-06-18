@@ -46,12 +46,22 @@ Nenurodyta
   global_id: t-28834
   teiginys: '1351 m. Kęstutis, sudarydamas taiką su Vengrijos karaliumi Liudviku Anžu, sutiko priimti krikštą su broliais ir valdiniais.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Kęstučio taikos ir krikšto pažadą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_place: Vengrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1351 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą Kęstučio taikos ir krikšto pažadą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 717201-717613; hash=1cd0786509f52d8b3e8d03a7a3f7004a6923ce9bafcae2c5cd58a0791e1d7e6b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vengrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kęstučio taikos ir krikšto sutartis su Liudviku Anžu (1351 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Vengrija: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstučio taikos ir krikšto sutartis su Liudviku Anžu (1351 m.)" parinktas kaip owner_note_path. Targetas "Vengrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -70,3 +80,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 717201-717613; hash=1cd0786509f52d8b3e8d03a7a3f7004a6923ce9bafcae2c5cd58a0791e1d7e6b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vengrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kęstučio taikos ir krikšto sutartis su Liudviku Anžu (1351 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Vengrija: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kęstučio taikos ir krikšto sutartis su Liudviku Anžu (1351 m.)" parinktas kaip owner_note_path. Targetas "Vengrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -24,6 +24,9 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
   sudarymo_pagrindimas: 'Pradinė formuluotė turi neaiškų įvardį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 559144-559547; hash=6b0dcc50496cba68cb114a5dde8bf18c27c3f069bf47fcfc95dccced7ca67e7e; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-72118"></a>
 - t-002
@@ -32,6 +35,9 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir paverstas aiškiu enciklopediniu sakiniu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 559144-559547; hash=6b0dcc50496cba68cb114a5dde8bf18c27c3f069bf47fcfc95dccced7ca67e7e; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -52,4 +58,10 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 559144-559547; hash=6b0dcc50496cba68cb114a5dde8bf18c27c3f069bf47fcfc95dccced7ca67e7e; match=exact
+  sprendimo_priezastis: auto
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 559144-559547; hash=6b0dcc50496cba68cb114a5dde8bf18c27c3f069bf47fcfc95dccced7ca67e7e; match=exact
+  sprendimo_priezastis: auto

@@ -23,6 +23,9 @@ Be to, buvo keturi sidabriniai dubenys, užstatyti pas auksakalį Adomą a die 1
   sudarymo_pagrindimas: 'Pradinis teiginys turi kontekstinį junginį ir lotynišką datos fragmentą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 829278-829472; hash=2a6e9e269ad39ba5692d0663efec9a6a4fa57a07601065cc14b848be12e5f96e; match=whitespace_regex
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/daiktai/Akmeninė knyga.md#claim-t-59676|Akmeninė knyga]]: 1232 m. Tolede vienas žydas surado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.
 - susijęs iš [[objektai/ivykiai/Tolede akmeninės knygos suradimas ir žydo krikštas (1232 m.).md#claim-t-91920|Tolede akmeninės knygos suradimas ir žydo krikštas (1232 m.)]]: 1232 m. Tolede žydas rado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.
 - susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: 1232 m. Tolede vienas žydas esą rado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais.
@@ -44,3 +47,6 @@ Be to, buvo keturi sidabriniai dubenys, užstatyti pas auksakalį Adomą a die 1
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 829278-829472; hash=2a6e9e269ad39ba5692d0663efec9a6a4fa57a07601065cc14b848be12e5f96e; match=whitespace_regex
+  sprendimo_priezastis: auto

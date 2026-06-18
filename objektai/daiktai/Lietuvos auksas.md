@@ -55,7 +55,7 @@ Nenurodyta
   global_id: t-13781
   teiginys: 'Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas.'
   sudarymo_pagrindimas: 'Perrašymas aiškiau susieja faktą su Lietuvos auksu ir pašalina neaiškų fragmentiškumą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies vyriausybė|Liaudies vyriausybė]]; mentioned_place: Lietuva; mentioned_place: Sniečkus; mentioned_place: Švedija; mentioned_place: Šveicarija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Švedija; mentioned_place: Šveicarija; mentioned_group: [[objektai/grupes/Liaudies vyriausybė|Liaudies vyriausybė]]; mentioned_place: Sniečkus'
   pagrindžia:
     - c-001
 - susijęs iš Švedija: Lietuvos auksas buvo pasisavintas tik iš Švedijos ir Šveicarijos bankuose saugotų atsargų.

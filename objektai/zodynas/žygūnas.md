@@ -25,6 +25,16 @@ atnaujinta: ''
   susije_objektai: 'mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]; mentioned_place: Pinskas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 191677-192077; hash=59553a9e6ec3a5cdb9d7aae2fa05696e9857acda954c8a8fb11fb3f37f17b7c3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> žygūnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: žygūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: žygūnai: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "žygūnas" parinktas kaip owner_note_path. Targetas "žygūnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185332"></a>
 - t-002
@@ -37,6 +47,16 @@ atnaujinta: ''
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 646709-647383; hash=8cd355083e74b7adc257af2a876dc13256cd8cedb8e294d10f14465ac17443b2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: žygūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "žygūnas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185333"></a>
 - t-003
@@ -46,9 +66,19 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta į vientisą sakinį be laužytų žodžių ir neaiškių fragmentų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]; mentioned_place: Lenkija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 741684-742048; hash=1adeb48ac93462acca83c434a83f45569afe7c1088427d946d5e376322ea7f80; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: žygūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "žygūnas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185334"></a>
 - t-004
@@ -61,6 +91,16 @@ atnaujinta: ''
   susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 949090-949591; hash=b2d2751b5353af0da78b494d690025e74e9b3804f9cbc8c91fa98201460e5b3b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: žygūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "žygūnas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185335"></a>
 - t-005
@@ -73,6 +113,16 @@ atnaujinta: ''
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Zaberezinskis|Zaberezinskis]]; mentioned_place: Berezina; mentioned_place: Bizantija; mentioned_place: Florencija; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 986937-987595; hash=c2273c701833c9a54a8e1658222cc3685e65884cefdb51aed3f5f870419d0535; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: žygūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "žygūnas" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185336"></a>
 - t-006
@@ -85,6 +135,16 @@ atnaujinta: ''
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1110451-1111077; hash=f130d9e9224814ce128f1ddd84b26a6e256ce78db7dbba5a482e8a16d7b30c46; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: žygūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "žygūnas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185337"></a>
 - t-007
@@ -97,9 +157,19 @@ atnaujinta: ''
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/popiežiaus legatas|popiežiaus legatas]]; mentioned_person: [[objektai/asmenys/Pisonas|Pisonas]]'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1115369-1115858; hash=7f9013e4e610b7b3c49b8e2c39afde8d76c3ec030b743f239fcc9321b15e1006; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: žygūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "žygūnas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184505|Kryžiuočių ordinas]]: 1409 m. kryžiuočių žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, grasindamas paskelbti Lietuvai karą.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių karo ultimatumas Lietuvai ir Lenkijai (1409 m.).md#claim-t-185593|Kryžiuočių karo ultimatumas Lietuvai ir Lenkijai (1409 m.)]]: Ordino žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, grasindamas Lietuvai atviru karu.
 - susijęs iš Maskva: Iki Maskvos kariuomenei buvo likę aštuoniolika mylių, kai žygūnas ją pralenkė tik keliomis valandomis.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių karo ultimatumas Lietuvai ir Lenkijai (1409 m.).md#claim-t-185593|Kryžiuočių karo ultimatumas Lietuvai ir Lenkijai (1409 m.)]]: Ordino žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, grasindamas Lietuvai atviru karu.
 - susijęs iš Možaiskas: Žygūnas per naktines pamaldas pranešė kunigaikščiui, kad priešą paliko Možaiske.
 - susijęs iš Žemaitija: Ordino žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, kitaip grasindamas paskelbti karą Lietuvai.
 ## Reikšmingi paminėjimai
@@ -155,6 +225,16 @@ atnaujinta: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 191677-192077; hash=59553a9e6ec3a5cdb9d7aae2fa05696e9857acda954c8a8fb11fb3f37f17b7c3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> žygūnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: žygūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: žygūnai: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "žygūnas" parinktas kaip owner_note_path. Targetas "žygūnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -176,6 +256,16 @@ atnaujinta: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 646709-647383; hash=8cd355083e74b7adc257af2a876dc13256cd8cedb8e294d10f14465ac17443b2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: žygūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "žygūnas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-004
@@ -199,6 +289,16 @@ atnaujinta: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 741684-742048; hash=1adeb48ac93462acca83c434a83f45569afe7c1088427d946d5e376322ea7f80; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: žygūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "žygūnas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-005
@@ -226,6 +326,16 @@ atnaujinta: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 949090-949591; hash=b2d2751b5353af0da78b494d690025e74e9b3804f9cbc8c91fa98201460e5b3b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: žygūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "žygūnas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-006
@@ -248,6 +358,16 @@ atnaujinta: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 986937-987595; hash=c2273c701833c9a54a8e1658222cc3685e65884cefdb51aed3f5f870419d0535; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: žygūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "žygūnas" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-006
 
 - c-007
@@ -271,4 +391,24 @@ atnaujinta: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1110451-1111077; hash=f130d9e9224814ce128f1ddd84b26a6e256ce78db7dbba5a482e8a16d7b30c46; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: žygūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "žygūnas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1115369-1115858; hash=7f9013e4e610b7b3c49b8e2c39afde8d76c3ec030b743f239fcc9321b15e1006; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: žygūnas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "žygūnas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

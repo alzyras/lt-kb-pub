@@ -36,6 +36,16 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė per trumpa, citata remia bibliografinį autorystės teiginį.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0a55799499611133110b2c73fc34733835d21b9cb4ebc75b86137d6f29ebfe2f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> L. Truska: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Truska L: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: L. Truska: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Truska L" parinktas kaip owner_note_path. Targetas "L. Truska" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-19484"></a>
 - t-002
@@ -45,6 +55,16 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
   susije_objektai: 'mentioned_author: [[objektai/autoriai/L. Truska|L. Truska]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a796dcd56800e0d4a352988dee45d3018aa88d3796324dc1685954bf164c5365; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antanas Smetona (Lietuvos prezidentas, XX a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Truska L: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): mention_match, person, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Truska L" parinktas kaip owner_note_path. Targetas "Antanas Smetona (Lietuvos prezidentas, XX a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -70,4 +90,24 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a796dcd56800e0d4a352988dee45d3018aa88d3796324dc1685954bf164c5365; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antanas Smetona (Lietuvos prezidentas, XX a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Truska L: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): mention_match, person, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Truska L" parinktas kaip owner_note_path. Targetas "Antanas Smetona (Lietuvos prezidentas, XX a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0a55799499611133110b2c73fc34733835d21b9cb4ebc75b86137d6f29ebfe2f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> L. Truska: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Truska L: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: L. Truska: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Truska L" parinktas kaip owner_note_path. Targetas "L. Truska" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

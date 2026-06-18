@@ -65,7 +65,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-10566
   teiginys: '1919 m. balandžio 3-8 d. lietuviai iš Kauno puolė Vilniaus link.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, veikėją, kryptį ir Kauną kaip puolimo pradžios vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Alytus; mentioned_place: Daugai; mentioned_place: Lentvaris; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Alytus; mentioned_place: Daugai; mentioned_place: Lentvaris'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veikėją, kryptį ir Kauną kaip puolimo pradžios vietą.'
@@ -88,7 +88,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-004
   global_id: t-10847
   teiginys: 'Kaunas buvo stipriausia lietuvių pilis ir kovose su Ordinu suvaidino svarbų vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Ignalinos atominė elektrinė; mentioned_place: Jonava; mentioned_place: Lietuva; mentioned_place: Mažeikiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Ignalinos atominė elektrinė; mentioned_place: Jonava; mentioned_place: Mažeikiai'
   temporaliniai_duomenys: 'įvykio data: 1960 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -113,6 +113,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   temporalinis_llm_pakomentavimas: 'Citata leidžia pateikti tikslesnį faktą apie kolegijos fundaciją.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 7528-7783; hash=625e247807f8b97d7c2140a1ec69b666054b1d3bb808634491340c27a6df3f3e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prienai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Prienai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Prienai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-12492"></a>
 - t-007
@@ -121,15 +131,35 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Trakai'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 780494-780727; hash=fa21704cf42b6e96b1257507d879b1ca139a7307595b4ee0b143eec1107058a2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179916"></a>
 - t-008
   global_id: t-179916
   teiginys: 'Vytauto valdymo metu Kaunas ir Polockas buvo du dideli prekybos centrai Lietuvoje.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiesiogiai paremtas citata apie prekybos centrus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-019
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=680e9eb217c3d5bc0be1c9a9b8d56c32cb531bed294d4c5625552a896ddef45b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-179917"></a>
 - t-009
@@ -160,12 +190,22 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179919
   teiginys: '1362 metais vokiečiai išgriovė Kauno pilį ir pradėjo brautis giliau į Lietuvą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1362 m.; įvykio data: 1368 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
   pagrindžia:
     - c-061
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7f4fc3c63a7d3659a1fcb73bd9c1388738f0edef45d318d1a58e2d8159a210a4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pranciškonų ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: mention_match, group, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179920"></a>
 - t-012
@@ -184,7 +224,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179921
   teiginys: 'Aukštieji kursai Kaune peraugo į Lietuvos universitetą, atidarytą 1922 m. vasario 16 d.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys apie Kaune veikusius Aukštuosius kursus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rytas|Rytas]]'
   temporaliniai_duomenys: 'įvykio data: 1919 m.; įvykio data: 1922 m.; įvykio data: 1924 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys apie Kaune veikusius Aukštuosius kursus.'
@@ -208,7 +248,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179923
   teiginys: 'Valdant Gediminui ar Algirdui Kauno pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.'
   sudarymo_pagrindimas: 'Reikia sutelkti teiginį į Kauną ir sutrumpinti sąrašą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kauno pilis; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_place: Kauno pilis; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Voluinė'
   pagrindžia:
     - c-039
 
@@ -235,7 +275,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179927
   teiginys: 'Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, greitosiomis kūrė Lietuvos karines pajėgas.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako vyriausybės pasitraukimą į Kauną ir karinių pajėgų kūrimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-049
 
@@ -244,7 +284,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179928
   teiginys: 'Lapkričio 15 d. Kaune ant Ernesto Galvanausko miegamojo palangės sprogo bomba, o sužeistas Galvanauskas liko gyvas.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako įvykį Kaune ir jo rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Bomba|Bomba]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bomba|Bomba]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   pagrindžia:
     - c-033
 
@@ -253,7 +293,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179929
   teiginys: 'Kaune lietuviai konstravo ir statė karo bei sporto lėktuvus, įskaitant lengvuosius bombonešius, ir gamino sportinius sklandytuvus.'
   sudarymo_pagrindimas: 'Pradinis sakinys pernelyg ilgas, todėl sutrumpintas nekeičiant prasmės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Sklandytuvai|Sklandytuvai]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Sklandytuvai|Sklandytuvai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Europa'
   temporaliniai_duomenys: 'įvykio data: 1934 m.; įvykio data: 1937 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys pernelyg ilgas, todėl sutrumpintas nekeičiant prasmės.'
@@ -265,7 +305,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179930
   teiginys: '1384 m. vasarą Kauno vietoje buvo pastatyta tvirčiausia priešo žemėje mūrinė Marienwerderio pilis.'
   sudarymo_pagrindimas: 'Pašalinta perteklinė kontekstinė pradžia.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Mūrinė pilis|Mūrinė pilis]]; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūrinė pilis|Mūrinė pilis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Nemunas'
   temporaliniai_duomenys: 'pastatymo data: 1384 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta perteklinė kontekstinė pradžia.'
@@ -277,7 +317,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179931
   teiginys: 'Vytauto valdymo metu vokiečių pirkliai Kaune turėjo miesto svarstykles, malūną, audimo ir vaško apdirbimo dirbtuves.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje išvardytus vokiečių pirklių objektus Kaune.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių pirkliai|Vokiečių pirkliai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių pirkliai|Vokiečių pirkliai]]'
   pagrindžia:
     - c-031
 
@@ -298,7 +338,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179933
   teiginys: '1916 m. birželį Lietuvos apskritis su centru Kaune buvo suvienyta su Vilniaus apskritimi.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie administracinį vienetą su centru Kaune.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Oberostas|Oberostas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Paulius fon Hindenburgas|Paulius fon Hindenburgas]]; mentioned_person: [[objektai/asmenys/Ėrichas Liudendorfas|Ėrichas Liudendorfas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Oberostas|Oberostas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Paulius fon Hindenburgas|Paulius fon Hindenburgas]]; mentioned_person: [[objektai/asmenys/Ėrichas Liudendorfas|Ėrichas Liudendorfas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1915 m.; įvykio data: 1916 m.; įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie administracinį vienetą su centru Kaune.'
@@ -310,7 +350,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179934
   teiginys: '1943 m. kovo viduryje gestapas, keršydamas už boikotą, uždarė Kauno ir Vilniaus universitetus.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys apie Kauno universiteto uždarymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija; mentioned_place: Štuthofas'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vokietija; mentioned_place: Štuthofas'
   temporaliniai_duomenys: 'įvykio data: 1943 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys apie Kauno universiteto uždarymą.'
@@ -322,7 +362,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179935
   teiginys: '1412 m. gruodį Makra, vykdamas per Ragainę ir Kauną, Kalėdoms pasiekė Vytauto pilį Trakuose.'
   sudarymo_pagrindimas: 'Pašalintas kontekstinis fragmentiškumas ir išnašos triukšmas.'
-  susije_objektai: 'mentioned_place: Marienburgas; mentioned_place: Ragainė; mentioned_place: Salos; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_place: Trakai; mentioned_place: Marienburgas; mentioned_place: Ragainė; mentioned_place: Salos'
   temporaliniai_duomenys: 'įvykio data: 1412 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas kontekstinis fragmentiškumas ir išnašos triukšmas.'
@@ -343,7 +383,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179938
   teiginys: 'Tarpukariu Kaune buvo projektuojami ir gaminami lėktuvai, o Lietuvos vyrų krepšininkai 1937 ir 1939 m. laimėjo Europos čempionatus.'
   sudarymo_pagrindimas: 'Pirminis teiginys prasideda kontekstiniu fragmentu ir nėra savarankiškas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]'
   temporaliniai_duomenys: 'įvykio data: 1939 m.; įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys prasideda kontekstiniu fragmentu ir nėra savarankiškas.'
@@ -354,11 +394,21 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - t-030
   global_id: t-179941
   teiginys: '1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis užimtame Kaune per radiją paskelbė apie Lietuvos valstybės atkūrimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-017
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=09edb8737901d04751a42cbc53a4f380c025abe8c1482d8fef4021db432d4faa; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=100
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179942"></a>
 - t-031
@@ -367,6 +417,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-028
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=258bef618a9cd6582f66511e507956b175034bbdcaebbcba3bd7f2a35710d437; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kauno pilis (pilis): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kauno pilis (pilis): mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Kauno pilis (pilis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179943"></a>
 - t-032
@@ -379,6 +439,9 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai pagrįstas citata apie Romo Kalantos veiksmą Kaune.'
   pagrindžia:
     - c-057
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 88416-88608; hash=007d5ed26ce1e2c31e5e44e92c281b37b69583841d30e1a41ac756c7d5d3e01c; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 <a id="claim-t-179944"></a>
 - t-033
@@ -388,6 +451,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e3efad5a98a0c847d6d314fa294fbaa6f05881e560a1b10fcf12306e10733fd3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179946"></a>
 - t-034
@@ -400,6 +473,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys per ilgas, nutrūksta ir turi kelių faktų sankaupą.'
   pagrindžia:
     - c-067
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=666dd309bb44c1e89855d9152f922109af7b13161d5e9e613e1f31ab3c0e80a5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179947"></a>
 - t-035
@@ -412,6 +495,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūksta ir turi ilgą pašalinį sąrašą.'
   pagrindžia:
     - c-040
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 151718-151883; hash=f0204ffa54b6877546586dc1a9f1b3bad5a047d82d162b975c7786514aca19cf; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pažaislio vienuolyno ansamblis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pažaislio vienuolyno ansamblis: mention_match, place, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Pažaislio vienuolyno ansamblis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-179948"></a>
 - t-036
@@ -421,6 +514,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_person: [[objektai/asmenys/Augustinas Voldemaras|Augustinas Voldemaras]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Ženeva'
   pagrindžia:
     - c-063
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=651b4c24adc9cf5f22e426e8c08b325aeb741bf40f33cfdea3756bcba869432a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-179951"></a>
 - t-037
@@ -430,6 +533,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-024
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=15c9f1056211c8dc671fd06b6561b7d5ce9134eeed2993ff134982fd38691953; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-179953"></a>
 - t-038
@@ -442,25 +555,45 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas; citata palaiko glaustesnį sakinį.'
   pagrindžia:
     - c-015
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2d45fecc4e657418529ffa4230c79b71dcfeb8bf0a1d59dcfdc2855e50b9baca; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Austrija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-179957"></a>
 - t-039
   global_id: t-179957
   teiginys: '1919 m. rugsėjo 26 d. tūkstančiai žmonių Kaune susirinko prie rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.'
   sudarymo_pagrindimas: 'Pirminiame teiginyje praleista rotušė ir per daug konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Didžioji Britanija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_place: Didžioji Britanija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminiame teiginyje praleista rotušė ir per daug konteksto.'
   pagrindžia:
     - c-014
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e98137d7a84471c26b8aa25f4161691f31cf8d5bcb12bb52364c1b1de7c3f871; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179958"></a>
 - t-040
   global_id: t-179958
   teiginys: '1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir ėmė siaubti kraštą.'
   sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Konradas Ciolneris Rotenšteinas|Konradas Ciolneris Rotenšteinas]]; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Konradas Ciolneris Rotenšteinas|Konradas Ciolneris Rotenšteinas]]; mentioned_place: Prūsija; mentioned_place: Vengrija'
   temporaliniai_duomenys: 'įvykio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, gramatiškas ir tiksliai paremtas citata.'
@@ -472,7 +605,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179959
   teiginys: 'Jablonskis „XVI amžiaus inventorius“ parengė atrinkęs aktus iš Centrinio Valstybės Archyvo Kaune ir kitų Lietuvos archyvų.'
   sudarymo_pagrindimas: 'Reikia sklandesnės enciklopedinės formuluotės.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]'
   pagrindžia:
     - c-037
 
@@ -483,6 +616,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir nurodo Kauno Įgulos bažnyčios sovietinį pritaikymą.'
   pagrindžia:
     - c-052
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=40cf5e43f9979845b95c62e838afe5b4e3fbc2b33f6612f042a76187666fc6c4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Didžioji Britanija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Didžioji Britanija: mention_match, place, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Didžioji Britanija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179961"></a>
 - t-043
@@ -495,6 +638,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir nurodo 1938 m. Kaune vykusią tautinę olimpiadą.'
   pagrindžia:
     - c-038
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0c11d37ec92e0a7e68b2e1b638e5e92f8df7956697a478f9555d798085f24782; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bomba: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bomba: mention_match, thing, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Bomba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179962"></a>
 - t-044
@@ -507,6 +660,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-043
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 295544-295887; hash=e81e5b19fbac3da60e8313e29e67b31b3200008001c70a9a17f6ad11c8f523d0; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-179963"></a>
 - t-045
@@ -527,24 +690,54 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   sudarymo_pagrindimas: 'Pirminis teiginys yra sulaužytas ir gramatiškai netaisyklingas.'
   pagrindžia:
     - c-029
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0a2e4c919743747cc0b1a932d26103dd6df471287f525a6166a4be0fb2d35f97; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Voldemaras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: A. Voldemaras: mention_match, person, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "A. Voldemaras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179966"></a>
 - t-047
   global_id: t-179966
   teiginys: 'Kaunas senovėje buvo laikomas vartais į pagoniškąją Lietuvą ir garsėjo tvirtovėmis bei prekyba.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, pradinė formuluotė pažeista OCR.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Haličas; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Haličas; mentioned_place: Prūsija'
   pagrindžia:
     - c-071
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fcd37c0f457e3ecbbbd3b8a5ce560611aad8cc4f6ddd737d97925e2c4e1b3a4a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179968"></a>
 - t-048
   global_id: t-179968
   teiginys: 'Pasak senos tradicijos, Vytautas už išsigelbėjimą įkūrė pranciškonų vienuolynus Kaune ir Ašmenoje.'
   sudarymo_pagrindimas: 'Įvardis pakeistas vardu, pašalintas OCR triukšmas ir paliktas paremtas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ašmena'
+  susije_objektai: 'mentioned_place: Ašmena; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
   pagrindžia:
     - c-054
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6071409ffb87faa77e173cd4f2b69609dfda2969b3914111517bf0256db4133a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-179969"></a>
 - t-049
@@ -555,6 +748,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-016
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 349137-349623; hash=65ceaf0d73585cf5c8b98e6334dc021e9ae211d02f1eeda72dd6cd81cde1c429; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179970"></a>
 - t-050
@@ -567,6 +770,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   temporalinis_llm_pakomentavimas: 'Patikslintas veikėjas ir pašalinta neaiški formuluotė „tą darbą“.'
   pagrindžia:
     - c-026
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e993ce331278d1831564d4865fc0072471cb73a5ecd16459cb449c09e145780a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-179971"></a>
 - t-051
@@ -576,25 +789,45 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-045
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 351364-351720; hash=a460eb47c4f7da87d1b4f523358837cbf82fb34fe8dfcd192046a3d0fe156ca2; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-179972"></a>
 - t-052
   global_id: t-179972
   teiginys: '1388 m. ties Kaunu buvo sudaryta taikos sutartis tarp Ordino maršalo Engelhardo Rabės ir Lietuvos.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo sutarties šalis, vietą ir metus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Polockas'
   temporaliniai_duomenys: 'sutarties data: 1388 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo sutarties šalis, vietą ir metus.'
   pagrindžia:
     - c-025
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=75db22e7d17a2682ecc43cf1602b83fcdb0df0ee9dd53f88358a07eadc5f5a01; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179973"></a>
 - t-053
   global_id: t-179973
   teiginys: '1941 m. birželio 23 d. užėmus Kauno radiją, LAF atstovas Leonas Prapuolenis paskelbė apie Lietuvos valstybės atkūrimą.'
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs citatos fragmentas ir teiginys perrašytas į aiškų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas nutrūkęs citatos fragmentas ir teiginys perrašytas į aiškų faktą.'
@@ -609,6 +842,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8db8fa8c2304bb84c8069d258e25457aaa2d14fa3e95dc5974e08a2b8d8311ba; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179975"></a>
 - t-055
@@ -618,15 +861,35 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-051
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d0f4122067a3c01f7164fc8aaa2807f7740afaced15af1c8193dab5f3ea92a11; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-179976"></a>
 - t-056
   global_id: t-179976
   teiginys: 'Po santykių su Lenkija sunormavimo buvo atstatytos Kauno ir kitos ordino pasienyje sugriautos pilys.'
   sudarymo_pagrindimas: 'Neaiškus įvardis pakeistas pasyvia, citata paremta formuluote.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Lenkija; mentioned_place: Salynas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lenkija; mentioned_place: Salynas'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=09366e6242d1e779ca36c14b9ce3d0cac0ca7bb8ac8754c259c6ef720be0fd70; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179977"></a>
 - t-057
@@ -639,6 +902,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti veikėją ir laiką.'
   pagrindžia:
     - c-048
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=92a331d50712855eb1ae6b512b9612fbe7f083409f32cf13dd1b4001838bc693; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179978"></a>
 - t-058
@@ -647,15 +920,35 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-059
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 405040-405419; hash=5df02139047012ef4da3a2976776a5aab5e16a8e4fb23112102163d15be275e4; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žydai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179979"></a>
 - t-059
   global_id: t-179979
   teiginys: '1385 metų rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Konradas Ciolneris Rotenšteinas|Konradas Ciolneris Rotenšteinas]]; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Konradas Ciolneris Rotenšteinas|Konradas Ciolneris Rotenšteinas]]; mentioned_place: Prūsija; mentioned_place: Vengrija'
   pagrindžia:
     - c-064
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 150849-151107; hash=096e336f40b5523559e8c8926d20d45b1b5c19d60fe63f8dbc424c7eb8f4aa4e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kauno pilis (pilis): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kauno pilis (pilis): mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Kauno pilis (pilis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179980"></a>
 - t-060
@@ -683,7 +976,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179982
   teiginys: 'Vytauto laikais Kaunas kartu su Vilniumi ir Trakais išryškėjo kaip Lietuvos gotikos epicentro dalis.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir apima daug šalutinių vietovių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Palenkė; mentioned_place: Voluinė'
   pagrindžia:
     - c-044
 
@@ -710,6 +1003,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys turi perteklinių vertinamųjų žodžių.'
   pagrindžia:
     - c-022
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ce6152d4b783b7bba1196e49e6d243ee7971edce84077b1fd25d87df1698f9e2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179985"></a>
 - t-065
@@ -722,13 +1025,23 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   temporalinis_llm_pakomentavimas: 'Sutrumpinta ir pašalinta sunkiasvorė sakinio konstrukcija.'
   pagrindžia:
     - c-056
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d0b02269bff649abbd1e7c96d66f223660e274aa723c85a257b251cf58b7037a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Merkinė: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=27
+  ryšio_targeto_parinkimas: Merkinė: nearest_after_predicate, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Merkinė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179988"></a>
 - t-066
   global_id: t-179988
   teiginys: '1382 m. birželio pabaigoje kryžiuočiai sunaikino Kauno apylinkėje ant Neries kranto stovėjusią Eigulių pilį.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir paverstas aiškia faktine sakinio forma.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Eiguliai; mentioned_place: Kaimas'
+  susije_objektai: 'mentioned_place: Eiguliai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Kaimas'
   temporaliniai_duomenys: 'įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir paverstas aiškia faktine sakinio forma.'
@@ -746,6 +1059,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūksta; citata leidžia išskirti aiškų faktą apie Kauną.'
   pagrindžia:
     - c-030
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 516004-516290; hash=82811b11ab77e8f9870e3cfa00fe075247d073e83a8df7b6ac7644dc12a167b8; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179990"></a>
 - t-068
@@ -767,6 +1090,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra OCR ir turinio fragmentų kratinys, bet citata pagrindžia spaustuvės vietą.'
   pagrindžia:
     - c-042
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=37a5547fc37c10c4aea0c2fbc82d695a25b234fbc0db47860be71af8af8b29d4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vokiečiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179992"></a>
 - t-070
@@ -776,6 +1109,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   susije_objektai: 'mentioned_place: Pažaislio vienuolyno ansamblis; mentioned_place: Vilnius'
   pagrindžia:
     - c-062
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=85abe385e71e3aeb597beb475ff15fb9d6aecf1a47415b71accec1bde98b2dec; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Malūnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Malūnas: mention_match, thing, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Malūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179993"></a>
 - t-071
@@ -803,6 +1146,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-034
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 41531-42075; hash=e4cb7ddf6db61557dd170c9a2b4b990e32fb914e45d8f3d313837ec62c958ee4; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179996"></a>
 - t-074
@@ -815,6 +1168,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir faktinis, tiesiogiai susijęs su Kaune vykusiu teismu.'
   pagrindžia:
     - c-068
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 113634-114215; hash=1768a18f30d457693b9fc4c72beb0906e1a38a35dc323e42ec487b77de8b1792; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179998"></a>
 - t-076
@@ -833,7 +1196,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179999
   teiginys: '1413 metų rudenį Vytautas ir Jogaila Nemunu keliavo iš Merkinės į Kauną, o iš Kauno plaukė iki Dubysos.'
   sudarymo_pagrindimas: 'Teiginys pilnai perteikia citatoje aprašytą kelionės maršrutą.'
-  susije_objektai: 'location: Merkinė; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Merkinė; mentioned_place: Nemunas'
+  susije_objektai: 'location: Merkinė; mentioned_place: Dubysa; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Merkinė; mentioned_place: Nemunas'
   pagrindžia:
     - c-032
 
@@ -845,9 +1208,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Paliktas citatos remiamas faktas be autoriaus boilerplate.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Nevėžis'
+  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Lietuva; mentioned_place: Nevėžis'
   pagrindžia:
     - c-072
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=25b0f7a08834850ef7119ce42a75c59973c582ed6668f3506bddbd9be7655cf7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hanza: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Hanza: mention_match, group, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Hanza" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184975"></a>
 - t-081
@@ -863,6 +1236,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-073
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 270005-270860; hash=bc36f2624b0cc7a6273b7f1da6a101087ae7f8a0b564c56da0548d26508c124f; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184976"></a>
 - t-082
@@ -875,6 +1258,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija; mentioned_place: Ragainė'
   pagrindžia:
     - c-074
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 349137-349623; hash=65ceaf0d73585cf5c8b98e6334dc021e9ae211d02f1eeda72dd6cd81cde1c429; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184977"></a>
 - t-083
@@ -884,9 +1277,19 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-075
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=affea543c4162d7272e06b6763dce57c86cd71b1c44ad69cdcbe815fd73ffbed; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184978"></a>
 - t-084
@@ -899,6 +1302,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-076
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2c555cd43376da7c00759cfbe84aa5f93fff6e79db9c820be8760c541615d0f2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ignalinos atominė elektrinė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ignalinos atominė elektrinė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Ignalinos atominė elektrinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184979"></a>
 - t-085
@@ -911,6 +1324,9 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   susije_objektai: 'mentioned_place: Ašmena; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Starodubas'
   pagrindžia:
     - c-077
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8ad198140306ba260771e0818686dce5ec9e0eeeed581dea8ef503d0372a6812; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-184980"></a>
 - t-086
@@ -923,6 +1339,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-078
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 256520-256797; hash=92c8cebc82a32fac64ccd893ddf6ae17e4c92da5f95123b9f79c411f0e771ab0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Salynas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Salynas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Salynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184981"></a>
 - t-087
@@ -932,28 +1358,261 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie karaliaus buvimą Kaune.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Vilnius; mentioned_place: Lietuva'
   pagrindžia:
     - c-079
-- susijęs iš [[objektai/daiktai/Bombardos.md#claim-t-113458|Bombardos]]: 1384 m. rudenį Jogaila ir Vytautas su bombardomis apgulė Kauno Marienwerderį.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 689807-690475; hash=8067db089f246b467b965cbdcbc93fb11aa2b7cfcdc95d5bc2bd6396860b3948; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116693|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116696|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
+- susijęs iš [[objektai/daiktai/Bombardos.md#claim-t-113458|Bombardos]]: 1384 m. rudenį Jogaila ir Vytautas su bombardomis apgulė Kauno Marienwerderį.
+- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54936|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
+- susijęs iš [[objektai/asmenys/Antanas Gustaitis.md#claim-t-183524|Antanas Gustaitis]]: Antanas Gustaitis nuo 1934 m. vadovavo Lietuvos karo aviacijai ir sukonstravo ANBO lėktuvų seriją, kurios 66 lėktuvai pastatyti Kauno karo aviacijos dirbtuvėse.
+- susijęs iš [[objektai/asmenys/Antanas Gustaitis.md#claim-t-75691|Antanas Gustaitis]]: Antanas Gustaitis sukonstravo lengvąjį bombonešį ANBO VIII, 1939 m. pagamintą Kauno aviacijos dirbtuvėse.
+- susijęs iš [[objektai/asmenys/Antanas Gustaitis.md#claim-t-75693|Antanas Gustaitis]]: Antanas Gustaitis sukonstravo lengvąjį bombonešį ANBO VIII, 1939 m. pagamintą Kauno aviacijos dirbtuvėse.
+- susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75695|Antanas Mackevičius]]: Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.
+- susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75698|Antanas Mackevičius]]: Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.
+- susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75702|Antanas Mackevičius]]: Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.
+- susijęs iš [[objektai/asmenys/Antanas Šukys.md#claim-t-40033|Antanas Šukys]]: Savanoris Antanas Šukys, mokydamasis Kauno Karužų mokykloje, prisiminė, kaip buvo renkami kariai per Jiezną besiveržusiai Raudonajai armijai sulaikyti.
+- susijęs iš [[objektai/asmenys/Boucicaut.md#claim-t-87490|Boucicaut]]: Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno.
+- susijęs iš [[objektai/asmenys/E. Adamkavičius.md#claim-t-40092|E. Adamkavičius]]: Plk. ltn. E. Adamkavičius vadovavo Kauno batalionui Varnionių-Daugėlaičių-Šiaulėnų atkarpoje.
+- susijęs iš [[objektai/asmenys/Emmanuel Levinas.md#claim-t-18885|Emmanuel Levinas]]: Filosofas Emmanuelis Levinas gimė Kaune ir ten baigė gimnaziją.
+- susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184431|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė 1388 m. buvo taikos sutarties su Lietuva, sudarytos ties Kaunu, šalis.
+- susijęs iš [[objektai/asmenys/J. Butkus.md#claim-t-40153|J. Butkus]]: J. Butkus vadovavo 200 karių rinktinei, kurią įsakyta iš Kauno išsiųsti į Prienus S. Zaskevičiaus žinion.
+- susijęs iš [[objektai/asmenys/Jonas Mačiulis-Maironis.md#claim-t-63723|Jonas Mačiulis-Maironis]]: Jonas Mačiulis-Maironis tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis.
+- susijęs iš [[objektai/asmenys/Juozas Tumas-Vaižgantas.md#claim-t-63766|Juozas Tumas-Vaižgantas]]: Juozas Tumas-Vaižgantas tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis.
+- susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19026|Juozas Urbšys]]: Juozui Urbšiui prireikė skristi į Kauną konsultuotis, nes sovietai reikalavo įsileisti į Lietuvą savo karines bazes.
+- susijęs iš [[objektai/asmenys/Konradas Ciolneris Rotenšteinas.md#claim-t-87439|Konradas Ciolneris Rotenšteinas]]: 1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas su didelėmis pajėgomis persikėlė per Nemuną ties Kaunu ir niokojo kraštą.
+- susijęs iš [[objektai/asmenys/Konradas Wallenrodas.md#claim-t-30334|Konradas Wallenrodas]]: Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį į Lietuvą ir rugsėjo 1 d. prie Kauno Nemuno saloje iškėlė išskirtinę puotą svečiams pilgrimams.
+- susijęs iš [[objektai/asmenys/Mendli Girėjus.md#claim-t-87443|Mendli Girėjus]]: Aleksandras siekė suimti ir įbauginti Mendli Girėjų, todėl Šach Achmedas buvo iki gyvos galvos įkalintas Kaune.
+- susijęs iš [[objektai/asmenys/Mykolas Küchmeisteris.md#claim-t-176560|Mykolas Küchmeisteris]]: Ordino pasiuntinys Mykolas Küchmeisteris dalyvavo 1413 m. Kauno saloje sušauktame Žemaitijos sienų suvažiavime.
+- susijęs iš [[objektai/asmenys/Mykolas Sleževičius.md#claim-t-75992|Mykolas Sleževičius]]: Mykolo Sleževičiaus vyriausybė 1918 m. pasitraukė iš Vilniaus į Kauną.
+- susijęs iš [[objektai/asmenys/Petras Kubiliūnas.md#claim-t-19193|Petras Kubiliūnas]]: Petras Kubiliūnas 1934 m. vadovavo dalinių išvedimui į Kauno gatves, laikytam pavojingiausiu voldemarininkų pučo bandymu.
+- susijęs iš [[objektai/asmenys/Polis Himansas.md#claim-t-183562|Polis Himansas]]: Polis Himansas per tris savaites parengė Lietuvos federacinės valstybės iš Kauno ir Vilniaus kantonų projektą pagal Šveicarijos pavyzdį.
+- susijęs iš [[objektai/asmenys/Polis Himansas.md#claim-t-64039|Polis Himansas]]: Polis Himansas per tris savaites parengė Lietuvos federacinės valstybės iš Kauno ir Vilniaus kantonų projektą pagal Šveicarijos pavyzdį.
+- susijęs iš [[objektai/asmenys/Povilas Sapiega.md#claim-t-79154|Povilas Sapiega]]: Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną.
+- susijęs iš [[objektai/asmenys/Romas Kalanta.md#claim-t-183564|Romas Kalanta]]: 1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu, sušuko „Laisvę Lietuvai!“, pasidegė ir mirė ligoninėje.
+- susijęs iš [[objektai/asmenys/Romas Kalanta.md#claim-t-46288|Romas Kalanta]]: Romas Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą.
+- susijęs iš [[objektai/asmenys/Sungaila.md#claim-t-30386|Sungaila]]: Sungaila buvo Kauno seniūnas ir vienas iš Žalgirio kautynių vadų.
+- susijęs iš [[objektai/asmenys/V. Landsbergis-Žemkalnis.md#claim-t-78038|V. Landsbergis-Žemkalnis]]: V. Landsbergis-Žemkalnis buvo Kaune stovėjusio „Pienocentro“ pastato architektas.
+- susijęs iš [[objektai/asmenys/Vaitiekus Janavičius.md#claim-t-87874|Vaitiekus Janavičius]]: Vaitiekus Janavičius 1507 m. Melnike buvo paminėtas kaip karališkasis rūmininkas ir Kauno seniūnas.
+- susijęs iš [[objektai/asmenys/Vaižgantas.md#claim-t-78080|Vaižgantas]]: Vaižgantas buvo vienas iš lietuvių literatūros klasikų, minėtų kaip dar vaikščiojusių Kauno gatvėmis.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176721|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų.
+- susijęs iš [[objektai/asmenys/Zigmantas Sierakauskas.md#claim-t-64424|Zigmantas Sierakauskas]]: Zigmantas Sierakauskas parengė sukilėlių kovos planą, numatantį sujungti Kauno gubernijos sukilėlių pajėgas.
+- susijęs iš [[objektai/autoriai/A. Alekna.md#claim-t-64502|A. Alekna]]: A. Alekna, remdamasis Kauno vyskupijos kurijos archyvine medžiaga, 1923 m. išleido veikalą „Žemaičių vysk. M. Valančius“.
+- susijęs iš [[objektai/autoriai/A. Alekna.md#claim-t-64506|A. Alekna]]: A. Alekna parašė „Katalikų Bažnyčia Lietuvoje“, išleistą Kaune 1936 m.
+- susijęs iš [[objektai/autoriai/Al'-Idrisi.md#claim-t-30556|Al''-Idrisi]]: Al''-Idrisi, remdamasis pirklių, keliautojų ir piligrimų žiniomis, „Rogero knygoje“ minėjo rytų Pabaltijį ir galimai Kauną.
+- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojelavičius.md#claim-t-184460|Albertas Vijūkas-Kojelavičius]]: Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.
+- susijęs iš [[objektai/autoriai/Algimantas Daugirdas.md#claim-t-39848|Algimantas Daugirdas]]: Algimantas Daugirdas gimė 1949 m., o 1972 m. baigė KTU, tuometinį Kauno politechnikos institutą.
+- susijęs iš [[objektai/autoriai/Andziulytė-Ruginienė, M.md#claim-t-29300|Andziulytė-Ruginienė, M]]: M. Andziulytė-Ruginienė 1937 m. Kaune paskelbė darbą „Žemaičių christianizacijos pradžia“.
+- susijęs iš [[objektai/autoriai/I. Lappo.md#claim-t-100107|I. Lappo]]: I. Lappo 1934 m. Kaune išleido veikalo „1588 Lietuvos Statutas“ pirmojo tomo pirmąją dalį.
+- susijęs iš [[objektai/autoriai/J. Jakubovskis.md#claim-t-30674|J. Jakubovskis]]: J. Jakubovskio „Tautybių santykiai Lietuvoje prieš Liublino uniją“ išėjo Kaune 1921 m.
+- susijęs iš [[objektai/autoriai/J. Puzinas.md#claim-t-64642|J. Puzinas]]: J. Puzinas 1938 m. Kaune paskelbė darbą „Naujausių proistorinių tyrinėjimų duomens“.
+- susijęs iš [[objektai/autoriai/J. Talmantas.md#claim-t-64648|J. Talmantas]]: J. Talmantas redagavo 1935 m. Kaune išleistą Simono Daukanto veikalą „Būdas senovės lietuvių Kalnėnų ir Žemaičių“.
+- susijęs iš [[objektai/autoriai/J. Totoraitis.md#claim-t-64650|J. Totoraitis]]: J. Totoraitis parašė „Sūduvos-Suvalkijos istorijos“ pirmą tomą, išleistą Kaune 1938 m.
+- susijęs iš [[objektai/autoriai/Juozas Tumas (Vaižgantas).md#claim-t-19412|Juozas Tumas (Vaižgantas)]]: Vaižgantas buvo vienas iš lietuvių literatūros klasikų, tarpukariu dar gyvenusių Kaune.
+- susijęs iš [[objektai/autoriai/Kučinskas, A.md#claim-t-30774|Kučinskas, A]]: A. Kučinskas nurodomas 1934 m. Kaune paskelbto teksto „Gedimino dinastijos kilmė“ autoriumi.
+- susijęs iš [[objektai/autoriai/Lindenblattas Joannes von der Pusilie.md#claim-t-88027|Lindenblattas Joannes von der Pusilie]]: Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.
+- susijęs iš [[objektai/autoriai/Lindenblattas Johannes Lindenblatt.md#claim-t-87979|Lindenblattas Johannes Lindenblatt]]: Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.
+- susijęs iš [[objektai/autoriai/Maironis.md#claim-t-125059|Maironis]]: Maironis buvo vienas lietuvių literatūros klasikų, tuo metu dar vaikščiojusių Kauno gatvėmis.
+- susijęs iš [[objektai/autoriai/Mickevičius.md#claim-t-05717|Mickevičius]]: Adomas Mickevičius buvo ištremtas į Rusiją, kai jau buvo mokytojas Kaune ir palaikė glaudžius ryšius su studentais.
+- susijęs iš [[objektai/autoriai/P. Tarasenka.md#claim-t-71551|P. Tarasenka]]: P. Tarasenka 1929 m. Kaune išleido veikalą „Lietuvos archeologijos medžiaga“.
+- susijęs iš [[objektai/autoriai/St. Yla.md#claim-t-31000|St. Yla]]: St. Yla 1938 m. Kaune paskelbė veikalą „Krikščionybės įvedimas Lietuvoje“.
+- susijęs iš [[objektai/autoriai/V. Černeckis.md#claim-t-31055|V. Černeckis]]: V. Černeckis rašė apie kapitalistinės pramonės formavimąsi Kaune 1861–1913 m.
+- susijęs iš [[objektai/autoriai/Vileišis V.md#claim-t-62662|Vileišis V]]: V. Vileišis yra 1935 m. Kaune išleisto veikalo „Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje“ autorius.
+- susijęs iš [[objektai/autoriai/Wagner, K.md#claim-t-31076|Wagner, K]]: K. Wagneris 1933 m. „Naujojoje Romuvoje“ paskelbė darbą „Vokiečių ordino pilys Kauno apylinkėje“.
+- susijęs iš [[objektai/daiktai/ANBO lėktuvai.md#claim-t-13449|ANBO lėktuvai]]: ANBO šaltinyje aiškinamas kaip lėktuvų projektavimo ir gamybos Kaune ženklas.
+- susijęs iš [[objektai/daiktai/ANBO lėktuvai.md#claim-t-13450|ANBO lėktuvai]]: Antanas Gustaitis sukonstravo ANBO seriją, o Kauno karo aviacijos dirbtuvėse pastatyti 66 tokie lėktuvai.
+- susijęs iš [[objektai/daiktai/ANBO lėktuvai.md#claim-t-13451|ANBO lėktuvai]]: ANBO VIII buvo Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse 1939 m. pagamintas lengvasis bombonešis.
+- susijęs iš [[objektai/daiktai/ANBO lėktuvai.md#claim-t-23269|ANBO lėktuvai]]: ANBO siejamas su lėktuvų projektavimu ir gamyba Kaune kaip vienu iš Lietuvos Respublikos civilizacinių pasiekimų.
+- susijęs iš [[objektai/daiktai/Bombardos.md#claim-t-113458|Bombardos]]: 1384 m. rudenį Jogaila ir Vytautas su bombardomis apgulė Kauno Marienwerderį.
+- susijęs iš [[objektai/daiktai/Dariaus ir Girėno mauzoliejus Kaune.md#claim-t-77922|Dariaus ir Girėno mauzoliejus Kaune]]: Dariaus ir Girėno mauzoliejus Kaune buvo pastatytas lakūnams kaip didvyriams, naikintas per nacių okupaciją ir baigtas naikinti sovietmečiu.
+- susijęs iš [[objektai/daiktai/Ginklai ir ginkluotė.md#claim-t-183296|Ginklai ir ginkluotė]]: 1920 m. bolševikai iš RSFSR atsiuntė apie 2 000 diversantų, nelegaliai gabeno ginklus ir steigė jų sandėlius Kaune bei kituose miestuose.
+- susijęs iš [[objektai/daiktai/Mūro pilys.md#claim-t-19571|Mūro pilys]]: Gedimino ar Algirdo valdymo laikais aplink valstybės branduolį buvo sukurta mūro pilių sistema: Medininkai, Krėva, Lyda, Trakai, Gardinas ir Kaunas.
+- susijęs iš [[objektai/daiktai/Pramonės ir prekybos rūmai Kaune.md#claim-t-25169|Pramonės ir prekybos rūmai Kaune]]: Pramonės ir prekybos rūmų Kaune architektas buvo V. Landsbergis-Žemkalnis; objektas datuojamas 1938 m.
+- susijęs iš [[objektai/daiktai/Prisikėlimo bažnyčia Kaune.md#claim-t-26412|Prisikėlimo bažnyčia Kaune]]: Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią religinę ir tautinę dvasią.
+- susijęs iš [[objektai/daiktai/„Pienocentro“ pastatas Kaune.md#claim-t-71580|„Pienocentro“ pastatas Kaune]]: „Pienocentro“ pastatas Kaune buvo užfiksuotas apie 1938 m.
+- susijęs iš [[objektai/grupes/Hanza.md#claim-t-10757|Hanza]]: Hanza Kaune ir Polocke įsteigė savo agentūras, vadintas pirklių kontoromis.
+- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116693|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
+- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116696|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
+- susijęs iš [[objektai/grupes/Kauno jėzuitų kolegija.md#claim-t-86798|Kauno jėzuitų kolegija]]: 1746 m. Kazimieras ir Mykolas Vežbickiai nupirko sklypus Užupyje su Kauno jėzuitų kolegijos pastatais.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178801|Kryžiuočių ordinas]]: Vytautas atnaujino ryšius su Prūsija ir kryžiuočiams pažadėjo padėti atstatyti sudegintas jų pilis prie Kauno.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178954|Kryžiuočių ordinas]]: 1362 m. pavasarį Prūsų kryžiuočiai, remiami Livonijos magistro ir svečių iš Vakarų, išgriovė Kauno pilį.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178971|Kryžiuočių ordinas]]: 1362 m. pavasarį Prūsų kryžiuočiai su sąjungininkais išgriovė svarbią lietuvių pilį Kauną prie Nemuno ir Neries santakos.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179047|Kryžiuočių ordinas]]: 1362 m. pavasarį Prūsų kryžiuočiai, remiami svečių ir Livonijos magistro, išgriovė Kauno pilį Nemuno ir Neries santakoje.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184499|Kryžiuočių ordinas]]: Po ilgos Kauno pilies apsiausties kryžiuočiai pasikasė po sienomis, padegė pastatus ir palaužę gynėjų pasipriešinimą užėmė pilį.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184500|Kryžiuočių ordinas]]: Po Kauno pilies užėmimo kryžiuočiai trečią dieną sugriovė išlikusius įrenginius, išvertė sienų likučius, nukasė pylimus ir išlygino griovius.
+- susijęs iš [[objektai/grupes/Kėdainių įgula.md#claim-t-78195|Kėdainių įgula]]: Vasario 7 d. anksti ryte Kėdainių įgula iš Kauno gavo šautuvų, šovinių ir rankinių granatų.
+- susijęs iš [[objektai/grupes/LDK 1-oji Tautinė brigada.md#claim-t-40975|LDK 1-oji Tautinė brigada]]: 1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada, anksčiau vadinta Kauno husarais.
+- susijęs iš [[objektai/grupes/Saulė.md#claim-t-168659|Saulė]]: „Saulės“ draugija Kaune įsteigė buhalterijos kursus, rengusius prekybai ir vartotojų bendrovėms reikalingus žmones.
+- susijęs iš [[objektai/grupes/Užsienio lietuviai.md#claim-t-20054|Užsienio lietuviai]]: 1935 m. Pasaulio lietuvių kongresas Kaune parodė, kad dauguma užsienio lietuvių buvo artimi Lietuvai ir rūpinosi jos ateitimi.
+- susijęs iš [[objektai/grupes/Žydų Hapoelio klubas.md#claim-t-75087|Žydų Hapoelio klubas]]: 1935 m. Žydų Hapoelio klubo jaunieji sportininkai žygiavo Kauno centrine gatve.
+- susijęs iš [[objektai/grupes/Žydų Hapoelio klubas.md#claim-t-75088|Žydų Hapoelio klubas]]: 1935 m. Žydų Hapoelio klubo jaunieji sportininkai žygiavo Kauno centrine gatve.
+- susijęs iš [[objektai/ivykiai/Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.).md#claim-t-01595|Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)]]: Vilniaus generalgubernatorius ir Kauno gubernatorius draudė blaivybės brolijas, nes tuo metu buvo uždraustos visos draugijos.
+- susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
+- susijęs iš [[objektai/ivykiai/Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.).md#claim-t-77895|Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.)]]: 1934 m. gen. Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves buvo pavojingiausias voldemarininkų bandymas puču grąžinti A. Voldemarą į valdžią.
+- susijęs iš [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis).md#claim-t-20193|Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]: Keršydamas už boikotą gestapas 1943 m. kovą Lietuvoje suėmė 46 visuomenės veikėjus, išvežė juos į Štuthofą ir uždarė Kauno bei Vilniaus universitetus.
+- susijęs iš [[objektai/ivykiai/Informacijos perdavimas po Sausio 13-osios ir Lietuvos kreipimasis į JT (1991 m. sausio 13 d.).md#claim-t-183223|Informacijos perdavimas po Sausio 13-osios ir Lietuvos kreipimasis į JT (1991 m. sausio 13 d.)]]: Sausio 13 d. nutrūkus radijo transliacijai, pradėjo dirbti Sitkūnų radijo stotis netoli Kauno.
+- susijęs iš [[objektai/ivykiai/Kauno bolševikų sukurstytas maištas (1920 m. vasario 22–23 d.).md#claim-t-41277|Kauno bolševikų sukurstytas maištas (1920 m. vasario 22–23 d.)]]: Lietuvos vyriausybė numalšino Kauno maištą, todėl lenkai prarado pretekstą atviram Kauno puolimui.
+- susijęs iš [[objektai/ivykiai/Kauno bolševikų sukurstytas maištas (1920 m. vasario 22–23 d.).md#claim-t-41278|Kauno bolševikų sukurstytas maištas (1920 m. vasario 22–23 d.)]]: 1920 m. vasario 22–23 d. Kaune kilusio bolševikų sukurstyto maišto pergalė būtų suteikusi Lenkijai pretekstą pulti Lietuvą atvira karine jėga.
+- susijęs iš [[objektai/ivykiai/Kauno pilies statybos pradžia (1384 m. gegužės 13 d.).md#claim-t-34540|Kauno pilies statybos pradžia (1384 m. gegužės 13 d.)]]: 1384 m. gegužės 13 d. Vytauto atiduotame Kaune kryžiuočiai pradėjo pilies statybą.
+- susijęs iš [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.).md#claim-t-183227|Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]: Po Kauno protestų iš daugiau kaip 3 000 aktyvių dalyvių buvo suimta per 400 žmonių, o aštuoni nuteisti kalėti nuo vienerių iki trejų metų.
+- susijęs iš [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.).md#claim-t-75109|Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius.
+- susijęs iš [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.).md#claim-t-75111|Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius.
+- susijęs iš [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.).md#claim-t-184232|Kauno susitarimas su Vokiečių ordinu (1402 m.)]]: Po Kauno susitarimo Ordinas atskiru dokumentu pažadėjo Vytautui mirus globoti Oną ir ginti jos teises į jos dalį.
+- susijęs iš [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.).md#claim-t-34452|Kauno susitarimas su Vokiečių ordinu (1402 m.)]]: Kaune Vytautas be Lenkijos žinios suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus ir pažadėjo jam pagalbą.
+- susijęs iš [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.).md#claim-t-34453|Kauno susitarimas su Vokiečių ordinu (1402 m.)]]: Kitą dieną po Kauno susitarimo Vokiečių ordinas pažadėjo po Vytauto mirties globoti jo žmoną Oną ir ginti jos teises į jos dalį.
+- susijęs iš [[objektai/ivykiai/Kauno taikos derybos su kryžiuočiais ir jų žlugimas (1408 m.).md#claim-t-185805|Kauno taikos derybos su kryžiuočiais ir jų žlugimas (1408 m.)]]: Kaune Jogaila ir Vytautas pradėjo tartis su kryžiuočių vadovais dėl tvirtos ir pastovios Prūsijos bei Lietuvos taikos.
+- susijęs iš [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas).md#claim-t-75115|Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]: Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.
+- susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-26645|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo.
+- susijęs iš [[objektai/ivykiai/Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.).md#claim-t-31433|Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)]]: 1391 m. rudeniop surengtas didelis žygis į Lietuvą, o rugsėjo 1 d. prie Kauno Nemuno saloje iškelta didelė puota svečiams piligrimams.
+- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis).md#claim-t-86914|Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]: 1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir nuniokojo žemes iki Medininkų bei Ašmenos.
+- susijęs iš [[objektai/ivykiai/LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.).md#claim-t-39147|LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.)]]: 1794 m. balandžio 16 d. Šiauliuose ir jo apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada, anksčiau vadinta Kauno husarų brigada.
+- susijęs iš [[objektai/ivykiai/Lietuvių konferencija Kaune (1943 m. balandžio 5 d.).md#claim-t-75128|Lietuvių konferencija Kaune (1943 m. balandžio 5 d.)]]: Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadinamąją Lietuvių konferenciją.
+- susijęs iš [[objektai/ivykiai/Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui.md#claim-t-183241|Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui]]: Tarp lietuvių dipukų buvo 400 Kauno ir Vilniaus universiteto dėstytojų, pusė rašytojų sąjungos narių, tūkstančiai mokytojų, inžinierių.
+- susijęs iš [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.).md#claim-t-75207|Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.)]]: 1939 m. Kaune Lietuva antrą kartą laimėjo Europos krepšinio čempionatą.
+- susijęs iš [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema).md#claim-t-185626|Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]: Žiemą Vytautas miškais tyliai priėjo prie Kauno ir netikėtai pasirodė su kariuomene prie pylimo.
+- susijęs iš [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema).md#claim-t-185627|Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]: Nepajėgęs užimti Kauno, Vytautas pasitraukė į Nemuno salas už vienos mylios ir ten pastatė naujas pilis.
+- susijęs iš [[objektai/ivykiai/Paliaubų protokolo pasirašymas Kaune.md#claim-t-41340|Paliaubų protokolo pasirašymas Kaune]]: 1920 m. lapkričio 29 d. Kaune L. Želigovskio ir Lietuvos atstovai pasirašė paliaubų protokolą.
+- susijęs iš [[objektai/ivykiai/Pasaulio lietuvių kongresas Kaune (1935 m.).md#claim-t-20439|Pasaulio lietuvių kongresas Kaune (1935 m.)]]: 1935 m. Pasaulio lietuvių kongresas Kaune sulaukė 3 000 delegatų ir svečių iš 19 valstybių.
+- susijęs iš [[objektai/ivykiai/Pirmasis pasaulio lietuvių kongresas (1935 m.).md#claim-t-01770|Pirmasis pasaulio lietuvių kongresas (1935 m.)]]: Pirmasis pasaulio lietuvių kongresas įvyko 1935 m. rugpjūčio 11–17 d. Kaune.
+- susijęs iš [[objektai/ivykiai/Pirmoji tautinė olimpiada Kaune (1938 m.).md#claim-t-75258|Pirmoji tautinė olimpiada Kaune (1938 m.)]]: 1938 m. Kaune vykusioje pirmojoje tautinėje olimpiadoje gausiai dalyvavo ir užsienio šalių lietuviai.
+- susijęs iš [[objektai/ivykiai/Pirmoji tautinė olimpiada Kaune (1938 m.).md#claim-t-75259|Pirmoji tautinė olimpiada Kaune (1938 m.)]]: 1938 m. Kaune vykusioje pirmojoje tautinėje olimpiadoje gausiai dalyvavo ir užsienio šalių lietuviai.
+- susijęs iš [[objektai/ivykiai/Pirmoji šalies dainų šventė Kaune (1924 m.).md#claim-t-77914|Pirmoji šalies dainų šventė Kaune (1924 m.)]]: 1924 m. Kaune surengta pirmoji šalies dainų šventė.
+- susijęs iš [[objektai/ivykiai/Romo Kalantos susideginimas Kaune (1972 m. gegužės 14 d.).md#claim-t-183269|Romo Kalantos susideginimas Kaune (1972 m. gegužės 14 d.)]]: 1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.
+- susijęs iš [[objektai/ivykiai/Sich-Achmeto pabėgimas į Belgorodą, grįžimas į Kijevą ir suėmimas.md#claim-t-186796|Sich-Achmeto pabėgimas į Belgorodą, grįžimas į Kijevą ir suėmimas]]: Antrą kartą į Kijevą grįžęs Sich-Achmetas buvo suimtas, laikytas Vilniaus Aukštojoje, Trakų ir Kauno pilyse ir paleistas 1528 metais.
+- susijęs iš [[objektai/ivykiai/Vilijampolės ir „Lietūkio“ garažo pogromai (1941 m. birželio 26-27 d.).md#claim-t-20531|Vilijampolės ir „Lietūkio“ garažo pogromai (1941 m. birželio 26-27 d.)]]: 1941 m. birželio 26 d. Vilijampolėje ir birželio 27 d. Kauno „Lietūkio“ garaže įvyko SD inspiruoti žiaurūs pogromai.
+- susijęs iš [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas.md#claim-t-75303|Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.
+- susijęs iš [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas.md#claim-t-75305|Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.
+- susijęs iš [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.).md#claim-t-66989|Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]: Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.
+- susijęs iš [[objektai/ivykiai/Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune.md#claim-t-186629|Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune (sukilimas)]]: Lietuvos metraštis pasakoja, kad Kazimieras, priėmęs Kaune prisiekusius žemaičius, patvirtino jų privilegijas ir paliko Kantautą seniūnu trejiems metams.
+- susijęs iš [[objektai/ivykiai/Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.).md#claim-t-77913|Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.)]]: 1941 m. liepos 4 ir 6 d. TDA bataliono kuopa, nacių komanduojama kaip zonderkomanda, dalyvavo apie 3 000 žydų žudynėse Kauno VII forte.
+- susijęs iš [[objektai/paprociai/Kauno gynėjų gedulo raudos.md#claim-t-185930|Kauno gynėjų gedulo raudos]]: Apie Kauno pilies įgulos žūtį degančios pilies liepsnose paprasti žmonės giedojo gedulo raudas.
+- susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78709|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: 1920 m. vasario 22–23 d. Lietuvos vyriausybė numalšino Kaune kilusį bolševikų sukurstytą maištą, todėl lenkai prarado pretekstą pulti Kauną.
+- susijęs iš [[objektai/paprociai/Tvirtovių atstatymas grąžinant išblaškytus žemdirbius.md#claim-t-185909|Tvirtovių atstatymas grąžinant išblaškytus žemdirbius]]: Ragainės komtūras išsklaidė Kauno tvirtovę atstatinėjusius darbininkus ir išardė pradėtą pilį.
+- susijęs iš [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika.md#claim-t-20824|Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]: Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.
+- susijęs iš [[objektai/posakiai/Laisvę Lietuvai!.md#claim-t-13498|Laisvę Lietuvai!]]: Šūksnis „Laisvę Lietuvai!“ siejamas su Romo Kalantos pasidegimu Kauno miesto sode 1972 m. gegužės 14 d.
+- susijęs iš 1408 m. Vytauto privilegija Kaunui: 1408 m. Vytautas po Kauno gaisro patvirtino pirmtako miestui suteiktas laisves.
+- susijęs iš A. Kučinskas, Gedimino dinastijos kilmė: A. Kučinsko „Gedimino dinastijos kilmė“ buvo išleista Kaune 1934 m. kaip atspaudas iš „Mūsų Žinyno“ 107-108 numerių.
+- susijęs iš A. Šapoka, Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais: A. Šapokos „Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais“ išspausdinta rinkinyje „Jogaila“ Kaune 1935 m., p. 185–266.
+- susijęs iš Būdas senovės lietuvių Kalnėnų ir Žemaičių: S. Daukanto „Būdas senovės lietuvių Kalnėnų ir Žemaičių“ buvo išleistas Kaune 1935 m., redaguotas J. Talmanto.
+- susijęs iš Enejus Silvijus Picoloraini bei Jeronimas Pragiškis ir jų žinios apie Lietuvą XIV-XV a: A. Janulaičio veikalas „Enejus Silvijus Picoloraini bei Jeronimas Pragiškis ir jų žinios apie Lietuvą XIV-XV a.“ buvo išleistas Kaune 1928 m.
+- susijęs iš Gabrys, J., Vytauto ir Lietuviu veikmė Didžioje karėje ir kovoje ties Grunvaldu: J. Gabrio veikalas „Vytauto ir Lietuviu veikmė Didžioje karėje ir kovoje ties Grunvaldu“ buvo išleistas Kaune 1912 m.
+- susijęs iš Ivinskis Z. Senovės lietuvių religijos bibliografija: Z. Ivinskio „Senovės lietuvių religijos bibliografija“ išleista Kaune 1938 m.
+- susijęs iš Krikščionybės įvedimas Lietuvoje: Stasio Ylos „Krikščionybės įvedimas Lietuvoje“ išleistas Kaune 1938 m.
+- susijęs iš Kšivickis L. Žemaičių senovė: L. Kšivickio „Žemaičių senovė“ išleista Kaune ir Marijampolėje 1928 m.
+- susijęs iš Lietuviškoji enciklopedija: Aštuntasis „Lietuviškosios enciklopedijos“ tomas išleistas Kaune 1940 m.
+- susijęs iš Lietuvos visuomeninio ūkio bruožai ligi Liublino unijos: A. Rimkos „Lietuvos visuomeninio ūkio bruožai ligi Liublino unijos“ išleisti Kaune 1925 m.
+- susijęs iš Lindenblatt Jahrbücher: Lindenblatto kronikos vietovardis Boparthen pastabose aiškinamas kaip dabartinis Bobiai į šiaurės vakarus nuo Kauno.
+- susijęs iš Litovskij Statut 1588 goda: I. I. Lappo „Litovskij Statut 1588 goda“ dalys buvo išleistos Kaune 1934 m., 1936 m. ir 1938 m.
+- susijęs iš M. Krasauskaitė, Vytauto charakteristika: M. Krasauskaitės „Vytauto charakteristika“ išspausdinta 1930 m. Kaune išleistame rinkinyje „Vytautas Didysis“, p. 253–265.
+- susijęs iš Matusas J. Senovės prūsų žemės nukariavimas: J. Matuso „Senovės prūsų žemės nukariavimas“ išleistas Kaune 1940 m.
+- susijęs iš Naujausių Proistorinių Tyrinėjimų Duomens: J. Puzino „Naujausių Proistorinių Tyrinėjimų Duomens“ išleistas Kaune 1938 m. kaip atspaudas iš „Senovės“ 4 tomo.
+- susijęs iš Remeika J. Kai dar amžina ugnis ruseno Mažosios Lietuvos padavimai: J. Remeikos „Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai“ išleista Kaune 1940 m.
+- susijęs iš Rogero knyga: „Rogero knygos“ skyriuje apie rytų Pabaltijį Al-Idrisi, pasak Ivinskio, jau buvo paminėjęs Kauną.
+- susijęs iš Senovės lietuvių religijos bibliografija: Z. Ivinskio „Senovės lietuvių religijos bibliografija“ išleista Kaune 1938 m. kaip atspaudas iš „Soter“ 1935–1937 m.
+- susijęs iš Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj: A. Vaičiulaičio „Vidurinių amžių poetas Machaut Lietuvoj“ paskelbta 1940 m. Kaune išleistų „Suvažiavimo darbų“ trečiame tome.
+- susijęs iš Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais: Adolfo Šapokos studija „Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais“ išspausdinta 1935 m. Kaune išleistame rinkinyje „Jogaila“, p. 187-266.
+- susijęs iš Velykis, pulk., Griunvaldas: Pulk. Velykio „Griunvaldas“ publikuotas „Karo Archyvo“ II tome Kaune 1925 m.
+- susijęs iš Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje: V. Vileišio darbas apie tautinius santykius Mažojoje Lietuvoje ligi Didžiojo karo išleistas Kaune 1935 m.
+- susijęs iš Vokiečių ordino pilys Kauno apylinkėje: K. Wagnerio „Vokiečių ordino pilys Kauno apylinkėje“ paskelbta „Naujojoje Romuvoje“ 1933 m., Nr. 107.
+- susijęs iš Vytauto jaunystė ir jo veikimas iki 1392 m: Z. Ivinskio „Vytauto jaunystė ir jo veikimas iki 1392 m.“ paskelbtas 1930 m. Kaune išleistame rinkinyje „Vytautas Didysis“.
+- susijęs iš XVI amžiaus inventorius: Jablonskis 1934 m. išleido „XVI amžiaus inventorius“, parengtus iš Kauno Centrinio Valstybės archyvo ir kitų Lietuvos archyvų aktų.
+- susijęs iš Yčas, J., Žiupsnys žinių apie Žalgirio mūši: J. Yčo „Žiupsnys žinių apie Žalgirio mūšį“ siejamas su 1914 m. Vilniuje leista „Lietuvių tauta“ ir 1930 m. Kaune leistu „Vasario 16“ leidiniu.
+- susijęs iš Šležas, P. (red.), Vytautas Didysis: P. Šležo redaguotas leidinys „Vytautas Didysis“ išleistas Kaune 1930 m.
+- susijęs iš Žemaičiu vysk. M. Valančius: „Žemaičiu vysk. M. Valančius“ išleistas 1923 m., plačiai remiantis Kauno vyskupijos kurijos archyvine medžiaga.
+- susijęs iš Alytus: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad iš pietų pultų Kauną.
+- susijęs iš Alytus: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje ir iš pietų pulti Kauną.
+- susijęs iš Alytus: Bolševikų pajėgos planavo persikelti per Nemuną Alytuje ir Prienuose, kad galėtų pulti Kauną iš pietų.
+- susijęs iš Berlynas: Maskva ir Berlynas, kaip ir prancūzai bei britai, patarė Kaunui priimti lenkų reikalavimus.
+- susijęs iš Dotnuva: Žemės ūkio akademija Dotnuvoje papildė Kauno Vytauto Didžiojo universiteto veiklą ir rengė specialistus žemės ūkiui.
+- susijęs iš Gardinas: Vilniuje ir Gardine siautęs maras lėmė, kad karalius likusius žiemos mėnesius praleido Kaune.
+- susijęs iš Giedraičiai: Viena svarbiausių lenkų puolimo krypčių buvo Ukmergės link pro Giedraičius su galutiniu tikslu pulti Kauną iš šiaurės rytų.
+- susijęs iš Gotesverderis: Gotesverderis buvo viena iš prie Kauno daug kartų statytų ir vėl sugriautų Ordino pilių.
+- susijęs iš Jieznas: Pralaimėjimas Jiezne ir nesėkmė pietinėje Lietuvoje prie Nemuno galutinai sužlugdė bolševikų planus užimti Kauną - laikinąją Lietuvos sostinę ir nutraukti Lietuvos valstybės egzistavimą.
+- susijęs iš Jurbarkas: Gediminas su kariuomene buvo įrengęs stovyklą tarp Jurbarko ir Kauno.
+- susijęs iš Kauno HES: Atšilimo laikotarpiu Kauno HES minima tarp didelių naujų pramonės objektų, statytų sparčios sovietinės industrializacijos ir urbanizacijos metu.
+- susijęs iš Kauno IX fortas: Kauno IX forte sušaudyta apie 6–8 tūkst. žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos.
+- susijęs iš Kauno Laisvės alėja: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vyko protesto eisena, kurios lyderius KGB pažymėjo numeriais.
+- susijęs iš Kauno Laisvės alėja: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vyko protesto eisena, kurios lyderius KGB pažymėjo numeriais.
+- susijęs iš Kauno Lietuva: Lietuvos Respublika lenkiškoje Lietuvos sampratoje buvo vadinama Kauno Lietuva.
+- susijęs iš Kauno VII fortas: TDA bataliono kuopa, paversta zonderkomanda, liepos 4 ir 6 d. nacių vadovaujama dalyvavo 3 000 žydų žudynėse Kauno VII forte.
+- susijęs iš Kauno VII fortas: TDA bataliono kuopa, paversta zonderkomanda, liepos 4 ir 6 d. nacių vadovaujama dalyvavo 3 000 žydų žudynėse Kauno VII forte.
+- susijęs iš Kauno Vilniaus pirklių prekių sandėlis: Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.
+- susijęs iš Kauno getas: Kauno getas buvo tarp getų, kuriuose apie 50 tūkst. žydų laikinai palikti ir išnaudoti kaip pigi darbo jėga.
+- susijęs iš Kauno gubernija: Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc.
+- susijęs iš Kauno gubernija: 1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija.
+- susijęs iš Kauno gubernija: 1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.
+- susijęs iš Kauno gubernija: Vien Kauno gubernijoje kariuomenės egzekucijų prieš valstiečius buvo surengta 117.
+- susijęs iš Kauno karo aviacijos dirbtuvės: Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 Antano Gustaičio sukonstruotos ANBO serijos lėktuvai.
+- susijęs iš Kauno miesto sodas (miestas): 1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė.
+- susijęs iš Kauno pilis (pilis): Šležas rašė apie Kauno pilies išgriovimą 1362 m.
+- susijęs iš Kauno pilis (pilis): Pirmoji Kauno pilis kronikose paminėta 1361 m. ir pastatyta Nemuno ir Neries santakoje.
+- susijęs iš Kauno pilis (pilis): Ordino ir talkininkų kariuomenė Nemunu laivais pasiekė Kauną ir po kovo 13-osios apgulė Kauno pilį.
+- susijęs iš Kauno pilis (pilis): Kauno pilį puolė kryžiuočių pajėgos, Livonijos ordino daliniai ir kryžininkai iš Anglijos, Italijos bei Vokietijos.
+- susijęs iš Kauno sala: 1413 m. Kauno saloje buvo sušauktas suvažiavimas Žemaitijos sienų klausimu.
+- susijęs iš Kauno sporto halė: Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.
+- susijęs iš Kauno tvirtovė: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę.
+- susijęs iš Kauno vyskupija: Veikalas „Žemaičių vysk. M. Valančius“ buvo parengtas plačiai remiantis Kauno vyskupijos kurijos archyvine medžiaga.
+- susijęs iš Kauno įgulos bažnyčia: Kauno įgulos bažnyčioje buvo įkurtas Skulptūros ir vitražo muziejus.
+- susijęs iš Klaipėda: Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo.
+- susijęs iš Krėva: Į Lietuvą įsiveržusi totorių kariuomenė užėmė Krėvą, Lydą, Vilnių, Trakus ir kitas vietoves bei priartėjo prie Kauno.
+- susijęs iš Lietuva: Pavasario pradžioje kariuomenės buvo išvestos į Lietuvą ir pirmiausia puolė Kauną.
+- susijęs iš Maskva: Per Lenkijos ultimatumą Maskva ir Berlynas Kaunui patarė priimti lenkų reikalavimus.
+- susijęs iš Maskva: Per Lenkijos ultimatumą Prancūzija, Britanija, Maskva ir Berlynas patarė Kaunui priimti lenkų reikalavimus.
+- susijęs iš Merkinė: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną su kunigija ir diduomene.
+- susijęs iš Merkinė: Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos.
+- susijęs iš Naujasis Kaunas: Kęstutis Nevėžio žiočių Vyrgalės saloje statydino Naujojo Kauno pilį, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių ruožo gynybą.
+- susijęs iš Naujasis Kaunas: Kęstutis statydino Naujojo Kauno pilį Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože.
+- susijęs iš Naujasis Kaunas: 1363 m. balandį Ordino magistras su kariuomene atplaukė Nemunu ir atėjo prie pradėtos atstatinėti Naujojo Kauno pilies.
+- susijęs iš Naujasis Kvidzinas: Naujasis Kvidzinas prie Kauno buvo viena iš trijų Vytauto valdžioje buvusių pilių, kurias turėjo sunaikinti.
+- susijęs iš Nemunas: Veliuona aprašyta kaip prie Nemuno nusidriekusi vietovė, buvusi už 7 mylių nuo Kauno.
+- susijęs iš Nemunas: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau Nemunu pasiekė Dubysos upę.
+- susijęs iš Nemunas: Keliautojai Nemunu vyko iš Merkinės į Kauną, o iš ten Nemunu ir Dubysa pasiekė Aukokalnį ties dabartine Betygala.
+- susijęs iš Nemunas: Sudeginus Peštvę ir Veliuoną, Nemuno krantuose iki Kauno nebeliko lietuvių gynybos punktų.
+- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): 1492 m. Aleksandras garantavo Vilniaus miestiečiams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
+- susijęs iš Nevėžis: Atiduodamas vokiečiams visą Žemaičių kraštą iki pat Nevėžio upės, Vytautas dar pažadėjo Ordinui Kauną.
+- susijęs iš Paryžius: Po susitikimo Paryžiuje su Augustu Zaleskiu A. Voldemarą Kauno stotyje pasitiko karininkai, priešinęsi deryboms su Lenkija.
+- susijęs iš Pažaislio vienuolyno ansamblis: Pažaislio vienuolyno ansamblis prie Kauno laikomas europinės reikšmės kūriniu.
+- susijęs iš Polockas: Vytauto valdymo metu Polockas buvo vienas iš dviejų didelių prekybos centrų Lietuvoje kartu su Kaunu.
+- susijęs iš Prienai: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.
+- susijęs iš Prienai: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.
+- susijęs iš Prienai: 7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti miestą iš pietų.
+- susijęs iš Ragainė: Ragainės komtūras išsklaidė Kauno tvirtovę atstatinėjusius darbininkus ir išardė pradėtą pilį.
+- susijęs iš Rumšiškės: Atšilimo laikotarpiu Rumšiškėse netoli Kauno buvo įsteigtas Liaudies buities muziejus.
+- susijęs iš Rumšiškės: Atšilimo laikotarpiu Rumšiškėse netoli Kauno buvo įsteigtas Liaudies buities muziejus.
+- susijęs iš Trakai: 1655 m. rugpjūčio 7 d. rusams ir kazokams užėmus Vilnių, netrukus buvo užimti Trakai ir Kaunas.
+- susijęs iš Trapėnai: 1363 m. balandį Ordino magistras su kariuomene Nemunu priplaukė Trapėnus, ten įtvirtino paliktus laivus ir patraukė prie Naujojo Kauno pilies.
+- susijęs iš Vijūkų dvaras: Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.
+- susijęs iš Vilija: Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
+- susijęs iš Vilnius: Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
+- susijęs iš Vytauto Didžiojo karo muziejus: Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.
+- susijęs iš Zaslavlis: Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno.
+- susijęs iš Įsrutis: Maršalas organizavo žygį iš Įsruties į Kauną ir, anot šaltinyje cituojamos frazės, „atnešė stabmeldžiams visokių nelaimių“.
+- susijęs iš Žiežmariai: 1919 m. vasario pradžioje bolševikų karinė vadovybė, sužinojusi, kad nuo Žiežmarių iki Alytaus nėra lietuvių ir vokiečių dalinių, ryžosi pulti Kauną iš pietų.
+- susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113649|Magdeburgo teisės]]: Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m.
+- susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113656|Magdeburgo teisės]]: Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m.
+- susijęs iš [[objektai/zodynas/de facto.md#claim-t-75545|de facto]]: 1919 m. rugsėjo 26 d. žinia apie Didžiosios Britanijos de facto pripažinimą Lietuvai sukėlė masines manifestacijas prie Kauno rotušės.
+- susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-101588|federacija federacinė valstybė]]: P. Himansas parengė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.
+- susijęs iš [[objektai/zodynas/tenuta laikytojas.md#claim-t-86575|tenuta laikytojas]]: 1503 m. Vilniuje duotame rašte Stanislovas Hlebavičius minimas kaip Polocko laikytojas, o Albertas Janavičius - kaip Kauno laikytojas.
+- susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-183486|zonderkomanda]]: Viena Tautinės darbo apsaugos bataliono kuopa buvo padaryta zonderkomanda ir liepos 4 bei 6 dienomis dalyvavo 3 000 žydų žudynėse Kauno VII forte.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77966|A. Smetona]]: Vytauto Didžiojo kultas susiejo A. Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77971|A. Smetona]]: 1936 m. kovą Kaune pasakyta A. Smetonos kalba užvėrė duris kompromisui su Lenkija.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77981|A. Smetona]]: A. Smetona hitlerininkams skirtą mirties bausmę pakeitė kalėjimu iki gyvos galvos, o 1937 m. juos amnestavo.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77984|A. Smetona]]: 1919 m. rugsėjo 26 d. Kaune prezidentas A. Smetona iš balkono sveikino minias, susirinkusias dėl Didžiosios Britanijos de facto pripažinimo.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78003|A. Voldemaras]]: Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54935|Aleksandras Jogailaitis]]: 1492 m. Aleksandras patvirtino ankstesnius Vilniaus dovanojimus ir suteikė naujų privilegijų, turėjusių pagyvinti prekybą bei pagerinti miestiečių buitį.
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54936|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82183|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija.
 - susijęs iš [[objektai/asmenys/Algirdas Julius Greimas.md#claim-t-78043|Algirdas Julius Greimas]]: Algirdas Julius Greimas buvo semiotikas, žinomas Prancūzijoje.
-- susijęs iš [[objektai/asmenys/Antanas Gustaitis.md#claim-t-183524|Antanas Gustaitis]]: Antanas Gustaitis nuo 1934 m. vadovavo Lietuvos karo aviacijai ir sukonstravo ANBO lėktuvų seriją, kurios 66 lėktuvai pastatyti Kauno karo aviacijos dirbtuvėse.
-- susijęs iš [[objektai/asmenys/Antanas Gustaitis.md#claim-t-75691|Antanas Gustaitis]]: Antanas Gustaitis sukonstravo lengvąjį bombonešį ANBO VIII, 1939 m. pagamintą Kauno aviacijos dirbtuvėse.
-- susijęs iš [[objektai/asmenys/Antanas Gustaitis.md#claim-t-75693|Antanas Gustaitis]]: Antanas Gustaitis sukonstravo lengvąjį bombonešį ANBO VIII, 1939 m. pagamintą Kauno aviacijos dirbtuvėse.
 - susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75694|Antanas Mackevičius]]: Kauno gubernijoje vienas pirmųjų sukilimo organizatorių buvo kunigas Antanas Mackevičius.
-- susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75695|Antanas Mackevičius]]: Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.
-- susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75698|Antanas Mackevičius]]: Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.
-- susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75702|Antanas Mackevičius]]: Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu.
 - susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169962|Antanas Merkys]]: Antanas Merkys psichologiškai palūžo nuo Viačeslavo Molotovo rėksmingų kaltinimų absurdiškumo.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75710|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Vytauto Didžiojo kultas susiejo Antano Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75711|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Vytauto Didžiojo kultas siejo stipraus tautos vado vaizdinį su Antano Smetonos valdoma Lietuvos valstybe.
@@ -963,31 +1622,24 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75727|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1936 m. kovą Kaune Antanas Smetona atsakomąja kalba užvėrė duris kompromisui su Lenkija.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75729|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1919 m. rugsėjo 26 d. Kaune prezidentas Antanas Smetona iš balkono sveikino minias po Didžiosios Britanijos de facto pripažinimo.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75751|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Prezidentas Antanas Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.
-- susijęs iš [[objektai/asmenys/Antanas Šukys.md#claim-t-40033|Antanas Šukys]]: Savanoris Antanas Šukys, mokydamasis Kauno Karužų mokykloje, prisiminė, kaip buvo renkami kariai per Jiezną besiveržusiai Raudonajai armijai sulaikyti.
 - susijęs iš [[objektai/asmenys/Arvydas Sabonis.md#claim-t-78045|Arvydas Sabonis]]: Arvydas Sabonis buvo Lietuvos ir NBA krepšinio žvaigždė.
 - susijęs iš [[objektai/asmenys/Augustas Zaleskis.md#claim-t-18838|Augustas Zaleskis]]: Augustas Zaleskis buvo Lenkijos užsienio reikalų ministras, su kuriuo Paryžiuje susitiko Augustinas Voldemaras.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75778|Augustinas Voldemaras]]: A. Voldemaras buvo kooptuotas į Lietuvos Tarybą vietoj nuo jos atsiskyrusių kairiųjų pažiūrų narių.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75783|Augustinas Voldemaras]]: Augustinas Voldemaras birželį pareiškė, kad Lietuva galėtų įsijungti į Rusijos federaciją panašiais pagrindais kaip Bavarija į Vokietijos sąjungą.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75784|Augustinas Voldemaras]]: Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti Augustiną Voldemarą į valdžią.
 - susijęs iš [[objektai/asmenys/Benediktas Makras.md#claim-t-93182|Benediktas Makras]]: Vytautas Didysis priėmė Benediktą Makrą Lietuvoje, gausiai jį apdovanojo ir pakėlė į savo riterius.
-- susijęs iš [[objektai/asmenys/Boucicaut.md#claim-t-87490|Boucicaut]]: Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno.
-- susijęs iš [[objektai/asmenys/E. Adamkavičius.md#claim-t-40092|E. Adamkavičius]]: Plk. ltn. E. Adamkavičius vadovavo Kauno batalionui Varnionių-Daugėlaičių-Šiaulėnų atkarpoje.
 - susijęs iš [[objektai/asmenys/Elžbieta (Vengrijos karalienė).md#claim-t-87494|Elžbieta (Vengrijos karalienė)]]: Vengrijos karalienė Elžbieta dalyvavo sėkmingose Jogailos derybose su Lenkijos didikais dėl Jadvygos rankos.
-- susijęs iš [[objektai/asmenys/Emmanuel Levinas.md#claim-t-18885|Emmanuel Levinas]]: Filosofas Emmanuelis Levinas gimė Kaune ir ten baigė gimnaziją.
-- susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184431|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė 1388 m. buvo taikos sutarties su Lietuva, sudarytos ties Kaunu, šalis.
 - susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-183530|Ernestas Galvanauskas]]: 1921 m. lapkričio 15 d. Kaune sprogus bombai Ernestas Galvanauskas buvo sužeistas, bet liko gyvas.
 - susijęs iš [[objektai/asmenys/Feliksas Vaitkus.md#claim-t-78052|Feliksas Vaitkus]]: 1935 m. gegužės 21–22 d. Feliksas Vaitkus sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.
 - susijęs iš [[objektai/asmenys/Frank Lubin.md#claim-t-18894|Frank Lubin]]: Krepšininkas Frank Lubin su Lietuvos rinktine tapo Europos čempionu.
 - susijęs iš [[objektai/asmenys/Gabrielis Žanas Petisnė.md#claim-t-18896|Gabrielis Žanas Petisnė]]: Gabrielis Žanas Petisnė vadovavo administracijai, prieš kurią lietuviai neigė nukreipę Klaipėdos sukilimą.
 - susijęs iš [[objektai/asmenys/J. Aukštuolaitis.md#claim-t-40151|J. Aukštuolaitis]]: J. Aukštuolaitis vadovavo Tauragėje besikūrusiam Žemaičių batalionui, kuris netrukus buvo išformuotas.
-- susijęs iš [[objektai/asmenys/J. Butkus.md#claim-t-40153|J. Butkus]]: J. Butkus vadovavo 200 karių rinktinei, kurią įsakyta iš Kauno išsiųsti į Prienus S. Zaskevičiaus žinion.
 - susijęs iš [[objektai/asmenys/J. Simpsonas.md#claim-t-26443|J. Simpsonas]]: J. Simpsonas paklausė A. Voldemaro apie požiūrį į federaciją su Rusija.
 - susijęs iš [[objektai/asmenys/Jack Sharkey.md#claim-t-78057|Jack Sharkey]]: Jack Sharkey (Juozas Žukauskas) buvo boksininkas.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176413|Jadvyga Jogailienė]]: Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino didįjį magistrą 1385 m. rugpjūtį pulti Lietuvą.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176420|Jadvyga Jogailienė]]: Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino Konradą Ciolnerį Rotenšteiną 1385 metais pulti Lietuvą.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184267|Jogaila (kunigaikštis, XIV–XV a.)]]: 1413 m. Kauno saloje vykusiame Žemaitijos sienų suvažiavime dalyvavo Jogaila.
 - susijęs iš [[objektai/asmenys/Johnny Unitas.md#claim-t-18969|Johnny Unitas]]: Johnny Unitas (Jonas Jonaitis) buvo amerikietiškojo futbolo garsenybė.
-- susijęs iš [[objektai/asmenys/Jonas Mačiulis-Maironis.md#claim-t-63723|Jonas Mačiulis-Maironis]]: Jonas Mačiulis-Maironis tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis.
 - susijęs iš [[objektai/asmenys/Jonas Olesnickis.md#claim-t-82432|Jonas Olesnickis]]: Jonas Olesnickis su visa įgula netikėtai užpuolė vokiečius ir sudavė jiems skaudų smūgį.
 - susijęs iš [[objektai/asmenys/Jonas Olesnickis.md#claim-t-82433|Jonas Olesnickis]]: Jonas Olesnickis, gelbėdamas Vilniaus pilis, liepė sudeginti likusius miesto namus, o jų gyventojus iškeldino į Žemutinę pilį.
 - susijęs iš [[objektai/asmenys/Jonas Olesnickis.md#claim-t-82435|Jonas Olesnickis]]: Jonas Olesnickis, gelbėdamas Vilniaus pilis, liepė sudeginti likusius miesto namus, o jų gyventojus iškeldino į Žemutinę pilį.
@@ -995,20 +1647,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/asmenys/Jonas iš Zabrežjės.md#claim-t-87525|Jonas iš Zabrežjės]]: 1503 m. Vilniuje Jonas iš Zabrežjės dalyvavo rašto išdavimo paliudijime kaip LDK didysis maršalka, Trakų vaivada ir Merkinės laikytojas.
 - susijęs iš [[objektai/asmenys/Jonas Černius.md#claim-t-170075|Jonas Černius]]: 1938 m. manevruose generolas Jonas Černius buvo fotografijoje šalia kariuomenės vado Stasio Raštikio.
 - susijęs iš [[objektai/asmenys/Jonas Žemaitis-Vytautas.md#claim-t-18997|Jonas Žemaitis-Vytautas]]: Jonas Žemaitis-Vytautas buvo išrinktas LLKS Tarybos prezidiumo pirmininku ir gavo partizanų generolo laipsnį.
-- susijęs iš [[objektai/asmenys/Juozas Tumas-Vaižgantas.md#claim-t-63766|Juozas Tumas-Vaižgantas]]: Juozas Tumas-Vaižgantas tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis.
-- susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19026|Juozas Urbšys]]: Juozui Urbšiui prireikė skristi į Kauną konsultuotis, nes sovietai reikalavo įsileisti į Lietuvą savo karines bazes.
 - susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19027|Juozas Urbšys]]: Birželio 10 d. Kaune nutarta pasiųsti ministrą Juozą Urbšį į Maskvą.
 - susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19030|Juozas Urbšys]]: Birželio 14 d. vakare Juozas Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai kelti sovietų reikalavimai.
 - susijęs iš [[objektai/asmenys/Jurgis Šaulys.md#claim-t-19033|Jurgis Šaulys]]: Jurgis Šaulys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49402|K. Škirpa]]: K. Škirpa vadovavo Vilniaus batalionui, kuriam buvo įsakyta saugoti Paltynų-Žaiginio barą iki 1919 m.
 - susijęs iš [[objektai/asmenys/Kazimieras Vežbickis.md#claim-t-87752|Kazimieras Vežbickis]]: 1746 m. Kazimieras Vežbickis su Mykolu Vežbickiu skyrė bibliotekai lėšų iš namų ir sklypų pajamų knygoms gausinti.
 - susijęs iš [[objektai/asmenys/Kinsgaila.md#claim-t-30330|Kinsgaila]]: Kinsgaila buvo Ukmergės seniūnas ir vienas iš sąjungininkų pusės vadų.
-- susijęs iš [[objektai/asmenys/Konradas Ciolneris Rotenšteinas.md#claim-t-87439|Konradas Ciolneris Rotenšteinas]]: 1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas su didelėmis pajėgomis persikėlė per Nemuną ties Kaunu ir niokojo kraštą.
-- susijęs iš [[objektai/asmenys/Konradas Wallenrodas.md#claim-t-30334|Konradas Wallenrodas]]: Konradas Wallenrodas 1391 m. rudeniop suruošė didelį žygį į Lietuvą ir rugsėjo 1 d. prie Kauno Nemuno saloje iškėlė išskirtinę puotą svečiams pilgrimams.
 - susijęs iš [[objektai/asmenys/Liudvikas Narbutas.md#claim-t-183751|Liudvikas Narbutas]]: Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti.
 - susijęs iš [[objektai/asmenys/Liudvikas Narbutas.md#claim-t-40307|Liudvikas Narbutas]]: Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti.
 - susijęs iš [[objektai/asmenys/M. K. Čiurlionis.md#claim-t-63886|M. K. Čiurlionis]]: Čiurlionio muziejaus senojo meno ekspozicija.
-- susijęs iš [[objektai/asmenys/Mendli Girėjus.md#claim-t-87443|Mendli Girėjus]]: Aleksandras siekė suimti ir įbauginti Mendli Girėjų, todėl Šach Achmedas buvo iki gyvos galvos įkalintas Kaune.
 - susijęs iš [[objektai/asmenys/Michailas Gorbačiovas.md#claim-t-101680|Michailas Gorbačiovas]]: Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvos visuomenės nepasitenkinimas didėjo.
 - susijęs iš [[objektai/asmenys/Michailas Gorbačiovas.md#claim-t-101685|Michailas Gorbačiovas]]: Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje LKP vadovybė laikėsi pasyviai.
 - susijęs iš [[objektai/asmenys/Michailas Gorbačiovas.md#claim-t-101686|Michailas Gorbačiovas]]: Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvos visuomenės nepasitenkinimas didėjo, kol ji pati ėmėsi iniciatyvos.
@@ -1018,22 +1665,14 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/asmenys/Mykolas (Glinsko kunigaikštis).md#claim-t-87557|Mykolas (Glinsko kunigaikštis)]]: 1503 m. Vilniuje duotame rašte dalyvavęs Mykolas įvardytas kaip Glinsko kunigaikštis ir Lietuvos rūmų maršalka.
 - susijęs iš [[objektai/asmenys/Mykolas Kiuchmeisteris fon Štenbergas.md#claim-t-101696|Mykolas Kiuchmeisteris fon Štenbergas]]: 1413 m. sausio 28 d. Salyne prie Kauno maršalas Mykolas Kiuchmeisteris fon Štenbergas vadovavo Vokiečių ordino pasiuntinybei derybose.
 - susijęs iš [[objektai/asmenys/Mykolas Kiuchmeisteris fon Štenbergas.md#claim-t-101697|Mykolas Kiuchmeisteris fon Štenbergas]]: 1413 m. sausio 28 d. Salyne prie Kauno Mykolas Kiuchmeisteris fon Štenbergas vadovavo Vokiečių ordino pasiuntinybei.
-- susijęs iš [[objektai/asmenys/Mykolas Küchmeisteris.md#claim-t-176560|Mykolas Küchmeisteris]]: Ordino pasiuntinys Mykolas Küchmeisteris dalyvavo 1413 m. Kauno saloje sušauktame Žemaitijos sienų suvažiavime.
-- susijęs iš [[objektai/asmenys/Mykolas Sleževičius.md#claim-t-75992|Mykolas Sleževičius]]: Mykolo Sleževičiaus vyriausybė 1918 m. pasitraukė iš Vilniaus į Kauną.
 - susijęs iš [[objektai/asmenys/Mykolas Vežbickis.md#claim-t-87803|Mykolas Vežbickis]]: 1746 m. Mykolas Vežbickis su Kazimieru Vežbickiu skyrė Vilniaus akademijos bibliotekai lėšų knygoms gausinti.
 - susijęs iš [[objektai/asmenys/Nikolajus Mitkinas.md#claim-t-25704|Nikolajus Mitkinas]]: Nikolajus Mitkinas buvo lietuviškai nekalbantis LKP CK antrasis sekretorius, siekęs „Lietuvą padaryti internacionalinę“.
 - susijęs iš [[objektai/asmenys/Oskaras Milašius.md#claim-t-64019|Oskaras Milašius]]: Poetas Oskaras Milašius tapo žinomas beveik kiekvienam prancūzui.
 - susijęs iš [[objektai/asmenys/P. Liatukas.md#claim-t-39623|P. Liatukas]]: P. Liatukas vasario 8 d. įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184823|Petras Goštautas]]: Veliuonos įgulos vadas Goštautas pasidavė priešams, bet žuvo nuo nugalėtojų rankų jiems susiginčijus dėl belaisvio.
 - susijęs iš [[objektai/asmenys/Petras Griškevičius.md#claim-t-64025|Petras Griškevičius]]: Petras Griškevičius, būdamas LKP CK pirmuoju sekretoriumi, Michailo Gorbačiovo pertvarkos pradžioje laikėsi pasyviai.
-- susijęs iš [[objektai/asmenys/Petras Kubiliūnas.md#claim-t-19193|Petras Kubiliūnas]]: Petras Kubiliūnas 1934 m. vadovavo dalinių išvedimui į Kauno gatves, laikytam pavojingiausiu voldemarininkų pučo bandymu.
-- susijęs iš [[objektai/asmenys/Polis Himansas.md#claim-t-183562|Polis Himansas]]: Polis Himansas per tris savaites parengė Lietuvos federacinės valstybės iš Kauno ir Vilniaus kantonų projektą pagal Šveicarijos pavyzdį.
-- susijęs iš [[objektai/asmenys/Polis Himansas.md#claim-t-64039|Polis Himansas]]: Polis Himansas per tris savaites parengė Lietuvos federacinės valstybės iš Kauno ir Vilniaus kantonų projektą pagal Šveicarijos pavyzdį.
-- susijęs iš [[objektai/asmenys/Povilas Sapiega.md#claim-t-79154|Povilas Sapiega]]: Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną.
 - susijęs iš [[objektai/asmenys/Rimgaudas Songaila.md#claim-t-64041|Rimgaudas Songaila]]: Rimgaudas Songaila, pakeitęs Petrą Griškevičių LKP CK pirmojo sekretoriaus pareigose, laikėsi pasyviai.
 - susijęs iš [[objektai/asmenys/Romain Garry.md#claim-t-19205|Romain Garry]]: Romain Garry užaugo Vilniuje ir tapo dukartiniu Gonkūrų premijos laureatu.
-- susijęs iš [[objektai/asmenys/Romas Kalanta.md#claim-t-183564|Romas Kalanta]]: 1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu, sušuko „Laisvę Lietuvai!“, pasidegė ir mirė ligoninėje.
-- susijęs iš [[objektai/asmenys/Romas Kalanta.md#claim-t-46288|Romas Kalanta]]: Romas Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą.
 - susijęs iš [[objektai/asmenys/S. Girėnas.md#claim-t-78078|S. Girėnas]]: Sovietmečiu buvo leista rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį.
 - susijęs iš [[objektai/asmenys/S. Nastopka.md#claim-t-40411|S. Nastopka]]: S. Nastopkos vadovaujama 1-oji pėstininkų divizija įžengė į bolševikų paliktą Vilnių.
 - susijęs iš [[objektai/asmenys/Senda Berenson-Abbot.md#claim-t-78070|Senda Berenson-Abbot]]: Senda Berenson-Abbot, vadinama Amerikos krepšinio motina, gimė Vilniuje 1868 m.
@@ -1047,74 +1686,50 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101715|Stasys Raštikis]]: Stasys Raštikis vyriausybės posėdyje pareiškė, kad kariuomenė kovos, jei gaus tokį įsakymą.
 - susijęs iš [[objektai/asmenys/Steponas Darius.md#claim-t-78013|Steponas Darius]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
 - susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
-- susijęs iš [[objektai/asmenys/Sungaila.md#claim-t-30386|Sungaila]]: Sungaila buvo Kauno seniūnas ir vienas iš Žalgirio kautynių vadų.
 - susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49491|V. Grigaliūnas-Glovackis]]: Vasario 8 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui išsiųsti į Prienus J. Butkaus vadovaujamą 200 karių rinktinę.
-- susijęs iš [[objektai/asmenys/V. Landsbergis-Žemkalnis.md#claim-t-78038|V. Landsbergis-Žemkalnis]]: V. Landsbergis-Žemkalnis buvo Kaune stovėjusio „Pienocentro“ pastato architektas.
 - susijęs iš [[objektai/asmenys/Vaitiekus (Lucko vyskupas).md#claim-t-87931|Vaitiekus (Lucko vyskupas)]]: 1507 m. Melnike Vaitiekus dalyvavo patvirtinant Trakų žydų privilegijas kaip Lucko vyskupas.
-- susijęs iš [[objektai/asmenys/Vaitiekus Janavičius.md#claim-t-87874|Vaitiekus Janavičius]]: Vaitiekus Janavičius 1507 m. Melnike buvo paminėtas kaip karališkasis rūmininkas ir Kauno seniūnas.
 - susijęs iš [[objektai/asmenys/Vaitiekus Narutavičius.md#claim-t-87875|Vaitiekus Narutavičius]]: Vaitiekus Narutavičius 1507 m. Melnike dalyvavo kaip rūmų maršalka ir Josvainių seniūnas.
-- susijęs iš [[objektai/asmenys/Vaižgantas.md#claim-t-78080|Vaižgantas]]: Vaižgantas buvo vienas iš lietuvių literatūros klasikų, minėtų kaip dar vaikščiojusių Kauno gatvėmis.
 - susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64238|Viačeslavas Molotovas]]: 1940 m. birželio 14 d. Juozas Urbšys iš Viačeslavo Molotovo gavo ultimatumą, kuriuo reikalauta įsileisti papildomus sovietų karinius dalinius ir pakeisti vyriausybę.
 - susijęs iš [[objektai/asmenys/Vinrichas fon Kniprodė.md#claim-t-80702|Vinrichas fon Kniprodė]]: 1362 m. Kauno pilies žygiui vadovavo didysis Ordino magistras Vinrichas fon Kniprodė.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176625|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas tikėjo, kad viename pralaimėtame mūšyje jį išgelbėjo Švč. Mergelė Marija.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176630|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto tolerancijos įvaizdis sietas su totorių pakvietimu į Lietuvą ir žydams suteiktomis privilegijomis.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176680|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas įkūnijo tautinį ir politinį idealą, siejamą su Lietuvos vadavimu iš priklausomybės nuo lenkų.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176721|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų.
 - susijęs iš [[objektai/asmenys/Zigmantas Sierakauskas.md#claim-t-64422|Zigmantas Sierakauskas]]: Gegužės pradžioje prie Biržų Zigmantas Sierakauskas buvo sužeistas, pateko į nelaisvę ir netrukus viešai pakartas Vilniuje.
-- susijęs iš [[objektai/asmenys/Zigmantas Sierakauskas.md#claim-t-64424|Zigmantas Sierakauskas]]: Zigmantas Sierakauskas parengė sukilėlių kovos planą, numatantį sujungti Kauno gubernijos sukilėlių pajėgas.
 - susijęs iš [[objektai/asmenys/Zigmantas Sierakauskas.md#claim-t-64425|Zigmantas Sierakauskas]]: 1863 m. pavasarį Zigmantas Sierakauskas buvo paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu.
 - susijęs iš [[objektai/asmenys/Zofija Algimantaitė.md#claim-t-34776|Zofija Algimantaitė]]: Zofija Algimantaitė buvo išauklėta Vytauto dvare ir laikyta jo giminaite.
 - susijęs iš [[objektai/asmenys/Šach Achmedas.md#claim-t-87417|Šach Achmedas]]: Šach Achmedas su savo palyda klajojo palapinėse aplink Vilnių, kol karalius tvarkė totorių reikalus.
 - susijęs iš [[objektai/asmenys/Šindekopfas.md#claim-t-186091|Šindekopfas]]: Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.
 - susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184381|Žygimantas]]: Žygimantas kartu su Vytautu ir Švitrigaila nakties tamsoje pabėgo po kautynių tolimose stepėse.
 - susijęs iš [[objektai/autoriai/A. Alekna.md#claim-t-64501|A. Alekna]]: Zenonas Ivinskis vertino, kad A. Aleknos „Katalikų Bažnyčia Lietuvoje“ parodė jo gebėjimą kritiškai ir objektyviai vertinti šaltinius.
-- susijęs iš [[objektai/autoriai/A. Alekna.md#claim-t-64502|A. Alekna]]: A. Alekna, remdamasis Kauno vyskupijos kurijos archyvine medžiaga, 1923 m. išleido veikalą „Žemaičių vysk. M. Valančius“.
 - susijęs iš [[objektai/autoriai/A. Alekna.md#claim-t-64504|A. Alekna]]: Antanas Alekna 1922–1930 m. dėstė Lietuvos istoriją, jos šaltinius ir istorinę geografiją Teologijos-Filosofijos fakulteto Filosofijos skyriuje.
-- susijęs iš [[objektai/autoriai/A. Alekna.md#claim-t-64506|A. Alekna]]: A. Alekna parašė „Katalikų Bažnyčia Lietuvoje“, išleistą Kaune 1936 m.
 - susijęs iš [[objektai/autoriai/A. Brückner.md#claim-t-64507|A. Brückner]]: A. Brückner parašė Dzieje kultury polskiej pirmą tomą.
 - susijęs iš [[objektai/autoriai/A. Prochaska.md#claim-t-47870|A. Prochaska]]: A. Prochaska parašė darbą „O prawdziwości listów Gedymina“, publikuotą 1893 m.
 - susijęs iš [[objektai/autoriai/A. Salys.md#claim-t-64518|A. Salys]]: A. Salys parašė Die žemaitischen Mundarten. Teil 1 : Geschichte des žemaitischen Sprachgebiets.
-- susijęs iš [[objektai/autoriai/Al'-Idrisi.md#claim-t-30556|Al''-Idrisi]]: Al''-Idrisi, remdamasis pirklių, keliautojų ir piligrimų žiniomis, „Rogero knygoje“ minėjo rytų Pabaltijį ir galimai Kauną.
-- susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojelavičius.md#claim-t-184460|Albertas Vijūkas-Kojelavičius]]: Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.
-- susijęs iš [[objektai/autoriai/Algimantas Daugirdas.md#claim-t-39848|Algimantas Daugirdas]]: Algimantas Daugirdas gimė 1949 m., o 1972 m. baigė KTU, tuometinį Kauno politechnikos institutą.
-- susijęs iš [[objektai/autoriai/Andziulytė-Ruginienė, M.md#claim-t-29300|Andziulytė-Ruginienė, M]]: M. Andziulytė-Ruginienė 1937 m. Kaune paskelbė darbą „Žemaičių christianizacijos pradžia“.
 - susijęs iš [[objektai/autoriai/E. Danilaitė.md#claim-t-30590|E. Danilaitė]]: E. Danilaitė 1964 m. paskelbė darbą „Brūkšniuotosios keramikos gyvenvietė vakarų Lietuvoje“.
 - susijęs iš [[objektai/autoriai/E. Griškūnaitė.md#claim-t-30592|E. Griškūnaitė]]: E. Griškūnaitė rašė apie 1905 m. sukilimą Lietuvoje.
 - susijęs iš [[objektai/autoriai/H. Spliet.md#claim-t-30631|H. Spliet]]: H. Splietas 1953 m. Sinsheime paskelbė veikalą „Die Briefe Gedimins“.
-- susijęs iš [[objektai/autoriai/I. Lappo.md#claim-t-100107|I. Lappo]]: I. Lappo 1934 m. Kaune išleido veikalo „1588 Lietuvos Statutas“ pirmojo tomo pirmąją dalį.
-- susijęs iš [[objektai/autoriai/J. Jakubovskis.md#claim-t-30674|J. Jakubovskis]]: J. Jakubovskio „Tautybių santykiai Lietuvoje prieš Liublino uniją“ išėjo Kaune 1921 m.
 - susijęs iš [[objektai/autoriai/J. Jakubowski.md#claim-t-64629|J. Jakubowski]]: J. Jakubowski 1907 m. paskelbė darbą „Opis księstwa trockiego w 1387 r.“
 - susijęs iš [[objektai/autoriai/J. Lebedys.md#claim-t-30687|J. Lebedys]]: J. Lebedys kartu su K. Korsaku parengė „Lietuvių literatūros chrestomatiją“, išleistą Vilniuje 1957 m.
 - susijęs iš [[objektai/autoriai/J. Pfitzner.md#claim-t-30694|J. Pfitzner]]: J. Pfitzneris 1930 m. Prahoje išleistame veikale „Grossfürst Witold als Staatsmann“ reikalavo į Vytautą žiūrėti lietuvių požiūriu.
-- susijęs iš [[objektai/autoriai/J. Puzinas.md#claim-t-64642|J. Puzinas]]: J. Puzinas 1938 m. Kaune paskelbė darbą „Naujausių proistorinių tyrinėjimų duomens“.
-- susijęs iš [[objektai/autoriai/J. Talmantas.md#claim-t-64648|J. Talmantas]]: J. Talmantas redagavo 1935 m. Kaune išleistą Simono Daukanto veikalą „Būdas senovės lietuvių Kalnėnų ir Žemaičių“.
-- susijęs iš [[objektai/autoriai/J. Totoraitis.md#claim-t-64650|J. Totoraitis]]: J. Totoraitis parašė „Sūduvos-Suvalkijos istorijos“ pirmą tomą, išleistą Kaune 1938 m.
 - susijęs iš [[objektai/autoriai/Jakštas, J.md#claim-t-71518|Jakštas, J]]: J. Jakštas yra veikalo Vokiečių Ordinas ir Lietuva Vytenio ir Gedimino metu autorius.
-- susijęs iš [[objektai/autoriai/Juozas Tumas (Vaižgantas).md#claim-t-19412|Juozas Tumas (Vaižgantas)]]: Vaižgantas buvo vienas iš lietuvių literatūros klasikų, tarpukariu dar gyvenusių Kaune.
 - susijęs iš [[objektai/autoriai/K. Būga.md#claim-t-64672|K. Būga]]: K. Būga 1924 m. paskelbė darbą „Die Vorgeschichte der aistischen (baltischen) Stämme im Lichte der Ortsnamenforschung“.
 - susijęs iš [[objektai/autoriai/K. Korsakas.md#claim-t-186446|K. Korsakas]]: K. Korsakas su J. Lebedžiu parengė 1957 m. Vilniuje išleistą „Lietuvių literatūros chrestomatiją“.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
-- susijęs iš [[objektai/autoriai/Kučinskas, A.md#claim-t-30774|Kučinskas, A]]: A. Kučinskas nurodomas 1934 m. Kaune paskelbto teksto „Gedimino dinastijos kilmė“ autoriumi.
 - susijęs iš [[objektai/autoriai/L. Mulevičius.md#claim-t-30781|L. Mulevičius]]: L. Mulevičius rašė apie to laiko žemėvaldos klausimus.
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179525|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: W. Kamienieckis parašė eilę studijų apie Lietuvos XIV-XV a. visuomeninius-socialinius santykius.
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179527|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: W. Kamienieckis parašė studijų apie XIV-XV a. Lietuvos visuomeninius ir socialinius santykius.
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179545|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: L. Bičkauskas-Gentvila 1958 m. rašė apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje.
-- susijęs iš [[objektai/autoriai/Lindenblattas Joannes von der Pusilie.md#claim-t-88027|Lindenblattas Joannes von der Pusilie]]: Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.
-- susijęs iš [[objektai/autoriai/Lindenblattas Johannes Lindenblatt.md#claim-t-87979|Lindenblattas Johannes Lindenblatt]]: Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.
 - susijęs iš [[objektai/autoriai/M. Ljubavskij.md#claim-t-30841|M. Ljubavskij]]: M. Ljubavskij parašė veikalą „Litovsko-Russkij sejm“, išleistą Maskvoje 1900 m.
 - susijęs iš [[objektai/autoriai/M. Priselkov.md#claim-t-30846|M. Priselkov]]: M. D. Priselkovas rekonstravo Troickajos metraštį, 1950 m. išleistą Maskvoje.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172937|M. Strijkovskis Stryjkowski]]: Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172887|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis apsiriko rašydamas, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su kariuomene įsibrovė į Lietuvą.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172903|Motiejus Strijkovskis (kronikininkas)]]: Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą.
-- susijęs iš [[objektai/autoriai/Maironis.md#claim-t-125059|Maironis]]: Maironis buvo vienas lietuvių literatūros klasikų, tuo metu dar vaikščiojusių Kauno gatvėmis.
-- susijęs iš [[objektai/autoriai/Mickevičius.md#claim-t-05717|Mickevičius]]: Adomas Mickevičius buvo ištremtas į Rusiją, kai jau buvo mokytojas Kaune ir palaikė glaudžius ryšius su studentais.
 - susijęs iš [[objektai/autoriai/O. Maksimaitienė.md#claim-t-30883|O. Maksimaitienė]]: O. Maksimaitienė pateikė duomenų apie 1863 m. sukilėlių kovinius veiksmus Augustavo gubernijoje ir jų antspaudus.
 - susijęs iš [[objektai/autoriai/P. Būtėnas.md#claim-t-97202|P. Būtėnas]]: P. Būtėnas 1973 m. žurnale „Karys“ paskelbė straipsnį „Gintaro šneka“.
 - susijęs iš [[objektai/autoriai/P. Būtėnas.md#claim-t-97203|P. Būtėnas]]: P. Būtėnas 1973 m. žurnale „Karys“ paskelbė straipsnį „Gintaro šneka“.
 - susijęs iš [[objektai/autoriai/P. Girdzijauskienė.md#claim-t-30898|P. Girdzijauskienė]]: P. Girdzijauskienė 1955 m. paskelbė darbą „1905-1907 metų revoliucija Lietuvoje“.
 - susijęs iš [[objektai/autoriai/P. Klimas.md#claim-t-00068|P. Klimas]]: P. Klimas buvo Lietuvos Tarybos narys.
 - susijęs iš [[objektai/autoriai/P. Rėklaitis.md#claim-t-30909|P. Rėklaitis]]: P. Rėklaitis parašė darbą „Einführung in die Kunstgeschichtsforschung des Großfürstentums Litauen“, išleistą Marburge 1962 m.
-- susijęs iš [[objektai/autoriai/P. Tarasenka.md#claim-t-71551|P. Tarasenka]]: P. Tarasenka 1929 m. Kaune išleido veikalą „Lietuvos archeologijos medžiaga“.
 - susijęs iš [[objektai/autoriai/P. Šležas.md#claim-t-64800|P. Šležas]]: P. Šležas 1930 m. redagavo kolektyvinę monografiją apie Vytautą Didįjį.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181461|Petras Dusburgietis]]: Petras Dusburgietis 1326 m. užbaigė savo kroniką, įteikė ją magistrui, o kūrinys buvo pratęstas iki 1330 m.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181466|Petras Dusburgietis]]: Petras iš Dusburgo 1326 m. užbaigė savo kroniką ir įteikė ją magistrui.
@@ -1123,28 +1738,17 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/autoriai/St. M. Kuczyński.md#claim-t-30994|St. M. Kuczyński]]: St. M. Kuczyński 1955 m. Varšuvoje paskelbė veikalą „Wielka wojna z Zakonem Krzyżackim w latach 1409-11“.
 - susijęs iš [[objektai/autoriai/St. Smolka.md#claim-t-54137|St. Smolka]]: St. Smolka 1889 m. Krokuvoje paskelbė darbą „Kiejstut i Jagiełło“ „Pamiętnik AU“ 7 tome.
 - susijęs iš [[objektai/autoriai/St. Smolka.md#claim-t-54138|St. Smolka]]: St. Smolka 1889 m. Krokuvoje paskelbė darbą „Kiejstut i Jagiełło“.
-- susijęs iš [[objektai/autoriai/St. Yla.md#claim-t-31000|St. Yla]]: St. Yla 1938 m. Kaune paskelbė veikalą „Krikščionybės įvedimas Lietuvoje“.
 - susijęs iš [[objektai/autoriai/V. Jungfer.md#claim-t-31030|V. Jungfer]]: V. Jungfer parengė vokišką santrauką „Alt-Litauen“.
 - susijęs iš [[objektai/autoriai/V. Kiparsky.md#claim-t-31032|V. Kiparsky]]: V. Kiparsky 1939 m. parašė darbą „Kurenfrage“.
-- susijęs iš [[objektai/autoriai/V. Černeckis.md#claim-t-31055|V. Černeckis]]: V. Černeckis rašė apie kapitalistinės pramonės formavimąsi Kaune 1861–1913 m.
-- susijęs iš [[objektai/autoriai/Vileišis V.md#claim-t-62662|Vileišis V]]: V. Vileišis yra 1935 m. Kaune išleisto veikalo „Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje“ autorius.
 - susijęs iš [[objektai/autoriai/W. Kamienieckis.md#claim-t-31063|W. Kamienieckis]]: W. Kamienieckis parašė kelias studijas apie XIV-XV a. Lietuvos visuomeninius ir socialinius santykius.
-- susijęs iš [[objektai/autoriai/Wagner, K.md#claim-t-31076|Wagner, K]]: K. Wagneris 1933 m. „Naujojoje Romuvoje“ paskelbė darbą „Vokiečių ordino pilys Kauno apylinkėje“.
 - susijęs iš [[objektai/autoriai/Z. Raulinaitis.md#claim-t-31088|Z. Raulinaitis]]: Z. Raulinaitis 1970 m. žurnale „Karys“ paskelbė darbą „Apuolės užpuolimus“.
 - susijęs iš [[objektai/autoriai/prof. Simpsonas.md#claim-t-01171|prof. Simpsonas]]: Škotas prof. Simpsonas tarpininkavo komisijų konferencijose, kurios išvedė sieną nedaug nutoldamos nuo buvusios gubernijos sienos.
-- susijęs iš [[objektai/daiktai/ANBO lėktuvai.md#claim-t-13449|ANBO lėktuvai]]: ANBO šaltinyje aiškinamas kaip lėktuvų projektavimo ir gamybos Kaune ženklas.
-- susijęs iš [[objektai/daiktai/ANBO lėktuvai.md#claim-t-13450|ANBO lėktuvai]]: Antanas Gustaitis sukonstravo ANBO seriją, o Kauno karo aviacijos dirbtuvėse pastatyti 66 tokie lėktuvai.
-- susijęs iš [[objektai/daiktai/ANBO lėktuvai.md#claim-t-13451|ANBO lėktuvai]]: ANBO VIII buvo Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse 1939 m. pagamintas lengvasis bombonešis.
-- susijęs iš [[objektai/daiktai/ANBO lėktuvai.md#claim-t-23269|ANBO lėktuvai]]: ANBO siejamas su lėktuvų projektavimu ir gamyba Kaune kaip vienu iš Lietuvos Respublikos civilizacinių pasiekimų.
 - susijęs iš [[objektai/daiktai/Bažnyčių altoriai, paveikslai, skulptūros, freskos ir vargonai.md#claim-t-77921|Bažnyčių altoriai, paveikslai, skulptūros, freskos ir vargonai]]: Iki XVI a. vidurio vienuolynų bažnyčiose buvo prabangūs altoriai, daug paveikslų, skulptūrų ir freskų, o nuo XV a. pabaigos ir vargonai.
 - susijęs iš [[objektai/daiktai/Bibliotekos baldai dailidžių darbo spintos ir marmuro stalai.md#claim-t-87108|Bibliotekos baldai dailidžių darbo spintos ir marmuro stalai]]: 1746 m. Kazimieras ir Mykolas Vežbickiai skyrė lėšų bibliotekos langams taisyti, dailidžių darbo spintoms įsigyti ir marmuro stalams.
 - susijęs iš [[objektai/daiktai/Bomba.md#claim-t-45472|Bomba]]: Lapkričio 15 d. Kaune sprogusi bomba sužeidė E. Galvanauską, bet jis liko gyvas.
 - susijęs iš [[objektai/daiktai/Bomba.md#claim-t-45473|Bomba]]: Lapkričio 15 d. Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba.
 - susijęs iš [[objektai/daiktai/Bomba.md#claim-t-45474|Bomba]]: Lapkričio 15 d. Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba.
 - susijęs iš [[objektai/daiktai/Bomba.md#claim-t-45475|Bomba]]: Lapkričio 15 d. Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba.
-- susijęs iš [[objektai/daiktai/Bombardos.md#claim-t-113458|Bombardos]]: 1384 m. rudenį Jogaila ir Vytautas su bombardomis apgulė Kauno Marienwerderį.
-- susijęs iš [[objektai/daiktai/Dariaus ir Girėno mauzoliejus Kaune.md#claim-t-77922|Dariaus ir Girėno mauzoliejus Kaune]]: Dariaus ir Girėno mauzoliejus Kaune buvo pastatytas lakūnams kaip didvyriams, naikintas per nacių okupaciją ir baigtas naikinti sovietmečiu.
-- susijęs iš [[objektai/daiktai/Ginklai ir ginkluotė.md#claim-t-183296|Ginklai ir ginkluotė]]: 1920 m. bolševikai iš RSFSR atsiuntė apie 2 000 diversantų, nelegaliai gabeno ginklus ir steigė jų sandėlius Kaune bei kituose miestuose.
 - susijęs iš [[objektai/daiktai/Jono Budrio Polovinsko špaga.md#claim-t-40721|Jono Budrio Polovinsko špaga]]: Jono Budrio Polovinsko špaga buvo siejama su Klaipėdos sukilimo vadu ir Vytauto Didžiojo karo muziejumi.
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-10728|Lietuvos pinigai]]: Kapomis vadintus Lietuvos pinigus greičiausiai liejo ne tik didžiojo kunigaikščio iždas, bet ir privatūs žmonės.
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12320|Lietuvos pinigai]]: Vytauto įsakymu Kaune kalti K pinigėliai turėjo Gedimino stulpus ir raidę K, o mokesčiai turėjo būti mokami Lietuvoje kaltais sidabriniais pinigais.
@@ -1152,12 +1756,9 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/daiktai/Lėktuvai.md#claim-t-77929|Lėktuvai]]: 1919 m. rugsėjo 26 d. Kaune lėktuvai skraidė virš minios, tempdami Lietuvos trispalvę.
 - susijęs iš [[objektai/daiktai/Malūnas.md#claim-t-35536|Malūnas]]: Vytautas suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus.
 - susijęs iš [[objektai/daiktai/Mosin-Nagant šautuvas.md#claim-t-39209|Mosin-Nagant šautuvas]]: Po 1877-1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas.
-- susijęs iš [[objektai/daiktai/Mūro pilys.md#claim-t-19571|Mūro pilys]]: Gedimino ar Algirdo valdymo laikais aplink valstybės branduolį buvo sukurta mūro pilių sistema: Medininkai, Krėva, Lyda, Trakai, Gardinas ir Kaunas.
 - susijęs iš [[objektai/daiktai/Nepriklausomybės dešimtmečio atminimo kryžiai ir patriotiniai paminklai.md#claim-t-19573|Nepriklausomybės dešimtmečio atminimo kryžiai ir patriotiniai paminklai]]: Minint pirmąjį nepriklausomybės dešimtmetį pastatyta atminimo kryžių, patriotinių paminklų, primenančių nepriklausomybės kovas, imta rūpintis žuvusių už Lietuvos laisvę karių kapais.
 - susijęs iš [[objektai/daiktai/Padirbti lietuviški dokumentai.md#claim-t-77931|Padirbti lietuviški dokumentai]]: 1920 m. rugpjūtį Rusijos bolševikai iš RSSFR atsiuntė apie 2 000 diversantų su padirbtais lietuviškais dokumentais.
 - susijęs iš [[objektai/daiktai/Paminklas Žuvusiems už Lietuvos laisvę.md#claim-t-19579|Paminklas Žuvusiems už Lietuvos laisvę]]: 1934 m. lapkričio 23 d. Kaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos laisvę palaidotas Nežinomas kareivis.
-- susijęs iš [[objektai/daiktai/Pramonės ir prekybos rūmai Kaune.md#claim-t-25169|Pramonės ir prekybos rūmai Kaune]]: Pramonės ir prekybos rūmų Kaune architektas buvo V. Landsbergis-Žemkalnis; objektas datuojamas 1938 m.
-- susijęs iš [[objektai/daiktai/Prisikėlimo bažnyčia Kaune.md#claim-t-26412|Prisikėlimo bažnyčia Kaune]]: Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią religinę ir tautinę dvasią.
 - susijęs iš [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai.md#claim-t-45538|Romo Kalantos atminimo paminklai ir simboliai]]: Užsienyje gyvenantys lietuviai statė Romo Kalantos paminklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose.
 - susijęs iš [[objektai/daiktai/Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2.md#claim-t-40758|Rusiškas 1870 m. modelio šautuvas Berdan Nr. 2]]: Pirmojo pasaulinio karo metu, pradėjus trūkti ginklų, buvo naudojami ir senieji Berdan šautuvai.
 - susijęs iš [[objektai/daiktai/Sklandytuvai.md#claim-t-19592|Sklandytuvai]]: Kaune lietuviai konstravo karo ir sporto lėktuvus, lengvuosius bombonešius ir gamino sportui skirtus sklandytuvus.
@@ -1169,28 +1770,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/daiktai/Vytauto paveikslas.md#claim-t-65007|Vytauto paveikslas]]: Vytauto Didžiojo kulto kūrimo momentas: 1930 m. Pasvalyje ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą kunigaikščio paveikslas Vytauto Didžiojo karo muziejus, atidarytas 1935 m.
 - susijęs iš [[objektai/daiktai/Šarvuotasis traukinys Gediminas.md#claim-t-78695|Šarvuotasis traukinys Gediminas]]: 1920 m. sausį Kauno geležinkelio dirbtuvėse pradėtas statyti pirmasis Lietuvos kariuomenės šarvuotasis traukinys „Gediminas“.
 - susijęs iš [[objektai/daiktai/„Lituanica“ lėktuvas.md#claim-t-25181|„Lituanica“ lėktuvas]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ skrido tiesiogiai iš Niujorko į Lietuvą.
-- susijęs iš [[objektai/daiktai/„Pienocentro“ pastatas Kaune.md#claim-t-71580|„Pienocentro“ pastatas Kaune]]: „Pienocentro“ pastatas Kaune buvo užfiksuotas apie 1938 m.
 - susijęs iš [[objektai/grupes/Bermontininkai.md#claim-t-40868|Bermontininkai]]: Bermontininkai užėmė Šiaurės Lietuvą ir, palaipsniui judėdami į pietus, pasiekė Raseinius.
 - susijęs iš [[objektai/grupes/Bolševikų 2-asis šaulių pulkas.md#claim-t-40869|Bolševikų 2-asis šaulių pulkas]]: Bolševikų 2-asis šaulių pulkas artėjo Kėdainių kryptimi ir turėjo apie 900 ar 1 000 kovotojų.
 - susijęs iš [[objektai/grupes/Draugija užsienio lietuviams remti.md#claim-t-77822|Draugija užsienio lietuviams remti]]: Draugija užsienio lietuviams remti buvo sukurta padėti užsienio lietuviams ir palaikyti jų ryšius su tėvyne.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-10757|Hanza]]: Hanza Kaune ir Polocke įsteigė savo agentūras, vadintas pirklių kontoromis.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116693|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116696|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
 - susijęs iš [[objektai/grupes/Heinricho Hamano skrajojantis būrys.md#claim-t-19704|Heinricho Hamano skrajojantis būrys]]: Heinricho Hamano „skrajojantis būrys“ buvo iš lietuvių sudaryta zonderkomanda, vykdavusi į provincijos vietoves šaudyti.
 - susijęs iš [[objektai/grupes/Jaunieji tautininkai.md#claim-t-19719|Jaunieji tautininkai]]: Jaunieji tautininkai Vokietijos ir Lenkijos karo metu kaltino valdžią neveiklumu ir ragino vyriausybę jėga atsiimti Vilnių.
-- susijęs iš [[objektai/grupes/Kauno jėzuitų kolegija.md#claim-t-86798|Kauno jėzuitų kolegija]]: 1746 m. Kazimieras ir Mykolas Vežbickiai nupirko sklypus Užupyje su Kauno jėzuitų kolegijos pastatais.
 - susijęs iš [[objektai/grupes/Kooperacinės bendrovės „Lietūkis“, „Pienocentras“ ir „Maistas“.md#claim-t-65314|Kooperacinės bendrovės „Lietūkis“, „Pienocentras“ ir „Maistas“]]: 1935 m. „Pienocentras“ tris kartus sumažino iš valstiečių supirkinėtų pieno produktų kainas.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178801|Kryžiuočių ordinas]]: Vytautas atnaujino ryšius su Prūsija ir kryžiuočiams pažadėjo padėti atstatyti sudegintas jų pilis prie Kauno.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178864|Kryžiuočių ordinas]]: XIV a. trečiajame dešimtmetyje Vakarų Europoje pasigirdo kritiškų balsų Kryžiuočių ordino atžvilgiu.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178954|Kryžiuočių ordinas]]: 1362 m. pavasarį Prūsų kryžiuočiai, remiami Livonijos magistro ir svečių iš Vakarų, išgriovė Kauno pilį.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178971|Kryžiuočių ordinas]]: 1362 m. pavasarį Prūsų kryžiuočiai su sąjungininkais išgriovė svarbią lietuvių pilį Kauną prie Nemuno ir Neries santakos.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179047|Kryžiuočių ordinas]]: 1362 m. pavasarį Prūsų kryžiuočiai, remiami svečių ir Livonijos magistro, išgriovė Kauno pilį Nemuno ir Neries santakoje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179099|Kryžiuočių ordinas]]: Vytautas Kaune be Lenkijos žinios suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179123|Kryžiuočių ordinas]]: 1385 m. didžiojo magistro Konrado Ciolnerio žygis buvo paskutinis Ordino smūgis pagoniškai Lietuvai.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184499|Kryžiuočių ordinas]]: Po ilgos Kauno pilies apsiausties kryžiuočiai pasikasė po sienomis, padegė pastatus ir palaužę gynėjų pasipriešinimą užėmė pilį.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184500|Kryžiuočių ordinas]]: Po Kauno pilies užėmimo kryžiuočiai trečią dieną sugriovė išlikusius įrenginius, išvertė sienų likučius, nukasė pylimus ir išlygino griovius.
-- susijęs iš [[objektai/grupes/Kėdainių įgula.md#claim-t-78195|Kėdainių įgula]]: Vasario 7 d. anksti ryte Kėdainių įgula iš Kauno gavo šautuvų, šovinių ir rankinių granatų.
-- susijęs iš [[objektai/grupes/LDK 1-oji Tautinė brigada.md#claim-t-40975|LDK 1-oji Tautinė brigada]]: 1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada, anksčiau vadinta Kauno husarais.
 - susijęs iš [[objektai/grupes/Laikinoji vyriausybė.md#claim-t-19773|Laikinoji vyriausybė]]: 1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per užimtą radiją paskelbė apie Laikinąją vyriausybę.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179126|Lenkai]]: Po Kauno suvažiavimo lenkai siekė užkirsti kelią pavojui, kurį unijai kėlė Vytauto užsienio politika.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179154|Lenkai]]: Lenkai sudarė apie 3,2 proc. Lietuvos gyventojų ir savo kultūrinį gyvenimą telkė apie lenkiškas mokyklas.
@@ -1230,12 +1818,10 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/grupes/SSRS kariuomenė.md#claim-t-183184|SSRS kariuomenė]]: V. Molotovas J. Urbšiui pareiškė, kad SSRS kariuomenė įžygiuos į Lietuvą nepriklausomai nuo Lietuvos atsakymo.
 - susijęs iš [[objektai/grupes/SSRS kariuomenė.md#claim-t-19998|SSRS kariuomenė]]: 1940 m. birželio 14 d. ultimatumu SSRS pareikalavo, kad Lietuva įsileistų papildomus sovietų karinius dalinius.
 - susijęs iš [[objektai/grupes/Saulė.md#claim-t-168658|Saulė]]: „Saulė“ buvo viena iš trijų ypatingos reikšmės švietimo draugijų greta Vilniaus „Ryto“ ir Marijampolės „Žiburio“.
-- susijęs iš [[objektai/grupes/Saulė.md#claim-t-168659|Saulė]]: „Saulės“ draugija Kaune įsteigė buhalterijos kursus, rengusius prekybai ir vartotojų bendrovėms reikalingus žmones.
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74921|Sovietų Sąjunga]]: Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi.
 - susijęs iš [[objektai/grupes/Tauro apygarda.md#claim-t-49111|Tauro apygarda]]: Nuo 1947 m. apie Kauną veikė partizanų Tauro apygardos Birutės rinktinė.
 - susijęs iš [[objektai/grupes/Tautinės darbo apsaugos batalionas.md#claim-t-183187|Tautinės darbo apsaugos batalionas]]: Birželio 28 d. prie Kauno karo komendantūros iš savanorių buvo suformuotas Tautinės darbo apsaugos batalionas.
 - susijęs iš [[objektai/grupes/Tautinės darbo apsaugos batalionas.md#claim-t-20039|Tautinės darbo apsaugos batalionas]]: 1941 m. birželio 28 d. paleidus sukilėlių būrius, iš savanorių prie Kauno karo komendantūros suformuotas TDA batalionas.
-- susijęs iš [[objektai/grupes/Užsienio lietuviai.md#claim-t-20054|Užsienio lietuviai]]: 1935 m. Pasaulio lietuvių kongresas Kaune parodė, kad dauguma užsienio lietuvių buvo artimi Lietuvai ir rūpinosi jos ateitimi.
 - susijęs iš [[objektai/grupes/Vilniaus Akademija.md#claim-t-31370|Vilniaus Akademija]]: Albertas Vijūkas Kojalavičius buvo Vilniaus Akademijos profesorius ir vėliau išryškėjo kaip žymus Lietuvos istorikas.
 - susijęs iš [[objektai/grupes/Vilniaus Akademija.md#claim-t-31371|Vilniaus Akademija]]: Per Vilniaus Akademiją lotynų kalba vis labiau plito Lietuvos kilmingųjų sluoksniuose.
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172811|Vilniaus magistratas]]: 1786 m. rugpjūčio 19 d. iš Vilniaus magistrato ir miesto knygos buvo išduota privilegijos ištrauka ribų komisijos teismui.
@@ -1252,38 +1838,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/grupes/Žiburys.md#claim-t-182933|Žiburys]]: Marijampolėje veikęs „Žiburys“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117382|Žydai]]: Nepriklausomoje Lietuvoje žydai galėjo tenkinti savo kultūrinius poreikius, bet su lietuviais gyveno daugiausia atskirai.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117388|Žydai]]: Tarpukario Lietuvos žydai buvo daugiapolė, pliuralistinė ir politiškai susiskaidžiusi bendruomenė, turėjusi daug partijų ir organizacijų.
-- susijęs iš [[objektai/grupes/Žydų Hapoelio klubas.md#claim-t-75087|Žydų Hapoelio klubas]]: 1935 m. Žydų Hapoelio klubo jaunieji sportininkai žygiavo Kauno centrine gatve.
-- susijęs iš [[objektai/grupes/Žydų Hapoelio klubas.md#claim-t-75088|Žydų Hapoelio klubas]]: 1935 m. Žydų Hapoelio klubo jaunieji sportininkai žygiavo Kauno centrine gatve.
 - susijęs iš [[objektai/ivykiai/1941 m. Birželio sukilimas.md#claim-t-45327|1941 m. Birželio sukilimas (sukilimas)]]: 1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per radiją paskelbė atkuriamą laisvą ir nepriklausomą Lietuvos valstybę.
 - susijęs iš [[objektai/ivykiai/1941 m. Birželio sukilimas.md#claim-t-45329|1941 m. Birželio sukilimas (sukilimas)]]: Per 1941 m. Birželio sukilimą provincijos sukilėliai užimdavo vietos valdžios įstaigas ir suimdavo sovietų valdžios aktyvistus.
-- susijęs iš [[objektai/ivykiai/Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.).md#claim-t-01595|Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)]]: Vilniaus generalgubernatorius ir Kauno gubernatorius draudė blaivybės brolijas, nes tuo metu buvo uždraustos visos draugijos.
 - susijęs iš [[objektai/ivykiai/Felikso Vaitkaus skrydis į Lietuvą (1935 m. gegužės 21-22 d.).md#claim-t-20183|Felikso Vaitkaus skrydis į Lietuvą (1935 m. gegužės 21-22 d.)]]: 1935 m. gegužės 21–22 d. JAV lietuvis Feliksas Vaitkus sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.
-- susijęs iš [[objektai/ivykiai/Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.).md#claim-t-185489|Gedimino išrinkimas, kryžiuočių puolimai ir pergalė prie Žeimelės (1316 m.)]]: Gediminas nestojo į atvirą kovą, kai kryžiuočiai užėmė Jurbarko ir Kauno pilis, o Livonijos kryžiuočiai atėmė Kuršą.
-- susijęs iš [[objektai/ivykiai/Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.).md#claim-t-77895|Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.)]]: 1934 m. gen. Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves buvo pavojingiausias voldemarininkų bandymas puču grąžinti A. Voldemarą į valdžią.
-- susijęs iš [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis).md#claim-t-20193|Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]: Keršydamas už boikotą gestapas 1943 m. kovą Lietuvoje suėmė 46 visuomenės veikėjus, išvežė juos į Štuthofą ir uždarė Kauno bei Vilniaus universitetus.
 - susijęs iš [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis).md#claim-t-20194|Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]: 1943 m. lietuvių pogrindis boikotavo vokiečių okupacinės valdžios agitaciją lietuviams stoti į SS batalioną.
 - susijęs iš [[objektai/ivykiai/Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.).md#claim-t-20207|Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.)]]: 1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį.
-- susijęs iš [[objektai/ivykiai/Informacijos perdavimas po Sausio 13-osios ir Lietuvos kreipimasis į JT (1991 m. sausio 13 d.).md#claim-t-183223|Informacijos perdavimas po Sausio 13-osios ir Lietuvos kreipimasis į JT (1991 m. sausio 13 d.)]]: Sausio 13 d. nutrūkus radijo transliacijai, pradėjo dirbti Sitkūnų radijo stotis netoli Kauno.
-- susijęs iš [[objektai/ivykiai/Kauno bolševikų sukurstytas maištas (1920 m. vasario 22–23 d.).md#claim-t-41277|Kauno bolševikų sukurstytas maištas (1920 m. vasario 22–23 d.)]]: Lietuvos vyriausybė numalšino Kauno maištą, todėl lenkai prarado pretekstą atviram Kauno puolimui.
-- susijęs iš [[objektai/ivykiai/Kauno bolševikų sukurstytas maištas (1920 m. vasario 22–23 d.).md#claim-t-41278|Kauno bolševikų sukurstytas maištas (1920 m. vasario 22–23 d.)]]: 1920 m. vasario 22–23 d. Kaune kilusio bolševikų sukurstyto maišto pergalė būtų suteikusi Lenkijai pretekstą pulti Lietuvą atvira karine jėga.
-- susijęs iš [[objektai/ivykiai/Kauno pilies statybos pradžia (1384 m. gegužės 13 d.).md#claim-t-34540|Kauno pilies statybos pradžia (1384 m. gegužės 13 d.)]]: 1384 m. gegužės 13 d. Vytauto atiduotame Kaune kryžiuočiai pradėjo pilies statybą.
-- susijęs iš [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.).md#claim-t-183227|Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]: Po Kauno protestų iš daugiau kaip 3 000 aktyvių dalyvių buvo suimta per 400 žmonių, o aštuoni nuteisti kalėti nuo vienerių iki trejų metų.
-- susijęs iš [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.).md#claim-t-75109|Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius.
-- susijęs iš [[objektai/ivykiai/Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.).md#claim-t-75111|Kauno protestai po Romo Kalantos susideginimo (1972 m. gegužės 18–19 d.)]]: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius.
-- susijęs iš [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.).md#claim-t-184232|Kauno susitarimas su Vokiečių ordinu (1402 m.)]]: Po Kauno susitarimo Ordinas atskiru dokumentu pažadėjo Vytautui mirus globoti Oną ir ginti jos teises į jos dalį.
-- susijęs iš [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.).md#claim-t-34452|Kauno susitarimas su Vokiečių ordinu (1402 m.)]]: Kaune Vytautas be Lenkijos žinios suteikė Vokiečių ordinui teisę abipus Nevėžio statytis malūnus ir pažadėjo jam pagalbą.
-- susijęs iš [[objektai/ivykiai/Kauno susitarimas su Vokiečių ordinu (1402 m.).md#claim-t-34453|Kauno susitarimas su Vokiečių ordinu (1402 m.)]]: Kitą dieną po Kauno susitarimo Vokiečių ordinas pažadėjo po Vytauto mirties globoti jo žmoną Oną ir ginti jos teises į jos dalį.
-- susijęs iš [[objektai/ivykiai/Kauno taikos derybos su kryžiuočiais ir jų žlugimas (1408 m.).md#claim-t-185805|Kauno taikos derybos su kryžiuočiais ir jų žlugimas (1408 m.)]]: Kaune Jogaila ir Vytautas pradėjo tartis su kryžiuočių vadovais dėl tvirtos ir pastovios Prūsijos bei Lietuvos taikos.
 - susijęs iš [[objektai/ivykiai/Kazimiero ir Mykolo Vežbickių turto skyrimas bibliotekai (1746 m.).md#claim-t-86951|Kazimiero ir Mykolo Vežbickių turto skyrimas bibliotekai (1746 m.)]]: 1746 m. Kazimieras ir Mykolas Vežbickiai skyrė bibliotekai lėšas iš mūrinių namų ir Užupio sklypų pelno knygoms gausinti.
 - susijęs iš [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas).md#claim-t-75114|Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]: Po Klaipėdos nacių teismo Antanas Smetona mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.
-- susijęs iš [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas).md#claim-t-75115|Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]: Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.
 - susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-23327|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: Žygis į Klaipėdą buvo pristatytas kaip vietinis sukilimas; susišaudymuose žuvo 16 lietuvių ir du prancūzai.
 - susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-23328|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: 1923 m. sausio 17 d. Vyriausias Mažosios Lietuvos gelbėjimo komitetas paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis.
-- susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-26645|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo.
 - susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-26646|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: 1923 m. sausio 17 d. Vyriausias Mažosios Lietuvos gelbėjimo komitetas nutarė prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė karinės bei finansinės pagalbos.
-- susijęs iš [[objektai/ivykiai/Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.).md#claim-t-31433|Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)]]: 1391 m. rudeniop surengtas didelis žygis į Lietuvą, o rugsėjo 1 d. prie Kauno Nemuno saloje iškelta didelė puota svečiams piligrimams.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis).md#claim-t-86914|Kryžiuočių žygis per Kauną ir Vilniaus apylinkių nuniokojimas (1385 m. rugpjūtis)]]: 1385 m. rugpjūtį Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir nuniokojo žemes iki Medininkų bei Ašmenos.
-- susijęs iš [[objektai/ivykiai/LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.).md#claim-t-39147|LDK 1-osios Tautinės brigados sukilimo pradžia Šiauliuose (1794 m. balandžio 16 d.)]]: 1794 m. balandžio 16 d. Šiauliuose ir jo apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada, anksčiau vadinta Kauno husarų brigada.
 - susijęs iš [[objektai/ivykiai/LDK ir Lenkijos talkos delegacijos kelionė į Maskvą ir derybų pradžia.md#claim-t-186799|LDK ir Lenkijos talkos delegacijos kelionė į Maskvą ir derybų pradžia]]: LDK ir Lenkijos talkos delegacijos nariai įgaliojamuosius raštus gavo Vilniuje 1503 m. sausio 9 d.
 - susijęs iš [[objektai/ivykiai/LDK ir Lenkijos talkos delegacijos kelionė į Maskvą ir derybų pradžia.md#claim-t-186800|LDK ir Lenkijos talkos delegacijos kelionė į Maskvą ir derybų pradžia]]: LDK ir Lenkijos talkos derybos Maskvoje prasidėjo 1503 m. kovo 7 d.
 - susijęs iš [[objektai/ivykiai/LDK ir Lenkijos talkos delegacijos kelionė į Maskvą ir derybų pradžia.md#claim-t-186801|LDK ir Lenkijos talkos delegacijos kelionė į Maskvą ir derybų pradžia]]: LDK ir Lenkijos talkos delegacija į Maskvą išvyko 1503 m. vasario pradžioje ir atvyko kovo 4 d.
@@ -1291,34 +1855,22 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/ivykiai/Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.).md#claim-t-183233|Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)]]: Kauno politikai tikėjosi Lenkijos ultimatumo ir patys ieškojo būdų užmegzti santykius su Lenkija.
 - susijęs iš [[objektai/ivykiai/Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.).md#claim-t-75117|Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)]]: Kovo 17 d. Varšuva įteikė Lietuvai ultimatumą, reikalaudama užmegzti diplomatinius santykius ir be išlygų atsakyti teigiamai.
 - susijęs iš [[objektai/ivykiai/Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.).md#claim-t-75120|Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)]]: Kauno politikai tikėjosi Lenkijos ultimatumo ir patys ieškojo būdų užmegzti santykius su Lenkija.
-- susijęs iš [[objektai/ivykiai/Lietuvių konferencija Kaune (1943 m. balandžio 5 d.).md#claim-t-75128|Lietuvių konferencija Kaune (1943 m. balandžio 5 d.)]]: Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadinamąją Lietuvių konferenciją.
 - susijęs iš [[objektai/ivykiai/Lietuvių konferencija Kaune (1943 m. balandžio 5 d.).md#claim-t-75129|Lietuvių konferencija Kaune (1943 m. balandžio 5 d.)]]: 1943 m. Lietuvių konferencijos sprendimai rodė dalyvių ir dalies visuomenės orientaciją į Vokietiją bei reikalavo kolaboruoti jos tarnybose.
-- susijęs iš [[objektai/ivykiai/Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui.md#claim-t-183241|Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui]]: Tarp lietuvių dipukų buvo 400 Kauno ir Vilniaus universiteto dėstytojų, pusė rašytojų sąjungos narių, tūkstančiai mokytojų, inžinierių.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir Latvijos sienos išvedimas (1921 m.).md#claim-t-66696|Lietuvos ir Latvijos sienos išvedimas (1921 m.)]]: 1921 m. Lietuvos ir Latvijos siena buvo išvesta maždaug buvusios Kuršo gubernijos riba, padarius nedidelių pakeitimų abiejų valstybių naudai.
 - susijęs iš [[objektai/ivykiai/Lietuvos skundas prieš Lenkiją Tautų Sąjungai ir Ženevos „Karas ar taika “ susidūrimas (1927 m.).md#claim-t-101532|Lietuvos skundas prieš Lenkiją Tautų Sąjungai ir Ženevos „Karas ar taika “ susidūrimas (1927 m.)]]: Tautų Sąjungos Taryba ribą tarp Lietuvos ir Lenkijos pavadino administracine linija, bet nepripažino jos valstybine siena.
 - susijęs iš [[objektai/ivykiai/Lietuvos skundas prieš Lenkiją Tautų Sąjungai ir Ženevos „Karas ar taika “ susidūrimas (1927 m.).md#claim-t-101533|Lietuvos skundas prieš Lenkiją Tautų Sąjungai ir Ženevos „Karas ar taika “ susidūrimas (1927 m.)]]: Ženevoje Tautų Sąjungos Taryba rezoliucija patvirtino, kad karo padėties tarp Lietuvos ir Lenkijos nėra.
 - susijęs iš [[objektai/ivykiai/Lietuvos universiteto atidarymas (1922 m. vasario 16 d.).md#claim-t-23344|Lietuvos universiteto atidarymas (1922 m. vasario 16 d.)]]: Aukštieji kursai Kaune peraugo į Lietuvos universitetą, kuris buvo atidarytas 1922 m. vasario 16 d.
-- susijęs iš [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.).md#claim-t-75207|Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.)]]: 1939 m. Kaune Lietuva antrą kartą laimėjo Europos krepšinio čempionatą.
 - susijęs iš [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.).md#claim-t-75208|Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.)]]: 1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.
 - susijęs iš [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.).md#claim-t-75209|Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.)]]: 1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.
 - susijęs iš [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams.md#claim-t-66766|Magdeburgo teisių suteikimas Lietuvos miestams]]: Kaune Vytautas suteikė Magdeburgo teises (1408 m.) vokiečių pirkliams.
 - susijęs iš [[objektai/ivykiai/Magdeburgo teisių suteikimas Lietuvos miestams.md#claim-t-66767|Magdeburgo teisių suteikimas Lietuvos miestams]]: Vytautas palaikė Lietuvos miestus ir suteikė jiems daugiau laisvės Magdeburgo miesto pavyzdžiu.
 - susijęs iš [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis).md#claim-t-66773|Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]: 1940 m. birželio 10 d. Kaune nutarta pasiųsti Juozą Urbšį į Maskvą, nes Antanui Merkiui nesisekė normalizuoti situacijos.
 - susijęs iš [[objektai/ivykiai/Molotovo-Ribentropo pakto ir slaptojo protokolo pasirašymas (1939 m. rugpjūčio 23 d.).md#claim-t-20426|Molotovo-Ribentropo pakto ir slaptojo protokolo pasirašymas (1939 m. rugpjūčio 23 d.)]]: 1939 m. rugpjūčio 23 d. Vokietija ir SSRS slaptuoju protokolu pasidalijo regioną įtakos sferomis.
-- susijęs iš [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema).md#claim-t-185626|Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]: Žiemą Vytautas miškais tyliai priėjo prie Kauno ir netikėtai pasirodė su kariuomene prie pylimo.
-- susijęs iš [[objektai/ivykiai/Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema).md#claim-t-185627|Nesėkmingas Kauno puolimas ir trijų pilių pastatymas Nemuno salose (1391 m. žiema)]]: Nepajėgęs užimti Kauno, Vytautas pasitraukė į Nemuno salas už vienos mylios ir ten pastatė naujas pilis.
 - susijęs iš [[objektai/ivykiai/Nežinomo kareivio palaidojimas Kaune (1934 m. lapkričio 23 d.).md#claim-t-20432|Nežinomo kareivio palaidojimas Kaune (1934 m. lapkričio 23 d.)]]: 1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje prie paminklo Žuvusiems už Lietuvos laisvę palaidotas Nežinomas kareivis.
-- susijęs iš [[objektai/ivykiai/Paliaubų protokolo pasirašymas Kaune.md#claim-t-41340|Paliaubų protokolo pasirašymas Kaune]]: 1920 m. lapkričio 29 d. Kaune L. Želigovskio ir Lietuvos atstovai pasirašė paliaubų protokolą.
-- susijęs iš [[objektai/ivykiai/Pasaulio lietuvių kongresas Kaune (1935 m.).md#claim-t-20439|Pasaulio lietuvių kongresas Kaune (1935 m.)]]: 1935 m. Pasaulio lietuvių kongresas Kaune sulaukė 3 000 delegatų ir svečių iš 19 valstybių.
 - susijęs iš [[objektai/ivykiai/Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.).md#claim-t-37193|Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)]]: 1919 m. balandžio pradžioje Lietuvos karinė vadovybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti Vilnių ir pirmiau nei lenkai jį užimti.
-- susijęs iš [[objektai/ivykiai/Pirmasis pasaulio lietuvių kongresas (1935 m.).md#claim-t-01770|Pirmasis pasaulio lietuvių kongresas (1935 m.)]]: Pirmasis pasaulio lietuvių kongresas įvyko 1935 m. rugpjūčio 11–17 d. Kaune.
 - susijęs iš [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas.md#claim-t-77887|Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]: 1897 m. surašymo duomenimis, gyventojų skaičius maždaug dabartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln.
 - susijęs iš [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas.md#claim-t-77888|Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]: 1897 m. Rusijos imperijos gyventojų surašymas parodė, kad skaityti mokėjo 48 proc. etninių lietuvių, o rusiškai iš jų skaitė tik kas penktas.
-- susijęs iš [[objektai/ivykiai/Pirmoji tautinė olimpiada Kaune (1938 m.).md#claim-t-75258|Pirmoji tautinė olimpiada Kaune (1938 m.)]]: 1938 m. Kaune vykusioje pirmojoje tautinėje olimpiadoje gausiai dalyvavo ir užsienio šalių lietuviai.
-- susijęs iš [[objektai/ivykiai/Pirmoji tautinė olimpiada Kaune (1938 m.).md#claim-t-75259|Pirmoji tautinė olimpiada Kaune (1938 m.)]]: 1938 m. Kaune vykusioje pirmojoje tautinėje olimpiadoje gausiai dalyvavo ir užsienio šalių lietuviai.
-- susijęs iš [[objektai/ivykiai/Pirmoji šalies dainų šventė Kaune (1924 m.).md#claim-t-77914|Pirmoji šalies dainų šventė Kaune (1924 m.)]]: 1924 m. Kaune surengta pirmoji šalies dainų šventė.
 - susijęs iš [[objektai/ivykiai/Raseinių bajorų sukilimas ir Raseinių užėmimas (1831 m. kovo 25 d.).md#claim-t-01788|Raseinių bajorų sukilimas ir Raseinių užėmimas (1831 m. kovo 25 d.)]]: Raseiniškių sėkmė paskatino sukilimą kitose apskrityse, ir netrukus sukilėlių rankose atsidūrė visa Lietuva.
-- susijęs iš [[objektai/ivykiai/Romo Kalantos susideginimas Kaune (1972 m. gegužės 14 d.).md#claim-t-183269|Romo Kalantos susideginimas Kaune (1972 m. gegužės 14 d.)]]: 1972 m. gegužės 14 d. devyniolikmetis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.
 - susijęs iš [[objektai/ivykiai/Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.).md#claim-t-41353|Rusijos ir Lenkijos-Lietuvos karas (1654–1667 m.)]]: 1654 m. Rusija pasiuntė gausią kariuomenę į Lietuvą.
 - susijęs iš [[objektai/ivykiai/Rūdninkų ir Dubičių kautynės.md#claim-t-183676|Rūdninkų ir Dubičių kautynės]]: Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti.
 - susijęs iš [[objektai/ivykiai/Rūdninkų ir Dubičių kautynės.md#claim-t-41356|Rūdninkų ir Dubičių kautynės]]: Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti.
@@ -1329,23 +1881,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis).md#claim-t-75264|S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]: S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.
 - susijęs iš [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.).md#claim-t-45445|SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]: 1940 m. birželio 14 d. vakare V. Molotovas įteikė J. Urbšiui ultimatumą, reikalaujantį įsileisti papildomus sovietų dalinius ir pakeisti vyriausybę.
 - susijęs iš [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.).md#claim-t-45446|SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]: V. Molotovas J. Urbšiui pareiškė, kad, nepaisant Lietuvos atsakymo, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Sich-Achmeto pabėgimas į Belgorodą, grįžimas į Kijevą ir suėmimas.md#claim-t-186796|Sich-Achmeto pabėgimas į Belgorodą, grįžimas į Kijevą ir suėmimas]]: Antrą kartą į Kijevą grįžęs Sich-Achmetas buvo suimtas, laikytas Vilniaus Aukštojoje, Trakų ir Kauno pilyse ir paleistas 1528 metais.
 - susijęs iš [[objektai/ivykiai/Sich-Achmeto pabėgimas į Belgorodą, grįžimas į Kijevą ir suėmimas.md#claim-t-186798|Sich-Achmeto pabėgimas į Belgorodą, grįžimas į Kijevą ir suėmimas]]: Redakcinė pastaba nurodo, kad antrą kartą grįžęs į Kijevą Sich-Achmetas buvo suimtas.
 - susijęs iš [[objektai/ivykiai/Sovietinė Lietuvos reokupacija (1944 m.).md#claim-t-75281|Sovietinė Lietuvos reokupacija (1944 m.)]]: Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi.
 - susijęs iš [[objektai/ivykiai/Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.).md#claim-t-66907|Sovietų Sąjungos Lietuvos okupacija ir aneksija (1940 m.)]]: Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi.
 - susijęs iš [[objektai/ivykiai/Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.).md#claim-t-75290|Steigiamojo Seimo rinkimai ir pirmasis posėdis (1920 m.)]]: 1920 m. gegužės 15 d. Kaune į pirmąjį Steigiamojo Seimo posėdį susirinko 112 išrinktų atstovų.
 - susijęs iš [[objektai/ivykiai/Suvalkijos valstiečių streikas ir Veiverių susidūrimas (1935 m.).md#claim-t-20512|Suvalkijos valstiečių streikas ir Veiverių susidūrimas (1935 m.)]]: 1935 m. Suvalkijos valstiečiai paskelbė streiką po „Pienocentro“ supirkimo kainų sumažinimo, o policija Veiveriuose nušovė tris valstiečius.
-- susijęs iš [[objektai/ivykiai/Vilijampolės ir „Lietūkio“ garažo pogromai (1941 m. birželio 26-27 d.).md#claim-t-20531|Vilijampolės ir „Lietūkio“ garažo pogromai (1941 m. birželio 26-27 d.)]]: 1941 m. birželio 26 d. Vilijampolėje ir birželio 27 d. Kauno „Lietūkio“ garaže įvyko SD inspiruoti žiaurūs pogromai.
 - susijęs iš [[objektai/ivykiai/Vilniaus užėmimas (1655 m. rugpjūčio 7 d.).md#claim-t-41382|Vilniaus užėmimas (1655 m. rugpjūčio 7 d.)]]: 1655 m. rugpjūčio 7 d. po aršių kautynių Rusijos kariuomenė ir jos sąjungininkai kazokai užėmė Lietuvos sostinę Vilnių.
 - susijęs iš [[objektai/ivykiai/Visos Lietuvos partizanų vadų suvažiavimas (1949 m. vasario 2–22 d.).md#claim-t-20551|Visos Lietuvos partizanų vadų suvažiavimas (1949 m. vasario 2–22 d.)]]: Visos Lietuvos partizanų vadų suvažiavime Jonas Žemaitis-Vytautas buvo išrinktas LLKS Tarybos prezidiumo pirmininku ir gavo partizanų generolo laipsnį.
-- susijęs iš [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas.md#claim-t-75303|Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.
-- susijęs iš [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas.md#claim-t-75305|Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.
 - susijęs iš [[objektai/ivykiai/Vytauto Didžiojo jubiliejiniai metai (1930 m.).md#claim-t-31493|Vytauto Didžiojo jubiliejiniai metai (1930 m.)]]: Nuo Vytauto Didžiojo jubiliejinių metų 1930 m. Lietuvos istorijoje ėmė reikštis vadinamasis jaunųjų istorikų būrelis.
-- susijęs iš [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.).md#claim-t-66989|Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]: Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.
 - susijęs iš [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.).md#claim-t-66991|Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]: Vytauto jubiliejiniai renginiai formavo Vytauto Didžiojo kultą ir siejo jį su Antano Smetonos valdoma Lietuvos valstybe.
 - susijęs iš [[objektai/ivykiai/Žemaičių krikštas.md#claim-t-35925|Žemaičių krikštas (krikštas)]]: Žalgirio mūšis ir Torno taika galutinai išsprendė Žemaičių krikšto klausimą.
-- susijęs iš [[objektai/ivykiai/Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune.md#claim-t-186629|Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune (sukilimas)]]: Lietuvos metraštis pasakoja, kad Kazimieras, priėmęs Kaune prisiekusius žemaičius, patvirtino jų privilegijas ir paliko Kantautą seniūnu trejiems metams.
-- susijęs iš [[objektai/ivykiai/Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.).md#claim-t-77913|Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.)]]: 1941 m. liepos 4 ir 6 d. TDA bataliono kuopa, nacių komanduojama kaip zonderkomanda, dalyvavo apie 3 000 žydų žudynėse Kauno VII forte.
 - susijęs iš [[objektai/paprociai/Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis.md#claim-t-87160|Bibliotekos knygų gausinimas fundacinėmis pajamomis ir knygų dovanomis]]: 1623 m. Adrijanas Vežbickis įpareigojo Akademijos kolegiją iš Blonių valdos pajamų kasmet skirti po 100 auksinų knygoms įsigyti.
 - susijęs iš [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika.md#claim-t-75351|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]: Gegužės pradžioje prie Biržų Zigmanto Sierakausko sukilėlių kariuomenė buvo sumušta, o sužeistas vadas pateko į nelaisvę ir buvo viešai pakartas Vilniuje.
 - susijęs iš [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika.md#claim-t-75352|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]: Zigmanto Sierakausko kariuomenės sutriuškinimas prie Biržų baigėsi jo nelaisve ir viešu pakorimu Vilniuje.
@@ -1355,11 +1900,9 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/paprociai/Gotikinės architektūros perėmimas ir mūrinių sakralinių bei gynybinių statinių statyba.md#claim-t-77935|Gotikinės architektūros perėmimas ir mūrinių sakralinių bei gynybinių statinių statyba]]: Valstybės krikštas ir Vytauto mūrinių bažnyčių statybos programa paskatino gotikinės architektūros plitimą Lietuvoje.
 - susijęs iš [[objektai/paprociai/Katalikiškos bažnytinės organizacijos plėtimas parapijomis, vienuolijomis ir bažnyčiomis.md#claim-t-54247|Katalikiškos bažnytinės organizacijos plėtimas parapijomis, vienuolijomis ir bažnyčiomis]]: Katalikiška bažnytinė organizacija plėtėsi kuriant parapijas ir statant bažnyčias net toli nuo vyskupijų centrų.
 - susijęs iš [[objektai/paprociai/Katalikiškos bažnytinės organizacijos plėtimas parapijomis, vienuolijomis ir bažnyčiomis.md#claim-t-54248|Katalikiškos bažnytinės organizacijos plėtimas parapijomis, vienuolijomis ir bažnyčiomis]]: Katalikiška bažnytinė organizacija plėsta kuriant parapijas ir statant bažnyčias net toli nuo vyskupijų centrų.
-- susijęs iš [[objektai/paprociai/Kauno gynėjų gedulo raudos.md#claim-t-185930|Kauno gynėjų gedulo raudos]]: Apie Kauno pilies įgulos žūtį degančios pilies liepsnose paprasti žmonės giedojo gedulo raudas.
 - susijęs iš [[objektai/paprociai/Kirilikinių lietuviškų knygų boikotas kaip katalikiška norma.md#claim-t-54249|Kirilikinių lietuviškų knygų boikotas kaip katalikiška norma]]: Kirilikinė lietuvių abėcėlė galėjo būti boikotuojama dėl lietuviškų pradžios mokyklų draudimo ir katalikų diskriminacijos.
 - susijęs iš [[objektai/paprociai/Kirilikinių lietuviškų knygų boikotas kaip katalikiška norma.md#claim-t-54250|Kirilikinių lietuviškų knygų boikotas kaip katalikiška norma]]: Kirilikinių lietuviškų knygų boikotas sužlugdė valdžios užmačią lietuvių raštijoje lotyniškąjį raidyną pakeisti kirilika.
 - susijęs iš [[objektai/paprociai/Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas.md#claim-t-77938|Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas]]: 1934 m. liepą–1935 m. kovą Kaune vykęs teismas buvo pirmasis Europoje vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.
-- susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78709|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: 1920 m. vasario 22–23 d. Lietuvos vyriausybė numalšino Kaune kilusį bolševikų sukurstytą maištą, todėl lenkai prarado pretekstą pulti Kauną.
 - susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78710|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: Provokacijos ir smulkūs lenkų bei lietuvių susirėmimai tęsėsi iki 1920 m. balandžio.
 - susijęs iš [[objektai/paprociai/Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai.md#claim-t-78713|Lietuvių ir lenkų dalinių bendros operacijos bei pasienio susirėmimai]]: 1919 m. rudenį lenkų daliniai sistemingai puldinėjo kelių Lietuvos apskričių vietoves.
 - susijęs iš [[objektai/paprociai/Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą.md#claim-t-20817|Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą]]: 1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.
@@ -1371,18 +1914,15 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/paprociai/Sukilėlių partizaninio karo nedidelių antpuolių taktika.md#claim-t-75396|Sukilėlių partizaninio karo nedidelių antpuolių taktika]]: Po Z. Sierakausko mirties Kauno gubernijos sukilėlių karo vadu buvo paskirtas kunigas Antanas Mackevičius.
 - susijęs iš [[objektai/paprociai/Svetimšalių pirklių prekyba per Vilniaus pirklius.md#claim-t-87302|Svetimšalių pirklių prekyba per Vilniaus pirklius]]: Maskvos, totorių ir valakų pirkliai Vilniuje, išskyrus metines muges, galėjo prekėmis mainytis tik su Vilniaus pirkliais.
 - susijęs iš [[objektai/paprociai/Tautinių atminties vietų kūrimas, žuvusių karių kultas ir kariuomenės dienos minėjimas.md#claim-t-77940|Tautinių atminties vietų kūrimas, žuvusių karių kultas ir kariuomenės dienos minėjimas]]: 1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje palaidotas Nežinomas kareivis, o lapkričio 23-ioji kasmet iškilmingai minima kaip kariuomenės įkūrimo diena.
-- susijęs iš [[objektai/paprociai/Tvirtovių atstatymas grąžinant išblaškytus žemdirbius.md#claim-t-185909|Tvirtovių atstatymas grąžinant išblaškytus žemdirbius]]: Ragainės komtūras išsklaidė Kauno tvirtovę atstatinėjusius darbininkus ir išardė pradėtą pilį.
 - susijęs iš [[objektai/paprociai/Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus.md#claim-t-77962|Užsienio lietuvių kolonijų ryšių su tėvyne palaikymas per spaudą, kunigus, mokytojus ir kongresus]]: Draugija užsienio lietuviams remti buvo sukurta padėti emigrantams ir palaikyti jų ryšius su tėvyne.
 - susijęs iš [[objektai/paprociai/Valstiečių duoklės ir prievolės.md#claim-t-97142|Valstiečių duoklės ir prievolės]]: Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais anksti mokėjo sidabrinę duoklę pinigais.
 - susijęs iš [[objektai/paprociai/Viešų miesto paslaugų pelno skyrimas Vilniaus iždui.md#claim-t-87186|Viešų miesto paslaugų pelno skyrimas Vilniaus iždui]]: Prie Vilniaus rotušės leistų krautuvių, viešos miesto virtuvės ir vyninės pelnas buvo skiriamas miesto iždui.
 - susijęs iš [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka.md#claim-t-87131|Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]: 1492 m. Trakuose Aleksandras Vilniui suteikė Magdeburgo teises ir leido miestui laikyti vaško dirbtuvę.
 - susijęs iš [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika.md#claim-t-20823|Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]: Vytauto jubiliejinių renginių svarbiausia mintis buvo tautos vienybė ir žinia, kad Lietuva yra sena istorinė valstybė.
-- susijęs iš [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika.md#claim-t-20824|Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]: Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.
 - susijęs iš [[objektai/paprociai/Vytauto bažnyčių statymas ir vienuolynų steigimas.md#claim-t-35959|Vytauto bažnyčių statymas ir vienuolynų steigimas]]: Vytautas Lietuvoje statė ne tik bažnyčias, bet ir vienuolynus.
 - susijęs iš [[objektai/paprociai/Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos.md#claim-t-77943|Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos]]: Žydai Lietuvoje išlaikė atskirą kultūrinį gyvenimą, o jų mokyklose pamokos vyko hebrajų arba jidiš kalba.
 - susijęs iš [[objektai/posakiai/Datum in Lettowia in curia nostra.md#claim-t-31539|Datum in Lettowia in curia nostra]]: Dėl „Lettowia“ reikšmės neaišku, ar ji žymėjo sritį prie Mindaugo pilies, ar vieną iš jo pilių Lietuvos valstybėje.
 - susijęs iš [[objektai/posakiai/Laisvę Lietuvai!.md#claim-t-13497|Laisvę Lietuvai!]]: 1972 m. gegužės 14 d. Romas Kalanta prieš pasidegdamas sušuko „Laisvę Lietuvai!“.
-- susijęs iš [[objektai/posakiai/Laisvę Lietuvai!.md#claim-t-13498|Laisvę Lietuvai!]]: Šūksnis „Laisvę Lietuvai!“ siejamas su Romo Kalantos pasidegimu Kauno miesto sode 1972 m. gegužės 14 d.
 - susijęs iš [[objektai/posakiai/Skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium.md#claim-t-67284|Skelbia nepriklausomos Lietuvos valstybės atstatymą su sostine Vilnium]]: 1917 m. gruodžio 11 d. Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą su sostine Vilniumi.
 - susijęs iš [[objektai/posakiai/„Galima spėlioti, kad... arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“.md#claim-t-25369|„Galima spėlioti, kad... arijų kalbos lopšys turėjo būti lietuvių apgyventoje teritorijoje“]]: Isaacas Tayloras spėjo, kad arijų kalbos lopšys galėjo būti lietuvių apgyventoje teritorijoje.
 - susijęs iš [[objektai/posakiai/„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj.md#claim-t-20844|„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj]]: Posakyje Lietuva vadinama kraštu, kuriame labai pavojinga gyventi mažai tautai.
@@ -1397,20 +1937,14 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/posakiai/„nepriklausomybė svarbiausia“.md#claim-t-75619|„nepriklausomybė svarbiausia“]]: Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina nepriklausomybės sąlyga.
 - susijęs iš [[objektai/posakiai/„paskirti save Tėvynės garbei“.md#claim-t-183500|„paskirti save Tėvynės garbei“]]: Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.
 - susijęs iš [[objektai/posakiai/„paskirti save Tėvynės garbei“.md#claim-t-20932|„paskirti save Tėvynės garbei“]]: Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.
-- susijęs iš 1408 m. Vytauto privilegija Kaunui: 1408 m. Vytautas po Kauno gaisro patvirtino pirmtako miestui suteiktas laisves.
 - susijęs iš 1507 m. Svečių namų pardavimo kopija: 1507 m. Svečių namų pardavimo kopijoje minimas Vilniuje, Didžiojoje gatvėje, prie Švč. Trejybės vienuolyno stovėjęs namas.
-- susijęs iš A. Kučinskas, Gedimino dinastijos kilmė: A. Kučinsko „Gedimino dinastijos kilmė“ buvo išleista Kaune 1934 m. kaip atspaudas iš „Mūsų Žinyno“ 107-108 numerių.
 - susijęs iš A. Smetonos laiškas Michailui Kalininui: Taikingas A. Smetonos laiškas sovietų prezidentui Michailui Kalininui nepadėjo išvengti 1940 m. birželio 14 d. sovietų ultimatumo Lietuvai.
 - susijęs iš A. Viskontas, Vytautas D. L. K. ir Gardelio unija: A. Viskonto darbas „Vytautas D. L. K. ir Gardelio unija“ paskelbtas leidinyje „Lietuvių Tauta“, IV tome.
-- susijęs iš A. Šapoka, Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais: A. Šapokos „Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais“ išspausdinta rinkinyje „Jogaila“ Kaune 1935 m., p. 185–266.
 - susijęs iš Andrusavos taika (1667 m.): 1667 m. sausio 30 d. netoli Smolensko pasirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko Smolenskas, Černigovas, Severų Naugardas, Kijevas.
 - susijęs iš Arimo įrankiai Lietuvoje feodalizmo laikotarpyje: P. Dundulienės „Arimo įrankiai Lietuvoje feodalizmo laikotarpyje“ paskelbtas VUMD 2 tome 1955 m., p. 148-168.
-- susijęs iš Būdas senovės lietuvių Kalnėnų ir Žemaičių: S. Daukanto „Būdas senovės lietuvių Kalnėnų ir Žemaičių“ buvo išleistas Kaune 1935 m., redaguotas J. Talmanto.
 - susijęs iš Christburgo taika: Jonynas: Christburgo taika , Lietuviškoji Enciklopedija, t.
 - susijęs iš Dzieje kultury polskiej: A. Brücknerio „Dzieje kultury polskiej“ I tomas išleistas Krokuvoje 1931 m.
 - susijęs iš Einführung in die Kunstgeschichtsforschung des Großfürstentums Litauen: P. Rėklaičio „Einführung in die Kunstgeschichtsforschung des Großfürstentums Litauen“ išleista Marburge 1962 m. ir sužymėjo 944 bibliografinius numerius.
-- susijęs iš Enejus Silvijus Picoloraini bei Jeronimas Pragiškis ir jų žinios apie Lietuvą XIV-XV a: A. Janulaičio veikalas „Enejus Silvijus Picoloraini bei Jeronimas Pragiškis ir jų žinios apie Lietuvą XIV-XV a.“ buvo išleistas Kaune 1928 m.
-- susijęs iš Gabrys, J., Vytauto ir Lietuviu veikmė Didžioje karėje ir kovoje ties Grunvaldu: J. Gabrio veikalas „Vytauto ir Lietuviu veikmė Didžioje karėje ir kovoje ties Grunvaldu“ buvo išleistas Kaune 1912 m.
 - susijęs iš Gintaro šneka: P. Būtėno „Gintaro šneka“ paskelbta „Karyje“ 1973 m., p. 110–115 ir 159–164.
 - susijęs iš Gintaro šneka: P. Būtėno „Gintaro šneka“ paskelbta žurnale „Karys“ 1973 m., p. 110-115 ir 159-164.
 - susijęs iš Gruodžio 11-osios rezoliucija (1917 m.): 1917 m. Oberostas Kaune įteikė Gruodžio 11-osios rezoliucijos projektą Lietuvos Tarybos prezidiumui, o šis gruodžio 11 d. grąžino jį kaip priimtą.
@@ -1418,62 +1952,36 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš Himanso planas: Pagal Himanso planą Lietuva ir Lenkija turėjo koordinuoti užsienio politiką ir sudaryti karines bei ekonomines konvencijas.
 - susijęs iš Historiae Lituanae: Albertas Vijūkas Kojalavičius parašė dviejų tomų veikalą „Historiae Lituanae“, išgarsinusį jį kaip žymų Lietuvos istoriką.
 - susijęs iš Ig. Skupskelis, Vytautas Didysis vokiečių literatūroje: Ig. Skupskelio „Vytautas Didysis vokiečių literatūroje“ paskelbtas 1930 m. „Athenaeum“ I tome.
-- susijęs iš Ivinskis Z. Senovės lietuvių religijos bibliografija: Z. Ivinskio „Senovės lietuvių religijos bibliografija“ išleista Kaune 1938 m.
 - susijęs iš Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.): 1503 m. Aleksandro privilegija suteikė karalienei Elenai teisę iki gyvos galvos turėti, naudotis ir ramiai valdyti Mogiliavo pilį su priklausiniais.
 - susijęs iš Karo Archyvas: 1925 m. Kaune išleisto „Karo archyvo“ 11 tome buvo paskelbtas tekstas „Sukilėlių pulkai“.
 - susijęs iš Katalikų Bažnyčia Lietuvoje: A. Aleknos „Katalikų Bažnyčia Lietuvoje“ 1936 m. liudijo autoriaus gebėjimą kritiškai ir objektyviai vertinti šaltinius.
 - susijęs iš Klaipėdos miesto istorija 1252-1466: Šležo darbas „Klaipėdos miesto istorija 1252–1466“ buvo paskelbtas „MŽ“ 1933 m.
-- susijęs iš Krikščionybės įvedimas Lietuvoje: Stasio Ylos „Krikščionybės įvedimas Lietuvoje“ išleistas Kaune 1938 m.
-- susijęs iš Kšivickis L. Žemaičių senovė: L. Kšivickio „Žemaičių senovė“ išleista Kaune ir Marijampolėje 1928 m.
 - susijęs iš LAF radijo pranešimas dėl Lietuvos valstybės atkūrimo (1941 m. birželio 23 d.): 1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per radiją paskelbė apie laisvos ir nepriklausomos Lietuvos valstybės atkūrimą.
 - susijęs iš LLKS deklaracija (1949 m. vasario 16 d.): Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos valdymo principai.
 - susijęs iš LLKS deklaracija (1949 m. vasario 16 d.): Laurynas Mingėlas-Džiugas po = j Užpelkių kautynių buvo sunkiai sužeistas ir apie metus gydėsi Miknių sodyboje įrengtame bunkeryje (tame pačiame, kur buvo pasirašyta 1949 m. vasario 16 d. LLKS Deklaracija).
 - susijęs iš LLKS deklaracija (1949 m. vasario 16 d.): 1949 m. vasarį partizanų apygardų atstovų suvažiavimas suvienijo antisovietinio pasipriešinimo kovotojus į Lietuvos laisvės kovos sąjūdį.
 - susijęs iš Lenkijos karalystės ir LDK diplomatinis kodeksas: Karaliaus Aleksandro 1506 metų testamentas pateiktas iš Dogelio rankraščių, buvusių Vilniaus universiteto bibliotekoje.
 - susijęs iš Lenkijos ultimatumas Lietuvai (1938 m. kovo 17 d.): 1938 m. kovo 17 d. Lenkija įteikė Lietuvai ultimatumą, reikalaudama užmegzti diplomatinius santykius ir grasindama karu.
-- susijęs iš Lietuviškoji enciklopedija: Aštuntasis „Lietuviškosios enciklopedijos“ tomas išleistas Kaune 1940 m.
 - susijęs iš Lietuvių konferencijos sprendimai (1943 m. balandžio 5 d.): Lietuvių konferencijos sprendimai rodė dalyvių ir dalies Lietuvos visuomenės orientaciją į Vokietiją bei reikalavo kolaboruoti jos tarnybose.
 - susijęs iš Lietuvos Konstitucija (1928 m.): 1928 m. Lietuvos konstitucijoje Lietuvos sostine buvo įrašytas Vilnius.
 - susijęs iš Lietuvos Metrika (XIV knyga): 1529 m. Lietuvos Metrikos XIV knyga liudijo, kad Vilnius mokėjo 1500 kapų grašių krikščionių mokesčio.
-- susijęs iš Lietuvos visuomeninio ūkio bruožai ligi Liublino unijos: A. Rimkos „Lietuvos visuomeninio ūkio bruožai ligi Liublino unijos“ išleisti Kaune 1925 m.
-- susijęs iš Lindenblatt Jahrbücher: Lindenblatto kronikos vietovardis Boparthen pastabose aiškinamas kaip dabartinis Bobiai į šiaurės vakarus nuo Kauno.
-- susijęs iš Litovskij Statut 1588 goda: I. I. Lappo „Litovskij Statut 1588 goda“ dalys buvo išleistos Kaune 1934 m., 1936 m. ir 1938 m.
-- susijęs iš M. Krasauskaitė, Vytauto charakteristika: M. Krasauskaitės „Vytauto charakteristika“ išspausdinta 1930 m. Kaune išleistame rinkinyje „Vytautas Didysis“, p. 253–265.
-- susijęs iš Matusas J. Senovės prūsų žemės nukariavimas: J. Matuso „Senovės prūsų žemės nukariavimas“ išleistas Kaune 1940 m.
 - susijęs iš Mindaugas-Lietuvos karalius: Šležas 1934 m. paskelbė darbą „Mindaugas-Lietuvos karalius“.
-- susijęs iš Naujausių Proistorinių Tyrinėjimų Duomens: J. Puzino „Naujausių Proistorinių Tyrinėjimų Duomens“ išleistas Kaune 1938 m. kaip atspaudas iš „Senovės“ 4 tomo.
 - susijęs iš Pirmasis visuotinis Rusijos imperijos gyventojų surašymas (1897 m.): 1897 m. pirmasis visuotinis Rusijos imperijos gyventojų surašymas parodė, kad 48 proc. etninių lietuvių mokėjo skaityti, o rusiškai skaitė tik kas penktas iš jų.
 - susijęs iš Pirmasis visuotinis Rusijos imperijos gyventojų surašymas (1897 m.): 1897 m. pirmasis visuotinis Rusijos imperijos gyventojų surašymas parodė, kad 48 proc. etninių lietuvių mokėjo skaityti, o rusiškai skaitė tik kas penktas iš jų.
 - susijęs iš Przegląd Historyczny: „Przegląd Historyczny“ yra nuo 1910 m. Varšuvoje leidžiamas žurnalas.
-- susijęs iš Remeika J. Kai dar amžina ugnis ruseno Mažosios Lietuvos padavimai: J. Remeikos „Kai dar amžina ugnis ruseno: Mažosios Lietuvos padavimai“ išleista Kaune 1940 m.
-- susijęs iš Rogero knyga: „Rogero knygos“ skyriuje apie rytų Pabaltijį Al-Idrisi, pasak Ivinskio, jau buvo paminėjęs Kauną.
 - susijęs iš S. Dariaus ir S. Girėno laiškas prieš skrydį: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
 - susijęs iš S. F. Platonov Geschichte Russlands vom Beginn bis zur Jetztzeit: S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ išleista Leipcige 1927 m.
 - susijęs iš S. Lozoraičio slaptas memorandumas A. Smetonai (1935 m. balandis): S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.
 - susijęs iš SSRS ultimatumas Lietuvai (1940 m. birželio 14 d.): 1940 m. birželio 14 d. vakare J. Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai pareikalauta įsileisti neribotus sovietų karinius dalinius.
 - susijęs iš Senovės baltų žemdirbystės technikos klausimu: J. Antonevičiaus „Senovės baltų žemdirbystės technikos klausimu“ išspausdintas ILKI 4 tome 1964 m., p. 164-170.
-- susijęs iš Senovės lietuvių religijos bibliografija: Z. Ivinskio „Senovės lietuvių religijos bibliografija“ išleista Kaune 1938 m. kaip atspaudas iš „Soter“ 1935–1937 m.
 - susijęs iš Tautų Sąjungos Tarybos rezoliucija dėl Lietuvos ir Lenkijos karo padėties (1927 m.): Tautų Sąjungos Taryba rezoliucija patvirtino, kad karo padėties tarp Lietuvos ir Lenkijos nėra.
-- susijęs iš Vaičiulaitis A. Vidurinių amžių poetas Machaut Lietuvoj: A. Vaičiulaičio „Vidurinių amžių poetas Machaut Lietuvoj“ paskelbta 1940 m. Kaune išleistų „Suvažiavimo darbų“ trečiame tome.
 - susijęs iš Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais: A. Šapokos „Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais“ išspausdintas rinkinyje „Jogaila“ 1935 m., p. 185-266.
-- susijęs iš Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais: Adolfo Šapokos studija „Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais“ išspausdinta 1935 m. Kaune išleistame rinkinyje „Jogaila“, p. 187-266.
-- susijęs iš Velykis, pulk., Griunvaldas: Pulk. Velykio „Griunvaldas“ publikuotas „Karo Archyvo“ II tome Kaune 1925 m.
-- susijęs iš Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje: V. Vileišio darbas apie tautinius santykius Mažojoje Lietuvoje ligi Didžiojo karo išleistas Kaune 1935 m.
 - susijęs iš Vokiečių atsišaukimas Vilniuje apie Lenkijos karalystės perlą (1915 m.): Vokiečiai Vilniuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu Lenkijos karalystės perlu“, bet po lietuvių protesto jį nudraskė.
-- susijęs iš Vokiečių ordino pilys Kauno apylinkėje: K. Wagnerio „Vokiečių ordino pilys Kauno apylinkėje“ paskelbta „Naujojoje Romuvoje“ 1933 m., Nr. 107.
 - susijęs iš Vokiškieji kryžiuočių kelių aprašymai: 1384 m. kelio iš Įsruties į Marienverderį prie Kauno aprašyme minimas vedlys iš Nerwekiten ir kelias czu Kattow.
 - susijęs iš Vytautas D. istorinėje literatūroje ir jo periodo bibliografija: Z. Ivinskio „Vytautas D. istorinėje literatūroje ir jo periodo bibliografija“ paskelbta „Athenaeum“ 1931 m., p. 89-141.
 - susijęs iš Vytautas Didysis ... jo jaunystė: „Vytautas Didysis ... jo jaunystė“ paskelbtas Lietuvių enciklopedijos 34 tome, 373-376 puslapiuose.
-- susijęs iš Vytauto jaunystė ir jo veikimas iki 1392 m: Z. Ivinskio „Vytauto jaunystė ir jo veikimas iki 1392 m.“ paskelbtas 1930 m. Kaune išleistame rinkinyje „Vytautas Didysis“.
-- susijęs iš XVI amžiaus inventorius: Jablonskis 1934 m. išleido „XVI amžiaus inventorius“, parengtus iš Kauno Centrinio Valstybės archyvo ir kitų Lietuvos archyvų aktų.
-- susijęs iš Yčas, J., Žiupsnys žinių apie Žalgirio mūši: J. Yčo „Žiupsnys žinių apie Žalgirio mūšį“ siejamas su 1914 m. Vilniuje leista „Lietuvių tauta“ ir 1930 m. Kaune leistu „Vasario 16“ leidiniu.
-- susijęs iš Šležas, P. (red.), Vytautas Didysis: P. Šležo redaguotas leidinys „Vytautas Didysis“ išleistas Kaune 1930 m.
 - susijęs iš Żmudź w początkach unii polsko-litewskiej: St. Zajączkowskio „Żmudź w początkach unii polsko-litewskiej“ paskelbtas PamZH II tome 1930 m., p. 337-344.
-- susijęs iš Žemaičiu vysk. M. Valančius: „Žemaičiu vysk. M. Valančius“ išleistas 1923 m., plačiai remiantis Kauno vyskupijos kurijos archyvine medžiaga.
 - susijęs iš Alytus: 1919 m. kovos su bolševikais vyko prie Alytaus, o kovo mėnesį iš rusų buvo atimti Jėznas, Butrimonys ir Krekenava.
-- susijęs iš Alytus: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad iš pietų pultų Kauną.
-- susijęs iš Alytus: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje ir iš pietų pulti Kauną.
-- susijęs iš Alytus: Bolševikų pajėgos planavo persikelti per Nemuną Alytuje ir Prienuose, kad galėtų pulti Kauną iš pietų.
 - susijęs iš Alytus: 1919 m. vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus.
 - susijęs iš Alūkšta: 1917 m. Berno konferencijoje Alūkštos apskritį Kurše iki Dauguvos upės numatyta įtraukti į būsimos Lietuvos teritoriją.
 - susijęs iš Antakalnis: Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią.
@@ -1486,7 +1994,6 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš Ašmena: 1385 metų rugpjūtį didžiojo magistro Konrado Ciolnerio Rotenšteino pajėgos nuniokojo žemes iki pat Ašmenos.
 - susijęs iš Bajorų pilaitė: Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.
 - susijęs iš Baltvyžių girios: Baltvyžių giriose Sviatopolkas Mirskis ir Veriovkinas per medžioklę sutarė prikalbėti carą atšaukti spaudos draudimą.
-- susijęs iš Berlynas: Maskva ir Berlynas, kaip ir prancūzai bei britai, patarė Kaunui priimti lenkų reikalavimus.
 - susijęs iš Berlynas: Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą.
 - susijęs iš Betygala: Vytautas Žemaitijoje pastatė bažnyčią Betygaloje.
 - susijęs iš Betygala: Aukokalnis buvo ties dabartine Betygala, o nuo jo pradėtas apaštalavimo darbas Žemaitijoje.
@@ -1497,7 +2004,6 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš Daugai: 1919 m. balandžio 3-8 d. Pietinė lietuvių grupė turėjo užimti Daugus ir Varėną, o tada pro Lentvarį pulti Vilnių.
 - susijęs iš Daugpilis: Zigmantas Sierakauskas planavo sukilėlių pajėgomis žygiuoti Daugpilio link ir bandyti užimti šią carinės kariuomenės tvirtovę.
 - susijęs iš Dotnuva: Dotnuvoje veikusi Žemės ūkio akademija rengė specialistus žemės ūkiui.
-- susijęs iš Dotnuva: Žemės ūkio akademija Dotnuvoje papildė Kauno Vytauto Didžiojo universiteto veiklą ir rengė specialistus žemės ūkiui.
 - susijęs iš Dubysa: Vytautas liepė atnaujinti pilis Dubysos ir Nemuno krantuose ir atstatyti sudegintą Veliuoną.
 - susijęs iš Dubysa: Žemaitijos apaštalavimo kelionė vyko Nemunu iki Dubysos upės ir ja iki Aukokalnio ties dabartine Betygala.
 - susijęs iš Dubysa: Žygio į Žemaitiją metu kelias Nemunu vedė iki Dubysos upės ir toliau iki Aukokalnio.
@@ -1518,56 +2024,25 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš Gardinas: 1401 m. rudenį buvo teriojamos Kauno ir Gardino sritys.
 - susijęs iš Gardinas: Užsienio lietuvių atstovai siūlė į „Lithuania Propria“ ribas įtraukti Gardino apskritį.
 - susijęs iš Gardinas: Vasarą maršalo pajėgos žygiavo Gardino link ir bandė pereiti Nemuną brasta, bet buvo sustabdytos.
-- susijęs iš Gardinas: Vilniuje ir Gardine siautęs maras lėmė, kad karalius likusius žiemos mėnesius praleido Kaune.
 - susijęs iš Gardino gubernija: 1843 m. prie Vilniaus gubernijos prijungtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms.
 - susijęs iš Gardino gubernija: 1843 m. prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms.
-- susijęs iš Giedraičiai: Viena svarbiausių lenkų puolimo krypčių buvo Ukmergės link pro Giedraičius su galutiniu tikslu pulti Kauną iš šiaurės rytų.
-- susijęs iš Gotesverderis: Gotesverderis buvo viena iš prie Kauno daug kartų statytų ir vėl sugriautų Ordino pilių.
 - susijęs iš Haličas: Haličas buvo tarp žemių, buvusių Lietuvos politinėje įtakoje.
 - susijęs iš Haličas: Gedimino ar Algirdo laikais Haličas buvo Lietuvos politinėje įtakoje.
 - susijęs iš JAV: 1937 m. Lietuvos krepšininkams padėjo JAV lietuvių treneriai ir keli žaidėjai.
 - susijęs iš JAV: JAV įvestos imigracijos kvotos skatino neprasigyvenusius smulkius mažažemius valstiečius emigruoti daugiausia į Pietų Amerikos šalis.
 - susijęs iš JAV: 1937 m. Lietuvos krepšininkams padėjo JAV lietuvių treneriai ir keli žaidėjai.
-- susijęs iš Jieznas: Pralaimėjimas Jiezne ir nesėkmė pietinėje Lietuvoje prie Nemuno galutinai sužlugdė bolševikų planus užimti Kauną - laikinąją Lietuvos sostinę ir nutraukti Lietuvos valstybės egzistavimą.
 - susijęs iš Jungtinės Amerikos Valstijos: JAV įvestos imigracijos kvotos skatino neprasigyvenusius smulkius mažažemius valstiečius emigruoti daugiausia į Pietų Amerikos šalis.
-- susijęs iš Jurbarkas: Gediminas su kariuomene buvo įrengęs stovyklą tarp Jurbarko ir Kauno.
 - susijęs iš Karaliaučius: XIX a. septintąjį–aštuntąjį dešimtmetį per Kauną buvo nutiesta geležinkelio atšaka į Karaliaučių.
 - susijęs iš Karaliaučius: XIX a. septintąjį–aštuntąjį dešimtmetį nutiesta geležinkelio atšaka per Kauną į Karaliaučių.
 - susijęs iš Karo muziejaus sodelis: 1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje palaidotas Nežinomas kareivis.
-- susijęs iš Kauno HES: Atšilimo laikotarpiu Kauno HES minima tarp didelių naujų pramonės objektų, statytų sparčios sovietinės industrializacijos ir urbanizacijos metu.
-- susijęs iš Kauno IX fortas: Kauno IX forte sušaudyta apie 6–8 tūkst. žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos.
-- susijęs iš Kauno Laisvės alėja: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vyko protesto eisena, kurios lyderius KGB pažymėjo numeriais.
-- susijęs iš Kauno Laisvės alėja: 1972 m. gegužės 18 d. Kauno Laisvės alėjoje vyko protesto eisena, kurios lyderius KGB pažymėjo numeriais.
-- susijęs iš Kauno Lietuva: Lietuvos Respublika lenkiškoje Lietuvos sampratoje buvo vadinama Kauno Lietuva.
-- susijęs iš Kauno VII fortas: TDA bataliono kuopa, paversta zonderkomanda, liepos 4 ir 6 d. nacių vadovaujama dalyvavo 3 000 žydų žudynėse Kauno VII forte.
-- susijęs iš Kauno VII fortas: TDA bataliono kuopa, paversta zonderkomanda, liepos 4 ir 6 d. nacių vadovaujama dalyvavo 3 000 žydų žudynėse Kauno VII forte.
-- susijęs iš Kauno Vilniaus pirklių prekių sandėlis: Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.
-- susijęs iš Kauno getas: Kauno getas buvo tarp getų, kuriuose apie 50 tūkst. žydų laikinai palikti ir išnaudoti kaip pigi darbo jėga.
-- susijęs iš Kauno gubernija: Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc.
-- susijęs iš Kauno gubernija: 1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija.
-- susijęs iš Kauno gubernija: 1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.
-- susijęs iš Kauno gubernija: Vien Kauno gubernijoje kariuomenės egzekucijų prieš valstiečius buvo surengta 117.
-- susijęs iš Kauno karo aviacijos dirbtuvės: Kauno karo aviacijos dirbtuvėse buvo pastatyti 66 Antano Gustaičio sukonstruotos ANBO serijos lėktuvai.
-- susijęs iš Kauno miesto sodas (miestas): 1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė.
-- susijęs iš Kauno pilis (pilis): Šležas rašė apie Kauno pilies išgriovimą 1362 m.
-- susijęs iš Kauno pilis (pilis): Pirmoji Kauno pilis kronikose paminėta 1361 m. ir pastatyta Nemuno ir Neries santakoje.
-- susijęs iš Kauno pilis (pilis): Ordino ir talkininkų kariuomenė Nemunu laivais pasiekė Kauną ir po kovo 13-osios apgulė Kauno pilį.
-- susijęs iš Kauno pilis (pilis): Kauno pilį puolė kryžiuočių pajėgos, Livonijos ordino daliniai ir kryžininkai iš Anglijos, Italijos bei Vokietijos.
-- susijęs iš Kauno sala: 1413 m. Kauno saloje buvo sušauktas suvažiavimas Žemaitijos sienų klausimu.
-- susijęs iš Kauno sporto halė: Kauno sporto halėje 1939 m. Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.
-- susijęs iš Kauno tvirtovė: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę.
-- susijęs iš Kauno vyskupija: Veikalas „Žemaičių vysk. M. Valančius“ buvo parengtas plačiai remiantis Kauno vyskupijos kurijos archyvine medžiaga.
-- susijęs iš Kauno įgulos bažnyčia: Kauno įgulos bažnyčioje buvo įkurtas Skulptūros ir vitražo muziejus.
 - susijęs iš Kiauneliškio geležinkelio stotis: 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kariai puolė partizanų žemines Kiauneliškio geležinkelio stoties apylinkėse.
 - susijęs iš Kijevas: Po LDK krikšto buvo suformuota Kijevo katalikų vyskupija šalia jau veikusių stačiatikių vyskupijų.
 - susijęs iš Kijevas: Gedimino ar Algirdo laikais Kijevas buvo Lietuvos politinėje įtakoje.
 - susijęs iš Kijevas: Po Lietuvos krikšto LDK buvo suformuota Kijevo katalikų vyskupija kartu su Vilniaus, Žemaičių ir Lucko vyskupijomis.
 - susijęs iš Kijevas: Kijevas buvo tarp Lietuvos politinėje įtakoje buvusių Rusios erdvės centrų.
-- susijęs iš Klaipėda: Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo.
 - susijęs iš Klaipėdos kraštas: Įvesti mokymą lietuviškai pagal mokinių kilmę nepavyko, o nurodymai tarnautojams darbe kalbėti lietuviškai, dalyvauti lietuviškose šventėse davė atvirkščią rezultatą – oponentai efektyviai kliudė integruoti Klaipėdos kraštą.
 - susijęs iš Kražiai: Kražiuose atsirado jėzuitų kolegija, funduota didžiojo etmono Jono Karolio Katkevičiaus.
 - susijęs iš Kruopiai: Bolševikams priartėjus prie Kėdainių, savanorių būriai, nesulaukdami iš Kauno žadėtų ginklų, sausio 14 d. pasitraukė į Kruopius (10 km nuo Kėdainių Kauno link).
-- susijęs iš Krėva: Į Lietuvą įsiveržusi totorių kariuomenė užėmė Krėvą, Lydą, Vilnių, Trakus ir kitas vietoves bei priartėjo prie Kauno.
 - susijęs iš Krėva: Pirkliai lankė Lietuvos miestus, tarp jų Vilnių, Krėvą, Trakus ir Gardiną.
 - susijęs iš Krėva: Vokiečių pirkliai lankė Krėvą ir kitus Lietuvos miestus.
 - susijęs iš Krėvos pilis (pilis): Valdant Gediminui ar Algirdui Krėvos pilis buvo įtraukta į mūro pilių sistemą aplink valstybės sostinę.
@@ -1583,14 +2058,11 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš Lietuva: Aleksandro planai žlugo, nes totoriai netrukus su didelėmis pajėgomis įsiveržė į Lietuvą.
 - susijęs iš Lietuva: Steigiamojo Seimo rinkimai Vilnijoje ir Mažojoje Lietuvoje nevyko, nes Lietuva tų teritorijų nekontroliavo.
 - susijęs iš Lietuva: 1388 m. dokumente Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu.
-- susijęs iš Lietuva: Pavasario pradžioje kariuomenės buvo išvestos į Lietuvą ir pirmiausia puolė Kauną.
 - susijęs iš Lietuva: Aleksandras pasiuntė į Maskvą pasiuntinius parvežti didžiosios kunigaikštytės Elenos į Lietuvą.
 - susijęs iš Luckas: Po Lietuvos krikšto LDK buvo suformuota Lucko katalikų vyskupija greta Vilniaus, Žemaičių ir Kijevo vyskupijų.
 - susijęs iš Lyda: Valdant Gediminui ar Algirdui Lyda priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
 - susijęs iš Malburgas: Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę.
-- susijęs iš Maskva: Per Lenkijos ultimatumą Maskva ir Berlynas Kaunui patarė priimti lenkų reikalavimus.
 - susijęs iš Maskva: 1940 m. birželio 10 d. Kaune nutarta pasiųsti ministrą J. Urbšį į Maskvą, nes A. Merkiui nesisekė normalizuoti situacijos.
-- susijęs iš Maskva: Per Lenkijos ultimatumą Prancūzija, Britanija, Maskva ir Berlynas patarė Kaunui priimti lenkų reikalavimus.
 - susijęs iš Maskva: 1940 m. birželio 10 d. Kaune nutarta pasiųsti užsienio reikalų ministrą Juozą Urbšį į Maskvą.
 - susijęs iš Maskvos žemės: Vytautas anksti pradėjo dalyvauti karo žygiuose: 1368 ir 1372 m. žygiavo į Maskvos žemes, o 1376 m. dalyvavo žygyje prieš lenkus.
 - susijęs iš Mažoji Lietuva: Steigiamojo Seimo rinkimuose Mažajai Lietuvai buvo skirtos 9 vietos, bet rinkimai ten nevyko, nes Lietuva šios teritorijos nekontroliavo.
@@ -1598,46 +2070,31 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš Medininkų pilis (pilis): Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
 - susijęs iš Merkinė: Karaliaus Aleksandro testamento liudytojų sąraše Jonas iš Zabrežjės įvardytas Merkinės laikytoju.
 - susijęs iš Merkinė: 1503 m. Vilniuje duotame dokumente Jonas iš Zabrežjės minimas kaip Merkinės laikytojas.
-- susijęs iš Merkinė: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną su kunigija ir diduomene.
-- susijęs iš Merkinė: Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos.
 - susijęs iš Minskas: Po priešo niokojamo antpuolio Minske ir kituose miestuose kilo maras.
 - susijęs iš Naručio apylinkės: 1951 m. kovo 19 d. MGB vidaus kariuomenės 137-ojo šaulių pulko kareiviai Naručio apylinkėse puolė dvi partizanų žemines.
 - susijęs iš Naugardukas: Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.
-- susijęs iš Naujasis Kaunas: Kęstutis Nevėžio žiočių Vyrgalės saloje statydino Naujojo Kauno pilį, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių ruožo gynybą.
-- susijęs iš Naujasis Kaunas: Kęstutis statydino Naujojo Kauno pilį Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože.
-- susijęs iš Naujasis Kaunas: 1363 m. balandį Ordino magistras su kariuomene atplaukė Nemunu ir atėjo prie pradėtos atstatinėti Naujojo Kauno pilies.
-- susijęs iš Naujasis Kvidzinas: Naujasis Kvidzinas prie Kauno buvo viena iš trijų Vytauto valdžioje buvusių pilių, kurias turėjo sunaikinti.
-- susijęs iš Nemunas: Veliuona aprašyta kaip prie Nemuno nusidriekusi vietovė, buvusi už 7 mylių nuo Kauno.
 - susijęs iš Nemunas: 1362 m. pavasarį Prūsų kryžiuočiai išgriovė svarbią lietuvių pilį Kauną Nemuno ir Neries santakoje.
-- susijęs iš Nemunas: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau Nemunu pasiekė Dubysos upę.
 - susijęs iš Nemunas: Po Kauno pilies kritimo kryžiuočiai pasiekė ir kitų laimėjimų prie Nemuno.
 - susijęs iš Nemunas: 1362 m. pavasarį Prūsų kryžiuočiai, padedami sąjungininkų, išgriovė lietuvių pilį Kauną Nemuno ir Neries santakoje.
-- susijęs iš Nemunas: Keliautojai Nemunu vyko iš Merkinės į Kauną, o iš ten Nemunu ir Dubysa pasiekė Aukokalnį ties dabartine Betygala.
-- susijęs iš Nemunas: Sudeginus Peštvę ir Veliuoną, Nemuno krantuose iki Kauno nebeliko lietuvių gynybos punktų.
 - susijęs iš Nemunas: Vytautas liepė atnaujinti pilis Dubysos ir Nemuno krantuose ir atstatyti sudegintą Veliuoną.
 - susijęs iš Nemunas: 1362 m. pavasarį Prūsų kryžiuočiai išgriovė svarbią lietuvių pilį Kauną Nemuno ir Neries santakoje.
 - susijęs iš Nemunas: Po Kauno pilies kritimo kryžiuočiai pasiekė ir kitų laimėjimų prie Nemuno.
 - susijęs iš Neries sritis: 1362 m. išgriovę Kauno pilį, vokiečiai pradėjo brautis gilyn į Lietuvą ir pasiekė Vilniaus bei Neries sritis.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): 1492 m. Aleksandras garantavo Vilniaus miestiečiams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Vilniaus pirklių vytinėms buvo leista laisvai plaukioti Vilijos upe.
 - susijęs iš Nevėžio žiotys: Kęstutis statydino Naująjį Kauną Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože.
 - susijęs iš Nevėžis: Prie Kėdainių lenkai ketino susprogdinti tiltą per Nevėžį, bet 1-ojo pasienio pulko ir Kėdainių komendantūros kariai sutrukdė.
-- susijęs iš Nevėžis: Atiduodamas vokiečiams visą Žemaičių kraštą iki pat Nevėžio upės, Vytautas dar pažadėjo Ordinui Kauną.
 - susijęs iš Pagaigalė: 1951 m. kovo 19 d. MGB 137-ojo šaulių pulko kareiviai Pagaigalės kaimo apylinkėse puolė dvi partizanų žemines.
 - susijęs iš Palangos pajūris: Palangos pajūris nuo Šventosios buvo priskirtas prie Lietuvos.
 - susijęs iš Paneriai: Paneriuose veikęs Ypatingasis SD būrys buvo viena iš dviejų lietuvių zonderkomandų, daugiausia vykdžiusių šaudymus.
 - susijęs iš Paryžius: 1940 m. birželio 14-osios rytą vermachtas įžengė į Paryžių.
 - susijęs iš Paryžius: Jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.
-- susijęs iš Paryžius: Po susitikimo Paryžiuje su Augustu Zaleskiu A. Voldemarą Kauno stotyje pasitiko karininkai, priešinęsi deryboms su Lenkija.
 - susijęs iš Pašiaušė: Pašiaušėje veikusi jėzuitų kolegija atsirado bajoro Beinarto fundacijos pagrindu.
 - susijęs iš Pažaislio vienuolynas: Pažaislio vienuolyne veikė M. K. Čiurlionio muziejaus senojo meno ekspozicija.
-- susijęs iš Pažaislio vienuolyno ansamblis: Pažaislio vienuolyno ansamblis prie Kauno laikomas europinės reikšmės kūriniu.
 - susijęs iš Peterburgas: Septintąjį–aštuntąjį dešimtmetį Lietuvą kirto geležinkelis Peterburgas–Varšuva.
 - susijęs iš Peterburgas: XIX a. septintąjį ir aštuntąjį dešimtmečiais Lietuvą kirto geležinkelis Peterburgas-Varšuva.
 - susijęs iš Peštvė: Pasak užrašo, Peštvės įgula pažadėjo apgulusiems kryžiuočiams krikštytis, bet po derybų nakčia išbėgiojo.
 - susijęs iš Peštvė: Kryžiuočiai grįždami sudegino Peštvę ir Veliuoną, dvi svarbias lietuvių pilis, ilgai rodžiusias tvirtą atsparumą.
 - susijęs iš Pietų Amerika: Pietų Amerikos šalys tapo pagrindine neprasigyvenusių smulkių mažažemių valstiečių emigracijos kryptimi, kai JAV įvedė imigracijos kvotas.
-- susijęs iš Polockas: Vytauto valdymo metu Polockas buvo vienas iš dviejų didelių prekybos centrų Lietuvoje kartu su Kaunu.
 - susijęs iš Polockas: 1388 m. Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu.
 - susijęs iš Polockas: Gedimino ar Algirdo laikais Polocko žemės telkėsi apie Lietuvą kaip politinės sistemos centrą.
 - susijęs iš Polockas: 1388 m. dokumente Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu.
@@ -1647,9 +2104,6 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš Prancūzija: Jonas Žemaitis-Vytautas 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje, o vėliau buvo išrinktas LLKS Tarybos prezidiumo pirmininku.
 - susijęs iš Pravieniškių įkalinimo kolonija: 1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus.
 - susijęs iš Pravieniškių įkalinimo kolonija: 1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus.
-- susijęs iš Prienai: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.
-- susijęs iš Prienai: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.
-- susijęs iš Prienai: 7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti miestą iš pietų.
 - susijęs iš Prisikėlimo bažnyčia: Prisikėlimo bažnyčia pagal Karolio Reisono projektą buvo statoma iš gelžbetonio plokščių.
 - susijęs iš Prisikėlimo bažnyčia: Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią lietuvių religinę ir tautinę dvasią.
 - susijęs iš Prisikėlimo bažnyčia: Kaune Prisikėlimo bažnyčią sumanyta pastatyti kaip tautos šventyklą, lietuvišku stiliumi atspindinčią religinę ir tautinę dvasią.
@@ -1657,9 +2111,6 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš Prūsija: 1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas iš Prūsijos puolė Lietuvos žemes.
 - susijęs iš Prūsija: Prūsiją pasiekus žiniai apie Jogailos derybų sėkmę, Konradas Ciolneris Rotenšteinas 1385 m. rugpjūtį puolė Lietuvą.
 - susijęs iš Pskovas: Gedimino ar Algirdo laikais Pskovas buvo Lietuvos politinėje įtakoje.
-- susijęs iš Ragainė: Ragainės komtūras išsklaidė Kauno tvirtovę atstatinėjusius darbininkus ir išardė pradėtą pilį.
-- susijęs iš Rumšiškės: Atšilimo laikotarpiu Rumšiškėse netoli Kauno buvo įsteigtas Liaudies buities muziejus.
-- susijęs iš Rumšiškės: Atšilimo laikotarpiu Rumšiškėse netoli Kauno buvo įsteigtas Liaudies buities muziejus.
 - susijęs iš Ruro kraštas (kraštas): Vakaruose vyko ginčai dėl nesumokėtų Vokietijos reparacijų ir prancūzų dalinių įvedimo į Ruro kraštą.
 - susijęs iš Rytų Europa: Lietuva dažnai laikoma Rytų Europos dalimi dėl geopolitinės, o ne vien geografinės krašto padėties.
 - susijęs iš Rytų Prūsija: Be nusileidimo 37 val. 11 min. skridę ir 6 411 km įveikę aviatoriai patyrė katastrofą tuometinėje Rytų Prūsijoje.
@@ -1674,9 +2125,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš Trakai: 1379 m. rugsėjo 29 d. po trijų dienų sunkių derybų Trakuose buvo pasirašyta sutartis.
 - susijęs iš Trakai: 1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir teisę laikyti vaško dirbtuvę.
 - susijęs iš Trakai: Vytautas atgausimus Trakus, Gardiną ir kitas žemes turėjo valdyti kaip Ordino vasalas.
-- susijęs iš Trakai: 1655 m. rugpjūčio 7 d. rusams ir kazokams užėmus Vilnių, netrukus buvo užimti Trakai ir Kaunas.
 - susijęs iš Trakai: Vytautas atgausimus Trakus, Gardiną ir kitas žemes turėjo valdyti kaip Ordino vasalas.
-- susijęs iš Trapėnai: 1363 m. balandį Ordino magistras su kariuomene Nemunu priplaukė Trapėnus, ten įtvirtino paliktus laivus ir patraukė prie Naujojo Kauno pilies.
 - susijęs iš Valkaviskas: Valkavisko apskritis buvo įtraukta į Lietuvos teritorijos projektą, grindžiamą „Lithuania Propria“ ribomis.
 - susijęs iš Valkaviskas: 1917 m. Berno konferencijoje Valkavisko apskritis buvo priskirta planuotos Lietuvos teritorijai „Lithuania Propria“ ribose.
 - susijęs iš Varėna: Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.
@@ -1684,9 +2133,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš Varšuva: 1938 m. kovo 17 d. Varšuva įteikė Lietuvai ultimatumą, reikalaudama be išlygų užmegzti diplomatinius santykius.
 - susijęs iš Varšuva: XIX a. septintąjį–aštuntąjį dešimtmetį Lietuvą kirto geležinkelis Peterburgas–Varšuva.
 - susijęs iš Veliuona: Grįždami kryžiuočiai sudegino Peštvę ir Veliuoną, kurios ilgai rodė tvirtą atsparumą.
-- susijęs iš Vijūkų dvaras: Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.
 - susijęs iš Vilija: Vilniaus pirklių laivams, vadintiems vytinėmis, buvo leista laisvai plaukioti Vilijos upe.
-- susijęs iš Vilija: Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
 - susijęs iš Vilijampolė: 1941 m. birželio 26 d. Vilijampolėje lietuvių talkininkai dalyvavo SD inspiruotuose žiauriuose pogromuose.
 - susijęs iš Vilijampolė: 1941 m. birželio 26 d. Vilijampolėje lietuvių talkininkai dalyvavo SD inspiruotuose žiauriuose pogromuose.
 - susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.
@@ -1704,7 +2151,6 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš Vilnius: 1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus.
 - susijęs iš Vilnius: 1492 m. karalius Aleksandras patvirtino ankstesnes Vilniaus dovanas ir suteikė naujų privilegijų prekybai bei miestiečių buičiai gerinti.
 - susijęs iš Vilnius: 1928 m. Lietuvos konstitucijoje Lietuvos sostine buvo įrašytas Vilnius.
-- susijęs iš Vilnius: Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
 - susijęs iš Vilnius: Vytautas tarpukario Lietuvoje įkūnijo tautinį ir politinį idealą, nes laikytas Lietuvos vaduotoju iš priklausomybės nuo lenkų ir palaidotas Vilniuje.
 - susijęs iš Vilnius: Vilnius tuo metu turėjo 155 tūkst. gyventojų, o prieš Pirmąjį pasaulinį karą jų skaičius siekė 200 tūkst.
 - susijęs iš Vilnius: 1919 m. balandžio pradžioje Lietuvos karinė vadovybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti Vilnių ir pirmiau nei lenkai jį užimti.
@@ -1723,10 +2169,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš Voluinė: Gedimino ar Algirdo laikais Voluinė buvo Lietuvos politinėje įtakoje.
 - susijęs iš Vyrgalės sala: Kęstutis statydino Naująjį Kauną Vyrgalės saloje ir tiltą per Nemuną, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių gynybą.
 - susijęs iš Vyrgalės sala: Kęstutis statydino Naujojo Kauno pilį Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože.
-- susijęs iš Vytauto Didžiojo karo muziejus: Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.
 - susijęs iš Zapyškis: XV a. pabaigoje–XVI a. pirmame trečdalyje gotika pasiekė provinciją, įskaitant Kėdainius ir Zapyškį.
-- susijęs iš Zaslavlis: Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno.
-- susijęs iš Įsrutis: Maršalas organizavo žygį iš Įsruties į Kauną ir, anot šaltinyje cituojamos frazės, „atnešė stabmeldžiams visokių nelaimių“.
 - susijęs iš Šeštokai: Rugsėjo 10 d. šarvuotas traukinys „Gediminas“ iš Kauno per Varėną ir Alytų nuvyko į Šeštokus.
 - susijęs iš Šiauliai: 1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada.
 - susijęs iš Štuthofas: Keršydamas už lietuvių pogrindžio boikotą, gestapas 1943 m. kovo viduryje išvežė 46 Lietuvos visuomenės veikėjus į Štuthofą.
@@ -1735,7 +2178,6 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš Žeimelis: Lapkričio 20 d. Pasvalio batalionas užėmė Žeimelį.
 - susijęs iš Žeimelis: Lapkričio 20 d. Pasvalio batalionas užėmė Žeimelį.
 - susijęs iš Ženeva: Ženevoje pasiektus rezultatus Lietuva ir Lenkija laikė pergale, tačiau Vilnius dar labiau nutolo nuo Lietuvos.
-- susijęs iš Žiežmariai: 1919 m. vasario pradžioje bolševikų karinė vadovybė, sužinojusi, kad nuo Žiežmarių iki Alytaus nėra lietuvių ir vokiečių dalinių, ryžosi pulti Kauną iš pietų.
 - susijęs iš Žodiškiai: Žodiškiuose veikusi jėzuitų kolegija buvo Minkevičių fundacija.
 - susijęs iš Žuvų turgus Vilniuje (sujungti pirminiai pavadinimai Žuvų turgavietė; Žuvų turgus Vilniuje): 1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai užrašė lėšas iš namų ir sklypų, tarp jų Liaudanskų mūrinio namo Žuvų turgavietės gale.
 - susijęs iš „Lietūkio“ garažas: 1941 m. birželio 27 d. Kauno „Lietūkio“ garaže lietuviai dalyvavo SD inspiruotame žiauriame pogrome.
@@ -1745,9 +2187,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/zodynas/Klaipėdiškiai.md#claim-t-21995|Klaipėdiškiai]]: Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas.
 - susijęs iš [[objektai/zodynas/Lietuviška Lietuva.md#claim-t-75571|Lietuviška Lietuva]]: Lietuviška Lietuva, nors tarpais buvo be Vilniaus ar Klaipėdos, laikyta didžiausiu tautos kūrėjų pasiekimu.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės vokiečių teisė.md#claim-t-86535|Magdeburgo teisės vokiečių teisė]]: Vilnius 1321 m. turėjo Gedimino Rygos pavyzdžiu suteiktą vokiečių teisę, o 1387 m. iš Jogailos gavo Magdeburgo teisę.
-- susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113649|Magdeburgo teisės]]: Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113651|Magdeburgo teisės]]: Karinis valdymas, kryžiuočių antpuoliai ir Vilniaus apgultys trukdė įtvirtinti Magdeburgo teises tarp miestiečių.
-- susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113656|Magdeburgo teisės]]: Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m.
 - susijęs iš [[objektai/zodynas/Modus vivendi.md#claim-t-77799|Modus vivendi]]: Stasys Lozoraitis modus vivendi su Lenkija laikė būtina Lietuvos nepriklausomybės sąlyga.
 - susijęs iš [[objektai/zodynas/Tautos šventykla.md#claim-t-75592|Tautos šventykla]]: Kaune Prisikėlimo bažnyčią sumanyta pastatyti kaip tautos šventyklą, lietuvišku stiliumi ir ornamentika atspindinčią lietuvių tautos religinę ir tautinę dvasią.
 - susijęs iš [[objektai/zodynas/Tautos šventykla.md#claim-t-75593|Tautos šventykla]]: Prisikėlimo bažnyčią Kaune sumanyta pastatyti kaip tautos šventyklą, atspindinčią lietuvių religinę ir tautinę dvasią.
@@ -1757,13 +2197,11 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/zodynas/akcijos.md#claim-t-70076|akcijos]]: Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armijos dalinius, ukrainiečių, latvių policijos batalionus.
 - susijęs iš [[objektai/zodynas/apsigynimo ir puolimo sutartis.md#claim-t-70088|apsigynimo ir puolimo sutartis (sutartis)]]: Kauno taika Vytautui buvo apsigynimo ir puolimo sutartis, nepraradusi vertės ir naudinga jo rytų politikai.
 - susijęs iš [[objektai/zodynas/apsigynimo ir puolimo sutartis.md#claim-t-70090|apsigynimo ir puolimo sutartis (sutartis)]]: Kauno taika, kaip apsigynimo ir puolimo sutartis, Vytautui buvo naudinga politikai rytuose.
-- susijęs iš [[objektai/zodynas/de facto.md#claim-t-75545|de facto]]: 1919 m. rugsėjo 26 d. žinia apie Didžiosios Britanijos de facto pripažinimą Lietuvai sukėlė masines manifestacijas prie Kauno rotušės.
 - susijęs iš [[objektai/zodynas/de facto.md#claim-t-75546|de facto]]: 1919 m. Lietuvą de facto pripažino Norvegija, Latvija ir Suomija, o 1920 m. - Prancūzija ir Lenkija.
 - susijęs iš [[objektai/zodynas/didysis magistras.md#claim-t-113618|didysis magistras]]: Prieš 1392 m. žygį didysis magistras ir jo svita dėl pasitikėjimo Ordino kariuomenės galybe Lietuvą jau laikė nukariauta.
 - susijęs iš [[objektai/zodynas/einzatsgrupės Einzatsgruppen.md#claim-t-22131|einzatsgrupės Einzatsgruppen]]: Einzatsgrupės terorą organizavo taip, kad pirmieji pogromai ir „apsivalymo“ akcijos atrodytų vykdomi vietinių gyventojų.
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101582|etnografinės ribos etnografinis principas]]: 1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose.
 - susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-101587|federacija federacinė valstybė]]: Lietuviai vengė federacijos su Lenkija, bet sutiko derėtis, jei Varšuva pripažintų Lietuvą su sostine Vilniumi.
-- susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-101588|federacija federacinė valstybė]]: P. Himansas parengė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.
 - susijęs iš [[objektai/zodynas/kantonas kantoninis principas.md#claim-t-104189|kantonas kantoninis principas]]: Lietuviams sutikus derėtis tik dėl Lietuvos su sostine Vilniumi, P. Himansas parengė Kauno ir Vilniaus kantonų projektą.
 - susijęs iš [[objektai/zodynas/klaipėdiečiai klaipėdiškiai.md#claim-t-183432|klaipėdiečiai klaipėdiškiai]]: Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie vietos seimelio rinkimuose balsavo už vokiškas partijas.
 - susijęs iš [[objektai/zodynas/klaipėdiečiai klaipėdiškiai.md#claim-t-22187|klaipėdiečiai klaipėdiškiai]]: Lietuva prarado lietuviškai kalbėjusių klaipėdiškių paramą, nes jie vietos seimelio rinkimuose balsavo už vokiškas partijas.
@@ -1774,8 +2212,6 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/zodynas/separatizmas.md#claim-t-34311|separatizmas]]: Dėl nedraugiškų žygių Lenkijos atžvilgiu Vytautas buvo įtarinėjamas neištikimybe ir separatizmu.
 - susijęs iš [[objektai/zodynas/sukilimo inscenizacija.md#claim-t-183468|sukilimo inscenizacija]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
 - susijęs iš [[objektai/zodynas/sukilimo inscenizacija.md#claim-t-77785|sukilimo inscenizacija]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
-- susijęs iš [[objektai/zodynas/tenuta laikytojas.md#claim-t-86575|tenuta laikytojas]]: 1503 m. Vilniuje duotame rašte Stanislovas Hlebavičius minimas kaip Polocko laikytojas, o Albertas Janavičius - kaip Kauno laikytojas.
-- susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-183486|zonderkomanda]]: Viena Tautinės darbo apsaugos bataliono kuopa buvo padaryta zonderkomanda ir liepos 4 bei 6 dienomis dalyvavo 3 000 žydų žudynėse Kauno VII forte.
 - susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-70414|zonderkomanda]]: Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys.
 - susijęs iš [[objektai/zodynas/Žuvusių karių kultas.md#claim-t-22353|Žuvusių karių kultas]]: 1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje palaidotas Nežinomas kareivis, rūpintasi karių kapais ir kurtas žuvusių karių kultas.
 - susijęs iš [[objektai/zodynas/žirgynas.md#claim-t-03238|žirgynas]]: Netoli Kauno buvo žirgynas, kuriame auginta 800 arklių.
@@ -1835,6 +2271,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 7528-7783; hash=625e247807f8b97d7c2140a1ec69b666054b1d3bb808634491340c27a6df3f3e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prienai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Prienai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Prienai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-004
@@ -1862,6 +2308,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 780494-780727; hash=fa21704cf42b6e96b1257507d879b1ca139a7307595b4ee0b143eec1107058a2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-026
 
 - c-006
@@ -1894,6 +2350,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8db8fa8c2304bb84c8069d258e25457aaa2d14fa3e95dc5974e08a2b8d8311ba; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-014
 
 - c-008
@@ -1928,7 +2394,27 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=09366e6242d1e779ca36c14b9ce3d0cac0ca7bb8ac8754c259c6ef720be0fd70; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-080
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=25b0f7a08834850ef7119ce42a75c59973c582ed6668f3506bddbd9be7655cf7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hanza: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Hanza: mention_match, group, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Hanza" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-075
 
 - c-010
@@ -1948,7 +2434,27 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3217cd413c04f43a5f61a98deaa841b9dce348ce15712f9113c83a5cc6456675; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=76
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-033
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e3efad5a98a0c847d6d314fa294fbaa6f05881e560a1b10fcf12306e10733fd3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-027
 
 - c-011
@@ -2022,6 +2528,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=25b0f7a08834850ef7119ce42a75c59973c582ed6668f3506bddbd9be7655cf7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hanza: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Hanza: mention_match, group, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Hanza" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-039
 
 - c-015
@@ -2037,6 +2553,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e98137d7a84471c26b8aa25f4161691f31cf8d5bcb12bb52364c1b1de7c3f871; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
     - t-038
 
@@ -2061,6 +2587,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2d45fecc4e657418529ffa4230c79b71dcfeb8bf0a1d59dcfdc2855e50b9baca; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Austrija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-076
     - t-049
 
@@ -2085,7 +2621,27 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 349137-349623; hash=65ceaf0d73585cf5c8b98e6334dc021e9ae211d02f1eeda72dd6cd81cde1c429; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-030
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=09edb8737901d04751a42cbc53a4f380c025abe8c1482d8fef4021db432d4faa; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=100
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-053
 
 - c-018
@@ -2133,6 +2689,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=680e9eb217c3d5bc0be1c9a9b8d56c32cb531bed294d4c5625552a896ddef45b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-071
 
 - c-021
@@ -2176,6 +2742,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ce6152d4b783b7bba1196e49e6d243ee7971edce84077b1fd25d87df1698f9e2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-012
 
 - c-024
@@ -2214,6 +2790,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=15c9f1056211c8dc671fd06b6561b7d5ce9134eeed2993ff134982fd38691953; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-052
 
 - c-026
@@ -2234,6 +2820,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=75db22e7d17a2682ecc43cf1602b83fcdb0df0ee9dd53f88358a07eadc5f5a01; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-050
 
 - c-027
@@ -2251,6 +2847,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e993ce331278d1831564d4865fc0072471cb73a5ecd16459cb449c09e145780a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-072
 
 - c-028
@@ -2274,6 +2880,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   statusas: verified
   pagrindžia:
     - t-031
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=258bef618a9cd6582f66511e507956b175034bbdcaebbcba3bd7f2a35710d437; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kauno pilis (pilis): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kauno pilis (pilis): mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Kauno pilis (pilis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-061
 
 - c-029
@@ -2305,6 +2921,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0a2e4c919743747cc0b1a932d26103dd6df471287f525a6166a4be0fb2d35f97; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Voldemaras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: A. Voldemaras: mention_match, person, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "A. Voldemaras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-067
 
 - c-031
@@ -2323,6 +2949,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 516004-516290; hash=82811b11ab77e8f9870e3cfa00fe075247d073e83a8df7b6ac7644dc12a167b8; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-022
 
 - c-032
@@ -2390,6 +3026,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 41531-42075; hash=e4cb7ddf6db61557dd170c9a2b4b990e32fb914e45d8f3d313837ec62c958ee4; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-017
 
 - c-036
@@ -2457,6 +3103,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0c11d37ec92e0a7e68b2e1b638e5e92f8df7956697a478f9555d798085f24782; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bomba: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bomba: mention_match, thing, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Bomba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-015
 
 - c-040
@@ -2506,6 +3162,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 151718-151883; hash=f0204ffa54b6877546586dc1a9f1b3bad5a047d82d162b975c7786514aca19cf; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pažaislio vienuolyno ansamblis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pažaislio vienuolyno ansamblis: mention_match, place, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Pažaislio vienuolyno ansamblis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
 
 - c-042
@@ -2586,6 +3252,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=37a5547fc37c10c4aea0c2fbc82d695a25b234fbc0db47860be71af8af8b29d4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vokiečiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-044
 
 - c-044
@@ -2604,6 +3280,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 295544-295887; hash=e81e5b19fbac3da60e8313e29e67b31b3200008001c70a9a17f6ad11c8f523d0; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-062
 
 - c-045
@@ -2643,6 +3329,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 351364-351720; hash=a460eb47c4f7da87d1b4f523358837cbf82fb34fe8dfcd192046a3d0fe156ca2; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-025
 
 - c-047
@@ -2705,6 +3401,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=92a331d50712855eb1ae6b512b9612fbe7f083409f32cf13dd1b4001838bc693; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-018
 
 - c-050
@@ -2756,6 +3462,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d0f4122067a3c01f7164fc8aaa2807f7740afaced15af1c8193dab5f3ea92a11; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-042
 
 - c-053
@@ -2772,6 +3488,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=40cf5e43f9979845b95c62e838afe5b4e3fbc2b33f6612f042a76187666fc6c4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Didžioji Britanija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Didžioji Britanija: mention_match, place, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Didžioji Britanija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-028
 
 - c-054
@@ -2808,6 +3534,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6071409ffb87faa77e173cd4f2b69609dfda2969b3914111517bf0256db4133a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-010
 
 - c-056
@@ -2841,6 +3577,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d0b02269bff649abbd1e7c96d66f223660e274aa723c85a257b251cf58b7037a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Merkinė: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): nearest_actor, person, gap=27
+  ryšio_targeto_parinkimas: Merkinė: nearest_after_predicate, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip nearest_actor. Targetas "Merkinė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
     - t-032
 
 - c-058
@@ -2861,6 +3607,9 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 88416-88608; hash=007d5ed26ce1e2c31e5e44e92c281b37b69583841d30e1a41ac756c7d5d3e01c; match=whitespace_regex
+  sprendimo_priezastis: auto
     - t-068
 
 - c-059
@@ -2893,6 +3642,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 405040-405419; hash=5df02139047012ef4da3a2976776a5aab5e16a8e4fb23112102163d15be275e4; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žydai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-013
 
 - c-061
@@ -2929,6 +3688,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7f4fc3c63a7d3659a1fcb73bd9c1388738f0edef45d318d1a58e2d8159a210a4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pranciškonų ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pranciškonų ordinas: mention_match, group, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Pranciškonų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-070
 
 - c-063
@@ -2945,6 +3714,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=85abe385e71e3aeb597beb475ff15fb9d6aecf1a47415b71accec1bde98b2dec; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Malūnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Malūnas: mention_match, thing, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Malūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-036
 
 - c-064
@@ -2970,7 +3749,27 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=651b4c24adc9cf5f22e426e8c08b325aeb741bf40f33cfdea3756bcba869432a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-059
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 150849-151107; hash=096e336f40b5523559e8c8926d20d45b1b5c19d60fe63f8dbc424c7eb8f4aa4e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kauno pilis (pilis): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kauno pilis (pilis): mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Kauno pilis (pilis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-040
 
 - c-065
@@ -3042,6 +3841,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=666dd309bb44c1e89855d9152f922109af7b13161d5e9e613e1f31ab3c0e80a5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-074
 
 - c-069
@@ -3059,6 +3868,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 113634-114215; hash=1768a18f30d457693b9fc4c72beb0906e1a38a35dc323e42ec487b77de8b1792; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-020
 
 - c-070
@@ -3098,7 +3917,27 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e718386710e088128f379d4afb0ebcd76248f46bc464dfc426ab604b8bfaf98e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Laivai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Laivai: mention_match, thing, gap=62
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-079
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4a19f99eae2fda53101c905f959c034f1c5fda5bfb49dbe9f818e9638587b73e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Iki gyvos galvos: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Iki gyvos galvos: mention_match, thing, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Iki gyvos galvos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-047
 
 - c-072
@@ -3116,6 +3955,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fcd37c0f457e3ecbbbd3b8a5ce560611aad8cc4f6ddd737d97925e2c4e1b3a4a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-080
 
 - c-073
@@ -3147,6 +3996,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=25b0f7a08834850ef7119ce42a75c59973c582ed6668f3506bddbd9be7655cf7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hanza: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Hanza: mention_match, group, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Hanza" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-081
 
 - c-074
@@ -3170,6 +4029,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 270005-270860; hash=bc36f2624b0cc7a6273b7f1da6a101087ae7f8a0b564c56da0548d26508c124f; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-082
 
 - c-075
@@ -3195,6 +4064,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 349137-349623; hash=65ceaf0d73585cf5c8b98e6334dc021e9ae211d02f1eeda72dd6cd81cde1c429; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-083
 
 - c-076
@@ -3215,6 +4094,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=affea543c4162d7272e06b6763dce57c86cd71b1c44ad69cdcbe815fd73ffbed; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-084
 
 - c-077
@@ -3236,6 +4125,16 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2c555cd43376da7c00759cfbe84aa5f93fff6e79db9c820be8760c541615d0f2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ignalinos atominė elektrinė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ignalinos atominė elektrinė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Ignalinos atominė elektrinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-085
 
 - c-078
@@ -3253,6 +4152,9 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8ad198140306ba260771e0818686dce5ec9e0eeeed581dea8ef503d0372a6812; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-086
 
 - c-079
@@ -3278,8 +4180,28 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 256520-256797; hash=92c8cebc82a32fac64ccd893ddf6ae17e4c92da5f95123b9f79c411f0e771ab0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Salynas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Salynas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Salynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-087
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 689807-690475; hash=8067db089f246b467b965cbdcbc93fb11aa2b7cfcdc95d5bc2bd6396860b3948; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaunas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaunas" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/grupes/Hanza]] priklause Kaunas
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] puole Kaunas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] apgule Kaunas

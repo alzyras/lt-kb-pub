@@ -61,27 +61,13 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   pagrindžia:
     - c-003
 - susijęs iš Ratne: Ratnėje, Pripetės aukštupyje, valdė Algirdo sūnus Teodoras.
-- susijęs iš [[objektai/asmenys/Kaidanas.md#claim-t-186122|Kaidanas]]: Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga priversti paklusti jo valdžiai.
-- susijęs iš [[objektai/grupes/Baltai.md#claim-t-96077|Baltai]]: Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo.
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187448|Krymo chanatas]]: Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-187711|Kryžiuočių ordinas]]: Narimantas Glėbas 1348 m. vasario 2 d. žuvo mūšyje su Kryžiuočių ordinu ties Strėva.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184541|Lietuviai]]: Lietuviai išvijo priešus iš stovyklos, o daug bėgančiųjų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose.
 - susijęs iš [[objektai/ivykiai/Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių.md#claim-t-185564|Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių]]: Kaidanas įrengė karo stovyklą prie Pripetės žiočių ir išsiuntė daug būrių krašto niokoti.
 - susijęs iš [[objektai/ivykiai/Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių.md#claim-t-185566|Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių]]: Lietuviai išvijo Kaidano karius iš stovyklos, daug jų nukovė mūšyje ir persekiojo bėgančius prie Dnepro bei Pripetės.
 - susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186804|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: Nuo 1502 m. Krymo totorių antpuoliai persikėlė į šiaurę nuo Pripetės pelkių, į Naugarduko ir Vilniaus vaivadijas.
-- susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186805|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: 1502-1503 m. Krymo totorių antpuoliai pasiekė valstybės centrą ir, komentaro vertinimu, darė didelį nemalonų įspūdį LDK visuomenei.
-- susijęs iš [[objektai/ivykiai/Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus.md#claim-t-186688|Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.)]]: Pasakojimas apie mūšį su chano Kurdo totoriais prie Mozyriaus 1971 m. komentare laikomas galbūt paremtu vietos padavimu.
-- susijęs iš [[objektai/ivykiai/Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus.md#claim-t-186690|Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.)]]: Pasakojimas apie lietuvių ir rusų kunigaikščių mūšį su chano Kurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas.
-- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186685|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Redakcinėje pastaboje mūšio prie Jieseldos pasakojimas laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva.
-- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186686|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare siejamas su žinia, kad 1262 m. Vasilka Romanovičius vijosi lietuvius iki Jieseldos ir juos sumušė.
-- susijęs iš [[objektai/ivykiai/Mūšis su kryžiuočiais ties Strėva.md#claim-t-186693|Mūšis su kryžiuočiais ties Strėva (mūšis, XIV a.)]]: Narimantas Glėbas žuvo 1348 m. vasario 2 d. mūšyje su kryžiuočiais ties Strėva.
-- susijęs iš Davidgorodokas: Gorodokas veikiausiai tapatinamas su Davidgorodoku.
 - susijęs iš Davidgorodokas: Davidgorodokas lokalizuojamas apie 120 km į pietus nuo Slucko ir apie 12 km į pietus nuo Pripetės.
-- susijęs iš Davidgorodokas: Gorodokas komentare veikiausiai tapatinamas su Davidgorodoku, esančiu apie 120 km į pietus nuo Slucko.
-- susijęs iš Dnepras: Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga priversti paklusti jo valdžiai.
 - susijęs iš Dnepras: Lietuviams nugalėjus, daug bėgančių priešų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose.
-- susijęs iš Gričino pelkės: Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.
-- susijęs iš Nemuno-Dauguvos-Dniepro plotas: Viduriniame geležies amžiuje baltai ir toliau gyveno Nemuno, Dauguvos ir Dniepro plote, nedaug tepajudėdami.
 - susijęs iš Pina: Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas.
 - susijęs iš Pina: Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas.
 - susijęs iš Pripetės pelkės: Pripetės pelkės ilgus amžius iš pietų pusės saugojo baltus kaip gamtinė judėjimo kliūtis.
@@ -89,6 +75,20 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
 - susijęs iš Ratne: Ratnėje, Pripetės aukštupyje, valdė Algirdo sūnus Teodoras.
 - susijęs iš Slučė: Slučė teka pro Slucką pietų kryptimi į Pripetę.
 - susijęs iš Slučė: Slučė yra upė, prasidedanti šiauriau Slucko ir pro Slucką tekanti pietų kryptimi į Pripetę.
+- susijęs iš [[objektai/asmenys/Kaidanas.md#claim-t-186122|Kaidanas]]: Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga priversti paklusti jo valdžiai.
+- susijęs iš [[objektai/grupes/Baltai.md#claim-t-96077|Baltai]]: Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-187711|Kryžiuočių ordinas]]: Narimantas Glėbas 1348 m. vasario 2 d. žuvo mūšyje su Kryžiuočių ordinu ties Strėva.
+- susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186805|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: 1502-1503 m. Krymo totorių antpuoliai pasiekė valstybės centrą ir, komentaro vertinimu, darė didelį nemalonų įspūdį LDK visuomenei.
+- susijęs iš [[objektai/ivykiai/Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus.md#claim-t-186688|Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.)]]: Pasakojimas apie mūšį su chano Kurdo totoriais prie Mozyriaus 1971 m. komentare laikomas galbūt paremtu vietos padavimu.
+- susijęs iš [[objektai/ivykiai/Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus.md#claim-t-186690|Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.)]]: Pasakojimas apie lietuvių ir rusų kunigaikščių mūšį su chano Kurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas.
+- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186685|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Redakcinėje pastaboje mūšio prie Jieseldos pasakojimas laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva.
+- susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186686|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare siejamas su žinia, kad 1262 m. Vasilka Romanovičius vijosi lietuvius iki Jieseldos ir juos sumušė.
+- susijęs iš [[objektai/ivykiai/Mūšis su kryžiuočiais ties Strėva.md#claim-t-186693|Mūšis su kryžiuočiais ties Strėva (mūšis, XIV a.)]]: Narimantas Glėbas žuvo 1348 m. vasario 2 d. mūšyje su kryžiuočiais ties Strėva.
+- susijęs iš Davidgorodokas: Gorodokas veikiausiai tapatinamas su Davidgorodoku.
+- susijęs iš Davidgorodokas: Gorodokas komentare veikiausiai tapatinamas su Davidgorodoku, esančiu apie 120 km į pietus nuo Slucko.
+- susijęs iš Dnepras: Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga priversti paklusti jo valdžiai.
+- susijęs iš Gričino pelkės: Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.
+- susijęs iš Nemuno-Dauguvos-Dniepro plotas: Viduriniame geležies amžiuje baltai ir toliau gyveno Nemuno, Dauguvos ir Dniepro plote, nedaug tepajudėdami.
 - susijęs iš Sčara: Komentare Sčara įvardijama kaip Nemuno pietinis intakas.
 - susijęs iš Sčara: Komentare Sčara minima kaip Nemuno pietinis intakas prie takoskyros su Jieselda.
 - susijęs iš Vilniaus vaivadija: Nuo 1502 m. Krymo totoriai persimetė į šiaurę nuo Pripetės pelkių ir pasiekdavo Vilniaus vaivadiją.

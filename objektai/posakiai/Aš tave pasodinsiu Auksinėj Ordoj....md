@@ -32,16 +32,36 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
   pagrindžia:
     - c-002
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 183116-183456; hash=41337e20a64842aa367347694d5e9e843658dc9f57b6c4d1bb8f96be25e0d33e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aš tave pasodinsiu Auksinėj Ordoj...: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aš tave pasodinsiu Auksinėj Ordoj..." parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-67257"></a>
 - t-002
   global_id: t-67257
   teiginys: 'Rusų metraščiai teigė, kad Vytautas žadėjo Tochtamyšą pasodinti Aukso Ordoje, o pats siekė Maskvos sosto.'
   sudarymo_pagrindimas: 'Citata palaiko posakio kontekstą, pirminis sakinys stokojantis objekto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 183488-183872; hash=d32b13eeac56f162215acb1f7ef08f498ebfa1326ca9991dd85a5c8ce6376e38; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aš tave pasodinsiu Auksinėj Ordoj...: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aš tave pasodinsiu Auksinėj Ordoj..." parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -74,6 +94,16 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 183488-183872; hash=d32b13eeac56f162215acb1f7ef08f498ebfa1326ca9991dd85a5c8ce6376e38; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aš tave pasodinsiu Auksinėj Ordoj...: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aš tave pasodinsiu Auksinėj Ordoj..." parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-003
@@ -90,5 +120,35 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 183116-183456; hash=41337e20a64842aa367347694d5e9e843658dc9f57b6c4d1bb8f96be25e0d33e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aš tave pasodinsiu Auksinėj Ordoj...: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aš tave pasodinsiu Auksinėj Ordoj..." parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 183488-183872; hash=d32b13eeac56f162215acb1f7ef08f498ebfa1326ca9991dd85a5c8ce6376e38; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aš tave pasodinsiu Auksinėj Ordoj...: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aš tave pasodinsiu Auksinėj Ordoj..." parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 183116-183456; hash=41337e20a64842aa367347694d5e9e843658dc9f57b6c4d1bb8f96be25e0d33e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aš tave pasodinsiu Auksinėj Ordoj...: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aš tave pasodinsiu Auksinėj Ordoj..." parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

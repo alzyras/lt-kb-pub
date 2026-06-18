@@ -40,9 +40,19 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko glaustą teiginį apie Viduržemio jūros prekybos centrų reikšmės mažėjimą.'
-  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Dniepras; mentioned_place: Europa; mentioned_place: Mažoji Azija'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Baltija; mentioned_place: Dniepras; mentioned_place: Mažoji Azija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 345601-345856; hash=0cc9b03c31bb7593aa6748816ab0cf58e6402706df6b15c4a7fce16c77114340; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dniepras: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Viduržemio jūra: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dniepras: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viduržemio jūra" parinktas kaip owner_note_path. Targetas "Dniepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Ispanija: XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė.
 ## Reikšmingi paminėjimai
 
@@ -79,3 +89,13 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 345601-345856; hash=0cc9b03c31bb7593aa6748816ab0cf58e6402706df6b15c4a7fce16c77114340; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dniepras: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Viduržemio jūra: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dniepras: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Viduržemio jūra" parinktas kaip owner_note_path. Targetas "Dniepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

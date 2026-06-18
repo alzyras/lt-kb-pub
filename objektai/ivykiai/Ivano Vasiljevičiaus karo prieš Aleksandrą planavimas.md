@@ -48,9 +48,19 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis Ivano Vasiljevičiaus karo prieš Aleksandrą sumanymą sieja su sąmokslu su Mengli-Girėjumi ir taika su Steponu.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Motyvų ir sąmokslo aiškinimas reikalauja šaltinio atribucijos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Perekopas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Perekopas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=77c9fd270a88f00160531ee8a6313db04eabb37d43acdd7226c98ef87b093098; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Ivanas Vasiljevičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Ivanas Vasiljevičius: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas" parinktas kaip owner_note_path. Targetas "Ivanas Vasiljevičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -76,3 +86,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=77c9fd270a88f00160531ee8a6313db04eabb37d43acdd7226c98ef87b093098; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Ivanas Vasiljevičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Ivanas Vasiljevičius: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ivano Vasiljevičiaus karo prieš Aleksandrą planavimas" parinktas kaip owner_note_path. Targetas "Ivanas Vasiljevičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

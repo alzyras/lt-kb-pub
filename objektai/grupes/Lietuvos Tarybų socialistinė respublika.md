@@ -29,12 +29,22 @@ amziai:
   global_id: t-31291
   teiginys: 'Tarybiniai istorikai teigė, kad Lietuvos Tarybų respublikos suverenumas po kliūčių esą buvęs įvykdytas 1940 m.'
   sudarymo_pagrindimas: 'Reikia aiškiau parodyti, kad tai tarybinių istorikų pozicija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė|Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/suverenumas|suverenumas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/suverenumas|suverenumas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė|Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė]]'
   temporaliniai_duomenys: 'įvykio data: 1918 m.; įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau parodyti, kad tai tarybinių istorikų pozicija.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c3dcf9c98eb2cde6bdfbf3b0ec6b30dc02e7f86ed958a2552b18e32d3d97a37f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Tarybų socialistinė respublika (institucija): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Tarybų socialistinė respublika (institucija)" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Lietuvos Sovietų Socialistinė Respublika.md#claim-t-74781|Lietuvos Sovietų Socialistinė Respublika]]: Sudarius marionetinę vyriausybę paskelbta, kad sukuriama Lietuvos Tarybų Socialistinė Respublika.
 ## Reikšmingi paminėjimai
 
@@ -57,3 +67,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c3dcf9c98eb2cde6bdfbf3b0ec6b30dc02e7f86ed958a2552b18e32d3d97a37f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos Tarybų socialistinė respublika (institucija): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos Tarybų socialistinė respublika (institucija)" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

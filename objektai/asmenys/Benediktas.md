@@ -35,10 +35,20 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
   temporalinis_llm_pakomentavimas: 'Citata nurodo, kad Jogaila pasiuntė Vytautą su kariuomene, todėl reikia patikslinti veikėją.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=53adbc06a294e0ebf0e77b71d4237e9381833eceb71c1ef919bc7761e4d47f2f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Haličas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Benediktas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Haličas: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Benediktas" parinktas kaip owner_note_path. Targetas "Haličas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Švento Benedikto ordinas.md#claim-t-59047|Švento Benedikto ordinas]]: Švento Benedikto ordinas pradėjo veikti 500 m. popiežiaus Felikso III laikais.
 - susijęs iš [[objektai/asmenys/Baltramiejus (Aleto vyskupas).md#claim-t-60245|Baltramiejus (Aleto vyskupas)]]: Popiežius Jonas XXII 1324 m. pasiuntė Aleto vyskupą Baltramiejų į Livoniją kaip legatą pakrikštyti lietuvių ir rusų karaliaus.
 - susijęs iš [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas).md#claim-t-60250|Bernardas (Šv. Teofrido vienuolyno abatas)]]: Bernardas, Šv. Teofrido vienuolyno abatas, 1324 m. buvo popiežiaus Jono XXII pasiųstas į Livoniją kaip legatas.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89712|Fridrichas (Rygos arkivyskupas)]]: Rygos arkivyskupas Fridrichas įkalbėjo popiežių Joną XXII pasiųsti į Livoniją du legatus pakrikštyti lietuvių ir rusų karaliaus.
-- susijęs iš [[objektai/grupes/Švento Benedikto ordinas.md#claim-t-59047|Švento Benedikto ordinas]]: Švento Benedikto ordinas pradėjo veikti 500 m. popiežiaus Felikso III laikais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,3 +66,13 @@ Ypatingą jam mi­ siją Jogaila paskyrė 1387 m. vasarą: pasiuntė jį su kari
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=53adbc06a294e0ebf0e77b71d4237e9381833eceb71c1ef919bc7761e4d47f2f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Haličas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Benediktas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Haličas: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Benediktas" parinktas kaip owner_note_path. Targetas "Haličas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

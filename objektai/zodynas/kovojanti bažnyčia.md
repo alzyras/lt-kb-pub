@@ -27,6 +27,16 @@ Dusburgietis teigia, kad šit koks reikšmingas ženklas pasirodęs kovojančios
   susije_objektai: 'mentioned_place: Barta; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Notanga; mentioned_place: Palenkė; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 99443-100189; hash=5ac02c90ac5d1e10ebc519059ff5e3467c9b55adac9c3459eb9b360eb40bfd8e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Barta: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kovojanti bažnyčia: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Barta: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kovojanti bažnyčia" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -50,3 +60,13 @@ Dusburgietis teigia, kad šit koks reikšmingas ženklas pasirodęs kovojančios
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 99443-100189; hash=5ac02c90ac5d1e10ebc519059ff5e3467c9b55adac9c3459eb9b360eb40bfd8e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Barta: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: kovojanti bažnyčia: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Barta: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "kovojanti bažnyčia" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

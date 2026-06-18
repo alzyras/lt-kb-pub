@@ -25,6 +25,17 @@ Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau 
   susije_objektai: 'territory: Maskva; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Rževas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1074675-1075463; hash=cc157afb82b78638fb36100768dde6e56fbe09992a4afe5372cf5ff8ffccbd28; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Vasilijus: nearest_actor_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Riazanė: candidate; Rževas: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vasilijus" parinktas kaip nearest_actor_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Riazanė.md", "selected": false, "strategy": "candidate", "title": "Riazanė", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Rževas.md", "selected": false, "strategy": "candidate", "title": "Rževas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -61,3 +72,14 @@ Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1074675-1075463; hash=cc157afb82b78638fb36100768dde6e56fbe09992a4afe5372cf5ff8ffccbd28; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Vasilijus: nearest_actor_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Riazanė: candidate; Rževas: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vasilijus" parinktas kaip nearest_actor_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Riazanė.md", "selected": false, "strategy": "candidate", "title": "Riazanė", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Rževas.md", "selected": false, "strategy": "candidate", "title": "Rževas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.

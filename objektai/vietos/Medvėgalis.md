@@ -35,6 +35,9 @@ amziai:
   sudarymo_pagrindimas: 'Reikia pašalinti klaidingą autorinę atribuciją, nes citata yra paaiškinimas, ne Dusburgiečio pasakojimas.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5cce4eacc53d86f062d23656180308afcef8aae5ed2d60d8ebfa4be80c96bae6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-98614"></a>
 - t-002
@@ -47,15 +50,35 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nutrūkęs sąrašas, o citata geriau palaiko faktą apie Medvėgalio apsiaustį.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5772c90e6d80e330e2f23be84e8d405a2cdedd38dfaa0092101ac6663e964a1d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žemaičiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medvėgalis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Žemaičiai: mention_match, group, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medvėgalis" parinktas kaip owner_note_path. Targetas "Žemaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-98615"></a>
 - t-003
   global_id: t-98615
   teiginys: 'Grafas iš Bergo prie Medvėgalio pilies daug karių įšventino į riterius po Ordino brolių vėliava.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi perteklinę atribuciją ir kontekstinę pradžią, bet citata palaiko konkretų faktą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Medininkai; mentioned_place: Reinas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Medininkai; mentioned_place: Reinas'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 655197-655783; hash=24c87d2b1064fc36de457712cfca9515e57a6f83e60deb5a19454ff76bc2a22d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> vėliava: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medvėgalis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: vėliava: mention_match, thing, gap=67
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medvėgalis" parinktas kaip owner_note_path. Targetas "vėliava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-98616"></a>
 - t-004
@@ -63,18 +86,31 @@ amziai:
   teiginys: 'Daug Medvėgalio srities kilmingųjų derėjosi su magistru, siūlydami paklusti už apsaugą nuo karaliaus pykčio ir jėgos.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 655788-656172; hash=55e4c22e7179c41b64900cd0b4077f6058e9f81d7de3d2febe9cbe2bc8271dc9; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-98617"></a>
 - t-005
   global_id: t-98617
   teiginys: 'Medvėgalyje žemaičiai atkakliai gynėsi, tačiau priešui padegus pilį turėjo pasiduoti.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citatoje aprašytu Medvėgalio gynimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Guillaume de Machaut|Guillaume de Machaut]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Guillaume de Machaut|Guillaume de Machaut]]'
   temporaliniai_duomenys: 'įvykio data: 1357 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citatoje aprašytu Medvėgalio gynimu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 748286-749102; hash=913c88e83f64e549c3127e0e697c56d51fa26de24366e97aab273871a6409530; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medvėgalis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medvėgalis" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-98618"></a>
 - t-006
@@ -83,20 +119,23 @@ amziai:
   sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, išlaikant citatos pagrįstą faktą.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Guillaume de Machaut.md#claim-t-30258|Guillaume de Machaut]]: Prancūzų poetas Guillaume de Machaut dalyvavo šiame žygyje ir 1357 m. jį paminėjo veikale „Confort d’Ami“.
-- susijęs iš [[objektai/asmenys/Jonas iš Liuksemburgo.md#claim-t-60347|Jonas iš Liuksemburgo]]: 1329 m. Jonas iš Liuksemburgo, Čekijos karalius, su kilmingųjų palyda atžygiavo į Prūsiją.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5cce4eacc53d86f062d23656180308afcef8aae5ed2d60d8ebfa4be80c96bae6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-184141|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1329 m. Verneris su 200 brolių ir 18 tūkstančių karių patraukė į Lietuvą ir apsupo Medvėgalio pilį.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64231|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1329 m. Verneris su 200 brolių ir 18 tūkstančių karių patraukė į Lietuvą ir apsupo Medvėgalio pilį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178917|Kryžiuočių ordinas]]: Medininkų žemėje buvo sudaryta vieninga gynybos prieš Kryžiuočių ordino agresiją sistema, kurios centras veikiausiai buvo Medvėgalis.
-- susijęs iš [[objektai/grupes/Vokietijos maldininkai.md#claim-t-59010|Vokietijos maldininkai]]: 1316 m. Reino krašto maldininkai su broliu Henriku žygiavo į Medininkų valsčių ir jį nusiaubė.
 - susijęs iš [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.).md#claim-t-183945|Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]: Per 1316 m. žygį į Medininkų valsčių grafas iš Bergo prie Medvėgalio pilies daug karių įšventino į riterius.
+- susijęs iš Gedimino pilis (pilis): Guillaume de Machaut rašė, kad 1357 m. žygyje pilgrimai, be Medvėgalio, paėmė Kvėdarną, Gedimino pilį, Gegužkalnį ir Aukaimį.
+- susijęs iš Kvėdarna: Eiliuotoje kronikoje Kvėdarna minima tarp pilių, kurias pilgrimai esą paėmė kartu su Medvėgaliu.
+- susijęs iš [[objektai/asmenys/Guillaume de Machaut.md#claim-t-30258|Guillaume de Machaut]]: Prancūzų poetas Guillaume de Machaut dalyvavo šiame žygyje ir 1357 m. jį paminėjo veikale „Confort d’Ami“.
+- susijęs iš [[objektai/asmenys/Jonas iš Liuksemburgo.md#claim-t-60347|Jonas iš Liuksemburgo]]: 1329 m. Jonas iš Liuksemburgo, Čekijos karalius, su kilmingųjų palyda atžygiavo į Prūsiją.
+- susijęs iš [[objektai/grupes/Vokietijos maldininkai.md#claim-t-59010|Vokietijos maldininkai]]: 1316 m. Reino krašto maldininkai su broliu Henriku žygiavo į Medininkų valsčių ir jį nusiaubė.
 - susijęs iš [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.).md#claim-t-62875|Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]: 1316 m. brolis Henrikas su Reino krašto maldininkais nusiaubė Medininkų valsčių, nukovė arba paėmė į nelaisvę 200 žmonių.
 - susijęs iš Guillaume de Machaut Confort d’Ami: Guillaume de Machaut 1357 m. veikale „Confort d’Ami“ paminėjo žygį, kuriame dalyvavo svečių net iš Anglijos.
 - susijęs iš Łowmiański H., Studja: Łowmiańskio veikalas nurodomas prie nuomonės, kad Medininkų žemė susiformavo XIV a. sujungus centrinius Žemaitijos valsčius.
 - susijęs iš Aukaimis: Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Aukaimį bei dar tris pilis.
-- susijęs iš Gedimino pilis (pilis): Guillaume de Machaut rašė, kad 1357 m. žygyje pilgrimai, be Medvėgalio, paėmė Kvėdarną, Gedimino pilį, Gegužkalnį ir Aukaimį.
 - susijęs iš Gegužkalnis: Poetas nurodė, kad pilgrimai, be Medvėgalio, paėmė ir Gegužkalnį kartu su Kvėdarna, Gedimino pilimi bei Aukaimiu.
-- susijęs iš Kvėdarna: Eiliuotoje kronikoje Kvėdarna minima tarp pilių, kurias pilgrimai esą paėmė kartu su Medvėgaliu.
 - susijęs iš Medininkų valsčius: Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a. pabaigos duomenys rodo ten buvus žemę iš kelių valsčių.
 - susijęs iš Prūsija: 1329 m. Jonas Liuksemburgietis, Čekijos karalius, su kilmingaisiais atžygiavo į Prūsijos žemę.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70230|maldininkai / maldininko įžadai]]: 1316 m. Henrikas Karaliaučiuje sutiko iš Reino krašto atvykusių maldininkų ir su jais nusiaubė Medininkų valsčių.
@@ -140,7 +179,20 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 748286-749102; hash=913c88e83f64e549c3127e0e697c56d51fa26de24366e97aab273871a6409530; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medvėgalis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medvėgalis" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 655788-656172; hash=55e4c22e7179c41b64900cd0b4077f6058e9f81d7de3d2febe9cbe2bc8271dc9; match=exact
+  sprendimo_priezastis: auto
     - t-006
 
 - c-003
@@ -166,7 +218,20 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5cce4eacc53d86f062d23656180308afcef8aae5ed2d60d8ebfa4be80c96bae6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5772c90e6d80e330e2f23be84e8d405a2cdedd38dfaa0092101ac6663e964a1d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žemaičiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medvėgalis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Žemaičiai: mention_match, group, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medvėgalis" parinktas kaip owner_note_path. Targetas "Žemaičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-004
@@ -182,6 +247,16 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 748286-749102; hash=913c88e83f64e549c3127e0e697c56d51fa26de24366e97aab273871a6409530; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medvėgalis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medvėgalis" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-005
@@ -201,4 +276,17 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5cce4eacc53d86f062d23656180308afcef8aae5ed2d60d8ebfa4be80c96bae6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 655197-655783; hash=24c87d2b1064fc36de457712cfca9515e57a6f83e60deb5a19454ff76bc2a22d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> vėliava: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medvėgalis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: vėliava: mention_match, thing, gap=67
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medvėgalis" parinktas kaip owner_note_path. Targetas "vėliava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

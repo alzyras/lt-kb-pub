@@ -33,7 +33,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
   global_id: t-10128
   teiginys: 'Henrikas Latvis siejamas su „Livonijos kronika“, kurioje aprašomas lietuvių būdas kovoje prie Dauguvos 1207 m.'
   sudarymo_pagrindimas: 'Citata palaiko ryšį su kronika ir jos aprašomu epizodu.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas Latvis|Henrikas Latvis]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dauguva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas Latvis|Henrikas Latvis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dauguva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1207 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko ryšį su kronika ir jos aprašomu epizodu.'
@@ -44,16 +44,22 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - t-002
   global_id: t-10129
   teiginys: 'Šiame leidinyje Henriko Latvio „Livonijos kronika“ naudojama aprašant lietuvių kovos būdą ir Lietuvos valdžios siekį valdyti kitas gentis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1207 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
     - c-002
-- susijęs iš [[objektai/asmenys/Arnoldas iš Elnerio.md#claim-t-60239|Arnoldas iš Elnerio]]: 1316 m. riteris Arnoldas iš Elnerio su maldininkais iš Reino krašto dalyvavo žygyje į Medininkų valsčių.
-- susijęs iš [[objektai/asmenys/Burchardas Harenas.md#claim-t-186188|Burchardas Harenas]]: Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsirengė į karą prieš Lietuvą.
-- susijęs iš [[objektai/asmenys/Druzigeris.md#claim-t-60010|Druzigeris]]: Magistro siųstas Druzigeris pabėgo, kai pamatė daugybę nukautųjų prie grobio gurguolės.
-- susijęs iš [[objektai/asmenys/Gotfridas fon Ustas.md#claim-t-87506|Gotfridas fon Ustas]]: Gotfridas fon Ostas buvo vienas iš Ordino riterių Liubeke, kurių patarimo nutarta prašyti dėl Gedimino laiškų.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 57317-57482; hash=a2dffaa8b12a01c1a6d09e108cccf105c8b8050df1d393a3d3ebb90de660478c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dauguva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=94
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Helvigas iš Goldbacho.md#claim-t-60022|Helvigas iš Goldbacho]]: Helvigas iš Goldbacho su Henriku iš Šenenbergo ir keliais ginklanešiais sučiupo Herkų Mantą, jį pakorė ir pervėrė kalaviju.
 - susijęs iš [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis).md#claim-t-87684|Henrikas (Bavarijos kunigaikštis)]]: Bavarijos kunigaikštis Henrikas apie 1337 m. padėjo Ordinui pastatyti Bajerburgo pilį ir dalyvavo daugelyje žygių į Lietuvą.
 - susijęs iš [[objektai/asmenys/Henrikas (Meiseno markgrafas).md#claim-t-63617|Henrikas (Meiseno markgrafas)]]: Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.
@@ -98,33 +104,48 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - susijęs iš [[objektai/asmenys/Henrikas von Plauenas.md#claim-t-184262|Henrikas von Plauenas]]: Po Makro raporto Henrikas von Plauenas vyko pas Vaclovą, Vokietijos elektorius ir Karolį VI prašyti pagalbos prieš Vytautą.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175189|Herkus Mantas]]: Herkų Mantą dykrose užtiko Henrikas iš Šenenbergo ir Helvigas iš Goldbacho; jie jį pakorė prie medžio ir pervėrė kalaviju.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175193|Herkus Mantas]]: Herkus Mantas, likęs vienas palapinėje, buvo Kristburgo komtūro Henriko iš Šenenbergo ir Helvigo iš Goldbacho pakartas ir pervertas kalaviju.
-- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175201|Herkus Mantas]]: Dusburgietis pabrėžia, kad Herkus vėliau pats liudijo apie Hirtshalso sielos regėjimą.
 - susijęs iš [[objektai/asmenys/Jonas Rygietis.md#claim-t-87528|Jonas Rygietis]]: Jonas Rygietis su Rygos tarėju Henriku fon Calmaru 1323 m. liepos 18 d. Liubeko rotušėje įteikė tariamus Gedimino laiškus.
+- susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63803|Kazimieras (Kujavijos kunigaikštis)]]: Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagalbą, kai lenkai išsigando Sventopelko raitelių.
+- susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-35305|Vaclovas Čekietis]]: Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.
+- susijęs iš [[objektai/asmenys/Valteris, pravarde Goldinas.md#claim-t-60218|Valteris, pravarde Goldinas]]: 1296 m. Valteris Goldinas pagal kraujo pėdsakus surado brolio Henriko žirgą pagrobusį rusą ir jį nukovė.
+- susijęs iš [[objektai/autoriai/Henriką von Rebdorf.md#claim-t-30637|Henriką von Rebdorf]]: Kronikininkas Henrikas von Rebdorfas rašė, kad 1358 m. liepą Lietuvos karalius pas imperatorių buvo atsiuntęs savo brolį.
+- susijęs iš [[objektai/daiktai/Žirgai.md#claim-t-59717|Žirgai]]: Henriko arklys naktį sustojo prie skardžio, nes matė pavojų, kurio raitelis tamsoje negalėjo išvysti.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179111|Kryžiuočių ordinas]]: Po pirmojo katastrofos smūgio Kryžiuočių ordinas ėmė atsipeikėti, kai Henrikas von Plauen Marienburge surinko apie 5000 vyrų įgulą.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-169584|Latviai]]: Latvijos Henrikas tikruosius latvius vadino „Lethi vel Lethigalli“ ir aiškino, kad jie deramai vadinami Lethigalli.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78408|Notangai]]: Notangų vadas Herkus Mantas pasitraukė į dykras, kur Henrikas iš Šenenbergo ir Helvigas iš Goldbacho jį pakorė ir pervėrė kalaviju.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78411|Notangai]]: Notangų vadą Herkų Mantą broliai Henrikas iš Šenenbergo ir Helvigas iš Goldbacho pakorė ir pervėrė kalaviju.
+- susijęs iš [[objektai/grupes/Vokietijos maldininkai.md#claim-t-59010|Vokietijos maldininkai]]: 1316 m. Reino krašto maldininkai su broliu Henriku žygiavo į Medininkų valsčių ir jį nusiaubė.
+- susijęs iš [[objektai/ivykiai/Henriko vainikavimas Achene (1309 m. sausio 6 d.).md#claim-t-62288|Henriko vainikavimas Achene (1309 m. sausio 6 d.)]]: 1309 m. sausio 6 d. išrinktasis Henrikas buvo vainikuotas Achene.
+- susijęs iš [[objektai/ivykiai/Herkaus Manto suėmimas ir pakorimas.md#claim-t-62805|Herkaus Manto suėmimas ir pakorimas]]: Herkų Mantą palapinėje užklupo Henrikas iš Šenenbergo ir Helvigas iš Goldbacho, paskui jį pakorė ir pervėrė kalaviju.
+- susijęs iš [[objektai/posakiai/Liet’gola Lethi vel Lethigalli.md#claim-t-184359|Liet’gola Lethi vel Lethigalli]]: Nestoro kronikoje tikrieji latviai vadinti „Liet’gola“, o Latvijos Henrikas juos įvardijo kaip „Lethi vel Lethigalli“.
+- susijęs iš Liubekas: 1323 m. liepos 18 d. Liubeko rotušėje Rygos tarėjai Henrikas fon Calmaras ir Jonas Roghenas įteikė dominikonams tariamus Gedimino laiškus.
+- susijęs iš Paryžius: Paryžiuje Henrikas ir Karolis IX mėgino pakeisti kai kuriuos artikulų punktus, bet delegacijoms nenusileidus sutiko ir prisiekė.
+- susijęs iš Piza: Imperatorius Henrikas mirė Sienos grafystėje per Baltramiejaus dieną ir buvo palaidotas Pizoje.
+- susijęs iš [[objektai/zodynas/pasaulietis.md#claim-t-58862|pasaulietis]]: Henrikas iš Kunceno, dar būdamas pasauliečiu, garsėjo kaip žiauruolis, grobikas ir piktadarys.
+- susijęs iš [[objektai/zodynas/pasaulietis.md#claim-t-58863|pasaulietis]]: Henrikas iš Kunceno, atvykęs į Prūsiją, davė įžadus Teutonų ordinui po gyvenimo pasauliečiu.
+- susijęs iš [[objektai/asmenys/Arnoldas iš Elnerio.md#claim-t-60239|Arnoldas iš Elnerio]]: 1316 m. riteris Arnoldas iš Elnerio su maldininkais iš Reino krašto dalyvavo žygyje į Medininkų valsčių.
+- susijęs iš [[objektai/asmenys/Burchardas Harenas.md#claim-t-186188|Burchardas Harenas]]: Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsirengė į karą prieš Lietuvą.
+- susijęs iš [[objektai/asmenys/Druzigeris.md#claim-t-60010|Druzigeris]]: Magistro siųstas Druzigeris pabėgo, kai pamatė daugybę nukautųjų prie grobio gurguolės.
+- susijęs iš [[objektai/asmenys/Gotfridas fon Ustas.md#claim-t-87506|Gotfridas fon Ustas]]: Gotfridas fon Ostas buvo vienas iš Ordino riterių Liubeke, kurių patarimo nutarta prašyti dėl Gedimino laiškų.
+- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175201|Herkus Mantas]]: Dusburgietis pabrėžia, kad Herkus vėliau pats liudijo apie Hirtshalso sielos regėjimą.
 - susijęs iš [[objektai/asmenys/Karolis VI.md#claim-t-184283|Karolis VI]]: Ordino magistras Henrikas von Plauenas prašė Prancūzijos karaliaus Karolio VI pagalbos prieš Vytautą.
 - susijęs iš [[objektai/asmenys/Karolis VI.md#claim-t-35184|Karolis VI]]: Ordino magistras Henrikas von Plauenas prašė Prancūzijos karaliaus Karolio VI pagalbos prieš Vytautą.
-- susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63803|Kazimieras (Kujavijos kunigaikštis)]]: Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagalbą, kai lenkai išsigando Sventopelko raitelių.
 - susijęs iš [[objektai/asmenys/Martynas iš Krušvicos.md#claim-t-60384|Martynas iš Krušvicos]]: Martynas iš Krušvicos buvo riteris ir vėliavininkas, kuris kartu su kunigaikščiu Kazimieru nepabėgo pamatęs Sventopelko raitelius.
 - susijęs iš [[objektai/asmenys/Mikalojus fon Parsau.md#claim-t-87552|Mikalojus fon Parsau]]: 1323 m. Liubeke prieš sprendimą dėl Gedimino laiškų nutarta prašyti patarimo Karkuso valdytojo Mikalojaus fon Parsau.
 - susijęs iš [[objektai/asmenys/Reimaras fon Hanė.md#claim-t-87566|Reimaras fon Hanė]]: Reimaras fon Hanė buvo Vendeno komtūras, kurio patarimo ketinta prašyti prieš apsisprendžiant dėl Gedimino laiškų.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90026|Sventopelkas]]: Šiame gabale Sventopelkas siejamas su taikos atnaujinimu, nauju jos sulaužymu ir Santyro pilies pastatymu.
 - susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-184288|Vaclovas Čekietis]]: Ordino magistras Henrikas von Plauenas po Makro raporto vyko pas Čekijos karalių Vaclovą prašyti pagalbos prieš Vytautą.
-- susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-35305|Vaclovas Čekietis]]: Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.
-- susijęs iš [[objektai/asmenys/Valteris, pravarde Goldinas.md#claim-t-60218|Valteris, pravarde Goldinas]]: 1296 m. Valteris Goldinas pagal kraujo pėdsakus surado brolio Henriko žirgą pagrobusį rusą ir jį nukovė.
 - susijęs iš [[objektai/asmenys/Valteris, pravarde Goldinas.md#claim-t-60219|Valteris, pravarde Goldinas]]: Valteris, pravarde Goldinas, 1296 m. prie Gardino pilies sekė pėdsakais, išžudė bėglius ir vėliau nudėjo sužeistą rusą.
 - susijęs iš [[objektai/asmenys/Vilhelmas (Sabinos kardinolas).md#claim-t-60221|Vilhelmas (Sabinos kardinolas)]]: Kronikininkas klaidingai tapatino popiežiaus pasiuntinį Prūsijoje Vilhelmą su vėlesniu popiežiumi Aleksandru IV.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176661|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu atvyko pas Vytautą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176758|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu buvo atvykęs pas Vytautą.
 - susijęs iš [[objektai/asmenys/Zigfridas iš Rechbergo.md#claim-t-60473|Zigfridas iš Rechbergo]]: 1296 m. žiemą Baigos komtūras Zigfridas iš Rechbergo iš Notangos patraukė link Lietuvos ir priėjo Gardino pilį.
 - susijęs iš [[objektai/asmenys/Šindekopfas.md#claim-t-186090|Šindekopfas]]: Magistras Henrikas paragino maršalą Šindekopfą vėl žygiuoti į Lietuvą, kad būtų ginama nauja pilis ir nustumtas priešas.
-- susijęs iš [[objektai/autoriai/Henriką von Rebdorf.md#claim-t-30637|Henriką von Rebdorf]]: Kronikininkas Henrikas von Rebdorfas rašė, kad 1358 m. liepą Lietuvos karalius pas imperatorių buvo atsiuntęs savo brolį.
-- susijęs iš [[objektai/daiktai/Žirgai.md#claim-t-59717|Žirgai]]: Henriko arklys naktį sustojo prie skardžio, nes matė pavojų, kurio raitelis tamsoje negalėjo išvysti.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178809|Kryžiuočių ordinas]]: Henrikas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir, būdamas vienuolyne, pralenkė kitus brolius dorybėmis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178821|Kryžiuočių ordinas]]: Pasak Petro Dusburgiečio, Henrikui pasižadėjus įstoti į Teutonų ordiną, išnyko regėtas sambūris ir regėjimai.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178865|Kryžiuočių ordinas]]: Po pirmojo katastrofos smūgio Kryžiuočių ordinas ėmė atsipeikėti.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178880|Kryžiuočių ordinas]]: 1323 m. Liubeke dėl tariamų Gedimino laiškų nutarta kreiptis patarimo į tuo metu mieste buvusius Ordino riterius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179111|Kryžiuočių ordinas]]: Po pirmojo katastrofos smūgio Kryžiuočių ordinas ėmė atsipeikėti, kai Henrikas von Plauen Marienburge surinko apie 5000 vyrų įgulą.
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-169584|Latviai]]: Latvijos Henrikas tikruosius latvius vadino „Lethi vel Lethigalli“ ir aiškino, kad jie deramai vadinami Lethigalli.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169588|Latviai]]: Latviai asimiliavo dalį išnykusių kuršių, žiemgalių ir sėlių kilčių teritorijų.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169589|Latviai]]: Tikrieji latviai Nestoro kronikai buvo žinomi kaip Liet’gola.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
@@ -135,9 +156,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-183890|Notangai]]: 1317 m. žiemą brolis Henrikas su broliais ir Sembos bei Notangos kariais žygiavo prieš Vaikių valsčių.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78400|Notangai]]: 1317 m. žiemą brolis Henrikas su broliais ir Sembos bei Notangos kariais žygiavo prieš Vaikių valsčių.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78404|Notangai]]: 1313 m. rudenį brolis Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį ir sudegino abu jos papilius.
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78408|Notangai]]: Notangų vadas Herkus Mantas pasitraukė į dykras, kur Henrikas iš Šenenbergo ir Helvigas iš Goldbacho jį pakorė ir pervėrė kalaviju.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78410|Notangai]]: 1314 m. brolis Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78411|Notangai]]: Notangų vadą Herkų Mantą broliai Henrikas iš Šenenbergo ir Helvigas iš Goldbacho pakorė ir pervėrė kalaviju.
 - susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78424|Pamedėnai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108303|Pranciškonų ordinas]]: Gedimino laiškai Liubeke buvo įteikti miesto tarybai ir Pranciškonų ordino kustodui.
 - susijęs iš [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai.md#claim-t-89177|Prūsijos naujakrikščiai atsimetėliai]]: Po Vokietijos kunigaikščių žygių minėti Prūsijos naujakrikščiai atsimetėliai grįžo į tikėjimą ir iš naujo pasidavė broliams.
@@ -145,7 +164,6 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - susijęs iš [[objektai/grupes/Prūsijos naujakrikščiai atsimetėliai.md#claim-t-89179|Prūsijos naujakrikščiai atsimetėliai]]: 1251 m. Brandenburgo markgrafas, o kitais metais Merzeburgo vyskupas ir grafas Henrikas iš Svarcburgo niokojo atsimetėlių žemes Prūsijoje.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175084|Sembai]]: 1313 m. rudenį maršalas Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį, o abu jos papiliai sudegė.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175090|Sembai]]: 1314 m. maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.
-- susijęs iš [[objektai/grupes/Vokietijos maldininkai.md#claim-t-59010|Vokietijos maldininkai]]: 1316 m. Reino krašto maldininkai su broliu Henriku žygiavo į Medininkų valsčių ir jį nusiaubė.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184595|Žemaičiai]]: Kryžiuočių magistras Henrikas reikalavo Germanto priesaikos, kad lietuviai ir žemaičiai nesikiš į prūsų karą.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184596|Žemaičiai]]: Prūsai ir žemaičiai iš miškų užpuolė grobio ieškojusius kryžiuočius, kai šie plėšikavo nepasirūpinę apsauga.
 - susijęs iš [[objektai/ivykiai/1289 m. rudens Sembos žemės nusiaubimas.md#claim-t-183909|1289 m. rudens Sembos žemės nusiaubimas]]: 1289 m. rudenį lietuvių kariuomenė beveik 14 dienų žygiavo per Sembą nuo vieno pasienio iki kito ir atsitraukdama patyrė sunkių nuostolių.
@@ -157,8 +175,6 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - susijęs iš [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.).md#claim-t-66511|Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]: 1246 m. Sventopelkas su didesne kariuomene persekiojo atsitraukiančius brolius, bet mūšyje prarado 1500 vyrų.
 - susijęs iš [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema).md#claim-t-183919|Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]: 1296 m. žiemą Gardino pilies apylinkių ir papilio puolėjai, be užmuštųjų, išsivarė į nelaisvę 200 žmonių.
 - susijęs iš [[objektai/ivykiai/Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema).md#claim-t-62782|Gardino pilies apylinkių ir papilio nusiaubimas (1296 m. žiema)]]: 1296 m. žiemą broliai persikėlė per užšalusį Nemuną ir nusiaubė Gardino pilies apylinkes bei papilį.
-- susijęs iš [[objektai/ivykiai/Henriko vainikavimas Achene (1309 m. sausio 6 d.).md#claim-t-62288|Henriko vainikavimas Achene (1309 m. sausio 6 d.)]]: 1309 m. sausio 6 d. išrinktasis Henrikas buvo vainikuotas Achene.
-- susijęs iš [[objektai/ivykiai/Herkaus Manto suėmimas ir pakorimas.md#claim-t-62805|Herkaus Manto suėmimas ir pakorimas]]: Herkų Mantą palapinėje užklupo Henrikas iš Šenenbergo ir Helvigas iš Goldbacho, paskui jį pakorė ir pervėrė kalaviju.
 - susijęs iš [[objektai/ivykiai/Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas.md#claim-t-185720|Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas]]: Po kryžiuočių pralaimėjimo krikščionių valdovai surinko kariuomenes ir atvedė jas į Prūsiją.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis, Algirdo pralaimėjimas ir atsakomasis puolimas į Sembą (1345-1346 m.).md#claim-t-185730|Kryžiuočių žygis, Algirdo pralaimėjimas ir atsakomasis puolimas į Sembą (1345-1346 m.)]]: Kitais metais kryžiuočiai su keturiasdešimčia tūkstančių karių įsiveržė į Lietuvą ir nusiaubė didelius Žemaitijos plotus.
 - susijęs iš [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.).md#claim-t-183945|Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]: Per 1316 m. žygį į Medininkų valsčių grafas iš Bergo prie Medvėgalio pilies daug karių įšventino į riterius.
@@ -170,7 +186,6 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - susijęs iš [[objektai/paprociai/Gedimino vardu rašytų laiškų viešas skaitymas ir svarstymas miesto institucijose.md#claim-t-87206|Gedimino vardu rašytų laiškų viešas skaitymas ir svarstymas miesto institucijose]]: 1323 m. liepos 18 d. Liubeko rotušėje Gedimino vardu rašyti laiškai buvo perskaityti ir aptarti miesto tarybos aplinkoje.
 - susijęs iš [[objektai/paprociai/Visuotinis jaunų vyrų šaukimas į ginklą pavojaus metu.md#claim-t-185931|Visuotinis jaunų vyrų šaukimas į ginklą pavojaus metu]]: Kryžiuočių kariuomenei sutelkti į kovą buvo pašaukti kariauti pajėgiantys miestų ir kaimų jauni vyrai.
 - susijęs iš [[objektai/posakiai/Kadangi man niekas nekliudė ir nedraudė603. Sitai kaip skatinami nusikalsti tie, kurie nebaudžiami už piktus darbus!.md#claim-t-89594|Kadangi man niekas nekliudė ir nedraudė603. Sitai kaip skatinami nusikalsti tie, kurie nebaudžiami už piktus darbus!]]: Karvedys Henrikas savo piktadarybes aiškino tuo, kad jam niekas nekliudė ir nedraudė.
-- susijęs iš [[objektai/posakiai/Liet’gola Lethi vel Lethigalli.md#claim-t-184359|Liet’gola Lethi vel Lethigalli]]: Nestoro kronikoje tikrieji latviai vadinti „Liet’gola“, o Latvijos Henrikas juos įvardijo kaip „Lethi vel Lethigalli“.
 - susijęs iš [[objektai/posakiai/Liet’gola Lethi vel Lethigalli.md#claim-t-31549|Liet’gola Lethi vel Lethigalli]]: Latvijos Henrikas tikruosius latvius vadino „Lethi vel Lethigalli“ ir aiškino, kad jie tiksliai vadinami Lethigalli.
 - susijęs iš [[objektai/posakiai/Tikiu dievą tėvą, visagalį.md#claim-t-59161|Tikiu dievą tėvą, visagalį]]: Brolis Henrikas ištarė „Tikiu dievą tėvą, visagalį“ ir kitus Apaštalų tikėjimo išpažinimo žodžius, kai buvo raginamas išpažinti žydų tikėjimą.
 - susijęs iš [[objektai/posakiai/Vardan viešpaties— į priekį.md#claim-t-184042|Vardan viešpaties— į priekį]]: Henrikas, pentinais spausdamas arklį, ištarė: „Vardan viešpaties — į priekį“; po šių žodžių velnias pasakė, kad Dievo vardas jį išgelbėjo.
@@ -189,7 +204,6 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - susijęs iš Krokuva: Henrikas vainikavosi Krokuvoje, nepaisė savo pažadų ir atidėliojo vedybas su Ona.
 - susijęs iš Krokuva: Krokuvoje vainikuotas valdovas nepaisė pažadų, atidėliojo vedybas su Ona ir svajojo valdyti kaip Prancūzijoje.
 - susijęs iš Latgalija: XII–XIII a. sandūroje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami dabartinę Latgaliją ir rytinę Vidžemę.
-- susijęs iš Liubekas: 1323 m. liepos 18 d. Liubeko rotušėje Rygos tarėjai Henrikas fon Calmaras ir Jonas Roghenas įteikė dominikonams tariamus Gedimino laiškus.
 - susijęs iš Marienburgas: Henrikui von Plauenui Marienburge surinkus apie 5000 vyrų įgulą, liepos 25 d. atvykę Jogaila ir Vytautas tvirtovės nebeįstengė paimti.
 - susijęs iš Medininkų valsčius: 1314 m. brolis Henrikas su Sembos ir Notangos vyrais įsiveržė į Medininkų valsčių, jį nusiaubė ir paėmė ar nužudė 700 žmonių.
 - susijęs iš Medininkų valsčius: 1316 m. brolis Henrikas su Reino krašto maldininkais nusiaubė Medininkų valsčių ir paėmė ar nukovė 200 žmonių.
@@ -197,9 +211,7 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - susijęs iš Naugardukas: 1314 m. rugsėjį brolis Henrikas su kariuomene įžengė į Krivičių žemę ir užėmė Naugarduko miestą.
 - susijęs iš Naugardukas: Henrikas su kariuomene nusibrovė iki Naugarduko, apiplėšė ir sudegino miestą.
 - susijęs iš Nemunas: Henrikui iš Plockės puolant Bisenės pilį, upe atplaukę kariai iš laivų nutiesė tiltą per Nemuną, bet apgula baigėsi nesėkme.
-- susijęs iš Paryžius: Paryžiuje Henrikas ir Karolis IX mėgino pakeisti kai kuriuos artikulų punktus, bet delegacijoms nenusileidus sutiko ir prisiekė.
 - susijęs iš Paštuvos valsčius: 1316 m. žiemą maršalas Henrikas su daugybe raitelių netikėtai įsiveržė į Paštuvos valsčių, jį nusiaubė ir paėmė arba nukovė 500 žmonių.
-- susijęs iš Piza: Imperatorius Henrikas mirė Sienos grafystėje per Baltramiejaus dieną ir buvo palaidotas Pizoje.
 - susijęs iš Pomeranija: 1246 m. magistras ir broliai su sąjungininkais įsiveržė į Pomeraniją ir devynias dienas bei naktis ją niokojo.
 - susijęs iš Prancūzija: Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos kariauti su pagonimis.
 - susijęs iš Prancūzija: Prancūzija minima kaip absoliutinio valdymo pavyzdys, kuriuo norėjo sekti Krokuvoje vainikuotas valdovas.
@@ -216,8 +228,6 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58772|papilys]]: 1313 m. rudenį maršalas Henrikas užpuolė Bisenės pilį, o po ilgų kovų sudegė abu jos papiliai.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58773|papilys]]: 1296 m. Ordino broliai perėjo užšalusį Nemuną ir nusiaubė Gardino pilies apylinkes bei papilį.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58778|papilys]]: 1318 m. rudenį maršalas Henrikas su didele kariuomene sudegino Junigedos ir Pieštvės pilių papilius.
-- susijęs iš [[objektai/zodynas/pasaulietis.md#claim-t-58862|pasaulietis]]: Henrikas iš Kunceno, dar būdamas pasauliečiu, garsėjo kaip žiauruolis, grobikas ir piktadarys.
-- susijęs iš [[objektai/zodynas/pasaulietis.md#claim-t-58863|pasaulietis]]: Henrikas iš Kunceno, atvykęs į Prūsiją, davė įžadus Teutonų ordinui po gyvenimo pasauliečiu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -249,4 +259,24 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 57317-57482; hash=a2dffaa8b12a01c1a6d09e108cccf105c8b8050df1d393a3d3ebb90de660478c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dauguva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=94
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 57317-57482; hash=a2dffaa8b12a01c1a6d09e108cccf105c8b8050df1d393a3d3ebb90de660478c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dauguva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=94
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

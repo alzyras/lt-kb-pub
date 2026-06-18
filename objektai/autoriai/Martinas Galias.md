@@ -22,7 +22,7 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
   global_id: t-88032
   teiginys: 'Martinas Galias rašė, kad Poznanė duodavo 1 300 šarvuotųjų ir 4 000 skydais ginkluotų karių.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie autoriaus pateiktus karių skaičius; sakinys sutrumpintas ir sutvarkytas.'
-  susije_objektai: 'mentioned_place: Gnieznas; mentioned_place: Poznanė'
+  susije_objektai: 'mentioned_place: Poznanė; mentioned_place: Gnieznas'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86983|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Martinas Galias rašė, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.

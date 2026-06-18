@@ -40,7 +40,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   global_id: t-172957
   teiginys: 'Mykolas Lietuvis savo svarstymuose Vytauto laikų papročių rigorizmą ir asketizmą priešpriešino savo meto visuomenės išglebimui, girtuoklystei ir netvarkai.'
   sudarymo_pagrindimas: 'Teiginys yra išbaigtas sakinys apie Mykolo Lietuvio svarstymus ir tiksliai perteikia citatą.'
-  susije_objektai: 'mentioned_author: [[objektai/asmenys/Mikalojus Husovianas|Mikalojus Husovianas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/asmenys/Mikalojus Husovianas|Mikalojus Husovianas]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]'
   temporaliniai_duomenys: 'įvykio data: 1523 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išbaigtas sakinys apie Mykolo Lietuvio svarstymus ir tiksliai perteikia citatą.'
@@ -51,7 +51,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 - t-003
   global_id: t-172959
   teiginys: 'Mykolo Lietuvio svarstymai apie valstybės tvarką siejami su veikalu „Apie totorių, lietuvių ir maskvėnų papročius“.'
-  susije_objektai: 'mentioned_author: [[objektai/asmenys/Mikalojus Husovianas|Mikalojus Husovianas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/asmenys/Mikalojus Husovianas|Mikalojus Husovianas]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]'
   temporaliniai_duomenys: 'įvykio data: 1523 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -70,7 +70,7 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   global_id: t-172961
   teiginys: 'Mykolas Lietuvis liudijo, kad Vilniaus katedroje saugotos trofėjinės vėliavos sudegė per 1530 m. gaisrą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Vilnius; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1530 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
@@ -84,29 +84,49 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kaimas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 113343-114075; hash=09a4825302b70779f59fb8a4bc81d8e245690f943d8875fd0082ea0012526f0f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas Lietuvis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas Lietuvis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-172963"></a>
 - t-007
   global_id: t-172963
   teiginys: 'Mykolas Lietuvis siūlė atsisakyti rusėnų kalbos ir pereiti prie lotynų kalbos.'
-  susije_objektai: 'mentioned_author: [[objektai/asmenys/Mikalojus Husovianas|Mikalojus Husovianas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/asmenys/Mikalojus Husovianas|Mikalojus Husovianas]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]'
   temporaliniai_duomenys: 'įvykio data: 1523 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 113343-114075; hash=09a4825302b70779f59fb8a4bc81d8e245690f943d8875fd0082ea0012526f0f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas Lietuvis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas Lietuvis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis Michalonis Lit.md#claim-t-88036|Mykolas Lietuvis Michalonis Lit]]: Mykolas Lietuvis rašė, kad Kafos miestas prie Juodosios jūros buvo svarbiausias Lietuvos prekybinis uostas ryšiams su Rytais.
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis Michalonis Lit.md#claim-t-88037|Mykolas Lietuvis Michalonis Lit]]: Mykolas Lietuvis liudijo, kad totoriai seniau garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.
+- susijęs iš [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose.md#claim-t-54298|Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]: Didžiausią įtaką Lietuvos kultūrai darė lenkiškoji civilizacija, veikusi per bažnytinę sistemą, studijas Krokuvoje, administraciją ir ūkio reformą.
+- susijęs iš [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose.md#claim-t-54300|Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]: Studijos Krokuvos universitete buvo vienas lenkiškosios civilizacijos poveikio Lietuvos kultūrai būdų.
+- susijęs iš Mykolas Lietuvis, de Moribus Tartarorum, Lituanorum et Moschorum: Mykolo Lietuvio veikale Kafa prie Juodosios jūros minima kaip svarbiausias Lietuvos prekybinis uostas, jungęs ją su Rytais.
+- susijęs iš Mykolas Lietuvis, de Moribus Tartarorum, Lituanorum et Moschorum: Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.
 - susijęs iš [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos.md#claim-t-186822|Kryžiuočių kariuomenės dalių vėliavos]]: Bychovco kronikoje teigiama, kad Žalgirio mūšyje laimėtos kryžiuočių vėliavos buvo pakabintos Vilniaus katedroje.
 - susijęs iš [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos.md#claim-t-186823|Kryžiuočių kariuomenės dalių vėliavos]]: 1411 m. rudenį Vavelio katedroje buvo pakabinta 51 kryžiuočių ir jų talkininkų vėliava, paimta 1409–1411 m. kare.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171423|Totoriai]]: Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171446|Totoriai]]: Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir kitomis dorybėmis.
 - susijęs iš [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas.md#claim-t-75365|Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]: Mykolas Lietuvis apie 1550 m. Vytauto laikų papročių griežtumą ir asketizmą priešpriešino savo meto išglebimui ir netvarkai.
 - susijęs iš [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas.md#claim-t-75367|Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]: Mykolas Lietuvis Vytauto laikų papročių griežtumą ir asketizmą priešino savo meto visuomenės išglebimui ir netvarkai.
-- susijęs iš [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose.md#claim-t-54298|Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]: Didžiausią įtaką Lietuvos kultūrai darė lenkiškoji civilizacija, veikusi per bažnytinę sistemą, studijas Krokuvoje, administraciją ir ūkio reformą.
-- susijęs iš [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose.md#claim-t-54300|Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]: Studijos Krokuvos universitete buvo vienas lenkiškosios civilizacijos poveikio Lietuvos kultūrai būdų.
 - susijęs iš Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę: 1523 m. išleista Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ Vytauto laikus rodė kaip idealą.
-- susijęs iš Mykolas Lietuvis, de Moribus Tartarorum, Lituanorum et Moschorum: Mykolo Lietuvio veikale Kafa prie Juodosios jūros minima kaip svarbiausias Lietuvos prekybinis uostas, jungęs ją su Rytais.
-- susijęs iš Mykolas Lietuvis, de Moribus Tartarorum, Lituanorum et Moschorum: Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis.
 - susijęs iš Krokuva: Lenkijos poveikis LDK reiškėsi bažnytinės sistemos organizavimu, studijomis Krokuvos universitete, administracijos perėmimu ir ūkio reforma.
 - susijęs iš Krokuva: Pastatyta katedra buvo iškilmingai pašvęsta Krokuvos vyskupo šv. Stanislovo garbei.
 ## Reikšmingi paminėjimai
@@ -131,6 +151,16 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   statusas: verified
   pagrindžia:
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 113343-114075; hash=09a4825302b70779f59fb8a4bc81d8e245690f943d8875fd0082ea0012526f0f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas Lietuvis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas Lietuvis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-002
@@ -196,5 +226,15 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
   statusas: verified
   pagrindžia:
     - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 113343-114075; hash=09a4825302b70779f59fb8a4bc81d8e245690f943d8875fd0082ea0012526f0f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas Lietuvis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas Lietuvis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
     - t-002

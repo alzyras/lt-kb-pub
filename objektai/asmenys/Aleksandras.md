@@ -31,12 +31,23 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   global_id: t-89626
   teiginys: 'Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas Kiška|Stanislovas Kiška]]; mentioned_place: Smolenskas'
+  susije_objektai: 'appointee: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas Kiška|Stanislovas Kiška]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras|Aleksandras]] paskyrė [[objektai/asmenys/Kiška|Kiška]]'
   temporaliniai_duomenys: 'įvykio data: 1502 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=beac4d01bf934372ea42872d3168158b9ca06754b8d44b7ef0b5243948eb8564; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: paskyre -> Kiška: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
+  ryšio_subjekto_parinkimas: Aleksandras: owner_note_path, person, gap=31
+  ryšio_targeto_parinkimas: Kiška: nearest_after_predicate, person, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Aleksandras" parinktas kaip owner_note_path. Targetas "Kiška" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 <a id="claim-t-89627"></a>
 - t-002
@@ -49,6 +60,16 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Aleksandrą ir paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9b92d3f8a974660196f06bd5a0a77e4388fc7a013580a0fbcde43a86293b3693; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89628"></a>
 - t-003
@@ -58,6 +79,16 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Kazanė; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9b92d3f8a974660196f06bd5a0a77e4388fc7a013580a0fbcde43a86293b3693; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kazanė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kazanė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras" parinktas kaip owner_note_path. Targetas "Kazanė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-89629"></a>
 - t-004
@@ -66,6 +97,16 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Kazanė; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9f783b8ce729549ddc87d0300af99225e5e267c7d2c4120f9353d87747e5e37d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Patrikas (kunigaikštis, XIV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Patrikas (kunigaikštis, XIV a.): mention_match, person, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras" parinktas kaip owner_note_path. Targetas "Patrikas (kunigaikštis, XIV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184656"></a>
 - t-005
@@ -75,12 +116,23 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie Aleksandro valdžią Podolėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Podolė; mentioned_place: Sučiava; mentioned_place: Valachija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Podolė; mentioned_place: Sučiava; mentioned_place: Valachija'
   temporaliniai_duomenys: 'įvykio data: 1332 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko glaustą faktą apie Aleksandro valdžią Podolėje.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 383574-384306; hash=04e355bdc2b97b1d07261a5ddd2b6274cf9bf4fbd0d8294ad05c278920df80ad; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstantinas (Karijotaitis): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konstantinas (Karijotaitis): mention_match, person, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras" parinktas kaip owner_note_path. Targetas "Konstantinas (Karijotaitis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/LDK Ponų Taryba.md#claim-t-187764|LDK Ponų Taryba (institucija, XV a.)]]: J. Zaberezinskis ir kiti LDK Ponų Tarybos nariai rėmė Melniko uniją, kuriai Aleksandras ir jo broliai priešinosi dėl dinastinių interesų.
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis).md#claim-t-87903|Aleksandras (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis, vadinamas Olegu).md#claim-t-186173|Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)]]: Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laidavo jam Vytauto palankumą.
@@ -88,10 +140,42 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54937|Aleksandras Jogailaitis]]: Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54938|Aleksandras Jogailaitis]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Rusios miestais, o Aleksandras leido statyti Svečių namus rusų pirkliams.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54942|Aleksandras Jogailaitis]]: Aleksandras pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena atgaivino sostinę.
-- susijęs iš [[objektai/asmenys/Andrejus Možaiskis.md#claim-t-186176|Andrejus Možaiskis]]: Andrejus Možaiskis kartu su Jakovu Zachariničiumi ir Andrejumi Šemiačičiumi vedė priešo pajėgas į Severską.
-- susijęs iš [[objektai/asmenys/Andriejus Šemiačičius.md#claim-t-186177|Andriejus Šemiačičius]]: Andriejus Šemiačičius kartu su Jakovu Zachariničiumi ir Andrejumi Možaiskiu vedė priešo pajėgas į Severską.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54956|Elena (vyskupas, XV–XVI a.)]]: Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54957|Elena (vyskupas, XV–XVI a.)]]: 1495 m. sužadėtinė Elena iš Maskvos atvyko į Vilnių, lydima bojarinų ir dvariškių, o Aleksandras ją sutiko prie Nemėžio kelio.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176518|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: 1365 m. Kęstutis su Algirdu, Patriku ir Aleksandru įsiveržė į Ordino valdas ir po žygio dievams ugnyje paaukojo vokietį belaisvį.
+- susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121123|Patrikas (kunigaikštis, XIV a.)]]: 1365 m. Patrikas su Kęstučiu, Algirdu ir Aleksandru įsiveržė į Ordino valdas ir jas nuniokojo.
+- susijęs iš [[objektai/daiktai/Aleksandro lektika.md#claim-t-54484|Aleksandro lektika]]: Galutinai paliegęs Aleksandras lektikoje buvo nugabentas į Vilnių, jį lydint Elenai, Vilniaus vyskupui Vaitiekui Taborui, Jonui Zabžezinskiui ir Jonui Laskiui.
+- susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172084|Dominikonų ordinas]]: Aleksandras 1501 metais pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.
+- susijęs iš [[objektai/grupes/LDK Ponų Taryba.md#claim-t-187764|LDK Ponų Taryba (institucija, XV a.)]]: J. Zaberezinskis ir kiti LDK Ponų Tarybos nariai rėmė Melniko uniją, kuriai Aleksandras ir jo broliai priešinosi dėl dinastinių interesų.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179409|Livonijos ordinas]]: Livonijos ordino atstovai nebuvo įsileisti į taikos derybas, todėl Aleksandras turėjo atsisakyti savo sąjungininko.
+- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187738|Ponų taryba (institucija)]]: Jonušas Zaberezinskis ir kiti LDK Ponų tarybos nariai pasisakė už Melniko uniją, kuriai Aleksandras ir jo broliai priešinosi.
+- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-72613|Ponų taryba (institucija)]]: Kazimiero viešpatavimo metu Ponų taryba sustiprėjo ir, išrinkusi Aleksandrą, pareikalavo nustatyti jos kompetencijos ribas.
+- susijęs iš [[objektai/ivykiai/1494 m. talkos sutarties tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos sudarymas.md#claim-t-186779|1494 m. talkos sutarties tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos sudarymas (sutartis, XV a.)]]: Ivanas III talkos sutarčiai prisiekė 1494 m. vasario 7 d., o Aleksandras jai prisiekė 1494 m. balandžio 22 d.
+- susijęs iš [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi.md#claim-t-186790|Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]: Redakcinė pastaba nurodo, kad Aleksandras iš Melniko į Krokuvą išvyko 1501.XI.29.
+- susijęs iš [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi.md#claim-t-186791|Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]: Aleksandras 1501 m. spalio 3 d. Petrakave buvo preliminariai išrinktas Lenkijos karaliumi po Jono Olbrachto mirties.
+- susijęs iš [[objektai/ivykiai/Aleksandro patvirtintas Melniko unijos aktas.md#claim-t-186786|Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)]]: Redakcinė pastaba nurodo, kad Aleksandras ir dalis Ponų Tarybos narių Melnike 1501.X.23-30 patvirtino naują Lenkijos ir Lietuvos unijos aktą.
+- susijęs iš [[objektai/ivykiai/Aleksandro patvirtintas Melniko unijos aktas.md#claim-t-186787|Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)]]: Aleksandro patvirtintas Melniko unijos aktas nebuvo įgyvendintas, nes Lietuvos didikai vėliau atsisakė jį ratifikuoti.
+- susijęs iš [[objektai/ivykiai/Aleksandro patvirtintas Melniko unijos aktas.md#claim-t-186788|Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)]]: Redakcinė pastaba nurodo, kad Lenkijos delegacija atvyko pas Aleksandrą į Melniką ir pateikė jam naują Lenkijos ir Lietuvos unijos aktą kaip išrinkimo karaliumi sąlygą.
+- susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
+- susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186644|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Vilniuje įvyko iškilmingos Aleksandro ir Elenos vestuvės, trukusios kelias savaites.
+- susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186645|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Po Aleksandro ir Elenos vestuvių Vilniuje Maskvos pasiuntiniai buvo pagerbti, gausiai apdovanoti ir išleisti atgal.
+- susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, jungtuvių ir vestuvių vaišinimo apeigos.md#claim-t-87272|Aleksandro ir Elenos sutikimo, jungtuvių ir vestuvių vaišinimo apeigos]]: Aleksandras lydėjo rogėse sėdinčią Eleną į Vilnių, kur ji po graikų apeigų mišių buvo nuvesta į Šv. Stanislovo katedrą.
+- susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas.md#claim-t-87197|Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]: Šv. Stanislovo katedroje Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.
+- susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas.md#claim-t-87198|Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]: 1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį.
+- susijęs iš 1500 m. Aleksandro sprendimas dėl malūno prie Bernardinų vienuolyno: 1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį malūną ir jo sklypą atidavė vienuolynui.
+- susijęs iš Florencijoje sudaryta Rytų ir Vakarų bažnyčių unija: Po Florencijos bažnyčių unijos Aleksandras siekė, kad jo valdose gyvenantys rusai prisidėtų prie Rytų ir Vakarų bažnyčių santarvės.
+- susijęs iš Borisovas: 1500 m. Borisove datuotu sprendimu karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną.
+- susijęs iš Būgas: Būgas žymėjo ribą, už kurios Tarybos ponai ir kariuomenė atsisakė žygiuoti be Aleksandro sumanymo paaiškinimo.
+- susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
+- susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
+- susijęs iš Soroka: Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras.
+- susijęs iš Taurija: Taurijos chanas Mendli Girėjus veikė prieš Aleksandrą ir nukreipė jo dėmesį į save.
+- susijęs iš Trakai: 1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir vaško dirbtuvės laisvę.
+- susijęs iš Trakai: 1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir teisę laikyti vaško dirbtuvę.
+- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Šv. Stanislovo katedroje Vaitiekus Taboras sutuokė didįjį kunigaikštį Aleksandrą su Elena.
+- susijęs iš Šv. Stanislovo katedra: Šv. Stanislovo katedroje Vilniaus vyskupas Vaitiekus Taboras sutuokė didįjį kunigaikštį Aleksandrą su Elena.
+- susijęs iš [[objektai/asmenys/Andrejus Možaiskis.md#claim-t-186176|Andrejus Možaiskis]]: Andrejus Možaiskis kartu su Jakovu Zachariničiumi ir Andrejumi Šemiačičiumi vedė priešo pajėgas į Severską.
+- susijęs iš [[objektai/asmenys/Andriejus Šemiačičius.md#claim-t-186177|Andriejus Šemiačičius]]: Andriejus Šemiačičius kartu su Jakovu Zachariničiumi ir Andrejumi Možaiskiu vedė priešo pajėgas į Severską.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54958|Elena (vyskupas, XV–XVI a.)]]: Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54962|Elena (vyskupas, XV–XVI a.)]]: 1503 m. Aleksandras dovanojo Elenai Mogiliavo pilį jos gyvenimo laikui.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-82283|Elena (vyskupas, XV–XVI a.)]]: Aleksandras nutarė vesti Ivano Vasiljevičiaus dukterį Eleną, siekdamas užgesinti kilusius tarpusavio vaidus.
@@ -105,59 +189,33 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - susijęs iš [[objektai/asmenys/Jonas Černinas.md#claim-t-186219|Jonas Černinas]]: Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti didelius algininkų būrius.
 - susijęs iš [[objektai/asmenys/Kiška.md#claim-t-87755|Kiška]]: Krymo totoriams priartėjus prie Lydos, Aleksandras pavedė kariuomenei vadovauti etmonui Kiškai ir kunigaikščiui Glinskiui.
 - susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-184755|Konstantinas Ostrogiškis]]: Aleksandras pasiuntė Konstantino Ostrogiškio vedamus lengvuosius dalinius į Smolenską, o pats su pagrindinėmis jėgomis patraukė iš paskos.
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176518|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: 1365 m. Kęstutis su Algirdu, Patriku ir Aleksandru įsiveržė į Ordino valdas ir po žygio dievams ugnyje paaukojo vokietį belaisvį.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184778|Liubartas]]: Liubartas be kovos atgavo iš jo neseniai atimtą tėvoniją, sustiprino senąją pilį ir paliepė sugriauti naująją.
 - susijęs iš [[objektai/asmenys/Mendli Girėjus.md#claim-t-87443|Mendli Girėjus]]: Aleksandras siekė suimti ir įbauginti Mendli Girėjų, todėl Šach Achmedas buvo iki gyvos galvos įkalintas Kaune.
 - susijęs iš [[objektai/asmenys/Mykolas Rusalka.md#claim-t-87801|Mykolas Rusalka]]: Mykolas Rusalka lydėjo didžiąją kunigaikštytę Eleną, kai ji 1496 m. vasarį atvyko iš Maskvos į Vilnių.
-- susijęs iš [[objektai/asmenys/Patrikas.md#claim-t-121123|Patrikas (kunigaikštis, XIV a.)]]: 1365 m. Patrikas su Kęstučiu, Algirdu ir Aleksandru įsiveržė į Ordino valdas ir jas nuniokojo.
 - susijęs iš [[objektai/asmenys/Petras Białas.md#claim-t-87825|Petras Białas]]: 1494 m. balandžio 18 d. Petras Białas Maskvoje kaip Lietuvos pasiuntinys pasirašė amžinos taikos sutartį su caru.
 - susijęs iš [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas.md#claim-t-186156|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]: Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.
 - susijęs iš [[objektai/asmenys/Simonas Rapolovskis.md#claim-t-87852|Simonas Rapolovskis]]: Kunigaikštis Simonas Rapolovskis lydėjo didžiąją kunigaikštytę Eleną, kai ji 1496 m. atvyko iš Maskvos į Vilnių.
 - susijęs iš [[objektai/asmenys/Stanislovas Goštautas.md#claim-t-87477|Stanislovas Goštautas]]: 1494 m. balandžio 18 d. Maskvoje Žemaičių seniūnas Stanislovas Goštautas pasirašė amžinos taikos sutartį su caru.
 - susijęs iš [[objektai/asmenys/Vaitiekus Taboras.md#claim-t-184852|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]: Po Vilniaus vyskupo Andriaus mirties jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras.
-- susijęs iš [[objektai/daiktai/Aleksandro lektika.md#claim-t-54484|Aleksandro lektika]]: Galutinai paliegęs Aleksandras lektikoje buvo nugabentas į Vilnių, jį lydint Elenai, Vilniaus vyskupui Vaitiekui Taborui, Jonui Zabžezinskiui ir Jonui Laskiui.
 - susijęs iš [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas.md#claim-t-87023|Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]: 1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį savo malūną, nes jo drebėjimas judino pastatų pamatus.
 - susijęs iš [[objektai/daiktai/Svečių namai rusų pirkliams Vilniuje.md#claim-t-87035|Svečių namai rusų pirkliams Vilniuje]]: Aleksandras leido Vilniuje statyti Svečių namus, nes rusų pirklių kontrolę siejo ir su miesto saugumu.
-- susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172084|Dominikonų ordinas]]: Aleksandras 1501 metais pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.
-- susijęs iš [[objektai/grupes/LDK Ponų Taryba.md#claim-t-187764|LDK Ponų Taryba (institucija, XV a.)]]: J. Zaberezinskis ir kiti LDK Ponų Tarybos nariai rėmė Melniko uniją, kuriai Aleksandras ir jo broliai priešinosi dėl dinastinių interesų.
 - susijęs iš [[objektai/grupes/Lietuvos pasiuntiniai Maskvoje.md#claim-t-86804|Lietuvos pasiuntiniai Maskvoje]]: 1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai Petras Białas ir Stanislovas Goštautas pasirašė amžinos taikos sutartį su Ivanu Vasiljevičiumi.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179409|Livonijos ordinas]]: Livonijos ordino atstovai nebuvo įsileisti į taikos derybas, todėl Aleksandras turėjo atsisakyti savo sąjungininko.
-- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187738|Ponų taryba (institucija)]]: Jonušas Zaberezinskis ir kiti LDK Ponų tarybos nariai pasisakė už Melniko uniją, kuriai Aleksandras ir jo broliai priešinosi.
-- susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-72613|Ponų taryba (institucija)]]: Kazimiero viešpatavimo metu Ponų taryba sustiprėjo ir, išrinkusi Aleksandrą, pareikalavo nustatyti jos kompetencijos ribas.
-- susijęs iš [[objektai/ivykiai/1494 m. talkos sutarties tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos sudarymas.md#claim-t-186779|1494 m. talkos sutarties tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos sudarymas (sutartis, XV a.)]]: Ivanas III talkos sutarčiai prisiekė 1494 m. vasario 7 d., o Aleksandras jai prisiekė 1494 m. balandžio 22 d.
-- susijęs iš [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi.md#claim-t-186790|Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]: Redakcinė pastaba nurodo, kad Aleksandras iš Melniko į Krokuvą išvyko 1501.XI.29.
-- susijęs iš [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi.md#claim-t-186791|Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]: Aleksandras 1501 m. spalio 3 d. Petrakave buvo preliminariai išrinktas Lenkijos karaliumi po Jono Olbrachto mirties.
-- susijęs iš [[objektai/ivykiai/Aleksandro patvirtintas Melniko unijos aktas.md#claim-t-186786|Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)]]: Redakcinė pastaba nurodo, kad Aleksandras ir dalis Ponų Tarybos narių Melnike 1501.X.23-30 patvirtino naują Lenkijos ir Lietuvos unijos aktą.
-- susijęs iš [[objektai/ivykiai/Aleksandro patvirtintas Melniko unijos aktas.md#claim-t-186787|Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)]]: Aleksandro patvirtintas Melniko unijos aktas nebuvo įgyvendintas, nes Lietuvos didikai vėliau atsisakė jį ratifikuoti.
-- susijęs iš [[objektai/ivykiai/Aleksandro patvirtintas Melniko unijos aktas.md#claim-t-186788|Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)]]: Redakcinė pastaba nurodo, kad Lenkijos delegacija atvyko pas Aleksandrą į Melniką ir pateikė jam naują Lenkijos ir Lietuvos unijos aktą kaip išrinkimo karaliumi sąlygą.
-- susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
 - susijęs iš [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje.md#claim-t-186661|Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]: Lietuvos metraštis pasakoja, kad tuo metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių.
 - susijęs iš [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje.md#claim-t-186662|Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]: Lietuvos metraščio pasakojime visi iš Braclavo į Moldaviją išvaryti žmonės sugrįžo į Braclavą po miesto atstatymo.
 - susijęs iš [[objektai/ivykiai/Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje.md#claim-t-186663|Braclavo atstatymas ir lietuvių pergalė prieš totorius stepėje]]: Lietuvos metraštis Aleksandrą vadina didžiuoju kunigaikščiu ir pasakoja, kad jis nemažai laiko praleido Braclave bei atstatė miestą.
 - susijęs iš [[objektai/ivykiai/Brastos seimas 1505 m..md#claim-t-186806|Brastos seimas 1505 m. (seimas, XVI a.)]]: 1971 m. leidinio pastaba nurodo, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą skiriasi nuo platesnio M. Miechovitos pasakojimo.
-- susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186644|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Vilniuje įvyko iškilmingos Aleksandro ir Elenos vestuvės, trukusios kelias savaites.
-- susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186645|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Po Aleksandro ir Elenos vestuvių Vilniuje Maskvos pasiuntiniai buvo pagerbti, gausiai apdovanoti ir išleisti atgal.
 - susijęs iš [[objektai/ivykiai/Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje.md#claim-t-186647|Elenos atgabenimas į Lietuvą ir Aleksandro vestuvės Vilniuje]]: Elena buvo atgabenta į Vilnių dvi savaitės prieš Užgavėnes.
 - susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186650|Parčevo seimas (seimas, XV a.)]]: Lietuvos metraštis pasakoja, kad Parčevo seime priimti sumanymai ir nutarimai liko didelė paslaptis.
 - susijęs iš [[objektai/ivykiai/Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę.md#claim-t-185541|Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)]]: Po Vedrošos mūšio nelaisvės ar mirties išvengė Ivanas Jacyničius, Jurgis Valavičius, Teodoras Nemyra ir Bogdanas Maskevičius.
-- susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, jungtuvių ir vestuvių vaišinimo apeigos.md#claim-t-87272|Aleksandro ir Elenos sutikimo, jungtuvių ir vestuvių vaišinimo apeigos]]: Aleksandras lydėjo rogėse sėdinčią Eleną į Vilnių, kur ji po graikų apeigų mišių buvo nuvesta į Šv. Stanislovo katedrą.
-- susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas.md#claim-t-87197|Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]: Šv. Stanislovo katedroje Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.
-- susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas.md#claim-t-87198|Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]: 1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį.
 - susijęs iš [[objektai/paprociai/Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui.md#claim-t-87224|Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui]]: Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, mokėti muitą ir prisistatyti pilininkui.
 - susijęs iš [[objektai/paprociai/Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui.md#claim-t-87225|Rusų pirklių privalomas apsistojimas Svečių namuose, muito mokėjimas ir prisistatymas pilininkui]]: Aleksandras leido statyti Svečių namus ir dėl miesto bei muito pelno, ir dėl išorinio saugumo.
-- susijęs iš 1500 m. Aleksandro sprendimas dėl malūno prie Bernardinų vienuolyno: 1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį malūną ir jo sklypą atidavė vienuolynui.
-- susijęs iš Florencijoje sudaryta Rytų ir Vakarų bažnyčių unija: Po Florencijos bažnyčių unijos Aleksandras siekė, kad jo valdose gyvenantys rusai prisidėtų prie Rytų ir Vakarų bažnyčių santarvės.
 - susijęs iš Lietuvos senato laiškas Maskvos didikams dėl taikos, belaisvių ir apeigų: Jonas Zaberezinskis Lietuvos senato vardu įteikė Maskvos didikams laišką dėl taikos laikymosi, belaisvių švelnesnio traktavimo ir apeigų laisvės.
 - susijęs iš Bernardinų bažnyčia Vilniuje: 1500 m. Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį karaliaus malūną, nes jis drebindamas silpnino bernardinų pastatų pamatus.
 - susijęs iš Bernardinų bažnyčia Vilniuje: Mikalojus Radvila II savo lėšomis naujai pamūrijo bernardinų bažnyčią, vadintą Šv. Pranciškaus ir Bernardo vardu.
 - susijęs iš Bernardinų bažnyčia Vilniuje: Bernardinų bažnyčia dėl menkų pamatų grėsė griūtimi, todėl ji buvo iš naujo pamūryta dosniai prisidėjus Vilniaus vaivadai Mikalojui Radvilai.
 - susijęs iš Bernardinų bažnyčia Vilniuje: 1500 m. karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną, ardžiusį pastatų pamatus.
 - susijęs iš Bobro upė: Aleksandras prie Bobro upės sužinojo apie pralaimėjimą ir Obolcuose įrengė karo stovyklą priešo žygiui stabdyti.
-- susijęs iš Borisovas: 1500 m. Borisove datuotu sprendimu karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną.
 - susijęs iš Braclavas: Lietuvos metraštis pasakoja, kad Aleksandras įsakė atstatyti Braclavą, nes miestas buvo Moldavijos vaivados nusiaubtas ir sudegintas.
-- susijęs iš Būgas: Būgas žymėjo ribą, už kurios Tarybos ponai ir kariuomenė atsisakė žygiuoti be Aleksandro sumanymo paaiškinimo.
-- susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
-- susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
 - susijęs iš Kamenecas: Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas Podolės pilis.
 - susijęs iš Kaunas: Aleksandras garantavo Vilniaus miestiečiams laisvą prekių laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
 - susijęs iš Kleckas: Krymo totoriai apie liepos 20-22 d. apsistojo ties Klecku ir pradėjo grobti žmones bei turtą.
@@ -180,18 +238,13 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - susijęs iš Podolė: Vytautas Švitrigailai buvo perleidęs Kamenecą ir kitas pilis Podolėje.
 - susijęs iš Rusų žemė: Pasak Lietuvos metraščio, Aleksandras su Elena ir didikais tą žiemą važiavo apžiūrėti Rusų žemės ir lankėsi Smolenske, Vitebske bei Polocke.
 - susijęs iš Rusų žemė: Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke, o pavasariop grįžo į Vilnių.
-- susijęs iš Soroka: Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras.
 - susijęs iš Svečių namai Vilniuje: Aleksandras leido Vilniuje statyti svečių namus, nes rusų pirkliai mieste apsistodavo ir išvykdavo be prisistatymo.
 - susijęs iš Tamovas: Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos žemėje ribą prie Krokuvos.
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
 - susijęs iš Tamovas: Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos žemėje ribą prie Krokuvos.
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco per Lvovą iki Tamovo.
-- susijęs iš Taurija: Taurijos chanas Mendli Girėjus veikė prieš Aleksandrą ir nukreipė jo dėmesį į save.
-- susijęs iš Trakai: 1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir vaško dirbtuvės laisvę.
-- susijęs iš Trakai: 1492 m. Trakuose Aleksandras ta pačia privilegija suteikė Vilniui Magdeburgo teises ir teisę laikyti vaško dirbtuvę.
 - susijęs iš Vilija: Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Šv. Stanislovo katedroje Vaitiekus Taboras sutuokė didįjį kunigaikštį Aleksandrą su Elena.
 - susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.
 - susijęs iš Vilniaus pilis: Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.
 - susijęs iš Vilnius: 1492 m. karalius Aleksandras patvirtino ankstesnes Vilniaus dovanas ir suteikė naujų privilegijų prekybai bei miestiečių buičiai gerinti.
@@ -200,7 +253,6 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - susijęs iš Vitebskas: Aleksandras su Elena ir didikais žiemą lankėsi Vitebske, apžiūrėdamas Rusų žemę.
 - susijęs iš Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje): 1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.
 - susijęs iš Šv. Dvasios dominikonų bažnyčia Vilniuje: 1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.
-- susijęs iš Šv. Stanislovo katedra: Šv. Stanislovo katedroje Vilniaus vyskupas Vaitiekus Taboras sutuokė didįjį kunigaikštį Aleksandrą su Elena.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113647|Magdeburgo teisės]]: 1492 m. Trakuose Aleksandras privilegija Vilniui suteikė Magdeburgo teises ir laisvę laikyti vaško dirbtuvę.
 - susijęs iš [[objektai/zodynas/Zabójnica.md#claim-t-86630|Zabójnica]]: 1492 m. Aleksandras suteikė Vilniui teisę laikyti vaško dirbtuvę, vadintą Zabójnica, ir panaikino daugumą privačių dirbtuvių.
 - susijęs iš [[objektai/zodynas/avangardas.md#claim-t-187541|avangardas]]: Žvalgai Aleksandrui prie Bobro upės pranešė, kad jo kariuomenės avangardas buvo sumuštas ties Vedroša.
@@ -251,7 +303,27 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9b92d3f8a974660196f06bd5a0a77e4388fc7a013580a0fbcde43a86293b3693; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9b92d3f8a974660196f06bd5a0a77e4388fc7a013580a0fbcde43a86293b3693; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kazanė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kazanė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras" parinktas kaip owner_note_path. Targetas "Kazanė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
 
 - c-003
@@ -273,6 +345,16 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9f783b8ce729549ddc87d0300af99225e5e267c7d2c4120f9353d87747e5e37d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Patrikas (kunigaikštis, XIV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Patrikas (kunigaikštis, XIV a.): mention_match, person, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras" parinktas kaip owner_note_path. Targetas "Patrikas (kunigaikštis, XIV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-004
@@ -305,7 +387,28 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=beac4d01bf934372ea42872d3168158b9ca06754b8d44b7ef0b5243948eb8564; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: paskyre -> Kiška: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
+  ryšio_subjekto_parinkimas: Aleksandras: owner_note_path, person, gap=31
+  ryšio_targeto_parinkimas: Kiška: nearest_after_predicate, person, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Aleksandras" parinktas kaip owner_note_path. Targetas "Kiška" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 383574-384306; hash=04e355bdc2b97b1d07261a5ddd2b6274cf9bf4fbd0d8294ad05c278920df80ad; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstantinas (Karijotaitis): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konstantinas (Karijotaitis): mention_match, person, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandras" parinktas kaip owner_note_path. Targetas "Konstantinas (Karijotaitis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Aleksandras keliavo_i [[objektai/vietos/Vilnius]]
+- Aleksandras paskyre [[objektai/asmenys/Kiška]]
+- [[objektai/grupes/LDK Ponų Taryba|LDK Ponų Taryba (institucija, XV a.)]] reme Aleksandras

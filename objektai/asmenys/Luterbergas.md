@@ -24,18 +24,38 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
   global_id: t-60167
   teiginys: 'Kulmo landkomtūras Luterbergas Drevantos upės pakrantėje pastatė miestą, vardu Noimarkas.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo Luterbergo pareigas ir jo pastatytą miestą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/landkomtūras|landkomtūras]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Drevanta; mentioned_place: Glotava; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_place: Drevanta; mentioned_object: [[objektai/zodynas/landkomtūras|landkomtūras]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Glotava; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Varmė'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3ed869f6def2c8fd5be2010b774595279671072df9ae95dd6d29e59a8ee7aa1b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drevanta: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Luterbergas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Drevanta: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Luterbergas" parinktas kaip owner_note_path. Targetas "Drevanta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60168"></a>
 - t-002
   global_id: t-60168
   teiginys: 'Luterbergas, Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras, pastatė miestą prie Ilienburgo pilies.'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir kontekstinis fragmentas apie kitą komtūrą; citata remia faktą apie Luterbergą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Bartenšteinas; mentioned_place: Ilienburgas; mentioned_place: Kristburgas; mentioned_place: Lunenburgas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Ilienburgas; mentioned_place: Kristburgas; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Bartenšteinas; mentioned_place: Lunenburgas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ffd46237aa1cf6d7a3059958dea08d42ff11caaf1a2996197e2a2c8af6271cf8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ilienburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Luterbergas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ilienburgas: mention_match, place, gap=88
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Luterbergas" parinktas kaip owner_note_path. Targetas "Ilienburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Ottonas Luterbergas.md#claim-t-39398|Ottonas Luterbergas]]: Livonijos magistras Ottonas Luterbergas buvo nukautas kovoje, kurioje žuvo ir 52 Ordino broliai.
 - susijęs iš [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.).md#claim-t-66606|Karusės mūšis (1270 m. vasario 16 d.)]]: Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai.
 - susijęs iš Ilienburgas: Kristburgo komtūras Luterbergas pastatė miestą prie Ilienburgo pilies.
@@ -84,4 +104,24 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ffd46237aa1cf6d7a3059958dea08d42ff11caaf1a2996197e2a2c8af6271cf8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ilienburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Luterbergas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ilienburgas: mention_match, place, gap=88
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Luterbergas" parinktas kaip owner_note_path. Targetas "Ilienburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3ed869f6def2c8fd5be2010b774595279671072df9ae95dd6d29e59a8ee7aa1b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drevanta: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Luterbergas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Drevanta: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Luterbergas" parinktas kaip owner_note_path. Targetas "Drevanta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

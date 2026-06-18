@@ -54,18 +54,28 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
   susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/daiktai/1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius.md#claim-t-87107|1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius]]: Vilniaus graikų unitų metropolijos zakristijoje matytas 1575 m. „Cztėry Ewangelje“ egzempliorius buvo puikiai išsilaikęs.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 694931-695296; hash=992604bf4992e7d06518684524cd8f20b0f09129aa323f5ccff876675aaed823; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Unitai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Unitai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-178763|Bazilijonų ordinas]]: Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.
-- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-178765|Bazilijonų ordinas]]: Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams.
 - susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-182884|Bazilijonų ordinas]]: Bazilijonų ordinas Lietuvoje turėjo kelias dešimtis vienuolynų ir daugiausia rūpinosi unitų mokymu.
-- susijęs iš [[objektai/grupes/Rusų stačiatikių bažnyčia.md#claim-t-66081|Rusų stačiatikių bažnyčia]]: 1839 m. likvidavus Unitų bažnyčią, unitai buvo prievarta grąžinti į Rusų stačiatikių bažnyčios gretas.
 - susijęs iš [[objektai/grupes/Unitų bažnyčia unitai.md#claim-t-101479|Unitų bažnyčia unitai]]: 1839 m. Unitų bažnyčia buvo likviduota, o unitai prievarta grąžinti į Rusų stačiatikių bažnyčią.
 - susijęs iš [[objektai/grupes/Unitų bažnyčia unitai.md#claim-t-101480|Unitų bažnyčia unitai]]: Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms.
 - susijęs iš [[objektai/grupes/Unitų bažnyčia.md#claim-t-16167|Unitų bažnyčia]]: 1839 m. Unitų bažnyčia buvo likviduota, o unitai prievarta grąžinti į Rusų stačiatikių bažnyčią.
 - susijęs iš [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus.md#claim-t-54332|Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]: Carinė valdžia uždarė nemažai katalikų vienuolynų, o 1839 m. likvidavo Unitų bažnyčią ir prievarta grąžino unitus į Rusų stačiatikių bažnyčią.
 - susijęs iš [[objektai/paprociai/Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus.md#claim-t-54333|Religinė carinės valdžios prievarta prieš katalikų vienuolynus ir unitus]]: Caro valdžia uždarė nemažai katalikų vienuolynų, 1839 m. likvidavo Unitų bažnyčią ir prievarta grąžino unitus į stačiatikybę.
-- susijęs iš Teodoro Narbuto „Lietuvių tautos istorija“: 1835–1841 m. Vilniuje lenkų kalba išėjo devyni Teodoro Narbuto „Lietuvių tautos istorijos“ tomai apie Lietuvos istoriją iki Liublino unijos.
 - susijęs iš Galicija: Po Lenkijos padalinimo Galicijoje išliko unitai, nes ši sritis buvo patekusi Austrijai.
+- susijęs iš [[objektai/daiktai/1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius.md#claim-t-87107|1575 m. Mamoničių „Cztėry Ewangelje“ egzempliorius]]: Vilniaus graikų unitų metropolijos zakristijoje matytas 1575 m. „Cztėry Ewangelje“ egzempliorius buvo puikiai išsilaikęs.
+- susijęs iš [[objektai/grupes/Bazilijonų ordinas.md#claim-t-178765|Bazilijonų ordinas]]: Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams.
+- susijęs iš [[objektai/grupes/Rusų stačiatikių bažnyčia.md#claim-t-66081|Rusų stačiatikių bažnyčia]]: 1839 m. likvidavus Unitų bažnyčią, unitai buvo prievarta grąžinti į Rusų stačiatikių bažnyčios gretas.
+- susijęs iš Teodoro Narbuto „Lietuvių tautos istorija“: 1835–1841 m. Vilniuje lenkų kalba išėjo devyni Teodoro Narbuto „Lietuvių tautos istorijos“ tomai apie Lietuvos istoriją iki Liublino unijos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -110,4 +120,14 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 694931-695296; hash=992604bf4992e7d06518684524cd8f20b0f09129aa323f5ccff876675aaed823; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Unitai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Unitai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001

@@ -24,6 +24,9 @@ Bandymo pabėgti atveju būtų ištremtas, savo eilėmis girdamas ir liaupsinda�
   sudarymo_pagrindimas: 'Citata palaiko faktą apie veikale pateiktą patvirtinimą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 566694-566924; hash=856a232db1e00eb8459d92bfe2ee02dbef907d18b871553df82f886a4372fec0; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 <a id="claim-t-88323"></a>
 - t-002
@@ -32,6 +35,9 @@ Bandymo pabėgti atveju būtų ištremtas, savo eilėmis girdamas ir liaupsinda�
   sudarymo_pagrindimas: 'Pirminis teiginys beveik tinkamas, bet reikėjo pašalinti OCR triukšmą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 588356-588449; hash=ae04013c77619524b02888027935c2cd668c853e47fde2b7f461b9b75776cc1d; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -63,4 +69,10 @@ Bandymo pabėgti atveju būtų ištremtas, savo eilėmis girdamas ir liaupsinda�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 588356-588449; hash=ae04013c77619524b02888027935c2cd668c853e47fde2b7f461b9b75776cc1d; match=whitespace_regex
+  sprendimo_priezastis: auto
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 566694-566924; hash=856a232db1e00eb8459d92bfe2ee02dbef907d18b871553df82f886a4372fec0; match=whitespace_regex
+  sprendimo_priezastis: auto

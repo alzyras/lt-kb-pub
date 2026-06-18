@@ -30,6 +30,9 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išlaikyta citatos remiama mintis apie satyrą.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 733509-733612; hash=6637748b0447731f2c17771a0e360717d2fa6554fa03891e444f47678aececbf; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-34252"></a>
 - t-002
@@ -38,6 +41,16 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   sudarymo_pagrindimas: 'Pradinis teiginys buvo tik antraštinis fragmentas.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 733669-733905; hash=4cebacad41ea65040f4707e16601e67903bab2f7742e9b27a95463e72f52de48; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: satyra: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "satyra" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-34253"></a>
 - t-003
@@ -50,6 +63,9 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   temporalinis_llm_pakomentavimas: 'Sutrumpinta ir sutvarkyta enciklopedinei formuluotei.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 733906-734295; hash=e29fe8e8d0e2aee8634d1003bf90d030ae8a470789648ee751116e01197d8061; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -75,6 +91,9 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 733906-734295; hash=e29fe8e8d0e2aee8634d1003bf90d030ae8a470789648ee751116e01197d8061; match=exact
+  sprendimo_priezastis: auto
     - t-002
 
 - c-003
@@ -92,4 +111,17 @@ Satyros ir juokai. Šioj, dailiai išleistoj knygelėj pateikta satyriška musų
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 733669-733905; hash=4cebacad41ea65040f4707e16601e67903bab2f7742e9b27a95463e72f52de48; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: satyra: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "satyra" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 733509-733612; hash=6637748b0447731f2c17771a0e360717d2fa6554fa03891e444f47678aececbf; match=exact
+  sprendimo_priezastis: auto

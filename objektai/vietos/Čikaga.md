@@ -33,12 +33,22 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   global_id: t-77709
   teiginys: '1910 m. JAV Pensilvanijoje, Čikagoje ir Niujorke gyveno 207 tūkst. lietuvių.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, vietas ir lietuvių skaičių, o citata tai patvirtina.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Rusija'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1879 m.; gyvenimo laikotarpis: 1910 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, vietas ir lietuvių skaičių, o citata tai patvirtina.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 252180-252298; hash=cc299b11d75c0d65b8091f58865672f978392def37a8f7a51117b98a73a75cd8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čikaga: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čikaga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-77710"></a>
 - t-002
@@ -48,45 +58,75 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5a68c88ff7d83c9184a63d032a5556ed6beb91b5f6ba176f7ef8d5f7ae503ec2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Niujorkas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čikaga: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Niujorkas: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čikaga" parinktas kaip owner_note_path. Targetas "Niujorkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77711"></a>
 - t-003
   global_id: t-77711
   teiginys: 'Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje.'
   sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; citata pagrindžia konkretų faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/John Gielgud|John Gielgud]]; mentioned_person: [[objektai/asmenys/Robertas Zemeckis|Robertas Zemeckis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/John Gielgud|John Gielgud]]; mentioned_person: [[objektai/asmenys/Robertas Zemeckis|Robertas Zemeckis]]; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1952 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys fragmentiškas; citata pagrindžia konkretų faktą.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0b93b42aa1a784dabff6f0102b240d57edaf54e8595962d4ebbf147f1e3fe876; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čikaga: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čikaga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77712"></a>
 - t-004
   global_id: t-77712
   teiginys: '1917 m. JAV lietuvių imigrantus, gyvenusius daugiausia Čikagoje, Niujorke ir Pensilvanijoje, suaktyvino JAV įstojimas į karą.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi OCR fragmentą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_place: Peterburgas; mentioned_place: Rusija; mentioned_place: Vokietija; mentioned_place: Voronežas'
+  susije_objektai: 'mentioned_place: Niujorkas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Peterburgas; mentioned_place: Rusija; mentioned_place: Vokietija; mentioned_place: Voronežas'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi OCR fragmentą.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Davidas Suchetas.md#claim-t-18874|Davidas Suchetas]]: Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
-- susijęs iš [[objektai/asmenys/Eimuntas Nekrošius.md#claim-t-78050|Eimuntas Nekrošius]]: Eimuntas Nekrošius citatoje įvardytas kaip teatro režisierius, kūręs spektaklius įsivaizduojamoje „idealiojoje Lietuvoje“.
-- susijęs iš [[objektai/asmenys/John Gielgud.md#claim-t-78058|John Gielgud]]: John Gielgud buvo pasaulinė teatro ir kino žvaigždė, kilusi iš Lietuvos emigrantų šeimos.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 230857-231525; hash=5a8d1f4322692472bc5a87dc0e36171b2f0fbf8547136d01ccbf3c482d7ada01; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čikaga: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čikaga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Robertas Zemeckis.md#claim-t-19204|Robertas Zemeckis]]: Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje.
 - susijęs iš [[objektai/autoriai/C. R. Jurgėla.md#claim-t-30578|C. R. Jurgėla]]: C. R. Jurgėla 1961 m. Čikagoje paskelbė darbą „Tannenberg (Eglija-Grunwald) 15 July 1410“.
 - susijęs iš [[objektai/autoriai/Jurgėla, C. R.md#claim-t-29516|Jurgėla, C. R]]: C. R. Jurgėla parašė 1961 m. Čikagoje išleistą veikalą „Tannenberg (Eglija-Grunwald) 15 July 1410“.
 - susijęs iš [[objektai/autoriai/M. Jučas.md#claim-t-179549|M. Jučas]]: M. Jučas parašė veikalą „Vytautas Didysis“, išleistą Čikagoje 2010 m.
 - susijęs iš [[objektai/autoriai/Vcl. Biržiška.md#claim-t-100121|Vcl. Biržiška]]: Vcl. Biržiška parašė veikalą „Senųjų lietuviškų knygų istorija“, kurio pirmasis tomas išleistas 1953 m. Čikagoje.
+- susijęs iš Laiškai Lietuviams: „Laiškai Lietuviams“ 1958 m. Čikagoje buvo nurodyti kaip 5–9 numerių leidinys.
+- susijęs iš Senųjų lietuviškų knygų istorija: Vaclovas Biržiška „Senųjų lietuviškų knygų istorijos“ I tomą išleido Čikagoje 1953 m.
+- susijęs iš Vytautas Didysis (M. Jučas): M. Jučo veikalas „Vytautas Didysis“ išleistas Čikagoje 2010 m.
+- susijęs iš [[objektai/asmenys/Davidas Suchetas.md#claim-t-18874|Davidas Suchetas]]: Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
+- susijęs iš [[objektai/asmenys/Eimuntas Nekrošius.md#claim-t-78050|Eimuntas Nekrošius]]: Eimuntas Nekrošius citatoje įvardytas kaip teatro režisierius, kūręs spektaklius įsivaizduojamoje „idealiojoje Lietuvoje“.
+- susijęs iš [[objektai/asmenys/John Gielgud.md#claim-t-78058|John Gielgud]]: John Gielgud buvo pasaulinė teatro ir kino žvaigždė, kilusi iš Lietuvos emigrantų šeimos.
 - susijęs iš [[objektai/grupes/Lietuvos Vyčių Sąjunga.md#claim-t-01397|Lietuvos Vyčių Sąjunga]]: Lietuvos Vyčių Sąjunga telkė katalikų jaunimą, turėjo apie 100 kuopų ir leido laikraštį „Vytis“.
 - susijęs iš [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas.md#claim-t-75303|Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.
 - susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-183492|„idealiąją Lietuvą“]]: „Idealiojoje Lietuvoje“ įsivaizduojama, kad spektaklius ir filmus kuria Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.
 - susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-75612|„idealiąją Lietuvą“]]: „Idealioji Lietuva“ įsivaizduota kaip kultūrinė erdvė, kurioje filmus ir spektaklius kurtų Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.
-- susijęs iš Laiškai Lietuviams: „Laiškai Lietuviams“ 1958 m. Čikagoje buvo nurodyti kaip 5–9 numerių leidinys.
-- susijęs iš Senųjų lietuviškų knygų istorija: Vaclovas Biržiška „Senųjų lietuviškų knygų istorijos“ I tomą išleido Čikagoje 1953 m.
-- susijęs iš Vytautas Didysis (M. Jučas): M. Jučo veikalas „Vytautas Didysis“ išleistas Čikagoje 2010 m.
 - susijęs iš Kauno tvirtovė: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę.
 - susijęs iš Tryškiai: Tryškiuose aktorius Davidas Suchetas ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
 - susijęs iš Vilnius: 1915 m. rugsėjo 15 d. vokiečiai įžengė į Vilnių, o senoji Lenkijos ir Lietuvos valstybės teritorija atsidūrė Vokietijos ir Austrijos kariuomenių kontrolėje.
@@ -129,6 +169,16 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5a68c88ff7d83c9184a63d032a5556ed6beb91b5f6ba176f7ef8d5f7ae503ec2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Niujorkas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čikaga: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Niujorkas: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čikaga" parinktas kaip owner_note_path. Targetas "Niujorkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-003
@@ -149,6 +199,16 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 230857-231525; hash=5a8d1f4322692472bc5a87dc0e36171b2f0fbf8547136d01ccbf3c482d7ada01; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čikaga: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čikaga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -171,4 +231,24 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0b93b42aa1a784dabff6f0102b240d57edaf54e8595962d4ebbf147f1e3fe876; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čikaga: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čikaga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 252180-252298; hash=cc299b11d75c0d65b8091f58865672f978392def37a8f7a51117b98a73a75cd8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Čikaga: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Čikaga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

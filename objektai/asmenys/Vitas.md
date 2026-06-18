@@ -29,19 +29,29 @@ periodo_grupes: []
   global_id: t-87602
   teiginys: '1253 m. dominikonas Vitas Gniezno arkivyskupo Pelkos buvo įšventintas pirmuoju Lietuvos vyskupu.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia Vito įšventinimą ir jo vaidmenį pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/in partibus infidelium|in partibus infidelium]]; mentioned_person: [[objektai/asmenys/Pelka|Pelka]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Poznanė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pelka|Pelka]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/in partibus infidelium|in partibus infidelium]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Poznanė; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1253 m.; įvykio data: 1822 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia Vito įšventinimą ir jo vaidmenį pagal citatą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 400314-401110; hash=2ce213aa1f83f61c4fefa1729e64dc32ec0e9cc1c2a269fa59e5c4bd511ce356; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gniezno: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vitas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gniezno: mention_match, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitas" parinktas kaip owner_note_path. Targetas "Gniezno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Pelka.md#claim-t-87821|Pelka]]: Gniezno arkivyskupas Pelka 1253 m. įšventino Petrą ir pirmąjį Lietuvos vyskupą Vitą vyskupais.
 - susijęs iš [[objektai/autoriai/Godzislavas Baško.md#claim-t-88090|Godzislavas Baško]]: Godzislavo Baško parašyta „Kronika Lechitów i Polaków“ mini, kad Vitas buvo pirmasis Lietuvos vyskupas.
+- susijęs iš Kronika Lechitów i Polaków: „Kronika Lechitów i Polaków“ mini, kad 1253 m. Vitas buvo įšventintas pirmuoju Lietuvos vyskupu.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179149|Lenkai]]: Vytautas 1401 m. akte priminė pažadą laikytis Jogailos, Lenkijos karūnos ir jos didikų bei ginti juos nuo priešų.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179162|Lenkai]]: Vytauto akte priminta, kad lenkai pasikvietė Jogailą į savo sostą ir pripažino jį karaliumi Vladislovu.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108289|Pranciškonų ordinas]]: Kai kurių dvasininkų manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas ir vėliau pats tapo vienuoliu.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108327|Pranciškonų ordinas]]: Kai kurių autorių manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas.
-- susijęs iš Kronika Lechitów i Polaków: „Kronika Lechitów i Polaków“ mini, kad 1253 m. Vitas buvo įšventintas pirmuoju Lietuvos vyskupu.
 - susijęs iš Podolė: Kai kurie dvasininkų autoriai Goštautą laikė Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir vėlesniu Vilniaus vyskupu.
 - susijęs iš Podolė: Kai kurių autorių manymu, Podolės vaivada Goštautas vėliau tapo vienuoliu ir pirmuoju Vilniaus vyskupu.
 - susijęs iš Vilnius: Balińskis teigė, kad Vitas negalėjo būti Vilniaus vyskupas, nes jo laikais apie Vilnių dar nebuvo girdėti.
@@ -72,3 +82,13 @@ periodo_grupes: []
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 400314-401110; hash=2ce213aa1f83f61c4fefa1729e64dc32ec0e9cc1c2a269fa59e5c4bd511ce356; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gniezno: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vitas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gniezno: mention_match, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vitas" parinktas kaip owner_note_path. Targetas "Gniezno" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

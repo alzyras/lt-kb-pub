@@ -21,18 +21,38 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
 - t-001
   global_id: t-55019
   teiginys: 'Pranciškus Malevskis vadovavo senosios Lietuvos Metrikos padaliniui, priskirtam Senato Trečiajam departamentui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Kijevas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 46659-47597; hash=b696799848966b9379d2a7c1f4bb6d7272b6f4d9b9849613029a9c5e7c3dd37f; match=whitespace_regex
+  sprendimo_priezastis: gap::authors
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pranciškus Malevskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškus Malevskis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-55020"></a>
 - t-002
   global_id: t-55020
   teiginys: 'Pranciškus Malevskis Balinskio medžiagos rinkiniams parūpino gausių išrašų apie Vilnių iš Lietuvos Metrikos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Kijevas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 46659-47597; hash=b696799848966b9379d2a7c1f4bb6d7272b6f4d9b9849613029a9c5e7c3dd37f; match=whitespace_regex
+  sprendimo_priezastis: gap::authors
+  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pranciškus Malevskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškus Malevskis" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-81962"></a>
 - t-003
@@ -42,16 +62,26 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 46996-47821; hash=a1ba9649bfa692f32e53720b9a789eb9add28c5038640d586f02a300d64142a0; match=whitespace_regex
+  sprendimo_priezastis: gap::authors
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pranciškus Malevskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškus Malevskis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105712|Simonas Daukantas]]: Simono Daukanto tiesioginis viršininkas buvo Lietuvos Metrikos padalinio vadovas Pranciškus Malevskis.
+- susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182795|Michał Baliński Mykolas Balinskis]]: M. Balinskis dėkojo Ignui Danilavičiui, Ignui Onacevičiui ir Pranciškui Malevskiui už pagalbą istoriniais dokumentais.
+- susijęs iš [[objektai/autoriai/Mykolas Balinskis.md#claim-t-55014|Mykolas Balinskis]]: Balinskis dėkojo Ignui Danilavičiui, Ignui Onacevičiui ir Pranciškui Malevskiui už istorinę dokumentinę pagalbą.
 - susijęs iš [[objektai/asmenys/Ignas Onacevičius.md#claim-t-87514|Ignas Onacevičius]]: Michałas Balińskis veikalo pratarmėje dėkojo Ignui Onacevičiui už pagalbą istoriniais dokumentais.
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105709|Simonas Daukantas]]: P. Malevskis buvo tiesioginis istoriko Simono Daukanto viršininkas Lietuvos Metrikos padalinyje prie Senato Trečiojo departamento.
-- susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105712|Simonas Daukantas]]: Simono Daukanto tiesioginis viršininkas buvo Lietuvos Metrikos padalinio vadovas Pranciškus Malevskis.
 - susijęs iš [[objektai/autoriai/Ignacas Danilavičius Danilowicz.md#claim-t-87983|Ignacas Danilavičius Danilowicz]]: M. Balinskis dėkojo Ignui Danilavičiui ir Ignui Onacevičiui už pagalbą istoriniais dokumentais.
 - susijęs iš [[objektai/autoriai/Ignacas Onacevičius.md#claim-t-55005|Ignacas Onacevičius]]: Mykolas Balinskis dėkojo Ignacui Onacevičiui už pagalbą istoriniais dokumentais.
 - susijęs iš [[objektai/autoriai/Ignacas Onacevičius.md#claim-t-81903|Ignacas Onacevičius]]: M. Balinskis dėkojo Ignui Onacevičiui už pagalbą istoriniais dokumentais.
 - susijęs iš [[objektai/autoriai/Ignas Danilavičius.md#claim-t-81909|Ignas Danilavičius]]: Ignas Danilavičius M. Balinskio pratarmėje paminėtas tarp istorikų, padėjusių istoriniais dokumentais.
 - susijęs iš [[objektai/autoriai/Ignas Danilavičius.md#claim-t-81910|Ignas Danilavičius]]: M. Balinskis dėkojo Ignui Danilavičiui už pagalbą istoriniais dokumentais.
-- susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182795|Michał Baliński Mykolas Balinskis]]: M. Balinskis dėkojo Ignui Danilavičiui, Ignui Onacevičiui ir Pranciškui Malevskiui už pagalbą istoriniais dokumentais.
-- susijęs iš [[objektai/autoriai/Mykolas Balinskis.md#claim-t-55014|Mykolas Balinskis]]: Balinskis dėkojo Ignui Danilavičiui, Ignui Onacevičiui ir Pranciškui Malevskiui už istorinę dokumentinę pagalbą.
 - susijęs iš Lietuvos Metrika: Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūpino gausių išrašų apie Vilnių.
 ## Reikšmingi paminėjimai
 
@@ -78,6 +108,16 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 46659-47597; hash=b696799848966b9379d2a7c1f4bb6d7272b6f4d9b9849613029a9c5e7c3dd37f; match=whitespace_regex
+  sprendimo_priezastis: gap::authors
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pranciškus Malevskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškus Malevskis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-002
@@ -102,4 +142,24 @@ Pranciškus Malevskis apibūdintas kaip mokslininkas, garsėjęs išsamiomis ži
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 46659-47597; hash=b696799848966b9379d2a7c1f4bb6d7272b6f4d9b9849613029a9c5e7c3dd37f; match=whitespace_regex
+  sprendimo_priezastis: gap::authors
+  ryšio_patikimumas: susije_su -> Aleksandras Balinskis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pranciškus Malevskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Aleksandras Balinskis: mention_match, person, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškus Malevskis" parinktas kaip owner_note_path. Targetas "Aleksandras Balinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 46996-47821; hash=a1ba9649bfa692f32e53720b9a789eb9add28c5038640d586f02a300d64142a0; match=whitespace_regex
+  sprendimo_priezastis: gap::authors
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pranciškus Malevskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranciškus Malevskis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

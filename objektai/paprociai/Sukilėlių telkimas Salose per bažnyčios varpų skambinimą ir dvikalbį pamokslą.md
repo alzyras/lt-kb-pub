@@ -34,7 +34,7 @@ Nenurodyta
 - t-001
   global_id: t-09577
   teiginys: 'Kunigas Mackevičius sakė pamokslą ir lenkiškai, ir lietuviškai, o kariuomenė bei žmonių pulkai jo klausėsi tyrame lauke.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   pagrindžia:
     - c-001
 

@@ -24,6 +24,16 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=79241ebec2bed79f742b5744971db700664801d9c9e5b1fc76c55faff32e8247; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Duona: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: deficitas talonai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Duona: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "deficitas talonai" parinktas kaip owner_note_path. Targetas "Duona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-183407"></a>
 - t-002
@@ -35,6 +45,9 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
   sudarymo_pagrindimas: 'Citata pateikia vertinamąjį posakį, kurį reikia suformuluoti kaip aiškų teiginį.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 443095-443269; hash=dc94418a0de71e7a1bafc11c0ec50d43cf358c1b0dda9b37ba9733cc7ed44450; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -68,4 +81,17 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=79241ebec2bed79f742b5744971db700664801d9c9e5b1fc76c55faff32e8247; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Duona: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: deficitas talonai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Duona: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "deficitas talonai" parinktas kaip owner_note_path. Targetas "Duona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 443095-443269; hash=dc94418a0de71e7a1bafc11c0ec50d43cf358c1b0dda9b37ba9733cc7ed44450; match=whitespace_regex
+  sprendimo_priezastis: auto

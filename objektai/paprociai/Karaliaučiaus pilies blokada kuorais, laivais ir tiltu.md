@@ -49,6 +49,16 @@ Nenurodyta
   pagrindžia:
     - c-001
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c3ac7db8145d17a99d2c19a63003fe4b800cdd6a2d0e1225829eba6eaa3aeadc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-62679"></a>
 - t-002
@@ -60,6 +70,16 @@ Nenurodyta
   pagrindžia:
     - c-003
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=894d47e22154db58298123a966a04a9d2c06ceee9a9b0c3758b1562f6a74a945; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Laivai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Laivai: mention_match, thing, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-62680"></a>
 - t-003
@@ -70,6 +90,16 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Prieglius; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fe7b5ec1c41b354d16cc22a4360d4fab2db5171312ece5bfbdb4cdb67132db23; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kuorai: mention_match, thing, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)" parinktas kaip owner_note_path. Targetas "Kuorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -113,7 +143,27 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c3ac7db8145d17a99d2c19a63003fe4b800cdd6a2d0e1225829eba6eaa3aeadc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c3ac7db8145d17a99d2c19a63003fe4b800cdd6a2d0e1225829eba6eaa3aeadc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -129,6 +179,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fe7b5ec1c41b354d16cc22a4360d4fab2db5171312ece5bfbdb4cdb67132db23; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kuorai: mention_match, thing, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)" parinktas kaip owner_note_path. Targetas "Kuorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-004
@@ -145,4 +205,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=894d47e22154db58298123a966a04a9d2c06ceee9a9b0c3758b1562f6a74a945; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Laivai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Laivai: mention_match, thing, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=894d47e22154db58298123a966a04a9d2c06ceee9a9b0c3758b1562f6a74a945; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Laivai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Laivai: mention_match, thing, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

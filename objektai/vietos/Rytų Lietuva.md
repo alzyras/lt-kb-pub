@@ -33,7 +33,7 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
   global_id: t-181515
   teiginys: '1919 m. pavasarį Rytų Lietuvą kontroliavo bolševikai.'
   sudarymo_pagrindimas: 'Pradžia „Tuo metu“ yra kontekstinė, todėl datą reikia padaryti aiškią.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Ukraina'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradžia „Tuo metu“ yra kontekstinė, todėl datą reikia padaryti aiškią.'

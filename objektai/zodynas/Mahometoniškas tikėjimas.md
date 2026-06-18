@@ -32,6 +32,16 @@ Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius bu
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos totoriai|Lietuvos totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Dniepras; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb1684487d79241a1855288579f863abdd23306a816157c71668e39b0afe2bdf; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dniepras: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mahometoniškas tikėjimas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Dniepras: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mahometoniškas tikėjimas" parinktas kaip owner_note_path. Targetas "Dniepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -51,3 +61,13 @@ Gavę sau privilegijas iš Vytauto, kuris totorių atmintyje per šimtmečius bu
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb1684487d79241a1855288579f863abdd23306a816157c71668e39b0afe2bdf; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dniepras: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mahometoniškas tikėjimas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Dniepras: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mahometoniškas tikėjimas" parinktas kaip owner_note_path. Targetas "Dniepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

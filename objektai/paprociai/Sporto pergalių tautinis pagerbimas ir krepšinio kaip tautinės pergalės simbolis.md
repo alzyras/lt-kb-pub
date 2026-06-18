@@ -50,12 +50,22 @@ Nenurodyta
   global_id: t-77959
   teiginys: '1937 m. Lietuvos krepšininkams tapus Europos čempionais Rygoje, jų traukinį Lietuvos stotelėse sutiko minios, o krepšinis tapo tautinės pergalės simboliu.'
   sudarymo_pagrindimas: 'Perrašyta, kad sakinys apimtų ir pagerbimo praktiką, ir krepšinio simbolinę reikšmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Europa; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Italija; mentioned_place: Kaunas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1937 m.; įvykio data: 1938 m.; įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad sakinys apimtų ir pagerbimo praktiką, ir krepšinio simbolinę reikšmę.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 352688-353496; hash=151b98a7051e65e72a8d4565d60597d46a4714faf0e9edf546383a49ec15644e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sporto pergalių tautinis pagerbimas ir krepšinio kaip tautinės pergalės simbolis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sporto pergalių tautinis pagerbimas ir krepšinio kaip tautinės pergalės simbolis" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -79,3 +89,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 352688-353496; hash=151b98a7051e65e72a8d4565d60597d46a4714faf0e9edf546383a49ec15644e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sporto pergalių tautinis pagerbimas ir krepšinio kaip tautinės pergalės simbolis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sporto pergalių tautinis pagerbimas ir krepšinio kaip tautinės pergalės simbolis" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

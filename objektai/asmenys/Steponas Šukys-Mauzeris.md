@@ -24,6 +24,9 @@ Steponas Šukys-Mauzeris nusišovė, kiti pasidavė, kai čekistai išsprogdino 
   sudarymo_pagrindimas: 'Reikia aiškiai įvardyti, kas buvo „kiti“, ir pašalinti dviprasmybę.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=63a8d6ca4020abcaa0199abfb576302118938abd1e80e86d49b6664f34bf4953; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Jurgis Trečiokas-Rytas.md#claim-t-40241|Jurgis Trečiokas-Rytas]]: Lapkričio 2 d. rytą čekistų pajėgos apsupo Jurgio Trečioko-Ryto bunkerį Šimonių girioje netoli Varležerio.
 ## Reikšmingi paminėjimai
 
@@ -47,3 +50,6 @@ Steponas Šukys-Mauzeris nusišovė, kiti pasidavė, kai čekistai išsprogdino 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=63a8d6ca4020abcaa0199abfb576302118938abd1e80e86d49b6664f34bf4953; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

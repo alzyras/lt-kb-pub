@@ -23,6 +23,9 @@ Jogailos pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes i�
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalinta perteklinė aplinkybė, išlaikant citatos faktą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a286d552856ca292ba80ffdb3a3f0f7e5b95afbac30cd38ac63baa0a45d8a9e7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -39,3 +42,6 @@ Jogailos pasiuntinys Andreika, atvykęs pas Vytautą prašo nukelti iškilmes i�
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a286d552856ca292ba80ffdb3a3f0f7e5b95afbac30cd38ac63baa0a45d8a9e7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

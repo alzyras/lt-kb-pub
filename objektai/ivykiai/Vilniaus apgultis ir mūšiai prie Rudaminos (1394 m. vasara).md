@@ -46,12 +46,22 @@ Nenurodyta
   global_id: t-35895
   teiginys: '1394 m. vasaros žygyje į Lietuvos gilumą dalyvavo svečiai iš Vakarų Europos ir Burgundijos hercogas Pilypas su 200 šaulių.'
   sudarymo_pagrindimas: 'Teiginį reikėjo susieti su įvykio data ir padaryti konkretesnį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Pilypas|Pilypas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rittersverderis'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pilypas|Pilypas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rittersverderis'
   temporaliniai_duomenys: 'įvykio data: 1394 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginį reikėjo susieti su įvykio data ir padaryti konkretesnį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 153466-153916; hash=4efdfbb91868d8a4d782e6f647c536ed7e6eac4b1d23444112adfa0ad1e45857; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pilypas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Pilypas: mention_match, person, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)" parinktas kaip owner_note_path. Targetas "Pilypas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -72,3 +82,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 153466-153916; hash=4efdfbb91868d8a4d782e6f647c536ed7e6eac4b1d23444112adfa0ad1e45857; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pilypas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Pilypas: mention_match, person, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus apgultis ir mūšiai prie Rudaminos (1394 m. vasara)" parinktas kaip owner_note_path. Targetas "Pilypas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -25,6 +25,16 @@ Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus.
   susije_objektai: 'mentioned_place: Bidgoščius; mentioned_place: Lenkija; mentioned_place: Svecė; mentioned_place: Volynė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 651347-651577; hash=7c88544fbddb71b99332347472969da041ab9ba45c0663a33ba29109f53f33d9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bidgoščius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Radzejovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bidgoščius: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Radzejovas" parinktas kaip owner_note_path. Targetas "Bidgoščius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Bidgoščius: Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus, kur gavo žinią apie kryžiuočių artėjimą prie Svecės.
 - susijęs iš Lenčica: Jogaila Didžiosios Lenkijos kariams liepė rinktis į Lenčicą kovai su Prūsija.
 - susijęs iš Svecė: Prie Bidgoščiaus kariuomenė gavo žinią, kad kryžiuočių pulkai artėja prie Svecės.
@@ -45,3 +55,13 @@ Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 651347-651577; hash=7c88544fbddb71b99332347472969da041ab9ba45c0663a33ba29109f53f33d9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bidgoščius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Radzejovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bidgoščius: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Radzejovas" parinktas kaip owner_note_path. Targetas "Bidgoščius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

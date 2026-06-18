@@ -24,9 +24,19 @@ Pats miestas tiesiog visai sunai­ kintas, Kreivoji, arba Žemutinė, pilis, iš
   global_id: t-88425
   teiginys: 'Po kryžiuočių antpuolio Vilnius buvo smarkiai sunaikintas, o Kreivoji, arba Žemutinė, pilis sudeginta.'
   sudarymo_pagrindimas: 'Citata remia faktą apie miesto ir pilies sunaikinimą, bet pradinis tekstas užterštas išnašos fragmentu.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 281942-282518; hash=4b532b2ff8922fa69846720bf0aeed74f2bff85babf5e658187a694ad3eb6287; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Hlebovičiaus Vytauto gyvenimo aprašymas: owner_note_path, source
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=4
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hlebovičiaus Vytauto gyvenimo aprašymas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -52,3 +62,13 @@ Pats miestas tiesiog visai sunai­ kintas, Kreivoji, arba Žemutinė, pilis, iš
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 281942-282518; hash=4b532b2ff8922fa69846720bf0aeed74f2bff85babf5e658187a694ad3eb6287; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Hlebovičiaus Vytauto gyvenimo aprašymas: owner_note_path, source
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=4
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hlebovičiaus Vytauto gyvenimo aprašymas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

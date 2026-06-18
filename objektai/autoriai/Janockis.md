@@ -24,6 +24,16 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną sakinį apie Janockio vaidmenį ir klaidų taisymą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5677c014c352142286cc52420911e5cd8316bae630e0415403fafeae0b4527b7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lotynai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Janockis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lotynai: mention_match, group, gap=98
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Janockis" parinktas kaip owner_note_path. Targetas "Lotynai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-88068"></a>
 - t-002
@@ -33,12 +43,15 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f9cc95cfc385e7fe01074f33ba1df0856dd689e5b523328475e0f071daf69523; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+- susijęs iš Janociana: Janockis teigė, kad Augustas Rotundas Mieleskis Žygimanto Augusto nurodymu pradėjo lotyniškai rašyti Lietuvos istoriją.
 - susijęs iš [[objektai/asmenys/Kristupas Varševickis.md#claim-t-87760|Kristupas Varševickis]]: Kristupas Varševickis, jėzuitų rektorius, 1572 m. žiemą dalyvavo kapitulos susirinkime vyskupo rūmuose.
 - susijęs iš [[objektai/asmenys/Rotundas (Augustinas Milesijus Mieleskis).md#claim-t-87457|Rotundas (Augustinas Milesijus Mieleskis)]]: Augustinas Rotundas Mieleskis buvo kilęs iš bajorų, nes miesto aktuose prie jo pavardės rašyta „Nobilis“.
 - susijęs iš [[objektai/autoriai/Augustinas Mieleckis Rotundas.md#claim-t-87999|Augustinas Mieleckis Rotundas]]: Augustinas Mieleckis Rotundas buvo bajorų kilmės, nes miesto aktuose prie jo pavardės buvo pridedama „Nobilis“.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176093|Vilniaus kapitula]]: 1571 m. bado sukeltos epidemijos metu iš Vilniaus pasitraukė turtingiausi gyventojai, kapitula ir jėzuitai.
 - susijęs iš [[objektai/ivykiai/1571 m. badas ir epidemija Vilniuje.md#claim-t-86937|1571 m. badas ir epidemija Vilniuje]]: 1571 m. badas Vilniuje rudenį sukėlė epidemiją, per kurią mieste mirė daugiau kaip dvidešimt tūkstančių žmonių.
-- susijęs iš Janociana: Janockis teigė, kad Augustas Rotundas Mieleskis Žygimanto Augusto nurodymu pradėjo lotyniškai rašyti Lietuvos istoriją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -81,4 +94,17 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5677c014c352142286cc52420911e5cd8316bae630e0415403fafeae0b4527b7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lotynai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Janockis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lotynai: mention_match, group, gap=98
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Janockis" parinktas kaip owner_note_path. Targetas "Lotynai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f9cc95cfc385e7fe01074f33ba1df0856dd689e5b523328475e0f071daf69523; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

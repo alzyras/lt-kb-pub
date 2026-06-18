@@ -28,12 +28,22 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
   global_id: t-21342
   teiginys: '1917 m. Berno konferencijoje Alūkštos apskritį Kurše iki Dauguvos upės numatyta įtraukti į būsimos Lietuvos teritoriją.'
   sudarymo_pagrindimas: 'Pradinis teiginys per stipriai susiejo Alūkštą su reikalavimu; citata aiškiau remia įtraukimą į teritorijos sampratą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/posakiai/„Lithuania Propria“|„Lithuania Propria“]]; mentioned_place: Bernas; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Klaipėda; mentioned_place: Kuršas; mentioned_place: Liepoja; mentioned_place: Lietuva; mentioned_place: Slanimas; mentioned_place: Suvalkai; mentioned_place: Valkaviskas; mentioned_place: Viena; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/posakiai/„Lithuania Propria“|„Lithuania Propria“]]; mentioned_place: Bernas; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Klaipėda; mentioned_place: Liepoja; mentioned_place: Slanimas; mentioned_place: Suvalkai; mentioned_place: Valkaviskas; mentioned_place: Viena; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per stipriai susiejo Alūkštą su reikalavimu; citata aiškiau remia įtraukimą į teritorijos sampratą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b911b7b24a1758358d3f414a75e5b93052e7f5bf0e627914d37744c90f8a4cd2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dauguva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Alūkšta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alūkšta" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Jurgis Šaulys.md#claim-t-19033|Jurgis Šaulys]]: Jurgis Šaulys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/posakiai/„Lithuania Propria“.md#claim-t-67315|„Lithuania Propria“]]: 1917 m. Berno konferencijoje būsimos Lietuvos teritoriją siūlyta formuoti etnografiniu principu „Lithuania Propria“ ribose.
@@ -71,3 +81,13 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b911b7b24a1758358d3f414a75e5b93052e7f5bf0e627914d37744c90f8a4cd2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dauguva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Alūkšta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dauguva: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alūkšta" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -44,6 +44,9 @@ Nenurodyta
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 236736-236953; hash=7e8dd863d4cda804a41289e5a9d33b977ad8d3385084944db91f0b9e2c780961; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-62180"></a>
 - t-002
@@ -51,9 +54,19 @@ Nenurodyta
   teiginys: 'Žiokos valsčiuje gyvenęs prūsas Dargis nepakentė baltų žirgų, o Sembos fogtas Ditrichas mėgino jį atpratinti nuo šio prietaro.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Citata remia aiškų faktą, bet pirminis teiginys buvo per ilgas ir fragmentiškas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_person: [[objektai/asmenys/Dargis|Dargis]]; mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Semba; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/Dargis|Dargis]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9af1ce0d2d4fcf5dfa2ee2cfcf6f698a1a18855f2d8083fafee6f328c92b2117; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Semba: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žirgų plauko spalvos tabu iš pagarbos dievams: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žirgų plauko spalvos tabu iš pagarbos dievams" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -89,4 +102,17 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9af1ce0d2d4fcf5dfa2ee2cfcf6f698a1a18855f2d8083fafee6f328c92b2117; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Semba: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žirgų plauko spalvos tabu iš pagarbos dievams: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žirgų plauko spalvos tabu iš pagarbos dievams" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 236736-236953; hash=7e8dd863d4cda804a41289e5a9d33b977ad8d3385084944db91f0b9e2c780961; match=exact
+  sprendimo_priezastis: auto

@@ -34,6 +34,16 @@ Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdov�
   temporalinis_llm_pakomentavimas: 'Citata remia faktą apie popiežiaus laišką ir husitų atskalą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 711780-712417; hash=00b2bb243aedb8c712313380134908c2e1ccb6d024eaf5b911cf1a2d46db594e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Husitai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: atskala: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Husitai: mention_match, group, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "atskala" parinktas kaip owner_note_path. Targetas "Husitai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185348"></a>
 - t-002
@@ -46,6 +56,16 @@ Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdov�
   susije_objektai: 'mentioned_group: [[objektai/grupes/Liuteronai|Liuteronai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_place: Ryga'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1330505-1331201; hash=ffbbb4db9ed03d862c6535c2f8c4e1091e6275abda8dd3650e9b0f96ec950e0a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Augustas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: atskala: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=122
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "atskala" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Flekenšteinas.md#claim-t-60275|Flekenšteinas]]: Brolis Flekenšteinas iš Reino krašto į Brandenburgo pilį atgabeno Viešpaties kryžiaus atskalą.
 - susijęs iš [[objektai/asmenys/Gebhardas iš Manstfeldo.md#claim-t-60284|Gebhardas iš Manstfeldo]]: Brolis Gebhardas iš Manstfeldo įmetė Viešpaties kryžiaus atskalą į ugnį, iš kurios ji iššoko daugelio žmonių akyse.
 - susijęs iš [[objektai/asmenys/Hertvigas iš Pokarvių.md#claim-t-60329|Hertvigas iš Pokarvių]]: Hertvigas iš Pokarvių buvo Tomo, kuris 1322 m. Brandenburgo pilyje mirė ir atgijo per Viešpaties kryžiaus atskalą, tėvas.
@@ -115,4 +135,24 @@ Popiežius Martynas V laišku ragino Vytautą, kaip katalikiško krašto valdov�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 711780-712417; hash=00b2bb243aedb8c712313380134908c2e1ccb6d024eaf5b911cf1a2d46db594e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Husitai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: atskala: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Husitai: mention_match, group, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "atskala" parinktas kaip owner_note_path. Targetas "Husitai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1330505-1331201; hash=ffbbb4db9ed03d862c6535c2f8c4e1091e6275abda8dd3650e9b0f96ec950e0a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Augustas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: atskala: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=122
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "atskala" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

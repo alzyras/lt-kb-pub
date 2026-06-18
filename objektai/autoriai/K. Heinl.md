@@ -24,6 +24,9 @@ tags:
   teiginys: 'K. Heinlis teigė, kad Vytautui pasiekti savo tikslą buvo sunkiau negu jo pirmtakams.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9c6074ead0edcdc9bec01605ff5b8672014565af4f653edad4415d77cdb33b7d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-50875"></a>
 - t-002
@@ -32,8 +35,11 @@ tags:
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išplėstas kontekstas.'
   pagrindžia:
     - c-001
-- susijęs iš CEV: CEV 53 numeris nurodytas 18 puslapyje.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9c6074ead0edcdc9bec01605ff5b8672014565af4f653edad4415d77cdb33b7d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš K. Heinl, Fürst Witold von Litauen 1382-1401: K. Heinlio „Fürst Witold von Litauen 1382–1401“ 1925 m. buvo išleistas kaip 61 puslapio darbas.
+- susijęs iš CEV: CEV 53 numeris nurodytas 18 puslapyje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,4 +58,10 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9c6074ead0edcdc9bec01605ff5b8672014565af4f653edad4415d77cdb33b7d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9c6074ead0edcdc9bec01605ff5b8672014565af4f653edad4415d77cdb33b7d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

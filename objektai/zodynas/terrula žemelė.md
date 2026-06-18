@@ -40,6 +40,16 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia termino reikšmę, o pradinė formuluotė buvo negramatiška ir perteklinė.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 178230-178492; hash=dd5c2a815eb385607668323692392c2d1b8b4aea329f6dfc2d987068afdff828; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Semba: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: terrula žemelė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=75
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "terrula žemelė" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58877"></a>
 - t-002
@@ -52,6 +62,16 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai remiasi citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 178814-179851; hash=910ec18d954b4256e15c18e0566076b2b776f2a40697201f4e22947cb222f908; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: terrula žemelė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "terrula žemelė" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -90,4 +110,24 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 178230-178492; hash=dd5c2a815eb385607668323692392c2d1b8b4aea329f6dfc2d987068afdff828; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Semba: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: terrula žemelė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=75
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "terrula žemelė" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 178814-179851; hash=910ec18d954b4256e15c18e0566076b2b776f2a40697201f4e22947cb222f908; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: terrula žemelė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "terrula žemelė" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -28,6 +28,17 @@ Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, š
   semantiniai_rysiai: '[[objektai/asmenys/Henrikas (Jeruzalės karalius)|Henrikas (Jeruzalės karalius)]] buvo valdovas Jeruzalė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d887f1e43b930e90277dbb06614b87d8e98bbb7872c9e40d1d2c8ba001db7b4a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Jeruzalė: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Henrikas (Jeruzalės karalius): owner_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Jeruzalė: exact_title_context, place, gap=10
+  ryšio_slopinti_kandidatai: Austrija: candidate; Reinas: candidate; Saksonija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Henrikas (Jeruzalės karalius)" parinktas kaip owner_after_title. Targetas "Jeruzalė" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Austrija.md", "selected": false, "strategy": "candidate", "title": "Austrija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Reinas.md", "selected": false, "strategy": "candidate", "title": "Reinas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Saksonija.md", "selected": false, "strategy": "candidate", "title": "Saksonija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -65,6 +76,17 @@ Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, š
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d887f1e43b930e90277dbb06614b87d8e98bbb7872c9e40d1d2c8ba001db7b4a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Jeruzalė: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Henrikas (Jeruzalės karalius): owner_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Jeruzalė: exact_title_context, place, gap=10
+  ryšio_slopinti_kandidatai: Austrija: candidate; Reinas: candidate; Saksonija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Henrikas (Jeruzalės karalius)" parinktas kaip owner_after_title. Targetas "Jeruzalė" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Austrija.md", "selected": false, "strategy": "candidate", "title": "Austrija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Reinas.md", "selected": false, "strategy": "candidate", "title": "Reinas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Saksonija.md", "selected": false, "strategy": "candidate", "title": "Saksonija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 ## Ryšiai
 - Henrikas (Jeruzalės karalius) buvo_valdovas [[objektai/vietos/Jeruzalė]]

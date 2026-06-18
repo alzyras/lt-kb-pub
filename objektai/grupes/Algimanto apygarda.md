@@ -49,6 +49,16 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata apie 1949 m. įvykius.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1013097-1013802; hash=29a9f329219cbdddc25eca140ea15d298c3d01d247f3fc16e683905a6a7527ba; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Šimonių girios apgultis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Algimanto apygarda: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Šimonių girios apgultis: mention_match, event, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algimanto apygarda" parinktas kaip owner_note_path. Targetas "Šimonių girios apgultis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Kunigaikščio Margio rinktinė.md#claim-t-40958|Kunigaikščio Margio rinktinė]]: 1950 m. lapkričio 25 d. likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.
 - susijęs iš [[objektai/grupes/Tumo Vaižganto rinktinė.md#claim-t-41183|Tumo Vaižganto rinktinė]]: 1950 m. lapkričio 25 d. Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę.
 - susijęs iš [[objektai/grupes/Vytauto apygarda.md#claim-t-41200|Vytauto apygarda]]: 1950 m. lapkričio 25 d. panaikinus Algimanto apygardą, Šarūno ir Kunigaikščio Margio rinktinių kovotojai įtraukti į Vytauto apygardą.
@@ -118,4 +128,14 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1013097-1013802; hash=29a9f329219cbdddc25eca140ea15d298c3d01d247f3fc16e683905a6a7527ba; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Šimonių girios apgultis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Algimanto apygarda: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Šimonių girios apgultis: mention_match, event, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Algimanto apygarda" parinktas kaip owner_note_path. Targetas "Šimonių girios apgultis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001

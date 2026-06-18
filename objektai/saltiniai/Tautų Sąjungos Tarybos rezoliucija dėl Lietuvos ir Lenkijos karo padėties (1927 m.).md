@@ -24,7 +24,7 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
   global_id: t-75523
   teiginys: 'Tautų Sąjungos Taryba rezoliucija patvirtino, kad karo padėties tarp Lietuvos ir Lenkijos nėra.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citatoje aprašyta rezoliucija.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Ženeva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Kaunas; mentioned_place: Ženeva'
   pagrindžia:
     - c-001
 

@@ -49,6 +49,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Bychovco kronikos rankraštis|Bychovco kronikos rankraštis]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=01436f0dcd80c2f4b326c470d8effc6b7243c1bd370c47c151babc354bf48e3f; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: nuorašas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "nuorašas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-186921"></a>
 - t-002
@@ -59,6 +69,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/sąvadas|sąvadas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=01436f0dcd80c2f4b326c470d8effc6b7243c1bd370c47c151babc354bf48e3f; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: nuorašas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "nuorašas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-186922"></a>
 - t-003
@@ -69,6 +89,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/sąvadas|sąvadas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3bf3cdf966a518c9a9626705fe08ac1fbf35ea93be26ee3c4c116321a5f233a9; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Bychovco kronikos rankraštis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: nuorašas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bychovco kronikos rankraštis: mention_match, thing, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "nuorašas" parinktas kaip owner_note_path. Targetas "Bychovco kronikos rankraštis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-187524"></a>
 - t-004
@@ -81,11 +111,29 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/sąvadas|sąvadas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=01436f0dcd80c2f4b326c470d8effc6b7243c1bd370c47c151babc354bf48e3f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: nuorašas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "nuorašas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Fridrichas fon Vildenbergas.md#claim-t-87502|Fridrichas fon Vildenbergas]]: 1324 m. Mevėje magistras Fridrichas fon Vildenbergas liepė parengti mažesniųjų brolių laiško nuorašą.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176371|Gediminas]]: Gedimino misija popiežiui žodžiu pranešė apie jo ryžtą pereiti į naują tikėjimą ir prašė siųsti tikėjimo mokytojų.
-- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89835|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Leidėjai jį priskyrė Hermanui iš Zalcos111.
 - susijęs iš [[objektai/asmenys/Jonas Chodkevičius.md#claim-t-63716|Jonas Chodkevičius]]: XVI a. antrojoje pusėje Jonas Chodkevičius Roneburgo pilies bažnyčioje rado Petro iš Dusburgo kronikos nuorašą ir perdavė jį Augustinui Rotundui.
 - susijęs iš [[objektai/asmenys/Jordanas iš Pelplino.md#claim-t-87529|Jordanas iš Pelplino]]: Pelplino abatas Jordanas 1324 m. dalyvavo rengiant Mažesniųjų brolių laiško nuorašą.
+- susijęs iš 1323 m. Vilniaus sutartis: Sutartis buvo sudaryta Vilniuje 1323 m., jos nuorašas iš vokiečių kalbos išverstas į lotynų kalbą ir pateiktas popiežiui.
+- susijęs iš 1323 m. Vilniaus sutartis: 1323 m. Vilniuje sudarytos sutarties nuorašą, išverstą iš lotynų į vokiečių kalbą, Rygos pasiuntiniai įteikė popiežiui.
+- susijęs iš 1323 m. Vilniaus taikos sutartis: 1323 m. pirmąją savaitę po Šv. Mykolo Vilniuje sudarytos taikos sutarties nuorašas buvo įteiktas popiežiui.
+- susijęs iš Pranešimas apie Prūsijos užkariavimą: „Pranešimo apie Prūsijos užkariavimą“ XVI a. nuorašas aptiktas Ordino archyve Vienoje.
+- susijęs iš Roneburgo pilies bažnyčios Dusburgiečio kronikos nuorašas: Petro iš Dusburgo kronikos nuorašas buvo Livonijoje, Roneburgo pilies bažnyčioje, kur jį XVI a. antroje pusėje rado Jonas Chodkevičius.
+- susijęs iš Torunės magistrato bibliotekos Dusburgiečio kronikos nuorašas: Torunės magistrato bibliotekos XVII a. Dusburgiečio kronikos nuorašas padarytas iš Karaliaučiaus bibliotekos teksto.
+- susijęs iš Torunė: XVII a. Torunės magistrato bibliotekos nuorašas buvo padarytas iš Karaliaučiaus bibliotekos teksto.
+- susijęs iš Vilnius: Popiežiui buvo įteiktas 1323 m. Vilniuje sudarytos sutarties nuorašas, išverstas iš vokiečių į lotynų kalbą.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176371|Gediminas]]: Gedimino misija popiežiui žodžiu pranešė apie jo ryžtą pereiti į naują tikėjimą ir prašė siųsti tikėjimo mokytojų.
+- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89835|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Leidėjai jį priskyrė Hermanui iš Zalcos111.
 - susijęs iš [[objektai/autoriai/Danilavičius.md#claim-t-35432|Danilavičius]]: Danilavičius ir Koneczny šią sutartį laikė falsifikatu, nors Prochaska ją priėmė kaip autentišką.
 - susijęs iš [[objektai/autoriai/Koneczny.md#claim-t-35455|Koneczny]]: Koneczny kartu su Danilavičiumi tą dokumentą laikė falsifikatu, nors Prochaska jį priėmė kaip autentišką.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179030|Kryžiuočių ordinas]]: Rygos pasiuntiniai popiežiui pranešė, kad Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką.
@@ -98,20 +146,12 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą.md#claim-t-113465|Gedimino kvietimas Vakarų pirkliams, amatininkams ir kolonistams į Lietuvą]]: Gediminas kvietė į Lietuvą pirklius, amatininkus ir įvairių amatų žmones su šeimomis, žadėdamas laisvą atvykimą ir išvykimą.
 - susijęs iš [[objektai/paprociai/Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas.md#claim-t-87254|Taikos derybų tarpininkavimas per pasiuntinius, dvasininkus, miestus ir daugiašales misijas]]: Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką.
 - susijęs iš [[objektai/posakiai/Sigillum Vitowdi ducis in Tracken.md#claim-t-35981|Sigillum Vitowdi ducis in Tracken]]: Vėlesniame akto nuoraše įrašas „Sigillum Vitowdi ducis in Tracken“ nurodė Vytauto, Trakų kunigaikščio, antspaudą.
-- susijęs iš 1323 m. Vilniaus sutartis: Sutartis buvo sudaryta Vilniuje 1323 m., jos nuorašas iš vokiečių kalbos išverstas į lotynų kalbą ir pateiktas popiežiui.
-- susijęs iš 1323 m. Vilniaus sutartis: 1323 m. Vilniuje sudarytos sutarties nuorašą, išverstą iš lotynų į vokiečių kalbą, Rygos pasiuntiniai įteikė popiežiui.
-- susijęs iš 1323 m. Vilniaus taikos sutartis: 1323 m. pirmąją savaitę po Šv. Mykolo Vilniuje sudarytos taikos sutarties nuorašas buvo įteiktas popiežiui.
 - susijęs iš 1383 m. Jogailos laiškas didžiajam magistrui: 1383 m. pradžioje Vilniuje datuotame laiške Jogaila didžiajam magistrui priekaištavo dėl Ordino poelgių jo atžvilgiu.
 - susijęs iš Kiekvienas Lietuvos kariuomenės raidos etapas svarbus ir reikšmingas: 2010 m. žurnale „Krašto apsauga“ paskelbtas tekstas „Kiekvienas Lietuvos kariuomenės raidos etapas svarbus ir reikšmingas“.
-- susijęs iš Pranešimas apie Prūsijos užkariavimą: „Pranešimo apie Prūsijos užkariavimą“ XVI a. nuorašas aptiktas Ordino archyve Vienoje.
-- susijęs iš Roneburgo pilies bažnyčios Dusburgiečio kronikos nuorašas: Petro iš Dusburgo kronikos nuorašas buvo Livonijoje, Roneburgo pilies bažnyčioje, kur jį XVI a. antroje pusėje rado Jonas Chodkevičius.
-- susijęs iš Torunės magistrato bibliotekos Dusburgiečio kronikos nuorašas: Torunės magistrato bibliotekos XVII a. Dusburgiečio kronikos nuorašas padarytas iš Karaliaučiaus bibliotekos teksto.
 - susijęs iš Livonija: Petro iš Dusburgo kronikos nuorašas buvo Livonijos Roneburgo pilies bažnyčioje.
 - susijęs iš Marienburgas: Ordino dokumentų nuorašas į Marienburgą galėjo patekti defektuotas ir nepilnas.
 - susijęs iš Pelplinas: 1324 m. Mevėje parengiant Mažesniųjų brolių laiško nuorašą dalyvavo Pelplino abatas Jordanas.
 - susijęs iš Roneburgas: Petro iš Dusburgo kronikos nuorašas buvo Livonijoje, Roneburgo pilies bažnyčioje.
-- susijęs iš Torunė: XVII a. Torunės magistrato bibliotekos nuorašas buvo padarytas iš Karaliaučiaus bibliotekos teksto.
-- susijęs iš Vilnius: Popiežiui buvo įteiktas 1323 m. Vilniuje sudarytos sutarties nuorašas, išverstas iš vokiečių į lotynų kalbą.
 - susijęs iš Vilnius: XVI a. antrojoje pusėje Jonas Chodkevičius Petro Dusburgiečio kroniką perdavė Vilniaus vaitui Augustinui Rotundui.
 - susijęs iš Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.
 - susijęs iš Vingrių šaltiniai: Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.
@@ -140,7 +180,27 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3bf3cdf966a518c9a9626705fe08ac1fbf35ea93be26ee3c4c116321a5f233a9; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Bychovco kronikos rankraštis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: nuorašas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bychovco kronikos rankraštis: mention_match, thing, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "nuorašas" parinktas kaip owner_note_path. Targetas "Bychovco kronikos rankraštis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=01436f0dcd80c2f4b326c470d8effc6b7243c1bd370c47c151babc354bf48e3f; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: nuorašas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "nuorašas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
 
 - c-002
@@ -160,4 +220,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=01436f0dcd80c2f4b326c470d8effc6b7243c1bd370c47c151babc354bf48e3f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: nuorašas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "nuorašas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=01436f0dcd80c2f4b326c470d8effc6b7243c1bd370c47c151babc354bf48e3f; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: nuorašas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "nuorašas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

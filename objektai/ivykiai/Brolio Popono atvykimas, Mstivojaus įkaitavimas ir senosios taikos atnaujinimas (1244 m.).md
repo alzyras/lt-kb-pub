@@ -47,12 +47,22 @@ Nenurodyta
   teiginys: '1244 m. atvykus magistrui Poponui ir pagalbai iš Vokietijos bei Austrijos, Sventopelkas pabandė susitaikyti su broliais ir senoji taika buvo atnaujinta.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra rišlus, enciklopedinis ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Austrija; mentioned_place: Krokuva; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Santyras; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Austrija; mentioned_place: Vokietija; mentioned_place: Krokuva; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Santyras'
   temporaliniai_duomenys: 'įvykio data: 1244 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra rišlus, enciklopedinis ir paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 302471-303672; hash=ccbe25a64c18ce1b09b4e1bc9cf5cf4e237a5cd7f7639b3997946bccec691998; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Austrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brolio Popono atvykimas, Mstivojaus įkaitavimas ir senosios taikos atnaujinimas (1244 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brolio Popono atvykimas, Mstivojaus įkaitavimas ir senosios taikos atnaujinimas (1244 m.)" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -82,3 +92,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 302471-303672; hash=ccbe25a64c18ce1b09b4e1bc9cf5cf4e237a5cd7f7639b3997946bccec691998; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Austrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brolio Popono atvykimas, Mstivojaus įkaitavimas ir senosios taikos atnaujinimas (1244 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brolio Popono atvykimas, Mstivojaus įkaitavimas ir senosios taikos atnaujinimas (1244 m.)" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

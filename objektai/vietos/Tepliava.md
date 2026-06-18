@@ -34,6 +34,16 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   sudarymo_pagrindimas: 'Citata pagrindžia veiksmą Tepliavos valsčiuje ir jo rezultatą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e813d9b83678b2d41d33631e2d69a2a0c57ff61725c919e8ea67c37199719419; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kroicburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tepliava: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kroicburgas: mention_match, place, gap=74
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tepliava" parinktas kaip owner_note_path. Targetas "Kroicburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58404"></a>
 - t-002
@@ -46,6 +56,9 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citata apie Tepliavos vietą bei Ordino pilį.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=de330370cc697fa3fdd10e5b394041f1b1fe1d6b3ef7aa30eacb54a7cc3ca7df; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-58405"></a>
 - t-003
@@ -58,47 +71,67 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia datą ir prūsišką Tepliavos pilies pavadinimą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 350559-350932; hash=3cfeab1a18544cb6f80595a6b9d35b56524e4329299dbe60f3fdc14f72e17e73; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Deimena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tepliava: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Deimena: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tepliava" parinktas kaip owner_note_path. Targetas "Deimena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58406"></a>
 - t-004
   global_id: t-58406
   teiginys: 'Petro Dusburgiečio kronikoje Tepliavos pilies pastatymas minimas ne chronologine tvarka, prieš 1263 m. Kroicburgo įvykį.'
   sudarymo_pagrindimas: 'Citata pagrindžia teiginį apie kronikos dėstymo tvarką ir Tepliavos pilies paminėjimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kroicburgas; mentioned_place: Lochštetė; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Kroicburgas; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Lochštetė; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'pastatymo data: 1263 m.; pastatymo data: 1265 m.; pastatymo data: 1270 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia teiginį apie kronikos dėstymo tvarką ir Tepliavos pilies paminėjimą.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 401282-401670; hash=dfaf930cf29fd6b86cf4a73e7358b4c82198c2221a16cd05909d95eeb09d3d94; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pilys: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tepliava: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pilys: mention_match, thing, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tepliava" parinktas kaip owner_note_path. Targetas "Pilys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Ulrichas Bajeris.md#claim-t-60070|Ulrichas Bajeris]]: Ulrichas Bajeris, Tepliavos komtūras, žuvo mūšyje, kuriame taip pat krito keturi vyrai, o Liudvikas iš Libencelės pateko į nelaisvę.
+- susijęs iš [[objektai/asmenys/Ulrichas Bajeris.md#claim-t-60072|Ulrichas Bajeris]]: Ulrichas Bajeris, Tepliavos komtūras, su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, žudė ir ėmė belaisvius.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175098|Sembai]]: Po antrosios atskalūnybės Sembos žemėje pastatytos Tepliavos ir Viklandsorto pilys buvo sustiprintos sembams tramdyti.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-183895|Sembai]]: Po antrosios atskalūnybės Sembos žemėje pastatytos Tepliavos ir Viklandsorto pilys buvo sustiprintos sembams tramdyti.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175122|Sūduviai-jotvingiai]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą.
+- susijęs iš [[objektai/ivykiai/Tepliavos ir Lochštetės pilių pastatymas bei pasitraukimas iš Kroicburgo (1263-1270 m.).md#claim-t-62501|Tepliavos ir Lochštetės pilių pastatymas bei pasitraukimas iš Kroicburgo (1263-1270 m.)]]: Petro Dusburgiečio kronikoje Tepliavos ir Lochštetės pilių pastatymas aprašytas prieš pasitraukimą iš Kroicburgo, nors šis datuojamas 1263 m.
+- susijęs iš [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija.md#claim-t-67237|Įkaitų davimas kaip sutarties garantija (sutartis)]]: Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčių žmonės atidavė karaliui savo sūnus įkaitais ir prisiekė paklusti tikėjimui bei broliams.
+- susijęs iš Kaimas: Karalius atžygiavo į Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčius, kurių dalis gyventojų jam atidavė įkaitus.
+- susijęs iš Kvedenava: Karaliui atžygiavus į Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčius, kai kurie gyventojai atidavė jam sūnus įkaitais.
+- susijęs iš Valdava: Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčiuose kai kurie gyventojai atidavė karaliui įkaitais savo sūnus ir prisiekė paklusti tikėjimui bei broliams.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173131|Dovydas (Gardino pilininkas)]]: Gardino pilininkas Dovydas su 800 vyrų surengė žygį ir su 80 vyrų įsibrovė į Prūsijos Unzatrapio valsčių.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173137|Dovydas (Gardino pilininkas)]]: Dovydas, Gardino pilininkas, su 800 vyrų įsibrovė į Unzatrapį, sudegino kelis namus ir išsivarė belaisvių bei grobio.
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-184065|Fridrichas Kvicas]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo iš Gardino vyrus, nukovė 55 lietuvius ir atsiėmė jų grobį.
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59958|Fridrichas Kvicas]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo iš Gardino vyrus, nukovė 55 lietuvius ir atsiėmė jų grobį.
 - susijęs iš [[objektai/asmenys/Girdavas.md#claim-t-60291|Girdavas]]: Girdavas rėmė tikėjimą bei tikinčiuosius ir Bartos žemėje turėjo nuo jo vardo pavadintą Girdavų pilį.
 - susijęs iš [[objektai/asmenys/Laukstetas.md#claim-t-60374|Laukstetas]]: Laukstetų pilies vardas kildinamas iš ten gyvenusio sembo, vadinamo Laukstetu, vardo.
-- susijęs iš [[objektai/asmenys/Ulrichas Bajeris.md#claim-t-60070|Ulrichas Bajeris]]: Ulrichas Bajeris, Tepliavos komtūras, žuvo mūšyje, kuriame taip pat krito keturi vyrai, o Liudvikas iš Libencelės pateko į nelaisvę.
-- susijęs iš [[objektai/asmenys/Ulrichas Bajeris.md#claim-t-60072|Ulrichas Bajeris]]: Ulrichas Bajeris, Tepliavos komtūras, su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, žudė ir ėmė belaisvius.
 - susijęs iš [[objektai/asmenys/Ulrichas iš Drinlevės.md#claim-t-184135|Ulrichas iš Drinlevės]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo karius, nukovė 55 lietuvius ir atsiėmė visą grobį.
 - susijęs iš [[objektai/asmenys/Ulrichas iš Drinlevės.md#claim-t-60450|Ulrichas iš Drinlevės]]: 1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo karius, nukovė 55 lietuvius ir atsiėmė visą grobį.
 - susijęs iš [[objektai/autoriai/Grieser R.md#claim-t-60708|Grieser R]]: R. Grieseris aiškino, kad žodis dažnai apibūdina gyvenvietę iki miesto privilegijos suteikimo.
 - susijęs iš [[objektai/grupes/Rendaliai.md#claim-t-63207|Rendaliai]]: Rendaliais vadinti Girdavo palikuonys; Girdavas Bartos žemėje turėjo jo vardu pavadintą Girdavų pilį.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175093|Sembai]]: Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčių sembai davė karaliui įkaitus ir prisiekė paklusti tikėjimui bei broliams.
-- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175098|Sembai]]: Po antrosios atskalūnybės Sembos žemėje pastatytos Tepliavos ir Viklandsorto pilys buvo sustiprintos sembams tramdyti.
-- susijęs iš [[objektai/grupes/Sembai.md#claim-t-183895|Sembai]]: Po antrosios atskalūnybės Sembos žemėje pastatytos Tepliavos ir Viklandsorto pilys buvo sustiprintos sembams tramdyti.
-- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175122|Sūduviai-jotvingiai]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89239|Sūduviai]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą.
 - susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-66638|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų.
-- susijęs iš [[objektai/ivykiai/Tepliavos ir Lochštetės pilių pastatymas bei pasitraukimas iš Kroicburgo (1263-1270 m.).md#claim-t-62501|Tepliavos ir Lochštetės pilių pastatymas bei pasitraukimas iš Kroicburgo (1263-1270 m.)]]: Petro Dusburgiečio kronikoje Tepliavos ir Lochštetės pilių pastatymas aprašytas prieš pasitraukimą iš Kroicburgo, nors šis datuojamas 1263 m.
 - susijęs iš [[objektai/ivykiai/Ulricho Bajerio žygis į Sūduvą.md#claim-t-62515|Ulricho Bajerio žygis į Sūduvą]]: Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino, grobė, paėmė ir nužudė 150 žmonių.
-- susijęs iš [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija.md#claim-t-67237|Įkaitų davimas kaip sutarties garantija (sutartis)]]: Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčių žmonės atidavė karaliui savo sūnus įkaitais ir prisiekė paklusti tikėjimui bei broliams.
 - susijęs iš Girdavai: Girdavas Bartos žemėje turėjo pilį, nuo jo vardo pavadintą Girdavais.
-- susijęs iš Kaimas: Karalius atžygiavo į Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčius, kurių dalis gyventojų jam atidavė įkaitus.
 - susijęs iš Kroicburgas: Kronikoje brolių pasitraukimas iš Kroicburgo datuojamas 1263 m., nors šis įvykis aprašomas po vėlesnių pilių statybos epizodų.
 - susijęs iš Kroicburgas: Petro Dusburgiečio kronikoje brolių pasitraukimas iš Kroicburgo datuojamas 1263 m., nors aprašomas po vėlesnių įvykių.
-- susijęs iš Kvedenava: Karaliui atžygiavus į Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčius, kai kurie gyventojai atidavė jam sūnus įkaitais.
 - susijęs iš Lochštetė: Analų duomenimis, Lochštetės pilis pastatyta 1270 m., nors Petro Dusburgiečio kronikoje jos statyba aprašyta nedatuojant.
 - susijęs iš Lochštetė: Viklandsorto pilis vėliau buvo vadinama Lochštete pagal ten gyvenusio sembo Lauksteto vardą.
-- susijęs iš Valdava: Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčiuose kai kurie gyventojai atidavė karaliui įkaitais savo sūnus ir prisiekė paklusti tikėjimui bei broliams.
 - susijęs iš [[objektai/zodynas/liscis lizkis Lisske.md#claim-t-58946|liscis lizkis Lisske]]: Privilegijos dokumente prie Torunės minima prūsiška Lisske (pr.
 - susijęs iš [[objektai/zodynas/liscis lizkis.md#claim-t-58945|liscis lizkis]]: Liscis, lizkis ‘stovykla, apsistojimo vieta’, iš pr.
 ## Reikšmingi paminėjimai
@@ -138,7 +171,27 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e813d9b83678b2d41d33631e2d69a2a0c57ff61725c919e8ea67c37199719419; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kroicburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tepliava: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kroicburgas: mention_match, place, gap=74
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tepliava" parinktas kaip owner_note_path. Targetas "Kroicburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 350559-350932; hash=3cfeab1a18544cb6f80595a6b9d35b56524e4329299dbe60f3fdc14f72e17e73; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Deimena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tepliava: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Deimena: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tepliava" parinktas kaip owner_note_path. Targetas "Deimena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-003
@@ -154,6 +207,16 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 401282-401670; hash=dfaf930cf29fd6b86cf4a73e7358b4c82198c2221a16cd05909d95eeb09d3d94; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pilys: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tepliava: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pilys: mention_match, thing, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tepliava" parinktas kaip owner_note_path. Targetas "Pilys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-004
@@ -169,4 +232,17 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 401282-401670; hash=dfaf930cf29fd6b86cf4a73e7358b4c82198c2221a16cd05909d95eeb09d3d94; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pilys: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tepliava: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pilys: mention_match, thing, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tepliava" parinktas kaip owner_note_path. Targetas "Pilys" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=de330370cc697fa3fdd10e5b394041f1b1fe1d6b3ef7aa30eacb54a7cc3ca7df; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

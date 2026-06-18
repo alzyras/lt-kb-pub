@@ -32,13 +32,23 @@ Dusburgietis teigia, kad mat popiežius pasakė, kad ir pasaulietiški, ir dvasi
   susije_objektai: 'mentioned_place: Paryžius; mentioned_place: Prancūzija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 733186-733970; hash=1a6926aa977aca430ad5969abcd29d50cb0a549681fb2e22847dc5d0f787fb4d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Paryžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: reskriptas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Paryžius: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "reskriptas" parinktas kaip owner_note_path. Targetas "Paryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/zodynas/bulė.md#claim-t-58897|bulė]]: Popiežius Bonifacas pasiuntė Prancūzijos karaliui Pilypui priklausomybės reskriptą su bule.
 - susijęs iš [[objektai/asmenys/Bonifacas VIII.md#claim-t-59900|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]: Bonifaco VIII ir Prancūzijos karaliaus Pilypo nesantarvė prasidėjo dėl popiežiaus pretenzijų į Prancūzijos reikalų pavaldumą Apaštalų sostui.
 - susijęs iš [[objektai/asmenys/Pilypas (Prancūzijos karalius).md#claim-t-60412|Pilypas (Prancūzijos karalius)]]: Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė.
 - susijęs iš [[objektai/ivykiai/Bonifaco VIII ir Pilypo IV nesantarvė bei bulės sudeginimas Paryžiuje (1302 m.).md#claim-t-62211|Bonifaco VIII ir Pilypo IV nesantarvė bei bulės sudeginimas Paryžiuje (1302 m.)]]: 1302 m. prasidėjo popiežiaus Bonifaco VIII ir Prancūzijos karaliaus Pilypo IV nesantarvė dėl Prancūzijos pavaldumo apaštališkajam sostui.
 - susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo nesantarvė kilo dėl popiežiaus teiginio apie Prancūzijos reikalų pavaldumą apaštališkajam sostui.
 - susijęs iš Ptolomėjaus iš Lukos Analai: Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė dėl Prancūzijos karalystės pavaldumo apaštališkajam sostui.
 - susijęs iš Paryžius: Popiežiaus priklausomybės reskriptas buvo perskaitytas ir sudegintas Paryžiaus karaliaus rūmuose dvasininkų bei pasauliečių akivaizdoje.
-- susijęs iš [[objektai/zodynas/bulė.md#claim-t-58897|bulė]]: Popiežius Bonifacas pasiuntė Prancūzijos karaliui Pilypui priklausomybės reskriptą su bule.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,3 +70,13 @@ Dusburgietis teigia, kad mat popiežius pasakė, kad ir pasaulietiški, ir dvasi
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 733186-733970; hash=1a6926aa977aca430ad5969abcd29d50cb0a549681fb2e22847dc5d0f787fb4d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Paryžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: reskriptas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Paryžius: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "reskriptas" parinktas kaip owner_note_path. Targetas "Paryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

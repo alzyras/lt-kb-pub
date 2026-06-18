@@ -23,9 +23,19 @@ Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvyk
   global_id: t-60409
   teiginys: 'Varmių vadas Pijopas sutelkė kariuomenę ir apsiautė Baigos pilį, bet prie pilies buvo pervertas strėle ir žuvo.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų veiksmą ir rezultatą; pašalintas antraštės triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_place: Baiga'
+  susije_objektai: 'mentioned_place: Baiga; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b180a7ee5db829664288c5b5305474a2d2e840cbddbae14a2bf6c5336f5bbff8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baiga: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pijopas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pijopas" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78539|Varmiai]]: Varmių vadas Pijopas su savo kariuomene apsiautė Baigos pilį, bet prie pilies buvo pervertas brolio strėle ir žuvo.
 - susijęs iš [[objektai/ivykiai/Baigos pilies apgula ir Pijopo žūtis.md#claim-t-62202|Baigos pilies apgula ir Pijopo žūtis (pilis)]]: Varmių vadas Pijopas su kariuomene apsiautė Baigos pilį, bet priartėjęs prie jos buvo pervertas brolio strėle ir žuvo.
 - susijęs iš Baiga: Varmių vadas Pijopas apsiautė Baigos pilį, bet žuvo prie jos pervertas vieno brolio strėle.
@@ -52,3 +62,13 @@ Dusburgietis teigia, kad apie Baigos pilies apgulą Kai žinia apie šiuos įvyk
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b180a7ee5db829664288c5b5305474a2d2e840cbddbae14a2bf6c5336f5bbff8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baiga: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pijopas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pijopas" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

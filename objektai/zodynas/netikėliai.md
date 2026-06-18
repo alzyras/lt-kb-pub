@@ -34,6 +34,16 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=486a7dc92841e4a0b4488b89c9597bb011d8255b1fc7d92ffdf53f8518f0bb17; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drabužiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: netikėliai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Drabužiai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "netikėliai" parinktas kaip owner_note_path. Targetas "Drabužiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-70247"></a>
 - t-002
@@ -42,9 +52,20 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=486a7dc92841e4a0b4488b89c9597bb011d8255b1fc7d92ffdf53f8518f0bb17; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drabužiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: netikėliai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Drabužiai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "netikėliai" parinktas kaip owner_note_path. Targetas "Drabužiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Ernestas (Livonijos žemės magistras).md#claim-t-89708|Ernestas (Livonijos žemės magistras)]]: Livonijos žemės magistrą Ernestą nukovė netikėliai prieš Konrado iš Foichtvangeno paskyrimą 1279 m.
+- susijęs iš [[objektai/posakiai/Ar ilgai, viešpatie, rūstausi.md#claim-t-59076|Ar ilgai, viešpatie, rūstausi]]: Po posakio „Ar ilgai, viešpatie, rūstausi?“ prašoma parodyti rūstį netikėliams ir neleisti jiems klausti, kur yra krikščionių Dievas.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59876|Bertoldas, vadinamas Briuhavenu]]: Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti statybai, o vėliau sudegino Medrabos pilį.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Ezbeko.md#claim-t-60107|Ditrichas iš Ezbeko]]: Ditrichas iš Ezbeko žuvo laivų mūšyje, kuriame lietuviai neteko 70 prityrusių karių.
-- susijęs iš [[objektai/asmenys/Ernestas (Livonijos žemės magistras).md#claim-t-89708|Ernestas (Livonijos žemės magistras)]]: Livonijos žemės magistrą Ernestą nukovė netikėliai prieš Konrado iš Foichtvangeno paskyrimą 1279 m.
 - susijęs iš [[objektai/asmenys/Heinmanas, vardu Kindas.md#claim-t-60304|Heinmanas, vardu Kindas]]: Prie Junigedos pilies seklumoje įstrigus laivams, buvo nukautas brolis Heinmanas, vadintas Kindu.
 - susijęs iš [[objektai/asmenys/Henrikas Tupadelis.md#claim-t-60138|Henrikas Tupadelis]]: Henrikas Tupadelis, vėliau tapęs Teutonų ordino broliu, ragino apsuptuosius gintis ir gesino piliai padegti pakištus degalus.
 - susijęs iš [[objektai/asmenys/Jonas, vadinamas Pope.md#claim-t-184096|Jonas, vadinamas Pope]]: 1315 m. per lietuvių iš Žemaitijos Ragainės pilies užpuolimą buvo nukautas brolis Jonas, vadinamas Pope.
@@ -74,7 +95,6 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 - susijęs iš [[objektai/ivykiai/Vėluvos pilies apsiaustis ir apgulties nutraukimas.md#claim-t-62956|Vėluvos pilies apsiaustis ir apgulties nutraukimas (pilis)]]: Henrikas Tupadelis ragino Vėluvos pilies gynėjus priešintis ir daug kartų padėjo gesinti piliai padegti pakištus degalus.
 - susijęs iš [[objektai/paprociai/Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui.md#claim-t-62709|Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui]]: Po pergalės trečdalis kovoje laimėto grobio buvo atiduodamas kriviui, kuris tą dalį sudegindavo kaip padėkos auką dievams.
 - susijęs iš [[objektai/paprociai/Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui.md#claim-t-62710|Pergalės grobio aukojimas dievams ir trečdalio skyrimas kriviui]]: Po pergalės prūsai aukodavo dievams padėkos auką iš karo grobio, o trečdalį grobio atiduodavo kriviui sudeginti.
-- susijęs iš [[objektai/posakiai/Ar ilgai, viešpatie, rūstausi.md#claim-t-59076|Ar ilgai, viešpatie, rūstausi]]: Po posakio „Ar ilgai, viešpatie, rūstausi?“ prašoma parodyti rūstį netikėliams ir neleisti jiems klausti, kur yra krikščionių Dievas.
 - susijęs iš Eberhardo Varmės vyskupo diploma (1325 m.): 1325 m. Varmės vyskupas Eberhardas rašė, kad teiginiai apie lietuvių norą atsiversti į krikščionybę buvo melagingi.
 - susijęs iš Гуревич Ф. Д. Древний Новогрудок: F. D. Gurevič veikale „Древний Новогрудок“ Naugarduko pradžia datuojama X a. pabaiga.
 - susijęs iš Ткачоу М. А., Абарончыя: M. A. Ткачоу darbas „Абарончыя“ cituojamas dėl Naugarduko pilies ir jos papilio aprašymo, pateikto p. 42–52.
@@ -111,4 +131,24 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=486a7dc92841e4a0b4488b89c9597bb011d8255b1fc7d92ffdf53f8518f0bb17; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drabužiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: netikėliai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Drabužiai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "netikėliai" parinktas kaip owner_note_path. Targetas "Drabužiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=486a7dc92841e4a0b4488b89c9597bb011d8255b1fc7d92ffdf53f8518f0bb17; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drabužiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: netikėliai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Drabužiai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "netikėliai" parinktas kaip owner_note_path. Targetas "Drabužiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

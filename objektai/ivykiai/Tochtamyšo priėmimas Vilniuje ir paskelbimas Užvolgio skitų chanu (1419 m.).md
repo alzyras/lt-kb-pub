@@ -46,6 +46,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir išlaikytas citatos palaikomas kontekstas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 694443-694944; hash=2d0f20a1b2a106e18cb982a16de07a960e7f676bb7babb94a393d9be4b58fa9f; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Saladinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Saladinas: mention_match, person, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.)" parinktas kaip owner_note_path. Targetas "Saladinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185646"></a>
 - t-002
@@ -55,9 +65,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Viena'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 694945-695510; hash=6d7a94bec726ddd283c9181b0d2b89ab33b2083c648c8dbb4af00bd72e7a7c52; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -104,4 +124,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 694443-694944; hash=2d0f20a1b2a106e18cb982a16de07a960e7f676bb7babb94a393d9be4b58fa9f; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Saladinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Saladinas: mention_match, person, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.)" parinktas kaip owner_note_path. Targetas "Saladinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 694945-695510; hash=6d7a94bec726ddd283c9181b0d2b89ab33b2083c648c8dbb4af00bd72e7a7c52; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tochtamyšo priėmimas Vilniuje ir paskelbimas Užvolgio skitų chanu (1419 m.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

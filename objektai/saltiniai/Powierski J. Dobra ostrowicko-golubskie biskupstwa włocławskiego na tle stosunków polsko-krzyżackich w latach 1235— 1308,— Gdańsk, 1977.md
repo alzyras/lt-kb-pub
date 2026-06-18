@@ -35,6 +35,9 @@ Dusburgietis teigia, kad powierski J.
   temporalinis_llm_pakomentavimas: 'Citata palaiko šaltinio temą, autorių, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=26cdb1665e4970e472b8f15a542960b9232f09d3a486d92ad880cacc3fc3289b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -52,3 +55,6 @@ Dusburgietis teigia, kad powierski J.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=26cdb1665e4970e472b8f15a542960b9232f09d3a486d92ad880cacc3fc3289b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

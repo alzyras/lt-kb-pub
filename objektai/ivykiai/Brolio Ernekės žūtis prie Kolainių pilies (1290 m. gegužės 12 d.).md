@@ -46,28 +46,58 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
 - t-001
   global_id: t-66506
   teiginys: '1290 m. gegužės 12 d. Ernekė su Jonu iš Vienos ir 25 ginklanešiais laivais plaukė link Lietuvos pro Kolainių pilį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Vienos|Jonas iš Vienos]]; mentioned_place: Kolainiai; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Ragainė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Vienos|Jonas iš Vienos]]; mentioned_place: Kolainiai; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Ragainė'
   temporaliniai_duomenys: 'įvykio data: 1290 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f08e012e9717064b1487f8272403fe22a7860378dd2b4326cf89e3a087bc987d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-66507"></a>
 - t-002
   global_id: t-66507
   teiginys: 'Dusburgietis pasakoja, kad Surmino surengtoje pasaloje Nodamas, persirengęs moteriškais drabužiais, priviliojo Ernekės laivą prie kranto, po ko visi laivu plaukę buvo išžudyti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Ernekė|Ernekė]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Kolainiai; mentioned_place: Nemunas; mentioned_place: Pilėnai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ernekė|Ernekė]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Kolainiai; mentioned_place: Nemunas; mentioned_place: Pilėnai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a9142d8a9a34ce0fb75bbaa941592380ef862810e4aa156ce33f50102b0b215d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ernekė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Ernekė: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)" parinktas kaip owner_note_path. Targetas "Ernekė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-66508"></a>
 - t-003
   global_id: t-66508
   teiginys: 'Gegužės 12 d. Ragainės komtūras brolis Ernekė magistro įsakymu laivais išplaukė Lietuvos link su Jonu iš Vienos ir 25 ginklanešiais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Vienos|Jonas iš Vienos]]; mentioned_place: Kolainiai; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Ragainė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Vienos|Jonas iš Vienos]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Kolainiai; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Ragainė'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f08e012e9717064b1487f8272403fe22a7860378dd2b4326cf89e3a087bc987d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -112,5 +142,35 @@ Ernekės laivas buvo užpultas, o juo plaukę vyrai išžudyti.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a9142d8a9a34ce0fb75bbaa941592380ef862810e4aa156ce33f50102b0b215d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ernekė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Ernekė: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)" parinktas kaip owner_note_path. Targetas "Ernekė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f08e012e9717064b1487f8272403fe22a7860378dd2b4326cf89e3a087bc987d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f08e012e9717064b1487f8272403fe22a7860378dd2b4326cf89e3a087bc987d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

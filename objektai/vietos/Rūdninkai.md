@@ -25,18 +25,38 @@ tags:
   global_id: t-85894
   teiginys: 'Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, o Rūdninkai labiau išgarsėjo Žygimanto Senojo ir Žygimanto Augusto laikais.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Rūdninkus, bet pradinis sakinys buvo per ilgas ir nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Zigmantas III|Zigmantas III]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Zigmantas III|Zigmantas III]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 510746-511289; hash=a7a4e58e5046ba3da539791de6f952357c303779e1ad474e6432052a727124e5; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdninkai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-85895"></a>
 - t-002
   global_id: t-85895
   teiginys: 'Jogailos giminės karaliai mėgo viešėti Rūdninkų kaime, esančiame tarp didelių girių netoli Vilniaus.'
   sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas, citata palaiko enciklopedinį sakinį apie Rūdninkus.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 511534-512160; hash=4aaba164dfbb448d1188de3a3b8f6163546e5b0747f1671c31559f90ece240bb; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Augustas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdninkai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=95
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkai" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-85896"></a>
 - t-003
@@ -46,6 +66,16 @@ tags:
   susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Antakalnis; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 515679-516056; hash=34c10d7a48346a34880df3fc66052cdfb6e9208b3cd7bba5d21983f3cd785029; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> fundacija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdninkai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: fundacija: mention_match, thing, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkai" parinktas kaip owner_note_path. Targetas "fundacija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185127"></a>
 - t-004
@@ -55,34 +85,31 @@ tags:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išplėsti neaiškūs įvardžiai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Trakai'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 821549-822276; hash=71863cc46a7833f7eb27abc4080ccd2871f94b72bed0c45702623b45e33bc901; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mykolas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdninkai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Mykolas: mention_match, person, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkai" parinktas kaip owner_note_path. Targetas "Mykolas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Mendzižečės giria: Mendzižečės giria apėmė daugiau kaip 3000 valakų plotą, kuriam priklausė ir Rūdninkų medžionė.
-- susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113839|Julijona (Vytauto žmona)]]: Pasiligojusi Vytauto žmona Julijona buvo apsistojusi kunigaikščių kaime Memitz prie Vilniaus.
 - susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87436|Kazimieras IV]]: Kazimieras IV, mėgęs medžioti, Rūdninkuose pasirinko medžioklės buveinę ir pasistatydino dvarą.
 - susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87438|Kazimieras IV]]: Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo.
 - susijęs iš [[objektai/asmenys/Liudvikas Narbutas.md#claim-t-183751|Liudvikas Narbutas]]: Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti.
 - susijęs iš [[objektai/asmenys/Liudvikas Narbutas.md#claim-t-40307|Liudvikas Narbutas]]: Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti.
-- susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-184794|Mykolas (Žygimanto sūnus)]]: Mykolas, sužinojęs apie Kazimiero kelionę iš Bresto į Vilnių, paliko Trakų pilį ir su 500 raitelių patraukė į Mazoviją.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113989|Steponas Batoras]]: Steponas Batoras įsakė Vilniaus vaivadai Radvilai skatinti vilniečius mokėti nustatytus muitus.
 - susijęs iš [[objektai/asmenys/Vladislovas IV.md#claim-t-87593|Vladislovas IV]]: Vladislovas IV, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173239|Vladislovas Jogaila]]: Vladislovas Jogaila katedrai ir vyskupams skyrė nemažą Vilniaus miesto dalį nuo pilies iki Šv. Mikalojaus kapinių.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176703|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Pasiligojusi Vytauto žmona Julijona buvo apsistojusi prie Vilniaus buvusiame kunigaikščių kaime Memitz.
 - susijęs iš [[objektai/asmenys/Zigmantas III.md#claim-t-87594|Zigmantas III]]: Zigmantas III, atvykęs į Lietuvą, Rūdninkuose leisdavo laiką medžiodamas.
-- susijęs iš [[objektai/autoriai/Grigalius Kniaževičius.md#claim-t-88058|Grigalius Kniaževičius]]: Grigalius Kniaževičius iš lotynų kalbos išvertė Vilniaus vyskupijos dotacijos nuorašą, išspausdintą 1822 m. „Dzieje dobroczynności“.
 - susijęs iš [[objektai/daiktai/Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai.md#claim-t-87003|Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai]]: Prie Rūdninkų, Mendzižečės link, buvo aptvertas žvėrynas, kuriame veisėsi daug briedžių ir stirnų.
 - susijęs iš [[objektai/daiktai/Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai.md#claim-t-87004|Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai]]: Rūdninkų karališkųjų medžioklės rūmų vietoje buvo išlikę plytų ir akmens pamatų griuvėsiai.
-- susijęs iš [[objektai/grupes/Lietuvos senatoriai.md#claim-t-86761|Lietuvos senatoriai]]: 1576 m. Lietuvos senatoriai sutiko, kad Žygimanto Augusto nustatyti muitai būtų renkami krašto sienų gynybos išlaidoms.
 - susijęs iš [[objektai/ivykiai/Rūdninkų ir Dubičių kautynės.md#claim-t-183676|Rūdninkų ir Dubičių kautynės]]: Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti.
 - susijęs iš [[objektai/ivykiai/Rūdninkų ir Dubičių kautynės.md#claim-t-41356|Rūdninkų ir Dubičių kautynės]]: Vilniaus apskrityje veikę Liudviko Narbuto vadovaujami sukilėliai kovėsi su rusų kariuomene prie Rūdninkų ir Dubičių, kur žuvo pats Narbutas, o sukilėliai buvo išblaškyti.
-- susijęs iš Antakalnis: Viršupio dvaras buvo prie pat Vilniaus, už Antakalnio priemiesčio.
-- susijęs iš Ašmena ir Lyda: Miškuose nuo Rūdninkų link Ašmenos ir Lydos buvo pilkapių, laikytų seniausiais žmonių gyvenimo pėdsakais.
-- susijęs iš Jašiūnai: Jašiūnų miškuose kur ne kur stūksojo pilkapiai, laikomi seniausių žmonių gyvenimo pėdsakais.
-- susijęs iš Knišinas: 1576 m. valdžią perėmęs karalius Steponas Batoras nuvyko į Knišiną.
 - susijęs iš Mendzižečės giria: Mendzižečės giria apėmė daugiau kaip 3000 valakų plotą, kuriam priklausė ir Rūdninkų medžionė.
-- susijęs iš Nemunas: Varėnos, Valkininkų ir Merkinės miškai driekėsi nuo Rūdninkų link Nemuno.
-- susijęs iš Nemunas: Varėnos, Valkininkų ir Merkinės miškai driekėsi nuo Rūdninkų link Nemuno ir Balińskio priskirti amžinosioms girioms.
 - susijęs iš Rūdninkų giria: Rūdninkų girios seniau buvo laikomos neperžengiamomis ir žmonių neištirtomis.
 - susijęs iš Rūdninkų giria: Rūdninkų medžionė priklausė daugiau kaip 3000 valakų Mendzižečės giriai, kuri buvo smarkiai nuniokota.
 - susijęs iš Rūdninkų giria: Rūdninkų giria kronikoje minima kaip vieta, kur Mykoliukas susitiko su Kazimieru ir prašė jo malonės.
@@ -93,10 +120,23 @@ tags:
 - susijęs iš Rūdninkų medžioklės rūmai: Rūdninkų medžioklės rūmai buvo mediniai, stovėjo ant aukšto mūrinio cokolio ir buvo skirti karaliams apsistoti.
 - susijęs iš Rūdninkų vartai ir Rūdninkų gatvė Vilniuje: Žygimantų laikais Vilniuje atsiradę nauji vartai ir nuo jų vingiuojanti gatvė gavo Rūdninkų vardą.
 - susijęs iš Rūdninkų vartai: Vladislovas Jogaila skyrė katedrai ir vyskupams Vilniaus plotą iki Šv. Mikalojaus kapinių netoli Rūdninkų vartų.
+- susijęs iš Žgvižda: Žgvižda buvo Rūdninkų girios dalis, nuo Rūdninkų nutolusi apie pusantros mylios Miedzyrzeczo link.
+- susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113839|Julijona (Vytauto žmona)]]: Pasiligojusi Vytauto žmona Julijona buvo apsistojusi kunigaikščių kaime Memitz prie Vilniaus.
+- susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-184794|Mykolas (Žygimanto sūnus)]]: Mykolas, sužinojęs apie Kazimiero kelionę iš Bresto į Vilnių, paliko Trakų pilį ir su 500 raitelių patraukė į Mazoviją.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113989|Steponas Batoras]]: Steponas Batoras įsakė Vilniaus vaivadai Radvilai skatinti vilniečius mokėti nustatytus muitus.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173239|Vladislovas Jogaila]]: Vladislovas Jogaila katedrai ir vyskupams skyrė nemažą Vilniaus miesto dalį nuo pilies iki Šv. Mikalojaus kapinių.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176703|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Pasiligojusi Vytauto žmona Julijona buvo apsistojusi prie Vilniaus buvusiame kunigaikščių kaime Memitz.
+- susijęs iš [[objektai/autoriai/Grigalius Kniaževičius.md#claim-t-88058|Grigalius Kniaževičius]]: Grigalius Kniaževičius iš lotynų kalbos išvertė Vilniaus vyskupijos dotacijos nuorašą, išspausdintą 1822 m. „Dzieje dobroczynności“.
+- susijęs iš [[objektai/grupes/Lietuvos senatoriai.md#claim-t-86761|Lietuvos senatoriai]]: 1576 m. Lietuvos senatoriai sutiko, kad Žygimanto Augusto nustatyti muitai būtų renkami krašto sienų gynybos išlaidoms.
+- susijęs iš Antakalnis: Viršupio dvaras buvo prie pat Vilniaus, už Antakalnio priemiesčio.
+- susijęs iš Ašmena ir Lyda: Miškuose nuo Rūdninkų link Ašmenos ir Lydos buvo pilkapių, laikytų seniausiais žmonių gyvenimo pėdsakais.
+- susijęs iš Jašiūnai: Jašiūnų miškuose kur ne kur stūksojo pilkapiai, laikomi seniausių žmonių gyvenimo pėdsakais.
+- susijęs iš Knišinas: 1576 m. valdžią perėmęs karalius Steponas Batoras nuvyko į Knišiną.
+- susijęs iš Nemunas: Varėnos, Valkininkų ir Merkinės miškai driekėsi nuo Rūdninkų link Nemuno.
+- susijęs iš Nemunas: Varėnos, Valkininkų ir Merkinės miškai driekėsi nuo Rūdninkų link Nemuno ir Balińskio priskirti amžinosioms girioms.
 - susijęs iš Varėnos, Valkininkų ir Merkinės miškai: Balińskis Varėnos, Valkininkų ir Merkinės miškus priskyrė amžinosioms girioms, esą siekiančioms žmonijos pradžią.
 - susijęs iš Vilnius: Vladislovas Jogaila skyrė Vilniaus katedrai ir vyskupams miesto plotą nuo pilies iki Šv. Mikalojaus kapinių.
 - susijęs iš Viršupis: Didieji Lietuvos kunigaikščiai prie Vilniaus, už Antakalnio priemiesčio, turėjo miesto dvarą, vadinamą Viršupiu.
-- susijęs iš Žgvižda: Žgvižda buvo Rūdninkų girios dalis, nuo Rūdninkų nutolusi apie pusantros mylios Miedzyrzeczo link.
 - susijęs iš [[objektai/zodynas/žvėrynas Karaliaus daržas.md#claim-t-86632|žvėrynas Karaliaus daržas]]: Prie Rūdninkų, Mendzižečės link, stūksojęs šilas buvo aptvertas statinių tvora ir vadintas žvėrynu.
 ## Reikšmingi paminėjimai
 
@@ -141,6 +181,16 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 511534-512160; hash=4aaba164dfbb448d1188de3a3b8f6163546e5b0747f1671c31559f90ece240bb; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Augustas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdninkai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Augustas: mention_match, person, gap=95
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkai" parinktas kaip owner_note_path. Targetas "Augustas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -162,6 +212,16 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 515679-516056; hash=34c10d7a48346a34880df3fc66052cdfb6e9208b3cd7bba5d21983f3cd785029; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> fundacija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdninkai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: fundacija: mention_match, thing, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkai" parinktas kaip owner_note_path. Targetas "fundacija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-004
@@ -196,7 +256,27 @@ tags:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 510746-511289; hash=a7a4e58e5046ba3da539791de6f952357c303779e1ad474e6432052a727124e5; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdninkai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkai" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 821549-822276; hash=71863cc46a7833f7eb27abc4080ccd2871f94b72bed0c45702623b45e33bc901; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mykolas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdninkai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Mykolas: mention_match, person, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkai" parinktas kaip owner_note_path. Targetas "Mykolas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/vietos/Mendzižečės giria]] priklause Rūdninkai

@@ -52,6 +52,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/pilėnas|pilėnas]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 607344-608593; hash=2c2ff5cb2853132f5d452627e4675adb8eaa007e26e0b24812af8e053e78ce1a; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukaimis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pilies vartai (pilis, XIV a.): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilies vartai (pilis, XIV a.)" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Sirenas.md#claim-t-184125|Sirenas]]: Sirenas nutraukė grandines ir gynė Kristburgo pilies tiltą, kol buvo uždaryti pilies vartai.
 - susijęs iš [[objektai/ivykiai/Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas.md#claim-t-89395|Rinavos atskalūnybė, Fišhauzeno puolimas ir Rinavos sunaikinimas]]: Rinavos sembai mėgino pulti Fišhauzeno pilį, bet pasitraukė nepasiekę tikslo.
 - susijęs iš [[objektai/zodynas/šikšnogalis diržas.md#claim-t-58932|šikšnogalis diržas]]: Fišhauzeno pilies vartus buvo galima atverti patraukus prie jų kabantį šikšnogalį, arba diržą.
@@ -84,3 +94,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 607344-608593; hash=2c2ff5cb2853132f5d452627e4675adb8eaa007e26e0b24812af8e053e78ce1a; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukaimis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pilies vartai (pilis, XIV a.): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilies vartai (pilis, XIV a.)" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

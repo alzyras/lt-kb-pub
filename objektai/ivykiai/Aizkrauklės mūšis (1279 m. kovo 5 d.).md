@@ -42,7 +42,7 @@ Nenurodyta
 - t-001
   global_id: t-66445
   teiginys: '1279 m. kovo 5 d. Padauguvyje prie Aizkrauklės įvyko mūšis, kuriame abi pusės patyrė nuostolių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Aizkrauklė; mentioned_place: Padauguvis'
+  susije_objektai: 'mentioned_place: Aizkrauklė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Padauguvis'
   temporaliniai_duomenys: 'mūšio data: 1279 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -52,7 +52,7 @@ Nenurodyta
 - t-002
   global_id: t-66446
   teiginys: 'Aizkrauklės pergalė pagal Ordino nuostolius XIII a. buvo antroji po Durbės kautynių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Aizkrauklė; mentioned_place: Durbė'
+  susije_objektai: 'mentioned_place: Aizkrauklė; mentioned_place: Durbė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1279 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

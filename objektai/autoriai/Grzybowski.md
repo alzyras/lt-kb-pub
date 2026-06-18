@@ -28,7 +28,7 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
 - t-001
   global_id: t-55001
   teiginys: 'Grzybowski, įvardytas pranciškonu, rašė, kad Goštautas Vilniuje įkūrė vienuolyną ir vertė miestiečius į Kristaus tikėjimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]'
   pagrindžia:
     - c-001
 
@@ -40,15 +40,36 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
   susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Podolė; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 84882-85217; hash=0de07f53dd32ba3796225f1115209687e0f167ed92cbe524b803d68a6ed08285; match=whitespace_regex
+  sprendimo_priezastis: gap::authors
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Grzybowski: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grzybowski" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-81901"></a>
 - t-003
   global_id: t-81901
   teiginys: 'Grzybowskis teigė, kad Goštautas pranciškonu tapo Krokuvoje, o vėliau Vilniuje vertė miestiečius į Kristaus tikėjimą.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko faktą, bet pradinis sakinys turėjo OCR triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 84882-85217; hash=0de07f53dd32ba3796225f1115209687e0f167ed92cbe524b803d68a6ed08285; match=whitespace_regex
+  sprendimo_priezastis: gap::authors
+  ryšio_patikimumas: susije_su -> Goštautas (vyskupas, XV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Grzybowski: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Goštautas (vyskupas, XV a.): mention_match, person, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grzybowski" parinktas kaip owner_note_path. Targetas "Goštautas (vyskupas, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108305|Pranciškonų ordinas]]: Grzybowskis rašė, kad Goštautas, tapęs pranciškonu Krokuvoje, Vilniuje vertė miestiečius į krikščionių tikėjimą.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113788|Goštautas (vyskupas, XV a.)]]: Goštautas kai kurių autorių laikytas Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir pirmuoju Vilniaus vyskupu.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173209|Petras Goštautas]]: Pasak Grzybowskio, Petras Goštautas Krokuvoje tapo pranciškonu, apsigyveno Vilniuje ir vertė miestiečius į krikščionybę.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54991|Petras Goštautas]]: Grzybowski teigė, kad Petras Goštautas Krokuvoje tapo pranciškonu, Vilniuje įkūrė vienuolyną ir 1341 m. buvo nukankintas.
@@ -56,7 +77,6 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172928|M. Strijkovskis Stryjkowski]]: Stryjkowskis savo kronikoje aiškino Šventaragio vardo kilmę.
 - susijęs iš [[objektai/autoriai/Stryjkowski Strijkovskis.md#claim-t-88006|Stryjkowski Strijkovskis]]: Stryjkowski savo kronikoje aiškino Šventaragio vardo kilmę.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108289|Pranciškonų ordinas]]: Kai kurių dvasininkų manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas ir vėliau pats tapo vienuoliu.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108305|Pranciškonų ordinas]]: Grzybowskis rašė, kad Goštautas, tapęs pranciškonu Krokuvoje, Vilniuje vertė miestiečius į krikščionių tikėjimą.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108327|Pranciškonų ordinas]]: Kai kurių autorių manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas.
 - susijęs iš [[objektai/grupes/Vilniaus prastuomenė.md#claim-t-55096|Vilniaus prastuomenė]]: Grzybowskio pasakojime Vilniaus miestiečiai 1341 m. vaizduojami kaip su totoriais puolę pranciškonų vienuolyną.
 - susijęs iš [[objektai/ivykiai/Vilniaus pranciškonų nužudymas apie 1345 m..md#claim-t-55146|Vilniaus pranciškonų nužudymas apie 1345 m.]]: Grzybowskio versijoje 1341 m. Vilniaus miestiečiai ir totoriai užpuolė naują pranciškonų vienuolyną ir nukankino 36 vienuolius bei Goštautą.
@@ -112,4 +132,24 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 84882-85217; hash=0de07f53dd32ba3796225f1115209687e0f167ed92cbe524b803d68a6ed08285; match=whitespace_regex
+  sprendimo_priezastis: gap::authors
+  ryšio_patikimumas: susije_su -> Goštautas (vyskupas, XV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Grzybowski: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Goštautas (vyskupas, XV a.): mention_match, person, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grzybowski" parinktas kaip owner_note_path. Targetas "Goštautas (vyskupas, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 84882-85217; hash=0de07f53dd32ba3796225f1115209687e0f167ed92cbe524b803d68a6ed08285; match=whitespace_regex
+  sprendimo_priezastis: gap::authors
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Grzybowski: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grzybowski" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

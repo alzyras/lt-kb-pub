@@ -34,18 +34,38 @@ Nenurodyta
   global_id: t-86737
   teiginys: 'Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu.'
   sudarymo_pagrindimas: 'Lotyniška citata palaiko faktą apie Varmės kapitulos prašymą ir karaliaus sutikimą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]; mentioned_person: [[objektai/asmenys/Fabianas (Varmės vyskupas)|Fabianas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Fabijonas (Varmės vyskupas)|Fabijonas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Varmė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fabijonas (Varmės vyskupas)|Fabijonas (Varmės vyskupas)]]; mentioned_place: Varmė; mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]; mentioned_person: [[objektai/asmenys/Fabianas (Varmės vyskupas)|Fabianas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 719488-720809; hash=b8e8485b0307305cb1bed20d5d96cbcd2b8f120c3755d1d9582d10554f89d047; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fabijonas (Varmės vyskupas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Varmės kapitula: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Fabijonas (Varmės vyskupas): mention_match, person, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varmės kapitula" parinktas kaip owner_note_path. Targetas "Fabijonas (Varmės vyskupas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86738"></a>
 - t-002
   global_id: t-86738
   teiginys: 'Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Fabijonas (Varmės vyskupas)|Fabijonas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fabijonas (Varmės vyskupas)|Fabijonas (Varmės vyskupas)]]; mentioned_place: Varmė; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 721260-722054; hash=b5a305b0f7bbf0d75ad236a9a76c2bee1c9fdb0e082554a3a777c5a35600d593; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fabijonas (Varmės vyskupas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Varmės kapitula: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Fabijonas (Varmės vyskupas): mention_match, person, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varmės kapitula" parinktas kaip owner_note_path. Targetas "Fabijonas (Varmės vyskupas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -115,4 +135,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 719488-720809; hash=b8e8485b0307305cb1bed20d5d96cbcd2b8f120c3755d1d9582d10554f89d047; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fabijonas (Varmės vyskupas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Varmės kapitula: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Fabijonas (Varmės vyskupas): mention_match, person, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varmės kapitula" parinktas kaip owner_note_path. Targetas "Fabijonas (Varmės vyskupas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 721260-722054; hash=b5a305b0f7bbf0d75ad236a9a76c2bee1c9fdb0e082554a3a777c5a35600d593; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fabijonas (Varmės vyskupas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Varmės kapitula: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Fabijonas (Varmės vyskupas): mention_match, person, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Varmės kapitula" parinktas kaip owner_note_path. Targetas "Fabijonas (Varmės vyskupas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

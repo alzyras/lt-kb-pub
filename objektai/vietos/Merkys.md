@@ -35,6 +35,16 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Mediniai rūmai|Mediniai rūmai]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=69007dfbcf2eb41e5a86f8166eb6a080507c2ba76affdb104da126d8d8851d6e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Katra: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkys: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Katra: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkys" parinktas kaip owner_note_path. Targetas "Katra" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-111945"></a>
 - t-002
@@ -52,6 +62,16 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=de853ed4ab648587603de6e5b7fea2b7f3ba821204b3d6c138c25cb7fd8f2a9f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mediniai rūmai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkys: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Mediniai rūmai: mention_match, thing, gap=86
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkys" parinktas kaip owner_note_path. Targetas "Mediniai rūmai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-111947"></a>
 - t-004
@@ -61,6 +81,16 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 513293-513673; hash=04954914d5e9c7478d3e76a6cc049718ee7a519f7a78c46aa98ea6580613d64f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žygimantas Senasis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkys: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Žygimantas Senasis: mention_match, person, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkys" parinktas kaip owner_note_path. Targetas "Žygimantas Senasis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-111948"></a>
 - t-005
@@ -69,16 +99,32 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina medžioklės rūmų vietą ir konstrukciją.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 512555-512844; hash=f4380d25b7c52832debca201a57c909d5ae6b8ae158e056b9abf52df9c97b0ec; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 <a id="claim-t-111949"></a>
 - t-006
   global_id: t-111949
   teiginys: 'Palei Merkį, Nemuną, Nerį, Ūlą ir Katrą gausiai aptikta mezolito įrankių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatoje išvardytas vietas.'
-  susije_objektai: 'mentioned_place: Alytus; mentioned_place: Katra; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Katra; mentioned_place: Alytus; mentioned_place: Vysla'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 513293-513673; hash=04954914d5e9c7478d3e76a6cc049718ee7a519f7a78c46aa98ea6580613d64f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bona: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkys: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bona: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkys" parinktas kaip owner_note_path. Targetas "Bona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169962|Antanas Merkys]]: Antanas Merkys psichologiškai palūžo nuo Viačeslavo Molotovo rėksmingų kaltinimų absurdiškumo.
+- susijęs iš [[objektai/autoriai/V. Merkys.md#claim-t-31039|V. Merkys]]: V. Merkys pateikė daug duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir cechus XIX a. pabaigoje bei XX a. pradžioje.
+- susijęs iš [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis).md#claim-t-66773|Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]: 1940 m. birželio 10 d. Kaune nutarta pasiųsti Juozą Urbšį į Maskvą, nes Antanui Merkiui nesisekė normalizuoti situacijos.
+- susijęs iš Maskva: 1940 m. birželio 10 d. Kaune nutarta pasiųsti ministrą J. Urbšį į Maskvą, nes A. Merkiui nesisekė normalizuoti situacijos.
 - susijęs iš [[objektai/asmenys/Augustinas Povilaitis.md#claim-t-17457|Augustinas Povilaitis]]: Augustinas Povilaitis buvo Saugumo departamento direktorius, kurį reikalauta atleisti kaip tariamą „provokacijų“ kaltininką.
 - susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19027|Juozas Urbšys]]: Birželio 10 d. Kaune nutarta pasiųsti ministrą Juozą Urbšį į Maskvą.
 - susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19030|Juozas Urbšys]]: Birželio 14 d. vakare Juozas Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai kelti sovietų reikalavimai.
@@ -89,17 +135,14 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179539|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Žostautaitė tyrė Prūsijos lietuvių vokietinimą ir pasipriešinimą jam 1848-1914 m.
 - susijęs iš [[objektai/autoriai/P. Žostautaitė.md#claim-t-30920|P. Žostautaitė]]: P. Žostautaitė 1968 m. paskelbė darbą „Prūsijos lietuvių vokietinimas ir pasipriešinimas jam 1848-1914 m.“.
 - susijęs iš [[objektai/autoriai/S. Samalavičius.md#claim-t-30971|S. Samalavičius]]: S. Samalavičius pateikė duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir amatininkų cechus XIX a. pabaigoje ir XX a. pradžioje.
-- susijęs iš [[objektai/autoriai/V. Merkys.md#claim-t-31039|V. Merkys]]: V. Merkys pateikė daug duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir cechus XIX a. pabaigoje bei XX a. pradžioje.
 - susijęs iš [[objektai/autoriai/V. Milius.md#claim-t-31040|V. Milius]]: V. Milius pateikė duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir cechus XIX a. pabaigoje bei XX a. pradžioje.
 - susijęs iš [[objektai/grupes/SSRS kariuomenė.md#claim-t-183184|SSRS kariuomenė]]: V. Molotovas J. Urbšiui pareiškė, kad SSRS kariuomenė įžygiuos į Lietuvą nepriklausomai nuo Lietuvos atsakymo.
 - susijęs iš [[objektai/grupes/SSRS kariuomenė.md#claim-t-19998|SSRS kariuomenė]]: 1940 m. birželio 14 d. ultimatumu SSRS pareikalavo, kad Lietuva įsileistų papildomus sovietų karinius dalinius.
-- susijęs iš [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis).md#claim-t-66773|Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]: 1940 m. birželio 10 d. Kaune nutarta pasiųsti Juozą Urbšį į Maskvą, nes Antanui Merkiui nesisekė normalizuoti situacijos.
 - susijęs iš [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.).md#claim-t-45445|SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]: 1940 m. birželio 14 d. vakare V. Molotovas įteikė J. Urbšiui ultimatumą, reikalaujantį įsileisti papildomus sovietų dalinius ir pakeisti vyriausybę.
 - susijęs iš [[objektai/posakiai/„gal neokupuos“ „o gal nesovietizuos “.md#claim-t-26353|„gal neokupuos“ „o gal nesovietizuos “]]: Sovietų okupacijos akivaizdoje viltys, kad jie „gal neokupuos“ ar „o gal nesovietizuos“, žlugo.
 - susijęs iš A. Smetonos laiškas Michailui Kalininui: Taikingas A. Smetonos laiškas sovietų prezidentui Michailui Kalininui nepadėjo išvengti 1940 m. birželio 14 d. sovietų ultimatumo Lietuvai.
 - susijęs iš SSRS ultimatumas Lietuvai (1940 m. birželio 14 d.): 1940 m. birželio 14 d. vakare J. Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai pareikalauta įsileisti neribotus sovietų karinius dalinius.
 - susijęs iš Lietuva: 1940 m. birželio 14 d. V. Molotovas įteikė J. Urbšiui ultimatumą, reikalaujantį įsileisti neribotus sovietų dalinius ir pakeisti Lietuvos vyriausybę.
-- susijęs iš Maskva: 1940 m. birželio 10 d. Kaune nutarta pasiųsti ministrą J. Urbšį į Maskvą, nes A. Merkiui nesisekė normalizuoti situacijos.
 - susijęs iš Maskva: 1940 m. birželio 10 d. Kaune nutarta pasiųsti užsienio reikalų ministrą Juozą Urbšį į Maskvą.
 - susijęs iš Paryžius: 1940 m. birželio 14-osios rytą vermachtas įžengė į Paryžių.
 ## Reikšmingi paminėjimai
@@ -138,7 +181,27 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=de853ed4ab648587603de6e5b7fea2b7f3ba821204b3d6c138c25cb7fd8f2a9f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mediniai rūmai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkys: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Mediniai rūmai: mention_match, thing, gap=86
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkys" parinktas kaip owner_note_path. Targetas "Mediniai rūmai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 513293-513673; hash=04954914d5e9c7478d3e76a6cc049718ee7a519f7a78c46aa98ea6580613d64f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žygimantas Senasis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkys: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Žygimantas Senasis: mention_match, person, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkys" parinktas kaip owner_note_path. Targetas "Žygimantas Senasis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -170,6 +233,16 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=69007dfbcf2eb41e5a86f8166eb6a080507c2ba76affdb104da126d8d8851d6e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Katra: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkys: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Katra: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkys" parinktas kaip owner_note_path. Targetas "Katra" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-005
@@ -188,4 +261,17 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 512555-512844; hash=f4380d25b7c52832debca201a57c909d5ae6b8ae158e056b9abf52df9c97b0ec; match=whitespace_regex
+  sprendimo_priezastis: auto
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 513293-513673; hash=04954914d5e9c7478d3e76a6cc049718ee7a519f7a78c46aa98ea6580613d64f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bona: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Merkys: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bona: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Merkys" parinktas kaip owner_note_path. Targetas "Bona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

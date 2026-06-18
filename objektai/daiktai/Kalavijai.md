@@ -43,9 +43,19 @@ Nenurodyta
   global_id: t-39256
   teiginys: 'Kalavijai kartu su ietimis buvo pagrindiniai kariuomenės ginklai.'
   sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir sakinys sutelktas į kalavijus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 304539-304941; hash=98be9f00afbb3bd6f72a8367fcda5a1b8372607f69a0db997b2595f1d87020c9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalavijai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijai" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183686"></a>
 - t-002
@@ -58,22 +68,32 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Ietys|Ietys]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173145|Dovydas (Gardino pilininkas)]]: Dusburgietis pasakoja, kad 1324 m. Gediminas pasiuntė Dovydą niokoti Mazovijos žemės.
-- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173146|Dovydas (Gardino pilininkas)]]: Lapkričio 21 d. Gardino pilininkas Dovydas su galinga kariuomene įsibrovė į Mazoviją ir nusiaubė Pultuską bei 130 kaimų.
-- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-184058|Dovydas (Gardino pilininkas)]]: Dovydas, Gardino pilininkas, lapkričio 21 d. įsibrovė į Mazoviją ir nusiaubė Plocko vyskupo Pultuską.
-- susijęs iš [[objektai/asmenys/Margalis (Margirius ).md#claim-t-39597|Margalis (Margirius )]]: 1329 m. lietuvių didikas Margalis dvikovoje susirėmė su Čekijos karaliumi Jonu Liuksemburgiečiu.
-- susijęs iš [[objektai/autoriai/Z. Raulinaitis.md#claim-t-31088|Z. Raulinaitis]]: Z. Raulinaitis 1970 m. žurnale „Karys“ paskelbė darbą „Apuolės užpuolimus“.
-- susijęs iš [[objektai/daiktai/Akstys.md#claim-t-08278|Akstys]]: Akstys buvo ginklai, kurių galuose vietoj ietigalių buvo įtaisyti aštrūs akmenys.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 304452-304764; hash=bdfe1ecf7b939f376b208a65ecc3ead2fa8c0683ddb8690960b36992a3853d8e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Artilerija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalavijai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Artilerija: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijai" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71559|Dviašmenis kalavijas]]: X–XI a. dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje.
 - susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71560|Dviašmenis kalavijas]]: X–XI a. Vakarų Europoje paplitusių dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje.
 - susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71561|Dviašmenis kalavijas]]: X–XI a. dviašmenis kalavijas buvo paplitęs Vakarų Europoje.
 - susijęs iš [[objektai/daiktai/Ietis.md#claim-t-186836|Ietis]]: 1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais.
 - susijęs iš [[objektai/daiktai/Ietys.md#claim-t-183684|Ietys]]: Ietys ir kalavijai buvo pagrindiniai aptariamų Lietuvos kariuomenės dalinių ginklai.
 - susijęs iš [[objektai/daiktai/Ietys.md#claim-t-39315|Ietys]]: Ietys kartu su kalavijais buvo pagrindiniai kariuomenės ginklai.
-- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-08294|Karinė ginkluotė]]: Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę.
-- susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-59705|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
 - susijęs iš [[objektai/daiktai/Skydas.md#claim-t-111285|Skydas]]: Martynas, priešams miegant, vieną po kito išvogė jų skydus, kalavijus ir ietis.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184541|Lietuviai]]: Lietuviai išvijo priešus iš stovyklos, o daug bėgančiųjų žuvo nuo kalavijų arba prigėrė Dnepro ir Pripetės duburiuose.
+- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173145|Dovydas (Gardino pilininkas)]]: Dusburgietis pasakoja, kad 1324 m. Gediminas pasiuntė Dovydą niokoti Mazovijos žemės.
+- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173146|Dovydas (Gardino pilininkas)]]: Lapkričio 21 d. Gardino pilininkas Dovydas su galinga kariuomene įsibrovė į Mazoviją ir nusiaubė Pultuską bei 130 kaimų.
+- susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-184058|Dovydas (Gardino pilininkas)]]: Dovydas, Gardino pilininkas, lapkričio 21 d. įsibrovė į Mazoviją ir nusiaubė Plocko vyskupo Pultuską.
+- susijęs iš [[objektai/asmenys/Margalis (Margirius ).md#claim-t-39597|Margalis (Margirius )]]: 1329 m. lietuvių didikas Margalis dvikovoje susirėmė su Čekijos karaliumi Jonu Liuksemburgiečiu.
+- susijęs iš [[objektai/autoriai/Z. Raulinaitis.md#claim-t-31088|Z. Raulinaitis]]: Z. Raulinaitis 1970 m. žurnale „Karys“ paskelbė darbą „Apuolės užpuolimus“.
+- susijęs iš [[objektai/daiktai/Akstys.md#claim-t-08278|Akstys]]: Akstys buvo ginklai, kurių galuose vietoj ietigalių buvo įtaisyti aštrūs akmenys.
+- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-08294|Karinė ginkluotė]]: Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę.
+- susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-59705|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78395|Notangai]]: 1263 m. notangai apsupo Kroicburgo pilį ir trejus metus ją puolė trimis apgulos mašinomis bei trimis kuorais.
 - susijęs iš [[objektai/ivykiai/Brolių ir Livonijos pagalbos pergalė prieš sembus Bečių (Pabečių) valsčiuje.md#claim-t-62756|Brolių ir Livonijos pagalbos pergalė prieš sembus Bečių (Pabečių) valsčiuje]]: Livonijos broliams atskubėjus į Bečių valsčių, brolių kariuomenė nugalėjo sembus, paėmė į nelaisvę moteris ir vaikus bei sudegino kiemus.
 - susijęs iš [[objektai/ivykiai/Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių.md#claim-t-185566|Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių]]: Lietuviai išvijo Kaidano karius iš stovyklos, daug jų nukovė mūšyje ir persekiojo bėgančius prie Dnepro bei Pripetės.
@@ -123,4 +143,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 304539-304941; hash=98be9f00afbb3bd6f72a8367fcda5a1b8372607f69a0db997b2595f1d87020c9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalavijai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijai" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 304452-304764; hash=bdfe1ecf7b939f376b208a65ecc3ead2fa8c0683ddb8690960b36992a3853d8e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Artilerija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalavijai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Artilerija: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijai" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

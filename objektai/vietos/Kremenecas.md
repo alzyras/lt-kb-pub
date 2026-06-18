@@ -36,6 +36,16 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=93b17503720d31a5ee8b7eeca8a1469578e813e98c10a18eba2be82f777d8e20; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kremenecas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kremenecas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184990"></a>
 - t-002
@@ -48,15 +58,25 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
   susije_objektai: 'mentioned_place: Luckas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 765111-765697; hash=69b49aee3832a514175648a430ce17766fdd6624693c2582283fdad3806b5abc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Luckas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kremenecas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Luckas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kremenecas" parinktas kaip owner_note_path. Targetas "Luckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Jurgis Narimantaitis.md#claim-t-186118|Jurgis Narimantaitis]]: Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje.
 - susijęs iš [[objektai/asmenys/Jurgis Narimantaitis.md#claim-t-186118|Jurgis Narimantaitis]]: Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje.
-- susijęs iš [[objektai/asmenys/Kazimieras Skirgaila.md#claim-t-185950|Kazimieras Skirgaila (Lenkijos karalius)]]: Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo.
 - susijęs iš [[objektai/asmenys/Konradas Frankenbergas.md#claim-t-186228|Konradas Frankenbergas]]: Rusų sąmokslininkai nužudė sargybos viršininką Konradą Frankenbergą ir paleido Švitrigailą iš Kremeneco kalėjimo.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179672|Skirgaila]]: Skirgaila mirė 1395 m., po to Kremenecas vėl susijungė su Volynija.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179673|Skirgaila]]: Skirgaila mirė 1395 m., o po jo mirties Kremenecas vėl susijungė su Volynija.
 - susijęs iš [[objektai/ivykiai/Švitrigailos nesėkmingas 1434 m. puolimas ir Kaributaičio perėjimas pas lenkus.md#claim-t-185793|Švitrigailos nesėkmingas 1434 m. puolimas ir Kaributaičio perėjimas pas lenkus]]: Teodoras Kaributaitis, išlaisvintas po Boleslovo kariuomenės sumušimo, perėjo pas lenkus ir perdavė Vladislovui Braclavą bei Kremenecą.
 - susijęs iš [[objektai/ivykiai/Švitrigailos įkalinimas Kremeneco kalėjime ir pabėgimas.md#claim-t-185796|Švitrigailos įkalinimas Kremeneco kalėjime ir pabėgimas]]: Vytautas, nepasitikėdamas Švitrigaila, liepė jį suimti ir įkalinti Kremeneco kalėjime, iš kurio Švitrigailą netrukus išlaisvino rusų sąmokslininkai.
 - susijęs iš Braclavas: Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą.
+- susijęs iš [[objektai/asmenys/Kazimieras Skirgaila.md#claim-t-185950|Kazimieras Skirgaila (Lenkijos karalius)]]: Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo.
 - susijęs iš Sokolecas: Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą.
 - susijęs iš [[objektai/zodynas/Lietuvos didysis kunigaikštis.md#claim-t-185374|Lietuvos didysis kunigaikštis]]: Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės vokiečių teisė.md#claim-t-86535|Magdeburgo teisės vokiečių teisė]]: Vilnius 1321 m. turėjo Gedimino Rygos pavyzdžiu suteiktą vokiečių teisę, o 1387 m. iš Jogailos gavo Magdeburgo teisę.
@@ -102,7 +122,27 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=93b17503720d31a5ee8b7eeca8a1469578e813e98c10a18eba2be82f777d8e20; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kremenecas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kremenecas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 765111-765697; hash=69b49aee3832a514175648a430ce17766fdd6624693c2582283fdad3806b5abc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Luckas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kremenecas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Luckas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kremenecas" parinktas kaip owner_note_path. Targetas "Luckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
-- [[objektai/asmenys/Jurgis Narimantaitis]] valde_teritorija Kremenecas
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Kremenecas

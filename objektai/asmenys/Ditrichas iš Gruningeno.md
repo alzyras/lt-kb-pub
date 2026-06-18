@@ -21,9 +21,19 @@ Dusburgietis teigia, kad vieną gražią dieną, bėgdamas nuo žmonių spūstie
   global_id: t-60266
   teiginys: 'Ditrichas iš Gruningeno kartu su Hartmanu iš Heldrungeno buvo Teneburgo pilyje, kur Konradas ieškojo ramybės.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas, per ilgas ir turi žalių citatos nuotrupų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5e5359ec69d82a55ff098a5be01f6c0c6775e5e82b35a5326cf06976e343e303; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hartmanas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ditrichas iš Gruningeno: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Hartmanas: mention_match, person, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas iš Gruningeno" parinktas kaip owner_note_path. Targetas "Hartmanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -42,3 +52,13 @@ Dusburgietis teigia, kad vieną gražią dieną, bėgdamas nuo žmonių spūstie
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5e5359ec69d82a55ff098a5be01f6c0c6775e5e82b35a5326cf06976e343e303; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hartmanas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ditrichas iš Gruningeno: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Hartmanas: mention_match, person, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ditrichas iš Gruningeno" parinktas kaip owner_note_path. Targetas "Hartmanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

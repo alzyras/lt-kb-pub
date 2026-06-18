@@ -22,9 +22,19 @@ Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau t
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko genealoginį faktą apie Cimbarką, bet pradinis sakinys per ilgas ir netiesioginis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Austrija; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]; mentioned_place: Austrija; mentioned_place: Mazovija; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 504012-505075; hash=61358b7805ef198c9aeec53ce1799e80b571beecf04bf525be061267fa27211f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Austrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Cimbarka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cimbarka" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -64,3 +74,13 @@ Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau t
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 504012-505075; hash=61358b7805ef198c9aeec53ce1799e80b571beecf04bf525be061267fa27211f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Austrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Cimbarka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cimbarka" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

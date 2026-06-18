@@ -35,6 +35,16 @@ Dusburgietis teigia, kad schmalstieg W.
   temporalinis_llm_pakomentavimas: 'Bibliografinis įrašas aiškiai nurodo autorių, knygos temą, vietą ir metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 796640-796750; hash=2f240ece0a507739a5ab49a9cff497f82c34f46f4f63f01427291443add2d987; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Londonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Schmalstieg W. R: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Londonas: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Schmalstieg W. R" parinktas kaip owner_note_path. Targetas "Londonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +59,13 @@ Dusburgietis teigia, kad schmalstieg W.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 796640-796750; hash=2f240ece0a507739a5ab49a9cff497f82c34f46f4f63f01427291443add2d987; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Londonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Schmalstieg W. R: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Londonas: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Schmalstieg W. R" parinktas kaip owner_note_path. Targetas "Londonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

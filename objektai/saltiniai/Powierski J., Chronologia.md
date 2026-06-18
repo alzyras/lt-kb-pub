@@ -37,6 +37,9 @@ Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyt
   temporalinis_llm_pakomentavimas: 'Citata remia glaustą šaltinio pozicijos santrauką.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 525107-525321; hash=044d22276408f2bf5849ae303d6d3658ee9653f716f1cdf4f086f8e8402419bc; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -52,3 +55,6 @@ Dusburgietis teigia, kad dabar siūlomos vėlesnės datos: pilis pradėta statyt
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 525107-525321; hash=044d22276408f2bf5849ae303d6d3658ee9653f716f1cdf4f086f8e8402419bc; match=exact
+  sprendimo_priezastis: auto

@@ -56,6 +56,16 @@ Nenurodyta
   susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b4cb6d7f204afdf65b2f5213753f81aa08ee1bbe9d9cc1d95a726bf082dbdce7; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Gardinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: metraštis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "metraštis" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-186913"></a>
 - t-002
@@ -66,6 +76,16 @@ Nenurodyta
   susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9056d89231d3c99ee4b66e33fa5f95f6c272c9b542f23033a9aa51eb4864f178; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Gardinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: metraštis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "metraštis" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-186915"></a>
 - t-003
@@ -76,6 +96,30 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9056d89231d3c99ee4b66e33fa5f95f6c272c9b542f23033a9aa51eb4864f178; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Gardinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: metraštis: owner_note_path, thing
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "metraštis" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187718|Lietuvos Didžioji Kunigaikštystė]]: Lietuvos metraštis Klecko pergalę sieja su Dievo gailestingumu ir aprašo Lietuvos kariuomenę grįžus su totorių belaisviais bei grobiu.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187719|Lietuvos Didžioji Kunigaikštystė]]: Lietuvos metraštis Vytautą vaizduoja valdžius Lietuvos ir Rusų Didžiąją Kunigaikštystę bei artimai bendravus su Vengrų valdovu.
+- susijęs iš [[objektai/posakiai/„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“.md#claim-t-41483|„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“]]: Lietuvos metraštis liudija, kad rugsėjo 1 d. Lietuva pasodino Žygimantą Kęstutaitį didžiuoju kunigaikščiu Vilniuje ir Trakuose.
+- susijęs iš Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.): „Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.)“ paskelbtas „Lietuvos istorijos metraštyje“ 1972 m. tome, išleistame 1973 m.
+- susijęs iš Lietuvos Metraštis: Lietuvos metraštis Vytauto lūpomis aiškino, kad Jogailos žygis sukėlė Lietuvoje nepasitenkinimą dėl svetimųjų valdymo.
+- susijęs iš Lietuvos metraštis, Bychovco kronika (1971 m.): 1971 m. Vilniuje išleistas leidinys pavadintas „Lietuvos metraštis, Bychovco kronika“, o vertimą, įvadą ir paaiškinimus parašė Rimantas Jasas.
+- susijęs iš Pskovo metraštis: Pskovo metraštis pasakoja, kad 1432 m. Pskovo vietininkai ir bojarinai sudarė sutartį su Švitrigaila.
+- susijęs iš Rogožos metraštis: Rogožos metraštis plačiausiai nušvietė pirmąjį Lietuvos kariuomenės žygį į Maskvą ir pabrėžė Algirdo kariavimą gudrumu.
+- susijęs iš Volynės metraštis: Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“.
+- susijęs iš Volynės metraštis: Volynės metraštyje teritorija Crasim minima forma Krismence.
+- susijęs iš т. II. Ипатьевская летопись (с. 1—227); Густинская летопись (с. 231—373) Изд. Археографическою комиссиею: 1843 m. Sankt Peterburge išleistame II tome paskelbtos Ipatijaus metraštis ir Gustyno metraštis.
+- susijęs iš Ugra: Lietuvos metraštis Vytauto žygį prie Ugros ir Okos aiškina kaip kerštą Maskvos didžiajam kunigaikščiui už įžeidimą.
+- susijęs iš Vilnius: Kazimieras, priėmęs volyniečių ištikimybės priesaiką, su Lietuvos kunigaikščiais ir Tarybos ponais išvyko į Vilnių, kurį metraštis vadina Vytauto sostine.
+- susijęs iš Vilnius: Tą pačią vasarą į Vilnių pas Aleksandrą atvyko jo motina Elžbieta, brolis Fridrichas ir seserys Barbora bei Elžbieta, o metraštis pabrėžia džiaugsmingą jų priėmimą.
 - susijęs iš [[objektai/asmenys/Aleksas Jefremovičius.md#claim-t-87617|Aleksas Jefremovičius]]: 1432 metais Aleksas Jefremovičius su Joachimu ir Pskovo bojarinais atvyko pas Švitrigailą sudaryti sutarties.
 - susijęs iš [[objektai/asmenys/Joachimas (Pskovo vietininkas).md#claim-t-87706|Joachimas (Pskovo vietininkas)]]: 1432 m. Pskovo vietininkas Joachimas su Aleksu Jefremovičiumi ir Pskovo bajorais sudarė sutartį su Švitrigaila.
 - susijęs iš [[objektai/asmenys/Klemensas Moskorzewskis.md#claim-t-30333|Klemensas Moskorzewskis]]: Klemensas Moskorzewskis vadovavo lenkų įgulai, kurią Jogaila atsiuntė į sau pasiliktą Vilnių.
@@ -92,8 +136,6 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Pajautos stabas.md#claim-t-187514|Pajautos stabas]]: Lietuvos metraštis pasakoja, kad supuvus Pajautos stabui toje vietoje išaugo liepos, kurios ir toliau buvo garbinamos.
 - susijęs iš [[objektai/daiktai/Perlais siuvinėti drabužiai.md#claim-t-186843|Perlais siuvinėti drabužiai]]: Lietuvos metraštis pasakoja, kad Vytautas Vasilijui Dimitrijevičiui padovanojo perlais siuvinėtų drabužių ir kitų brangių dovanų.
 - susijęs iš [[objektai/daiktai/Strėlės.md#claim-t-186831|Strėlės]]: Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad rusai ir poloviečiai šiame susirėmime jodinėjo su strėlėmis; Šiame gabale strėlės minimos kaip atskira kovinė priemonė.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187718|Lietuvos Didžioji Kunigaikštystė]]: Lietuvos metraštis Klecko pergalę sieja su Dievo gailestingumu ir aprašo Lietuvos kariuomenę grįžus su totorių belaisviais bei grobiu.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-187719|Lietuvos Didžioji Kunigaikštystė]]: Lietuvos metraštis Vytautą vaizduoja valdžius Lietuvos ir Rusų Didžiąją Kunigaikštystę bei artimai bendravus su Vengrų valdovu.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-187742|Pranciškonų ordinas]]: Lietuvos metraštis pasakoja, kad Algirdui leidus Petras Goštautas iš Lenkijos į Vilnių parsikvietė 14 pranciškonų vienuolių.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-187743|Pranciškonų ordinas]]: Lietuvos metraštis pasakoja, kad Algirdui žygiuojant prieš Maskvą Vilniaus pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių.
 - susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113198|Pskovo respublika]]: Pskovo metraščio duomenimis, 1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius sudarė sutartį su Švitrigaila.
@@ -197,21 +239,12 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas.md#claim-t-186619|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]: Lietuvos metraštis pasakoja, kad Vytautas įsteigė Žemaičių vyskupiją ir Medininkuose, žemaičių vadintuose Varniais, pastatė švento Petro bažnyčią.
 - susijęs iš [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas.md#claim-t-186621|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]: Lietuvos metraštis pasakoja, kad Vytautas apkrikštijo visą Užnerio žemę ir įkūrė daug bažnyčių.
 - susijęs iš [[objektai/ivykiai/Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune.md#claim-t-186629|Žemaičių sukilimas prieš Kazimierą ir paklusimo atnaujinimas Kaune (sukilimas)]]: Lietuvos metraštis pasakoja, kad Kazimieras, priėmęs Kaune prisiekusius žemaičius, patvirtino jų privilegijas ir paliko Kantautą seniūnu trejiems metams.
-- susijęs iš [[objektai/posakiai/„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“.md#claim-t-41483|„Lietuva pasodino didįjį kunigaikštį Žygimantą Kęstutaitį didžiojoje kunigaikštystėje Vilniuje ir Trakuose rugsėjo 1 d.“]]: Lietuvos metraštis liudija, kad rugsėjo 1 d. Lietuva pasodino Žygimantą Kęstutaitį didžiuoju kunigaikščiu Vilniuje ir Trakuose.
 - susijęs iš [[objektai/posakiai/„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“.md#claim-t-186400|„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“]]: Ipatijaus metraštis prie 1270 m. pradžios pažymi, kad Lietuvoje pradėjo valdyti Traidenis.
 - susijęs iš Akmens periodo (mesolithicum-neolithicum) žmogus Žemaitijoje ir Suvalkijoje: J. Žilinsko veikalas „Akmens periodo (mesolithicum-neolithicum) žmogus Žemaitijoje ir Suvalkijoje“ išleistas 1931 m.
 - susijęs iš Liatopisiec velikich kniaziej litovskich: „Liatopisiec velikich kniaziej litovskich“ Vytauto vardu aiškina, kad Jogailos žygis sukėlė nepasitenkinimą Lietuvoje dėl svetimųjų valdžios.
-- susijęs iš Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.): „Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.)“ paskelbtas „Lietuvos istorijos metraštyje“ 1972 m. tome, išleistame 1973 m.
-- susijęs iš Lietuvos Metraštis: Lietuvos metraštis Vytauto lūpomis aiškino, kad Jogailos žygis sukėlė Lietuvoje nepasitenkinimą dėl svetimųjų valdymo.
 - susijęs iš Lietuvos metraštis (Bychovco kronika): Bychovco kronikoje teigiama, kad 1368 m. Maskvos didysis kunigaikštis Dmitrijus sulaužė taiką, pasiųsdamas Algirdui karo paskelbimą.
 - susijęs iš Lietuvos metraštis (Bychovco kronika): Bychovco kronikoje Jogaila pataria Vytautui kreiptis į ciesorių, siekti karaliaus titulo ir žada padėti pas ciesorių bei popiežių.
-- susijęs iš Lietuvos metraštis, Bychovco kronika (1971 m.): 1971 m. Vilniuje išleistas leidinys pavadintas „Lietuvos metraštis, Bychovco kronika“, o vertimą, įvadą ir paaiškinimus parašė Rimantas Jasas.
-- susijęs iš Pskovo metraštis: Pskovo metraštis pasakoja, kad 1432 m. Pskovo vietininkai ir bojarinai sudarė sutartį su Švitrigaila.
 - susijęs iš Pskovo prekybos sutartis su Švitrigaila: 1432 m. Pskovo vietininkai ir bojarinai sudarė sutartį su Švitrigaila, joje patvirtindami senovines sienas.
-- susijęs iš Rogožos metraštis: Rogožos metraštis plačiausiai nušvietė pirmąjį Lietuvos kariuomenės žygį į Maskvą ir pabrėžė Algirdo kariavimą gudrumu.
-- susijęs iš Volynės metraštis: Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“.
-- susijęs iš Volynės metraštis: Volynės metraštyje teritorija Crasim minima forma Krismence.
-- susijęs iš т. II. Ипатьевская летопись (с. 1—227); Густинская летопись (с. 231—373) Изд. Археографическою комиссиею: 1843 m. Sankt Peterburge išleistame II tome paskelbtos Ipatijaus metraštis ir Gustyno metraštis.
 - susijęs iš Braclavas: Lietuvos metraštis pasakoja, kad Aleksandras įsakė atstatyti Braclavą, nes miestas buvo Moldavijos vaivados nusiaubtas ir sudegintas.
 - susijęs iš Brasta: Lietuvos metraštis pasakoja, kad Kęstutis atvyko į Gardiną pas sūnų, o žmoną pasiuntė į Brastą, pasikliaudamas žentu Jonušu.
 - susijęs iš Bukovina: Lietuvos metraštis pasakoja, kad Olbrachto kariuomenė buvo Bukovinoje, kai ją užpuolė Moldavijos vaivada Steponas.
@@ -248,12 +281,9 @@ Nenurodyta
 - susijęs iš Starodubas: Lietuvos metraštis Skirmantą vadina didžiuoju kunigaikščiu ir pasakoja, kad po pergalės prie Kaidanovo jis Rusų žemėje paėmė Starodubą.
 - susijęs iš Tykioji Sosna: Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.
 - susijęs iš Tykioji Sosna: Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.
-- susijęs iš Ugra: Lietuvos metraštis Vytauto žygį prie Ugros ir Okos aiškina kaip kerštą Maskvos didžiajam kunigaikščiui už įžeidimą.
 - susijęs iš Vilnius: Jogailos šalininkai Vilniuje, pasinaudoję Vytauto išvykimu, Jogailos vardu užėmė pilį.
 - susijęs iš Vilnius: Vytautui išvykus iš Vilniaus, Jogailos šalininkai jo vardu užėmė pilį.
 - susijęs iš Vilnius: Lietuvos metraštis nurodo, kad rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.
-- susijęs iš Vilnius: Kazimieras, priėmęs volyniečių ištikimybės priesaiką, su Lietuvos kunigaikščiais ir Tarybos ponais išvyko į Vilnių, kurį metraštis vadina Vytauto sostine.
-- susijęs iš Vilnius: Tą pačią vasarą į Vilnių pas Aleksandrą atvyko jo motina Elžbieta, brolis Fridrichas ir seserys Barbora bei Elžbieta, o metraštis pabrėžia džiaugsmingą jų priėmimą.
 - susijęs iš Visla: Lietuvos metraštis Jogailos žygius į Lenkų žemę vaizduoja kaip žalą ir krikščionių kraujo praliejimą nuo Lietuvos sienų iki Vislos.
 - susijęs iš Volynė: Metraštis pasakoja, kad Kazimieras atvyko į Vilnių ir sėdo valdyti visos Didžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
 - susijęs iš Voruta: Lietuvos metraštis Vorutą vaizduoja kaip pilį, kurioje Mindaugas užsidarė vengdamas kautis atvirame lauke.
@@ -289,6 +319,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9056d89231d3c99ee4b66e33fa5f95f6c272c9b542f23033a9aa51eb4864f178; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Gardinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: metraštis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "metraštis" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-002
@@ -309,4 +349,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b4cb6d7f204afdf65b2f5213753f81aa08ee1bbe9d9cc1d95a726bf082dbdce7; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Gardinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: metraštis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "metraštis" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9056d89231d3c99ee4b66e33fa5f95f6c272c9b542f23033a9aa51eb4864f178; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Gardinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: metraštis: owner_note_path, thing
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "metraštis" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

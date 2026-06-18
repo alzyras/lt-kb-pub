@@ -24,6 +24,9 @@ Kilus nepasitenkinimui „Lietuviškos Ceitungos“ tautiškumu, redaktorius pav
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8d0edc6a4d6233d008d44ccf6bb6173653dd7ed041dbe379493a461b5001316e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +49,6 @@ Kilus nepasitenkinimui „Lietuviškos Ceitungos“ tautiškumu, redaktorius pav
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8d0edc6a4d6233d008d44ccf6bb6173653dd7ed041dbe379493a461b5001316e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

@@ -47,21 +47,41 @@ Nenurodyta
   global_id: t-59407
   teiginys: 'Kilmingas sūduvis Ruseinis su šeimyna atvyko pas Baigos komtūrą, pasikrikštijo ir po krikšto prašė pamokyti Kristaus tikėjimo.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatos turinį.'
-  susije_objektai: 'location: Baiga; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Ruseinis|Ruseinis]]; mentioned_place: Baiga; mentioned_place: Viena'
+  susije_objektai: 'location: Baiga; mentioned_person: [[objektai/asmenys/Ruseinis|Ruseinis]]; mentioned_place: Baiga; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 521810-522408; hash=82421477b647d126b96d006cd834a6c20a024c69bb30cca752bd52277d5a8205; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Baiga: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Ruseinis: nearest_actor, person, gap=20
+  ryšio_targeto_parinkimas: Baiga: nearest_after_predicate, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Ruseinis" parinktas kaip nearest_actor. Targetas "Baiga" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59408"></a>
 - t-002
   global_id: t-59408
   teiginys: 'Ruseinis teigė išgelbėjęs Marijos su kūdikiu paveikslą nuo sūduvių išniekinimo ir atidavęs jį krikščioniui.'
   sudarymo_pagrindimas: 'Citata pagrindžia Ruseinio veiksmą ir leidžia išplėsti dalines nuorodas į aiškų sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_person: [[objektai/asmenys/Ruseinis|Ruseinis]]; mentioned_place: Kėdainiai; mentioned_place: Raseiniai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Ruseinis|Ruseinis]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_place: Kėdainiai; mentioned_place: Raseiniai'
   temporaliniai_duomenys: 'įvykio data: 1419 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Ruseinio veiksmą ir leidžia išplėsti dalines nuorodas į aiškų sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 522586-523597; hash=6c96e38616cfa927fc5cc08dd64f7dd87465f8a1bd0adb28095125226b476a8c; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ruseinis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ruseinio atsivertimas ir mirtis: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Ruseinis: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ruseinio atsivertimas ir mirtis" parinktas kaip owner_note_path. Targetas "Ruseinis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -106,5 +126,35 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 522586-523597; hash=6c96e38616cfa927fc5cc08dd64f7dd87465f8a1bd0adb28095125226b476a8c; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ruseinis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ruseinio atsivertimas ir mirtis: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Ruseinis: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ruseinio atsivertimas ir mirtis" parinktas kaip owner_note_path. Targetas "Ruseinis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 521810-522408; hash=82421477b647d126b96d006cd834a6c20a024c69bb30cca752bd52277d5a8205; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Baiga: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Ruseinis: nearest_actor, person, gap=20
+  ryšio_targeto_parinkimas: Baiga: nearest_after_predicate, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Ruseinis" parinktas kaip nearest_actor. Targetas "Baiga" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 521810-522408; hash=82421477b647d126b96d006cd834a6c20a024c69bb30cca752bd52277d5a8205; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Baiga: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Ruseinis: nearest_actor, person, gap=20
+  ryšio_targeto_parinkimas: Baiga: nearest_after_predicate, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Ruseinis" parinktas kaip nearest_actor. Targetas "Baiga" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.

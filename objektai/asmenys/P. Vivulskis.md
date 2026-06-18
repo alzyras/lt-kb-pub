@@ -23,6 +23,16 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=375f72543ab259ebe2aff0e53862605e517d52bda3ef95ea73a1a1a17f1509ca; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antonievičius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: P. Vivulskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Antonievičius: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "P. Vivulskis" parinktas kaip owner_note_path. Targetas "Antonievičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-40385"></a>
 - t-002
@@ -31,6 +41,16 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Antonievičius|Antonievičius]]; mentioned_person: [[objektai/asmenys/Merlinas|Merlinas]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=40d2a3625740960cf8f4573ef7e51130a1b18cfedef5bf787122a0f10b74ad22; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: P. Vivulskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "P. Vivulskis" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -72,4 +92,24 @@ Vivulskio dalgininkai ir dvi rezervinės 4-tojo bataliono kuopos. Vivulskį ir �
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=375f72543ab259ebe2aff0e53862605e517d52bda3ef95ea73a1a1a17f1509ca; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antonievičius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: P. Vivulskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Antonievičius: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "P. Vivulskis" parinktas kaip owner_note_path. Targetas "Antonievičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=40d2a3625740960cf8f4573ef7e51130a1b18cfedef5bf787122a0f10b74ad22; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: P. Vivulskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "P. Vivulskis" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -40,7 +40,7 @@ Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai y
   global_id: t-11685
   teiginys: 'Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis.'
   sudarymo_pagrindimas: 'Patikslintas šaltinyje nurodytas pagrindas ir išlaikytas faktas apie titulą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/diarchija|diarchija]]; mentioned_object: [[objektai/posakiai/supremus dux|supremus dux]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/supremus dux|supremus dux]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/diarchija|diarchija]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1379 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslintas šaltinyje nurodytas pagrindas ir išlaikytas faktas apie titulą.'

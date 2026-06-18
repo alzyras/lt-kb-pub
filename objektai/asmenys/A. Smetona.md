@@ -39,15 +39,35 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys perima publicistinę formuluotę; citata leidžia aiškesnį enciklopedinį sakinį.'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=81e1f41e630b056f69d209372feb6364969f30ab0a4b072279312f788c6e0918; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-77966"></a>
 - t-002
   global_id: t-77966
   teiginys: 'Vytauto Didžiojo kultas susiejo A. Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie A. Smetonos valdžios reprezentaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Kaunas'
   pagrindžia:
     - c-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f75b5253b91423b3c784ed865c19422cb58da4360bb51f2fddeeccc6e04f7677; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Berlynas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77967"></a>
 - t-003
@@ -60,6 +80,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   temporalinis_llm_pakomentavimas: 'Pašalinta perteklinė formuluotė „bet kokias“, išlaikant citatos prasmę.'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 269730-270156; hash=6873f21cf882969186a098385f13a0de52ac3c0b98bfedd61a318884d06b4b76; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Berlynas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77968"></a>
 - t-004
@@ -69,6 +99,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   susije_objektai: 'mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Vladas Mironas|Vladas Mironas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1a3a61373011969f0ad49eee9dd28892c5299f5407b3f209b3885568bc05e985; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Didžioji Britanija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Didžioji Britanija: mention_match, place, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Didžioji Britanija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77969"></a>
 - t-005
@@ -81,6 +121,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos informaciją.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=54b08b047c42bcdaf93bc4935c6ef22aa89407061ba20e14b90aa7d23ba8ce1a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77970"></a>
 - t-006
@@ -93,18 +143,31 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai perteikia citatoje nurodytą konstitucijos poveikį.'
   pagrindžia:
     - c-016
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 315549-315959; hash=8475bcb9c9b61609fdd41889b3e0c752940910dfa67352a388d5b10e3b692efe; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 <a id="claim-t-77971"></a>
 - t-007
   global_id: t-77971
   teiginys: '1936 m. kovą Kaune pasakyta A. Smetonos kalba užvėrė duris kompromisui su Lenkija.'
   sudarymo_pagrindimas: 'Patikslinta, kokiam kompromisui ir kokiomis aplinkybėmis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/J. Tūbelis|J. Tūbelis]]; mentioned_place: Estija; mentioned_place: Kaunas; mentioned_place: Latvija; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/J. Tūbelis|J. Tūbelis]]; mentioned_place: Estija; mentioned_place: Kaunas; mentioned_place: Latvija'
   temporaliniai_duomenys: 'įvykio data: 1936 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslinta, kokiam kompromisui ir kokiomis aplinkybėmis.'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d079177b76140383223573d6ca177ebd8a743b9cb8370256ac8195845736bb2a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> III Seimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: III Seimas: mention_match, group, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "III Seimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77972"></a>
 - t-008
@@ -114,18 +177,38 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-018
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 318064-318861; hash=bff9a5ff377fd12c01b01632a9b1f39ba5d0e62918d7e54326d0cf89c6526c0a; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=11
+  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77973"></a>
 - t-009
   global_id: t-77973
   teiginys: 'A. Smetona demokratiją Lietuvoje lygino su vaikams nupirktais per dideliais batais, nes parlamentarizmo tradicija dar nebuvo įsitvirtinusi.'
   sudarymo_pagrindimas: 'Fragmentas perrašytas kaip aiškus autoriaus vertinimo teiginys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: po 1926 m.; įvykio data: 1926 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Fragmentas perrašytas kaip aiškus autoriaus vertinimo teiginys.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bc71867760022ec125e600f10e64a47ae63d889b208d5f8c2c10ded06fb72f4b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Valstybės Taryba: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Valstybės Taryba: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Valstybės Taryba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-77974"></a>
 - t-010
@@ -135,6 +218,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b5cb371c19378978e7dac9be4d9c19d92ebd422e2c2686e9f2ae0c4adc7e02f2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77975"></a>
 - t-011
@@ -147,15 +240,35 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citata apie Tautos šventę.'
   pagrindžia:
     - c-020
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=93bc97be091fc0dff12172745a08523b4d03ab1a222f33bf16b98688112df3cc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77976"></a>
 - t-012
   global_id: t-77976
   teiginys: 'A. Smetona agresyvesniems jaunalietuviams pareiškė, kad žydų apribojimų nereikia ir „vietos visiems užteks“.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje trūksta konteksto, kad pareiškimas buvo susijęs su raginimais apriboti žydus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Filosemitas|Filosemitas]]; mentioned_object: [[objektai/posakiai/„vietos visiems užteks“|„vietos visiems užteks“]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/posakiai/„vietos visiems užteks“|„vietos visiems užteks“]]; mentioned_object: [[objektai/zodynas/Filosemitas|Filosemitas]]'
   pagrindžia:
     - c-014
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a1584e7d41a501089a4d62cdfe472e396f04fc66303b7b659298efc2745efae6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žydai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77977"></a>
 - t-013
@@ -163,13 +276,23 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginys: 'Smetona, kuris prisiekė laikytis šalies konstitucijos.'
   pagrindžia:
     - c-015
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=976b7123d81a80a656b31601e7cdc7c2fe8a2e0f93a946d29fb3c45d89a20416; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77978"></a>
 - t-014
   global_id: t-77978
   teiginys: 'A. Smetona laikėsi nuostatos, kad tautinės mažumos turi mylėti Lietuvą ir gerbti lietuvių tautą už joms suteiktas kultūrines teises.'
   sudarymo_pagrindimas: 'Teiginys turi aiškų predikatą ir perteikia A. Smetonos nuostatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Tautinės mažumos|Tautinės mažumos]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Tautinės mažumos|Tautinės mažumos]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Žydai|Žydai]]'
   temporaliniai_duomenys: 'įvykio data: 1923 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys turi aiškų predikatą ir perteikia A. Smetonos nuostatą.'
@@ -181,25 +304,45 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   global_id: t-77979
   teiginys: '1940 m. birželį iš Lietuvos išvykęs A. Smetona per Vokietiją, Šveicariją ir Portugaliją pasiekė JAV.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Klivlandas; mentioned_place: Lietuva; mentioned_place: Portugalija; mentioned_place: Viena; mentioned_place: Šveicarija'
+  susije_objektai: 'mentioned_place: Portugalija; mentioned_place: Šveicarija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Klivlandas; mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1944 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-011
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6b0135246e2fe0343ae3918cd072c9f00d42a1e48ecada67cd5ef939736c6736; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-77980"></a>
 - t-016
   global_id: t-77980
   teiginys: '1927 m. vasarą ir rudenį A. Smetona keliavo po Lietuvos miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citatos informacija.'
-  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Lietuva'
+  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]'
   semantiniai_rysiai: '[[objektai/asmenys/A. Smetona|A. Smetona]] keliavo į Lietuva'
   temporaliniai_duomenys: 'kelionės data: 1926-1940; kelionės data: 1927 m.; kelionės data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „A. Smetona keliavo į Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citatos informacija.'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=df5923930d8c8618edda53beddb638ce8d524501d5944c327f175f7bb9f9e18a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77981"></a>
 - t-017
@@ -212,42 +355,82 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Smetonos sprendimus po Klaipėdos nacių bylos.'
   pagrindžia:
     - c-013
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 360768-361304; hash=c9d86a1b0d85c42cc6b080d334a1eb8c4003ec845ea77bbcaa8b2b95053e8bcf; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-77983"></a>
 - t-018
   global_id: t-77983
   teiginys: '1918 m. kovo 23 d. A. Smetonos vadovaujama Tarybos delegacija Berlyne pristatė Vasario 16-osios deklaraciją Vokietijos kancleriui.'
   sudarymo_pagrindimas: 'Pašalinta nutrūkusi sakinio pabaiga.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Wilhelmas II|Wilhelmas II]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Berlynas; mentioned_place: Vokietija; mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Wilhelmas II|Wilhelmas II]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta nutrūkusi sakinio pabaiga.'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=710f25aecdf1bcb48dadcc3e30ea79d3e10bc0f5a7b51ff9d831ebcdd379b731; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-77984"></a>
 - t-019
   global_id: t-77984
   teiginys: '1919 m. rugsėjo 26 d. Kaune prezidentas A. Smetona iš balkono sveikino minias, susirinkusias dėl Didžiosios Britanijos de facto pripažinimo.'
   sudarymo_pagrindimas: 'Pridėtas būtinas įvykio kontekstas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Didžioji Britanija; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_place: Didžioji Britanija; mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Kaunas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pridėtas būtinas įvykio kontekstas.'
   pagrindžia:
     - c-019
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=015dce61ff3280c3ceb71281d443457594ec9fd6b502454326bb744db4984a72; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-77985"></a>
 - t-020
   global_id: t-77985
   teiginys: '1918 m. gruodžio 21 d. A. Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys su aiškiu veikėju, data ir rezultatu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Berlynas; mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys su aiškiu veikėju, data ir rezultatu.'
   pagrindžia:
     - c-012
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 378259-379092; hash=719cfa11b6d498a2c519189b3a0e7958d358f144cc886488c3c479a17c59c620; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75629|A. Hitleris]]: 1939 m. kovo 23 d. A. Hitleris karo laivu atplaukė į Klaipėdą ir iš teatro balkono pasakė kalbą džiūgaujantiems vietos vokiečiams.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75632|A. Hitleris]]: 1933 m. A. Hitleris atėjo į valdžią Vokietijoje.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75633|A. Hitleris]]: A. Smetona 1935 m. privačiai apibūdino A. Hitlerį kaip pavojingą politinį pamišėlį, galintį dėl savo pseudoidėjų išnaikinti pusę Europos.
@@ -255,17 +438,12 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77998|A. Voldemaras]]: 1929 m. rugsėjį A. Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77999|A. Voldemaras]]: A. Smetona ir A. Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78002|A. Voldemaras]]: A. Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras.
-- susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169958|Antanas Merkys]]: Sovietų spaudimo akivaizdoje Maskva pakvietė atvykti Lietuvos ministrą pirmininką Antaną Merkį.
 - susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169961|Antanas Merkys]]: 1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietine veikla.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75709|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad Lietuvoje „vietos visiems užteks“.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75712|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1928 m. gegužės 15 d. Antanas Smetona nauja konstitucija sustiprino savo viršenybę prieš Seimą.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75713|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1927 m. vasarą ir rudenį Antanas Smetona keliavo po miestelius, lankė maldos namus ir aiškino naujos vadovybės planus.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75714|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75716|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Po 1939 m. rudens A. Smetonos autoritarinis režimas netenkino nei dešiniojo lietuvių jaunimo sparno, nei kairiųjų jaunuolių.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75717|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona buvo Vilniuje pasilikusio Komiteto pirmininkas.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75718|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1927 m. vasarą ir rudenį Antanas Smetona keliavo po miestelius, aiškindamas naujos vadovybės planus įvesti tvarką šalyje.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75720|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona buvo Vykdomojo Komiteto biuro narys.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75721|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona 1793–1795 m. LDK padėtį apibūdino kaip laiką, kai ji liovėsi būti valstybe.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75723|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75724|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1938 m. gegužės 12 d. prezidentas Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75725|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona netrukus pakeitė Klaipėdos nacių teismo skirtą mirties bausmę kalėjimu iki gyvos galvos, o 1937 m. amnestavo kaltinamuosius.
@@ -277,52 +455,110 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75731|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos režimo prioritetai buvo tautinės kultūros kūrimas ir lietuviškai kalbančios Lietuvos formavimas.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75732|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėždavo stiprių prezidento galių būtinybę ir nevertino politinių partijų vaidmens.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75733|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Po 1939 m. rudens nuosaikus Antano Smetonos autoritarinis režimas netenkino nei dešinės radikalų, nei dalies kairiojo jaunimo.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75734|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Prezidentas A. Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75735|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyderius.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75736|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona teigė, kad be faktinės Klaipėdos kontrolės Lietuva neturės juridinės kontrolės.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75737|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75738|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios, nors kalbėjo apie lietuvių tautinės kultūros kūrimą.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75739|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželio 15 d. Antano Smetonos siūlymą priešintis ginklu palaikė vos du ministrai.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75740|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75741|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos valstybės modelio ir režimo prioritetai buvo tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75743|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos valstybės modelio prioritetai – tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva – iš esmės buvo įgyvendinti.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75745|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1917 m. A. Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks radikaliosios ir konservatyviosios dalių prieštaravimus.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75746|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75747|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Po 1939 m. rudens Lietuvos jaunimo dešinės ir kairės radikalų netenkino nuosaikus Antano Smetonos autoritarinis režimas.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75748|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1938 m. gegužės 12 d. Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75749|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1927 m. paleidęs III Seimą, Antanas Smetona nuo valdžios nustūmė stipriausią šalies politinę jėgą – krikščionis demokratus.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75751|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Prezidentas Antanas Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75752|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai išrinko Antaną Smetoną Lietuvos prezidentu.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75753|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona buvo Lietuvos Tarybos narys ir jos pirmininkas.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75754|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Nuo 1930 m. per Tautos šventę valstybės įstaigas puošdavo dideli Vytauto Didžiojo ir Antano Smetonos portretai.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75755|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. kovo 23 d. Antano Smetonos vadovaujama Tarybos delegacija Berlyne pristatė deklaracijos turinį Georgui von Hertlingui.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75756|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai perrinko Antaną Smetoną Lietuvos prezidentu.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75757|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Konstitucija įteisino autoritarinį A. Smetonos valdymą.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75758|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1928 m. gegužės 15 d. Antanas Smetona nauja konstitucija sustiprino savo pozicijas ir įteisino viršenybę prieš Seimą.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75760|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. lapkričio 2 d. A. Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75761|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. lapkričio 2 d. Antanas Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75764|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1928 m. Konstitucija įteisino autoritarinį Antano Smetonos valdymą.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75765|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios, nors kalbėjo apie lietuvių tautinės kultūros kūrimą.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75766|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75767|Augustinas Voldemaras]]: Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75770|Augustinas Voldemaras]]: Augustinas Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75771|Augustinas Voldemaras]]: A. Voldemaras buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75774|Augustinas Voldemaras]]: 1918 m. lapkričio 23 d. Augustinui Voldemarui teko skelbti mobilizaciją.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75777|Augustinas Voldemaras]]: Augustinas Voldemaras Vilniaus klausimu pragmatiškai ieškojo SSRS paramos prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75780|Augustinas Voldemaras]]: 1929 m. Augustinas Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75781|Augustinas Voldemaras]]: Augustinas Voldemaras buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime.
+- susijęs iš [[objektai/asmenys/J. Tūbelis.md#claim-t-78056|J. Tūbelis]]: J. Tūbelis pareiškė, kad Lietuvos, Latvijos ir Estijos karinis aljansas nebūtų naudingas Lietuvai.
+- susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170077|Juozas Tūbelis]]: Juozas Tūbelis ir Antanas Smetona pareiškė, kad Lietuvos, Latvijos ir Estijos karinė sąjunga nebūtų naudinga Lietuvai.
+- susijęs iš [[objektai/asmenys/Maksas fon Badenas.md#claim-t-19123|Maksas fon Badenas]]: Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą.
+- susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64239|Viačeslavas Molotovas]]: Viačeslavas Molotovas 1940 m. birželio 7 d. Maskvoje brutaliu elgesiu sukrėtė Antaną Merkį.
+- susijęs iš [[objektai/daiktai/Pramonės ir prekybos rūmai Kaune.md#claim-t-25169|Pramonės ir prekybos rūmai Kaune]]: Pramonės ir prekybos rūmų Kaune architektas buvo V. Landsbergis-Žemkalnis; objektas datuojamas 1938 m.
+- susijęs iš [[objektai/daiktai/Vytauto Didžiojo ir A. Smetonos portretai Tautos šventės metu.md#claim-t-19611|Vytauto Didžiojo ir A. Smetonos portretai Tautos šventės metu]]: Nuo 1930 m. Tautos šventės dieną valstybines įstaigas puošdavo dideli Vytauto Didžiojo ir A. Smetonos portretai.
+- susijęs iš [[objektai/grupes/Antano Smetonos lituanistikos institutas.md#claim-t-19633|Antano Smetonos lituanistikos institutas]]: 1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį.
+- susijęs iš [[objektai/grupes/Antantė.md#claim-t-19634|Antantė]]: Antantės šalys pareikalavo, kad Vokietija leistų panaudoti savo dalinius bolševizmui stabdyti.
+- susijęs iš [[objektai/grupes/Liaudies vyriausybė.md#claim-t-19798|Liaudies vyriausybė]]: 1940 m. birželio 17 d. sudaryta marionetinė Liaudies vyriausybė, į kurią įėjo A. Smetonos valdymą kritikavę inteligentai.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179247|Lietuviai]]: Per nepilnus du nepriklausomybės dešimtmečius Lietuva tapo aiškiai lietuviška ir nebesutapatinama su Lenkija ar Rusija.
+- susijęs iš [[objektai/grupes/Oswiata.md#claim-t-19959|Oswiata]]: Oswiata („Apšvieta“) buvo lenkų kultūros organizacija, padėjusi švietimui ir gavusi pinigų iš Lenkijos.
+- susijęs iš [[objektai/grupes/Raudonoji armija.md#claim-t-78432|Raudonoji armija]]: Po 1939 m. rudens Raudonosios armijos įgulos Lietuvoje veikė jaunimo politines nuostatas.
+- susijęs iš [[objektai/grupes/SSRS kariuomenė.md#claim-t-183184|SSRS kariuomenė]]: V. Molotovas J. Urbšiui pareiškė, kad SSRS kariuomenė įžygiuos į Lietuvą nepriklausomai nuo Lietuvos atsakymo.
+- susijęs iš [[objektai/grupes/Valstybės gynimo taryba.md#claim-t-20058|Valstybės gynimo taryba (institucija)]]: Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą, pagal kurį apie 20 proc. biudžeto teko krašto gynybai.
+- susijęs iš [[objektai/grupes/Valstybės saugumo departamentas.md#claim-t-183191|Valstybės saugumo departamentas]]: Valstybės saugumo departamentas kartu su policija buvo vienas iš A. Smetonos režimo ramsčių.
+- susijęs iš [[objektai/grupes/Valstybės saugumo departamentas.md#claim-t-20059|Valstybės saugumo departamentas]]: Valstybės saugumo departamentas kartu su policija buvo vienas iš A. Smetonos režimo ramsčių.
+- susijęs iš [[objektai/grupes/Voldemarininkai.md#claim-t-45270|Voldemarininkai]]: Priėmus Lenkijos ultimatumą ultraradikalieji voldemarininkai prisidėjo prie A. Smetonos valdymui opozicinių jėgų telkimosi.
+- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117387|Žydai]]: Lietuvoje žydai galėjo tenkinti nacionalinius kultūrinius poreikius, bet su lietuviais gyveno atskirus, daugiausia darbo ryšiais susijusius gyvenimus.
+- susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-23315|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: 1926 m. gruodžio 19 d. nepaprastajame III Seimo posėdyje A. Smetona išrinktas prezidentu.
+- susijęs iš [[objektai/ivykiai/1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.).md#claim-t-20144|1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.)]]: 1928 m. gegužės 15 d. Antanas Smetona nauja konstitucija sustiprino savo pozicijas ir įteisino viršenybę prieš Seimą.
+- susijęs iš [[objektai/ivykiai/1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.).md#claim-t-20145|1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.)]]: 1928 m. Konstitucija įteisino autoritarinį Antano Smetonos valdymą.
+- susijęs iš [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.).md#claim-t-20148|1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]: 1938 m. Konstitucija absoliučiai garantavo A. Smetonos autoritarinį režimą.
+- susijęs iš [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.).md#claim-t-20149|1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]: 1938 m. gegužės 12 d. paskelbta nauja Lietuvos konstitucija sustiprino autoritarinį prezidento režimą.
+- susijęs iš [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.).md#claim-t-20156|A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]: Antanas Smetona sudarė sau sąlygas būti perrenkamam, o ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu.
+- susijęs iš [[objektai/ivykiai/Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.).md#claim-t-20162|Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.)]]: 1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį.
+- susijęs iš [[objektai/ivykiai/Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.).md#claim-t-77895|Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.)]]: 1934 m. gen. Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves buvo pavojingiausias voldemarininkų bandymas puču grąžinti A. Voldemarą į valdžią.
+- susijęs iš [[objektai/ivykiai/Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.).md#claim-t-20207|Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.)]]: 1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį.
+- susijęs iš [[objektai/ivykiai/Juozo Pajaujo grupės perversmo plano žlugimas (1927 m. pavasaris).md#claim-t-20213|Juozo Pajaujo grupės perversmo plano žlugimas (1927 m. pavasaris)]]: 1927 m. pavasarį, suėmus Juozą Pajaujį, žlugo apie jį susibūrusios grupės perversmo planas grąžinti Seimą.
+- susijęs iš [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas).md#claim-t-75114|Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]: Po Klaipėdos nacių teismo Antanas Smetona mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.
+- susijęs iš [[objektai/ivykiai/Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.).md#claim-t-75117|Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)]]: Kovo 17 d. Varšuva įteikė Lietuvai ultimatumą, reikalaudama užmegzti diplomatinius santykius ir be išlygų atsakyti teigiamai.
+- susijęs iš [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.).md#claim-t-75123|Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]: Per Liaudies seimo rinkimų agitaciją valdžia daug dėmesio skyrė Antano Smetonos režimo kritikai ir niekinimui.
+- susijęs iš [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis).md#claim-t-66771|Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]: 1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietiškumu.
+- susijęs iš [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis).md#claim-t-75263|S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]: 1935 m. balandį Stasys Lozoraitis įteikė prezidentui Antanui Smetonai slaptą memorandumą apie Klaipėdos ir Vilniaus padėtį.
+- susijęs iš [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.).md#claim-t-45446|SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]: V. Molotovas J. Urbšiui pareiškė, kad, nepaisant Lietuvos atsakymo, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
+- susijęs iš [[objektai/ivykiai/Valstybės gynimo tarybos kariuomenės perorganizavimo plano priėmimas (1935 m.).md#claim-t-20525|Valstybės gynimo tarybos kariuomenės perorganizavimo plano priėmimas (1935 m.)]]: Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą, pagal kurį apie 20 proc. biudžeto turėjo būti skirta krašto gynybai.
+- susijęs iš [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos.md#claim-t-20818|Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]: 1927 m. vasarą ir rudenį A. Smetona keliavo po miestelius su oficialia palyda ir buvo iškilmingai sutinkamas prie puošnių sutikimo vartų.
+- susijęs iš [[objektai/posakiai/„gal neokupuos“ „o gal nesovietizuos “.md#claim-t-26353|„gal neokupuos“ „o gal nesovietizuos “]]: Sovietų okupacijos akivaizdoje viltys, kad jie „gal neokupuos“ ar „o gal nesovietizuos“, žlugo.
+- susijęs iš [[objektai/posakiai/„vidurainės [A. Smetonos terminas – Red.] linijos“.md#claim-t-26349|„vidurainės [A. Smetonos terminas – Red.] linijos“]]: A. Smetona „viduraine linija“ vadino siekį užsienio politikoje nesusisieti su konkrečia valstybe ar jų grupe.
+- susijęs iš A. Smetonos laiškas Michailui Kalininui: Taikingas A. Smetonos laiškas sovietų prezidentui Michailui Kalininui nepadėjo išvengti 1940 m. birželio 14 d. sovietų ultimatumo Lietuvai.
+- susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
+- susijęs iš Lietuvos Konstitucija (1928 m.): 1928 m. gegužės 15 d. nauja Konstitucija sustiprino Antano Smetonos galias prieš Seimą ir įteisino autoritarinį valdymą.
+- susijęs iš Lietuvos Konstitucija (1928 m.): 1928 m. Lietuvos Konstitucija įteisino Antano Smetonos viršenybę prieš Seimą ir teisę leisti įstatymus.
+- susijęs iš Valstybės gynimo tarybos kariuomenės perorganizavimo planas (1935 m.): Valstybės gynimo tarybos priimtas kariuomenės perorganizavimo planas numatė apie 20 proc. biudžeto skirti krašto gynybai.
+- susijęs iš Vasario 16 Aktas: 1918 m. kovo 23 d. Berlyne Antano Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.
+- susijęs iš Australija: Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.
+- susijęs iš Berlynas: Kovo 23 dieną Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.
+- susijęs iš Kanada: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Kanadoje ir kitose SSRS aneksijos nepripažinusiose šalyse.
+- susijęs iš Lietuva: 1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.
+- susijęs iš Vokietija: 1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis ir su ja pasiekė daugiausia užsienio politikos susitarimų.
+- susijęs iš [[objektai/zodynas/Filosemitas.md#claim-t-77795|Filosemitas]]: Filosemitu vadintas Antanas Smetona stabdė raginimus apriboti žydus ir pareiškė, kad Lietuvoje vietos užteks visiems.
+- susijęs iš [[objektai/zodynas/Lietuviška Lietuva.md#claim-t-75571|Lietuviška Lietuva]]: Lietuviška Lietuva, nors tarpais buvo be Vilniaus ar Klaipėdos, laikyta didžiausiu tautos kūrėjų pasiekimu.
+- susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108564|administracinė linija demarkacijos linija]]: 1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį.
+- susijęs iš [[objektai/zodynas/administracinė linija.md#claim-t-45777|administracinė linija]]: 1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį.
+- susijęs iš [[objektai/zodynas/konstitucinė monarchija.md#claim-t-15627|konstitucinė monarchija]]: Konstitucinė monarchija liko Lietuvos Tarybos darbotvarkėje, Berlyne svarstant personalinę uniją su Saksonija arba Prūsija.
+- susijęs iš [[objektai/zodynas/tautos atstovai.md#claim-t-183476|tautos atstovai]]: 1928 m. Konstitucija numatė, kad prezidentą septyneriems metams renka ypatingi tautos atstovai.
+- susijęs iš [[objektai/zodynas/tautos atstovai.md#claim-t-70357|tautos atstovai]]: 1928 m. Konstitucija numatė, kad prezidentą septyneriems metams renka ypatingi tautos atstovai.
+- susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169958|Antanas Merkys]]: Sovietų spaudimo akivaizdoje Maskva pakvietė atvykti Lietuvos ministrą pirmininką Antaną Merkį.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75716|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Po 1939 m. rudens A. Smetonos autoritarinis režimas netenkino nei dešiniojo lietuvių jaunimo sparno, nei kairiųjų jaunuolių.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75717|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona buvo Vilniuje pasilikusio Komiteto pirmininkas.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75720|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona buvo Vykdomojo Komiteto biuro narys.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75721|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona 1793–1795 m. LDK padėtį apibūdino kaip laiką, kai ji liovėsi būti valstybe.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75734|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Prezidentas A. Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75736|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona teigė, kad be faktinės Klaipėdos kontrolės Lietuva neturės juridinės kontrolės.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75745|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1917 m. A. Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks radikaliosios ir konservatyviosios dalių prieštaravimus.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75752|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai išrinko Antaną Smetoną Lietuvos prezidentu.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75753|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona buvo Lietuvos Tarybos narys ir jos pirmininkas.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75756|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai perrinko Antaną Smetoną Lietuvos prezidentu.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75757|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Konstitucija įteisino autoritarinį A. Smetonos valdymą.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75760|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. lapkričio 2 d. A. Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75764|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1928 m. Konstitucija įteisino autoritarinį Antano Smetonos valdymą.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75766|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime.
+- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75771|Augustinas Voldemaras]]: A. Voldemaras buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75785|Augustinas Voldemaras]]: Po M. Sleževičiaus vyriausybės atstatydinimo K. Grinius pavedė tautininkui A. Voldemarui sudaryti naują Ministrų kabinetą.
 - susijęs iš [[objektai/asmenys/Georgas fon Hertlingas.md#claim-t-18913|Georgas fon Hertlingas]]: Kovo 23 d. Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui fon Hertlingui.
-- susijęs iš [[objektai/asmenys/J. Tūbelis.md#claim-t-78056|J. Tūbelis]]: J. Tūbelis pareiškė, kad Lietuvos, Latvijos ir Estijos karinis aljansas nebūtų naudingas Lietuvai.
 - susijęs iš [[objektai/asmenys/Jeronimas Plečkaitis.md#claim-t-26446|Jeronimas Plečkaitis]]: Jeronimas Plečkaitis vadovavo sukilėliams, kurie po 1927 m. rugsėjo pučų pasitraukė į užsienį ir vykdė teroro veiksmus.
 - susijęs iš [[objektai/asmenys/Juozas Pajaujis.md#claim-t-19016|Juozas Pajaujis]]: 1927 m. pavasarį apie Seimo narį Juozą Pajaujį susibūrusios grupės perversmo planas žlugo suėmus J. Pajaujį.
-- susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170077|Juozas Tūbelis]]: Juozas Tūbelis ir Antanas Smetona pareiškė, kad Lietuvos, Latvijos ir Estijos karinė sąjunga nebūtų naudinga Lietuvai.
 - susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170081|Juozas Tūbelis]]: 1929 m. rugsėjo 23 d. prezidentas Antanas Smetona ministru pirmininku paskyrė ekonomistą Juozą Tūbelį.
 - susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170083|Juozas Tūbelis]]: Juozas Tūbelis 1931–1938 m. ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai.
 - susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19030|Juozas Urbšys]]: Birželio 14 d. vakare Juozas Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai kelti sovietų reikalavimai.
 - susijęs iš [[objektai/asmenys/Justinas Staugaitis.md#claim-t-19036|Justinas Staugaitis]]: 1918 m. lapkričio 2 d. Justinas Staugaitis buvo vienas iš dviejų Tarybos prezidiumo vicepirmininkų.
 - susijęs iš [[objektai/asmenys/Juzefas Bekas.md#claim-t-19037|Juzefas Bekas]]: 1936 m. sausį Lenkijos užsienio reikalų ministras Juzefas Bekas savo kalboje išplūdo Lietuvą.
-- susijęs iš [[objektai/asmenys/Maksas fon Badenas.md#claim-t-19123|Maksas fon Badenas]]: Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Taryba pakvietė Augustiną Voldemarą suformuoti ministrų kabinetą.
 - susijęs iš [[objektai/asmenys/Matijas Ercbergeris.md#claim-t-26455|Matijas Ercbergeris]]: Matijas Ercbergeris rėmė Lietuvos Tarybos monarchistus, kai 1918 m. liepos 13 d. Vilhelmas fon Urachas buvo pakviestas į Lietuvos sostą.
 - susijęs iš [[objektai/asmenys/Michailas Kalininas.md#claim-t-19136|Michailas Kalininas]]: Antano Smetonos laiškas sovietų prezidentui Michailui Kalininui nepadėjo išvengti 1940 m. birželio 14 d. SSRS ultimatumo Lietuvai.
 - susijęs iš [[objektai/asmenys/Mykolas Sleževičius.md#claim-t-75992|Mykolas Sleževičius]]: Mykolo Sleževičiaus vyriausybė 1918 m. pasitraukė iš Vilniaus į Kauną.
@@ -334,7 +570,6 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101714|Stasys Raštikis]]: Stasys Raštikis ir Vincas Vitkauskas motyvavo, kad Lietuva viena negalėtų rimčiau pasipriešinti sovietų karinei mašinai.
 - susijęs iš [[objektai/asmenys/V. Vitkauskas.md#claim-t-19300|V. Vitkauskas]]: Kariuomenės vadas generolas V. Vitkauskas motyvavo, kad Lietuva viena negali rimčiau pasipriešinti sovietų karinei mašinai.
 - susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64238|Viačeslavas Molotovas]]: 1940 m. birželio 14 d. Juozas Urbšys iš Viačeslavo Molotovo gavo ultimatumą, kuriuo reikalauta įsileisti papildomus sovietų karinius dalinius ir pakeisti vyriausybę.
-- susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64239|Viačeslavas Molotovas]]: Viačeslavas Molotovas 1940 m. birželio 7 d. Maskvoje brutaliu elgesiu sukrėtė Antaną Merkį.
 - susijęs iš [[objektai/asmenys/Vilhelmas fon Urachas.md#claim-t-26463|Vilhelmas fon Urachas]]: Vilhelmas fon Urachas 1918 m. liepos 13 d. buvo pakviestas užimti Lietuvos sostą ir paskelbtas karaliumi Mindaugu II.
 - susijęs iš [[objektai/asmenys/Vladas Mironas.md#claim-t-54006|Vladas Mironas]]: Po Klaipėdos atplėšimo V. Mironą ministro pirmininko poste pakeitė generolas Jonas Černius.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176744|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Nuo 1930 m. rugsėjo 8 d. Tautos šventė minėjo neįvykusį Vytauto karūnavimą ir Švenčiausiosios Mergelės Marijos gimimą.
@@ -345,18 +580,12 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - susijęs iš [[objektai/daiktai/Kino kronikos kameros.md#claim-t-19541|Kino kronikos kameros]]: Prezidentas Antanas Smetona 1927 m. vasarą ir rudenį keliavo po miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų.
 - susijęs iš [[objektai/daiktai/Lietuvos trispalvė.md#claim-t-75339|Lietuvos trispalvė]]: 1919 m. rugsėjo 26 d. virš Kauno skraidę lėktuvai tempė Lietuvos trispalvę.
 - susijęs iš [[objektai/daiktai/Lėktuvai.md#claim-t-77929|Lėktuvai]]: 1919 m. rugsėjo 26 d. Kaune lėktuvai skraidė virš minios, tempdami Lietuvos trispalvę.
-- susijęs iš [[objektai/daiktai/Pramonės ir prekybos rūmai Kaune.md#claim-t-25169|Pramonės ir prekybos rūmai Kaune]]: Pramonės ir prekybos rūmų Kaune architektas buvo V. Landsbergis-Žemkalnis; objektas datuojamas 1938 m.
 - susijęs iš [[objektai/daiktai/Sutikimo vartai.md#claim-t-23305|Sutikimo vartai]]: 1927 m. vasarą ir rudenį Antaną Smetoną miesteliuose iškilmingai sutikdavo prie gėlėmis ir vainikais išdabintų sutikimo vartų.
-- susijęs iš [[objektai/daiktai/Vytauto Didžiojo ir A. Smetonos portretai Tautos šventės metu.md#claim-t-19611|Vytauto Didžiojo ir A. Smetonos portretai Tautos šventės metu]]: Nuo 1930 m. Tautos šventės dieną valstybines įstaigas puošdavo dideli Vytauto Didžiojo ir A. Smetonos portretai.
 - susijęs iš [[objektai/daiktai/Šarvuočiai.md#claim-t-26415|Šarvuočiai]]: 1926 m. gruodžio 17 d. perversmo metu šarvuočiai buvo prie Vyriausiojo štabo.
-- susijęs iš [[objektai/grupes/Antano Smetonos lituanistikos institutas.md#claim-t-19633|Antano Smetonos lituanistikos institutas]]: 1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį.
-- susijęs iš [[objektai/grupes/Antantė.md#claim-t-19634|Antantė]]: Antantės šalys pareikalavo, kad Vokietija leistų panaudoti savo dalinius bolševizmui stabdyti.
 - susijęs iš [[objektai/grupes/Geležinis vilkas.md#claim-t-19696|Geležinis vilkas]]: Antanas Smetona uždarė pusiau slaptą ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“.
 - susijęs iš [[objektai/grupes/Jutrzenka.md#claim-t-19727|Jutrzenka]]: Jutrzenka buvo lenkų kultūros organizacija, padėjusi švietimui ir gavusi pinigų iš Lenkijos.
 - susijęs iš [[objektai/grupes/Katalikų veikimo centras.md#claim-t-19747|Katalikų veikimo centras]]: Katalikų veikimo centras neleido tautininkams monopolizuoti ideologinės ir organizacinės erdvės.
 - susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74194|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas ir Katalikų veikimo centras trukdė tautininkams monopolizuoti ideologinę ir organizacinę erdvę.
-- susijęs iš [[objektai/grupes/Liaudies vyriausybė.md#claim-t-19798|Liaudies vyriausybė]]: 1940 m. birželio 17 d. sudaryta marionetinė Liaudies vyriausybė, į kurią įėjo A. Smetonos valdymą kritikavę inteligentai.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179247|Lietuviai]]: Per nepilnus du nepriklausomybės dešimtmečius Lietuva tapo aiškiai lietuviška ir nebesutapatinama su Lenkija ar Rusija.
 - susijęs iš [[objektai/grupes/Lietuvių tautininkų sąjunga.md#claim-t-44993|Lietuvių tautininkų sąjunga]]: Juozas Tūbelis 1931–1938 m. pirmininkavo ir Lietuvos vyriausybei, ir Lietuvių tautininkų sąjungai.
 - susijęs iš [[objektai/grupes/Lietuvos diplomatinė tarnyba.md#claim-t-19868|Lietuvos diplomatinė tarnyba]]: Lietuvos diplomatinė tarnyba rūpinosi lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje per sovietų okupaciją.
 - susijęs iš [[objektai/grupes/Lietuvos komunistų partija.md#claim-t-78364|Lietuvos komunistų partija]]: A. Smetonai pogrindyje veikusi negausi, apie 1 200 narių turėjusi Lietuvos komunistų partija neatrodė kelianti grėsmę.
@@ -368,78 +597,40 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101472|Lietuvos valstiečių liaudininkų sąjunga]]: Liaudininkas Mykolas Sleževičius skelbė, kad kova tęsis, kol bus sušauktas Seimas.
 - susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101474|Lietuvos valstiečių liaudininkų sąjunga]]: Priėmus Lenkijos ultimatumą prasidėjo krikščionių demokratų ir valstiečių liaudininkų lyderių pasitarimai dėl bendros programos.
 - susijęs iš [[objektai/grupes/Ministerių kabinetas.md#claim-t-19943|Ministerių kabinetas]]: 1928 m. gegužės 15 d. A. Smetona, pritariamas viso Ministerių kabineto, nauja konstitucija įteisino savo viršenybę prieš Seimą.
-- susijęs iš [[objektai/grupes/Oswiata.md#claim-t-19959|Oswiata]]: Oswiata („Apšvieta“) buvo lenkų kultūros organizacija, padėjusi švietimui ir gavusi pinigų iš Lenkijos.
 - susijęs iš [[objektai/grupes/Pochodnia.md#claim-t-19964|Pochodnia]]: Pochodnia („Deglas“) buvo lenkų kultūros organizacija, padėjusi švietimui ir gavusi pinigų iš Lenkijos.
-- susijęs iš [[objektai/grupes/Raudonoji armija.md#claim-t-78432|Raudonoji armija]]: Po 1939 m. rudens Raudonosios armijos įgulos Lietuvoje veikė jaunimo politines nuostatas.
-- susijęs iš [[objektai/grupes/SSRS kariuomenė.md#claim-t-183184|SSRS kariuomenė]]: V. Molotovas J. Urbšiui pareiškė, kad SSRS kariuomenė įžygiuos į Lietuvą nepriklausomai nuo Lietuvos atsakymo.
 - susijęs iš [[objektai/grupes/SSRS kariuomenė.md#claim-t-19998|SSRS kariuomenė]]: 1940 m. birželio 14 d. ultimatumu SSRS pareikalavo, kad Lietuva įsileistų papildomus sovietų karinius dalinius.
 - susijęs iš [[objektai/grupes/Valstybės Taryba.md#claim-t-75012|Valstybės Taryba]]: 1928 m. Konstitucijoje įsteigta Valstybės Taryba turėjo teisę tik ruošti ir svarstyti įstatymus.
-- susijęs iš [[objektai/grupes/Valstybės gynimo taryba.md#claim-t-20058|Valstybės gynimo taryba (institucija)]]: Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą, pagal kurį apie 20 proc. biudžeto teko krašto gynybai.
-- susijęs iš [[objektai/grupes/Valstybės saugumo departamentas.md#claim-t-183191|Valstybės saugumo departamentas]]: Valstybės saugumo departamentas kartu su policija buvo vienas iš A. Smetonos režimo ramsčių.
-- susijęs iš [[objektai/grupes/Valstybės saugumo departamentas.md#claim-t-20059|Valstybės saugumo departamentas]]: Valstybės saugumo departamentas kartu su policija buvo vienas iš A. Smetonos režimo ramsčių.
 - susijęs iš [[objektai/grupes/Voldemarininkai.md#claim-t-45269|Voldemarininkai]]: Po Lenkijos ultimatumo ultraradikalieji voldemarininkai dėjosi prie krikščionių demokratų ir valstiečių liaudininkų opozicinių pasitarimų.
-- susijęs iš [[objektai/grupes/Voldemarininkai.md#claim-t-45270|Voldemarininkai]]: Priėmus Lenkijos ultimatumą ultraradikalieji voldemarininkai prisidėjo prie A. Smetonos valdymui opozicinių jėgų telkimosi.
-- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117387|Žydai]]: Lietuvoje žydai galėjo tenkinti nacionalinius kultūrinius poreikius, bet su lietuviais gyveno atskirus, daugiausia darbo ryšiais susijusius gyvenimus.
-- susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-23315|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: 1926 m. gruodžio 19 d. nepaprastajame III Seimo posėdyje A. Smetona išrinktas prezidentu.
-- susijęs iš [[objektai/ivykiai/1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.).md#claim-t-20144|1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.)]]: 1928 m. gegužės 15 d. Antanas Smetona nauja konstitucija sustiprino savo pozicijas ir įteisino viršenybę prieš Seimą.
-- susijęs iš [[objektai/ivykiai/1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.).md#claim-t-20145|1928 m. Lietuvos Konstitucijos paskelbimas (1928 m. gegužės 15 d.)]]: 1928 m. Konstitucija įteisino autoritarinį Antano Smetonos valdymą.
-- susijęs iš [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.).md#claim-t-20148|1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]: 1938 m. Konstitucija absoliučiai garantavo A. Smetonos autoritarinį režimą.
-- susijęs iš [[objektai/ivykiai/1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.).md#claim-t-20149|1938 m. Lietuvos Konstitucijos paskelbimas (1938 m. gegužės 12 d.)]]: 1938 m. gegužės 12 d. paskelbta nauja Lietuvos konstitucija sustiprino autoritarinį prezidento režimą.
-- susijęs iš [[objektai/ivykiai/A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.).md#claim-t-20156|A. Smetonos perrinkimas ypatingųjų tautos atstovų balsais (1931 m. ir 1938 m.)]]: Antanas Smetona sudarė sau sąlygas būti perrenkamam, o ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu.
-- susijęs iš [[objektai/ivykiai/Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.).md#claim-t-20162|Antano Smetonos lituanistikos instituto įkūrimas (1938 m. lapkričio 1 d.)]]: 1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį.
-- susijęs iš [[objektai/ivykiai/Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.).md#claim-t-77895|Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.)]]: 1934 m. gen. Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves buvo pavojingiausias voldemarininkų bandymas puču grąžinti A. Voldemarą į valdžią.
 - susijęs iš [[objektai/ivykiai/III Seimo paleidimas (1927 m. balandžio 12 d.).md#claim-t-20199|III Seimo paleidimas (1927 m. balandžio 12 d.)]]: 1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai nepaskelbti.
-- susijęs iš [[objektai/ivykiai/Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.).md#claim-t-20207|Incidentas prie Lietuvos ir Lenkijos administracinės linijos (1938 m. kovo 11 d.)]]: 1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį.
-- susijęs iš [[objektai/ivykiai/Juozo Pajaujo grupės perversmo plano žlugimas (1927 m. pavasaris).md#claim-t-20213|Juozo Pajaujo grupės perversmo plano žlugimas (1927 m. pavasaris)]]: 1927 m. pavasarį, suėmus Juozą Pajaujį, žlugo apie jį susibūrusios grupės perversmo planas grąžinti Seimą.
-- susijęs iš [[objektai/ivykiai/Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas).md#claim-t-75114|Klaipėdos nacių teismas Kaune (1934 m. liepa - 1935 m. kovas)]]: Po Klaipėdos nacių teismo Antanas Smetona mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.
-- susijęs iš [[objektai/ivykiai/Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.).md#claim-t-75117|Lenkijos ultimatumas Lietuvai ir jo priėmimas (1938 m. kovo 17-19 d.)]]: Kovo 17 d. Varšuva įteikė Lietuvai ultimatumą, reikalaudama užmegzti diplomatinius santykius ir be išlygų atsakyti teigiamai.
 - susijęs iš [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.).md#claim-t-183235|Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]: Prieš Liaudies seimo rinkimus, 1940 m. liepos 11–12 d., valdžia suėmė kelis šimtus žinomų šalies veikėjų.
-- susijęs iš [[objektai/ivykiai/Liaudies seimo rinkimai (1940 m. liepos 14-15 d.).md#claim-t-75123|Liaudies seimo rinkimai (1940 m. liepos 14-15 d.)]]: Per Liaudies seimo rinkimų agitaciją valdžia daug dėmesio skyrė Antano Smetonos režimo kritikai ir niekinimui.
-- susijęs iš [[objektai/ivykiai/Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis).md#claim-t-66771|Maskvos kaltinimų Lietuvai ir A. Merkio derybų krizė (1940 m. gegužė-birželis)]]: 1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietiškumu.
-- susijęs iš [[objektai/ivykiai/S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis).md#claim-t-75263|S. Lozoraičio slapto memorandumo įteikimas A. Smetonai (1935 m. balandis)]]: 1935 m. balandį Stasys Lozoraitis įteikė prezidentui Antanui Smetonai slaptą memorandumą apie Klaipėdos ir Vilniaus padėtį.
 - susijęs iš [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.).md#claim-t-45443|SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]: Vincas Vitkauskas ir Stasys Raštikis motyvavo, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.
 - susijęs iš [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.).md#claim-t-45444|SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]: Generolai Vincas Vitkauskas ir Stasys Raštikis motyvavo, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.
 - susijęs iš [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.).md#claim-t-45445|SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]: 1940 m. birželio 14 d. vakare V. Molotovas įteikė J. Urbšiui ultimatumą, reikalaujantį įsileisti papildomus sovietų dalinius ir pakeisti vyriausybę.
-- susijęs iš [[objektai/ivykiai/SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.).md#claim-t-45446|SSRS ultimatumas Lietuvai ir jo priėmimas (1940 m. birželio 14-15 d.)]]: V. Molotovas J. Urbšiui pareiškė, kad, nepaisant Lietuvos atsakymo, SSRS kariuomenė vis tiek įžygiuos į Lietuvą.
 - susijęs iš [[objektai/ivykiai/Tauragės pučas (1927 m. rugsėjo 8–9 d.).md#claim-t-20516|Tauragės pučas (1927 m. rugsėjo 8–9 d.)]]: 1927 m. rugsėjo 8–9 d. socialdemokratų ginkluotas sukilimas laikinai pavyko tik Tauragėje, bet valdžia jį nuslopino.
-- susijęs iš [[objektai/ivykiai/Valstybės gynimo tarybos kariuomenės perorganizavimo plano priėmimas (1935 m.).md#claim-t-20525|Valstybės gynimo tarybos kariuomenės perorganizavimo plano priėmimas (1935 m.)]]: Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą, pagal kurį apie 20 proc. biudžeto turėjo būti skirta krašto gynybai.
 - susijęs iš [[objektai/ivykiai/Vokietijos ultimatumas ir Klaipėdos krašto perdavimas Vokietijai (1939 m. kovo 20-23 d.).md#claim-t-75308|Vokietijos ultimatumas ir Klaipėdos krašto perdavimas Vokietijai (1939 m. kovo 20-23 d.)]]: 1939 m. kovo 23 d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos perdavimo sutartį.
 - susijęs iš [[objektai/ivykiai/Žydų ministro be portfelio posto panaikinimas (1923 m.).md#claim-t-20592|Žydų ministro be portfelio posto panaikinimas (1923 m.)]]: 1923 m. buvo panaikintas žydų ministro be portfelio postas Lietuvos vyriausybėje.
 - susijęs iš [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui.md#claim-t-20809|Karinė savanorystė ir žemės pažadas valstybės gynimui]]: Apie 12 000 savanorių stojo į Lietuvos kariuomenę, o jiems buvo žadėti žemės sklypai.
-- susijęs iš [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos.md#claim-t-20818|Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]: 1927 m. vasarą ir rudenį A. Smetona keliavo po miestelius su oficialia palyda ir buvo iškilmingai sutinkamas prie puošnių sutikimo vartų.
 - susijęs iš [[objektai/paprociai/Rugsėjo 8-osios Tautos šventės ceremonijos.md#claim-t-77958|Rugsėjo 8-osios Tautos šventės ceremonijos]]: Nuo 1930 m. rugsėjo 8-osios Tautos šventėje vykdavo kariuomenės paradai, eitynės, spektakliai ir pokyliai užsienio svečiams.
 - susijęs iš [[objektai/posakiai/„Demokratija Lietuvoje ... tai nupirkti per dideli batai vaikams“.md#claim-t-20839|„Demokratija Lietuvoje ... tai nupirkti per dideli batai vaikams“]]: A. Smetona Lietuvos demokratiją lygino su vaikams nupirktais per dideliais batais.
 - susijęs iš [[objektai/posakiai/„asmenys, kurie nebalsuos, yra liaudies priešai“.md#claim-t-75603|„asmenys, kurie nebalsuos, yra liaudies priešai“]]: Per rinkimų agitaciją valdžia grasino, kad nebalsuosiantys asmenys yra „liaudies priešai“.
-- susijęs iš [[objektai/posakiai/„gal neokupuos“ „o gal nesovietizuos “.md#claim-t-26353|„gal neokupuos“ „o gal nesovietizuos “]]: Sovietų okupacijos akivaizdoje viltys, kad jie „gal neokupuos“ ar „o gal nesovietizuos“, žlugo.
 - susijęs iš [[objektai/posakiai/„pavojingą politinį pamišėlį“.md#claim-t-77852|„pavojingą politinį pamišėlį“]]: 1935 m. A. Smetona privačiai apibūdino A. Hitlerį kaip „pavojingą politinį pamišėlį“, galintį dėl pseudoidėjų išnaikinti pusę Europos.
 - susijęs iš [[objektai/posakiai/„seimų laikus“.md#claim-t-20942|„seimų laikus“]]: A. Smetona ir A. Voldemaras pabrėžė stiprias prezidento galias ir neketino grįžti į „seimų laikus“, prilygintus netvarkai bei anarchijai.
 - susijęs iš [[objektai/posakiai/„teritoriniai patriotai“.md#claim-t-20953|„teritoriniai patriotai“]]: A. Smetona teigė, kad tautinės mažumos turi būti Lietuvos „teritoriniai patriotai“.
-- susijęs iš [[objektai/posakiai/„vidurainės [A. Smetonos terminas – Red.] linijos“.md#claim-t-26349|„vidurainės [A. Smetonos terminas – Red.] linijos“]]: A. Smetona „viduraine linija“ vadino siekį užsienio politikoje nesusisieti su konkrečia valstybe ar jų grupe.
 - susijęs iš [[objektai/posakiai/„vietos visiems užteks“.md#claim-t-20960|„vietos visiems užteks“]]: Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.
-- susijęs iš A. Smetonos laiškas Michailui Kalininui: Taikingas A. Smetonos laiškas sovietų prezidentui Michailui Kalininui nepadėjo išvengti 1940 m. birželio 14 d. sovietų ultimatumo Lietuvai.
-- susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
 - susijęs iš Laikinoji konstitucija (1918 m. lapkričio 2 d.): 1918 m. lapkričio 2 d. Valstybės Taryba priėmė Laikinąją konstituciją ir pagal ją tapo įstatymų leidimo organu.
 - susijęs iš Lenkijos ultimatumas Lietuvai (1938 m. kovo 17 d.): 1938 m. kovo 17 d. Lenkija įteikė Lietuvai ultimatumą, reikalaudama užmegzti diplomatinius santykius ir grasindama karu.
-- susijęs iš Lietuvos Konstitucija (1928 m.): 1928 m. gegužės 15 d. nauja Konstitucija sustiprino Antano Smetonos galias prieš Seimą ir įteisino autoritarinį valdymą.
-- susijęs iš Lietuvos Konstitucija (1928 m.): 1928 m. Lietuvos Konstitucija įteisino Antano Smetonos viršenybę prieš Seimą ir teisę leisti įstatymus.
 - susijęs iš Lietuvos Konstitucija (1928 m.): 1928 m. Lietuvos konstitucijoje Lietuvos sostine buvo įrašytas Vilnius.
 - susijęs iš SSRS ultimatumas Lietuvai (1940 m. birželio 14 d.): 1940 m. birželio 14 d. vakare J. Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai pareikalauta įsileisti neribotus sovietų karinius dalinius.
 - susijęs iš SSRS ultimatumas Lietuvai (1940 m. birželio 14 d.): Generolai V. Vitkauskas ir S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai.
-- susijęs iš Valstybės gynimo tarybos kariuomenės perorganizavimo planas (1935 m.): Valstybės gynimo tarybos priimtas kariuomenės perorganizavimo planas numatė apie 20 proc. biudžeto skirti krašto gynybai.
-- susijęs iš Vasario 16 Aktas: 1918 m. kovo 23 d. Berlyne Antano Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.
-- susijęs iš Australija: Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Didžiąją Britaniją, Kanadą ir Australiją.
-- susijęs iš Berlynas: Kovo 23 dieną Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.
 - susijęs iš Berlynas: 1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir ten pasirašė 100 mln. markių paskolą ginklams įsigyti.
 - susijęs iš Brazilija: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos pripažinimą Brazilijoje iki 1967 m.
 - susijęs iš Didžioji Britanija: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Didžiojoje Britanijoje ir kitose okupacijos nepripažinusiose šalyse.
 - susijęs iš JAV: JAV buvo viena iš šalių, nepripažinusių Lietuvos prievartinio įjungimo į SSRS sudėtį.
-- susijęs iš Kanada: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Kanadoje ir kitose SSRS aneksijos nepripažinusiose šalyse.
 - susijęs iš Klaipėda: 1939 m. kovo 23 d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos perdavimo sutartį.
 - susijęs iš Klivlandas: 1944 m. sausį Antanas Smetona žuvo Klivlande per gaisrą.
 - susijęs iš Kolumbija: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos valstybės pripažinimą Kolumbijoje ir kitose okupacijos nepripažinusiose šalyse.
 - susijęs iš Lietuva: Per nepilnus du nepriklausomybės dešimtmečius Lietuva galutinai tapo lietuviška ir jos nebebuvo galima supainioti nei su Lenkija, nei su Rusija.
 - susijęs iš Lietuva: 1940 m. birželio 14 d. V. Molotovas įteikė J. Urbšiui ultimatumą, reikalaujantį įsileisti neribotus sovietų dalinius ir pakeisti Lietuvos vyriausybę.
-- susijęs iš Lietuva: 1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.
 - susijęs iš Paryžius: 1940 m. birželio 14-osios rytą vermachtas įžengė į Paryžių.
 - susijęs iš Portugalija: 1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Portugaliją išvyko į JAV.
 - susijęs iš Prancūzija: Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos pripažinimą Prancūzijoje ir kitose valstybėse, nepripažinusiose Lietuvos įjungimo į SSRS.
@@ -453,20 +644,12 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 - susijęs iš Vokietija: 1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją išvyko į JAV.
 - susijęs iš Vokietija: Lietuvos diplomatijoje buvo siūloma susigrąžinti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.
 - susijęs iš Vokietija: 1935 m. Stasys Lozoraitis siūlė Lietuvai atkurti Lenkijos faktorių ir išnaudoti jį kovojant su Vokietija.
-- susijęs iš Vokietija: 1928 m. Lietuva su Vokietija pasirašė net aštuonias sutartis ir su ja pasiekė daugiausia užsienio politikos susitarimų.
-- susijęs iš [[objektai/zodynas/Filosemitas.md#claim-t-77795|Filosemitas]]: Filosemitu vadintas Antanas Smetona stabdė raginimus apriboti žydus ir pareiškė, kad Lietuvoje vietos užteks visiems.
-- susijęs iš [[objektai/zodynas/Lietuviška Lietuva.md#claim-t-75571|Lietuviška Lietuva]]: Lietuviška Lietuva, nors tarpais buvo be Vilniaus ar Klaipėdos, laikyta didžiausiu tautos kūrėjų pasiekimu.
 - susijęs iš [[objektai/zodynas/Lietuviška Lietuva.md#claim-t-75573|Lietuviška Lietuva]]: Per nepilnus du nepriklausomybės dešimtmečius Lietuva tapo lietuviška ir nebebuvo painiojama nei su Lenkija, nei su Rusija.
 - susijęs iš [[objektai/zodynas/Lituanistika.md#claim-t-22006|Lituanistika]]: 1938 m. lapkričio 1 d. įkurtas Antano Smetonos lituanistikos institutas turėjo tirti lietuvių kalbą, tautosaką ir Lietuvos praeitį.
 - susijęs iš [[objektai/zodynas/Lituanizuoti.md#claim-t-22007|Lituanizuoti]]: Valdžia siekė lituanizuoti lenkus, laikydama juos nutautėjusiais lietuviais.
-- susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108564|administracinė linija demarkacijos linija]]: 1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį.
-- susijęs iš [[objektai/zodynas/administracinė linija.md#claim-t-45777|administracinė linija]]: 1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį.
 - susijęs iš [[objektai/zodynas/de facto.md#claim-t-75545|de facto]]: 1919 m. rugsėjo 26 d. žinia apie Didžiosios Britanijos de facto pripažinimą Lietuvai sukėlė masines manifestacijas prie Kauno rotušės.
 - susijęs iš [[objektai/zodynas/de facto.md#claim-t-75546|de facto]]: 1919 m. Lietuvą de facto pripažino Norvegija, Latvija ir Suomija, o 1920 m. - Prancūzija ir Lenkija.
-- susijęs iš [[objektai/zodynas/konstitucinė monarchija.md#claim-t-15627|konstitucinė monarchija]]: Konstitucinė monarchija liko Lietuvos Tarybos darbotvarkėje, Berlyne svarstant personalinę uniją su Saksonija arba Prūsija.
 - susijęs iš [[objektai/zodynas/liaudies priešai.md#claim-t-22213|liaudies priešai]]: Per rinkimų agitaciją valdžia viešai grasino, kad nebalsuosiantys asmenys yra „liaudies priešai“.
-- susijęs iš [[objektai/zodynas/tautos atstovai.md#claim-t-183476|tautos atstovai]]: 1928 m. Konstitucija numatė, kad prezidentą septyneriems metams renka ypatingi tautos atstovai.
-- susijęs iš [[objektai/zodynas/tautos atstovai.md#claim-t-70357|tautos atstovai]]: 1928 m. Konstitucija numatė, kad prezidentą septyneriems metams renka ypatingi tautos atstovai.
 - susijęs iš [[objektai/zodynas/vienvaldystė.md#claim-t-77809|vienvaldystė]]: Augustinas Voldemaras, būdamas premjeru ir užsienio reikalų ministru, konfliktavo su ministrais ir ėmė pretenduoti į vienvaldystę.
 ## Reikšmingi paminėjimai
 
@@ -506,6 +689,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b5cb371c19378978e7dac9be4d9c19d92ebd422e2c2686e9f2ae0c4adc7e02f2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-003
@@ -531,6 +724,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=54b08b047c42bcdaf93bc4935c6ef22aa89407061ba20e14b90aa7d23ba8ce1a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
 
 - c-004
@@ -549,6 +752,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bc71867760022ec125e600f10e64a47ae63d889b208d5f8c2c10ded06fb72f4b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Valstybės Taryba: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Valstybės Taryba: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Valstybės Taryba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
 
 - c-005
@@ -571,6 +784,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1a3a61373011969f0ad49eee9dd28892c5299f5407b3f209b3885568bc05e985; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Didžioji Britanija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Didžioji Britanija: mention_match, place, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Didžioji Britanija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-016
 
 - c-006
@@ -590,6 +813,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=df5923930d8c8618edda53beddb638ce8d524501d5944c327f175f7bb9f9e18a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-007
@@ -608,6 +841,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=81e1f41e630b056f69d209372feb6364969f30ab0a4b072279312f788c6e0918; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-007
 
 - c-008
@@ -629,6 +872,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d079177b76140383223573d6ca177ebd8a743b9cb8370256ac8195845736bb2a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> III Seimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: III Seimas: mention_match, group, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "III Seimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-018
 
 - c-009
@@ -645,6 +898,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=710f25aecdf1bcb48dadcc3e30ea79d3e10bc0f5a7b51ff9d831ebcdd379b731; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-010
@@ -665,6 +928,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 269730-270156; hash=6873f21cf882969186a098385f13a0de52ac3c0b98bfedd61a318884d06b4b76; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Berlynas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-011
@@ -680,6 +953,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f75b5253b91423b3c784ed865c19422cb58da4360bb51f2fddeeccc6e04f7677; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Berlynas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-015
 
 - c-012
@@ -696,6 +979,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6b0135246e2fe0343ae3918cd072c9f00d42a1e48ecada67cd5ef939736c6736; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-020
 
 - c-013
@@ -720,6 +1013,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 378259-379092; hash=719cfa11b6d498a2c519189b3a0e7958d358f144cc886488c3c479a17c59c620; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-017
 
 - c-014
@@ -741,6 +1044,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 360768-361304; hash=c9d86a1b0d85c42cc6b080d334a1eb8c4003ec845ea77bbcaa8b2b95053e8bcf; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-012
 
 - c-015
@@ -756,6 +1069,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a1584e7d41a501089a4d62cdfe472e396f04fc66303b7b659298efc2745efae6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žydai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-013
 
 - c-016
@@ -776,6 +1099,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=976b7123d81a80a656b31601e7cdc7c2fe8a2e0f93a946d29fb3c45d89a20416; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-017
@@ -796,6 +1129,9 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 315549-315959; hash=8475bcb9c9b61609fdd41889b3e0c752940910dfa67352a388d5b10e3b692efe; match=whitespace_regex
+  sprendimo_priezastis: auto
     - t-014
 
 - c-018
@@ -834,6 +1170,16 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 318064-318861; hash=bff9a5ff377fd12c01b01632a9b1f39ba5d0e62918d7e54326d0cf89c6526c0a; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Lietuva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=11
+  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-019
 
 - c-020
@@ -856,7 +1202,27 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=015dce61ff3280c3ceb71281d443457594ec9fd6b502454326bb744db4984a72; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-011
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=93bc97be091fc0dff12172745a08523b4d03ab1a222f33bf16b98688112df3cc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Smetona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Smetona" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - A. Smetona keliavo_i [[objektai/vietos/Lietuva]]

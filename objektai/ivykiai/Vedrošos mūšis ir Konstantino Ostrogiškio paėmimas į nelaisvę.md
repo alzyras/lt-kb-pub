@@ -37,6 +37,16 @@ Nenurodyta
   susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 989398-990024; hash=6eedce4629cd63d2f5ea6ce8e4d693b708ab1b47477cd9b1d7b7c9966f9edc49; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185540"></a>
 - t-002
@@ -49,6 +59,16 @@ Nenurodyta
   susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 990517-991229; hash=ea1ef9b0e7e0ec8dc863e80cd8db87b0ec2bd6d67eb17a172308847a0fb2089a; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185541"></a>
 - t-003
@@ -58,9 +78,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje išvardytus po mūšio išsigelbėjusius asmenis.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Bogdanas Maskevičius|Bogdanas Maskevičius]]; mentioned_person: [[objektai/asmenys/Teodoras Nemyra|Teodoras Nemyra]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bogdanas Maskevičius|Bogdanas Maskevičius]]; mentioned_person: [[objektai/asmenys/Teodoras Nemyra|Teodoras Nemyra]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 991230-991854; hash=a1c29f7acab991158f3f181cb64bb81f2423854280cc025bdc0240f0cfcc265d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bogdanas Maskevičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Bogdanas Maskevičius: mention_match, person, gap=101
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)" parinktas kaip owner_note_path. Targetas "Bogdanas Maskevičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -123,6 +153,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 989398-990024; hash=6eedce4629cd63d2f5ea6ce8e4d693b708ab1b47477cd9b1d7b7c9966f9edc49; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-003
@@ -146,4 +186,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 990517-991229; hash=ea1ef9b0e7e0ec8dc863e80cd8db87b0ec2bd6d67eb17a172308847a0fb2089a; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 991230-991854; hash=a1c29f7acab991158f3f181cb64bb81f2423854280cc025bdc0240f0cfcc265d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bogdanas Maskevičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Bogdanas Maskevičius: mention_match, person, gap=101
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vedrošos mūšis ir Konstantino Ostrogiškio paėmimas į nelaisvę (mūšis)" parinktas kaip owner_note_path. Targetas "Bogdanas Maskevičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

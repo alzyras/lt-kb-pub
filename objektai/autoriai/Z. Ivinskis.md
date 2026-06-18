@@ -40,7 +40,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - t-001
   global_id: t-00084
   teiginys: 'Z. Ivinskis parašė veikalo dalį apie laikotarpį iki Gediminaičių dinastijos galo.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_author: [[objektai/autoriai/P. Klimas|P. Klimas]]; mentioned_author: [[objektai/autoriai/P. Šležas|P. Šležas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/P. Klimas|P. Klimas]]; mentioned_author: [[objektai/autoriai/P. Šležas|P. Šležas]]; mentioned_author: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 
@@ -53,6 +53,16 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d344dcdf459c1e9bc583a5f6001bfa5f3806d1ba55658e842b0ed96067c1dc56; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zenonas Ivinskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zenonas Ivinskis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-05579"></a>
 - t-003
@@ -72,15 +82,35 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6f16570743145da6121525d481bafbec28c3825ac01c8f5153b542de795e4a2d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zenonas Ivinskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=118
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zenonas Ivinskis" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-05581"></a>
 - t-005
   global_id: t-05581
   teiginys: 'Zenonas Ivinskis Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.'
   sudarymo_pagrindimas: 'Teiginys apie Z. Ivinskio interpretaciją tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Forstreuter|K. Forstreuter]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_author: [[objektai/autoriai/K. Forstreuter|K. Forstreuter]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d344dcdf459c1e9bc583a5f6001bfa5f3806d1ba55658e842b0ed96067c1dc56; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zenonas Ivinskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zenonas Ivinskis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-12267"></a>
 - t-006
@@ -88,21 +118,42 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   teiginys: 'Įžangoje nurodoma, kad jaunieji istorikai į pasitarimą dėl knygos buvo susirinkę Z. Ivinskio pakviesti.'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9f49043194ce01b9689e5d268268f96b0436cd0acb0e02306af5190ebff8b2d6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zenonas Ivinskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zenonas Ivinskis" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-179567"></a>
 - t-007
   global_id: t-179567
   teiginys: 'Z. Ivinskis 4000 lietuvių pajėgas Kurše aiškino kaip jungtines žemaičių ir karaliaus Mindaugo pajėgas prieš Ordiną.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentas; citata pagrindžia Ivinskio interpretaciją.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kuršas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]'
   pagrindžia:
     - c-006
+- susijęs iš [[objektai/autoriai/Ivinskis Z.md#claim-t-91932|Ivinskis Z]]: Z. Ivinskio darbas apie Saulės-Šiaulių kautynes cituojamas aiškinant 1236 m. rugsėjo 22 d. mūšį, kuriame lietuviai sutriuškino kalavijuočius.
+- susijęs iš Ivinskis Z. Gedimino pilis: Z. Ivinskio „Gedimino pilis“ paskelbta „Lietuviškojoje enciklopedijoje“ 1940 m., aštuntame tome.
+- susijęs iš Ivinskis Z. Senovės lietuvių religijos bibliografija: Z. Ivinskio „Senovės lietuvių religijos bibliografija“ išleista Kaune 1938 m.
+- susijęs iš Vytauto Didžiojo perijodo bibliografija: Vytauto Didžiojo perijodo bibliografijoje nurodytas Z. Ivinskio straipsnis „Kovos bruožai dėl Žemaičių ir jų sienų“.
+- susijęs iš Z. Ivinskis, Driežų sąjunga: Z. Ivinskio tekstas „Driežų sąjunga“ nurodytas LE 5 tome, 184–185 puslapiuose.
+- susijęs iš Z. Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų: Z. Ivinskio tekstas „Kovos bruožai dėl Žemaičių ir jų sienų“ nurodytas 1935 m. „Athenaeum“ 6 tome, 54–117 puslapiuose.
+- susijęs iš Z. Ivinskis, Nalšia: Z. Ivinskio „Nalšia“ 1959 m. nurodyta „Lietuvių enciklopedijos“ XIX tome, 490-491 puslapiuose.
+- susijęs iš Z. Ivinskis, Salyno taika: Z. Ivinskio „Salyno taika“ nurodyta „Lietuvių enciklopedijos“ 26 tome, 351-353 puslapiuose.
+- susijęs iš Z. Ivinskis, Senovės lietuvių religijos bibliografija: Z. Ivinskio „Senovės lietuvių religijos bibliografija“ minima kaip literatūra apie Romovę arba Romuvą.
+- susijęs iš Z. Ivinskis, Suksė: Z. Ivinskio „Suksė“ 1963 m. nurodyta „Lietuvių enciklopedijos“ XXIX tome, 179 puslapyje.
+- susijęs iš Z. Ivinskis, Vytautas Didysis istorinėje literatūroje. Svarbesnės literatūros apžvalga apie Vytautą Didįjį: Z. Ivinskio straipsnis „Vytautas Didysis istorinėje literatūroje“ paskelbtas „Athenaeum“ 1930 m., I tomo 2 sąsiuvinyje, p. 190–212.
+- susijęs iš Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.): Zenonas Ivinskis mirė 1971 m. gruodžio 24 d., nebaigęs numatyto plano, o tomą redagavo ir spragas užpildė Paulius Jatulis.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176751|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Zenonas Ivinskis Vytautui priskyrė taupumą ir didelį švaistymąsi materialinėmis gėrybėmis, ypač siekiant pasirodyti užsieniečiams.
 - susijęs iš [[objektai/autoriai/A. Alekna.md#claim-t-64501|A. Alekna]]: Zenonas Ivinskis vertino, kad A. Aleknos „Katalikų Bažnyčia Lietuvoje“ parodė jo gebėjimą kritiškai ir objektyviai vertinti šaltinius.
 - susijęs iš [[objektai/autoriai/A. Prochaska.md#claim-t-47872|A. Prochaska]]: A. Prochaska gynė Gedimino laiškų autentiškumą.
 - susijęs iš [[objektai/autoriai/A. Salys.md#claim-t-64513|A. Salys]]: A. Salio Die žemaitischen Mundarten šiame šaltinyje cituojamas Žemaičių tarmių klausimu.
 - susijęs iš [[objektai/autoriai/Chr. Kroilmann.md#claim-t-30581|Chr. Kroilmann]]: Chr. Kroilmann 1932 m. Karaliaučiuje paskelbė veikalą „Politische Geschichte des Deutschen Ordens in Preussen“.
-- susijęs iš [[objektai/autoriai/Ivinskis Z.md#claim-t-91932|Ivinskis Z]]: Z. Ivinskio darbas apie Saulės-Šiaulių kautynes cituojamas aiškinant 1236 m. rugsėjo 22 d. mūšį, kuriame lietuviai sutriuškino kalavijuočius.
 - susijęs iš [[objektai/autoriai/J. Andrius.md#claim-t-30657|J. Andrius]]: J. Andrius 1952 m. „Aiduose“ paskelbė darbą „Kng. Radvilos Lietuvos žemėlapis“.
 - susijęs iš [[objektai/autoriai/Jakštas, J.md#claim-t-71515|Jakštas, J]]: J. Jakštas Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.
 - susijęs iš [[objektai/autoriai/K. Chodynicki.md#claim-t-30731|K. Chodynicki]]: K. Chodynicki gynė Gedimino laiškų autentiškumą.
@@ -120,8 +171,6 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - susijęs iš [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.).md#claim-t-100025|Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]: Zenonas Ivinskis vertino, kad iš Gedimino ir Lokietkos sąjungos daugiausia naudos turėjo Lenkija, nes jos lietuviai nebepuldinėjo.
 - susijęs iš [[objektai/posakiai/Gedimino « Geležinio vilko » sapnas.md#claim-t-97290|Gedimino « Geležinio vilko » sapnas]]: Zenonas Ivinskis Geležinio vilko legendą siejo su Romos vilke ir lietuvių kilmės iš romėnų samprata.
 - susijęs iš Einführung in die Kunstgeschichtsforschung des Großfürstentums Litauen: P. Rėklaičio „Einführung in die Kunstgeschichtsforschung des Großfürstentums Litauen“ išleista Marburge 1962 m. ir sužymėjo 944 bibliografinius numerius.
-- susijęs iš Ivinskis Z. Gedimino pilis: Z. Ivinskio „Gedimino pilis“ paskelbta „Lietuviškojoje enciklopedijoje“ 1940 m., aštuntame tome.
-- susijęs iš Ivinskis Z. Senovės lietuvių religijos bibliografija: Z. Ivinskio „Senovės lietuvių religijos bibliografija“ išleista Kaune 1938 m.
 - susijęs iš J. Andrius Kng. Radvilos Lietuvos žemėlapis: J. Andriaus „Kng. Radvilos Lietuvos žemėlapis“ paskelbtas žurnalo „Aidai“ 1952 m. 10 numeryje, p. 445–448.
 - susijęs iš Kreslianskij dvor v Litovsko-russkom gosudarstve: F. I. Leontovičiaus „Kreslianskij dvor v Litovsko-russkom gosudarstve“ buvo skelbtas ŽMNPr 1896–1897 m.
 - susijęs iš Krikščionybės kelias Lietuvon: Z. Ivinskio „Krikščionybės kelias Lietuvon“ paskelbtas 1938 m. TK 5-ajame numeryje, p. 273–311.
@@ -130,17 +179,8 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 - susijęs iš Senovės lietuvių religijos bibliografija: Z. Ivinskio „Senovės lietuvių religijos bibliografija“ išleista Kaune 1938 m. kaip atspaudas iš „Soter“ 1935–1937 m.
 - susijęs iš Vytautas D. istorinėje literatūroje ir jo periodo bibliografija: Z. Ivinskio „Vytautas D. istorinėje literatūroje ir jo periodo bibliografija“ paskelbta „Athenaeum“ 1931 m., p. 89-141.
 - susijęs iš Vytautas Did: Z. Ivinskio straipsnis „Vytautas Did.“ paskelbtas Lietuvių enciklopedijos 34 tome, p. 376-379.
-- susijęs iš Vytauto Didžiojo perijodo bibliografija: Vytauto Didžiojo perijodo bibliografijoje nurodytas Z. Ivinskio straipsnis „Kovos bruožai dėl Žemaičių ir jų sienų“.
 - susijęs iš Vytauto jaunystė ir jo veikimas iki 1392 m: Z. Ivinskio „Vytauto jaunystė ir jo veikimas iki 1392 m.“ paskelbtas 1930 m. Kaune išleistame rinkinyje „Vytautas Didysis“.
-- susijęs iš Z. Ivinskis, Driežų sąjunga: Z. Ivinskio tekstas „Driežų sąjunga“ nurodytas LE 5 tome, 184–185 puslapiuose.
-- susijęs iš Z. Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų: Z. Ivinskio tekstas „Kovos bruožai dėl Žemaičių ir jų sienų“ nurodytas 1935 m. „Athenaeum“ 6 tome, 54–117 puslapiuose.
-- susijęs iš Z. Ivinskis, Nalšia: Z. Ivinskio „Nalšia“ 1959 m. nurodyta „Lietuvių enciklopedijos“ XIX tome, 490-491 puslapiuose.
-- susijęs iš Z. Ivinskis, Salyno taika: Z. Ivinskio „Salyno taika“ nurodyta „Lietuvių enciklopedijos“ 26 tome, 351-353 puslapiuose.
-- susijęs iš Z. Ivinskis, Senovės lietuvių religijos bibliografija: Z. Ivinskio „Senovės lietuvių religijos bibliografija“ minima kaip literatūra apie Romovę arba Romuvą.
-- susijęs iš Z. Ivinskis, Suksė: Z. Ivinskio „Suksė“ 1963 m. nurodyta „Lietuvių enciklopedijos“ XXIX tome, 179 puslapyje.
-- susijęs iš Z. Ivinskis, Vytautas Didysis istorinėje literatūroje. Svarbesnės literatūros apžvalga apie Vytautą Didįjį: Z. Ivinskio straipsnis „Vytautas Didysis istorinėje literatūroje“ paskelbtas „Athenaeum“ 1930 m., I tomo 2 sąsiuvinyje, p. 190–212.
 - susijęs iš Zemleustrojstvo i zemeVnyj kadastr v Belorusi i Litve v XVI-XVII vv: „Zemleustrojstvo i zemeVnyj kadastr v Belorusi i Litve v XVI-XVII vv.“ išleistas 1952 m. kaip „Materijaly po istorii zemledelija v SSSR“ I tomas.
-- susijęs iš Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.): Zenonas Ivinskis mirė 1971 m. gruodžio 24 d., nebaigęs numatyto plano, o tomą redagavo ir spragas užpildė Paulius Jatulis.
 - susijęs iš Berlynas: Zenonas Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą.
 - susijęs iš Berlynas: Zenonas Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą.
 - susijęs iš Berlynas: Z. Ivinskio veikalas „Geschichte des Bauernstandes in Litauen“ buvo išleistas Berlyne 1933 m.
@@ -197,6 +237,16 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d344dcdf459c1e9bc583a5f6001bfa5f3806d1ba55658e842b0ed96067c1dc56; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zenonas Ivinskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zenonas Ivinskis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-004
@@ -248,6 +298,16 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9f49043194ce01b9689e5d268268f96b0436cd0acb0e02306af5190ebff8b2d6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zenonas Ivinskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zenonas Ivinskis" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-007
@@ -264,4 +324,24 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d344dcdf459c1e9bc583a5f6001bfa5f3806d1ba55658e842b0ed96067c1dc56; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zenonas Ivinskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zenonas Ivinskis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6f16570743145da6121525d481bafbec28c3825ac01c8f5153b542de795e4a2d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zenonas Ivinskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=118
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zenonas Ivinskis" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

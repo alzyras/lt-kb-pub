@@ -54,7 +54,7 @@ Nenurodyta
   global_id: t-182715
   teiginys: 'Personalinės unijos laikotarpiu Lietuvą ir Lenkiją valdė tie patys valdovai, nors valstybės liko atskiros.'
   sudarymo_pagrindimas: 'Pradinis teiginys neparemtas citata, todėl perrašytas pagal pateiktą šaltinio vietą.'
-  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Baiga'
   temporaliniai_duomenys: 'įvykio data: 1539 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys neparemtas citata, todėl perrašytas pagal pateiktą šaltinio vietą.'
@@ -74,7 +74,7 @@ Nenurodyta
 - t-003
   global_id: t-182718
   teiginys: 'Savotiškos personalinės unijos reikalavo lietuviai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Krėva; mentioned_place: Lenkija'
   pagrindžia:
     - c-003
 
@@ -100,6 +100,9 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 529317-529643; hash=19502c9ae915b9b31452b87674d2ddda6351f9093ed6bb76edf2721f8244c990; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -139,6 +142,9 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 529317-529643; hash=19502c9ae915b9b31452b87674d2ddda6351f9093ed6bb76edf2721f8244c990; match=whitespace_regex
+  sprendimo_priezastis: auto
     - t-002
 
 - c-003

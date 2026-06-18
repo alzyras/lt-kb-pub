@@ -48,9 +48,19 @@ Nenurodyta
   teiginys: 'Per vasalinės priesaikos ceremoniją Kolomyjoje Stepono palydovų ant žemės suguldytos vėliavėlės simbolizavo jų moldaviškąsias valdas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kolomyja; mentioned_place: Moldavija; mentioned_place: Sniatinas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kolomyja; mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Moldavija; mentioned_place: Sniatinas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5d09c564db7d16d5ff4f0134f97234adb3a7d3089f676d28c2eb959540d8da67; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Kolomyja: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kolomyja: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje" parinktas kaip owner_note_path. Targetas "Kolomyja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186762"></a>
 - t-002
@@ -58,9 +68,19 @@ Nenurodyta
   teiginys: 'Per priesaikos ceremoniją vaivada Steponas perdavė karaliui Kazimierui didelę šilkinę vėliavą su Moldavijos herbu.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Cituota pastaba tiesiogiai palaiko aiškų faktinį sakinį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija; mentioned_place: Sniatinas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija; mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_place: Sniatinas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5d09c564db7d16d5ff4f0134f97234adb3a7d3089f676d28c2eb959540d8da67; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Kolomyja: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kolomyja: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje" parinktas kaip owner_note_path. Targetas "Kolomyja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186763"></a>
 - t-003
@@ -68,12 +88,22 @@ Nenurodyta
   teiginys: 'Redakcinėje pastaboje Moldavijos vaivados Stepono atvykimas į Kolomyją datuojamas 1485 m. rugsėjo 6-12 d.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išvalytas nuo perteklinio veiksmažodžio.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Kolomyja; mentioned_place: Lenkija; mentioned_place: Moldavija; mentioned_place: Prutas; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kolomyja; mentioned_place: Moldavija; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Prutas; mentioned_place: Ukraina'
   temporaliniai_duomenys: 'įvykio data: 1485 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir išvalytas nuo perteklinio veiksmažodžio.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=edbb5d8c5127ec97db7a33664a0957a4299ad8d7322dae36473cc779694e35cb; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Herbas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=104
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186764"></a>
 - t-004
@@ -81,12 +111,22 @@ Nenurodyta
   teiginys: 'Redakcinėje pastaboje Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje datuojama 1485 m. rugsėjo 15 d.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys padarytas glaustesnis ir aiškiau susietas su įvykiu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Kolomyja; mentioned_place: Lenkija; mentioned_place: Moldavija; mentioned_place: Prutas; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kolomyja; mentioned_place: Moldavija; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Prutas; mentioned_place: Ukraina'
   temporaliniai_duomenys: 'įvykio data: 1485 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys padarytas glaustesnis ir aiškiau susietas su įvykiu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=edbb5d8c5127ec97db7a33664a0957a4299ad8d7322dae36473cc779694e35cb; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Kolomyja: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kolomyja: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje" parinktas kaip owner_note_path. Targetas "Kolomyja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -111,6 +151,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=edbb5d8c5127ec97db7a33664a0957a4299ad8d7322dae36473cc779694e35cb; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Herbas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=104
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-002
@@ -129,5 +179,35 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=edbb5d8c5127ec97db7a33664a0957a4299ad8d7322dae36473cc779694e35cb; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Kolomyja: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kolomyja: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje" parinktas kaip owner_note_path. Targetas "Kolomyja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5d09c564db7d16d5ff4f0134f97234adb3a7d3089f676d28c2eb959540d8da67; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Kolomyja: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kolomyja: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje" parinktas kaip owner_note_path. Targetas "Kolomyja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5d09c564db7d16d5ff4f0134f97234adb3a7d3089f676d28c2eb959540d8da67; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Kolomyja: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kolomyja: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje" parinktas kaip owner_note_path. Targetas "Kolomyja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

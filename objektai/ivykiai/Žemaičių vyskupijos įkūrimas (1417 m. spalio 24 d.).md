@@ -54,18 +54,38 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Originalas nutrūkęs ir su OCR klaidomis, bet citata pagrindžia aiškų faktą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 285125-285728; hash=559cb66609886ff3b8cc850170e5c11f996fa52c07d150256727f3d8db298862; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Trakai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Trakai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-34527"></a>
 - t-002
   global_id: t-34527
   teiginys: 'Žemaičių arba Medininkų vyskupija buvo įkurta 1417 m. spalio 24 d. kaip antroji Lietuvos vyskupija.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, tikslus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Nevėžis; mentioned_place: Prūsai; mentioned_place: Užnemunė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Kuršas; mentioned_place: Nevėžis; mentioned_place: Prūsai; mentioned_place: Užnemunė; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1417 m.; įvykio data: 1418 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, tikslus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 286033-286563; hash=758ed5d782e53f3479ea7e686fec2114d6c30491b9b7c6f7b58253c2661575e7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=80
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -104,4 +124,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 286033-286563; hash=758ed5d782e53f3479ea7e686fec2114d6c30491b9b7c6f7b58253c2661575e7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=80
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 285125-285728; hash=559cb66609886ff3b8cc850170e5c11f996fa52c07d150256727f3d8db298862; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Trakai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Trakai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

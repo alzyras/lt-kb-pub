@@ -23,6 +23,9 @@ Krimo totoriai pradėjo smarkius puolimus, ypač prieš Kijevo, Podolės ir Gali
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a648a885a26c6faf212b3c7240bf3209dae4c11fefc50a9cd56146048b65dff2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -42,3 +45,6 @@ Krimo totoriai pradėjo smarkius puolimus, ypač prieš Kijevo, Podolės ir Gali
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a648a885a26c6faf212b3c7240bf3209dae4c11fefc50a9cd56146048b65dff2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

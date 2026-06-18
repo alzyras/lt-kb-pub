@@ -32,9 +32,19 @@ periodo_grupes:
   global_id: t-19170
   teiginys: 'Netimeras buvo Lietuvos „karalius“, kuris, Brunonui Bonifacijui atvykus į Lietuvą, įtikėjo ir krikštijosi.'
   sudarymo_pagrindimas: 'Teiginys perrašytas taip, kad aiškiai kalbėtų apie Netimerą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Brunonas Bonifacijus|Brunonas Bonifacijus]]; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Brunonas Bonifacijus|Brunonas Bonifacijus]]; mentioned_place: Lietuva; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 39298-39732; hash=6a54ff9cd3e8c9f94ccc4869cfbe91d222ac2ef29fd419779c8d8450b03ad675; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Netimeras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Netimeras" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-19171"></a>
 - t-002
@@ -47,6 +57,16 @@ periodo_grupes:
   temporalinis_llm_pakomentavimas: 'Pridėta vieta iš citatos ir pašalintas galimas neaiškumas.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b0e686f3ddb3368c53f344c75d8c7e74a31fddfda6cd7d55670287272eeab339; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Brunonas Bonifacijus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Netimeras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Brunonas Bonifacijus: mention_match, person, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Netimeras" parinktas kaip owner_note_path. Targetas "Brunonas Bonifacijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-19172"></a>
 - t-003
@@ -59,6 +79,16 @@ periodo_grupes:
   temporalinis_llm_pakomentavimas: 'Sakinys yra trumpas, aiškus ir faktas tiesiogiai nurodytas citatoje.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 40947-41435; hash=adb33939b156052cb069ae3fc0f122d2100fd6021e4b9cea224adc9cefda1f3e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Adalbertas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Netimeras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Adalbertas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Netimeras" parinktas kaip owner_note_path. Targetas "Adalbertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-183561"></a>
 - t-004
@@ -74,8 +104,21 @@ periodo_grupes:
   temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas ir aiškiai pagrįstas citata.'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Adalbertas.md#claim-t-18754|Adalbertas]]: Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 39298-39732; hash=6a54ff9cd3e8c9f94ccc4869cfbe91d222ac2ef29fd419779c8d8450b03ad675; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Netimeras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Netimeras" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Brunonas Bonifacijus.md#claim-t-18863|Brunonas Bonifacijus]]: Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą, čia pakrikštijo vadą Netimerą ir vėliau žuvo nuo jo brolio rankos.
+- susijęs iš [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.).md#claim-t-75094|Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]: Netimero vadovaujama bendruomenė turėjo tolti nuo gentinės santvarkos į valstybę, kad taptų verta misionierių dėmesio.
+- susijęs iš [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.).md#claim-t-75095|Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]: Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos.
+- susijęs iš [[objektai/paprociai/Milenaristinės krikščioniškos misijos ir valdovų krikštai.md#claim-t-54312|Milenaristinės krikščioniškos misijos ir valdovų krikštai]]: Pirmasis krikštas Lietuvoje siejamas su Brunono Bonifacijaus misija, Netimero įtikėjimu ir krikščioniškosios Europos tūkstantmečio idėja.
+- susijęs iš [[objektai/asmenys/Adalbertas.md#claim-t-18754|Adalbertas]]: Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176337|Gediminas]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-183532|Gediminas]]: Gedimino posakis „ir mes turime vieną Dievą“ siejamas su vyriausiojo Dievo, o ne pagoniško monoteizmo samprata.
 - susijęs iš [[objektai/asmenys/Mieška.md#claim-t-78066|Mieška]]: Lenkijos valdovas Mieška krikštijosi 966 m.
@@ -85,12 +128,9 @@ periodo_grupes:
 - susijęs iš [[objektai/asmenys/Steponas (Vengrijos valdovas).md#claim-t-19265|Steponas (Vengrijos valdovas)]]: Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.
 - susijęs iš [[objektai/asmenys/Steponas.md#claim-t-64125|Steponas]]: Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.
 - susijęs iš [[objektai/asmenys/Tacitas.md#claim-t-78071|Tacitas]]: Nuo Tacito aisčių paminėjimo iki Lietuvos vardo pasirodymo praėjo beveik tūkstantis metų.
-- susijęs iš [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.).md#claim-t-75094|Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]: Netimero vadovaujama bendruomenė turėjo tolti nuo gentinės santvarkos į valstybę, kad taptų verta misionierių dėmesio.
-- susijęs iš [[objektai/ivykiai/Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.).md#claim-t-75095|Brunono Bonifacijaus misija ir Netimero krikštas (1009 m.)]]: Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, bet vėliau žuvo nuo Netimero brolio rankos.
 - susijęs iš [[objektai/ivykiai/Mindaugo krikštas.md#claim-t-187507|Mindaugo krikštas (krikštas)]]: Mindaugo krikštas ir karalystė pagoniškos Lietuvos istorijoje liko tik epizodas.
 - susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos.md#claim-t-67158|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]: Kryžiaus karų epochoje Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau Europa tarsi atstūmė Lietuvą nuo krikščionybės.
 - susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto.md#claim-t-54305|Lietuvos kunigaikščių derybos dėl krikšto (krikštas)]]: Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau kryžiaus karų epochos Europa, nebeleisdama savarankiško krikšto, tarsi atstūmė Lietuvą nuo krikščionybės.
-- susijęs iš [[objektai/paprociai/Milenaristinės krikščioniškos misijos ir valdovų krikštai.md#claim-t-54312|Milenaristinės krikščioniškos misijos ir valdovų krikštai]]: Pirmasis krikštas Lietuvoje siejamas su Brunono Bonifacijaus misija, Netimero įtikėjimu ir krikščioniškosios Europos tūkstantmečio idėja.
 - susijęs iš [[objektai/posakiai/„ir mes turime vieną Dievą…“.md#claim-t-20898|„ir mes turime vieną Dievą…“]]: Gediminas žodžiais „ir mes turime vieną Dievą…“ bylojo apie vyriausiąjį pagonių Dievą, o ne būtinai apie pagonišką monoteizmą.
 - susijęs iš [[objektai/zodynas/chiefdom vadystė.md#claim-t-13543|chiefdom / vadystė]]: Vadystė šiame kontekste atitinka chiefdom stadiją.
 - susijęs iš [[objektai/zodynas/chiefdom vadystė.md#claim-t-13544|chiefdom / vadystė]]: Netimero valdžios paveldimumas šaltinyje laikomas požymiu, kad Lietuva buvo pasiekusi bent vadystės stadiją.
@@ -129,6 +169,16 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 39298-39732; hash=6a54ff9cd3e8c9f94ccc4869cfbe91d222ac2ef29fd419779c8d8450b03ad675; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Netimeras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Netimeras" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-003
@@ -145,5 +195,35 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 40947-41435; hash=adb33939b156052cb069ae3fc0f122d2100fd6021e4b9cea224adc9cefda1f3e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Adalbertas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Netimeras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Adalbertas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Netimeras" parinktas kaip owner_note_path. Targetas "Adalbertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 39298-39732; hash=6a54ff9cd3e8c9f94ccc4869cfbe91d222ac2ef29fd419779c8d8450b03ad675; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Netimeras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Netimeras" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b0e686f3ddb3368c53f344c75d8c7e74a31fddfda6cd7d55670287272eeab339; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Brunonas Bonifacijus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Netimeras: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Brunonas Bonifacijus: mention_match, person, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Netimeras" parinktas kaip owner_note_path. Targetas "Brunonas Bonifacijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-97134
   teiginys: 'Po 1557 m. valakų reformos lydimoji žemdirbystė Lietuvoje ėmė nykti, nors XVI-XVII a. aktuose žodis „lydimas“ dar dažnai minėtas.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir pakankamai tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Valakai|Valakai]]'
   temporaliniai_duomenys: 'įvykio data: po 1557 m.; įvykio data: 1557 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir pakankamai tiksliai perteikia citatos informaciją.'
@@ -80,6 +80,16 @@ Nenurodyta
   susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=82058fc5fa4a7ec14089d5cfd74474c95714bf3ccf3f8800e1a9b8563f47b393; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lydimoji žemdirbystė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lydimoji žemdirbystė" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-97138"></a>
 - t-005
@@ -92,6 +102,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ba9bf063a5aa3a7beffc15f8b7d625197c25c30de4fabbfcab6afc504190a278; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lydimoji žemdirbystė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lydimoji žemdirbystė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Valakų reforma (1557 m.).md#claim-t-31479|Valakų reforma (1557 m.)]]: 1557 m. pradėta Valakų reforma Lietuvoje įvedė visuotinę trilaukio ūkio sistemą ir skatino lydimosios žemdirbystės nykimą.
 - susijęs iš [[objektai/paprociai/Trilaukio ūkio sistema.md#claim-t-31536|Trilaukio ūkio sistema]]: 1557 m. valakų reforma Lietuvoje įvedė visuotinę trilaukio ūkio sistemą su vieneriems metams paliekamu pūdymu.
 ## Reikšmingi paminėjimai
@@ -135,7 +155,27 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=82058fc5fa4a7ec14089d5cfd74474c95714bf3ccf3f8800e1a9b8563f47b393; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lydimoji žemdirbystė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lydimoji žemdirbystė" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ba9bf063a5aa3a7beffc15f8b7d625197c25c30de4fabbfcab6afc504190a278; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lydimoji žemdirbystė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lydimoji žemdirbystė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003

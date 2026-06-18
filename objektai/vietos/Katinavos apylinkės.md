@@ -32,9 +32,19 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
   global_id: t-58570
   teiginys: 'Katinavos apylinkės išsiskyrė tarp pagoniškam kultui skirtų Nadruvos regionų, nes Katinavos kalva buvo laikoma šventa.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos mintį apie Katinavos apylinkių išskirtinumą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Auktuolyčiai; mentioned_place: Nadruva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Nadruva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Auktuolyčiai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 213213-214075; hash=dee43f61607c3a3cadbe211fa5c9e31a278bb617c04898d71dbabbb849d80f50; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gumbinė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Katinavos apylinkės: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gumbinė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Katinavos apylinkės" parinktas kaip owner_note_path. Targetas "Gumbinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58571"></a>
 - t-002
@@ -47,6 +57,16 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatos apibendrinimu apie Katinavos apylinkes.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c317ff4f3e6a16607b2ec46c3d97b81a1e54fb5f3819b0303bbc22c73d6b684a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nadruva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Katinavos apylinkės: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Nadruva: mention_match, place, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Katinavos apylinkės" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65941|Nadruviai]]: Katinavos kalva nadruvių buvo laikoma šventa (Pratorius M., Deliciae..., kn.
 ## Reikšmingi paminėjimai
 
@@ -83,4 +103,24 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 213213-214075; hash=dee43f61607c3a3cadbe211fa5c9e31a278bb617c04898d71dbabbb849d80f50; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gumbinė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Katinavos apylinkės: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gumbinė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Katinavos apylinkės" parinktas kaip owner_note_path. Targetas "Gumbinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c317ff4f3e6a16607b2ec46c3d97b81a1e54fb5f3819b0303bbc22c73d6b684a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nadruva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Katinavos apylinkės: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Nadruva: mention_match, place, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Katinavos apylinkės" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

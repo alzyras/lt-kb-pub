@@ -36,6 +36,16 @@ Jakubovskis : Tautiniai santykiai , Kaunas 1921. Jakubovskis : Tautybių santyki
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=20e847de632714f1b15368a38f2cc1b2fa58694c6e2b44c1261303182e180339; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Jakubovskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=73
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Jakubovskis" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/M. Ljubavskij.md#claim-t-30841|M. Ljubavskij]]: M. Ljubavskij parašė veikalą „Litovsko-Russkij sejm“, išleistą Maskvoje 1900 m.
 - susijęs iš [[objektai/autoriai/St. M. Kuczyński.md#claim-t-30994|St. M. Kuczyński]]: St. M. Kuczyński 1955 m. Varšuvoje paskelbė veikalą „Wielka wojna z Zakonem Krzyżackim w latach 1409-11“.
 ## Reikšmingi paminėjimai
@@ -58,3 +68,13 @@ Jakubovskis : Tautiniai santykiai , Kaunas 1921. Jakubovskis : Tautybių santyki
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=20e847de632714f1b15368a38f2cc1b2fa58694c6e2b44c1261303182e180339; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Jakubovskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=73
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Jakubovskis" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

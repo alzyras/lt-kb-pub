@@ -35,30 +35,61 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   global_id: t-63793
   teiginys: 'Karigaila, Jogailos brolis ir Mstislavlio kunigaikštis, pateko į kryžiuočių nelaisvę ir buvo žiauriai nužudytas.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata apie Karigailos nelaisvę bei mirtį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Konstanca; mentioned_place: Mstislavlis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Mstislavlis; mentioned_place: Konstanca'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d5c5831d7d6e1a0e69a0c107757c0c36ab75bb51cf0bf150957924ae7113b422; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_sunus -> Skirgaila: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_family_local_relative
+  ryšio_subjekto_parinkimas: Karigaila: owner_note_path, person, gap=21
+  ryšio_targeto_parinkimas: Skirgaila: nearest_family_person, person, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Karigaila" parinktas kaip owner_note_path. Targetas "Skirgaila" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 <a id="claim-t-63794"></a>
 - t-002
   global_id: t-63794
   teiginys: 'Karigaila, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų.'
   sudarymo_pagrindimas: 'Sustiprintas predikatas ir pašalintas silpnas formuluotės „minimas“ pobūdis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Dubysa; mentioned_place: Livonija; mentioned_place: Prūsai'
+  susije_objektai: 'family: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dubysa; mentioned_place: Livonija; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/asmenys/Karigaila|Karigaila]] buvo sūnus [[objektai/asmenys/Skirgaila|Skirgaila]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb4d5bb566eeb7bda22ab6987c69df546bf6e2c133fc95980e85bca2e5b99c80; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karigaila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karigaila" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63795"></a>
 - t-003
   global_id: t-63795
   teiginys: 'Karigaila pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui.'
   sudarymo_pagrindimas: 'Citata palaiko Karigailos pritarimą Jogailos sutartiniams įsipareigojimams.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Julijona (Algirdo žmona)|Julijona (Algirdo žmona)]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Dubysa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Dubysa; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Julijona (Algirdo žmona)|Julijona (Algirdo žmona)]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko Karigailos pritarimą Jogailos sutartiniams įsipareigojimams.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b2412837bafec0ecfb21c094e794925c4b5ef11ca244a6c329fe5b56fd5d8aff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karigaila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=79
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karigaila" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63796"></a>
 - t-004
@@ -68,7 +99,18 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Krokuva; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Andrius Važila.md#claim-t-87386|Andrius Važila]]: 1397 m. Jogaila ir Vytautas laidavo Vilniaus vyskupui Andriui Važilai dviejų šimtų markių metines pajamas.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b391eb7e8a17d9d3e5ac1c2647cda70e128e6b85d1f7f58cdd1dcbc77317c5cb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dubysa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karigaila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dubysa: mention_match, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karigaila" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/daiktai/Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje.md#claim-t-87016|Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje]]: 1390 m. Vilniaus apgultyje vienai iš trijų miesto pilių, vadintai Krautuvių pilimi, vadovavo Jogailos brolis Kazimieras Karigaila.
+- susijęs iš [[objektai/asmenys/Vasilijus Čartoriskis.md#claim-t-87879|Vasilijus Čartoriskis]]: Vasilijus Čartoriskis buvo Pinsko kunigaikštis, Karigailos sūnus ir Algirdo vaikaitis.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173188|Kazimieras Karigaila]]: Kazimieras Karigaila buvo nužudytas, o jo galva atskirta nuo kūno ir išniekinta karaliaus paniekinimui.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173189|Kazimieras Karigaila]]: Kazimieras Karigaila žuvo mūšio lauke, bėgdamas gelbėtis į Aukštutinę pilį ir priešų neatpažintas.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173190|Kazimieras Karigaila]]: 1396 m. Vytauto privilegija Kazimierui Karigailai, kaip mirusiam jo broliui, numatė kasdienes skaitytines mišias.
@@ -77,28 +119,29 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173194|Kazimieras Karigaila]]: Ordino pareigūno laiške teigta, kad Karigaila buvo nukautas kareivių neatpažintas, o apie jo žūtį sužinota penktą dieną.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-54977|Kazimieras Karigaila]]: Viena versija Kazimierą Karigailą vadina tikru karaliaus broliu ir teigia, kad po nužudymo nuo kūno buvo atskirta jo galva.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-54978|Kazimieras Karigaila]]: Kita versija teigia, kad kunigaikštis Karigaila buvo kareivių neatpažintas nukautas.
-- susijęs iš [[objektai/asmenys/Mikalojus Moskoževskis.md#claim-t-87410|Mikalojus Moskoževskis]]: Mikalojus Moskoževskis Aukštutinėje pilyje vadovavo lenkų gynybai ir penkias savaites atlaikė kryžiuočių antpuolius.
 - susijęs iš [[objektai/asmenys/Vasilijus Čartoriskis.md#claim-t-87879|Vasilijus Čartoriskis]]: Vasilijus Čartoriskis buvo Pinsko kunigaikštis, Karigailos sūnus ir Algirdo vaikaitis.
+- susijęs iš [[objektai/daiktai/Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje.md#claim-t-87016|Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje]]: 1390 m. Vilniaus apgultyje vienai iš trijų miesto pilių, vadintai Krautuvių pilimi, vadovavo Jogailos brolis Kazimieras Karigaila.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179346|Lietuviai]]: Tik penktą dieną iš lietuvių, pabėgusių iš Aukštutinės pilies, sužinota, kad kunigaikštis Karigaila žuvo.
+- susijęs iš [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius.md#claim-t-87229|Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]: Vytautas privilegijoje nurodė maldomis rūpintis jo ir mirusių brolių Kazimiero Karigailos bei Aleksandro Vyganto sveikata.
+- susijęs iš [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius.md#claim-t-87230|Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]: 1396 m. Vytautas kapitulai dovanojo Cudzeniškių valdą ir įpareigojo kasdien aukoti mišias už mirusius brolius Karigailą ir Vygantą.
+- susijęs iš Latopisiec Litwy i Kronika Ruška: Danilovičiaus Latopisiec mini, kad Karigailos lenkų įgula neįsileido į Aukštutinę pilį ir apie jo mirtį nutyli.
+- susijęs iš Ordino pareigūno laiškas Lenkijos karalienei apie Karigailą: Ordino pareigūno laiške Lenkijos karalienei teigta, kad Karigaila buvo kareivių neatpažintas ir nukautas.
+- susijęs iš [[objektai/asmenys/Andrius Važila.md#claim-t-87386|Andrius Važila]]: 1397 m. Jogaila ir Vytautas laidavo Vilniaus vyskupui Andriui Važilai dviejų šimtų markių metines pajamas.
+- susijęs iš [[objektai/asmenys/Mikalojus Moskoževskis.md#claim-t-87410|Mikalojus Moskoževskis]]: Mikalojus Moskoževskis Aukštutinėje pilyje vadovavo lenkų gynybai ir penkias savaites atlaikė kryžiuočių antpuolius.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173228|Vladislovas Jogaila]]: 1397 m. Vladislovas Jogaila ir Vytautas Vilniaus vyskupui Andriui laidavo dviejų šimtų markių metines pajamas.
 - susijęs iš [[objektai/autoriai/Karamzinas.md#claim-t-55009|Karamzinas]]: Balinskis teigė, kad Karamzinas Lietuvos istorijos įvykius dėstė gana paviršutiniškai.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172941|M. Strijkovskis Stryjkowski]]: Strijkovskis, aprašydamas Vilniaus apgultį, teigė, kad Mikalojus Moskorovskis su lenkais narsiai gynė Aukštutinę pilį.
-- susijęs iš [[objektai/daiktai/Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje.md#claim-t-87016|Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje]]: 1390 m. Vilniaus apgultyje vienai iš trijų miesto pilių, vadintai Krautuvių pilimi, vadovavo Jogailos brolis Kazimieras Karigaila.
 - susijęs iš [[objektai/daiktai/Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje.md#claim-t-87017|Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje]]: 1390 m. Vilniaus apgultyje Aukštutinę pilį gynė lenkai su Vilniaus seniūnu Mikalojumi Moskorovskiu.
 - susijęs iš [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje.md#claim-t-86719|Lenkų įgula Vilniaus Aukštutinėje pilyje]]: Aukštutinėje tvirtovėje užsidarė lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179346|Lietuviai]]: Tik penktą dieną iš lietuvių, pabėgusių iš Aukštutinės pilies, sužinota, kad kunigaikštis Karigaila žuvo.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176085|Vilniaus kapitula]]: 1396 m. Vytautas, Vladislovui Jogailai sutikus, dovanojo Vilniaus kapitulai Cudzeniškių valdą netoli Medininkų pilies.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176165|Žemaičiai]]: Vytauto gretose buvo daug dar nepakrikštytų žemaičių ir lietuvių, nes žemaičiai linko prie Birutės sūnaus Vytauto.
 - susijęs iš [[objektai/ivykiai/Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.).md#claim-t-86969|Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.)]]: 1396 m. Vilniuje rašyta privilegija Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą prie Medininkų.
 - susijęs iš [[objektai/paprociai/Apgultos pilies išardų taisymas laikinais užtaisais.md#claim-t-87260|Apgultos pilies išardų taisymas laikinais užtaisais]]: Aukštutinės pilies gynėjai patrankų pramuštas mūro vietas užtaisydavo žeme, mėšlu, galvijų oda ir vilnų prikimštais maišais.
 - susijęs iš [[objektai/paprociai/Gyventojų ir pirklių slėpimasis pilyje per apgultį.md#claim-t-87207|Gyventojų ir pirklių slėpimasis pilyje per apgultį]]: Apsuptoje Vilniaus Krautuvių pilyje slėpėsi keli tūkstančiai ginkluotų žmonių, vyresnieji ir abiejų lyčių prastuomenė.
 - susijęs iš [[objektai/paprociai/Metinės išmokos ir medaus duoklė vyskupui už naujakrikščių mokymą.md#claim-t-87217|Metinės išmokos ir medaus duoklė vyskupui už naujakrikščių mokymą]]: 1397 m. Vladislovas Jogaila ir Vytautas laidavo Vilniaus vyskupui Andriui 200 markių metines pajamas už krikščioniškojo mokymo skleidimą Lietuvoje.
-- susijęs iš [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius.md#claim-t-87229|Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]: Vytautas privilegijoje nurodė maldomis rūpintis jo ir mirusių brolių Kazimiero Karigailos bei Aleksandro Vyganto sveikata.
-- susijęs iš [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius.md#claim-t-87230|Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]: 1396 m. Vytautas kapitulai dovanojo Cudzeniškių valdą ir įpareigojo kasdien aukoti mišias už mirusius brolius Karigailą ir Vygantą.
 - susijęs iš [[objektai/paprociai/Įtartinų žmonių šalinimas iš tvirtovės apgulties metu.md#claim-t-87239|Įtartinų žmonių šalinimas iš tvirtovės apgulties metu]]: Moskoževskis iš tvirtovės išvarė įtartinus žmones, galėjusius slapta palaikyti Vytautą, ir penkias savaites atrėmė apgultį.
 - susijęs iš [[objektai/paprociai/Įtartinų žmonių šalinimas iš tvirtovės apgulties metu.md#claim-t-87240|Įtartinų žmonių šalinimas iš tvirtovės apgulties metu]]: Aukštutinės pilies gynėjai, bijodami išdavystės, iš pilies išvijo rusus ir įtartinus žmones.
 - susijęs iš [[objektai/posakiai/Lietuvių žemėse patį pavojingiausią miestą.md#claim-t-86862|Lietuvių žemėse patį pavojingiausią miestą]]: Sename vokiečių pranešime Vilnius vadintas lietuvių žemėse pavojingiausiu miestu, kuriame buvo trys įgulų saugomos pilys.
-- susijęs iš Latopisiec Litwy i Kronika Ruška: Danilovičiaus Latopisiec mini, kad Karigailos lenkų įgula neįsileido į Aukštutinę pilį ir apie jo mirtį nutyli.
-- susijęs iš Ordino pareigūno laiškas Lenkijos karalienei apie Karigailą: Ordino pareigūno laiške Lenkijos karalienei teigta, kad Karigaila buvo kareivių neatpažintas ir nukautas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -134,6 +177,16 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b391eb7e8a17d9d3e5ac1c2647cda70e128e6b85d1f7f58cdd1dcbc77317c5cb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dubysa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karigaila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dubysa: mention_match, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karigaila" parinktas kaip owner_note_path. Targetas "Dubysa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -155,6 +208,16 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b2412837bafec0ecfb21c094e794925c4b5ef11ca244a6c329fe5b56fd5d8aff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karigaila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=79
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karigaila" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-004
@@ -170,4 +233,29 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb4d5bb566eeb7bda22ab6987c69df546bf6e2c133fc95980e85bca2e5b99c80; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karigaila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karigaila" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d5c5831d7d6e1a0e69a0c107757c0c36ab75bb51cf0bf150957924ae7113b422; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_sunus -> Skirgaila: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_family_local_relative
+  ryšio_subjekto_parinkimas: Karigaila: owner_note_path, person, gap=21
+  ryšio_targeto_parinkimas: Skirgaila: nearest_family_person, person, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Karigaila" parinktas kaip owner_note_path. Targetas "Skirgaila" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+
+## Ryšiai
+- Karigaila buvo_sunus [[objektai/asmenys/Skirgaila]]
+- [[objektai/asmenys/Kazimieras Karigaila]] buvo_brolis Karigaila
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_sunus Karigaila

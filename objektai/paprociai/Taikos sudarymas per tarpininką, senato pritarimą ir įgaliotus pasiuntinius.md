@@ -40,6 +40,17 @@ Nenurodyta
   susije_objektai: 'territory: Maskva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Rževas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1075031-1075629; hash=d256708b059c02531dfb24a3ca5655058fc05e821b85c64118c174e7528a610f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Vasilijus: nearest_actor_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Riazanė: candidate; Rževas: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vasilijus" parinktas kaip nearest_actor_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Riazanė.md", "selected": false, "strategy": "candidate", "title": "Riazanė", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Rževas.md", "selected": false, "strategy": "candidate", "title": "Rževas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 <a id="claim-t-185855"></a>
 - t-002
@@ -52,6 +63,16 @@ Nenurodyta
   susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1075690-1076541; hash=6e4fe48ea10c5ba997f769bfa8bf22ee48ba4b14456f5ba877ec86e2d60f86ae; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -114,4 +135,25 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1075031-1075629; hash=d256708b059c02531dfb24a3ca5655058fc05e821b85c64118c174e7528a610f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Vasilijus: nearest_actor_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Riazanė: candidate; Rževas: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vasilijus" parinktas kaip nearest_actor_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Riazanė.md", "selected": false, "strategy": "candidate", "title": "Riazanė", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Rževas.md", "selected": false, "strategy": "candidate", "title": "Rževas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1075690-1076541; hash=6e4fe48ea10c5ba997f769bfa8bf22ee48ba4b14456f5ba877ec86e2d60f86ae; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

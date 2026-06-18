@@ -24,7 +24,7 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
   global_id: t-82094
   teiginys: 'Goštautas po vienuolių nužudymo vėl atkvietė tos pačios regulos vienuolių iš Lenkijos.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie regulos vienuolius, bet pradinis teiginys per ilgas ir nutrūkęs.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]'
   pagrindžia:
     - c-001
 
@@ -36,7 +36,7 @@ Dusburgietis teigia, kad šioje Kristburgo pilyje gyveno dievui atsidavę ir nuo
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis sakinys negrabiai perteikia citatos mintį; perrašyta aiškiau ir glaustai.'
-  susije_objektai: 'location: Polona; mentioned_place: Nemunas; mentioned_place: Polona'
+  susije_objektai: 'location: Polona; mentioned_place: Polona; mentioned_place: Nemunas'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172807|Vilniaus magistratas]]: Vilniaus tarėjams buvo nurodyta su ponais tartis dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų.

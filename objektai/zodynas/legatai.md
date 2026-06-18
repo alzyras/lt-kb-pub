@@ -25,8 +25,25 @@ Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti 
   susije_objektai: 'territory: Maskva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Rževas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1075031-1075629; hash=d256708b059c02531dfb24a3ca5655058fc05e821b85c64118c174e7528a610f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Vasilijus: nearest_actor_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Riazanė: candidate; Rževas: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vasilijus" parinktas kaip nearest_actor_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Riazanė.md", "selected": false, "strategy": "candidate", "title": "Riazanė", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Rževas.md", "selected": false, "strategy": "candidate", "title": "Rževas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Baltramiejus (vyskupas).md#claim-t-30210|Baltramiejus (vyskupas)]]: Vyskupas Baltramiejus 1324 m. vasarop atvyko į Rygą kaip vienas iš dviejų Avinjono legatų.
 - susijęs iš [[objektai/asmenys/Bernardas (abatas).md#claim-t-30211|Bernardas (abatas)]]: Abatas Bernardas 1324 m. vasarop su vyskupu Baltramiejumi atvyko iš Avinjono į Rygą kaip popiežiaus legatas.
+- susijęs iš [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale).md#claim-t-97041|Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]: Popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, nes tikėtasi, kad per tą laiką Gediminas pasikrikštys.
+- susijęs iš [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale).md#claim-t-97044|Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]: Išvykdami iš Livonijos popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, tikėdamiesi jo krikšto.
+- susijęs iš [[objektai/ivykiai/Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas.md#claim-t-185544|Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas]]: Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, grafo Leonardo ir Zigmanto Herberšteino pasiuntinybes.
+- susijęs iš Maskvėnų metraščiai: Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, imperatoriaus Karolio V atstovą grafą Leonardą ir karaliaus Ferdinando atstovą Zigmantą Herberšteiną.
+- susijęs iš Maskva: Maskvoje maskvėnai reikalavo, kad legatai laišku paklaustų karaliaus nuomonės dėl titulų ginčo.
+- susijęs iš Možaiskas: Pirmoji pasiuntinybė patraukė į Možaiską tik gavusi žinią, kad karaliaus legatai yra Smolenske.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173145|Dovydas (Gardino pilininkas)]]: Dusburgietis pasakoja, kad 1324 m. Gediminas pasiuntė Dovydą niokoti Mazovijos žemės.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173146|Dovydas (Gardino pilininkas)]]: Lapkričio 21 d. Gardino pilininkas Dovydas su galinga kariuomene įsibrovė į Mazoviją ir nusiaubė Pultuską bei 130 kaimų.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-184058|Dovydas (Gardino pilininkas)]]: Dovydas, Gardino pilininkas, lapkričio 21 d. įsibrovė į Mazoviją ir nusiaubė Plocko vyskupo Pultuską.
@@ -38,17 +55,11 @@ Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti 
 - susijęs iš [[objektai/grupes/Maskvėnai.md#claim-t-184571|Maskvėnai]]: Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno iš Lietuvos atimto kaimo.
 - susijęs iš [[objektai/ivykiai/Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas.md#claim-t-185529|Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas]]: Kai karaliaus legatai keliavo namo, Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą ir nuvarymą į Vilnių.
 - susijęs iš [[objektai/ivykiai/Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.).md#claim-t-97037|Rygos arkivyskupo interdiktas ordinui už Lietuvos krikšto sutrukdymą (1325 m.)]]: Atidėjus krikšto klausimą, Gediminui svarbiausia liko naujai sudaryta taika.
-- susijęs iš [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale).md#claim-t-97041|Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]: Popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, nes tikėtasi, kad per tą laiką Gediminas pasikrikštys.
-- susijęs iš [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale).md#claim-t-97044|Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]: Išvykdami iš Livonijos popiežiaus legatai įsakė ketverius metus nekariauti su Gediminu, tikėdamiesi jo krikšto.
 - susijęs iš [[objektai/ivykiai/Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale).md#claim-t-97045|Vilniaus pokalbiai su popiežiaus legatais dėl Lietuvos krikšto (1324 m. gegužės gale)]]: Atidėjus krikšto klausimą, Gediminui svarbiausia liko naujai sudaryta taika.
 - susijęs iš [[objektai/ivykiai/Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.).md#claim-t-103832|Vilniaus taika su Livonijos ordinu (1323 m. spalio 2 d.)]]: Prūsų ordinas Vilniaus taikos nepripažino ir skatino siekti su Gediminu pasirašytos sutarties anuliavimo.
-- susijęs iš [[objektai/ivykiai/Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas.md#claim-t-185544|Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas]]: Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, grafo Leonardo ir Zigmanto Herberšteino pasiuntinybes.
 - susijęs iš [[objektai/ivykiai/Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas.md#claim-t-185545|Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas]]: Per šešerių metų paliaubas Vasilijus pasilaikė Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo.
 - susijęs iš [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai.md#claim-t-01934|Bendri Lietuvos ir Lenkijos seimai]]: Susitarimu siekta įkurti jungtinę valstybę su bendru seimu, bendra valdovo rinkimo vieta, bendra apsauga ir bendrais pinigais.
 - susijęs iš Ivano laiškas karaliui su Livonijos valdovo titulu: Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu.
-- susijęs iš Maskvėnų metraščiai: Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, imperatoriaus Karolio V atstovą grafą Leonardą ir karaliaus Ferdinando atstovą Zigmantą Herberšteiną.
-- susijęs iš Maskva: Maskvoje maskvėnai reikalavo, kad legatai laišku paklaustų karaliaus nuomonės dėl titulų ginčo.
-- susijęs iš Možaiskas: Pirmoji pasiuntinybė patraukė į Možaiską tik gavusi žinią, kad karaliaus legatai yra Smolenske.
 - susijęs iš Možaiskas: Vasilijus įsakė sulaikyti karaliaus pasiuntinius Možaiske, kai Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą.
 - susijęs iš Vilnius: Maskvos pasiuntinybė pareikalavo, kad po Lietuvą išmėtyti maskvėnų belaisviai būtų suvaryti į Vilnių ir geriau laikomi.
 ## Reikšmingi paminėjimai
@@ -85,3 +96,14 @@ Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1075031-1075629; hash=d256708b059c02531dfb24a3ca5655058fc05e821b85c64118c174e7528a610f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Vasilijus: nearest_actor_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Riazanė: candidate; Rževas: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vasilijus" parinktas kaip nearest_actor_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Riazanė.md", "selected": false, "strategy": "candidate", "title": "Riazanė", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Rževas.md", "selected": false, "strategy": "candidate", "title": "Rževas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.

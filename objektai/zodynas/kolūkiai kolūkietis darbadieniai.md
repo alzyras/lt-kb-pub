@@ -34,6 +34,9 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
   temporalinis_llm_pakomentavimas: 'Citata neremia pateiktų 1949 m. procentų, bet remia faktus apie kolūkiečio padėtį.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 439158-439601; hash=e683a3624f27c51177c37de011f3d3c553ee16f9f06f65b9da88086fda3288c4; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 <a id="claim-t-22194"></a>
 - t-002
@@ -42,6 +45,9 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie prievartinę kolektyvizaciją, kolūkius ir valstiečių elgesį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ec8946ce3f2ae6dfa607bcc4768264cb91d8c527cb8af906d6f51d33fa12729b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-183435"></a>
 - t-003
@@ -56,6 +62,9 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai pateikia 1949 m. valstiečių įstojimo į kolūkius kaitą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 439158-439601; hash=e683a3624f27c51177c37de011f3d3c553ee16f9f06f65b9da88086fda3288c4; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -90,5 +99,14 @@ Teroro politika darė savo – 1949 m. pradžioje į kolūkius buvo įstoję 4 p
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ec8946ce3f2ae6dfa607bcc4768264cb91d8c527cb8af906d6f51d33fa12729b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 439158-439601; hash=e683a3624f27c51177c37de011f3d3c553ee16f9f06f65b9da88086fda3288c4; match=whitespace_regex
+  sprendimo_priezastis: auto
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 439158-439601; hash=e683a3624f27c51177c37de011f3d3c553ee16f9f06f65b9da88086fda3288c4; match=whitespace_regex
+  sprendimo_priezastis: auto

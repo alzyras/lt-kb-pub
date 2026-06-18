@@ -33,6 +33,16 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
   temporalinis_llm_pakomentavimas: 'Iš citatos išplėstas veiksnys ir kontekstas, kad sakinys būtų enciklopedinis.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b38ab42b10ce24eae36e1a86bd10f4991037ca3d1962047f90249a005f306517; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> K. Ladyga: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paberžė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: K. Ladyga: mention_match, person, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paberžė" parinktas kaip owner_note_path. Targetas "K. Ladyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Daugailiai: Karininkas Kazys Ladyga su lietuvių kariais birželio 3 d. užėmė Daugailius ir Tauragnus, o birželio 4 d. Paberžę.
 - susijęs iš Tauragnai: 1919 m. birželio 3 d. lietuvių kariai, persekiodami bolševikus, užėmė Daugailius ir Tauragnus.
 ## Reikšmingi paminėjimai
@@ -50,3 +60,13 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b38ab42b10ce24eae36e1a86bd10f4991037ca3d1962047f90249a005f306517; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> K. Ladyga: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paberžė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: K. Ladyga: mention_match, person, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paberžė" parinktas kaip owner_note_path. Targetas "K. Ladyga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

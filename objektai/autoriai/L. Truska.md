@@ -30,11 +30,21 @@ Truska: Emigracija iš Lietuvos 1868-1914 m. (AkMD, t.
 - t-001
   global_id: t-30784
   teiginys: 'L. Truska parašė studiją „Emigracija iš Lietuvos 1868-1914 m.“.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Matulaitytė|S. Matulaitytė]]; mentioned_author: [[objektai/autoriai/V. Merkys|V. Merkys]]; mentioned_author: [[objektai/autoriai/V. Milius|V. Milius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Merkys; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Matulaitytė|S. Matulaitytė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/V. Merkys|V. Merkys]]; mentioned_author: [[objektai/autoriai/V. Milius|V. Milius]]; mentioned_place: Merkys; mentioned_place: Prūsija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1848-1914; įvykio data: 1868-1914; įvykio data: 1914 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0b22f1db3c504862a6b7fa08444a3f49a3f351a391d73f21e3cb215b0839a628; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: L. Truska: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "L. Truska" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Blažytė-Baužienė D.md#claim-t-19385|Blažytė-Baužienė D]]: D. Blažytė-Baužienė kartu su M. Tamošaičiu ir L. Truska parašė veikalą „Lietuvos Seimo istorija: XX–XXI a. pradžia“.
 - susijęs iš [[objektai/autoriai/Tamošaitis M.md#claim-t-19482|Tamošaitis M]]: M. Tamošaitis kartu su D. Blažyte-Baužiene ir L. Truska parašė leidinį „Lietuvos Seimo istorija: XX–XXI a. pradžia“.
 - susijęs iš [[objektai/autoriai/Truska L.md#claim-t-19483|Truska L]]: L. Truska parašė knygą „Antanas Smetona ir jo laikai“, išleistą Vilniuje 1996 m.
@@ -60,3 +70,13 @@ Truska: Emigracija iš Lietuvos 1868-1914 m. (AkMD, t.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0b22f1db3c504862a6b7fa08444a3f49a3f351a391d73f21e3cb215b0839a628; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: L. Truska: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "L. Truska" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

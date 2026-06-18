@@ -30,12 +30,22 @@ O juk iš tokių emigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimus
   global_id: t-78044
   teiginys: 'Anthony Kiedis iš grupės „Red Hot Chili Peppers“ kildinamas iš Lietuvos emigrantų.'
   sudarymo_pagrindimas: 'Pradinė formuluotė yra metinė ir silpna, o citata leidžia suformuluoti faktinį sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bob Dylan|Bob Dylan]]; mentioned_person: [[objektai/asmenys/David Gilmour|David Gilmour]]; mentioned_person: [[objektai/asmenys/Eric Clapton|Eric Clapton]]; mentioned_person: [[objektai/asmenys/George Harrison|George Harrison]]; mentioned_person: [[objektai/asmenys/Keith Richards|Keith Richards]]; mentioned_person: [[objektai/asmenys/Leonard Cohen|Leonard Cohen]]; mentioned_place: Lietuva; mentioned_place: Londonas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Bob Dylan|Bob Dylan]]; mentioned_person: [[objektai/asmenys/David Gilmour|David Gilmour]]; mentioned_person: [[objektai/asmenys/Eric Clapton|Eric Clapton]]; mentioned_person: [[objektai/asmenys/George Harrison|George Harrison]]; mentioned_person: [[objektai/asmenys/Keith Richards|Keith Richards]]; mentioned_person: [[objektai/asmenys/Leonard Cohen|Leonard Cohen]]; mentioned_place: Londonas'
   temporaliniai_duomenys: 'įvykio data: 1902 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė yra metinė ir silpna, o citata leidžia suformuluoti faktinį sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=86c729300578ef7a4b520ed78edc502ef50dbaf30c8eea7af79f4589d210d349; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Anthony Kiedis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Anthony Kiedis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Bob Dylan.md#claim-t-18855|Bob Dylan]]: Bob Dylan yra kilęs iš Lietuvos emigrantų: jo senelė gimė Lietuvoje ir 1902 m. su šeima emigravo į JAV.
 - susijęs iš [[objektai/asmenys/Leonard Cohen.md#claim-t-19105|Leonard Cohen]]: Leonardo Coheno motina buvo kilusi iš Lietuvos emigrantų.
 - susijęs iš [[objektai/daiktai/Gitara „Zemaitis“.md#claim-t-45488|Gitara „Zemaitis“]]: Tony’o Zemaicio sukurta gitara „Zemaitis“ roko pasaulyje tapo bendrine sąvoka.
@@ -60,3 +70,13 @@ O juk iš tokių emigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimus
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=86c729300578ef7a4b520ed78edc502ef50dbaf30c8eea7af79f4589d210d349; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Anthony Kiedis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Anthony Kiedis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

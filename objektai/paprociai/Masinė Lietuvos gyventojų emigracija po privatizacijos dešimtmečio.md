@@ -57,12 +57,22 @@ Po pirmojo privatizacijos dešimtmečio masinis nedarbas skatino masinę Lietuvo
   global_id: t-23370
   teiginys: 'Pirmąjį privatizacijos dešimtmetį bankrutavus stambioms įmonėms, masinis nedarbas paskatino Lietuvos gyventojų emigraciją.'
   sudarymo_pagrindimas: 'Patikslinta priežastinė seka ir pašalintas netikslus datos prijungimas.'
-  susije_objektai: 'mentioned_place: Ispanija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Ispanija'
   temporaliniai_duomenys: 'įvykio data: po 1990 m.; įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslinta priežastinė seka ir pašalintas netikslus datos prijungimas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=06700d061193dc1d90f53132c0c4dbf4b968989895b62eca8327daa0ae9eb1d5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-23371"></a>
 - t-002
@@ -73,6 +83,16 @@ Po pirmojo privatizacijos dešimtmečio masinis nedarbas skatino masinę Lietuvo
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=06700d061193dc1d90f53132c0c4dbf4b968989895b62eca8327daa0ae9eb1d5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ispanija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Ispanija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio" parinktas kaip owner_note_path. Targetas "Ispanija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -89,7 +109,27 @@ Po pirmojo privatizacijos dešimtmečio masinis nedarbas skatino masinę Lietuvo
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=06700d061193dc1d90f53132c0c4dbf4b968989895b62eca8327daa0ae9eb1d5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=06700d061193dc1d90f53132c0c4dbf4b968989895b62eca8327daa0ae9eb1d5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ispanija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Ispanija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Masinė Lietuvos gyventojų emigracija po privatizacijos dešimtmečio" parinktas kaip owner_note_path. Targetas "Ispanija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Šaltiniai ir įrodymai
 

@@ -37,6 +37,16 @@ Nenurodyta
   susije_objektai: 'mentioned_place: Prūsija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1163918-1164318; hash=856644481cc2a411a3de59404ab824cae311f29da676c9eca21adde4fffbb49e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liuteronų maištas Gdanske ir jo numalšinimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liuteronų maištas Gdanske ir jo numalšinimas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185747"></a>
 - t-002
@@ -48,6 +58,9 @@ Nenurodyta
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1164190-1164692; hash=8af188f04591d5d935703674be6beb68ee9baf81bb1e938f3369d64d13363c20; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -91,4 +104,17 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1163918-1164318; hash=856644481cc2a411a3de59404ab824cae311f29da676c9eca21adde4fffbb49e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liuteronų maištas Gdanske ir jo numalšinimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liuteronų maištas Gdanske ir jo numalšinimas" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1164190-1164692; hash=8af188f04591d5d935703674be6beb68ee9baf81bb1e938f3369d64d13363c20; match=exact
+  sprendimo_priezastis: auto

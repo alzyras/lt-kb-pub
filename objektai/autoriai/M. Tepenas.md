@@ -34,21 +34,41 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   global_id: t-64745
   teiginys: 'M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, padarė išvadą, kad skalviai ir nadruviai buvo lietuviai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Becenbergeris|A. Becenbergeris]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Deimena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_author: [[objektai/autoriai/A. Becenbergeris|A. Becenbergeris]]; mentioned_place: Deimena'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 3052-3671; hash=6fc9c1e0e761856d71d369daf878816d3749fc74cc5d5918a439e0c417ee6a03; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Tepenas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Tepenas" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64746"></a>
 - t-002
   global_id: t-64746
   teiginys: 'M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir atitinka citatoje pateiktą informaciją apie Tepeno pastebėjimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Rausvė; mentioned_place: Romuva'
+  susije_objektai: 'mentioned_place: Rausvė; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Romuva'
   temporaliniai_duomenys: 'įvykio data: 1684 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir atitinka citatoje pateiktą informaciją apie Tepeno pastebėjimą.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 799891-799995; hash=68b0b1538939052fc620c122c9574901270da8189bc3eaa2ac728e48112bf854; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Berlynas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Tepenas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Tepenas" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64747"></a>
 - t-003
@@ -84,6 +104,16 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą Tepeno veiksmą ir datą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 3052-3671; hash=6fc9c1e0e761856d71d369daf878816d3749fc74cc5d5918a439e0c417ee6a03; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Berlynas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Tepenas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Berlynas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Tepenas" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-64752"></a>
 - t-006
@@ -95,17 +125,27 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   temporalinis_llm_pakomentavimas: 'Bibliografinė citata pagrindžia autoriaus darbą, leidimo vietą ir metus.'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=44e583c468a3aa40c211ae5fa1951ad85790209edf753530b77078d945d6d80f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Tepenas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=103
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Tepenas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Тоерреn M.md#claim-t-60665|Тоерреn M]]: M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.
-- susijęs iš [[objektai/daiktai/Prūsijos žemės kronikos nuorašai.md#claim-t-59704|Prūsijos žemės kronikos nuorašai]]: M. Tepenas 1861 m. paskelbė kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus.
-- susijęs iš [[objektai/ivykiai/Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.).md#claim-t-59554|Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.)]]: M. Tepenas manė, kad Dusburgietis 1323 m. lietuvių žygius į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę aprašė remdamasis Varmės dokumentu.
 - susijęs iš 1282 m. Mstivojaus ir Ordino taikos dokumentas: M. Tepenas manė, kad Dusburgietis galėjo žinoti 1282 m. Pamario kunigaikščio Mstivojaus ir Ordino taikos dokumentą.
 - susijęs iš 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentas: M. Tepenas nurodė, kad Dusburgietis rėmėsi 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumentu apie lietuvių žygius.
 - susijęs iš 1324 m. popiežiaus legatų dokumentas dėl taikos su Gediminu: M. Tepenas nurodė, kad Dusburgietis rėmėsi 1324 m. popiežiaus legatų dokumentu dėl taikos su Gediminu.
 - susijęs iš Konrado 1230 m. dovanojimo raštas: M. Tepenas nurodė, kad Dusburgietis rėmėsi 1230 m. kunigaikščio Konrado dovanojamuoju raštu.
-- susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinyje nurodoma, kad M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė kronikos mokslinį leidimą originalo lotynų kalba.
 - susijęs iš Popiežiaus 1230 m. sausio 18 d. bulė: M. Tepenas pažymėjo, kad Dusburgietis rėmėsi popiežiaus 1230 m. sausio 18 d. bule.
-- susijęs iš Scriptores rerum Prussicarum: M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė mokslinį kronikos leidimą lotynų kalba.
 - susijęs iš Sventopelko ir Ordino 1243 m. sutartis: M. Tepenas nurodė, kad Dusburgietis rėmėsi žuvusia Sventopelko ir Ordino 1243 m. sutartimi.
+- susijęs iš [[objektai/daiktai/Prūsijos žemės kronikos nuorašai.md#claim-t-59704|Prūsijos žemės kronikos nuorašai]]: M. Tepenas 1861 m. paskelbė kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus.
+- susijęs iš [[objektai/ivykiai/Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.).md#claim-t-59554|Lietuvių žygiai į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę (1323 m.)]]: M. Tepenas manė, kad Dusburgietis 1323 m. lietuvių žygius į Revelio žemę, Klaipėdą, Vėluvą ir Dobrynę aprašė remdamasis Varmės dokumentu.
+- susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinyje nurodoma, kad M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė kronikos mokslinį leidimą originalo lotynų kalba.
+- susijęs iš Scriptores rerum Prussicarum: M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė mokslinį kronikos leidimą lotynų kalba.
 - susijęs iš Karaliaučius: M. Tepenas 1861 m. paskelbė Petro Dusburgiečio kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus.
 - susijęs iš Rausvė: M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.
 ## Reikšmingi paminėjimai
@@ -139,6 +179,16 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 3052-3671; hash=6fc9c1e0e761856d71d369daf878816d3749fc74cc5d5918a439e0c417ee6a03; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Berlynas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Tepenas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Berlynas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Tepenas" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
 
 - c-003
@@ -183,6 +233,16 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 799891-799995; hash=68b0b1538939052fc620c122c9574901270da8189bc3eaa2ac728e48112bf854; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Berlynas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Tepenas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Tepenas" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-006
@@ -194,4 +254,24 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 3052-3671; hash=6fc9c1e0e761856d71d369daf878816d3749fc74cc5d5918a439e0c417ee6a03; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Tepenas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Tepenas" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=44e583c468a3aa40c211ae5fa1951ad85790209edf753530b77078d945d6d80f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Tepenas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=103
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Tepenas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

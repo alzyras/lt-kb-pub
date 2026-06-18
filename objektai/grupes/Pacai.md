@@ -24,6 +24,9 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   sudarymo_pagrindimas: 'Reikia pašalinti fragmentiškumą ir aiškiau susieti faktą su Pacais.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 722081-722251; hash=0aa690fbb9b12b862626fd5279a9a88a29061f248fee53b63380ef796bb90320; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-65968"></a>
 - t-002
@@ -32,6 +35,9 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   sudarymo_pagrindimas: 'Įvardis „jo“ pakeistas aiškiai nurodytu Sobieskiu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=04c1fce4c9516f5a183bd8caa44ceeaf79a97f40b5ccbf644108c65be524bb7a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-182914"></a>
 - t-003
@@ -44,6 +50,16 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 722081-722251; hash=0aa690fbb9b12b862626fd5279a9a88a29061f248fee53b63380ef796bb90320; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pacai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pacai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-182915"></a>
 - t-004
@@ -53,16 +69,26 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Įvardytas objektas ir pašalintas neaiškus įvardis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 734289-734680; hash=c58659e841c746f40f5b3e3c87a28ec24a16bf12e9d3fc379eb82c4081d656b2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pacai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pacai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/A. Nelepcos.md#claim-t-39698|A. Nelepcos]]: A. Nelepcos vadovaujama maždaug 30 karių grupė puolė Pacų rūmus ir paėmė į nelaisvę generolą N. Arsenjevą.
 - susijęs iš [[objektai/asmenys/Nikolajus Arsenjevas.md#claim-t-40372|Nikolajus Arsenjevas]]: Nikolajus Arsenjevas buvo rusų Vilniaus įgulos vadas, kurį sukilėliai paėmė į nelaisvę Pacų rūmuose.
 - susijęs iš [[objektai/grupes/Bajorų konfederacija.md#claim-t-40861|Bajorų konfederacija]]: Bajorų konfederacijai, kovojusiai prieš švedus ir jų sąjungininkus, vadovavo Vincentas Gonsievskis, Povilas Sapiega, Kristupas ir Mykolas Pacai.
 - susijęs iš [[objektai/grupes/Lenkijos bajorų partija.md#claim-t-74048|Lenkijos bajorų partija]]: Lenkijos bajorų partija buvo tarp karaliaus rėmėjų kartu su Pacų vadovaujama Lietuva.
 - susijęs iš [[objektai/ivykiai/Vilniaus išvadavimas (1794 m. balandžio 22–23 d.).md#claim-t-41380|Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)]]: Per Vilniaus išvadavimą A. Nelepcos vadovaujama apie 30 karių grupė puolė Pacų rūmus.
-- susijęs iš [[objektai/paprociai/Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu.md#claim-t-67152|Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu (seimas)]]: Hetmonas Pacas atsisakė eiti lenkams į pagalbą, aiškindamas, kad Lietuvos kariuomenė neturi teisės peržengti Lenkijos sienos.
 - susijęs iš Antakalnis: Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią.
+- susijęs iš [[objektai/paprociai/Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu.md#claim-t-67152|Lietuvos kariuomenės išvedimas už sienos tik seimo įsakymu (seimas)]]: Hetmonas Pacas atsisakė eiti lenkams į pagalbą, aiškindamas, kad Lietuvos kariuomenė neturi teisės peržengti Lenkijos sienos.
 - susijęs iš Viena: Maksimilijonas troško priimti ir pavaišinti Žygimantą Vienoje, karaliaus rūmuose, bet tam prieštaravo Vladislovas.
 - susijęs iš [[objektai/zodynas/elektorius.md#claim-t-02988|elektorius]]: Brandenburgo elektorius su imperatoriumi piršo Neuburgo princą, o jo ministeris Radvila oficialiai rėmė šią kandidatūrą.
 - susijęs iš [[objektai/zodynas/elektorius.md#claim-t-182944|elektorius]]: Radvila buvo Brandenburgo elektoriaus ministeris ir oficialiai rėmė imperatoriaus bei elektoriaus siūlomą Neuburgo princą.
@@ -107,7 +133,13 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=04c1fce4c9516f5a183bd8caa44ceeaf79a97f40b5ccbf644108c65be524bb7a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 722081-722251; hash=0aa690fbb9b12b862626fd5279a9a88a29061f248fee53b63380ef796bb90320; match=exact
+  sprendimo_priezastis: auto
     - t-003
 
 - c-003
@@ -136,4 +168,24 @@ Pirmučiausia iškilo Pacai, kuriuos pakeitė Sapiegos. Pacai, bijodami jo kandi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 722081-722251; hash=0aa690fbb9b12b862626fd5279a9a88a29061f248fee53b63380ef796bb90320; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pacai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pacai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 734289-734680; hash=c58659e841c746f40f5b3e3c87a28ec24a16bf12e9d3fc379eb82c4081d656b2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pacai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pacai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

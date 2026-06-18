@@ -32,6 +32,9 @@ Dusburgietis teigia, kad kolendo J.
   temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį įrašo faktą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 779227-779359; hash=dc31359c5f0bc81a0ac898abb0d16c9a102c96eb91a927b68ac3579380b8b755; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +49,6 @@ Dusburgietis teigia, kad kolendo J.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 779227-779359; hash=dc31359c5f0bc81a0ac898abb0d16c9a102c96eb91a927b68ac3579380b8b755; match=exact
+  sprendimo_priezastis: auto

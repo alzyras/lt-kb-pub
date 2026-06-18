@@ -47,7 +47,7 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
 - t-003
   global_id: t-131656
   teiginys: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -72,12 +72,12 @@ Algirdo ir Kęstučio dviejų kunigaikščių valdymas istorikų vadinamas duali
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
+- susijęs iš [[objektai/zodynas/ankstyvoji monarchija karinė monarchija.md#claim-t-22057|ankstyvoji monarchija karinė monarchija]]: Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turėjusi tokių požymių kaip diarchija ir ankstyvasis feodalizmas.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176303|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Lietuvą Vilniuje, o Kęstutis tuo pat metu valdė Trakuose.
 - susijęs iš Trakai: Algirdas valdė Vilniuje, o Kęstutis - Trakuose.
 - susijęs iš Trakai: Algirdas valdė Lietuvą iš Vilniaus, o Kęstutis valdė iš Trakų.
 - susijęs iš Vilnius: Algirdas valdė Lietuvą iš Vilniaus, o Kęstutis valdė iš Trakų.
 - susijęs iš Vilnius: Lietuvą vienu metu valdė du didieji kunigaikščiai: Algirdas Vilniuje, o Kęstutis Trakuose.
-- susijęs iš [[objektai/zodynas/ankstyvoji monarchija karinė monarchija.md#claim-t-22057|ankstyvoji monarchija karinė monarchija]]: Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turėjusi tokių požymių kaip diarchija ir ankstyvasis feodalizmas.
 - susijęs iš [[objektai/zodynas/supremus dux ir magnus dux.md#claim-t-11685|supremus dux ir magnus dux]]: Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis.
 - susijęs iš [[objektai/zodynas/supremus dux magnus dux.md#claim-t-36841|supremus dux magnus dux]]: Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis.
 ## Reikšmingi paminėjimai

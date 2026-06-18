@@ -37,12 +37,15 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Niurnbergo auksakalių veiksmą.'
   pagrindžia:
     - c-001
+- susijęs iš [[objektai/asmenys/Kunzas Lochneris.md#claim-t-80737|Kunzas Lochneris]]: Kunzas Lochneris XVI a. 6 dešimtmetyje Niurnberge pagamino Žygimanto Augusto paradinius šarvus.
+- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113879|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka; jo šarvų viršutinė dalis apie 1555 m. pagaminta Niurnberge.
+- susijęs iš [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.).md#claim-t-66817|Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]: 1358 m. Niurnbergo seimui pateiktas krikšto pasiūlymas buvo politinis manevras, nes jo sąlygos deryboms netiko.
+- susijęs iš 1579 m. Niurnbergo leidinys apie Polocko atsiėmimą: 1579 m. Niurnberge išleistas leidinys nušvietė Lietuvos pergalę prieš maskvėnus tais pačiais metais atsiimant Polocką.
+- susijęs iš 1579 m. Niurnbergo leidinys apie Polocko atsiėmimą: 1579 m. Niurnbergo leidinio aprašyme pasakojama, kaip karalius po apgulties išvadavo Polocką ir išlaisvino belaisvius.
 - susijęs iš [[objektai/asmenys/Jonas (Čekijos karalius).md#claim-t-39558|Jonas (Čekijos karalius)]]: 1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113838|Julijona (Vytauto žmona)]]: Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113848|Julijona (Vytauto žmona)]]: Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.
-- susijęs iš [[objektai/asmenys/Kunzas Lochneris.md#claim-t-80737|Kunzas Lochneris]]: Kunzas Lochneris XVI a. 6 dešimtmetyje Niurnberge pagamino Žygimanto Augusto paradinius šarvus.
 - susijęs iš [[objektai/asmenys/Liudvikas (Vengrijos karalius).md#claim-t-39587|Liudvikas (Vengrijos karalius)]]: 1345 m. sausį Vengrijos karalius Liudvikas atvyko į Prūsiją su kitais valdovais ir kilmingaisiais.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113879|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka; jo šarvų viršutinė dalis apie 1555 m. pagaminta Niurnberge.
 - susijęs iš [[objektai/asmenys/Russdorfas.md#claim-t-35271|Russdorfas]]: Russdorfas buvo numatytos sąjungos su Vytautu ir Zigmantu dalyvis; ši sąjunga turėjo būti nukreipta prieš Lenkiją.
 - susijęs iš [[objektai/daiktai/Karūna.md#claim-t-186818|Karūna]]: Komentare nurodoma, kad šiame šaltinyje teigiama, kad karališkieji vainikai Vytautui ir Julijonai buvo nukalti Niurnbergo auksakalių; Šiame gabale vainikai apibūdinami kaip iš Vokietijos gabenti karūnacijos daiktai.
 - susijęs iš [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai.md#claim-t-40733|Kristupo Mikalojaus Radvilos Perkūno šarvai]]: Kristupo Mikalojaus Radvilos Perkūno šarvai datuojami XVI-XVII a.
@@ -51,10 +54,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 - susijęs iš [[objektai/daiktai/Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis.md#claim-t-75350|Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis]]: 1741 m. Niurnberge išleistame žemėlapio fragmente pateiktos pirmosios „Tėve mūsų“ eilutės Europos kalbomis ir lietuviškai.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179212|Lenkai]]: Lenkijos ponų taryba privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo ceremonijos.
 - susijęs iš [[objektai/grupes/Lenkijos ponų taryba.md#claim-t-77825|Lenkijos ponų taryba]]: Lenkijos ponų taryba privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo ceremonijos.
-- susijęs iš [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.).md#claim-t-66817|Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]: 1358 m. Niurnbergo seimui pateiktas krikšto pasiūlymas buvo politinis manevras, nes jo sąlygos deryboms netiko.
 - susijęs iš [[objektai/ivykiai/Vytauto karūnacijos byla.md#claim-t-20568|Vytauto karūnacijos byla]]: Lucko suvažiavimas siejamas su Vytauto politiniu tikslu įtvirtinti Lietuvos monarchiją Europos politinėje sistemoje.
-- susijęs iš 1579 m. Niurnbergo leidinys apie Polocko atsiėmimą: 1579 m. Niurnberge išleistas leidinys nušvietė Lietuvos pergalę prieš maskvėnus tais pačiais metais atsiimant Polocką.
-- susijęs iš 1579 m. Niurnbergo leidinys apie Polocko atsiėmimą: 1579 m. Niurnbergo leidinio aprašyme pasakojama, kaip karalius po apgulties išvadavo Polocką ir išlaisvino belaisvius.
 - susijęs iš Praha: Į Lietuvą išsiųstai imperatoriaus delegacijai vadovavo Prahos arkivyskupas Ernestas.
 - susijęs iš [[objektai/zodynas/husarai.md#claim-t-49271|husarai]]: Piešinyje lietuvių lengvieji raiteliai husarai pavaizduoti su burės formos skydais, būdingais to meto husarams.
 ## Reikšmingi paminėjimai

@@ -36,13 +36,25 @@ Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra OCR fragmentas, o citata leidžia suformuluoti pilną sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 433611-433912; hash=8dfced8d3e4fbdb5eb61f7d1341adc2d1db560bc43ffb4f36e622c7331891b2d; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Joachimas (Pskovo vietininkas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Joachimas (Pskovo vietininkas)" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Aleksas Jefremovičius.md#claim-t-87617|Aleksas Jefremovičius]]: 1432 metais Aleksas Jefremovičius su Joachimu ir Pskovo bojarinais atvyko pas Švitrigailą sudaryti sutarties.
 - susijęs iš [[objektai/asmenys/Joachimas fon Ribentropas.md#claim-t-18965|Joachimas fon Ribentropas]]: Joachimas fon Ribentropas rugsėjo 28 d. su Viačeslavu Molotovu pasirašė Reicho ir SSRS sienų bei draugystės sutartį.
-- susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19029|Juozas Urbšys]]: Viačeslavui Molotovui pakvietus Juozą Urbšį atvykti į Maskvą, Juozas Urbšys išvyko spalio 2 dieną.
-- susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64237|Viačeslavas Molotovas]]: Viačeslavas Molotovas pakvietė Lietuvos ministrą Juozą Urbšį atvykti į Maskvą.
 - susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64240|Viačeslavas Molotovas]]: 1939 m. rugsėjo 28 d. Viačeslavas Molotovas ir Joachimas von Ribbentropas pasirašė sutartį, kurios slaptasis protokolas Lietuvą priskyrė SSRS įtakos sferai.
 - susijęs iš [[objektai/autoriai/E. Joachim.md#claim-t-60694|E. Joachim]]: E. Joachimas prisidėjo rengiant Vokiečių ordino 1198-1525 m. privilegijų regestų antrąją dalį.
 - susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113198|Pskovo respublika]]: Pskovo metraščio duomenimis, 1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius sudarė sutartį su Švitrigaila.
+- susijęs iš Pskovas: 1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bajorais sudarė sutartį su Švitrigaila.
+- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176259|vietininkas]]: Pskovo metraštis pasakoja, kad 1432 m. vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bojarinais sudarė sutartį su Švitrigaila.
+- susijęs iš [[objektai/asmenys/Juozas Urbšys.md#claim-t-19029|Juozas Urbšys]]: Viačeslavui Molotovui pakvietus Juozą Urbšį atvykti į Maskvą, Juozas Urbšys išvyko spalio 2 dieną.
+- susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64237|Viačeslavas Molotovas]]: Viačeslavas Molotovas pakvietė Lietuvos ministrą Juozą Urbšį atvykti į Maskvą.
 - susijęs iš [[objektai/ivykiai/Lietuvos dalinė mobilizacija SSRS įsiveržus į Lenkiją (1939 m. rugsėjo 17 d.).md#claim-t-75136|Lietuvos dalinė mobilizacija SSRS įsiveržus į Lenkiją (1939 m. rugsėjo 17 d.)]]: 1939 m. rugsėjo 17 d., SSRS įsiveržus į Lenkiją, Lietuvos prezidentas paskelbė dalinę mobilizaciją.
 - susijęs iš [[objektai/ivykiai/Vokietijos ir SSRS sienų ir draugystės sutarties pasirašymas (1939 m. rugsėjo 28 d.).md#claim-t-75301|Vokietijos ir SSRS sienų ir draugystės sutarties pasirašymas (1939 m. rugsėjo 28 d.)]]: 1939 m. rugsėjo 28 d. pasirašytos Reicho ir SSRS sienų ir draugystės sutarties slaptas protokolas Lietuvos teritoriją priskyrė SSRS įtakos sferai.
 - susijęs iš [[objektai/ivykiai/Vokietijos ir SSRS sienų ir draugystės sutarties pasirašymas (1939 m. rugsėjo 28 d.).md#claim-t-75302|Vokietijos ir SSRS sienų ir draugystės sutarties pasirašymas (1939 m. rugsėjo 28 d.)]]: 1939 m. rugsėjo 28 d. Vokietijos ir SSRS sutarties slaptasis protokolas priskyrė Lietuvos teritoriją SSRS įtakos sferai.
@@ -53,11 +65,9 @@ Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.
 - susijęs iš Liublino vaivadija: 1939 m. rugsėjo 28 d. slaptuoju Reicho ir SSRS protokolu Vokietija už Lietuvos patekimą į SSRS įtakos sferą gavo Liublino vaivadiją.
 - susijęs iš Maskva: Viačeslavas Molotovas pakvietė ministrą Juozą Urbšį atvykti į Maskvą.
 - susijęs iš Maskva: Viačeslavas Molotovas pakvietė Lietuvos užsienio reikalų ministrą Juozą Urbšį atvykti į Maskvą.
-- susijęs iš Pskovas: 1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bajorais sudarė sutartį su Švitrigaila.
 - susijęs iš SSRS: 1939 m. rugsėjo 28 d. slaptojo protokolo pagrindu Lietuvos teritorija pateko į SSRS įtakos sferą.
 - susijęs iš Vokietija: 1939 m. rugsėjo 28 d. slaptu protokolu Lietuva pateko į SSRS įtakos sferą, o Vokietija gavo Liublino vaivadiją.
 - susijęs iš Vokietija: 1939 m. rugsėjo 28 d. slaptu Reicho ir SSRS protokolu Lietuvai patekus į SSRS įtakos sferą, Vokietijos spaudimas Lietuvai baigėsi.
-- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176259|vietininkas]]: Pskovo metraštis pasakoja, kad 1432 m. vietininkai Joachimas ir Aleksas Jefremovičius su Pskovo bojarinais sudarė sutartį su Švitrigaila.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -79,3 +89,13 @@ Palenkdamas rusų bojari- 10 Pskovo metraštis (K a r a m z i n, V, 1.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 433611-433912; hash=8dfced8d3e4fbdb5eb61f7d1341adc2d1db560bc43ffb4f36e622c7331891b2d; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Joachimas (Pskovo vietininkas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Joachimas (Pskovo vietininkas)" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

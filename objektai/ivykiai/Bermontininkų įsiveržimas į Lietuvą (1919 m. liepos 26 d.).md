@@ -45,7 +45,7 @@ Nenurodyta
 - t-001
   global_id: t-66493
   teiginys: '1919 m. liepos 26 d. ties Kuršėnais iš Latvijos į Lietuvos teritoriją įžengė stipri jungtinė vokiečių ir rusų kariuomenė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kuršėnai; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_place: Kuršėnai; mentioned_place: Latvija; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -56,7 +56,7 @@ Nenurodyta
   global_id: t-66494
   teiginys: '1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatinis ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]; mentioned_place: Kuršėnai; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]; mentioned_place: Kuršėnai; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatinis ir paremtas citata.'
@@ -68,9 +68,19 @@ Nenurodyta
   global_id: t-66496
   teiginys: 'Lietuvos vyriausybė negalėjo užkirsti kelio plk. Virgoličiaus rinktinei, nes Lietuvos kariuomenė tuo metu dar kovėsi su bolševikais Dauguvos fronte.'
   sudarymo_pagrindimas: 'Citata remia užkirtimą kelio, o ne pažodinį sustabdymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Virgoličiaus rinktinė|Virgoličiaus rinktinė]]; mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]; mentioned_place: Dauguva; mentioned_place: Kuršėnai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Virgoličiaus rinktinė|Virgoličiaus rinktinė]]; mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Kuršėnai'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1099531-1099774; hash=568f81994d752da9d96238234a1f53d72e1045960db11b62c51e80084edbd768; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bermontininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Bermontininkai: mention_match, group, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)" parinktas kaip owner_note_path. Targetas "Bermontininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -122,4 +132,14 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1099531-1099774; hash=568f81994d752da9d96238234a1f53d72e1045960db11b62c51e80084edbd768; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bermontininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Bermontininkai: mention_match, group, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)" parinktas kaip owner_note_path. Targetas "Bermontininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001

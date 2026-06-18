@@ -24,6 +24,16 @@ Dusburgietis teigia, kad slupas) Šternbergas Štraisbergas (Straisbergk; vėlia
   susije_objektai: 'mentioned_place: Brodnica; mentioned_place: Šnikenbergas; mentioned_place: Štarkenbergas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e7a8c0c6cd56b2f4bcef262ee19d98a70f0f7b0a192daf3410a428eaedc80e8b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Brodnica: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Štraisbergas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Brodnica: mention_match, place, gap=72
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Štraisbergas" parinktas kaip owner_note_path. Targetas "Brodnica" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175137|Sūduviai-jotvingiai]]: Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-183902|Sūduviai-jotvingiai]]: Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-183899|Sūduviai]]: Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą.
@@ -54,3 +64,13 @@ Dusburgietis teigia, kad slupas) Šternbergas Štraisbergas (Straisbergk; vėlia
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e7a8c0c6cd56b2f4bcef262ee19d98a70f0f7b0a192daf3410a428eaedc80e8b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Brodnica: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Štraisbergas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Brodnica: mention_match, place, gap=72
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Štraisbergas" parinktas kaip owner_note_path. Targetas "Brodnica" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -34,6 +34,16 @@ Lietuviai „[...] brolis Ernestas buvo magistras.[...] Jis įvykdė didelį kar
   susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]; mentioned_place: Livonija; mentioned_place: Talinas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 119617-120142; hash=9b251e93fba012dfe59ade5a222b807e75c042ad505e4aa56588f93b4eee651c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ernestas (Livonijos žemės magistras): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ernestas fon Racburgas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ernestas (Livonijos žemės magistras): mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ernestas fon Racburgas" parinktas kaip owner_note_path. Targetas "Ernestas (Livonijos žemės magistras)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183738"></a>
 - t-002
@@ -43,9 +53,19 @@ Lietuviai „[...] brolis Ernestas buvo magistras.[...] Jis įvykdė didelį kar
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys apima kelis asmenis; perrašyta sutelkiant teiginį į Ernestą fon Racburgą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]; mentioned_place: Livonija; mentioned_place: Talinas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Livonija; mentioned_place: Talinas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 119617-120142; hash=9b251e93fba012dfe59ade5a222b807e75c042ad505e4aa56588f93b4eee651c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ernestas (Livonijos žemės magistras): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ernestas fon Racburgas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ernestas (Livonijos žemės magistras): mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ernestas fon Racburgas" parinktas kaip owner_note_path. Targetas "Ernestas (Livonijos žemės magistras)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -81,4 +101,24 @@ Lietuviai „[...] brolis Ernestas buvo magistras.[...] Jis įvykdė didelį kar
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 119617-120142; hash=9b251e93fba012dfe59ade5a222b807e75c042ad505e4aa56588f93b4eee651c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ernestas (Livonijos žemės magistras): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ernestas fon Racburgas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ernestas (Livonijos žemės magistras): mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ernestas fon Racburgas" parinktas kaip owner_note_path. Targetas "Ernestas (Livonijos žemės magistras)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 119617-120142; hash=9b251e93fba012dfe59ade5a222b807e75c042ad505e4aa56588f93b4eee651c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ernestas (Livonijos žemės magistras): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ernestas fon Racburgas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ernestas (Livonijos žemės magistras): mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ernestas fon Racburgas" parinktas kaip owner_note_path. Targetas "Ernestas (Livonijos žemės magistras)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -34,7 +34,7 @@ Nenurodyta
   global_id: t-88255
   teiginys: 'Aleksandras Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jai priklausančiomis žemėmis ir valdomis.'
   sudarymo_pagrindimas: 'Lotyniškas OCR fragmentas turi būti pakeistas lietuvišku sakiniu, kurį tiesiogiai pagrindžia citatos vertimas.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dniepras; mentioned_place: Lenkija; mentioned_place: Mogiliavas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Dniepras; mentioned_place: Mogiliavas; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -43,12 +43,22 @@ Nenurodyta
   global_id: t-88257
   teiginys: '1503 m. Aleksandro privilegija suteikė karalienei Elenai teisę iki gyvos galvos turėti, naudotis ir ramiai valdyti Mogiliavo pilį su priklausiniais.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkrečią privilegijos suteiktą teisę ir jos trukmę.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Merkinė; mentioned_place: Mogiliavas; mentioned_place: Polockas; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vroclavas'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Mogiliavas; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Merkinė; mentioned_place: Polockas; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vroclavas'
   temporaliniai_duomenys: 'įvykio data: 1503 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia konkrečią privilegijos suteiktą teisę ir jos trukmę.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 703717-706849; hash=0a28ab93d71933b597c07ea3f86f8eba22ff7375ecaefaf11a4bead81c3896f9; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dniepras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Dniepras: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.)" parinktas kaip owner_note_path. Targetas "Dniepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -157,3 +167,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 703717-706849; hash=0a28ab93d71933b597c07ea3f86f8eba22ff7375ecaefaf11a4bead81c3896f9; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dniepras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Dniepras: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.)" parinktas kaip owner_note_path. Targetas "Dniepras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

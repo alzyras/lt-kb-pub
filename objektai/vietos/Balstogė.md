@@ -29,7 +29,7 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
   global_id: t-76163
   teiginys: '1917 m. Berno konferencijoje Balstogės apskritis buvo įtraukta į etnografinės Lietuvos teritorijos projektą.'
   sudarymo_pagrindimas: 'Pradinis tekstas buvo nutrūkęs ir su OCR fragmentais; citata leidžia suformuluoti aiškų teiginį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Oginskiai|Oginskiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_place: Bernas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Slanimas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Oginskiai|Oginskiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_place: Bernas; mentioned_place: Lenkija; mentioned_place: Slanimas'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas buvo nutrūkęs ir su OCR fragmentais; citata leidžia suformuluoti aiškų teiginį.'
@@ -44,11 +44,19 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta taip, kad vieta būtų aiškus teiginio objektas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Oginskiai|Oginskiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Slanimas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Oginskiai|Oginskiai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_place: Lietuva; mentioned_place: Slanimas'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/autoriai/J. Pochodowicz.md#claim-t-30695|J. Pochodowicz]]: J. Pochodowicz buvo vienas „Bibliografia Regionu Białostockiego“ redaktorių.
-- susijęs iš [[objektai/autoriai/U. Lewicka.md#claim-t-31019|U. Lewicka]]: U. Lewicka kartu su J. Pochodowicz redagavo „Bibliografia Regionu Białostockiego“ pirmąjį tomą.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 800123-800464; hash=8b21d87cd25bdf170740dcaea72730fa170e0d7ded28c21d2299a4b4e825ad6d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Balstogė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Balstogė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Acta Baltico-Slavica: „Acta Baltico-Slavica“ yra Balstogės mokslo draugijos nuo 1964 m. leidžiamas žurnalas, iki 1970 m. turėjęs septynis tomus.
 - susijęs iš Bibliografia Regionu Białostockiego: „Bibliografia Regionu Białostockiego“ redagavo U. Lewicka ir J. Pochodowiczius; jos pirmasis tomas išėjo Balstogėje 1964 m.
 - susijęs iš Kubicka W. Bibliografia języka staropruskiego (do 1965 r.): W. Kubickos „Bibliografia języka staropruskiego (do 1965 r.)“ paskelbta Balstogėje 1967 m.
@@ -56,11 +64,13 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 - susijęs iš Zinkevičius Z. Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje): Z. Zinkevičiaus straipsnis „Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje)“ publikuotas 1975 m. „Baltistica“ 11 tomo 2 sąsiuvinyje.
 - susijęs iš Bielskas: Bielskas lokalizuojamas prie Baltosios, Narevo intako, į pietus nuo Balstogės.
 - susijęs iš Bielskas: Bielskas lokalizuojamas prie Baltosios, Narevo intako, į pietus nuo Balstogės.
-- susijęs iš Bielskas: Bielskas buvo Palenkės miestas, 1971 m. leidimo komentare tapatintas su Lenkijos Bielsku Podlaskiu.
-- susijęs iš Bielskas: Bielskas buvo Palenkės miestas, 1971 m. leidimo komentare tapatintas su Lenkijos Bielsku Podlaskiu.
 - susijęs iš Bielskas: Bielskas buvo Palenkės miestas prie Baltosios, Narevo intako, į pietus nuo Balstogės.
-- susijęs iš Branskas: Branskas lokalizuojamas prie Nureco, Vakarų Bugo intako.
 - susijęs iš Branskas: Branskas buvo Palenkės miestas, 1971 m. leidimo komentare priskirtas Lenkijos Balstogės vaivadijai.
+- susijęs iš [[objektai/autoriai/J. Pochodowicz.md#claim-t-30695|J. Pochodowicz]]: J. Pochodowicz buvo vienas „Bibliografia Regionu Białostockiego“ redaktorių.
+- susijęs iš [[objektai/autoriai/U. Lewicka.md#claim-t-31019|U. Lewicka]]: U. Lewicka kartu su J. Pochodowicz redagavo „Bibliografia Regionu Białostockiego“ pirmąjį tomą.
+- susijęs iš Bielskas: Bielskas buvo Palenkės miestas, 1971 m. leidimo komentare tapatintas su Lenkijos Bielsku Podlaskiu.
+- susijęs iš Bielskas: Bielskas buvo Palenkės miestas, 1971 m. leidimo komentare tapatintas su Lenkijos Bielsku Podlaskiu.
+- susijęs iš Branskas: Branskas lokalizuojamas prie Nureco, Vakarų Bugo intako.
 - susijęs iš Užnemunė: Užnemunė Prūsų valdžioje ir Lenkų karalystėje Užnemunė Prūsų karalystėje.
 ## Reikšmingi paminėjimai
 
@@ -100,3 +110,13 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 800123-800464; hash=8b21d87cd25bdf170740dcaea72730fa170e0d7ded28c21d2299a4b4e825ad6d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Balstogė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Balstogė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

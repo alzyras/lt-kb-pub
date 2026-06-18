@@ -55,22 +55,52 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir tiksliai atitinka citatos informaciją.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a0aaafa2a43539aa9f3ddf241a399282c3dea5c04c7cf80c2288098dc445415d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> kirilika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: kirilika: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas" parinktas kaip owner_note_path. Targetas "kirilika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-169869"></a>
 - t-002
   global_id: t-169869
   teiginys: 'Valdžia manė, kad etninės Lietuvos kaimo mokykloms reikia dvikalbių elementorių, kuriuose lietuviški vertimai būtų užrašyti kirilika.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kirilika|kirilika]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kirilika|kirilika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 218030-218323; hash=d2b8db0edf2d38eba2207c680d4e591c2161d8c2ddf5e5b8184e68ab714ac0b0; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-169870"></a>
 - t-003
   global_id: t-169870
   teiginys: 'Valdžia siekė kaimo mokykloms išleisti dvikalbius elementorius, kuriuose lietuviški vertimai būtų rašomi kirilika.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kirilika|kirilika]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kirilika|kirilika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a0aaafa2a43539aa9f3ddf241a399282c3dea5c04c7cf80c2288098dc445415d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> kirilika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: kirilika: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas" parinktas kaip owner_note_path. Targetas "kirilika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -104,4 +134,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 218030-218323; hash=d2b8db0edf2d38eba2207c680d4e591c2161d8c2ddf5e5b8184e68ab714ac0b0; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a0aaafa2a43539aa9f3ddf241a399282c3dea5c04c7cf80c2288098dc445415d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> kirilika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: kirilika: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių raštijos lotyniškojo raidyno keitimas kirilika ir spaudos draudimas" parinktas kaip owner_note_path. Targetas "kirilika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

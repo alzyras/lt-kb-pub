@@ -32,6 +32,9 @@ Dusburgietis teigia, kad schall H.
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, temą, leidinį, metus ir numerį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 796366-796491; hash=33fa806459d21ee61bef57203971f55df5c727ada2785c2800828ed135eef80e; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +49,6 @@ Dusburgietis teigia, kad schall H.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 796366-796491; hash=33fa806459d21ee61bef57203971f55df5c727ada2785c2800828ed135eef80e; match=exact
+  sprendimo_priezastis: auto

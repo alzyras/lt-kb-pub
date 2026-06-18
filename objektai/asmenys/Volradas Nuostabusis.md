@@ -23,9 +23,19 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
   global_id: t-60469
   teiginys: 'Volradas Nuostabusis, Notangos ir Varmės fogtas, Lencenbergo pilyje sudegino prūsų kilminguosius ir visą pilį.'
   sudarymo_pagrindimas: 'Sutvarkyta į pilną sakinį apie asmenį ir jo veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Varmė; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 373297-374110; hash=f4e2ab62cbe0724113d6edbf404f9161e8bc851c2e1d4c4c23ed632b4392a6b9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Notanga: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Volradas Nuostabusis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Notanga: mention_match, place, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volradas Nuostabusis" parinktas kaip owner_note_path. Targetas "Notanga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Lencenbergo pilies ir jos kilmingųjų sudeginimas.md#claim-t-62360|Lencenbergo pilies ir jos kilmingųjų sudeginimas (pilis)]]: Volradas Nuostabusis Lencenbergo pilyje sudegino prūsų kilminguosius ir pačią pilį.
 ## Reikšmingi paminėjimai
 
@@ -49,3 +59,13 @@ Dusburgietis teigia, kad apie Lencenbergo pilies bei daugybės prūsų sudeginim
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 373297-374110; hash=f4e2ab62cbe0724113d6edbf404f9161e8bc851c2e1d4c4c23ed632b4392a6b9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Notanga: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Volradas Nuostabusis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Notanga: mention_match, place, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volradas Nuostabusis" parinktas kaip owner_note_path. Targetas "Notanga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

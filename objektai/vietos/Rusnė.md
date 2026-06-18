@@ -22,12 +22,22 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
 - t-001
   global_id: t-32520
   teiginys: 'Nustačius sieną, Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui trijų mylių atstumu nuo Nemuno ir marių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Baltija; mentioned_place: Klaipėda; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Klaipėda; mentioned_place: Baltija; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=87bfc5b5699a5cdabf9168e981e8c811a645e5622d9c3a652a7f9b52de08f85c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Klaipėda: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rusnė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Klaipėda: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusnė" parinktas kaip owner_note_path. Targetas "Klaipėda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Jūros upė: Jūros upės krantu siena pasislinko vieną mylią į šiaurę, o Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179435|Livonijos ordinas]]: Siena su Livonijos ordinu prasidėjo į Baltiją įtekančia Šventosios upe ir toliau rėmėsi senomis ribomis.
 - susijęs iš [[objektai/grupes/Parusėnai.md#claim-t-07846|Parusėnai]]: Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai.
-- susijęs iš Jūros upė: Jūros upės krantu siena pasislinko vieną mylią į šiaurę, o Nemunas, Rusnė ir Klaipėda buvo palikti Ordinui.
 - susijęs iš Žemaičių jūra: Šią jūrą kai kurie raštininkai vadino Rusų mare.
 ## Reikšmingi paminėjimai
 
@@ -47,3 +57,13 @@ Jūros upės krantu siena pasislinko vieną mylią į šiaurę, ir toliau ji į 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=87bfc5b5699a5cdabf9168e981e8c811a645e5622d9c3a652a7f9b52de08f85c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Klaipėda: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rusnė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Klaipėda: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rusnė" parinktas kaip owner_note_path. Targetas "Klaipėda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

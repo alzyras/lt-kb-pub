@@ -33,7 +33,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   global_id: t-171341
   teiginys: 'Algirdui leidus, trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę.'
   sudarymo_pagrindimas: 'Galima pateikti tiesioginį faktą apie Karijotaičius be perteklinės šaltinio įžangos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
   pagrindžia:
     - c-004
 
@@ -41,16 +41,26 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 - t-002
   global_id: t-171342
   teiginys: 'Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Kamenecas; mentioned_place: Lietuva; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kamenecas; mentioned_place: Lietuva; mentioned_place: Podolė'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4b02736590fa9f50277402d2b0e5232699f4bd20266451c84c08eff4c67526e4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstantinas (Karijotaitis): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karijotaičiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Konstantinas (Karijotaitis): mention_match, person, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karijotaičiai" parinktas kaip owner_note_path. Targetas "Konstantinas (Karijotaitis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-171343"></a>
 - t-003
   global_id: t-171343
   teiginys: 'Algirdo remiami Karijotaičiai Mažojoje Podolėje organizavo krašto gynybą nuo totorių puolimų ir statė Smotričo, Bakotos bei Kameneco pilis.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Bakota; mentioned_place: Europa; mentioned_place: Kamenecas; mentioned_place: Kameneco pilis; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Bakota; mentioned_place: Kamenecas; mentioned_place: Kameneco pilis; mentioned_place: Podolė; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa'
   pagrindžia:
     - c-003
 
@@ -71,22 +81,22 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta į glaustesnį enciklopedinį sakinį be nereikalingos įžangos.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_place: Podolė; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-184371|Borisas Karijotaitis]]: Podolėje įsikūrę Borisas ir Konstantinas Karijotaičiai turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
+- susijęs iš [[objektai/autoriai/St. Krakowski.md#claim-t-30990|St. Krakowski]]: St. Krakowskis tiksliai įvertino ginčą dėl Karijotaičių ir Podolės klausimo XIV a. naujausioje lenkų istoriografijoje.
+- susijęs iš [[objektai/ivykiai/Podolės patekimas lietuvių Karijotaičių valdžion.md#claim-t-186697|Podolės patekimas lietuvių Karijotaičių valdžion]]: Podolės patekimas lietuvių Karijotaičių valdžion 1971 m. komentare pateikiamas kaip nedatuojamas vieningai: minimi 1349, 1350–1351 ir 1362 m.
+- susijęs iš [[objektai/ivykiai/Podolės patekimas lietuvių Karijotaičių valdžion.md#claim-t-186699|Podolės patekimas lietuvių Karijotaičių valdžion]]: Redakcinė pastaba teigia, kad Podolės patekimo lietuvių Karijotaičių valdžion data istoriografijoje nėra vieningai nustatyta.
 - susijęs iš [[objektai/asmenys/Chadžibėjus.md#claim-t-39502|Chadžibėjus]]: Chadžibėjus buvo vienas iš trijų vadų-kunigaikščių, kurių kariuomenė susirėmė su Lietuvos kariuomene.
 - susijęs iš [[objektai/asmenys/Dmitrijus (totorių vadas).md#claim-t-78962|Dmitrijus (totorių vadas)]]: Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų-kunigaikščių.
 - susijęs iš [[objektai/asmenys/Dmitrijus (totorių vadas).md#claim-t-78963|Dmitrijus (totorių vadas)]]: Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų, kurių kariuomenė susirėmė su Lietuvos kariuomene.
 - susijęs iš [[objektai/asmenys/Kutlubuga.md#claim-t-40301|Kutlubuga]]: Kutlubuga buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų-kunigaikščių.
 - susijęs iš [[objektai/asmenys/Spytkas iš Melsztyno.md#claim-t-30384|Spytkas iš Melsztyno]]: Spytekas iš Melsztyno, Krokuvos vaivada ir Podolės valdytojas, žuvo prie Vorsklos.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172892|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis teigė, kad Algirdas, sutelkęs lietuvių pajėgas ir žygiuodamas Padniepre, prie Mėlynųjų Vandenų sumušė totorius.
-- susijęs iš [[objektai/autoriai/St. Krakowski.md#claim-t-30990|St. Krakowski]]: St. Krakowskis tiksliai įvertino ginčą dėl Karijotaičių ir Podolės klausimo XIV a. naujausioje lenkų istoriografijoje.
 - susijęs iš [[objektai/daiktai/Vytauto vėliava.md#claim-t-97105|Vytauto vėliava]]: Po Vytauto vėliava kovėsi apie 50 kunigaikščių, iš kurių daugiau kaip dvidešimt žuvo.
 - susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186694|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: Žinia apie Algirdo pergalę prieš totorius ties Mėlynaisiais Vandenimis 1971 m. komentare laikoma apskritai patikima, nors dėl datos nesutariama.
 - susijęs iš [[objektai/ivykiai/Mūšis ties Mėlynaisiais Vandenimis.md#claim-t-186696|Mūšis ties Mėlynaisiais Vandenimis (mūšis, XIV a.)]]: Mėlynųjų Vandenų mūšis 1971 m. komentare datuojamas kaip ginčytinas: dauguma istorikų jį skiria 1352–1362 m., kai kurie – XIV a. pabaigai.
-- susijęs iš [[objektai/ivykiai/Podolės patekimas lietuvių Karijotaičių valdžion.md#claim-t-186697|Podolės patekimas lietuvių Karijotaičių valdžion]]: Podolės patekimas lietuvių Karijotaičių valdžion 1971 m. komentare pateikiamas kaip nedatuojamas vieningai: minimi 1349, 1350–1351 ir 1362 m.
-- susijęs iš [[objektai/ivykiai/Podolės patekimas lietuvių Karijotaičių valdžion.md#claim-t-186699|Podolės patekimas lietuvių Karijotaičių valdžion]]: Redakcinė pastaba teigia, kad Podolės patekimo lietuvių Karijotaičių valdžion data istoriografijoje nėra vieningai nustatyta.
 - susijęs iš [[objektai/ivykiai/Teodoro Karijotaičio mėginimas atgauti Podolę.md#claim-t-186703|Teodoro Karijotaičio mėginimas atgauti Podolę]]: Teodoras Karijotaitis 1402 m. mėgino atgauti Podolę, bet buvo atmuštas.
 - susijęs iš [[objektai/ivykiai/Teodoro Karijotaičio mėginimas atgauti Podolę.md#claim-t-186704|Teodoro Karijotaičio mėginimas atgauti Podolę]]: Redakcinė pastaba teigia, kad 1402 m. Teodoras Karijotaitis mėgino atgauti Podolę, bet buvo atmuštas.
 - susijęs iš Bakota: Karijotaičiai Podolėje statė pilis, tarp jų Kamieniecą, Smotryčą ir Bakotą.
@@ -232,3 +242,13 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4b02736590fa9f50277402d2b0e5232699f4bd20266451c84c08eff4c67526e4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstantinas (Karijotaitis): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karijotaičiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Konstantinas (Karijotaitis): mention_match, person, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karijotaičiai" parinktas kaip owner_note_path. Targetas "Konstantinas (Karijotaitis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

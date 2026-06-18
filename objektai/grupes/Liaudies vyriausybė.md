@@ -33,6 +33,16 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
   susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Sniečkus'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 384698-385147; hash=8b4902d7db9e4d37aa245be4d2767d0311675eff3e4441e8367ea70c26458b5e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liaudies vyriausybė: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liaudies vyriausybė" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-19798"></a>
 - t-002
@@ -45,6 +55,17 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis sakinys apie Liaudies vyriausybės sudarymą ir sudėtį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8c922d6eb9ff6160cb1aba17d69a25cb1f354279f882bf3cd0ea3e183bc71f45; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liaudies vyriausybė: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liaudies vyriausybė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/zodynas/sovietizacija sovietizavimas.md#claim-t-101608|sovietizacija sovietizavimas]]: Sovietizacija Lietuvoje prasidėjo Liaudies vyriausybei vykdant sovietų valią, griaunant valstybingumą ir keičiant administraciją.
 - susijęs iš [[objektai/daiktai/Lietuvos auksas.md#claim-t-13781|Lietuvos auksas]]: Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas.
 - susijęs iš [[objektai/daiktai/Lietuvos auksas.md#claim-t-13782|Lietuvos auksas]]: Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas.
 - susijęs iš [[objektai/grupes/Lietuvos komunistų partija.md#claim-t-78366|Lietuvos komunistų partija]]: 1940 m. birželio 25 d. LKP buvo įteisinta, nors kitos politinės partijos liko neįteisintos.
@@ -55,7 +76,6 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
 - susijęs iš Lietuvos ir Vatikano konkordatas: 1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.
 - susijęs iš Lietuvos ir Vatikano konkordatas: 1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.
 - susijęs iš Švedija: Lietuvos auksas buvo pasisavintas tik iš Švedijos ir Šveicarijos bankuose saugotų atsargų.
-- susijęs iš [[objektai/zodynas/sovietizacija sovietizavimas.md#claim-t-101608|sovietizacija sovietizavimas]]: Sovietizacija Lietuvoje prasidėjo Liaudies vyriausybei vykdant sovietų valią, griaunant valstybingumą ir keičiant administraciją.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -92,4 +112,24 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8c922d6eb9ff6160cb1aba17d69a25cb1f354279f882bf3cd0ea3e183bc71f45; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liaudies vyriausybė: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liaudies vyriausybė" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 384698-385147; hash=8b4902d7db9e4d37aa245be4d2767d0311675eff3e4441e8367ea70c26458b5e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liaudies vyriausybė: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liaudies vyriausybė" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

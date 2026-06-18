@@ -50,24 +50,44 @@ Nenurodyta
   global_id: t-26385
   teiginys: 'Sovietų Sąjungos vykdytos masinės deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių.'
   sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir nutrūkęs, bet citata pagrindžia glaustesnę formuluotę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Sibiras; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Sibiras; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1944 m.; įvykio data: 1988-1990; įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys per ilgas ir nutrūkęs, bet citata pagrindžia glaustesnę formuluotę.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a8f26775ab14eda667ebd5b64fca80a3af58d26d69ce133af2f3cce737ab756e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sovietų Sąjungos masinės deportacijos į Sibirą: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=79
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų Sąjungos masinės deportacijos į Sibirą" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-26386"></a>
 - t-002
   global_id: t-26386
   teiginys: '1944–1953 m. Lietuvoje vyko Sovietų Sąjungos organizuotos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija.'
   sudarymo_pagrindimas: 'Perrašyta sklandžiau, išlaikant citatoje pateiktus faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/kolektyvizacija|kolektyvizacija]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kolektyvizacija|kolektyvizacija]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1944-1953; įvykio data: 1953 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta sklandžiau, išlaikant citatoje pateiktus faktus.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dc7f7f8f3c2e277fdba645fba91d29a69a54c8b43d9db221306044de066734c1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> kolektyvizacija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sovietų Sąjungos masinės deportacijos į Sibirą: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: kolektyvizacija: mention_match, thing, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų Sąjungos masinės deportacijos į Sibirą" parinktas kaip owner_note_path. Targetas "kolektyvizacija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -102,4 +122,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a8f26775ab14eda667ebd5b64fca80a3af58d26d69ce133af2f3cce737ab756e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sovietų Sąjungos masinės deportacijos į Sibirą: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=79
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų Sąjungos masinės deportacijos į Sibirą" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dc7f7f8f3c2e277fdba645fba91d29a69a54c8b43d9db221306044de066734c1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> kolektyvizacija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sovietų Sąjungos masinės deportacijos į Sibirą: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: kolektyvizacija: mention_match, thing, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sovietų Sąjungos masinės deportacijos į Sibirą" parinktas kaip owner_note_path. Targetas "kolektyvizacija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

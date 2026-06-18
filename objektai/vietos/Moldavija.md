@@ -31,7 +31,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   global_id: t-171837
   teiginys: 'Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Moldavijos vaidmenį planuotame puolime.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lenkija; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   pagrindžia:
     - c-001
 
@@ -43,16 +43,20 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Kronikos pasakojimui ir valdovų titulams reikia inline atribucijos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lietuva; mentioned_place: Sučiava; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Sučiava; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 261007-261675; hash=19ea5cf1ecfb0edf75e5b083ffcd46c686dc4b7a7fae5b4268831ca78d859193; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Steponas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Moldavija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Steponas: mention_match, person, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Moldavija" parinktas kaip owner_note_path. Targetas "Steponas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
-- susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
-- susijęs iš [[objektai/asmenys/Jonas Paleologas.md#claim-t-35152|Jonas Paleologas]]: Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
-- susijęs iš [[objektai/asmenys/Manuelis.md#claim-t-35214|Manuelis]]: Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
-- susijęs iš [[objektai/asmenys/Muradas II.md#claim-t-35251|Muradas II]]: Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176658|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis palaikė neblogus santykius su turkais, kurie jo valdymo metu vis labiau skverbėsi į Balkanų pusiasalį.
-- susijęs iš [[objektai/daiktai/Rogės.md#claim-t-186847|Rogės]]: Lietuvos metraščio pasakojime Moldavijos vaivada Steponas, skaudant kojai, įsakė vežti save rogėse ir atvyko su savo žmonėmis.
 - susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
 - susijęs iš [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas.md#claim-t-186765|Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]: Redakcinė pastaba nurodo, kad aptariamas žygis gali būti siejamas su Rumelijos vietininko Ali-pašos žygiu į Moldaviją 1485 m. vasarą.
 - susijęs iš [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas.md#claim-t-186766|Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]: Redakcinė pastaba nurodo, kad Steponui būnant Kolomyjoje Ali-pašos vadovaujama kariuomenė giliai įsiveržė į Moldaviją.
@@ -62,18 +66,27 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 - susijęs iš [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui.md#claim-t-186658|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad karaliui Olbrachtui perėjus miškus ir Bukoviną, Moldavijos vaivada Steponas su savo žmonėmis pasuko atgal.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186652|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Olbrachtas pasitraukė nuo Sučiavos ir žygiavo gilyn į Moldaviją.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186653|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Lietuvos metraštis pasakoja, kad Moldavijos vaivada Steponas pasiuntė pasiuntinius pas Olbrachtą ir sudarė su juo taiką.
-- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186654|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato, kad miesto nepaims.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186655|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Lietuvos metraštis teigia, kad Moldavijos vaivada Steponas su Olbrachtu sudarė taiką, sutiko duoti vasalo ištikimybės priesaiką ir surašė raštus.
-- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186656|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Sučiavos gynėjai paragino Olbrachtą kautis su Steponu lauke.
 - susijęs iš [[objektai/ivykiai/Moldavijos ir osmanų žygis į Lenkiją.md#claim-t-186665|Moldavijos ir osmanų žygis į Lenkiją]]: Moldavijos vaivada Steponas ir turkų sultono didysis paša Malkočas vasarą bei rudenį kariavo Lenkijoje nuo Kameneco iki Lvovo ir Tarnovo.
 - susijęs iš [[objektai/ivykiai/Moldavijos ir osmanų žygis į Lenkiją.md#claim-t-186666|Moldavijos ir osmanų žygis į Lenkiją]]: Moldavijos vaivados Stepono ir Malkočo žygis, Lietuvos metraščio pasakojimu, padarė daug žalos Lenkijos žemei.
-- susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186761|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Per vasalinės priesaikos ceremoniją Kolomyjoje Stepono palydovų ant žemės suguldytos vėliavėlės simbolizavo jų moldaviškąsias valdas.
 - susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186762|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Per priesaikos ceremoniją vaivada Steponas perdavė karaliui Kazimierui didelę šilkinę vėliavą su Moldavijos herbu.
 - susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186763|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Redakcinėje pastaboje Moldavijos vaivados Stepono atvykimas į Kolomyją datuojamas 1485 m. rugsėjo 6-12 d.
 - susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186764|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Redakcinėje pastaboje Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje datuojama 1485 m. rugsėjo 15 d.
-- susijęs iš [[objektai/ivykiai/Stanislovo Petravičiaus pagalbinės kariuomenės susidūrimas su moldavais.md#claim-t-186660|Stanislovo Petravičiaus pagalbinės kariuomenės susidūrimas su moldavais]]: Karalius Olbrachtas, sulaukęs brolio kariuomenės pagalbos, žengė keliu be baimės, pasiekė Kamenecą, paskui Lvovą, ir kariuomenė išsiskirstė.
 - susijęs iš Braclavas: Lietuvos metraštis pasakoja, kad Aleksandras įsakė atstatyti Braclavą, nes miestas buvo Moldavijos vaivados nusiaubtas ir sudegintas.
 - susijęs iš Bukovina: Lietuvos metraštis pasakoja, kad Olbrachto kariuomenė buvo Bukovinoje, kai ją užpuolė Moldavijos vaivada Steponas.
+- susijęs iš Soroka: Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras.
+- susijęs iš Sučiava: Sučiavos pilis šiame pasakojime įvardijama kaip Moldavijos vaivados Stepono sostinė.
+- susijęs iš Sučiava: 1485 m. rugsėjo 19–20 d. puolimo pastaboje Sučiava įvardijama kaip Moldavijos sostinė.
+- susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
+- susijęs iš [[objektai/asmenys/Jonas Paleologas.md#claim-t-35152|Jonas Paleologas]]: Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
+- susijęs iš [[objektai/asmenys/Manuelis.md#claim-t-35214|Manuelis]]: Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
+- susijęs iš [[objektai/asmenys/Muradas II.md#claim-t-35251|Muradas II]]: Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176658|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis palaikė neblogus santykius su turkais, kurie jo valdymo metu vis labiau skverbėsi į Balkanų pusiasalį.
+- susijęs iš [[objektai/daiktai/Rogės.md#claim-t-186847|Rogės]]: Lietuvos metraščio pasakojime Moldavijos vaivada Steponas, skaudant kojai, įsakė vežti save rogėse ir atvyko su savo žmonėmis.
+- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186654|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato, kad miesto nepaims.
+- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186656|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Sučiavos gynėjai paragino Olbrachtą kautis su Steponu lauke.
+- susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186761|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Per vasalinės priesaikos ceremoniją Kolomyjoje Stepono palydovų ant žemės suguldytos vėliavėlės simbolizavo jų moldaviškąsias valdas.
+- susijęs iš [[objektai/ivykiai/Stanislovo Petravičiaus pagalbinės kariuomenės susidūrimas su moldavais.md#claim-t-186660|Stanislovo Petravičiaus pagalbinės kariuomenės susidūrimas su moldavais]]: Karalius Olbrachtas, sulaukęs brolio kariuomenės pagalbos, žengė keliu be baimės, pasiekė Kamenecą, paskui Lvovą, ir kariuomenė išsiskirstė.
 - susijęs iš Bukovina: Lietuvos metraštyje Bukovina vaizduojama kaip akmeninga, uolėta ir sunkiai pereinama vietovė Lenkijos sienos link.
 - susijęs iš Bukovina: Po sutarties su Moldavijos vaivada Olbrachtas traukė per Bukoviną ir kalnus Lenkijos sienos link.
 - susijęs iš Bukovina: Lietuvos metraštis pasakoja, kad Bukovinos miškuose ir bukynuose Steponas užpuolė Olbrachtą ir jo kariuomenę.
@@ -88,12 +101,9 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 - susijęs iš Ragainė: Ragainės komtūras Markvardas Salzbachas su 1600 raitelių prisidėjo prie Vytauto kariuomenės Kijeve.
 - susijęs iš Sniatinas: Sniatinas lokalizuojamas į rytus nuo Kolomyjos.
 - susijęs iš Soroka: Lietuvos metraštis pasakoja, kad Aleksandras Parčevo seime slapta sutarė žygiuoti į Moldavijos žemę per Braclavą link Sorokos.
-- susijęs iš Soroka: Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras.
 - susijęs iš Sučiava: Karalius Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato miesto nepaimsiąs ir nuo jo pasitraukė.
 - susijęs iš Sučiava: 1485 m. rugsėjo 19–20 d. Ali-pašos vadovaujama Turkijos kariuomenė puolė Moldavijos sostinę Sučiavą.
 - susijęs iš Sučiava: Moldavijos vaivada Steponas sustiprino savo sostinę Sučiavos pilį ir kitus miestus, palikdamas juose įgulas.
-- susijęs iš Sučiava: Sučiavos pilis šiame pasakojime įvardijama kaip Moldavijos vaivados Stepono sostinė.
-- susijęs iš Sučiava: 1485 m. rugsėjo 19–20 d. puolimo pastaboje Sučiava įvardijama kaip Moldavijos sostinė.
 - susijęs iš Sučiava: Olbrachtas pasitraukė nuo Sučiavos miesto.
 - susijęs iš Tamovas: Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos žemėje ribą prie Krokuvos.
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
@@ -147,6 +157,16 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 261007-261675; hash=19ea5cf1ecfb0edf75e5b083ffcd46c686dc4b7a7fae5b4268831ca78d859193; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Steponas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Moldavija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Steponas: mention_match, person, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Moldavija" parinktas kaip owner_note_path. Targetas "Steponas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]] buvo_valdovas Moldavija

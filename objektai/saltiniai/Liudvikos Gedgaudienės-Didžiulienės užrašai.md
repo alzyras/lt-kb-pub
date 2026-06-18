@@ -28,7 +28,7 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
   global_id: t-49257
   teiginys: 'Liudvikos Gedgaudienės-Didžiulienės užrašuose minima į Salas atėjusi Lietuvos kariuomenė, sudaryta iš trijų didelių pulkų.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas; citata pagrindžia trumpesnį faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dolega|Dolega]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Dolega|Dolega]]'
   pagrindžia:
     - c-001
 

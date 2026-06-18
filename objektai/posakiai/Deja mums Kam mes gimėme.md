@@ -25,6 +25,9 @@ Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą 
   sudarymo_pagrindimas: 'Citata palaiko posakio vartojimą gedulo ir sunaikinimo kontekste.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 295873-296208; hash=5db2649f40f6e8f0c617f0d615ba11bc9057496c7e2f0bb8c08f415254d5ff3b; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -42,3 +45,6 @@ Dusburgietis teigia, kad kam mes gimėme, kad matytume savo tautos sunaikinimą 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 295873-296208; hash=5db2649f40f6e8f0c617f0d615ba11bc9057496c7e2f0bb8c08f415254d5ff3b; match=exact
+  sprendimo_priezastis: auto

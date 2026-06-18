@@ -35,9 +35,19 @@ periodo_grupes:
   teiginys: 'Vilniaus vaivada Mikalojus Radvila dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata remia faktą apie Radvilos vaidmenį derybose, o pradinis teiginys buvo fragmentiškas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Valavičiai|Valavičiai]]; mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Eustachijus Valavičius|Eustachijus Valavičius]]; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Valavičiai|Valavičiai]]; mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Eustachijus Valavičius|Eustachijus Valavičius]]; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 531503-531929; hash=ab7b6841de56c9cd33b1dbbc7d64d88ca7b28df2fcae85eec785d0498bad04f4; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kłeckas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kłeckas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Kłeckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-186351"></a>
 - t-002
@@ -48,6 +58,16 @@ periodo_grupes:
   susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Kłeckas; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 386079-386276; hash=08855e70c7c50a59b163dc3d12bcb9acf9dc33b1defc34de578932752ec6e6a6; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Namas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-186353"></a>
 - t-003
@@ -58,15 +78,35 @@ periodo_grupes:
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=23e09236c8cd4a299ab35aafe6627cf264d09078427c5aecebe20e5021094ace; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186354"></a>
 - t-004
   global_id: t-186354
   teiginys: 'Lietuvos maršalka Mikalojus Radvila užtarė Martyną Paleckį, gavusį iš karaliaus žemės sklypą ir leidimą steigti stiklo fabriką.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 693820-694198; hash=5f09e0e177179eae2f2c3f8ce32c4c39bc4d2d14d432511833433de1062b7a64; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Malūnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Malūnas: mention_match, thing, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Malūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186355"></a>
 - t-005
@@ -77,15 +117,35 @@ periodo_grupes:
   susije_objektai: 'mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dd376acfddb25230aab7ac8a5770a49075eba846fd01b4fe9f20ec9602b0ccb7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186356"></a>
 - t-006
   global_id: t-186356
   teiginys: 'Aleksandras kreipėsi į Vilniaus vaivadą ir kanclerį Mikalojų Radvilą dėl pievos dovanojimo prie jo malūno už Vilnelės.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Vilnelė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Vilnelė; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 696197-696626; hash=cd657b4a8f3facca80d022c4e494c13aca34d951f6814b221063c83f9720d92c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Radvila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Radvila: mention_match, person, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186357"></a>
 - t-007
@@ -96,6 +156,16 @@ periodo_grupes:
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Radvila|Radvila]]'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 697005-697377; hash=df4674ea4ff9c7b5a5df2438a391f0807afe51a76895411180bccccc0f12fd14; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Radvila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Radvila: mention_match, person, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186358"></a>
 - t-008
@@ -103,12 +173,22 @@ periodo_grupes:
   teiginys: '1560 m. vasario 12 d. Mikalojus Radvila iš Rotundo gavo jo Lietuvos istorijos rankraštį.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys yra ilga citata su triukšmu; citata palaiko glaustą faktą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1560 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra ilga citata su triukšmu; citata palaiko glaustą faktą.'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1080413-1080957; hash=fc11ae48ca17ccb52f8290ec8efce0da78e82f0646444de930bf03a041176a1b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186359"></a>
 - t-009
@@ -116,9 +196,19 @@ periodo_grupes:
   teiginys: 'Karalius Mikalojui Radvilai, Lietuvos maršalui, atidavė Raigardą ir Goniondzą iš Glinskio turto.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos pasiuntiniai|Maskvos pasiuntiniai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Maskvos pasiuntiniai|Maskvos pasiuntiniai]]; mentioned_place: Maskva'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1093058-1093474; hash=82fbb9af04732df46e8dc08ad642ae79c830c17631ea8b6762aa54600984bb6e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Trakai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186360"></a>
 - t-010
@@ -126,7 +216,7 @@ periodo_grupes:
   teiginys: 'Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Mikalojų Radvilą ir jo dalyvavimą pasiuntinybėje.'
-  susije_objektai: 'territory: Nesvyžius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Krokuva; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Nesvyžius; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Krokuva; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]] buvo valdovas Nesvyžius'
   pagrindžia:
     - c-011
@@ -137,13 +227,22 @@ periodo_grupes:
   teiginys: 'Lietuvos maršalas Mikalojus Radvila sutelkė kariuomenę ir palydėjo Jerim Berdį į skitų kraštą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata remia aiškų faktą apie Radvilos vykdytą užduotį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1327090-1327955; hash=e5b78b3a811e18e605afbaa279377bc4f4f962bae7a400d20abf4cf9bf2ced6f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Kristupas Radvila Perkūnas.md#claim-t-79100|Kristupas Radvila Perkūnas]]: Kristupas Radvila Perkūnas pasiekė Volgos aukštupį ir prie Šelonės upės, ties Mstislavliu, Mogiliavu, Šklovu jis sumušė rusų kariuomene.
 - susijęs iš [[objektai/asmenys/Martynas Liuteris.md#claim-t-82553|Martynas Liuteris]]: Martyno Liuterio ir Cvinglio mokslą Vilniuje stipriai palaikė Vilniaus vaivada Mikalojus Radvila Juodasis.
 - susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82569|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Mikalojus Kristupas Radvila-Našlaitėlis, Lietuvos Didžiosios Kunigaikštystės rūmų maršalka, tapo Filipovo namų savininku.
-- susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82570|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Kapitulai nustojus gauti činšą už Filipovo namą, su kunigaikščiu Kristupu prasidėjo teismo procesas, o 1573 m. kovo 26 d. įsigaliojo sutartis.
 - susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82574|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Mikalojus Kristupas Radvila-Našlaitėlis, LDK rūmų maršalka, tapo Filipovo namų prie Didžiosios gatvės savininku.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila II.md#claim-t-87555|Mikalojus Radvila II]]: Mikalojus Radvila II savo lėšomis naujai pamūrijo Šv. Pranciškaus ir Bernardo vardu pavadintą bernardinų bažnyčią.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila II.md#claim-t-87556|Mikalojus Radvila II]]: Vilniaus vaivada Mikalojus Radvila II dosniai prisidėjo prie Bernardinų bažnyčios perstatymo, kai dėl silpnų pamatų jai grėsė griūtis.
@@ -164,43 +263,44 @@ periodo_grupes:
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113895|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis galėjo turėti tik nuo 4 iki 6 tūkstančių raitelių.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113896|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis buvo Dubingių ir Biržų kunigaikštis, Vilniaus vaivada, LDK vyriausiasis kancleris, Mozyriaus ir Lydos seniūnas.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113897|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis galėjo turėti nuo 4 iki 6 tūkstančių raitelių.
-- susijęs iš [[objektai/asmenys/Pranciškus Gonzaga.md#claim-t-186249|Pranciškus Gonzaga]]: Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.
 - susijęs iš [[objektai/autoriai/Jacobas Schrenckas.md#claim-t-78083|Jacobas Schrenckas]]: Jacobo Schrencko „Armamentarium Heroicum“ 1603 m. Insbruke pateikė Mikalojaus Radvilos Juodojo atvaizdą.
+- susijęs iš [[objektai/grupes/Karmelitų ordinas.md#claim-t-112561|Karmelitų ordinas]]: Mikalojus Radvila pakvietė karmelitus ir prie Šv. Jurgio bažnyčios Vilniuje pastatydino jiems vienuolyną.
+- susijęs iš [[objektai/grupes/Lietuvos luomai.md#claim-t-185433|Lietuvos luomai]]: Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila.
+- susijęs iš [[objektai/grupes/Radvilų giminė.md#claim-t-172762|Radvilų giminė]]: Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo 20 kapų lietuviškų grašių.
+- susijęs iš [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.).md#claim-t-185574|Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]: Mūšiui ilgai nesikreipiant nė į vieną pusę, Mikalojus Radvila smogė priešams į sparną ir nulėmė pergalę.
+- susijęs iš 1576 m. gruodžio 20 d. Stepono Batoro laiškas Mikalojui Radvilai dėl muitų, Czopowe ir Szosowe mokesčių: 1576 m. gruodžio 20 d. Steponas Batoras reikalavo, kad Mikalojus Radvila skatintų mokėti muitus ir iš Vilniaus miestiečių išreikalautų Czopowe bei Szosowe mokesčius.
+- susijęs iš Armamentarium Heroicum: 1603 m. Insbruke išleistame Jacobo Schrencko „Armamentarium Heroicum“ buvo pavaizduotas Mikalojus Radvila Juodasis.
+- susijęs iš Brasta: Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis.
+- susijęs iš Brasta: Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis.
+- susijęs iš Kardinalija: Dabartinį Kardinalijos sparną nuo Didžiosios gatvės užėmė Filipovo namai, kurių savininku tapo Mikalojus Kristupas Radvila.
+- susijęs iš Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas): Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti.
+- susijęs iš Vilnius: Rugsėjo pabaigoje luomai susirinko Vilniuje į seimą, kuriame karalius ragino nutraukti Radvilos ir Kiškos kivirčą.
+- susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82570|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Kapitulai nustojus gauti činšą už Filipovo namą, su kunigaikščiu Kristupu prasidėjo teismo procesas, o 1573 m. kovo 26 d. įsigaliojo sutartis.
+- susijęs iš [[objektai/asmenys/Pranciškus Gonzaga.md#claim-t-186249|Pranciškus Gonzaga]]: Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.
 - susijęs iš [[objektai/grupes/Bernardinų ordinas.md#claim-t-181539|Bernardinų ordinas]]: Vilniaus vaivada Mikalojus Radvila dosniai prisidėjo prie Bernardinų bažnyčios permūrijimo, kai jai dėl menkų pamatų grėsė griūtis.
 - susijęs iš [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai.md#claim-t-101239|Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]: XVI a. šeštajame ir septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias.
 - susijęs iš [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai.md#claim-t-183129|Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]: Antruoju reformacijos etapu LDK didikai rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio ir Katalikų bažnyčios įtaką.
-- susijęs iš [[objektai/grupes/Karmelitų ordinas.md#claim-t-112561|Karmelitų ordinas]]: Mikalojus Radvila pakvietė karmelitus ir prie Šv. Jurgio bažnyčios Vilniuje pastatydino jiems vienuolyną.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116734|Katalikų Bažnyčia]]: Lietuvos didikai reformacijos antruoju etapu rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčios įtaką.
 - susijęs iš [[objektai/grupes/Lietuvos evangelikai reformatai.md#claim-t-45013|Lietuvos evangelikai reformatai]]: XVI a. šeštajame ir septintajame dešimtmečiais beveik visi Lietuvos didikai buvo perėję į reformaciją, o kalvinizmas vėliau pradėjo nykti.
-- susijęs iš [[objektai/grupes/Lietuvos luomai.md#claim-t-185433|Lietuvos luomai]]: Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila.
 - susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78383|Livonijos kunigaikštystė]]: Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis.
 - susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78385|Livonijos kunigaikštystė]]: Steponas Batoras ir Mikalojus Radvila Rudasis laikė būtina atkirsti Livonijos teritoriją nuo Rusijos ir perkelti karo veiksmus.
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-74888|Radvilos]]: Po Mikalojaus Radvilos Juodojo mirties kalvinistinei reformacijai vadovavo jo pusbrolis Mikalojus Radvila Rudasis.
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-74889|Radvilos]]: Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.
-- susijęs iš [[objektai/grupes/Radvilų giminė.md#claim-t-172762|Radvilų giminė]]: Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo 20 kapų lietuviškų grašių.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176071|Vilniaus kapitula]]: Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176102|Vilniaus kapitula]]: Mikalojus Radvila Juodasis nuo 1541 m. iš Vilniaus kapitulos nuomojo Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.
-- susijęs iš [[objektai/ivykiai/Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.).md#claim-t-185574|Jerim Berdžio iškėlimas ir Mikalojus Radvilos laimėtas mūšis netoli Volgos (1419 m.)]]: Mūšiui ilgai nesikreipiant nė į vieną pusę, Mikalojus Radvila smogė priešams į sparną ir nulėmė pergalę.
 - susijęs iš [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas.md#claim-t-183306|Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]: Reformacijos antrajame etape didikai rinkosi kalvinizmą, nes jis tiko jų siekiui silpninti didžiojo kunigaikščio ir Katalikų bažnyčios įtaką.
 - susijęs iš [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas.md#claim-t-54226|Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]: XVI a. šeštajame ir septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias.
-- susijęs iš 1576 m. gruodžio 20 d. Stepono Batoro laiškas Mikalojui Radvilai dėl muitų, Czopowe ir Szosowe mokesčių: 1576 m. gruodžio 20 d. Steponas Batoras reikalavo, kad Mikalojus Radvila skatintų mokėti muitus ir iš Vilniaus miestiečių išreikalautų Czopowe bei Szosowe mokesčius.
-- susijęs iš Armamentarium Heroicum: 1603 m. Insbruke išleistame Jacobo Schrencko „Armamentarium Heroicum“ buvo pavaizduotas Mikalojus Radvila Juodasis.
 - susijęs iš Mikalojaus Radvilos ir Eustachijaus Valavičiaus laiškas Maskvos didikams: Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.
 - susijęs iš Bernardinų bažnyčia Vilniuje: Mikalojus Radvila II savo lėšomis naujai pamūrijo bernardinų bažnyčią, vadintą Šv. Pranciškaus ir Bernardo vardu.
-- susijęs iš Brasta: Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis.
-- susijęs iš Brasta: Lietuvoje (Brastoje) dar vieną spaustuvę 1553 m. įkūrė Mikalojus Radvila Juodasis.
 - susijęs iš Filipovo namai: Nuo 1541 m. Mikalojus Radvila Juodasis nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo po 20 kapų lietuviškų grašių.
 - susijęs iš Filipovo namai: Mikalojus Kristupas Radvila tapo Filipovo namų, sudarytų iš kelių medinių moliu aplipdytų pastatų, savininku.
-- susijęs iš Kardinalija: Dabartinį Kardinalijos sparną nuo Didžiosios gatvės užėmė Filipovo namai, kurių savininku tapo Mikalojus Kristupas Radvila.
 - susijęs iš Kijevo žemės: Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes.
-- susijęs iš Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas): Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti.
 - susijęs iš Kłeckas: Mikalojus Radvila apie 1514 m. pergalės prieš totorius ties Kłecku atminimui prie Vilijos pastatė Šv. Jurgio bažnyčią.
 - susijęs iš Palenkė: Vilniaus seime lenkų atstovai reikalavo Palenkę, Volynę, Kijevo ir Seversko žemes atiduoti Lenkijos karalystei.
 - susijęs iš Seversko žemės: Vilniaus seime lenkų atstovai reikalavo Lenkijai atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes bei sudaryti uniją.
 - susijęs iš Skitija: Lietuvos maršalas Mikalojus Radvila gavo įsakymą sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją.
 - susijęs iš Vilnius: Mikalojus Radvila Juodasis Lukiškėse pastatė kalvinų bažnyčią ir traukė į ją vilniečius.
 - susijęs iš Vilnius: Karalius Vilniuje užkirto kelią piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo.
-- susijęs iš Vilnius: Rugsėjo pabaigoje luomai susirinko Vilniuje į seimą, kuriame karalius ragino nutraukti Radvilos ir Kiškos kivirčą.
 - susijęs iš Volynė: Vilniaus seime lenkų atstovai reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes prieš sudarant uniją.
 - susijęs iš [[objektai/zodynas/reformacija.md#claim-t-77786|reformacija]]: Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią.
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185338|skitai]]: Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją.
@@ -240,6 +340,16 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=23e09236c8cd4a299ab35aafe6627cf264d09078427c5aecebe20e5021094ace; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-003
@@ -258,6 +368,16 @@ periodo_grupes:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 693820-694198; hash=5f09e0e177179eae2f2c3f8ce32c4c39bc4d2d14d432511833433de1062b7a64; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Malūnas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Malūnas: mention_match, thing, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Malūnas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-004
@@ -277,6 +397,16 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dd376acfddb25230aab7ac8a5770a49075eba846fd01b4fe9f20ec9602b0ccb7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Martynas iš Golino: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Martynas iš Golino: mention_match, person, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Martynas iš Golino" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-005
@@ -294,6 +424,16 @@ periodo_grupes:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 696197-696626; hash=cd657b4a8f3facca80d022c4e494c13aca34d951f6814b221063c83f9720d92c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Radvila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Radvila: mention_match, person, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-006
@@ -319,6 +459,16 @@ periodo_grupes:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 697005-697377; hash=df4674ea4ff9c7b5a5df2438a391f0807afe51a76895411180bccccc0f12fd14; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Radvila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Radvila: mention_match, person, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
 
 - c-007
@@ -336,6 +486,16 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1093058-1093474; hash=82fbb9af04732df46e8dc08ad642ae79c830c17631ea8b6762aa54600984bb6e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Trakai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Trakai: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Trakai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-008
@@ -364,6 +524,16 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 386079-386276; hash=08855e70c7c50a59b163dc3d12bcb9acf9dc33b1defc34de578932752ec6e6a6; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Namas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-008
 
 - c-009
@@ -382,6 +552,16 @@ periodo_grupes:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1080413-1080957; hash=fc11ae48ca17ccb52f8290ec8efce0da78e82f0646444de930bf03a041176a1b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-011
 
 - c-010
@@ -413,6 +593,16 @@ periodo_grupes:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1327090-1327955; hash=e5b78b3a811e18e605afbaa279377bc4f4f962bae7a400d20abf4cf9bf2ced6f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-011
@@ -432,6 +622,16 @@ periodo_grupes:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 531503-531929; hash=ab7b6841de56c9cd33b1dbbc7d64d88ca7b28df2fcae85eec785d0498bad04f4; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kłeckas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Radvila: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kłeckas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Radvila" parinktas kaip owner_note_path. Targetas "Kłeckas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-010
 
 ## Ryšiai

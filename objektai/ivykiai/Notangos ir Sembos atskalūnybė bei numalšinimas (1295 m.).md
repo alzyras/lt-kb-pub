@@ -46,30 +46,60 @@ Nenurodyta
   global_id: t-66800
   teiginys: 'Karaliaučiaus komtūras su kariuomene grįžo iš Vonsdorfo valsčiaus sutramdyti Notangos maišto.'
   sudarymo_pagrindimas: 'Pakanka pašalinti nebūtiną autorinę atribuciją ir perteklinį įvadą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Notanga; mentioned_place: Sklunija; mentioned_place: Vonsdorfas'
+  susije_objektai: 'mentioned_place: Notanga; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Sklunija; mentioned_place: Vonsdorfas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 591453-593098; hash=943f4d3c3031cd502199973df4e868f938f44acb18bd7681a862c00ae09c2b0b; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-66801"></a>
 - t-002
   global_id: t-66801
   teiginys: '1295 m. notangai vėl sukilo, savo kariuomenės vadu išsirinko Sabiną ir Bartenšteino pilyje paėmė į nelaisvę du brolius su jų šeimyna.'
   sudarymo_pagrindimas: 'Pašalintas įterptas komentaras ir OCR triukšmas; sakinys remiasi citatos pasakojimu apie atskalūnybę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_place: Bartenšteinas; mentioned_place: Lamata; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Sklunija; mentioned_place: Vizna'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_place: Bartenšteinas; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_place: Lamata; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Sklunija; mentioned_place: Vizna'
   temporaliniai_duomenys: 'įvykio data: 1295 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas įterptas komentaras ir OCR triukšmas; sakinys remiasi citatos pasakojimu apie atskalūnybę.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 593283-593932; hash=30699482889a1d00d5510e2c3ba35b3e97da1962f254fbf0fff5c350c1ae3ed7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Notanga: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Notanga: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)" parinktas kaip owner_note_path. Targetas "Notanga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-66802"></a>
 - t-003
   global_id: t-66802
   teiginys: 'Sembos valstiečiai susimokė išžudyti savo kilminguosius ir karvedžiu išsirinko Naudžiotą, Juodučio sūnų.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi perteklinį kontekstą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Semba; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 593933-594730; hash=7cf8c5f0979b561192534a2155800eb8031c74f1fd42937e5870dd7cee0e9454; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Semba: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -109,6 +139,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 591453-593098; hash=943f4d3c3031cd502199973df4e868f938f44acb18bd7681a862c00ae09c2b0b; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bartenšteinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Bartenšteinas: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)" parinktas kaip owner_note_path. Targetas "Bartenšteinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -142,4 +182,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 593933-594730; hash=7cf8c5f0979b561192534a2155800eb8031c74f1fd42937e5870dd7cee0e9454; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Semba: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 593283-593932; hash=30699482889a1d00d5510e2c3ba35b3e97da1962f254fbf0fff5c350c1ae3ed7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Notanga: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Notanga: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangos ir Sembos atskalūnybė bei numalšinimas (1295 m.)" parinktas kaip owner_note_path. Targetas "Notanga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

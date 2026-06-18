@@ -24,9 +24,19 @@ Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvena
   global_id: t-86157
   teiginys: 'Valerijono Bursos studentams skirti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.'
   sudarymo_pagrindimas: 'Ilgas dokumento fragmentas sutrumpintas iki aiškaus fakto apie bursą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Valerijono bursos; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Valerijono bursos; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 786089-787079; hash=f7071eb4761069c09790e40c63f31daff371dd390755a4b3292a78511745837e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Namas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valerijono Bursa: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijono Bursa" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Valerijono Bursos studentų bendrija.md#claim-t-55072|Valerijono Bursos studentų bendrija]]: Dokumento autoriai studentų bendriją ir minėtą namą norėjo pavadinti Valerijono Bursa.
 - susijęs iš [[objektai/grupes/Valerijono Bursos studentų bendrija.md#claim-t-55073|Valerijono Bursos studentų bendrija]]: Namų ir rūsio nuomos pajamos turėjo būti skiriamos Bursos studentų būtinoms reikmėms.
 - susijęs iš [[objektai/grupes/Valerijono Bursos studentų bendrija.md#claim-t-81661|Valerijono Bursos studentų bendrija]]: Valerijono Bursa buvo skirta laisvam studentų gyvenimui, nepriklausomai nuo jų tautybės.
@@ -59,3 +69,13 @@ Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvena
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 786089-787079; hash=f7071eb4761069c09790e40c63f31daff371dd390755a4b3292a78511745837e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Namas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valerijono Bursa: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valerijono Bursa" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

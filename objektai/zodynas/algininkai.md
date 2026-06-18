@@ -26,6 +26,16 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   susije_objektai: 'mentioned_place: Teodosija (Kafa)'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 901892-902359; hash=be30ba39c014eb73b9c0954a27535963110eb968d7e63dcc12e42f73028acdd3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Teodosija (Kafa): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: algininkai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Teodosija (Kafa): mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "algininkai" parinktas kaip owner_note_path. Targetas "Teodosija (Kafa)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185364"></a>
 - t-002
@@ -38,6 +48,16 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Minskas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1068547-1069274; hash=f138cdabfcc7ac41d713e80a40764f4974ba1e8d8989f9a4edac33bc04a7bb6d; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: algininkai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "algininkai" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185365"></a>
 - t-003
@@ -50,6 +70,16 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1096930-1097388; hash=274dba07345abef8a2c40118424e63a4dda3b8b8e8ff032e2924c92c3a40fb3f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstantinas (Karijotaitis): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: algininkai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Konstantinas (Karijotaitis): mention_match, person, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "algininkai" parinktas kaip owner_note_path. Targetas "Konstantinas (Karijotaitis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187517"></a>
 - t-004
@@ -62,6 +92,16 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/dvarionis|dvarionis]]; mentioned_place: Bobruiskas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Perekopas; mentioned_place: Podolė; mentioned_place: Pripetė; mentioned_place: Sluckas'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 282237-282933; hash=a6ea472be431b5864e1aa692f502654b3f9c123710462fca4b02ae2ff07df1e2; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bobruiskas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: algininkai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bobruiskas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "algininkai" parinktas kaip owner_note_path. Targetas "Bobruiskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -110,6 +150,16 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 901892-902359; hash=be30ba39c014eb73b9c0954a27535963110eb968d7e63dcc12e42f73028acdd3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Teodosija (Kafa): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: algininkai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Teodosija (Kafa): mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "algininkai" parinktas kaip owner_note_path. Targetas "Teodosija (Kafa)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-003
@@ -130,6 +180,16 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1068547-1069274; hash=f138cdabfcc7ac41d713e80a40764f4974ba1e8d8989f9a4edac33bc04a7bb6d; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: algininkai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "algininkai" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-004
@@ -154,4 +214,24 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1096930-1097388; hash=274dba07345abef8a2c40118424e63a4dda3b8b8e8ff032e2924c92c3a40fb3f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstantinas (Karijotaitis): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: algininkai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Konstantinas (Karijotaitis): mention_match, person, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "algininkai" parinktas kaip owner_note_path. Targetas "Konstantinas (Karijotaitis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 282237-282933; hash=a6ea472be431b5864e1aa692f502654b3f9c123710462fca4b02ae2ff07df1e2; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bobruiskas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: algininkai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bobruiskas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "algininkai" parinktas kaip owner_note_path. Targetas "Bobruiskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

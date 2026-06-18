@@ -32,6 +32,9 @@ Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdy
   temporalinis_llm_pakomentavimas: 'Išplėstas kontekstas ir pašalinta fragmentiška citatos konstrukcija.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 399361-399907; hash=b885d3b8e3e9f026ef672249e1e2d2fe934a2aec801c0f7d2b0b95086a03c2be; match=whitespace_regex
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/Juozas Ambrazevičius.md#claim-t-183343|Juozas Ambrazevičius]]: Juozas Ambrazevičius konstatavo, kad vyriausybė savo veikimą sustabdė prieš savo valią.
 - susijęs iš J. Ambrazevičiaus pareiškimas dėl Laikinosios vyriausybės veikimo sustabdymo: J. Ambrazevičius konstatavo, kad Laikinoji vyriausybė savo veikimą sustabdė prieš savo valią.
 ## Reikšmingi paminėjimai
@@ -53,3 +56,6 @@ Ambrazevičiui teko konstatuoti, kad vyriausybė „laiko savo veikimą sustabdy
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 399361-399907; hash=b885d3b8e3e9f026ef672249e1e2d2fe934a2aec801c0f7d2b0b95086a03c2be; match=whitespace_regex
+  sprendimo_priezastis: auto

@@ -37,15 +37,35 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   susije_objektai: 'mentioned_object: [[objektai/posakiai/prisiekęs dievų galybe|prisiekęs dievų galybe]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 559609-560069; hash=34df968df89f06ae8f31282c7918c6e76452138f299162529f2960ea5a6d5890; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kolainiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Surminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-60001"></a>
 - t-002
   global_id: t-60001
   teiginys: 'Kolainių pilininkas Surminas sušaukė pilėnus tartis, kaip apgauti pro pilį laivais plaukusius Ordino brolius.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia Surmino veiksmą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Vienos|Jonas iš Vienos]]; mentioned_place: Kolainiai; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Ragainė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Pilėnai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Vienos|Jonas iš Vienos]]; mentioned_place: Kolainiai; mentioned_place: Nemunas; mentioned_place: Ragainė; mentioned_place: Viena'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8855c890319b1dc76dfefe14220c287081347b0e015dace5f53c485c46475b4e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> prisiekęs dievų galybe: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Surminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: prisiekęs dievų galybe: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "prisiekęs dievų galybe" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-60002"></a>
 - t-003
@@ -58,18 +78,38 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   temporalinis_llm_pakomentavimas: 'Pašalintas nereikalingas šaltinio boilerplate, paliktas citatos paremtas faktas.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f08e012e9717064b1487f8272403fe22a7860378dd2b4326cf89e3a087bc987d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Laivai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Surminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Laivai: mention_match, thing, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60003"></a>
 - t-004
   global_id: t-60003
   teiginys: '1313 m. lietuvių karalius pasiuntė kilmingą ir karingą Surminą su šimtu laivų sunaikinti Ordino laivo.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nemunas'
   temporaliniai_duomenys: 'įvykio data: 1313 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir atitinka citatos turinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=230f369982e2f045d97469b854e7a8d9e69b3e278046a2f2ccb9886178fb1e3d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Laivai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Surminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Laivai: mention_match, thing, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184837"></a>
 - t-006
@@ -82,25 +122,37 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/asmenys/Henrikas fon Plockė.md#claim-t-186044|Henrikas fon Plockė]]: Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuniokojo Medininkų valsčių.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184820|Petras Goštautas]]: Pergalingoje kovoje Surminas neteko savo brolio Goštauto ir kitų narsių karių.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 328297-328874; hash=b16a1e4425b28bc962ca787de27b686f50b56b687bb12af1ab6e54830f2298dd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Surminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.).md#claim-t-59447|Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]: Lietuviai Nemune užėmė Ordino karo laivą, nužudė keturis lankininkus ir sudegino laivą, nors per puolimą žuvo Surmino brolis Skaldonis.
 - susijęs iš [[objektai/asmenys/Skaldonis.md#claim-t-184126|Skaldonis]]: Skaldonis, Surmino brolis, žuvo lietuviams 1313 m. užpuolus Nemunu plaukiantį laivą.
 - susijęs iš [[objektai/asmenys/Skaldonis.md#claim-t-60434|Skaldonis]]: Skaldonis, Surmino brolis, žuvo lietuviams 1313 m. užpuolus Nemunu plaukiantį laivą.
-- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179484|Laivai]]: 1313 m. Vytenis atsiuntė Surminą su 100 laivų prieš kryžiuočius, puolusius Junigėdą.
-- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179485|Laivai]]: 1313 m. kryžiuočiai pasistatė karo laivą su sienomis ir daug kitų laivų Junigėdai pulti.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179312|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-183888|Lietuviai]]: 1313 m. lietuvių karalius ir visa Lietuva pasiuntė Surminą su šimtu laivų sunaikinti Nemune buvusio Ordino laivo.
-- susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66507|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: Dusburgietis pasakoja, kad Surmino surengtoje pasaloje Nodamas, persirengęs moteriškais drabužiais, priviliojo Ernekės laivą prie kranto, po ko visi laivu plaukę buvo išžudyti.
-- susijęs iš [[objektai/ivykiai/Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.).md#claim-t-185520|Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.)]]: Penki lietuvių kariai naktį prasigavo pro kryžiuočių sargybas, nužudė kelis priešus, paėmė grobio ir sveiki grįžo pas savuosius.
 - susijęs iš [[objektai/ivykiai/Junigedos puolimas laivu ir Surmino kontrataka (1313 m.).md#claim-t-55707|Junigedos puolimas laivu ir Surmino kontrataka (1313 m.)]]: Surmino vadovaujami lietuviai laivą paėmė, nužudė jo sargybą ir sudegino.
 - susijęs iš [[objektai/ivykiai/Junigedos puolimas laivu ir Surmino kontrataka (1313 m.).md#claim-t-55710|Junigedos puolimas laivu ir Surmino kontrataka (1313 m.)]]: Dusburgietis pasakoja, kad Surminas su gausia lietuvių jėga buvo pasiųstas sunaikinti karo laivo.
 - susijęs iš [[objektai/ivykiai/Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.).md#claim-t-31423|Junigėdos puolimas laivu ir Surmino kontrataka (1313 m.)]]: 1313 m. Vytenis pasiuntė Surminą su 100 laivų prieš kryžiuočius, atplaukusius pulti Junigėdos.
-- susijęs iš [[objektai/ivykiai/Kolainių apgultis ir pilies sunaikinimas (1290 m.).md#claim-t-185715|Kolainių apgultis ir pilies sunaikinimas (1290 m.)]]: Surminas pasinaudojo kryžiuočių atsitraukimu, išvedė Kolainių įgulą ir išgabeno vertybes, o priešas užėmė tuščią pilį.
-- susijęs iš [[objektai/ivykiai/Kolainių pilies puolimas (1290 m. balandžio 23 d.).md#claim-t-62830|Kolainių pilies puolimas (1290 m. balandžio 23 d.)]]: Per Kolainių pilies puolimą visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti.
 - susijęs iš [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.).md#claim-t-70947|Kolainių pilies puolimas (1290 m.)]]: 1290 m. balandžio 23 d. Meinhardas su 500 raitelių ir 2 tūkst. pėstininkų puolė Kolainių pilį, kurią gynė Surminas su 120 vyrų.
-- susijęs iš [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.).md#claim-t-70948|Kolainių pilies puolimas (1290 m.)]]: Kolainių apgula nutrūko, kai sargybos raitelių triukšmo išgąsdinti paprasti kariai pabėgo prie laivų.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.).md#claim-t-185527|Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)]]: Surminas po pergalės grįžo pas valdovą, tačiau mūšyje neteko brolio Goštauto ir kitų karių.
 - susijęs iš [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.).md#claim-t-59447|Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]: Lietuviai Nemune užėmė Ordino karo laivą, nužudė keturis lankininkus ir sudegino laivą, nors per puolimą žuvo Surmino brolis Skaldonis.
+- susijęs iš Kolainių pilis (pilis): Kolainių pilininkas Surminas su pilėnais tarėsi, kaip apgauti pro pilį plaukusius Ordino brolius.
+- susijęs iš [[objektai/asmenys/Henrikas fon Plockė.md#claim-t-186044|Henrikas fon Plockė]]: Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuniokojo Medininkų valsčių.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184820|Petras Goštautas]]: Pergalingoje kovoje Surminas neteko savo brolio Goštauto ir kitų narsių karių.
+- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179484|Laivai]]: 1313 m. Vytenis atsiuntė Surminą su 100 laivų prieš kryžiuočius, puolusius Junigėdą.
+- susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179485|Laivai]]: 1313 m. kryžiuočiai pasistatė karo laivą su sienomis ir daug kitų laivų Junigėdai pulti.
+- susijęs iš [[objektai/ivykiai/Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.).md#claim-t-66507|Brolio Ernekės žūtis prie Kolainių pilies (1290 m. gegužės 12 d.)]]: Dusburgietis pasakoja, kad Surmino surengtoje pasaloje Nodamas, persirengęs moteriškais drabužiais, priviliojo Ernekės laivą prie kranto, po ko visi laivu plaukę buvo išžudyti.
+- susijęs iš [[objektai/ivykiai/Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.).md#claim-t-185520|Henriko žygis prieš Naugarduką ir Dovydo smūgis kryžiuočių stovyklai (1314 m.)]]: Penki lietuvių kariai naktį prasigavo pro kryžiuočių sargybas, nužudė kelis priešus, paėmė grobio ir sveiki grįžo pas savuosius.
+- susijęs iš [[objektai/ivykiai/Kolainių apgultis ir pilies sunaikinimas (1290 m.).md#claim-t-185715|Kolainių apgultis ir pilies sunaikinimas (1290 m.)]]: Surminas pasinaudojo kryžiuočių atsitraukimu, išvedė Kolainių įgulą ir išgabeno vertybes, o priešas užėmė tuščią pilį.
+- susijęs iš [[objektai/ivykiai/Kolainių pilies puolimas (1290 m. balandžio 23 d.).md#claim-t-62830|Kolainių pilies puolimas (1290 m. balandžio 23 d.)]]: Per Kolainių pilies puolimą visi pilėnai, išskyrus 12 žmonių, buvo mirtinai sužeisti.
+- susijęs iš [[objektai/ivykiai/Kolainių pilies puolimas (1290 m.).md#claim-t-70948|Kolainių pilies puolimas (1290 m.)]]: Kolainių apgula nutrūko, kai sargybos raitelių triukšmo išgąsdinti paprasti kariai pabėgo prie laivų.
 - susijęs iš [[objektai/ivykiai/Vernerio karo laivo užėmimas ir sudeginimas (1313 m.).md#claim-t-59448|Vernerio karo laivo užėmimas ir sudeginimas (1313 m.)]]: 1313 m. lietuvių karalius pasiuntė Surminą su šimtu laivų, šešiais šimtais ar daugiau vyrų ir šimtu raitelių sunaikinti Ordino karo laivo.
 - susijęs iš [[objektai/ivykiai/Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.).md#claim-t-31504|Vytenio žygis į Sembą, Natangą ir Varmę bei pralaimėjimas Woplaukene (1311 m.)]]: 1311 m. Vytenis plėšė Sembą, Natangą ir Varmę, bet Woplaukeno lygumose jo kariuomenė buvo sumušta.
 - susijęs iš [[objektai/posakiai/prisiekęs dievų galybe.md#claim-t-184039|prisiekęs dievų galybe]]: Vadas Surminas, palikęs pilį, prisiekė dievų galybe ateityje nelaukti brolių antpuolio prieš pilį.
@@ -108,7 +160,6 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
 - susijęs iš Kolainių pilis (pilis): 1290 m. Ordino magistras su daugeliu riterių ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.
 - susijęs iš Kolainių pilis (pilis): Surminas paliko Kolainių pilį po to, kai Ordino broliai dėl sąmyšio turėjo nutraukti jos apgulą.
 - susijęs iš Kolainių pilis (pilis): 1290 m. Ordino magistras su riteriais ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį.
-- susijęs iš Kolainių pilis (pilis): Kolainių pilininkas Surminas su pilėnais tarėsi, kaip apgauti pro pilį plaukusius Ordino brolius.
 - susijęs iš Nemunas: 1313 m. Surmino vadovaujami lietuviai Nemune paėmė pasroviui plaukusį laivą, nužudė keturis lankininkus ir laivą sudegino.
 - susijęs iš [[objektai/zodynas/įgula.md#claim-t-185372|įgula]]: Surminas per gautą atokvėpį išvedė iš pilies įgulą ir išgabeno vertingiausius daiktus.
 ## Reikšmingi paminėjimai
@@ -149,6 +200,16 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=230f369982e2f045d97469b854e7a8d9e69b3e278046a2f2ccb9886178fb1e3d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Laivai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Surminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Laivai: mention_match, thing, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -170,6 +231,16 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 559609-560069; hash=34df968df89f06ae8f31282c7918c6e76452138f299162529f2960ea5a6d5890; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kolainiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Surminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-004
@@ -187,7 +258,27 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8855c890319b1dc76dfefe14220c287081347b0e015dace5f53c485c46475b4e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> prisiekęs dievų galybe: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Surminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: prisiekęs dievų galybe: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "prisiekęs dievų galybe" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 559609-560069; hash=34df968df89f06ae8f31282c7918c6e76452138f299162529f2960ea5a6d5890; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kolainiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Surminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kolainiai: mention_match, place, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "Kolainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-005
@@ -213,4 +304,27 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f08e012e9717064b1487f8272403fe22a7860378dd2b4326cf89e3a087bc987d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Laivai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Surminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Laivai: mention_match, thing, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 328297-328874; hash=b16a1e4425b28bc962ca787de27b686f50b56b687bb12af1ab6e54830f2298dd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Surminas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Surminas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Skaldonis]] buvo_brolis Surminas

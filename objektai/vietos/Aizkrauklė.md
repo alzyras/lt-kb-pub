@@ -25,6 +25,16 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija; mentioned_place: Vidžemė'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bfa880f9cb6ce18ea9f62d2b02b74db970c66f9f0b4e058ce3c015851265d5d6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aizkrauklė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aizkrauklė" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-67605"></a>
 - t-002
@@ -33,14 +43,17 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
   sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs OCR fragmentas, o citata remia vietovardžio tapatinimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=144dc43368fe8e587838e4e88d1026532a6b879ef55101446a5a812a653e3c52; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+- susijęs iš [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.).md#claim-t-66445|Aizkrauklės mūšis (1279 m. kovo 5 d.)]]: 1279 m. kovo 5 d. Padauguvyje prie Aizkrauklės įvyko mūšis, kuriame abi pusės patyrė nuostolių.
+- susijęs iš [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.).md#claim-t-66446|Aizkrauklės mūšis (1279 m. kovo 5 d.)]]: Aizkrauklės pergalė pagal Ordino nuostolius XIII a. buvo antroji po Durbės kautynių.
+- susijęs iš Eilėtoji Livonijos kronika: 1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.
 - susijęs iš [[objektai/asmenys/Konradas iš Foichtvangeno.md#claim-t-59994|Konradas iš Foichtvangeno]]: Konradas iš Foichtvangeno atsisakė pareigybės Prūsijoje ir pasiliko vienos Livonijos žemės magistru.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 - susijęs iš [[objektai/daiktai/Riterių vėliava.md#claim-t-179491|Riterių vėliava]]: Viduriniais amžiais riterių vėliavos netekimas kovoje laikytas didele nelaime.
 - susijęs iš [[objektai/daiktai/Riterių vėliava.md#claim-t-179493|Riterių vėliava]]: Po Aizkrauklės kautynių riterių vėliava atiteko pagonims.
-- susijęs iš [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.).md#claim-t-66445|Aizkrauklės mūšis (1279 m. kovo 5 d.)]]: 1279 m. kovo 5 d. Padauguvyje prie Aizkrauklės įvyko mūšis, kuriame abi pusės patyrė nuostolių.
-- susijęs iš [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.).md#claim-t-66446|Aizkrauklės mūšis (1279 m. kovo 5 d.)]]: Aizkrauklės pergalė pagal Ordino nuostolius XIII a. buvo antroji po Durbės kautynių.
 - susijęs iš [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru.md#claim-t-66631|Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]: Po metų Konradas iš Foichtvangeno atsisakė pareigų Prūsijoje ir liko tik Livonijos žemės magistru.
-- susijęs iš Eilėtoji Livonijos kronika: 1369 m. Algirdas, magistrui ir krašto maršalui išvykus prieš rusus, nuniokojo Aizkrauklės ir Cisegalės žemes.
 - susijęs iš Aismarių nerija: Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“.
 - susijęs iš Aismarių nerija: Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“.
 - susijęs iš Akmena (Jūros intakas): Ašeradė) Akmena (Jūros intakas), u.
@@ -77,4 +90,17 @@ XII-XIII amž. sąvartoje latviai buvo vieninteliai baltai, kurie jau nuo seniau
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=144dc43368fe8e587838e4e88d1026532a6b879ef55101446a5a812a653e3c52; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bfa880f9cb6ce18ea9f62d2b02b74db970c66f9f0b4e058ce3c015851265d5d6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aizkrauklė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aizkrauklė" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

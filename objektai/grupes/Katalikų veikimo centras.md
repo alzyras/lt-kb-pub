@@ -25,8 +25,18 @@ Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat
   susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101711|Stasys Raštikis]]: Kariuomenės vadas Stasys Raštikis visuomenėje įgavo didelį populiarumą, todėl prezidentas po ambicijų konflikto 1940 m. balandį atleido jį iš pareigų.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7155a90ca536be5d181cbef07cecc1704ce11e70d02b6b76d54c2161925688a5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Katalikų veikimo centras: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Katalikų veikimo centras" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Krikščionių demokratų blokas.md#claim-t-74194|Krikščionių demokratų blokas]]: Krikščionių demokratų blokas ir Katalikų veikimo centras trukdė tautininkams monopolizuoti ideologinę ir organizacinę erdvę.
+- susijęs iš [[objektai/asmenys/Stasys Raštikis.md#claim-t-101711|Stasys Raštikis]]: Kariuomenės vadas Stasys Raštikis visuomenėje įgavo didelį populiarumą, todėl prezidentas po ambicijų konflikto 1940 m. balandį atleido jį iš pareigų.
 - susijęs iš [[objektai/ivykiai/Stasio Raštikio atleidimas iš pareigų (1940 m. balandis).md#claim-t-20506|Stasio Raštikio atleidimas iš pareigų (1940 m. balandis)]]: Prezidentas 1940 m. balandį po ambicijų konflikto atleido populiarų kariuomenės vadą Stasį Raštikį iš pareigų.
 ## Reikšmingi paminėjimai
 
@@ -46,3 +56,13 @@ Tačiau krikščionių demokratų blokas, Katalikų veikimo centras (KVC) nuolat
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7155a90ca536be5d181cbef07cecc1704ce11e70d02b6b76d54c2161925688a5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Katalikų veikimo centras: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Katalikų veikimo centras" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

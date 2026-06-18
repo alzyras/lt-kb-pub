@@ -30,17 +30,26 @@ periodo_grupes:
   global_id: t-87674
   teiginys: '1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'object: [[objektai/asmenys/Fridrichas|Fridrichas]]; object: [[objektai/asmenys/Gediminas|Gediminas]]; object: Ragainė; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ragainė'
-  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas de Libencelė|Fridrichas de Libencelė]] puolė [[objektai/asmenys/Fridrichas|Fridrichas]]; [[objektai/asmenys/Fridrichas de Libencelė|Fridrichas de Libencelė]] puolė [[objektai/asmenys/Gediminas|Gediminas]]; [[objektai/asmenys/Fridrichas de Libencelė|Fridrichas de Libencelė]] puolė Ragainė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Ragainė'
   temporaliniai_duomenys: 'mūšio data: 1317 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fridrichas de Libencelė puolė Fridrichas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas de Libencelė puolė Gediminas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas de Libencelė puolė Ragainė“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fbfee0e2b6651885a6698d952884981357cba8e3ad603de44459e28dec800ca4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fridrichas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fridrichas de Libencelė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Fridrichas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas de Libencelė" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Dusburgo kronika: Dusburgo kronika prie 1317 m. mini Castrum Gedemini, kurio Ragainės komtūras Fridrichas de Libencelė neįstengė užimti.
 - susijęs iš Dusburgo kronika: Dusburgo kronika prie 1317 m. mini, kad Ragainės komtūras Fridrichas de Libencelė apgulė Gedimino pilį, bet jos neužėmė.
-- susijęs iš Gedimino pilis Castrum Gedemini: Dusburgo kronikoje prie 1317 m. minima, kad Ragainės komtūras Fridrichas de Libencelė neįstengė užimti Gedimino pilies.
 - susijęs iš Ragainė: 1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.
+- susijęs iš Gedimino pilis Castrum Gedemini: Dusburgo kronikoje prie 1317 m. minima, kad Ragainės komtūras Fridrichas de Libencelė neįstengė užimti Gedimino pilies.
 - susijęs iš [[objektai/zodynas/Papilys suburbium.md#claim-t-86505|Papilys suburbium]]: 1317 metais Ragainės komtūras Fridrichas de Libencelė su 150 žmonių neįstengė užimti Gedimino pilies, bet sudegino jos papilį.
 ## Reikšmingi paminėjimai
 
@@ -59,8 +68,13 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Fridrichas de Libencelė puole [[objektai/asmenys/Fridrichas]]
-- Fridrichas de Libencelė puole [[objektai/asmenys/Gediminas]]
-- Fridrichas de Libencelė puole [[objektai/vietos/Ragainė]]
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fbfee0e2b6651885a6698d952884981357cba8e3ad603de44459e28dec800ca4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fridrichas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fridrichas de Libencelė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Fridrichas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fridrichas de Libencelė" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -80,7 +80,7 @@ Nenurodyta
 - t-003
   global_id: t-10898
   teiginys: 'Suverenitetas reiškia Lietuvos valdžią ir teisinę viršenybę Klaipėdos krašte.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]'
   temporaliniai_duomenys: 'įvykio data: 1924 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -102,15 +102,25 @@ Nenurodyta
 - t-005
   global_id: t-10900
   teiginys: 'Suvereniteto sąvoka taikoma ir Lietuvos teisėms į Vilniaus sritį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1926 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6989144ad68b066a7f6e66051046e7564ae78f493117ea88af0b26f36216a28f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Suverenitetas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Suverenitetas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.).md#claim-t-75195|Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)]]: Konstitucija skelbė Lietuvą demokratine respublika, kurios suverenitetas priklauso tautai.
 - susijęs iš [[objektai/grupes/Lietuvos Respublikos Seimas.md#claim-t-74771|Lietuvos Respublikos Seimas (seimas)]]: Konstitucija nustatė, kad valstybės valdžią Lietuvoje vykdo Seimas, Respublikos prezidentas, Vyriausybė ir teismas.
 - susijęs iš [[objektai/grupes/Lietuvos Respublikos Seimas.md#claim-t-74773|Lietuvos Respublikos Seimas (seimas)]]: Pagal Konstituciją Seimas kartu su Respublikos prezidentu, Vyriausybe ir teismu vykdo valstybės valdžią Lietuvoje.
 - susijęs iš [[objektai/ivykiai/Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.).md#claim-t-75194|Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)]]: 1992 m. Konstitucijos preambulė valstybės teisės tęstinumą siejo su Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.
-- susijęs iš [[objektai/ivykiai/Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.).md#claim-t-75195|Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)]]: Konstitucija skelbė Lietuvą demokratine respublika, kurios suverenitetas priklauso tautai.
 - susijęs iš Lietuvos Respublikos Konstitucija: Lietuvos Respublikos Konstitucija buvo priimta 1992 m. spalio 25 d. piliečių referendume.
 - susijęs iš Lietuvos Statutai: 1992 m. Konstitucijos preambulė Lietuvos valstybės teisės pamatus siejo su LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.
 - susijęs iš Lietuva: 1992 m. Konstitucijos preambulė Lietuvos valstybės teisės pamatus siejo su Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.
@@ -201,6 +211,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6989144ad68b066a7f6e66051046e7564ae78f493117ea88af0b26f36216a28f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Suverenitetas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Suverenitetas" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-005

@@ -35,6 +35,9 @@ Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus virši
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie asmenį ir pareigas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1003735-1004146; hash=635486c6c8d18e913033262f0ae58bf42feca45e8f3923fa0d209feed63a3b98; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -58,3 +61,6 @@ Algimanto apygardos vadovybė 1949 m. Iš kairės: organizacinio skyriaus virši
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1003735-1004146; hash=635486c6c8d18e913033262f0ae58bf42feca45e8f3923fa0d209feed63a3b98; match=whitespace_regex
+  sprendimo_priezastis: auto

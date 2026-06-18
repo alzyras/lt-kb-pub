@@ -26,22 +26,52 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   susije_objektai: 'mentioned_place: Europa'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 276790-277230; hash=b5e1003b15f7d55bed7d2092e7f8304b09840beb3382909e8ee669193f7d0faa; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstancija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=120
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-36322"></a>
 - t-002
   global_id: t-36322
   teiginys: 'Vytautas grasino Livonijos ordiną apskųsti Konstancijos susirinkimui dėl jo sutarties su Pskovu prieš Vytautą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_place: Pskovas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Livonija; mentioned_place: Naugardas'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dbcc84d1caffdc4b830d42e269fe100cbf3bbabcb84987987a09b741f5cc9a66; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pskovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstancija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancija" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-36323"></a>
 - t-003
   global_id: t-36323
   teiginys: 'Vytautas ir Jogaila susitaikė, nes prieš Konstancijos suvažiavimą abiem rūpėjo kryžiuočių klausimas.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Prochaska|Prochaska]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_author: [[objektai/autoriai/Prochaska|Prochaska]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 474946-475338; hash=04ba23b7bc565fe205b5a692b01e7724720f2a8c41372494c0df7a8e8f69da8c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstancija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184304"></a>
 - t-004
@@ -54,6 +84,16 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   susije_objektai: 'mentioned_place: Europa'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 276620-277079; hash=cc40590e8823477bf871fb59fc7149b1c38c834281f37c2fc49686113a79cf98; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstancija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184305"></a>
 - t-005
@@ -66,28 +106,43 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkų bajorai|Lenkų bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 474753-475252; hash=05c02c1755aa53f2deaca9b03b213f04822263d5162044e13f7c7d6240737543; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstancija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Mykolas Sapienskis.md#claim-t-35256|Mykolas Sapienskis]]: Vytauto sekretorius Mykolas Sapienskis vadovavo žemaičių delegacijai, kuri 1415 m. gale atvyko į Konstanciją.
-- susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
-- susijęs iš [[objektai/asmenys/Falkenbergas.md#claim-t-34787|Falkenbergas]]: Kryžiuotis Falkenbergas mėgino padėti Vokiečių ordinui, išleisdamas Jogailą šmeižiančią knygą.
 - susijęs iš [[objektai/asmenys/Jonas (Breslavo vyskupas).md#claim-t-34796|Jonas (Breslavo vyskupas)]]: 1415 m. Breslavo vyskupas Jonas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.
 - susijęs iš [[objektai/asmenys/Jonas (Lvovo arkivyskupas).md#claim-t-34797|Jonas (Lvovo arkivyskupas)]]: 1415 m. Lvovo arkivyskupas Jonas buvo Lietuvos ir Lenkijos vyskupų delegacijos į Konstanciją narys.
-- susijęs iš [[objektai/asmenys/Jonas Paleologas.md#claim-t-35152|Jonas Paleologas]]: Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
 - susijęs iš [[objektai/asmenys/Jonas XXIII.md#claim-t-184282|Jonas XXIII]]: Jonas XXIII atėmė Vokiečių ordinui teises bei privilegijas ir pasiūlė Vytautui bylą perduoti Konstancijos susirinkimui.
 - susijęs iš [[objektai/asmenys/Jurgis Boliminas.md#claim-t-35171|Jurgis Boliminas]]: Jurgis Boliminas 1415 m. pabaigoje vadovavo į Konstanciją atvykusiai žemaičių delegacijai.
 - susijęs iš [[objektai/asmenys/Jurgis Geldgaudas.md#claim-t-35174|Jurgis Geldgaudas]]: Jurgis Geldgaudas 1415 m. pabaigoje vadovavo į Konstanciją atvykusiai žemaičių delegacijai.
-- susijęs iš [[objektai/asmenys/Manuelis.md#claim-t-35214|Manuelis]]: Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
 - susijęs iš [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas).md#claim-t-34813|Mikalojus (Gniezno arkivyskupas)]]: Gniezno arkivyskupas Mikalojus 1415 m. buvo į Konstanciją išsiųstos Lietuvos ir Lenkijos vyskupų delegacijos narys.
-- susijęs iš [[objektai/asmenys/Mikalojus Dziežgavičius.md#claim-t-35227|Mikalojus Dziežgavičius]]: Mikalojus Dziežgavičius 1421–1453 m. buvo antrasis Žemaičių vyskupas, paskirtas Vytautui jį rekomendavus.
-- susijęs iš [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas).md#claim-t-176557|Motiejus (Žemaičių ir Vilniaus vyskupas)]]: Motiejus buvo pirmasis Žemaičių ir vėliau Vilniaus vyskupas, paskirtas Vytautui jį rekomendavus.
 - susijęs iš [[objektai/asmenys/Mykolas Sapienskis.md#claim-t-35256|Mykolas Sapienskis]]: Vytauto sekretorius Mykolas Sapienskis vadovavo žemaičių delegacijai, kuri 1415 m. gale atvyko į Konstanciją.
 - susijęs iš [[objektai/asmenys/Petras iš Kustynės.md#claim-t-35264|Petras iš Kustynės]]: Petras iš Kustynės 1414-1421 m. buvo ketvirtasis Vilniaus vyskupas, delegatas Konstancijoje ir pasiuntinys Žemaitijoje.
 - susijęs iš [[objektai/asmenys/Petras iš Kustynės.md#claim-t-35265|Petras iš Kustynės]]: Petras iš Kustynės 1415 m. kaip Vilniaus vyskupas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.
 - susijęs iš [[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis).md#claim-t-184290|Vilhelmas (Klivijos kunigaikštis)]]: Klivijos kunigaikštis Vilhelmas Konstancijos bažnyčios sinode viešai pabrėžė Vytauto reikšmę Europai.
 - susijęs iš [[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis).md#claim-t-34766|Vilhelmas (Klivijos kunigaikštis)]]: Klivijos kunigaikštis Vilhelmas Konstancijos bažnyčios sinode viešai pabrėžė Vytauto vaidmenį ginant Europą nuo turkų.
+- susijęs iš [[objektai/autoriai/Pajautos, Konstancijos Skirmuntaitės.md#claim-t-100134|Pajautos, Konstancijos Skirmuntaitės]]: Pajautos, Konstancijos Skirmuntaitės, vadovėlinio tipo knygutėje dėmesys sutelktas į lietuvių tautos žygius iki Vytauto Didžiojo mirties.
+- susijęs iš [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.).md#claim-t-50802|Konstancijos susirinkimas (1414–1418 m.)]]: 1414 m. Konstancijos susirinkimas suteikė Lietuvai progą Vakarų Europai parodyti vykdomą krikšto darbą.
+- susijęs iš [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.).md#claim-t-50803|Konstancijos susirinkimas (1414–1418 m.)]]: Konstancijos susirinkimas nusprendė pasiųsti vyskupus Žemaičių vyskupijai įkurti.
+- susijęs iš [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.).md#claim-t-50804|Konstancijos susirinkimas (1414–1418 m.)]]: Vytautas į Konstancijos susirinkimą pasiuntė 60 žemaičių bajorų katalikų delegaciją kaip Lietuvos apsikrikštijimo įrodymą.
+- susijęs iš [[objektai/ivykiai/Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.).md#claim-t-35923|Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)]]: 1415 m. gruodžio 15 d. į Konstancijos sinodą buvo nusiųsta 60 pakrikštytų žemaičių bajorų, kurie įteikė memorialą „Propositio Samaytarum“.
+- susijęs iš [[objektai/zodynas/bažnytinė provincija.md#claim-t-70098|bažnytinė provincija]]: Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstancijos susirinkimo eigą.
+- susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
+- susijęs iš [[objektai/asmenys/Falkenbergas.md#claim-t-34787|Falkenbergas]]: Kryžiuotis Falkenbergas mėgino padėti Vokiečių ordinui, išleisdamas Jogailą šmeižiančią knygą.
+- susijęs iš [[objektai/asmenys/Jonas Paleologas.md#claim-t-35152|Jonas Paleologas]]: Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
+- susijęs iš [[objektai/asmenys/Manuelis.md#claim-t-35214|Manuelis]]: Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
+- susijęs iš [[objektai/asmenys/Mikalojus Dziežgavičius.md#claim-t-35227|Mikalojus Dziežgavičius]]: Mikalojus Dziežgavičius 1421–1453 m. buvo antrasis Žemaičių vyskupas, paskirtas Vytautui jį rekomendavus.
+- susijęs iš [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas).md#claim-t-176557|Motiejus (Žemaičių ir Vilniaus vyskupas)]]: Motiejus buvo pirmasis Žemaičių ir vėliau Vilniaus vyskupas, paskirtas Vytautui jį rekomendavus.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176658|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis palaikė neblogus santykius su turkais, kurie jo valdymo metu vis labiau skverbėsi į Balkanų pusiasalį.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176873|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis 1420 m. Breslavo sprendimu priskyrė Ordinui ir Žemaitiją.
 - susijęs iš [[objektai/autoriai/Jan Fijałek.md#claim-t-35446|Jan Fijałek]]: Kunigas prof. dr. J. Fijałek teigė, kad žemaičių skundo „Propositio Samaytarum“ dar negalima skaityti sausomis akimis.
-- susijęs iš [[objektai/autoriai/Pajautos, Konstancijos Skirmuntaitės.md#claim-t-100134|Pajautos, Konstancijos Skirmuntaitės]]: Pajautos, Konstancijos Skirmuntaitės, vadovėlinio tipo knygutėje dėmesys sutelktas į lietuvių tautos žygius iki Vytauto Didžiojo mirties.
 - susijęs iš [[objektai/autoriai/prof. kunigas Dr. J. Fijalek.md#claim-t-35494|prof. kunigas Dr. J. Fijalek]]: Prof. kunigas dr. J. Fijalek teigė, kad „Propositio Samaytarum“ dėl graudumo ir šiandien sunku skaityti sausomis akimis.
 - susijęs iš [[objektai/grupes/Husitai.md#claim-t-172105|Husitai]]: Lenkijoje, o vėliau ir Lietuvoje kilo opozicija husitams: imta kovoti su jų mokslu ir likta Bažnyčios pusėje.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179174|Lenkai]]: Konstancos susirinkime Vokiečių ordinas kaltino Jogailą, tuo metu buvusį Lenkijos karaliumi, Kęstučio nužudymu.
@@ -99,12 +154,8 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179416|Livonijos ordinas]]: Konstancijos susirinkimas paskyrė Vytautą Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo šias vyskupijas.
 - susijęs iš [[objektai/grupes/Moravai.md#claim-t-34360|Moravai]]: Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.
 - susijęs iš [[objektai/grupes/Čekai.md#claim-t-50766|Čekai]]: Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.
-- susijęs iš [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.).md#claim-t-50802|Konstancijos susirinkimas (1414–1418 m.)]]: 1414 m. Konstancijos susirinkimas suteikė Lietuvai progą Vakarų Europai parodyti vykdomą krikšto darbą.
-- susijęs iš [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.).md#claim-t-50803|Konstancijos susirinkimas (1414–1418 m.)]]: Konstancijos susirinkimas nusprendė pasiųsti vyskupus Žemaičių vyskupijai įkurti.
-- susijęs iš [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.).md#claim-t-50804|Konstancijos susirinkimas (1414–1418 m.)]]: Vytautas į Konstancijos susirinkimą pasiuntė 60 žemaičių bajorų katalikų delegaciją kaip Lietuvos apsikrikštijimo įrodymą.
 - susijęs iš [[objektai/ivykiai/Livonijos ordino 10 metų sutarties su Pskovu sudarymas.md#claim-t-35857|Livonijos ordino 10 metų sutarties su Pskovu sudarymas (sutartis)]]: Livonijos ordinas sudarė su Pskovu dešimties metų sutartį, kuri buvo nukreipta prieš Vytautą.
 - susijęs iš [[objektai/ivykiai/Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.).md#claim-t-35858|Livonijos ordino amžinos taikos su Naugardu D. sudarymas (1421 m.)]]: 1421 m. Livonijos ordinas sudarė amžiną taiką su Didžiuoju Naugardu.
-- susijęs iš [[objektai/ivykiai/Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.).md#claim-t-35923|Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)]]: 1415 m. gruodžio 15 d. į Konstancijos sinodą buvo nusiųsta 60 pakrikštytų žemaičių bajorų, kurie įteikė memorialą „Propositio Samaytarum“.
 - susijęs iš [[objektai/ivykiai/Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.).md#claim-t-34527|Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)]]: Žemaičių arba Medininkų vyskupija buvo įkurta 1417 m. spalio 24 d. kaip antroji Lietuvos vyskupija.
 - susijęs iš Amžina taika su Naugardu D. (1421 m.): Ordinas 1421 metais sudarė amžiną taiką su Didžiuoju Naugardu.
 - susijęs iš Pskovo 10 metų sutartis: Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.
@@ -121,7 +172,6 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
 - susijęs iš Viduklė: 1416 m. Vytautas Viduklėje pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių.
 - susijęs iš [[objektai/zodynas/Vakarų Bažnyčios schizma.md#claim-t-70057|Vakarų Bažnyčios schizma]]: 1414 m. visuotinis bažnyčios susirinkimas turėjo pašalinti Vakarų Bažnyčios schizmą ir spręsti tikėjimo klausimus.
 - susijęs iš [[objektai/zodynas/Vakarų Bažnyčios schizma.md#claim-t-70058|Vakarų Bažnyčios schizma]]: Konstancijos susirinkimas turėjo pašalinti Vakarų Bažnyčios schizmą.
-- susijęs iš [[objektai/zodynas/bažnytinė provincija.md#claim-t-70098|bažnytinė provincija]]: Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstancijos susirinkimo eigą.
 - susijęs iš [[objektai/zodynas/bažnytinė provincija.md#claim-t-70101|bažnytinė provincija]]: Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją.
 ## Reikšmingi paminėjimai
 
@@ -157,6 +207,16 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 276790-277230; hash=b5e1003b15f7d55bed7d2092e7f8304b09840beb3382909e8ee669193f7d0faa; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstancija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=120
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -176,6 +236,16 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 474946-475338; hash=04ba23b7bc565fe205b5a692b01e7724720f2a8c41372494c0df7a8e8f69da8c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstancija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancija" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-004
@@ -195,6 +265,16 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dbcc84d1caffdc4b830d42e269fe100cbf3bbabcb84987987a09b741f5cc9a66; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pskovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstancija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pskovas: mention_match, place, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancija" parinktas kaip owner_note_path. Targetas "Pskovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-005
@@ -214,7 +294,27 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 276620-277079; hash=cc40590e8823477bf871fb59fc7149b1c38c834281f37c2fc49686113a79cf98; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstancija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 474753-475252; hash=05c02c1755aa53f2deaca9b03b213f04822263d5162044e13f7c7d6240737543; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstancija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstancija" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/asmenys/Mykolas Sapienskis]] keliavo_i Konstancija

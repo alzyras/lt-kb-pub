@@ -26,6 +26,16 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaina|Vaina]]; mentioned_place: Alšėnai; mentioned_place: Luckas; mentioned_place: Medininkai; mentioned_place: Melnikas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 508361-509046; hash=2240ef1f8f1b467c5d38e0248ea28e83a9a17b76cf004abbd32ee56b2b0f9b05; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vaina: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Stanislovas Jonas Da Vaina: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vaina: mention_match, person, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanislovas Jonas Da Vaina" parinktas kaip owner_note_path. Targetas "Vaina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -50,3 +60,13 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 508361-509046; hash=2240ef1f8f1b467c5d38e0248ea28e83a9a17b76cf004abbd32ee56b2b0f9b05; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vaina: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Stanislovas Jonas Da Vaina: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vaina: mention_match, person, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanislovas Jonas Da Vaina" parinktas kaip owner_note_path. Targetas "Vaina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

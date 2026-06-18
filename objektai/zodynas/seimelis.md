@@ -31,6 +31,9 @@ amziai:
   teiginys: 'Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8f7b762b0e5104bff0a53cfe360581b41951fc6e48b4672c707483f4d57f1703; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-72755"></a>
 - t-002
@@ -38,6 +41,9 @@ amziai:
   teiginys: 'Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d2e82da6213376280e09a2d3a560a0930c5c6fedd66721a9d447a8b6b6ae5359; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-72756"></a>
 - t-003
@@ -46,6 +52,9 @@ amziai:
   sudarymo_pagrindimas: 'Pašalintas kontekstinis junginys ir sukonkretintas veiksnys.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8f7b762b0e5104bff0a53cfe360581b41951fc6e48b4672c707483f4d57f1703; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -67,6 +76,9 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8f7b762b0e5104bff0a53cfe360581b41951fc6e48b4672c707483f4d57f1703; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-003
 
 - c-002
@@ -81,4 +93,10 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8f7b762b0e5104bff0a53cfe360581b41951fc6e48b4672c707483f4d57f1703; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d2e82da6213376280e09a2d3a560a0930c5c6fedd66721a9d447a8b6b6ae5359; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

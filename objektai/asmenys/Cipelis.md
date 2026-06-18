@@ -24,6 +24,9 @@ Dusburgietis teigia, kad po to veržliai ir žiauriai užgriuvo kito vasalo, rit
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Cipelį ir jo pilį, bet pradinis teiginys turi neįvardytą veikėją.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5073e23cf6ff598c9640807ebd88b42f13e4a69ff76648bc64132329d0a72d18; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Skomantas (lietuvių vadas).md#claim-t-40424|Skomantas (lietuvių vadas)]]: Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis.
 ## Reikšmingi paminėjimai
 
@@ -44,3 +47,6 @@ Dusburgietis teigia, kad po to veržliai ir žiauriai užgriuvo kito vasalo, rit
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5073e23cf6ff598c9640807ebd88b42f13e4a69ff76648bc64132329d0a72d18; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

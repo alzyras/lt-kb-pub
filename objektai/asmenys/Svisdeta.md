@@ -35,6 +35,16 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   susije_objektai: 'mentioned_place: Skalva; mentioned_place: Skalvos žemė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 501194-501775; hash=847be5bc4e04d6d1c12f6beb0bd5079fbb4686d7f139e07fd0394badd8138dbd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skalva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Svisdeta: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Skalva: mention_match, place, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Svisdeta" parinktas kaip owner_note_path. Targetas "Skalva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184839"></a>
 - t-003
@@ -44,20 +54,30 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1269 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 208997-209342; hash=9797e7383cc1c26cfa4050f3e7a4791dc04be8696c03870b139bc1f7bab7d230; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Svisdeta: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=73
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Svisdeta" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-184129|Surbantas]]: Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.
-- susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-184835|Surbantas]]: Skalvių didikas Surbantas, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.
 - susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-60441|Surbantas]]: Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.
+- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89216|Skalviai]]: Skalvių viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su šeimomis pasitraukė pas Ordino brolius.
+- susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-184835|Surbantas]]: Skalvių didikas Surbantas, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.
 - susijęs iš [[objektai/asmenys/Surdeta.md#claim-t-184130|Surdeta]]: Surdeta buvo vienas iš Skalvos galingųjų, kurie paliko tėvonijas ir su namais bei šeimyna patraukė pas Ordino brolius.
 - susijęs iš [[objektai/asmenys/Surdeta.md#claim-t-184836|Surdeta]]: Skalvių didikas Surdeta, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.
 - susijęs iš [[objektai/asmenys/Surdeta.md#claim-t-60442|Surdeta]]: Surdeta buvo vienas iš Skalvos galingųjų, kurie paliko tėvonijas ir su namais bei šeimyna patraukė pas Ordino brolius.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183898|Skalviai]]: Ordino broliai kariavo daug karų su skalviais, o pasitraukus skalvių vadams paprasti žmonės pasidavė krikščionių tikėjimui.
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89216|Skalviai]]: Skalvių viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su šeimomis pasitraukė pas Ordino brolius.
 - susijęs iš [[objektai/paprociai/Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas.md#claim-t-62131|Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas]]: Skalvos viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.
 ## Reikšmingi paminėjimai
 
@@ -79,6 +99,16 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 501194-501775; hash=847be5bc4e04d6d1c12f6beb0bd5079fbb4686d7f139e07fd0394badd8138dbd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skalva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Svisdeta: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Skalva: mention_match, place, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Svisdeta" parinktas kaip owner_note_path. Targetas "Skalva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-002
@@ -98,4 +128,24 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 501194-501775; hash=847be5bc4e04d6d1c12f6beb0bd5079fbb4686d7f139e07fd0394badd8138dbd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skalva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Svisdeta: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Skalva: mention_match, place, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Svisdeta" parinktas kaip owner_note_path. Targetas "Skalva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 208997-209342; hash=9797e7383cc1c26cfa4050f3e7a4791dc04be8696c03870b139bc1f7bab7d230; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Svisdeta: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=73
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Svisdeta" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

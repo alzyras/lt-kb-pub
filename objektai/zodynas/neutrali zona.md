@@ -33,6 +33,9 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Citata nepagrindžia neutralios zonos nustatymo metų, todėl pašalinta nepagrįsta data.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b62307c57cb93565e656b88eb4173c6d7b0a055825b7fe0377a2da520ee67162; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -67,3 +70,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b62307c57cb93565e656b88eb4173c6d7b0a055825b7fe0377a2da520ee67162; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

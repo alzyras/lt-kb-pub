@@ -39,6 +39,9 @@ VYČIO APYGARDOS vadas Alfonsas Smetona-Žygaudas (1915-1950), buvęs policinink
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas faktinis sakinys apie Vyčio apygardos vadą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 964099-964581; hash=3d0dfd68c0ee999a92ea6eb29afc4366ab4f2cc40e8f02b0d8db50cf4e3fc4a8; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-41204"></a>
 - t-002
@@ -49,6 +52,16 @@ VYČIO APYGARDOS vadas Alfonsas Smetona-Žygaudas (1915-1950), buvęs policinink
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb9851ec3a891331aad38f66f83e787cc6d66eb3ede881ccce93b98371bf26c2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Algimanto apygarda: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vyčio apygarda: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Algimanto apygarda: mention_match, group, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vyčio apygarda" parinktas kaip owner_note_path. Targetas "Algimanto apygarda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -87,4 +100,17 @@ VYČIO APYGARDOS vadas Alfonsas Smetona-Žygaudas (1915-1950), buvęs policinink
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 964099-964581; hash=3d0dfd68c0ee999a92ea6eb29afc4366ab4f2cc40e8f02b0d8db50cf4e3fc4a8; match=exact
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb9851ec3a891331aad38f66f83e787cc6d66eb3ede881ccce93b98371bf26c2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Algimanto apygarda: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vyčio apygarda: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Algimanto apygarda: mention_match, group, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vyčio apygarda" parinktas kaip owner_note_path. Targetas "Algimanto apygarda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

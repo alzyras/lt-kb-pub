@@ -61,7 +61,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
   global_id: t-168144
   teiginys: 'Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje.'
   sudarymo_pagrindimas: 'Reikia pataisyti žodžių tvarką ir pašalinti OCR skaidymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Rusija; mentioned_place: Skandinavija; mentioned_place: Vokietija; mentioned_place: Šveicarija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Skandinavija; mentioned_place: Vokietija; mentioned_place: Šveicarija; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 - susijęs iš Voronežas: Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą.

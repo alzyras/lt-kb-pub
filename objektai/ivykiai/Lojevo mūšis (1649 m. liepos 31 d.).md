@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-49171
   teiginys: 'Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'event: [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Europa; mentioned_place: Lojevas'
+  susije_objektai: 'event: [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lojevas; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Europa'
   semantiniai_rysiai: '[[objektai/grupes/Radvilos|Radvilos]] dalyvavo mūšyje [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]'
   pagrindžia:
     - c-003
@@ -53,7 +53,7 @@ Nenurodyta
   global_id: t-49172
   teiginys: '1649 m. liepos 21 d. J. Radvila atvedė kariuomenę prie Lojevo, kur buvo numatyta pasitikti artėjančius kazokus.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_person: [[objektai/asmenys/J. Radvila|J. Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Dnepras; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Lojevas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Lojevas; mentioned_person: [[objektai/asmenys/J. Radvila|J. Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Dnepras; mentioned_place: Dniepras; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1649 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
@@ -65,7 +65,7 @@ Nenurodyta
   global_id: t-49173
   teiginys: 'Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako mūšio eigą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Braginas; mentioned_place: Dniepras; mentioned_place: Lojevas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Lojevas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Braginas; mentioned_place: Dniepras'
   pagrindžia:
     - c-002
 
@@ -74,7 +74,7 @@ Nenurodyta
   global_id: t-49174
   teiginys: 'Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė, o žinia apie ją pasklido visoje Europoje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie mūšio padarinius.'
-  susije_objektai: 'event: [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Europa; mentioned_place: Lojevas'
+  susije_objektai: 'event: [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Europa; mentioned_place: Lojevas; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]'
   semantiniai_rysiai: '[[objektai/grupes/Radvilos|Radvilos]] dalyvavo mūšyje [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]'
   pagrindžia:
     - c-003

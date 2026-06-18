@@ -24,11 +24,22 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   global_id: t-179683
   teiginys: 'Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Smolenskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Mstislavlis; mentioned_place: Polockas; mentioned_place: Smolenskas'
+  susije_objektai: 'territory: Smolenskas; mentioned_place: Mstislavlis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Polockas; mentioned_place: Smolenskas'
   semantiniai_rysiai: '[[objektai/asmenys/Sviatoslavas|Sviatoslavas]] buvo valdovas Smolenskas'
   pagrindžia:
     - c-002
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f241e6a1d2fb47569b25ba711a1f08bdd51f883d115f428fef2adfe5d66cc209; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Smolenskas: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Sviatoslavas: owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Smolenskas: exact_title_context, place, gap=10
+  ryšio_slopinti_kandidatai: Mstislavlis: candidate; Polockas: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Sviatoslavas" parinktas kaip owner_after_title. Targetas "Smolenskas" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 34, "match_index": 76, "path": "objektai/vietos/Mstislavlis.md", "selected": false, "strategy": "candidate", "title": "Mstislavlis", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Polockas.md", "selected": false, "strategy": "candidate", "title": "Polockas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 <a id="claim-t-179685"></a>
 - t-002
@@ -37,6 +48,16 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   susije_objektai: 'mentioned_place: Mstislavlis; mentioned_place: Vechra'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 789577-789832; hash=13e3c2800241dbfde22d1ab66dfaa4da4fa2e19ec6503fc9aba082582514517a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mstislavlis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sviatoslavas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mstislavlis: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sviatoslavas" parinktas kaip owner_note_path. Targetas "Mstislavlis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184838"></a>
 - t-003
@@ -49,6 +70,19 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 496886-497270; hash=ab03f9be3a06208c9919ed4ae5774c46531cb7d7341e7420b40802a9a4440d96; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sviatoslavas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sviatoslavas" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Jurgis (Sviatoslavo sūnus).md#claim-t-30317|Jurgis (Sviatoslavo sūnus)]]: Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.
+- susijęs iš [[objektai/asmenys/Jurijus.md#claim-t-186226|Jurijus]]: Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų rankas, o vėliau prisiekęs atgavo tėvoniją.
+- susijęs iš [[objektai/ivykiai/Smolensko sukilimas po Vorsklos mūšio.md#claim-t-34496|Smolensko sukilimas po Vorsklos mūšio (mūšis)]]: Po Vytauto pralaimėjimo prie Vorsklos sukilo Smolenskas, o Sviatoslavo sūnus Jurgis sumanė jį užvaldyti.
 - susijęs iš [[objektai/asmenys/Andrius Polockietis.md#claim-t-30207|Andrius Polockietis]]: Skirgaila, sėkmingai apgulęs Polocką, paėmė Andrių Polockietį į nelaisvę ir išsiuntė į Lenkiją.
 - susijęs iš [[objektai/asmenys/Jurgis (Sviatoslavo sūnus).md#claim-t-30317|Jurgis (Sviatoslavo sūnus)]]: Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.
 - susijęs iš [[objektai/asmenys/Jurijus.md#claim-t-186226|Jurijus]]: Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų rankas, o vėliau prisiekęs atgavo tėvoniją.
@@ -56,7 +90,6 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172936|M. Strijkovskis Stryjkowski]]: Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors šis tapatinimas laikomas klaidingu.
 - susijęs iš [[objektai/grupes/Lietuviškoji partija.md#claim-t-95931|Lietuviškoji partija]]: Smolenske buvo išžudytas Vytauto vietininkas ir lietuviškąją partiją palaikę bajorai.
 - susijęs iš [[objektai/grupes/Rusiškoji bajorų partija.md#claim-t-95932|Rusiškoji bajorų partija]]: Sviatoslavo sūnui Jurgiui užimti Smolenską padėjo Riazaniaus kunigaikštis Olegas ir rusiškoji bajorų partija.
-- susijęs iš [[objektai/ivykiai/Smolensko sukilimas po Vorsklos mūšio.md#claim-t-34496|Smolensko sukilimas po Vorsklos mūšio (mūšis)]]: Po Vytauto pralaimėjimo prie Vorsklos sukilo Smolenskas, o Sviatoslavo sūnus Jurgis sumanė jį užvaldyti.
 - susijęs iš [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį).md#claim-t-31475|Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]: 1396 m. rudenį Vytautas, pasisiūlęs tarpininkauti, užėmė Smolenską ir Smolensko leną Viazmą.
 - susijęs iš [[objektai/paprociai/Ištikimybės priesaikos Jogailai.md#claim-t-176231|Ištikimybės priesaikos Jogailai]]: Tuo metu Jogailai ir Karūnai buvo duotos trys ištikimybės priesaikos.
 - susijęs iš M. Strijkovskio kronika: Karaliaučiaus leidimo Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors Balińskis tai vadino tiesai prieštaraujančia klaida.
@@ -91,6 +124,16 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 789577-789832; hash=13e3c2800241dbfde22d1ab66dfaa4da4fa2e19ec6503fc9aba082582514517a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mstislavlis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sviatoslavas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mstislavlis: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sviatoslavas" parinktas kaip owner_note_path. Targetas "Mstislavlis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -105,6 +148,17 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f241e6a1d2fb47569b25ba711a1f08bdd51f883d115f428fef2adfe5d66cc209; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Smolenskas: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Sviatoslavas: owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Smolenskas: exact_title_context, place, gap=10
+  ryšio_slopinti_kandidatai: Mstislavlis: candidate; Polockas: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Sviatoslavas" parinktas kaip owner_after_title. Targetas "Smolenskas" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 34, "match_index": 76, "path": "objektai/vietos/Mstislavlis.md", "selected": false, "strategy": "candidate", "title": "Mstislavlis", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Polockas.md", "selected": false, "strategy": "candidate", "title": "Polockas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
     - t-001
 
 - c-004
@@ -123,7 +177,30 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f241e6a1d2fb47569b25ba711a1f08bdd51f883d115f428fef2adfe5d66cc209; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Smolenskas: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Sviatoslavas: owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Smolenskas: exact_title_context, place, gap=10
+  ryšio_slopinti_kandidatai: Mstislavlis: candidate; Polockas: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Sviatoslavas" parinktas kaip owner_after_title. Targetas "Smolenskas" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 34, "match_index": 76, "path": "objektai/vietos/Mstislavlis.md", "selected": false, "strategy": "candidate", "title": "Mstislavlis", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Polockas.md", "selected": false, "strategy": "candidate", "title": "Polockas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 496886-497270; hash=ab03f9be3a06208c9919ed4ae5774c46531cb7d7341e7420b40802a9a4440d96; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sviatoslavas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sviatoslavas" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Sviatoslavas buvo_valdovas [[objektai/vietos/Smolenskas]]
+- [[objektai/asmenys/Jurgis (Sviatoslavo sūnus)]] buvo_sunus Sviatoslavas
+- [[objektai/asmenys/Jurijus]] buvo_sunus Sviatoslavas

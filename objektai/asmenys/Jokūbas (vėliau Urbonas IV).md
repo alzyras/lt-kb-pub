@@ -39,14 +39,26 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo priklausomas nuo konteksto; citata leidžia aiškiai įvardyti Jokūbo vaidmenį.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63417|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1308 m. Albrechtą nužudė jo vaikaitis Jonas, vadinamas Anlantu.
-- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63421|Albrechtas (Romos karalius)]]: 1308 m. gegužės 1 d. Romos karalių Albrechtą nužudė kunigaikštis Jonas Anlantas, iš kurio buvo atimta Austrijos kunigaikštystė.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 337622-338668; hash=a6c4f6cd863c3d0e91a597e48474ff4d548b5b61add2b963c769515988e049a9; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Barta: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jokūbas (vėliau Urbonas IV): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Barta: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jokūbas (vėliau Urbonas IV)" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Jokūbas iš Kobylanų.md#claim-t-39748|Jokūbas iš Kobylanų]]: Jokūbas iš Kobylanų vadovavo apie 4000 karių lenkų daliniui, Vladislovo Jogailaičio atsiųstam į pagalbą Žygimantui Kęstutaičiui.
-- susijęs iš [[objektai/asmenys/Jonas (vadinamas Anlantu).md#claim-t-60344|Jonas (vadinamas Anlantu)]]: 1308 m. gegužės 1 d. kunigaikštis Jonas, vadinamas Anlantu, nužudė savo senelį Romos karalių Albrechtą.
-- susijęs iš [[objektai/asmenys/Konradas Štangė.md#claim-t-60159|Konradas Štangė]]: Konradas Štangė, Ragainės komtūras, apie liepos 25 d. patraukė link Junigedos pilies ir pasiuntė žvalgą sužinoti padėties pilyje.
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59872|Meinhardas Saksas iš Kverfurto]]: Meinhardas Saksas iš Kverfurto švento Jokūbo dieną su raiteliais užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius.
 - susijęs iš [[objektai/grupes/Karalaičio Jokūbo partija.md#claim-t-01344|Karalaičio Jokūbo partija]]: Dauguma Karalaičio Jokūbo partijos šalininkų perėjo į Augusto pusę.
 - susijęs iš [[objektai/grupes/Prancūziškoji partija.md#claim-t-66038|Prancūziškoji partija]]: Prancūzų partija atrodė stipriausia po to, kai Jokūbą silpnino nepopuliarumas ir šeimos kivirčai.
+- susijęs iš Karaliaus Aleksandro testamentas (1506 m.): Aleksandro testamentas buvo duotas Lydos pilyje 1506 m. Šv. Jokūbo apaštalo šventės išvakarėse.
+- susijęs iš Vilnius: Didysis magistras, siekdamas atimti Vilnių iš Vytauto, vasarą per Šv. Jokūbą vėl išsiruošė anapus Nemuno.
+- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63417|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1308 m. Albrechtą nužudė jo vaikaitis Jonas, vadinamas Anlantu.
+- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63421|Albrechtas (Romos karalius)]]: 1308 m. gegužės 1 d. Romos karalių Albrechtą nužudė kunigaikštis Jonas Anlantas, iš kurio buvo atimta Austrijos kunigaikštystė.
+- susijęs iš [[objektai/asmenys/Jonas (vadinamas Anlantu).md#claim-t-60344|Jonas (vadinamas Anlantu)]]: 1308 m. gegužės 1 d. kunigaikštis Jonas, vadinamas Anlantu, nužudė savo senelį Romos karalių Albrechtą.
+- susijęs iš [[objektai/asmenys/Konradas Štangė.md#claim-t-60159|Konradas Štangė]]: Konradas Štangė, Ragainės komtūras, apie liepos 25 d. patraukė link Junigedos pilies ir pasiuntė žvalgą sužinoti padėties pilyje.
 - susijęs iš [[objektai/grupes/Vokietijos maldininkai.md#claim-t-59008|Vokietijos maldininkai]]: 1307 m. į Prūsijos žemę atvykę Vokietijos maldininkai žiemą telkė kariuomenę žygiui prieš lietuvius, bet žygio nepradėjo dėl plono ledo.
 - susijęs iš [[objektai/ivykiai/Albrechto nužudymas (1308 m. gegužės 1 d.).md#claim-t-62740|Albrechto nužudymas (1308 m. gegužės 1 d.)]]: 1308 m. gegužės 1 d. kunigaikštis Jonas Anlantas nužudė Romos karalių Albrechtą, kuris iš jo buvo atėmęs Austrijos kunigaikštystę.
 - susijęs iš [[objektai/ivykiai/Junigedos ir Pieštvės pilių papilių sudeginimas (1293 m. liepos 25 d.).md#claim-t-59528|Junigedos ir Pieštvės pilių papilių sudeginimas (1293 m. liepos 25 d.)]]: 1293 m. liepos 25 d. magistras Meinhardas užpuolė Junigedą ir Pieštvę, o jo pajėgos iki pamatų sudegino abiejų pilių papilius.
@@ -54,12 +66,10 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
 - susijęs iš [[objektai/ivykiai/Junigėdos, Peštvės ir Pograudos kampanija (1293 m.).md#claim-t-70941|Junigėdos, Peštvės ir Pograudos kampanija (1293 m.)]]: Magistras Meinhardas liepos 25 d. užpuolė Junigėdą ir Pieštvę, o nepajėgęs daugiau padaryti sudegino abiejų pilių papilius.
 - susijęs iš [[objektai/ivykiai/Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.).md#claim-t-66632|Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)]]: Apie 1292 m. liepos 25 d. Ragainės komtūras Konradas Štangė su broliais ir ginklanešiais patraukė link Junigedos pilies.
 - susijęs iš [[objektai/ivykiai/Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė.md#claim-t-185516|Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė]]: 1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės.
-- susijęs iš Karaliaus Aleksandro testamentas (1506 m.): Aleksandro testamentas buvo duotas Lydos pilyje 1506 m. Šv. Jokūbo apaštalo šventės išvakarėse.
 - susijęs iš Junigeda: Per šv. Jokūbo dieną magistras Meinhardas užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius.
 - susijęs iš Nemunas: Didysis magistras per Šv. Jokūbą persikėlė anapus Nemuno ir ėmė statydinti bei stiprinti Rittersverderio pilį.
 - susijęs iš Pieštvė: Švento Jokūbo apaštalo dieną Meinhardas užpuolė Junigedą ir Pieštvę ir iki pamatų sudegino abiejų pilių papilius.
 - susijęs iš Rittersverderio pilis: Didysis magistras vasarą per Šv. Jokūbą išsiruošė anapus Nemuno ir pradėjo statydinti bei stiprinti Rittersverderio pilį.
-- susijęs iš Vilnius: Didysis magistras, siekdamas atimti Vilnių iš Vytauto, vasarą per Šv. Jokūbą vėl išsiruošė anapus Nemuno.
 - susijęs iš Vitebskas: Švitrigailą rėmusiose pajėgose buvo rytinių LDK slaviškų žemių, įskaitant Vitebską, kariai.
 - susijęs iš Žirnajos upelis: Priešingos kariuomenės viena kitą pastebėjo šiauriau Žirnajų ežero, ties vieta, kur išteka Žirnajos upelis.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58775|papilys]]: Konrado Štangės žvalgas prie Junigedos pilies pranešė, kad lauke, pilyje ir papilyje pilna karių.
@@ -91,3 +101,13 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 337622-338668; hash=a6c4f6cd863c3d0e91a597e48474ff4d548b5b61add2b963c769515988e049a9; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Barta: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jokūbas (vėliau Urbonas IV): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Barta: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jokūbas (vėliau Urbonas IV)" parinktas kaip owner_note_path. Targetas "Barta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -36,14 +36,24 @@ Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metai
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi antraštės ir bibliografinio triukšmo, bet citata palaiko aiškų faktą.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Aleksandras (didysis kunigaikštis).md#claim-t-75650|Aleksandras (didysis kunigaikštis)]]: XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e85ae99953b0c3cf5cc9805f166eddec1d653c0b01a6ccb11bffaabc256fa6c2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Romos karalius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Milanas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Romos karalius: mention_match, thing, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Milanas" parinktas kaip owner_note_path. Targetas "Romos karalius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Henrikas VII.md#claim-t-59978|Henrikas VII]]: 1311 m. sausio 6 d. Henrikas VII prie Milano buvo vainikuotas geležiniu vainiku.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173333|Žygimantas Senasis]]: Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.
+- susijęs iš [[objektai/ivykiai/Henriko vainikavimas prie Milano geležiniu vainiku (1311 m. sausio 6 d.).md#claim-t-62289|Henriko vainikavimas prie Milano geležiniu vainiku (1311 m. sausio 6 d.)]]: 1311 m. sausio 6 d. Henrikas, Romos karalius, prie Milano buvo vainikuotas geležiniu vainiku.
+- susijęs iš [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos.md#claim-t-20595|Žygimanto Senojo ir Bonos Sforcos vedybos]]: Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.
+- susijęs iš [[objektai/asmenys/Aleksandras (didysis kunigaikštis).md#claim-t-75650|Aleksandras (didysis kunigaikštis)]]: XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių.
 - susijęs iš [[objektai/autoriai/Machiavellio.md#claim-t-01108|Machiavellio]]: Machiavellio mokslu vadintas įsitikinimas, kad valdovas turi siekti valdžios nesiskaitydamas su priemonėmis.
 - susijęs iš [[objektai/daiktai/Geležinis vainikas.md#claim-t-59684|Geležinis vainikas]]: 1311 m. sausio 6 d. prie Milano Romos karalius Henrikas buvo vainikuotas geležiniu vainiku.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184509|Kryžiuočių ordinas]]: Jogaila ir Vytautas, įsiveržę į Prūsiją su lenkų ir lietuvių kariuomenėmis, siekė pergalingai užbaigti ilgą karą su kryžiuočiais.
-- susijęs iš [[objektai/ivykiai/Henriko vainikavimas prie Milano geležiniu vainiku (1311 m. sausio 6 d.).md#claim-t-62289|Henriko vainikavimas prie Milano geležiniu vainiku (1311 m. sausio 6 d.)]]: 1311 m. sausio 6 d. Henrikas, Romos karalius, prie Milano buvo vainikuotas geležiniu vainiku.
-- susijęs iš [[objektai/ivykiai/Žygimanto Senojo ir Bonos Sforcos vedybos.md#claim-t-20595|Žygimanto Senojo ir Bonos Sforcos vedybos]]: Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.
 - susijęs iš [[objektai/paprociai/Itališkos mados perėmimas Lietuvos diduomenėje.md#claim-t-77946|Itališkos mados perėmimas Lietuvos diduomenėje]]: Bona Sforca į Lenkiją ir Lietuvą atsivežė italų menininkų, o Lietuvos diduomenė pamažu perėmė itališką madą.
 - susijęs iš Badania archeologiczne na Litwie w latach 1955-1961: P. Kulikausko „Badania archeologiczne na Litwie w latach 1955-1961“ buvo paskelbta ABaSl II tome 1965 m., p. 203-259.
 - susijęs iš Dvejų metų paliaubų sutartis su kryžiuočiais: Jogaila ir Vytautas, arkivyskupo Baltramiejaus Kapros skatinami, antrą kartą sutiko sudaryti dvejų metų paliaubas su kryžiuočiais.
@@ -71,3 +81,13 @@ Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metai
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e85ae99953b0c3cf5cc9805f166eddec1d653c0b01a6ccb11bffaabc256fa6c2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Romos karalius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Milanas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Romos karalius: mention_match, thing, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Milanas" parinktas kaip owner_note_path. Targetas "Romos karalius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

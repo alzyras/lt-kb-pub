@@ -22,9 +22,19 @@ Petras Semaška buvo tarp didikų, kurie karaliaus paliepimu atlydėjo maskvėn�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs vardas ir OCR klaidos, paliktas citatos remiamas vaidmuo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Teodoras Vodka|Teodoras Vodka]]; mentioned_place: Liublinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Liublinas; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Teodoras Vodka|Teodoras Vodka]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1232341-1232796; hash=ebd38d63b480c707750f7401029f97d0383ca65d3024f979084216012f764a8b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Liublinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Petras Semaška: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Liublinas: mention_match, place, gap=86
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Semaška" parinktas kaip owner_note_path. Targetas "Liublinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +56,13 @@ Petras Semaška buvo tarp didikų, kurie karaliaus paliepimu atlydėjo maskvėn�
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1232341-1232796; hash=ebd38d63b480c707750f7401029f97d0383ca65d3024f979084216012f764a8b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Liublinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Petras Semaška: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Liublinas: mention_match, place, gap=86
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras Semaška" parinktas kaip owner_note_path. Targetas "Liublinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

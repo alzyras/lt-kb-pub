@@ -24,6 +24,9 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
   sudarymo_pagrindimas: 'Supaprastinta paini sakinio sandara ir paliktas citatos remiamas faktas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 541249-541680; hash=a564a9f3ea55eb9770122f4af1d9135f9d549c9109b47e6163b7bdaab2138e86; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-182976"></a>
 - t-002
@@ -35,6 +38,9 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
   sudarymo_pagrindimas: 'Pradinis sakinys buvo per ilgas ir turėjo neaiškią įvardžio nuorodą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 541249-541680; hash=a564a9f3ea55eb9770122f4af1d9135f9d549c9109b47e6163b7bdaab2138e86; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -57,4 +63,10 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 541249-541680; hash=a564a9f3ea55eb9770122f4af1d9135f9d549c9109b47e6163b7bdaab2138e86; match=exact
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 541249-541680; hash=a564a9f3ea55eb9770122f4af1d9135f9d549c9109b47e6163b7bdaab2138e86; match=exact
+  sprendimo_priezastis: auto

@@ -68,6 +68,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 211031-211430; hash=6081c82babb59ce20be8bd74375d1f59a4ca4863915a6b4babf993e7bb8698ad; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šarvai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarvai" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-176222"></a>
 - t-004
@@ -76,20 +86,30 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 211431-211718; hash=4be875f0f08f5558cdc79872d567935d80c2e8c7b463205599fad544d598ee02; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lankai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šarvai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lankai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarvai" parinktas kaip owner_note_path. Targetas "Lankai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Gerhardas, pravarde Rudė.md#claim-t-60288|Gerhardas, pravarde Rudė]]: Lietuviai paaukojo dievams Sembos fogtą Gerhardą Rudę, sudegindami jį su šarvais ant jo kovos žirgo.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184264|Jogaila (kunigaikštis, XIV–XV a.)]]: Pasimeldęs Jogaila Vytauto ir lenkų riterių raginimu užsidėjo šarvus ir nuvyko prie kariuomenės.
 - susijęs iš [[objektai/asmenys/Kunzas Lochneris.md#claim-t-80737|Kunzas Lochneris]]: Kunzas Lochneris XVI a. 6 dešimtmetyje Niurnberge pagamino Žygimanto Augusto paradinius šarvus.
-- susijęs iš [[objektai/asmenys/Mergelė Marija.md#claim-t-59892|Mergelė Marija]]: Dusburgiečio pasakojime Mergelė Marija vienu rankos prisilietimu pagydė sužalotą brolį.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113879|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka; jo šarvų viršutinė dalis apie 1555 m. pagaminta Niurnberge.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113885|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113886|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka.
 - susijęs iš [[objektai/asmenys/Petras (Hermano iš Lichtenburgo nuodėmklausys).md#claim-t-60407|Petras (Hermano iš Lichtenburgo nuodėmklausys)]]: Kunigas ir nuodėmklausys Petras subarė brolį dėl grandininių šarvų, bet šis atsisakė juos nusivilkti, kol gyvas.
 - susijęs iš [[objektai/daiktai/Karacenos šarvų komplektas.md#claim-t-40724|Karacenos šarvų komplektas]]: Karacenos šarvų komplektas priskiriamas Abiejų Tautų Respublikai ir datuojamas XVIII a.
 - susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-10151|Karinė ginkluotė]]: XIII-XIV a. Lietuvos raitininko karinė ginkluotė galėjo apimti Desiukiškių tipo kalaviją, žieduočio šarvus ir krūtinšarvį.
-- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-10152|Karinė ginkluotė]]: Ginklai ir ypač šarvai buvo branginami, sugadinti perkalami, o didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas.
 - susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-10153|Karinė ginkluotė]]: XIV a. Europos karinėje ginkluotėje plito lakštiniai šarvai, tačiau dėl brangumo plačiai naudoti ir žieduočio šarvai.
-- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-78663|Karinė ginkluotė]]: Didesnė Lietuvos karinės ginkluotės dalis galėjo būti saugoma valstybės, išduodama kariams prieš operacijas ir po jų grąžinama.
 - susijęs iš [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai.md#claim-t-40733|Kristupo Mikalojaus Radvilos Perkūno šarvai]]: Kristupo Mikalojaus Radvilos Perkūno šarvai datuojami XVI-XVII a.
+- susijęs iš [[objektai/asmenys/Mergelė Marija.md#claim-t-59892|Mergelė Marija]]: Dusburgiečio pasakojime Mergelė Marija vienu rankos prisilietimu pagydė sužalotą brolį.
+- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113885|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka.
+- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113886|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka.
+- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-10152|Karinė ginkluotė]]: Ginklai ir ypač šarvai buvo branginami, sugadinti perkalami, o didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas.
+- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-78663|Karinė ginkluotė]]: Didesnė Lietuvos karinės ginkluotės dalis galėjo būti saugoma valstybės, išduodama kariams prieš operacijas ir po jų grąžinama.
 - susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71802|Husarų vėliavų „draugų“ ir palydos sistema]]: Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.
 - susijęs iš [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas.md#claim-t-09538|Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]: Didesnė ginkluotės dalis galėjo būti valstybės saugoma, prieš operacijas išduodama kariams, o po jų grąžinama.
 - susijęs iš [[objektai/paprociai/Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas.md#claim-t-09539|Valstybinės ginkluotės sandėliavimas, išdavimas kariams prieš operacijas ir grąžinimas]]: Po operacijų išduota ginkluotė turėjo būti grąžinama.
@@ -147,6 +167,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 211431-211718; hash=4be875f0f08f5558cdc79872d567935d80c2e8c7b463205599fad544d598ee02; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lankai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šarvai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lankai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarvai" parinktas kaip owner_note_path. Targetas "Lankai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-004
@@ -164,3 +194,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 211031-211430; hash=6081c82babb59ce20be8bd74375d1f59a4ca4863915a6b4babf993e7bb8698ad; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šarvai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarvai" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

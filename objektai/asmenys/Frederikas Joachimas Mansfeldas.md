@@ -33,16 +33,36 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
   susije_objektai: 'mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_place: Dambrava'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 434292-434383; hash=740a698b76da05769771af760b0f423cc93682ddca66d4c931aa9f2ab3a97917; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dambrava: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Frederikas Joachimas Mansfeldas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dambrava: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Frederikas Joachimas Mansfeldas" parinktas kaip owner_note_path. Targetas "Dambrava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-40108"></a>
 - t-002
   global_id: t-40108
   teiginys: '1608 m. vasarą Frederikas Joachimas Mansfeldas vadovavo 8000 Švedijos karių ekspediciniam korpusui Livonijoje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Daugavgryva; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Švedija; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Daugavgryva; mentioned_place: Lenkija; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1608 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7b8a164d5b517d5f3696a26dc5b0eb965afc46132055d620acc1900103c4846a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Frederikas Joachimas Mansfeldas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Frederikas Joachimas Mansfeldas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -77,4 +97,24 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 434292-434383; hash=740a698b76da05769771af760b0f423cc93682ddca66d4c931aa9f2ab3a97917; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dambrava: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Frederikas Joachimas Mansfeldas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dambrava: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Frederikas Joachimas Mansfeldas" parinktas kaip owner_note_path. Targetas "Dambrava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7b8a164d5b517d5f3696a26dc5b0eb965afc46132055d620acc1900103c4846a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Frederikas Joachimas Mansfeldas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Frederikas Joachimas Mansfeldas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

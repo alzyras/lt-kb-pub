@@ -32,15 +32,35 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 224171-224626; hash=056a1a2f7ac3ddd29ae26f2555a7aace5c4839f0a79f236129557c5e26697ebb; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Veliuona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Veliuona: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bona" parinktas kaip owner_note_path. Targetas "Veliuona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87468"></a>
 - t-002
   global_id: t-87468
   teiginys: 'Karalienė Bona ir Vladislovas IV gausiai apdovanojo Veliuonos bažnyčią turtais, todėl jos klebonija tapo reikšmingiausia Žemaitijoje.'
   sudarymo_pagrindimas: 'Pradiniame sakinyje buvo neaiškus įvardis; objektas išplėstas pagal citatos kontekstą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_person: [[objektai/asmenys/Vladislovas IV|Vladislovas IV]]; mentioned_place: Veliuona; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_person: [[objektai/asmenys/Vladislovas IV|Vladislovas IV]]; mentioned_place: Veliuona; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5a1522f9861291f16ea83212b5584815aa202d08778955c43c3c25185c2d7aff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Altorius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Altorius: mention_match, thing, gap=70
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bona" parinktas kaip owner_note_path. Targetas "Altorius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87469"></a>
 - t-003
@@ -50,6 +70,16 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 513459-513760; hash=1e26bec536bed3a6cb2fbe4213b50acd42f53cc2b8997de8a0047800f5aa28ab; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žygimantas Senasis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Žygimantas Senasis: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bona" parinktas kaip owner_note_path. Targetas "Žygimantas Senasis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-87470"></a>
 - t-004
@@ -62,8 +92,20 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   temporalinis_llm_pakomentavimas: 'Citata palaiko Bonos pritarimą, o įvardis turi būti išskleistas į asmens vardą.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82176|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 517893-518327; hash=71b0b486ffccd523baf026929b70eff8e56590674c601b684804a878d85bf8d7; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bona" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Bona Sforca.md#claim-t-173124|Bona Sforca]]: Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus.
+- susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
+- susijęs iš Vilniaus katedra: Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą.
+- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82176|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54962|Elena (vyskupas, XV–XVI a.)]]: 1503 m. Aleksandras dovanojo Elenai Mogiliavo pilį jos gyvenimo laikui.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-82284|Elena (vyskupas, XV–XVI a.)]]: Aleksandras dovanojo Elenai Mogiliavo pilį prie Dniepro ir jai priklausančias valdas tik Elenos gyvenimo laikui.
 - susijęs iš [[objektai/asmenys/Vladislovas IV.md#claim-t-87592|Vladislovas IV]]: Karalienė Bona ir Vladislovas IV Veliuonos kleboniją taip gausiai apdovanojo turtais, kad ji tapo reikšmingiausia Žemaitijoje.
@@ -72,14 +114,12 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 - susijęs iš [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves.md#claim-t-87168|Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]: Vytautas prie Vilniaus apgyvendino iš Azovo atsivežtus totorius, paliko jiems senąjį tikėjimą ir suteikė žemės valdų bei laisvių.
 - susijęs iš [[objektai/posakiai/Iki gyvos galvos.md#claim-t-86851|Iki gyvos galvos]]: Vilniaus vyskupui Andriui iki gyvos galvos buvo paskirta šimtas grivinų iš iždo ir kasmetinė medaus duoklė iš Vilniaus pilies.
 - susijęs iš Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.): Aleksandras Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jai priklausančiomis žemėmis ir valdomis.
-- susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
 - susijęs iš Vytauto dovanojimo aktas Trakų miestui (1384 m.): 1384 m. rugpjūčio 23 d. Vytauto dovanojimo aktas Trakų miestui liudija, kad tuo metu Vytautas jau buvo krikščionis.
 - susijęs iš Merkys: Prie Merkio, ant nedidelės aukštumėlės, stovėjo du mažesni, veikiausiai dviejų aukštų namai.
 - susijęs iš Prutas: Prie Pruto upės buvę kaimai buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.
 - susijęs iš Prutas: Kaimai greta Pruto upės buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.
 - susijęs iš Teterinas: Teterino dvarui buvo grąžinti ir užrašyti prie Pruto upės buvę kaimai, atimti iš Seislavo kunigaikštienės.
 - susijęs iš Veliuona: Senoji Veliuonos piliavietė apėmė du kalnus prie Nemuno, sujungtus tiltu per gilią griovą.
-- susijęs iš Vilniaus katedra: Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą.
 - susijęs iš Žemaitija: Vytautui priskiriama bažnyčios fundacija buvo laikoma viena pirmųjų bažnyčių Žemaitijoje po krikščionybės įvedimo.
 - susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86417|fundacija]]: Vytautui priskirta viena pirmųjų po krikščionybės įvedimo Žemaitijos bažnyčių fundacijų.
 - susijęs iš [[objektai/zodynas/inkorporuoti.md#claim-t-86581|inkorporuoti]]: Kaimai prie Teterino dvaro, išsidėstę greta Pruto upės, šiuo raštu inkorporuoti, grąžinti ir užrašyti Teterino dvarui.
@@ -131,6 +171,16 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 513459-513760; hash=1e26bec536bed3a6cb2fbe4213b50acd42f53cc2b8997de8a0047800f5aa28ab; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žygimantas Senasis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Žygimantas Senasis: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bona" parinktas kaip owner_note_path. Targetas "Žygimantas Senasis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
 
 - c-003
@@ -150,6 +200,16 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 517893-518327; hash=71b0b486ffccd523baf026929b70eff8e56590674c601b684804a878d85bf8d7; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bona" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-004
@@ -166,4 +226,24 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5a1522f9861291f16ea83212b5584815aa202d08778955c43c3c25185c2d7aff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Altorius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Altorius: mention_match, thing, gap=70
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bona" parinktas kaip owner_note_path. Targetas "Altorius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 224171-224626; hash=056a1a2f7ac3ddd29ae26f2555a7aace5c4839f0a79f236129557c5e26697ebb; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Veliuona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bona: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Veliuona: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bona" parinktas kaip owner_note_path. Targetas "Veliuona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

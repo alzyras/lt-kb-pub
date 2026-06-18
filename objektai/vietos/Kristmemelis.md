@@ -40,6 +40,16 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata apie Kristmemelio apgultį.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=107d21ed0fe6ac736dcf3b903cf9d8b9c7f82064aecac679177502e909061c12; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristmemelis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristmemelis" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58314"></a>
 - t-002
@@ -49,15 +59,35 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Marienverderis; mentioned_place: Prūsai'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5f0fc87b78f4972507f7f63329a3991ff3ec7d7ccad21072332bef373430a953; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dusburgas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristmemelis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dusburgas: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristmemelis" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58315"></a>
 - t-003
   global_id: t-58315
   teiginys: 'Kristmemelio pilis greičiausiai stovėjo Maštaičių arba Norkūnų piliakalnyje kairiajame Nemuno krante žemiau dabartinio Gelgaudiškio.'
   sudarymo_pagrindimas: 'Citata palaiko vietos lokalizaciją; pašalintos variantų ir puslapių nuotrupos.'
-  susije_objektai: 'mentioned_place: Bisenė; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Bisenė'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 644526-645085; hash=46adc5ede1a2c0b69f980325bfe2fee447e792c2c7d8849e2148f6efb03ce131; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristmemelis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=87
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristmemelis" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58316"></a>
 - t-004
@@ -70,36 +100,46 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=45eae6cc1671fe8d27c7e7f205ee86cff6b8e17f4878ecf1f8a08f3d84e692b7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristmemelis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristmemelis" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58317"></a>
 - t-005
   global_id: t-58317
   teiginys: 'Petras Dusburgietis pažymėjo, kad 1328 m. vasarą kryžiuočiai apleido Kristmemelio pilį prie žemutinio Nemuno.'
   sudarymo_pagrindimas: 'Teiginys yra apie autoriaus pateikimą, todėl šaltinio atribucija tinkama.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_place: Nemunas; mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   temporaliniai_duomenys: 'įvykio data: 1328 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra apie autoriaus pateikimą, todėl šaltinio atribucija tinkama.'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59954|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: 1316 m. Fridrichas iš Libencelės, Kristmemelio vicekomtūras, su 20 brolių ir 60 vyrų išžudė Bisenės pilies sargybą keitusius lietuvius.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-10678|Gediminas]]: Gedimino laikais Vilnius tapo nuolatine Lietuvos sostine.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176335|Gediminas]]: 1324 m. Gedimino Lietuva surengė atsakomuosius smūgius prieš Kristmemelio pilį, Rezeknės apylinkes Livonijoje ir Mazoviją.
-- susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-184097|Karolis (didysis magistras)]]: Kristmemelio pilis buvo pastatyta magistro Karolio.
-- susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89880|Karolis (didysis magistras)]]: Kristmemelio pilis buvo pastatyta magistro Karolio.
-- susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89881|Karolis (didysis magistras)]]: 1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti.
-- susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89882|Karolis (didysis magistras)]]: 1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176814|Vytenis]]: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176822|Vytenis]]: Dusburgietis pasakoja, kad Vytenis sutelkė savo karalystės vyrus ir 17 dienų puolė Kristmemelio pilį su apgulos mašinomis.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176829|Vytenis]]: 1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
-- susijęs iš [[objektai/ivykiai/Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime.md#claim-t-62788|Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime (krikštas)]]: Dusburgiečio pasakojimas apie Gedimino krikštą faktus pateikia Ordino interesų dvasia ir skiriasi nuo to meto dokumentų.
-- susijęs iš [[objektai/ivykiai/Junigedos papilio sudeginimas (1315 m. spalio 12 d.).md#claim-t-62300|Junigedos papilio sudeginimas (1315 m. spalio 12 d.)]]: 1315 m. spalio 12 d. Karolis su 6000 vyrų naktį puolė Junigedos papilį, paėmė 78 žmones į nelaisvę ir sudegino papilį iki pamatų.
 - susijęs iš [[objektai/ivykiai/Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.).md#claim-t-62837|Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.)]]: 1315 m. rugsėjį Vytenis su karo vyrais apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais.
 - susijęs iš [[objektai/ivykiai/Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.).md#claim-t-62838|Kristmemelio pilies apgultis (1315 m. rugsėjo 30—spalio 11 d.)]]: Septynioliktą apgulties dieną lietuviai bandė sudeginti Kristmemelio pilį, bet nepasiekę tikslo pasitraukė.
 - susijęs iš [[objektai/ivykiai/Kristmemelio pilies sunaikinimas ir kryžiuočių pasitraukimas (1328 m. vasara).md#claim-t-62839|Kristmemelio pilies sunaikinimas ir kryžiuočių pasitraukimas (1328 m. vasara)]]: 1328 m. vasarą kryžiuočiai apleido Kristmemelio pilį prie žemutinio Nemuno, o lietuviai ją sunaikino.
 - susijęs iš [[objektai/ivykiai/Lietuvos atsakomųjų smūgių kampanija prieš Ordiną ir jo sąjungininkus (1324 m.).md#claim-t-62857|Lietuvos atsakomųjų smūgių kampanija prieš Ordiną ir jo sąjungininkus (1324 m.)]]: 1324 m. Gedimino Lietuva puolė Kristmemelio pilį, niokojo Rezeknės apylinkes Livonijoje ir smogė Ordino sąjungininkei Mazovijai.
-- susijęs iš [[objektai/ivykiai/lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.).md#claim-t-59476|lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.)]]: Fridrichas iš Libencelės su bendražygiais išžudė Bisenės pilies sargybą keitusius lietuvius; pabėgo tik penki vyrai.
 - susijęs iš [[objektai/paprociai/Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika.md#claim-t-62704|Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika]]: Marienverderio ir Kristmemelio pilys Dusburgiečio pasakojime siejamos su keliu į netikėlių žemes ir krikščionių žemių plėtra.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-10678|Gediminas]]: Gedimino laikais Vilnius tapo nuolatine Lietuvos sostine.
+- susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-184097|Karolis (didysis magistras)]]: Kristmemelio pilis buvo pastatyta magistro Karolio.
+- susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89880|Karolis (didysis magistras)]]: Kristmemelio pilis buvo pastatyta magistro Karolio.
+- susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89881|Karolis (didysis magistras)]]: 1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti.
+- susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89882|Karolis (didysis magistras)]]: 1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti.
+- susijęs iš [[objektai/ivykiai/Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime.md#claim-t-62788|Gedimino krikšto planų žlugimo vaizdavimas Dusburgiečio pasakojime (krikštas)]]: Dusburgiečio pasakojimas apie Gedimino krikštą faktus pateikia Ordino interesų dvasia ir skiriasi nuo to meto dokumentų.
+- susijęs iš [[objektai/ivykiai/Junigedos papilio sudeginimas (1315 m. spalio 12 d.).md#claim-t-62300|Junigedos papilio sudeginimas (1315 m. spalio 12 d.)]]: 1315 m. spalio 12 d. Karolis su 6000 vyrų naktį puolė Junigedos papilį, paėmė 78 žmones į nelaisvę ir sudegino papilį iki pamatų.
+- susijęs iš [[objektai/ivykiai/lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.).md#claim-t-59476|lietuvių žūtis keičiant Bisenės pilies sargybą (1316 m.)]]: Fridrichas iš Libencelės su bendražygiais išžudė Bisenės pilies sargybą keitusius lietuvius; pabėgo tik penki vyrai.
 - susijęs iš Гуревич Ф. Д. Древний Новогрудок: F. D. Gurevič veikale „Древний Новогрудок“ Naugarduko pradžia datuojama X a. pabaiga.
 - susijęs iš Ткачоу М. А., Абарончыя: M. A. Ткачоу darbas „Абарончыя“ cituojamas dėl Naugarduko pilies ir jos papilio aprašymo, pateikto p. 42–52.
 - susijęs iš Ткачоу М. А., Замки: M. A. Ткачоу darbas „Замки“ cituojamas dėl Naugarduko pilies ir jos papilio aprašymo, pateikto p. 15–21.
@@ -140,6 +180,16 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=45eae6cc1671fe8d27c7e7f205ee86cff6b8e17f4878ecf1f8a08f3d84e692b7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristmemelis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristmemelis" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
 
 - c-003
@@ -177,6 +227,16 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=107d21ed0fe6ac736dcf3b903cf9d8b9c7f82064aecac679177502e909061c12; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristmemelis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristmemelis" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-005
@@ -193,4 +253,24 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 644526-645085; hash=46adc5ede1a2c0b69f980325bfe2fee447e792c2c7d8849e2148f6efb03ce131; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristmemelis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=87
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristmemelis" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5f0fc87b78f4972507f7f63329a3991ff3ec7d7ccad21072332bef373430a953; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dusburgas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristmemelis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dusburgas: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristmemelis" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

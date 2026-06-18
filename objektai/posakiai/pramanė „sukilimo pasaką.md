@@ -24,6 +24,9 @@ Lenkija pramanė „sukilimo“ pasaką, kad pateisintų Želigovskio kariuomen�
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1118451-1118783; hash=e2e133052ffe8386b1a3c8ff67359c5f5b49c76e654c123634742df8674d2bba; match=exact
+  sprendimo_priezastis: auto
 <a id="claim-t-67307"></a>
 - t-002
   global_id: t-67307
@@ -32,6 +35,9 @@ Lenkija pramanė „sukilimo“ pasaką, kad pateisintų Želigovskio kariuomen�
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f28c9f9a5e1032afe0089987a4f64e465a668e451355ed9c55e91ca363d8f208; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -70,4 +76,10 @@ Lenkija pramanė „sukilimo“ pasaką, kad pateisintų Želigovskio kariuomen�
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1118451-1118783; hash=e2e133052ffe8386b1a3c8ff67359c5f5b49c76e654c123634742df8674d2bba; match=exact
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f28c9f9a5e1032afe0089987a4f64e465a668e451355ed9c55e91ca363d8f208; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

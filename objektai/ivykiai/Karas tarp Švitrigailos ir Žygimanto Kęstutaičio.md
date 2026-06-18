@@ -34,9 +34,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 17262-17703; hash=ecf0e58e1818b386969179d470ec60c48947d26d5a6d7c01bd78b78952f55ded; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Švitrigaila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karas tarp Švitrigailos ir Žygimanto Kęstutaičio: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Švitrigaila: mention_match, person, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karas tarp Švitrigailos ir Žygimanto Kęstutaičio" parinktas kaip owner_note_path. Targetas "Švitrigaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -59,3 +69,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 17262-17703; hash=ecf0e58e1818b386969179d470ec60c48947d26d5a6d7c01bd78b78952f55ded; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Švitrigaila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karas tarp Švitrigailos ir Žygimanto Kęstutaičio: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Švitrigaila: mention_match, person, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karas tarp Švitrigailos ir Žygimanto Kęstutaičio" parinktas kaip owner_note_path. Targetas "Švitrigaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

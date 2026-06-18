@@ -30,7 +30,7 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   global_id: t-74752
   teiginys: 'Lietuvos laisvės lyga nuo 1976 m. pogrindyje leido laikraštį „Laisvės šauklys“, o nuo 1978 m. – žurnalą „Vytis“.'
   sudarymo_pagrindimas: 'Santrumpa išplėsta, pašalinta neapibrėžta frazė apie kitus leidinius.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_person: [[objektai/asmenys/Romaldas Juozas Ragaišis|Romaldas Juozas Ragaišis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_person: [[objektai/asmenys/Romaldas Juozas Ragaišis|Romaldas Juozas Ragaišis]]'
   temporaliniai_duomenys: 'įvykio data: po 1976 m.; įvykio data: 1976 m.; įvykio data: po 1978 m.; įvykio data: 1978 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Santrumpa išplėsta, pašalinta neapibrėžta frazė apie kitus leidinius.'
@@ -48,27 +48,47 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet per ilgas ir taisytinas dėl santrumpos triukšmo.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=49848c2b273839be619dc013dce0ab2362e248a2be5dae1f2605ad55f09f0102; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos laisvės lyga: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos laisvės lyga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-74756"></a>
 - t-003
   global_id: t-74756
   teiginys: 'Lietuvos laisvės lyga siekė ne reformuoti SSRS, o taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.'
   sudarymo_pagrindimas: 'Santrumpa išplėsta į pilną organizacijos pavadinimą, teiginys sutrumpintas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]'
   temporaliniai_duomenys: 'įvykio data: 1978 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Santrumpa išplėsta į pilną organizacijos pavadinimą, teiginys sutrumpintas.'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Antanas Terleckas.md#claim-t-18826|Antanas Terleckas]]: Antanas Terleckas priklausė prieš sovietų santvarką kovojusiems asmenims ir buvo teistas tris kartus.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=afc4ebc3f358091ae5a40b6d212697e2b5be47ad1cd3da32a5d5ed7b65681808; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos laisvės lyga: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos laisvės lyga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Antanas Terleckas.md#claim-t-18827|Antanas Terleckas]]: Antanas Terleckas, LLL įkūrėjas ir vadovas, save vadino rezistentu ir siekė taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.
-- susijęs iš [[objektai/asmenys/Nijolė Sadūnaitė.md#claim-t-19173|Nijolė Sadūnaitė]]: Nijolė Sadūnaitė buvo kalinta už kovą prieš sovietų santvarką.
-- susijęs iš [[objektai/asmenys/Petras Cidzikas.md#claim-t-19190|Petras Cidzikas]]: Petras Cidzikas buvo kalintas už kovą prieš sovietų santvarką.
 - susijęs iš [[objektai/asmenys/Romaldas Juozas Ragaišis.md#claim-t-19206|Romaldas Juozas Ragaišis]]: Romaldas Juozas Ragaišis priklausė Lietuvos laisvės lygai ir buvo tris kartus teistas.
 - susijęs iš [[objektai/grupes/Lietuvos disidentai.md#claim-t-74670|Lietuvos disidentai]]: Sovietinė valdžia žinomus Lietuvos disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo.
 - susijęs iš [[objektai/grupes/Lietuvos disidentai.md#claim-t-74672|Lietuvos disidentai]]: Lietuvos disidentai, skirtingai nei katalikų opozicija, kėlė Lietuvos laisvės klausimus.
-- susijęs iš [[objektai/ivykiai/LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.).md#claim-t-20247|LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.)]]: Lietuvos laisvės lyga Vilniuje surengė pirmąjį sovietmečiu viešą nesankcionuotą mitingą Molotovo–Ribentropo paktui paminėti.
 - susijęs iš [[objektai/ivykiai/Lietuvos laisvės lygos įkūrimas (1978 m.).md#claim-t-20327|Lietuvos laisvės lygos įkūrimas (1978 m.)]]: 1978 m. įkurta Lietuvos laisvės lyga siekė atkurti nepriklausomą Lietuvą, ugdyti religinę, tautinę ir politinę sąmonę bei kelti Lietuvos laisvės klausimą tarptautiniuose forumuose.
+- susijęs iš [[objektai/asmenys/Antanas Terleckas.md#claim-t-18826|Antanas Terleckas]]: Antanas Terleckas priklausė prieš sovietų santvarką kovojusiems asmenims ir buvo teistas tris kartus.
+- susijęs iš [[objektai/asmenys/Nijolė Sadūnaitė.md#claim-t-19173|Nijolė Sadūnaitė]]: Nijolė Sadūnaitė buvo kalinta už kovą prieš sovietų santvarką.
+- susijęs iš [[objektai/asmenys/Petras Cidzikas.md#claim-t-19190|Petras Cidzikas]]: Petras Cidzikas buvo kalintas už kovą prieš sovietų santvarką.
+- susijęs iš [[objektai/ivykiai/LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.).md#claim-t-20247|LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.)]]: Lietuvos laisvės lyga Vilniuje surengė pirmąjį sovietmečiu viešą nesankcionuotą mitingą Molotovo–Ribentropo paktui paminėti.
 - susijęs iš Laisvės šauklys: Lietuvos laisvės lyga pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“.
 - susijęs iš Vytis (Lietuvos laisvės lygos žurnalas): Lietuvos laisvės lyga pogrindyje nuo 1978 m. leido žurnalą „Vytis“.
 - susijęs iš [[objektai/zodynas/brežnevinė stagnacija.md#claim-t-77789|brežnevinė stagnacija]]: Lietuvos laisvės lyga brežnevinės stagnacijos laikotarpiu gaivino pasipriešinimo tradiciją ir dvasią.
@@ -126,4 +146,24 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=49848c2b273839be619dc013dce0ab2362e248a2be5dae1f2605ad55f09f0102; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos laisvės lyga: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos laisvės lyga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=afc4ebc3f358091ae5a40b6d212697e2b5be47ad1cd3da32a5d5ed7b65681808; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos laisvės lyga: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos laisvės lyga" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

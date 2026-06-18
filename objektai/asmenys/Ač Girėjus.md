@@ -25,6 +25,16 @@ Krymo skitai po senojo valdovo mirties paprašė Kazimiero duoti jiems valdovu A
   susije_objektai: 'mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Krymas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 843597-844147; hash=0ee54433aff7fbb1d8b27f71c9656e8d331368ecd6bd328f0c23272df66a0733; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krymas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ač Girėjus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ač Girėjus" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -55,3 +65,13 @@ Krymo skitai po senojo valdovo mirties paprašė Kazimiero duoti jiems valdovu A
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 843597-844147; hash=0ee54433aff7fbb1d8b27f71c9656e8d331368ecd6bd328f0c23272df66a0733; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krymas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ač Girėjus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ač Girėjus" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -39,7 +39,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   global_id: t-82224
   teiginys: 'Po Augusto II mirties ATR karaliumi tapo Rusijos remiamas Augusto II sūnus Augustas III.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Augusto III tapimą karaliumi ir Rusijos paramą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Prancūzija; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 

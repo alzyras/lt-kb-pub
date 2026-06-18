@@ -42,17 +42,37 @@ Nenurodyta
   global_id: t-54329
   teiginys: 'Simono Grunau kronikoje Rikojoto šventyklos prūsų dievų trejetą sudarė Pakulas, Perkūnas ir Patrimpas.'
   sudarymo_pagrindimas: 'Reikia šaltinio atribucijos, nes citata remiasi Simono Grunau kronikos pasakojimu.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a07ecf8d7aa7adb00b7acf86b178e2f819c176cef1c9ed3648f8fb8c9a3f7389; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54330"></a>
 - t-002
   global_id: t-54330
   teiginys: 'Prūsų dievais laikyti požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a07ecf8d7aa7adb00b7acf86b178e2f819c176cef1c9ed3648f8fb8c9a3f7389; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183332"></a>
 - t-003
@@ -62,9 +82,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Ilgas teiginys sutrumpintas, išlaikant citatos paremtą šaltinio atributiką.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 34786-35211; hash=7081d26dac89269312ec4a842d698345bf449f5363cf17d4ae164fdba68a1b36; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -100,4 +130,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a07ecf8d7aa7adb00b7acf86b178e2f819c176cef1c9ed3648f8fb8c9a3f7389; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 34786-35211; hash=7081d26dac89269312ec4a842d698345bf449f5363cf17d4ae164fdba68a1b36; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prūsų dievų kultas Rikojote ir kulto tarnų hierarchija" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

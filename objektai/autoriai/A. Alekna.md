@@ -44,7 +44,7 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
   global_id: t-64501
   teiginys: 'Zenonas Ivinskis vertino, kad A. Aleknos „Katalikų Bažnyčia Lietuvoje“ parodė jo gebėjimą kritiškai ir objektyviai vertinti šaltinius.'
   sudarymo_pagrindimas: 'Tai autoriaus vertinimas, todėl reikalinga šaltinio atribucija.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1911 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Tai autoriaus vertinimas, todėl reikalinga šaltinio atribucija.'
@@ -78,7 +78,7 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
   global_id: t-64504
   teiginys: 'Antanas Alekna 1922–1930 m. dėstė Lietuvos istoriją, jos šaltinius ir istorinę geografiją Teologijos-Filosofijos fakulteto Filosofijos skyriuje.'
   sudarymo_pagrindimas: 'Citata palaiko tikslesnę formuluotę su fakulteto skyriumi.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1911 m.; įvykio data: 1922-1930; įvykio data: 1930 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnę formuluotę su fakulteto skyriumi.'
@@ -99,7 +99,7 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
   global_id: t-64506
   teiginys: 'A. Alekna parašė „Katalikų Bažnyčia Lietuvoje“, išleistą Kaune 1936 m.'
   sudarymo_pagrindimas: 'Bibliografinis fragmentas perrašytas į pilną faktinį sakinį apie autorių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Katalikų Bažnyčia|Katalikų Bažnyčia]]; mentioned_place: Karaliaučius; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Katalikų Bažnyčia|Katalikų Bažnyčia]]; mentioned_place: Kaunas; mentioned_place: Karaliaučius'
   temporaliniai_duomenys: 'įvykio data: 1936 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Bibliografinis fragmentas perrašytas į pilną faktinį sakinį apie autorių.'
@@ -108,17 +108,17 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 - susijęs iš [[objektai/autoriai/A. Plateris.md#claim-t-30527|A. Plateris]]: A. Plateris parašė straipsnį „Janulaitis mokslininkas“, publikuotą „Lietuvių enciklopedijos“ 9 tome.
 - susijęs iš [[objektai/grupes/Sakalo bendrovė.md#claim-t-35760|Sakalo bendrovė]]: Vytauto Didžiojo 500 metų jubiliejaus proga „Sakalo“ bendrovė išleido plačią monografiją apie Vytautą Didįjį.
 - susijęs iš Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus: „Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus“ buvo šaltiniais paremta studijėlė, atspausta iš TK 1926 m.
-- susijęs iš Katalikų Bažnyčia Lietuvoje: A. Aleknos „Katalikų Bažnyčia Lietuvoje“ 1936 m. liudijo autoriaus gebėjimą kritiškai ir objektyviai vertinti šaltinius.
-- susijęs iš Lietuvos istorija (A. Alekna): Antanas Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. parengė platesnį ketvirtąjį jos leidimą.
-- susijęs iš Lietuvos istorija (A. Alekna): Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. ketvirtajam leidimui panaudojo daugiau šaltinių ir tyrinėjimų.
 - susijęs iš Lietuvos prekyba su Prūsais: „Lietuvos prekyba su Prūsais“ buvo paskelbta 1934 m. kaip Lietuvos ūkio istorijos darbas apie laikotarpį iki XVI a. pradžios.
 - susijęs iš Vytautas Didysis 1350-1430 (1930 m.): Leidinio rengėjai dėkojo prof. A. Aleknai už patarimus rašant ir redaguojant monografiją.
 - susijęs iš Vytautas Didysis ir jo Čekijos politika Venceliui mirus: Penkausko darbas „Vytautas Didysis ir jo Čekijos politika Venceliui mirus“ buvo atspaustas iš 1930 m. „Židinio“.
 - susijęs iš Žemaičiu vysk. M. Valančius: „Žemaičiu vysk. M. Valančius“ išleistas 1923 m., plačiai remiantis Kauno vyskupijos kurijos archyvine medžiaga.
 - susijęs iš Berlynas: Zenonas Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą.
 - susijęs iš Berlynas: Zenonas Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą.
-- susijęs iš Kaunas: Po pirmojo bolševikmečio pertraukos Z. Ivinskis tęsė Lietuvos istorijos darbą Filosofijos fakultete Kaune.
 - susijęs iš Kauno vyskupija: Veikalas „Žemaičių vysk. M. Valančius“ buvo parengtas plačiai remiantis Kauno vyskupijos kurijos archyvine medžiaga.
+- susijęs iš Katalikų Bažnyčia Lietuvoje: A. Aleknos „Katalikų Bažnyčia Lietuvoje“ 1936 m. liudijo autoriaus gebėjimą kritiškai ir objektyviai vertinti šaltinius.
+- susijęs iš Lietuvos istorija (A. Alekna): Antanas Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. parengė platesnį ketvirtąjį jos leidimą.
+- susijęs iš Lietuvos istorija (A. Alekna): Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. ketvirtajam leidimui panaudojo daugiau šaltinių ir tyrinėjimų.
+- susijęs iš Kaunas: Po pirmojo bolševikmečio pertraukos Z. Ivinskis tęsė Lietuvos istorijos darbą Filosofijos fakultete Kaune.
 - susijęs iš Vilnius: Z. Ivinskis po pirmojo bolševikmečio pertraukos Ekonominių mokslų fakultete Vilniuje skaitė Lietuvos ūkio istoriją.
 ## Reikšmingi paminėjimai
 

@@ -46,16 +46,26 @@ Nenurodyta
   global_id: t-59249
   teiginys: 'Sausio 22 d. notangai sutelkė jėgas ir Pokarviuose užpuolė ten likusią brolių bei maldininkų kariuomenės dalį.'
   sudarymo_pagrindimas: 'Citata palaiko įvykio faktą, bet pradinis teiginys yra nutrūkęs fragmentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 378735-379693; hash=63ec1aaad34c563c93667017d3b5cb3f127049dfd8fd90691b1da906e776e5fe; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> maldininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Susirėmimas Pokarviuose (1261 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: maldininkai: mention_match, thing, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Susirėmimas Pokarviuose (1261 m.)" parinktas kaip owner_note_path. Targetas "maldininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59251"></a>
 - t-002
   global_id: t-59251
   teiginys: 'Po susirėmimo Pokarviuose notangai belaisvį Hirtshalsą burtų keliu paskyrė aukai ir sudegino pririštą ant jo žirgo.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie pasekmes, o pradinis teiginys nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_person: [[objektai/asmenys/Hirtshalsas|Hirtshalsas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_person: [[objektai/asmenys/Hirtshalsas|Hirtshalsas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]'
   pagrindžia:
     - c-002
 
@@ -134,4 +144,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 378735-379693; hash=63ec1aaad34c563c93667017d3b5cb3f127049dfd8fd90691b1da906e776e5fe; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> maldininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Susirėmimas Pokarviuose (1261 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: maldininkai: mention_match, thing, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Susirėmimas Pokarviuose (1261 m.)" parinktas kaip owner_note_path. Targetas "maldininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 380137-380749; hash=b082dba1133dc541832e743446b2e5afaafb9f3decbf829c7277810589680119; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hirtshalsas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Susirėmimas Pokarviuose (1261 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Hirtshalsas: mention_match, person, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Susirėmimas Pokarviuose (1261 m.)" parinktas kaip owner_note_path. Targetas "Hirtshalsas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

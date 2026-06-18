@@ -40,12 +40,22 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys užterštas OCR triukšmu ir per ilgas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Bisenė; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Ragainė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Bisenė; mentioned_place: Pilėnai; mentioned_place: Ragainė; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1313 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys užterštas OCR triukšmu ir per ilgas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 326803-327601; hash=354453ce25df4e47d524ce37670fa67ed279a7c11838d31d4157fe18e9e80575; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185526"></a>
 - t-002
@@ -55,9 +65,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi būti perrašytas į užbaigtą sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 327253-328082; hash=3f3160a15a18e0b89428084b5b6eeebc7a235ab8cdbb8bf9298457b440a54db5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Laivai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Laivai: mention_match, thing, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185527"></a>
 - t-003
@@ -67,9 +87,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys palaikomas citata, bet reikia pašalinti autorystės formulę ir sutrumpinti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 328265-328752; hash=f33b96fe0cebb79cfc3459981b56794164dbd52282cdd7fb84b81a222083eace; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Surminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Surminas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)" parinktas kaip owner_note_path. Targetas "Surminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -135,6 +165,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 326803-327601; hash=354453ce25df4e47d524ce37670fa67ed279a7c11838d31d4157fe18e9e80575; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -159,4 +199,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 327253-328082; hash=3f3160a15a18e0b89428084b5b6eeebc7a235ab8cdbb8bf9298457b440a54db5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Laivai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Laivai: mention_match, thing, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)" parinktas kaip owner_note_path. Targetas "Laivai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 328265-328752; hash=f33b96fe0cebb79cfc3459981b56794164dbd52282cdd7fb84b81a222083eace; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Surminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Surminas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių laivyno žygis prie Junigedos ir Surmino pergalė (1313 m.)" parinktas kaip owner_note_path. Targetas "Surminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

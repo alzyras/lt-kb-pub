@@ -46,12 +46,22 @@ Nenurodyta
   global_id: t-34470
   teiginys: '1424 m. Didysis Machmetas Vytauto padedamas užėmė Kipčako sostą ir išsilaikė jame iki 1437 ar 1438 m.'
   sudarymo_pagrindimas: 'Reikia sklandesnės enciklopedinės formuluotės be pažodinio senojo stiliaus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Didysis Machmetas|Didysis Machmetas]]; mentioned_place: Kipčakas'
+  susije_objektai: 'territory: Kipčakas; mentioned_place: Kipčakas; mentioned_person: [[objektai/asmenys/Didysis Machmetas|Didysis Machmetas]]'
   temporaliniai_duomenys: 'įvykio data: 1424 m.; įvykio data: 1438 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia sklandesnės enciklopedinės formuluotės be pažodinio senojo stiliaus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 692145-692419; hash=b2d514fba27d68486021c24e0b6a3fb943bca14a9e0197ab7d7942f4c46ed39b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzeme -> Kipčakas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: Didysis Machmetas: nearest_actor, person, gap=36
+  ryšio_targeto_parinkimas: Kipčakas: nearest_after_predicate, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Didysis Machmetas" parinktas kaip nearest_actor. Targetas "Kipčakas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -69,3 +79,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 692145-692419; hash=b2d514fba27d68486021c24e0b6a3fb943bca14a9e0197ab7d7942f4c46ed39b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzeme -> Kipčakas: 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: Didysis Machmetas: nearest_actor, person, gap=36
+  ryšio_targeto_parinkimas: Kipčakas: nearest_after_predicate, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Didysis Machmetas" parinktas kaip nearest_actor. Targetas "Kipčakas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.

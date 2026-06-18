@@ -24,6 +24,9 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=061c7806642bbec45b30e0f95a1912ef5e278514bb6eea8cb8f864c0b0a0a179; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-19936"></a>
 - t-002
@@ -33,14 +36,24 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   susije_objektai: 'mentioned_object: [[objektai/zodynas/agentai smogikai|agentai smogikai]]; mentioned_place: Sibiras'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=246cd6f408b2d12e2cc801e45427e254d8f31f93ec46fd301053d19b65e7852a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> agentai smogikai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: MGB-KGB agentai smogikai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: agentai smogikai: mention_match, thing, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "MGB-KGB agentai smogikai" parinktas kaip owner_note_path. Targetas "agentai smogikai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika.md#claim-t-67035|Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]: MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
+- susijęs iš [[objektai/zodynas/agentas-smogikas.md#claim-t-42429|agentas-smogikas]]: MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
 - susijęs iš [[objektai/asmenys/Jonas Žemaitis-Vytautas.md#claim-t-18998|Jonas Žemaitis-Vytautas]]: 1953 m. pavasarį užverbuoti agentai išdavė Joną Žemaitį-Vytautą, o po pusantrų metų tardymų jis buvo sušaudytas Maskvos Butyrkų kalėjime.
 - susijęs iš [[objektai/grupes/Agentai-smogikai.md#claim-t-40845|Agentai-smogikai]]: MGB-KGB agentai-smogikai atliko svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
 - susijęs iš [[objektai/ivykiai/Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.).md#claim-t-75279|Sovietinių represinių struktūrų kova su Lietuvos partizanais (1944–1954 m.)]]: Dislokuoti visuose valsčiuose jie saugojo sovietinį aktyvą.
-- susijęs iš [[objektai/paprociai/Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika.md#claim-t-67035|Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika]]: MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
 - susijęs iš Maskvos Butyrkų kalėjimas: J. Žemaitis-Vytautas po pusantrų metų tardymų buvo sušaudytas Maskvos Butyrkų kalėjime.
 - susijęs iš Sibiras: Represinės institucijos trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas ir rėmėjus.
 - susijęs iš [[objektai/zodynas/agentai smogikai.md#claim-t-22045|agentai smogikai]]: MGB-KGB agentai smogikai naudojo rezistencijos atributiką ir uniformas terorui, rezistentams naikinti bei partizanų ryšininkams ir rėmėjams šaudyti.
-- susijęs iš [[objektai/zodynas/agentas-smogikas.md#claim-t-42429|agentas-smogikas]]: MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -79,4 +92,17 @@ Tuo laikotarpiu okupacinė valdžia kovai su partizanais vis dažniau naudojo ag
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=061c7806642bbec45b30e0f95a1912ef5e278514bb6eea8cb8f864c0b0a0a179; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=246cd6f408b2d12e2cc801e45427e254d8f31f93ec46fd301053d19b65e7852a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> agentai smogikai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: MGB-KGB agentai smogikai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: agentai smogikai: mention_match, thing, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "MGB-KGB agentai smogikai" parinktas kaip owner_note_path. Targetas "agentai smogikai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

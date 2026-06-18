@@ -39,9 +39,19 @@ Nenurodyta
   teiginys: 'Komtūras su Vonsdorfo vyrais nuniokojo taikos sutartims nepritarusį Notangos pakraštį ir nužudė vadą Gadiką su dviem sūnumis.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti išsamesnį teiginį apie pavadinime minimą Gadiko žūtį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Gadikas|Gadikas]]; mentioned_place: Notanga; mentioned_place: Viena; mentioned_place: Vonsdorfas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gadikas|Gadikas]]; mentioned_place: Notanga; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Viena; mentioned_place: Vonsdorfas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 358279-358841; hash=9ee11bc0e4f95fe0fb00d0744b44ad3092ebb4af1ecc54d9453564ef5ccd57f5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gadikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Notangos pakraščio nuniokojimas ir Gadiko žūtis: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Gadikas: mention_match, person, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangos pakraščio nuniokojimas ir Gadiko žūtis" parinktas kaip owner_note_path. Targetas "Gadikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -66,4 +76,24 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 358279-358841; hash=9ee11bc0e4f95fe0fb00d0744b44ad3092ebb4af1ecc54d9453564ef5ccd57f5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gadikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Notangos pakraščio nuniokojimas ir Gadiko žūtis: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Gadikas: mention_match, person, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangos pakraščio nuniokojimas ir Gadiko žūtis" parinktas kaip owner_note_path. Targetas "Gadikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 358279-358841; hash=9ee11bc0e4f95fe0fb00d0744b44ad3092ebb4af1ecc54d9453564ef5ccd57f5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gadikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Notangos pakraščio nuniokojimas ir Gadiko žūtis: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Gadikas: mention_match, person, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Notangos pakraščio nuniokojimas ir Gadiko žūtis" parinktas kaip owner_note_path. Targetas "Gadikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

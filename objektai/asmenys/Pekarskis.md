@@ -21,9 +21,19 @@ Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už užs
   global_id: t-87820
   teiginys: 'Pekarskiui buvo paskolinti 800 zlotų sidabrui, užstatytam Jo Karališkosios Didenybės reikalams.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, išsamus ir paremtas citatos duomenimis apie paskolą Pekarskiui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Raudonieji|Raudonieji]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_person: [[objektai/asmenys/Mogilnickis|Mogilnickis]]; mentioned_place: Brasta; mentioned_place: Lukovas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_group: [[objektai/grupes/Raudonieji|Raudonieji]]; mentioned_person: [[objektai/asmenys/Mogilnickis|Mogilnickis]]; mentioned_place: Brasta; mentioned_place: Lukovas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 825663-826360; hash=31300a8d08d7e66f937dc744ef19d59ce425aa32f1636f4a9e0da87abd2144d8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Užstato daiktai Trakų žydų privilegijoje: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pekarskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Užstato daiktai Trakų žydų privilegijoje: mention_match, thing, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pekarskis" parinktas kaip owner_note_path. Targetas "Užstato daiktai Trakų žydų privilegijoje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Markas (žydas kreditorius).md#claim-t-87547|Markas (žydas kreditorius)]]: Žydui kreditoriui Markui už šešių savaičių palūkanas nuo 250 zlotų buvo sumokėta 15 florinų.
 - susijęs iš [[objektai/zodynas/raudonasis auksinas, taleris ir dukatas.md#claim-t-86492|raudonasis auksinas, taleris ir dukatas]]: Ponas Pekarskis perdavė 96 raudonuosius auksinus, imtus Brastoje po 56 lenkiškus grašius už vienetą.
 ## Reikšmingi paminėjimai
@@ -51,3 +61,13 @@ Man buvo ati­ duota iš pono Pekarskio 96 raudonieji auksinai, kuriuos už užs
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 825663-826360; hash=31300a8d08d7e66f937dc744ef19d59ce425aa32f1636f4a9e0da87abd2144d8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Užstato daiktai Trakų žydų privilegijoje: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pekarskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Užstato daiktai Trakų žydų privilegijoje: mention_match, thing, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pekarskis" parinktas kaip owner_note_path. Targetas "Užstato daiktai Trakų žydų privilegijoje" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

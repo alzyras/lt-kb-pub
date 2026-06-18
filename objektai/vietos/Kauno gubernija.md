@@ -31,7 +31,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   global_id: t-170421
   teiginys: 'Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūksta ir turi nereikalingą įvadą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Rusija'
   pagrindžia:
     - c-004
 
@@ -40,7 +40,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   global_id: t-170422
   teiginys: 'Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Suvalkai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Suvalkai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -49,7 +49,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   global_id: t-170423
   teiginys: '1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Minskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Gardinas; mentioned_place: Minskas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1843 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
@@ -61,7 +61,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   global_id: t-170425
   teiginys: '1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.'
   sudarymo_pagrindimas: 'Pirminis teiginys yra fragmentiškas ir perkrautas sąrašu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/posakiai/„Lithuania Propria“|„Lithuania Propria“]]; mentioned_place: Alūkšta; mentioned_place: Bernas; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Klaipėda; mentioned_place: Kuršas; mentioned_place: Liepoja; mentioned_place: Lietuva; mentioned_place: Slanimas; mentioned_place: Suvalkai; mentioned_place: Valkaviskas; mentioned_place: Viena; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilniaus gubernija; mentioned_object: [[objektai/posakiai/„Lithuania Propria“|„Lithuania Propria“]]; mentioned_place: Alūkšta; mentioned_place: Bernas; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Klaipėda; mentioned_place: Kuršas; mentioned_place: Liepoja; mentioned_place: Slanimas; mentioned_place: Suvalkai; mentioned_place: Valkaviskas; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys yra fragmentiškas ir perkrautas sąrašu.'
@@ -79,6 +79,16 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   susije_objektai: 'mentioned_place: Kaunas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 945384-945633; hash=2eb9b6077ac8fca0b232cc49903c4759035fc6467f7a7be0c64c9932f35fb569; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kauno gubernija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kauno gubernija" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -115,6 +125,16 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 945384-945633; hash=2eb9b6077ac8fca0b232cc49903c4759035fc6467f7a7be0c64c9932f35fb569; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kauno gubernija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kauno gubernija" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-003

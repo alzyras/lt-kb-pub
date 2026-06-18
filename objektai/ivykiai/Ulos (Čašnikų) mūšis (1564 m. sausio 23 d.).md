@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-09884
   teiginys: 'Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
   sudarymo_pagrindimas: 'Sakinys pagrįstas citatomis, tik aiškiau susietas su note objektu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Ivanskas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Vilnius; mentioned_place: Ivanskas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'mirties data: 1573 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys pagrįstas citatomis, tik aiškiau susietas su note objektu.'
@@ -70,13 +70,14 @@ Nenurodyta
   global_id: t-09887
   teiginys: 'Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų.'
   sudarymo_pagrindimas: 'Teiginys turi aiškų veikėją, veiksmą ir vietą, o faktą patvirtina citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Petras Šuiskis|Petras Šuiskis]]; mentioned_place: Viena; mentioned_place: Čašnikai'
+  susije_objektai: 'mentioned_place: Čašnikai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Petras Šuiskis|Petras Šuiskis]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Mathias Ziindt.md#claim-t-40330|Mathias Ziindt]]: Mathias Ziindt 1568 m. graviūroje pavaizdavo Gardiną 1567 m. vykusio seimo metu.
-- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 - susijęs iš [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio.md#claim-t-41259|B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)]]: Po Ulos sutriuškinimo maskvėnai prarado iniciatyvą kare, o naujo didelio jų puolimo grėsmė išnyko.
 - susijęs iš [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio.md#claim-t-41260|B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)]]: Nepraėjus dviem savaitėms po Ulos mūšio, lietuviai beveik be mūšio sutriuškino B. Serebriano vedamą kariuomenę.
+- susijęs iš Ulos upė: P. Šuiskis pasirinko mūšio vietą lauke tarpumiškyje prie Ulos upės netoli Čašnikų.
+- susijęs iš [[objektai/asmenys/Mathias Ziindt.md#claim-t-40330|Mathias Ziindt]]: Mathias Ziindt 1568 m. graviūroje pavaizdavo Gardiną 1567 m. vykusio seimo metu.
+- susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 - susijęs iš [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais.md#claim-t-78697|Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]: Susibūrusi kariuomenė lauko stovyklą apsupdavo amunicijos ir provianto vežimais, palikdama tik kelis saugomus praėjimus.
 - susijęs iš [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais.md#claim-t-78699|Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]: Vežimais apsuptoje kariuomenės lauko stovykloje prie kelių praėjimų statydavo artilerijos pabūklus, o už vežimų iškasdavo ilgą griovį.
 - susijęs iš Gardino vaizdas (1568 m.): 1568 m. Gardino vaizdo fragmente vaizduojamas Gardinas 1567 m. čia vykusio seimo metu.
@@ -84,7 +85,6 @@ Nenurodyta
 - susijęs iš Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.): Lenkijos ir Lietuvos kariuomenė stovyklose apsisupdavo amunicijos, provianto ir kitų reikmenų vežimais, palikdama tik kelis praėjimus.
 - susijęs iš Rusijos kariuomenė užgrobtoje Livonijoje: „Rusijos kariuomenė užgrobtoje Livonijoje“ yra vokiško informacinio leidinio fragmentas apie Maskvos kariuomenės sukeltas baisybes Livonijoje.
 - susijęs iš Maskvos-Lietuvos pasienis: Po Polocko praradimo ir Ulos mūšio karo veiksmai persikėlė į Maskvos-Lietuvos pasienį.
-- susijęs iš Ulos upė: P. Šuiskis pasirinko mūšio vietą lauke tarpumiškyje prie Ulos upės netoli Čašnikų.
 - susijęs iš Čašnikai: P. Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų, kai sužinojo, kad lietuviai rengiasi užkirsti jam kelią.
 ## Reikšmingi paminėjimai
 

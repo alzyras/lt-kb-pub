@@ -50,18 +50,38 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7cd51cd06917dfc677d4db8aea1e80ee1cfa0bf89427efca0d9d497db526bd13; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antanas Tyzenhauzas (ūkio reformų veikėjas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antano Tyzenhauzo reformos: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Antanas Tyzenhauzas (ūkio reformų veikėjas): mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antano Tyzenhauzo reformos" parinktas kaip owner_note_path. Targetas "Antanas Tyzenhauzas (ūkio reformų veikėjas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-66450"></a>
 - t-002
   global_id: t-66450
   teiginys: 'Antano Tyzenhauzo reformos 1767 m. kartais laikomos vienu Apšvietos epochos pradžios ženklų.'
   sudarymo_pagrindimas: 'Reikia sutelkti teiginį į pastabos objektą ir pašalinti perteklinį įvykių sąrašą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Jėzuitų ordino panaikinimas|Jėzuitų ordino panaikinimas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Baroko epocha|Baroko epocha]]; mentioned_person: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]]; mentioned_person: [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)|Bžostovskis (Vilniaus vyskupas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Paulava'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baroko epocha|Baroko epocha]]; mentioned_person: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]]; mentioned_event: [[objektai/ivykiai/Jėzuitų ordino panaikinimas|Jėzuitų ordino panaikinimas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)|Bžostovskis (Vilniaus vyskupas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Paulava'
   temporaliniai_duomenys: 'įvykio data: 1767 m.; įvykio data: 1769 m.; įvykio data: 1773 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia sutelkti teiginį į pastabos objektą ir pašalinti perteklinį įvykių sąrašą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 161893-162579; hash=86900822e04ecfb6419157721920c5a9dadf10139e12f6bf457edb9b65247fb6; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antanas Tyzenhauzas (ūkio reformų veikėjas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antano Tyzenhauzo reformos: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Antanas Tyzenhauzas (ūkio reformų veikėjas): mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antano Tyzenhauzo reformos" parinktas kaip owner_note_path. Targetas "Antanas Tyzenhauzas (ūkio reformų veikėjas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46005|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos datuojamos 1767 m. ir siejamos su Apšvietos epochos pradžia.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46007|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo 1767 m. reformos kartais laikomos vienu iš Apšvietos epochos pradžios įvykių.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46008|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos buvo vienas svarbiausių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.
@@ -111,5 +131,35 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 161893-162579; hash=86900822e04ecfb6419157721920c5a9dadf10139e12f6bf457edb9b65247fb6; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antanas Tyzenhauzas (ūkio reformų veikėjas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antano Tyzenhauzo reformos: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Antanas Tyzenhauzas (ūkio reformų veikėjas): mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antano Tyzenhauzo reformos" parinktas kaip owner_note_path. Targetas "Antanas Tyzenhauzas (ūkio reformų veikėjas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 161893-162579; hash=86900822e04ecfb6419157721920c5a9dadf10139e12f6bf457edb9b65247fb6; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antanas Tyzenhauzas (ūkio reformų veikėjas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antano Tyzenhauzo reformos: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Antanas Tyzenhauzas (ūkio reformų veikėjas): mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antano Tyzenhauzo reformos" parinktas kaip owner_note_path. Targetas "Antanas Tyzenhauzas (ūkio reformų veikėjas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7cd51cd06917dfc677d4db8aea1e80ee1cfa0bf89427efca0d9d497db526bd13; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antanas Tyzenhauzas (ūkio reformų veikėjas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antano Tyzenhauzo reformos: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Antanas Tyzenhauzas (ūkio reformų veikėjas): mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antano Tyzenhauzo reformos" parinktas kaip owner_note_path. Targetas "Antanas Tyzenhauzas (ūkio reformų veikėjas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

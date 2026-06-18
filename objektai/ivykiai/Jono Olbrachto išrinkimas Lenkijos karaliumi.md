@@ -50,12 +50,22 @@ Nenurodyta
   teiginys: 'Jonas Olbrachtas Petrakavo seime buvo išrinktas Lenkijos karaliumi 1492 m. liepos 27 d.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pašalinta perteklinė nuoroda į redakcinę pastabą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Petrakavas'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Petrakavas; mentioned_person: [[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]]; mentioned_place: Krokuva'
   temporaliniai_duomenys: 'įvykio data: 1492 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta perteklinė nuoroda į redakcinę pastabą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=360e09bd81464cef0985550d79e05ac1ea0038a9546896a6cd3821d76a544605; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jono Olbrachto išrinkimas Lenkijos karaliumi: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jono Olbrachto išrinkimas Lenkijos karaliumi" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186771"></a>
 - t-002
@@ -63,12 +73,22 @@ Nenurodyta
   teiginys: 'Jonas Olbrachtas buvo vainikuotas Krokuvoje 1492 m. rugsėjo 23 d.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Jono Olbrachto vainikavimą. Citata tiesiogiai nurodo vietą ir datą, papildomų faktų nepridėta.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]]; mentioned_place: Krokuva; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_person: [[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]]; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1492 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Jono Olbrachto vainikavimą. Citata tiesiogiai nurodo vietą ir datą, papildomų faktų nepridėta.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=360e09bd81464cef0985550d79e05ac1ea0038a9546896a6cd3821d76a544605; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Krokuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jono Olbrachto išrinkimas Lenkijos karaliumi: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jono Olbrachto išrinkimas Lenkijos karaliumi" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -82,4 +102,24 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=360e09bd81464cef0985550d79e05ac1ea0038a9546896a6cd3821d76a544605; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jono Olbrachto išrinkimas Lenkijos karaliumi: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jono Olbrachto išrinkimas Lenkijos karaliumi" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=360e09bd81464cef0985550d79e05ac1ea0038a9546896a6cd3821d76a544605; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/04_extract_events_notes.md
+  ryšio_patikimumas: susije_su -> Krokuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jono Olbrachto išrinkimas Lenkijos karaliumi: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jono Olbrachto išrinkimas Lenkijos karaliumi" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

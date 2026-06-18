@@ -24,9 +24,19 @@ Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, š
   global_id: t-60314
   teiginys: 'Henrikas iš Kalendino buvo imperijos maršalas, minimas tarp didikų, pritarusių legatų siuntimui dėl ligoninės patvirtinimo.'
   sudarymo_pagrindimas: 'Citata patvirtina pareigas ir dalyvavimą didikų sprendime dėl legatų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Gardolfas|Gardolfas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Austrija; mentioned_place: Jeruzalė; mentioned_place: Reinas; mentioned_place: Saksonija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Gardolfas|Gardolfas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Austrija; mentioned_place: Jeruzalė; mentioned_place: Reinas; mentioned_place: Saksonija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d887f1e43b930e90277dbb06614b87d8e98bbb7872c9e40d1d2c8ba001db7b4a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> maršalas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas iš Kalendino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: maršalas: mention_match, thing, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Kalendino" parinktas kaip owner_note_path. Targetas "maršalas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -64,3 +74,13 @@ Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, š
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d887f1e43b930e90277dbb06614b87d8e98bbb7872c9e40d1d2c8ba001db7b4a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> maršalas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas iš Kalendino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: maršalas: mention_match, thing, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas iš Kalendino" parinktas kaip owner_note_path. Targetas "maršalas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

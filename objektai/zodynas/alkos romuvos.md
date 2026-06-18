@@ -24,6 +24,9 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=be49a9fa8802c192f9855c4dc4924d7faea680faa7ad02c7b9bcaedab9728b05; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 <a id="claim-t-70079"></a>
 - t-002
   global_id: t-70079
@@ -32,6 +35,9 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=65ff7d9f22a3d561857ce09f09b689f65846e948d1660fa2b569eb31fa6b4952; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -70,4 +76,10 @@ alkos romuvos: archeologai atkasa dabar tų šventovių, kurias apylinkės žmon
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=be49a9fa8802c192f9855c4dc4924d7faea680faa7ad02c7b9bcaedab9728b05; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=65ff7d9f22a3d561857ce09f09b689f65846e948d1660fa2b569eb31fa6b4952; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

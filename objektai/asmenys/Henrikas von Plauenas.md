@@ -34,7 +34,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   global_id: t-176403
   teiginys: 'Henrikas von Plauenas po 1410 m. smūgio rengė Ordino revanšą ir rinko jėgas iš Vakarų Europos.'
   sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje nurodytą Henriko von Plaueno veikimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Europa; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1410 m.; įvykio data: 1410 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai perteikia citatoje nurodytą Henriko von Plaueno veikimą.'
@@ -46,7 +46,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   global_id: t-176404
   teiginys: 'Po Makro raporto Henrikas von Plauenas vyko pas Vaclovą, Vokietijos elektorius ir Karolį VI prašyti pagalbos prieš Vytautą.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/elektorius|elektorius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dubysa; mentioned_place: Europa; mentioned_place: Nemunas; mentioned_place: Prancūzija; mentioned_place: Vokietija; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/elektorius|elektorius]]; mentioned_place: Vokietija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dubysa; mentioned_place: Europa; mentioned_place: Nemunas; mentioned_place: Prancūzija; mentioned_place: Čekija'
   pagrindžia:
     - c-001
 
@@ -61,11 +61,21 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   temporalinis_llm_pakomentavimas: 'Citata pateikia neaiškų alternatyvų sąrašą, todėl būtina šaltinio vartosenos atribucija.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dc59c046c1bd776d3205ba8185ae5d76d6c9eeb4c3847d5a5250666ce278aa44; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Henrikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas von Plauenas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas von Plauenas" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Henrikas von Plauen.md#claim-t-30262|Henrikas von Plauen]]: Schwetzo komtūras Henrikas von Plauenas Marienburge surinko apie 5000 vyrų įgulą.
+- susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-35305|Vaclovas Čekietis]]: Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.
 - susijęs iš [[objektai/asmenys/Karolis VI.md#claim-t-184283|Karolis VI]]: Ordino magistras Henrikas von Plauenas prašė Prancūzijos karaliaus Karolio VI pagalbos prieš Vytautą.
 - susijęs iš [[objektai/asmenys/Karolis VI.md#claim-t-35184|Karolis VI]]: Ordino magistras Henrikas von Plauenas prašė Prancūzijos karaliaus Karolio VI pagalbos prieš Vytautą.
 - susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-184288|Vaclovas Čekietis]]: Ordino magistras Henrikas von Plauenas po Makro raporto vyko pas Čekijos karalių Vaclovą prašyti pagalbos prieš Vytautą.
-- susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-35305|Vaclovas Čekietis]]: Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.
 - susijęs iš Tornas: Po 1411 m. Torno sutarties santykiai nepagerėjo, nors joje buvo susitarta dėl laisvos savitarpio prekybos.
 - susijęs iš Tornas: Po 1411 m. Torno sutarties santykiai nepagerėjo, nors sutartyje buvo susitarta dėl laisvos savitarpio prekybos.
 - susijęs iš Torno: Po 1411 m. Torno sutarties Vytauto ir Ordino santykiai nepagerėjo, nors sutartyje susitarta dėl laisvos savitarpio prekybos.
@@ -153,4 +163,14 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dc59c046c1bd776d3205ba8185ae5d76d6c9eeb4c3847d5a5250666ce278aa44; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Henrikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas von Plauenas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas von Plauenas" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004

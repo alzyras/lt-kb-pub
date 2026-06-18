@@ -36,6 +36,16 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 395077-395569; hash=d184a467a79641c1eccaaa942fc7609c8df5681ab8eb5b0b10569ef180240550; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Grigalius XIII: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: jurisdikcija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Grigalius XIII: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "jurisdikcija" parinktas kaip owner_note_path. Targetas "Grigalius XIII" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-173019"></a>
 - t-002
@@ -54,15 +64,35 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
   susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 730396-731951; hash=31a1fd5c578e5b28c2c968fdcbbe419442e50c834d2db9159633da0a485e47db; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: jurisdikcija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "jurisdikcija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-173021"></a>
 - t-004
   global_id: t-173021
   teiginys: 'Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje.'
   sudarymo_pagrindimas: 'Pradinis tekstas buvo negrabiai nukopijuotas, citata palaiko aiškesnį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_place: Valerijono bursos; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_place: Valerijono bursos'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 735086-735635; hash=3ad96d857c3731725b590876d11fa61b1f5d75fbcdaad2e9bfa0987b8d46a9dd; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: jurisdikcija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "jurisdikcija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-173022"></a>
 - t-005
@@ -73,12 +103,9 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Motiejus (Vilniaus vyskupas).md#claim-t-87447|Motiejus (Vilniaus vyskupas)]]: Vilniaus vyskupas Motiejus raštu suteikė kapitulai ir jos valdiniams jurisdikciją su teise taikyti bažnytines cenzūras.
-- susijęs iš [[objektai/grupes/Apaštalų Sostas.md#claim-t-172078|Apaštalų Sostas]]: Vilniaus katedros kapitula galėjo naudotis jurisdikcija su ekskomunikacijos teise, leista vyskupų ir patvirtinta Apaštalų Sosto.
-- susijęs iš [[objektai/grupes/Apaštalų Sostas.md#claim-t-172079|Apaštalų Sostas]]: Vilniaus kapitula teigė besivadovaujanti teise, kurią patvirtino Apaštalų Sostas, Lietuvos kunigaikščiai ir valdovas.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176076|Vilniaus kapitula]]: Vilniaus tarėjai reikalavo, kad miestas būtų atleistas nuo, jų teigimu, naujai kapitulos pasisavintos jurisdikcijos.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176078|Vilniaus kapitula]]: Vilniaus katedros kapitula galėjo naudotis bažnytine jurisdikcija savo asmenų ir valdinių bylose.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176092|Vilniaus kapitula]]: Vilniaus kapitulos prelatai ir kanauninkai teigė, kad naudojosi sena vyskupų ir Apaštalų Sosto patvirtinta jurisdikcija.
-- susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172815|Vilniaus magistratas]]: Vilniaus kapitula teigė, kad bausti bažnyčios valdinius priklauso jai, o ne Vilniaus miestui ar tarėjams.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.).md#claim-t-86886|Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]: Vilniaus miesto tarėjai reikalavo atleisti miestą nuo, jų teigimu, naujai kapitulos pasisavintos jurisdikcijos.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.).md#claim-t-86888|Žygimanto Senojo sprendimas Vilniaus miesto ir kapitulos jurisdikcijos ginče (1533 m. liepos 26 d.)]]: Žygimantas Senasis nusprendė, kad Vilniaus katedros kapitula gali naudotis jurisdikcija ir ekskomunikacijos teise savo asmenų bei valdinių bylose.
 - susijęs iš Vilniaus vyskupo Motiejaus raštas Vilniaus kapitulai dėl jurisdikcijos ir bažnytinių cenzūrų: Vilniaus tarėjai reikalavo, kad miestas būtų atleistas nuo naujai kapitulos pasisavintos jurisdikcijos.
@@ -86,6 +113,9 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 - susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus katedros kapitula teigė, kad jos jurisdikciją patvirtino Apaštalų Sostas ir Lietuvos kunigaikščiai.
 - susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus katedros kapitula galėjo naudotis bažnytine jurisdikcija ir ekskomunikacijos teise savo asmenų bei valdinių bylose.
 - susijęs iš Vilniaus katedros bažnyčia: Vilniaus katedros bažnyčios kapitula teigė, kad jos jurisdikciją patvirtino Apaštalų Sostas ir Lietuvos kunigaikščiai.
+- susijęs iš [[objektai/grupes/Apaštalų Sostas.md#claim-t-172078|Apaštalų Sostas]]: Vilniaus katedros kapitula galėjo naudotis jurisdikcija su ekskomunikacijos teise, leista vyskupų ir patvirtinta Apaštalų Sosto.
+- susijęs iš [[objektai/grupes/Apaštalų Sostas.md#claim-t-172079|Apaštalų Sostas]]: Vilniaus kapitula teigė besivadovaujanti teise, kurią patvirtino Apaštalų Sostas, Lietuvos kunigaikščiai ir valdovas.
+- susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172815|Vilniaus magistratas]]: Vilniaus kapitula teigė, kad bausti bažnyčios valdinius priklauso jai, o ne Vilniaus miestui ar tarėjams.
 - susijęs iš [[objektai/zodynas/bažnytinės cenzūros.md#claim-t-86516|bažnytinės cenzūros]]: Vilniaus vyskupo Motiejaus raštu Vilniaus kapitulai suteikta jurisdikcija ir leidimas taikyti bažnytines cenzūras.
 - susijęs iš [[objektai/zodynas/ekskomunikacija ekskomunika.md#claim-t-86466|ekskomunikacija ekskomunika]]: Vilniaus katedros kapitula galėjo naudotis jurisdikcija su ekskomunikacijos teise savo asmenų ir valdinių bylose.
 - susijęs iš [[objektai/zodynas/ekskomunikacija ekskomunika.md#claim-t-86468|ekskomunikacija ekskomunika]]: Vilniaus kapitula teigė turėjusi teisę ekskomunikuoti paprotinės teisės ir bažnyčios valdinių niekintojus.
@@ -143,6 +173,16 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 395077-395569; hash=d184a467a79641c1eccaaa942fc7609c8df5681ab8eb5b0b10569ef180240550; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Grigalius XIII: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: jurisdikcija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Grigalius XIII: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "jurisdikcija" parinktas kaip owner_note_path. Targetas "Grigalius XIII" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-003
@@ -218,4 +258,24 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 730396-731951; hash=31a1fd5c578e5b28c2c968fdcbbe419442e50c834d2db9159633da0a485e47db; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: jurisdikcija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "jurisdikcija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 735086-735635; hash=3ad96d857c3731725b590876d11fa61b1f5d75fbcdaad2e9bfa0987b8d46a9dd; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: jurisdikcija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "jurisdikcija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

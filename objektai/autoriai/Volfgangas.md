@@ -27,16 +27,26 @@ Apie farmacijos būklę Lietuvoje trumpą žinutę išspausdino profeso­ rius V
   global_id: t-88100
   teiginys: 'Profesorius Volfgangas 1816 m. „Dziennik Wileński“ išspausdino trumpą žinutę apie farmacijos būklę Lietuvoje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Volfgangą ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1816 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Volfgangą ir atitinka citatą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=27bec5983c4d0fce0c700d5a74b10fc6bb32e2c4ba411cac0fb5bb1d020d8cca; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Volfgangas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=87
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volfgangas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Volfgango „Uwagi Historyczne“ leidinyje „Dziennik Wileński“: Profesorius Volfgangas 1816 m. „Dziennik Wileński“ IV tome išspausdino trumpą žinutę apie farmacijos būklę Lietuvoje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184501|Kryžiuočių ordinas]]: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama nusiaubė Lietuvą, sunaikindamas Ariogalos, Pernaravos ir Labūnavos žemes.
 - susijęs iš [[objektai/ivykiai/Prūsų žygis į Lietuvą ir nesėkminga Gardino apgultis (1363 m.).md#claim-t-185764|Prūsų žygis į Lietuvą ir nesėkminga Gardino apgultis (1363 m.)]]: Priešams grįžus į Prūsiją, visą Lietuvą užgulė badas, siejamas su prastu oru ir nuolatiniais priešų antpuoliais.
 - susijęs iš Lietuvos Metrikos raštai dėl sklypo Vilniaus vaistinei: Lietuvos Metrikos sąraše buvo raštai apie sklypą, kurį karalius Žygimantas apie 1510 m. nupirko Vilniaus vaistinės statybai.
-- susijęs iš Volfgango „Uwagi Historyczne“ leidinyje „Dziennik Wileński“: Profesorius Volfgangas 1816 m. „Dziennik Wileński“ IV tome išspausdino trumpą žinutę apie farmacijos būklę Lietuvoje.
 - susijęs iš Ariogala: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama visiškai sunaikino Ariogalos, Pernaravos ir Labūnavos žemes.
 - susijęs iš Pernarava: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama sunaikino Ariogalos, Pernaravos ir Labūnavos žemes Žemaitijoje.
 ## Reikšmingi paminėjimai
@@ -71,3 +81,13 @@ Apie farmacijos būklę Lietuvoje trumpą žinutę išspausdino profeso­ rius V
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=27bec5983c4d0fce0c700d5a74b10fc6bb32e2c4ba411cac0fb5bb1d020d8cca; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Volfgangas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=87
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volfgangas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -24,6 +24,16 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Drevenca; mentioned_place: Torno'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 928637-928846; hash=2a34ad2e5e987e8b4d436c49798d95a788a8c2fe8006ccaf74e8c5230cfb16ec; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drevenca: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Loebau: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Drevenca: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Loebau" parinktas kaip owner_note_path. Targetas "Drevenca" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184392"></a>
 - t-002
@@ -36,6 +46,16 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
   susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_place: Drevenca; mentioned_place: Torno'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 928507-928804; hash=122067596100b247d5eef8e0367e9626919d26a86f5a4905087f324964ed3d0b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drevenca: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Loebau: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Drevenca: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Loebau" parinktas kaip owner_note_path. Targetas "Drevenca" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Ulrichas von Jungingenas.md#claim-t-182864|Ulrichas von Jungingenas]]: Ordino didysis magistras Ulrichas von Jungingenas, vėlai sužinojęs Jogailos ir Vytauto planus, skubėjo pastoti jiems kelią.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178897|Kryžiuočių ordinas]]: Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti priešui kelią.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179083|Kryžiuočių ordinas]]: Ordino didysis magistras Ulrichas von Jungingenas vėlai sužinojo Jogailos ir Vytauto planus ir skubėjo pastoti jiems kelią.
@@ -71,4 +91,24 @@ Nuo Torno Drevencos krantu iki Loebau (VII.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 928637-928846; hash=2a34ad2e5e987e8b4d436c49798d95a788a8c2fe8006ccaf74e8c5230cfb16ec; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drevenca: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Loebau: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Drevenca: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Loebau" parinktas kaip owner_note_path. Targetas "Drevenca" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 928507-928804; hash=122067596100b247d5eef8e0367e9626919d26a86f5a4905087f324964ed3d0b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Drevenca: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Loebau: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Drevenca: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Loebau" parinktas kaip owner_note_path. Targetas "Drevenca" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

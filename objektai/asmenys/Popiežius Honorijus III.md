@@ -23,23 +23,33 @@ Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fr
   global_id: t-60416
   teiginys: 'Popiežius Honorijus III ir imperatorius Fridrichas II patikėjo broliui Hermanui spręsti jų slaptų nesutarimų bylą.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra perteklinis įvadas ir nutrūkusi konstrukcija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59860|Fridrichas II]]: Popiežius Honorijus III ir imperatorius Fridrichas II slaptų nesutarimų sprendimą patikėjo broliui Hermanui.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=00fed1344ff969626b927038fb787dd5290ae79cdb9d2357f416f35df0954d23; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fridrichas II: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Popiežius Honorijus III: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Fridrichas II: mention_match, person, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Popiežius Honorijus III" parinktas kaip owner_note_path. Targetas "Fridrichas II" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89821|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermanui iš Zalcos popiežius padovanojo žiedą, o imperatorius suteikė teisę vėliavoje turėti karališkąsias imperijos insignijas.
+- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89831|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermanas iš Zalcos atsisakė spręsti popiežiaus Honorijaus III ir imperatoriaus Fridricho II slaptų nesutarimų bylą.
+- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112522|Domininkonų ordinas]]: Brolių pamokslininkų ordinas minimas kaip įkurtas 1216 m., valdant popiežiui Honorijui III.
+- susijęs iš [[objektai/grupes/Mokinių slėnio brolių ordinas.md#claim-t-89154|Mokinių slėnio brolių ordinas]]: Mokinių slėnio brolių ordiną patvirtino popiežius Honorijus III.
+- susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Brolių pamokslininkų ordinas datuojamas 1216 m., o Mažesniųjų brolių ordinas – 1223 m., valdant popiežiui Honorijui III.
+- susijęs iš Ptolomėjaus iš Lukos Analai: Brolių pamokslininkų ordinas minimas 1216 m., kai valdė popiežius Honorijus III.
+- susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59860|Fridrichas II]]: Popiežius Honorijus III ir imperatorius Fridrichas II slaptų nesutarimų sprendimą patikėjo broliui Hermanui.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89826|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermano vadovavimo metu Ordinas gavo privilegijų, žemių ir relikviją, o per ją Prūsijoje vyko stebuklai.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89830|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Popiežius ir imperatorius suteikė Hermanui iš Zalcos bei būsimiems Teutonų ordino magistrams kunigaikščio titulą.
-- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89831|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermanas iš Zalcos atsisakė spręsti popiežiaus Honorijaus III ir imperatoriaus Fridricho II slaptų nesutarimų bylą.
 - susijęs iš [[objektai/daiktai/Ordino magistro valdžios žymenys.md#claim-t-183980|Ordino magistro valdžios žymenys]]: Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.
 - susijęs iš [[objektai/daiktai/Ordino magistro valdžios žymenys.md#claim-t-59696|Ordino magistro valdžios žymenys]]: Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.
 - susijęs iš [[objektai/daiktai/Šventojo kryžiaus relikvija.md#claim-t-59714|Šventojo kryžiaus relikvija]]: Imperatorius Fridrichas II Šventojo kryžiaus relikviją perdavė magistrui, kuris ją nusiuntė į Elbingo pilį Prūsijoje.
-- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112522|Domininkonų ordinas]]: Brolių pamokslininkų ordinas minimas kaip įkurtas 1216 m., valdant popiežiui Honorijui III.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178840|Kryžiuočių ordinas]]: Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui ir būsimiems Teutonų ordino magistrams kunigaikščio titulą.
-- susijęs iš [[objektai/grupes/Mokinių slėnio brolių ordinas.md#claim-t-89154|Mokinių slėnio brolių ordinas]]: Mokinių slėnio brolių ordiną patvirtino popiežius Honorijus III.
 - susijęs iš [[objektai/ivykiai/Hermano iš Zalcos išaukštinimas kunigaikščio titulu.md#claim-t-62806|Hermano iš Zalcos išaukštinimas kunigaikščio titulu]]: Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui iš Zalcos ir būsimiems Teutonų ordino magistrams kunigaikščio titulą.
-- susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Brolių pamokslininkų ordinas datuojamas 1216 m., o Mažesniųjų brolių ordinas – 1223 m., valdant popiežiui Honorijui III.
-- susijęs iš Ptolomėjaus iš Lukos Analai: Brolių pamokslininkų ordinas minimas 1216 m., kai valdė popiežius Honorijus III.
 - susijęs iš Elbingo pilis (pilis): Į Elbingo pilį buvo pasiųsta imperatoriaus Fridricho II magistrui perduota didelė šventojo kryžiaus dalis.
 ## Reikšmingi paminėjimai
 
@@ -63,3 +73,13 @@ Dusburgietis teigia, kad kartą, kai popiežius Honorijus III ir imperatorius Fr
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=00fed1344ff969626b927038fb787dd5290ae79cdb9d2357f416f35df0954d23; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fridrichas II: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Popiežius Honorijus III: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Fridrichas II: mention_match, person, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Popiežius Honorijus III" parinktas kaip owner_note_path. Targetas "Fridrichas II" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

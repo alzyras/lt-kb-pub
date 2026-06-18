@@ -26,6 +26,9 @@ tags:
   temporalinis_llm_pakomentavimas: 'Pradinį tekstą sudaro OCR ir schemos triukšmas, bet citata palaiko ribotą faktą apie posakio pateikimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2be17dd04789a9148147f9c77a5c8cc9a32f85e4971d248e523aeb93ce99e475; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -76,3 +79,6 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2be17dd04789a9148147f9c77a5c8cc9a32f85e4971d248e523aeb93ce99e475; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

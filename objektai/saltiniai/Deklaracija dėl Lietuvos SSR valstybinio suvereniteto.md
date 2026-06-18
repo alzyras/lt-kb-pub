@@ -29,12 +29,22 @@ LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skel
   global_id: t-21035
   teiginys: 'LPS reikalaujant, 1989 m. gegužės 18 d. priimta Deklaracija dėl Lietuvos SSR valstybinio suvereniteto.'
   sudarymo_pagrindimas: 'Reikia sutelkti teiginį į patį dokumentą ir išvengti gremėzdiškos konstrukcijos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: po 1988 m.; įvykio data: 1988 m.; įvykio data: 1989 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia sutelkti teiginį į patį dokumentą ir išvengti gremėzdiškos konstrukcijos.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=803885a58fce828bc340bd87107cde2578dfbc95945162c051340e1e63880c12; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Deklaracija dėl Lietuvos SSR valstybinio suvereniteto: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Deklaracija dėl Lietuvos SSR valstybinio suvereniteto" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -56,3 +66,13 @@ LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skel
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=803885a58fce828bc340bd87107cde2578dfbc95945162c051340e1e63880c12; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Deklaracija dėl Lietuvos SSR valstybinio suvereniteto: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Deklaracija dėl Lietuvos SSR valstybinio suvereniteto" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

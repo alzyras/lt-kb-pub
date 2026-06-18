@@ -22,9 +22,19 @@ tags:
   global_id: t-01084
   teiginys: 'Kraševskis buvo universiteto auklėtinis, pasižymėjęs lenkų romantinėje literatūroje, kuri temas ėmė iš Lietuvos istorijos.'
   sudarymo_pagrindimas: 'Pradinė formuluotė turi neaiškų „Čia“ ir pateikia asmenį tik sąraše.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kondratavičius|Kondratavičius]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Kondratavičius|Kondratavičius]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 916896-917454; hash=730686173c036fe2707e2872cddd3760ed3ede2a52bc5ea38d8a79dff43b4402; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kraševskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kraševskis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/J. Kraševskis.md#claim-t-63665|J. Kraševskis]]: J. I. Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.
 - susijęs iš [[objektai/asmenys/J. Kraševskis.md#claim-t-63666|J. Kraševskis]]: J. Kraševskio kūrybai priskiriama didelė reikšmė lietuvių tautinės savimonės plėtotei.
 - susijęs iš [[objektai/asmenys/Juozapas Ignas Kraševskis.md#claim-t-87432|Juozapas Ignas Kraševskis]]: Juozapas Ignas Kraševskis savo Vilniaus istorijoje panaudojo archyvinę medžiagą, kronikas ir metraščius.
@@ -33,11 +43,11 @@ tags:
 - susijęs iš [[objektai/asmenys/Juzefas Ignacas Kraševskis.md#claim-t-63788|Juzefas Ignacas Kraševskis]]: Juzefas Ignacas Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.
 - susijęs iš [[objektai/autoriai/A. Mickevičius.md#claim-t-19368|A. Mickevičius]]: A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei.
 - susijęs iš [[objektai/autoriai/J. I. Kraševskis.md#claim-t-78087|J. I. Kraševskis]]: J. I. Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.
-- susijęs iš A. F. Adamovičiaus ir Dominyko Chodzkos rankraščiai apie Vilnių: Rengiant Vilniaus istoriją naudotasi A. F. Adamovičiaus ir Dominyko Chodzkos sukauptais rankraščiais, užrašais ir asmeninėmis pastabomis apie Vilnių.
-- susijęs iš Atheneum: J. I. Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.
 - susijęs iš J. I. Kraševskio Vilniaus miesto istorija: J. I. Kraševskio 1840–1842 m. išleista Vilniaus miesto istorija chronologiškai nušvietė miesto raidą iki 1750 m.
 - susijęs iš Pasivaikščiojimai po Vilnių ir jo apylinkes: Kirkoras „Pasivaikščiojimuose po Vilnių ir jo apylinkes“ rėmėsi Kraševskio ir Balinskio veikalais apie Vilnių.
 - susijęs iš Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos: 1968 m. „Vilniaus miesto istorijos“ autoriai J. I. Kraševskio ir M. Balinskio darbus laikė senosios Vilniaus istoriografijos pagrindu.
+- susijęs iš A. F. Adamovičiaus ir Dominyko Chodzkos rankraščiai apie Vilnių: Rengiant Vilniaus istoriją naudotasi A. F. Adamovičiaus ir Dominyko Chodzkos sukauptais rankraščiais, užrašais ir asmeninėmis pastabomis apie Vilnių.
+- susijęs iš Atheneum: J. I. Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.
 - susijęs iš Karaliaučius: Iš Karaliaučiaus ir kitų archyvų Onacevičius buvo prisirankiojęs daug šaltinių.
 ## Reikšmingi paminėjimai
 
@@ -58,3 +68,13 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 916896-917454; hash=730686173c036fe2707e2872cddd3760ed3ede2a52bc5ea38d8a79dff43b4402; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kraševskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kraševskis" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

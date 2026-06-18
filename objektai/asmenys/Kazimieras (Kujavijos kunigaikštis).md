@@ -27,13 +27,24 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=24cdb2333429fd78e050478c44f4f3c6dea3474d7162b0cafe19040945ee2e86; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Kazimieras (Kujavijos kunigaikštis): owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Lenkija: exact_title_context, place, gap=9
+  ryšio_slopinti_kandidatai: Naklas: candidate; Pomeranija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Kazimieras (Kujavijos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Lenkija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Naklas.md", "selected": false, "strategy": "candidate", "title": "Naklas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Pomeranija.md", "selected": false, "strategy": "candidate", "title": "Pomeranija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 <a id="claim-t-63804"></a>
 - t-002
   global_id: t-63804
   teiginys: 'Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų leidosi persekioti iš Lenkijos besitraukiančių lietuvių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, turi aiškų veiksmą ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lenčica; mentioned_place: Mazovija; mentioned_place: Viena'
   pagrindžia:
     - c-006
 
@@ -42,18 +53,38 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   global_id: t-63805
   teiginys: 'Lietuviai, nutraukę paliaubas, nužudė kunigaikštį Kazimierą ir visus jo žmones, išskyrus vieną karį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Viena; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Lietuva; mentioned_place: Mazovija'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2c16fa3036af72cbe8e624047b34e8087e22229cf88c0c12ab4dccbfc934fdeb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kujavija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kazimieras (Kujavijos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kujavija: mention_match, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras (Kujavijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Kujavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63806"></a>
 - t-004
   global_id: t-63806
   teiginys: 'Magistras su Torunės broliais ir kunigaikščiu Kazimieru ketino žygiuoti prieš Sventopelko statomą Sveče pilį.'
   sudarymo_pagrindimas: 'Išplėstas neaiškus vietos paminėjimas pagal citatos kontekstą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Santyras; mentioned_place: Torunė; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Santyras; mentioned_place: Torunė; mentioned_place: Vysla'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=86e226a9d44214bf239784c07e600c61d7cd13425752cc51a488cb574e94e36e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Sventopelkas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kazimieras (Kujavijos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Sventopelkas: mention_match, person, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras (Kujavijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Sventopelkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63808"></a>
 - t-005
@@ -64,13 +95,23 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   semantiniai_rysiai: '[[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)|Kazimieras (Kujavijos kunigaikštis)]] buvo valdovas Lenkija'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 318222-318631; hash=bc803f068dfb0592d35c14dccf2f914702b0d675dfe04b29dbdd65caf06e5666; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Henrikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kazimieras (Kujavijos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras (Kujavijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63809"></a>
 - t-006
   global_id: t-63809
   teiginys: 'Sventopelkas įsibrovė į kunigaikščio Kazimiero žemę Kujaviją ir ją nusiaubė degindamas bei plėšdamas.'
   sudarymo_pagrindimas: 'Teiginys yra išbaigtas ir paremtas citata apie Kazimiero žemės nusiaubimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kujavija'
+  susije_objektai: 'mentioned_place: Kujavija; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
   pagrindžia:
     - c-001
 
@@ -126,6 +167,17 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=24cdb2333429fd78e050478c44f4f3c6dea3474d7162b0cafe19040945ee2e86; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Kazimieras (Kujavijos kunigaikštis): owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Lenkija: exact_title_context, place, gap=9
+  ryšio_slopinti_kandidatai: Naklas: candidate; Pomeranija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Kazimieras (Kujavijos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Lenkija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Naklas.md", "selected": false, "strategy": "candidate", "title": "Naklas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Pomeranija.md", "selected": false, "strategy": "candidate", "title": "Pomeranija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
     - t-004
 
 - c-004
@@ -146,6 +198,16 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=86e226a9d44214bf239784c07e600c61d7cd13425752cc51a488cb574e94e36e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Sventopelkas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kazimieras (Kujavijos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Sventopelkas: mention_match, person, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras (Kujavijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Sventopelkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-005
@@ -190,8 +252,38 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 318222-318631; hash=bc803f068dfb0592d35c14dccf2f914702b0d675dfe04b29dbdd65caf06e5666; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Henrikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kazimieras (Kujavijos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras (Kujavijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 574804-576231; hash=df849ecb0e0b4f15dbe2f34bcea30772b43da26f48ea683b9eda954e91e30d44; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kazimieras (Kujavijos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras (Kujavijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2c16fa3036af72cbe8e624047b34e8087e22229cf88c0c12ab4dccbfc934fdeb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kujavija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kazimieras (Kujavijos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kujavija: mention_match, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kazimieras (Kujavijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Kujavija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 ## Ryšiai

@@ -26,6 +26,9 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ca90315a22580dba3586fcf0b5ea3e8df8cdb6cf062cff3ba94b2473d145baec; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 <a id="claim-t-70271"></a>
 - t-002
   global_id: t-70271
@@ -34,6 +37,9 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=993a8d115221c7593b9c4bf0a8b5d4f17b60c8a479bcb8ef8527c2db332e8bff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -79,4 +85,10 @@ partizaniškas karas: tada Kęstutis su sūnum Vytautu pradėjo su jais partizan
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ca90315a22580dba3586fcf0b5ea3e8df8cdb6cf062cff3ba94b2473d145baec; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=993a8d115221c7593b9c4bf0a8b5d4f17b60c8a479bcb8ef8527c2db332e8bff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

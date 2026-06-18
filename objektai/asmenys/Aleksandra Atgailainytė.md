@@ -24,6 +24,16 @@ Apie KGB-MGB provokaciją pasakoja Prisikėlimo apygardos partizanė Aleksandra 
   susije_objektai: 'mentioned_place: Raseiniai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 997157-997437; hash=3bf6593292e67ac4b8dba86621f52b6cf93f7c487e615f65d313e478a6e70f17; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Raseiniai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandra Atgailainytė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Raseiniai: mention_match, place, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandra Atgailainytė" parinktas kaip owner_note_path. Targetas "Raseiniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Prisikėlimo apygarda.md#claim-t-41118|Prisikėlimo apygarda]]: Prisikėlimo apygardos partizanė Aleksandra Atgailainytė pasakojo apie KGB-MGB provokaciją.
 ## Reikšmingi paminėjimai
 
@@ -43,3 +53,13 @@ Apie KGB-MGB provokaciją pasakoja Prisikėlimo apygardos partizanė Aleksandra 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 997157-997437; hash=3bf6593292e67ac4b8dba86621f52b6cf93f7c487e615f65d313e478a6e70f17; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Raseiniai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandra Atgailainytė: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Raseiniai: mention_match, place, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandra Atgailainytė" parinktas kaip owner_note_path. Targetas "Raseiniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

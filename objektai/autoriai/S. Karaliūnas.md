@@ -23,6 +23,9 @@ Dusburgietis teigia, kad karaliūnui, istorikui R.
   sudarymo_pagrindimas: 'Citata aiškiai nurodo S. Karaliūną kaip rankraštį recenzavusį asmenį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 4333-4593; hash=2ef11291fddb134f5ddff25dd278170c817513ef309603ce415c4fb7e31092e6; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -38,3 +41,6 @@ Dusburgietis teigia, kad karaliūnui, istorikui R.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 4333-4593; hash=2ef11291fddb134f5ddff25dd278170c817513ef309603ce415c4fb7e31092e6; match=exact
+  sprendimo_priezastis: auto

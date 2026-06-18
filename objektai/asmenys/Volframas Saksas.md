@@ -26,6 +26,16 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
   susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7a8871dc8b85bf4e43e9156c7b9b786ade6e08947ed36f8d3c6a608bb8df5991; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Teutonai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Volframas Saksas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Teutonai: mention_match, group, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volframas Saksas" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-60223"></a>
 - t-002
@@ -34,6 +44,9 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
   sudarymo_pagrindimas: 'Teiginys perrašytas kaip aiškus sakinys apie asmenį, pašalinant puslapio triukšmą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=207b87c5c6d0103b00ac5b1d4d15dcb06b0f26ea37ba457c85add9c85e68a7f1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos.md#claim-t-183986|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]: Brolis Volframas Saksas Karaliaučiaus pilyje keldavosi iš lovos maldai ir uoliai tarnavo Dievui.
 - susijęs iš [[objektai/paprociai/Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos.md#claim-t-62681|Karaliaučiaus pilies brolių pasninkavimo, maldos ir naktinio budėjimo praktikos (pilis)]]: Brolis Volframas Saksas Karaliaučiaus pilyje keldavosi iš lovos maldai ir uoliai tarnavo Dievui.
 ## Reikšmingi paminėjimai
@@ -73,4 +86,17 @@ Dusburgietis teigia, kad apie kito brolio gyvenimą toje pačioje pilyje Tuo pat
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7a8871dc8b85bf4e43e9156c7b9b786ade6e08947ed36f8d3c6a608bb8df5991; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Teutonai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Volframas Saksas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Teutonai: mention_match, group, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Volframas Saksas" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=207b87c5c6d0103b00ac5b1d4d15dcb06b0f26ea37ba457c85add9c85e68a7f1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

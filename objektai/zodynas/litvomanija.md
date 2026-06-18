@@ -30,12 +30,22 @@ Dvarininkai, gindamiesi nuo „litvomanijos“, vis labiau tolo nuo lietuviškai
   global_id: t-77798
   teiginys: 'Dvarininkai, gindamiesi nuo „litvomanijos“, tolo nuo lietuviškai kalbančių kaimo gyventojų, o dalis kunigų konfliktavo su lietuvių siekiais.'
   sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir turi publicistinių formuluočių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Adomas Jakštas-Dambrauskas|Adomas Jakštas-Dambrauskas]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Adomas Jakštas-Dambrauskas|Adomas Jakštas-Dambrauskas]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1902 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys per ilgas ir turi publicistinių formuluočių.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 233746-234939; hash=c7c1b2ae033c914d427442682ca698cc7db513877c0a0a3d324847d3177e65a0; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: litvomanija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "litvomanija" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -64,3 +74,13 @@ Dvarininkai, gindamiesi nuo „litvomanijos“, vis labiau tolo nuo lietuviškai
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 233746-234939; hash=c7c1b2ae033c914d427442682ca698cc7db513877c0a0a3d324847d3177e65a0; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: litvomanija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "litvomanija" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

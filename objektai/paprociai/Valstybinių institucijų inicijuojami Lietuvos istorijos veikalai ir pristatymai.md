@@ -54,24 +54,44 @@ Nenurodyta
   global_id: t-54362
   teiginys: '1936 m. Lietuvos Respublikos švietimo ministerijos iniciatyva lietuvių istorikai parašė ir išleido plačios apimties Lietuvos istoriją.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Adolfas Šapoka|Adolfas Šapoka]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Adolfas Šapoka|Adolfas Šapoka]]'
   temporaliniai_duomenys: 'įvykio data: 1936 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai atitinka citatos informaciją.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 6808-7386; hash=31bd8880d951957f2fc7ed79f423169984da8d4e0f1c5dbad63308e8b26a39f9; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54363"></a>
 - t-002
   global_id: t-54363
   teiginys: '2013 m. Lietuvos pirmininkavimas Europos Sąjungai buvo siejamas su proga tęsti Lietuvos ir jos istorijos pristatymo pasauliui tradiciją.'
   sudarymo_pagrindimas: 'Pradinis teiginys pateikia kontekstą, bet geresnis sakinys tiesiogiau sieja faktą su pristatymo tradicija.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)|Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)]]; mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)|Lietuvos pirmininkavimas Europos Sąjungai (2013 m.)]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/NATO|NATO]]'
   temporaliniai_duomenys: 'įvykio data: 1990 m.; įvykio data: 2004 m.; įvykio data: 2013 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys pateikia kontekstą, bet geresnis sakinys tiesiogiau sieja faktą su pristatymo tradicija.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1baecd659d79f58bec5fd41f16ecc22a3f9f8bf628dadf151b44a2e87cd69671; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-54364"></a>
 - t-003
@@ -84,6 +104,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, turi aiškų veikėją ir veiksmą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=651ab5311a83519ccc459e1a1bdbfe710164561ecd5705f04c8382bd0131d5fb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183336"></a>
 - t-005
@@ -99,6 +129,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti teiginį tiesiogiai apie valstybinių institucijų vaidmenį.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 6808-7386; hash=31bd8880d951957f2fc7ed79f423169984da8d4e0f1c5dbad63308e8b26a39f9; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -138,6 +178,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1baecd659d79f58bec5fd41f16ecc22a3f9f8bf628dadf151b44a2e87cd69671; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -157,5 +207,35 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=651ab5311a83519ccc459e1a1bdbfe710164561ecd5705f04c8382bd0131d5fb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 6808-7386; hash=31bd8880d951957f2fc7ed79f423169984da8d4e0f1c5dbad63308e8b26a39f9; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 6808-7386; hash=31bd8880d951957f2fc7ed79f423169984da8d4e0f1c5dbad63308e8b26a39f9; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

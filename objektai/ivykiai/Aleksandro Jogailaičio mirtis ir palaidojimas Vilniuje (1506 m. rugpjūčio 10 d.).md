@@ -44,12 +44,22 @@ Nenurodyta
   global_id: t-86939
   teiginys: 'Žinia apie 1506 m. rugpjūtį pasiektą pergalę ties Klecku merdintį Aleksandrą Jogailaitį pasiekė Vilniuje.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškia nuoroda „Ši trokštama žinia“.'
-  susije_objektai: 'mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Krymas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1506 m.; įvykio data: apie 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys prasideda neaiškia nuoroda „Ši trokštama žinia“.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 475800-476199; hash=812972deac54e9ca3bc2bd6f0d7a6adc28b3971e443ff8e013a2b05cbe3cfdc2; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandro Jogailaičio mirtis ir palaidojimas Vilniuje (1506 m. rugpjūčio 10 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandro Jogailaičio mirtis ir palaidojimas Vilniuje (1506 m. rugpjūčio 10 d.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -70,3 +80,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 475800-476199; hash=812972deac54e9ca3bc2bd6f0d7a6adc28b3971e443ff8e013a2b05cbe3cfdc2; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aleksandro Jogailaičio mirtis ir palaidojimas Vilniuje (1506 m. rugpjūčio 10 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aleksandro Jogailaičio mirtis ir palaidojimas Vilniuje (1506 m. rugpjūčio 10 d.)" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

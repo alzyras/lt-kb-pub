@@ -26,11 +26,21 @@ amziai:
 - t-001
   global_id: t-31862
   teiginys: 'V. P. Jakimovo „Načal’nye etapy naselenija vostočnoj Pribaltiki“ paskelbtas 1956 m. Maskvoje, „Baltijskij Etnografičeskij Sbornik“ leidinyje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Maskva; mentioned_place: Milanas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Milanas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1956 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=038d04b6d9e04005fe2bd187f9cb13dc1614664edf7dcb590f5073ce9608d371; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Načal’nye etapy naselenija vostočnoj Pribaltiki: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=68
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Načal’nye etapy naselenija vostočnoj Pribaltiki" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -55,3 +65,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=038d04b6d9e04005fe2bd187f9cb13dc1614664edf7dcb590f5073ce9608d371; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Načal’nye etapy naselenija vostočnoj Pribaltiki: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=68
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Načal’nye etapy naselenija vostočnoj Pribaltiki" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

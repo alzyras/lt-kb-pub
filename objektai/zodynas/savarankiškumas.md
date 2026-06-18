@@ -26,6 +26,9 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir patikslintas teiginio subjektas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 254577-255216; hash=ba098c2190d7671a3bfd82895a9b160d461ab274cded3287d301a13350a76fee; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-70322"></a>
 - t-002
@@ -34,6 +37,9 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
   sudarymo_pagrindimas: 'Pradinis teiginys prasidėjo neaiškiu įvardžiu; perrašyta aiškiai įvardijant susitarimą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=12faf0163c051f19d2def5c45e158bb7a264b247bbabc133702697b734a10f88; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45347|Krėvos sutartis (1385 m.)]]: Krėvos sutartį sudaryti skatino ypač įnirtingi vokiečių puolimai ir prieš sutartį sekančios Lietuvos jėgos.
 ## Reikšmingi paminėjimai
 
@@ -73,4 +79,10 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 254577-255216; hash=ba098c2190d7671a3bfd82895a9b160d461ab274cded3287d301a13350a76fee; match=exact
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=12faf0163c051f19d2def5c45e158bb7a264b247bbabc133702697b734a10f88; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

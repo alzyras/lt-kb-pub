@@ -27,6 +27,16 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
   susije_objektai: 'mentioned_place: Aismares; mentioned_place: Braunsbergas; mentioned_place: Kristburgas; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=001e47dcc1b4938678128ed3475cf7212e78d03e3747501e38f5bdb3367086b7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Brunsbergas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pasarė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Brunsbergas: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasarė" parinktas kaip owner_note_path. Targetas "Brunsbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58611"></a>
 - t-002
@@ -36,9 +46,19 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
   susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Brunsbergas; mentioned_place: Prūsai; mentioned_place: Varmė'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 434747-435053; hash=10ff8210b74785efa51368a6f9affa5283cf18c63e9017729d399b6155465ef4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aismares: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pasarė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Aismares: mention_match, place, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasarė" parinktas kaip owner_note_path. Targetas "Aismares" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Brunsbergas: Brunsbergas, dabartinis Branevas, buvo Pasarės žemupyje, o pilis stovėjo žemiau dabartinio miesto, arčiau Aismarių.
 - susijęs iš [[objektai/daiktai/Gyvatgalviai kapliai.md#claim-t-89427|Gyvatgalviai kapliai]]: Žalvario amžiuje gyvatgalviai kapliai buvo paplitę į vakarus iki Persantės ir laikomi būdingais baltų kultūrinei sričiai.
 - susijęs iš Lietuvos archeologijos bruožai: Lietuvos archeologijos bruožuose nurodoma, kad žalvario amžiuje iki Persantės vakaruose buvo paplitę baltų kultūrinei sričiai būdingi gyvatgalviai kapliai.
-- susijęs iš Brunsbergas: Brunsbergas, dabartinis Branevas, buvo Pasarės žemupyje, o pilis stovėjo žemiau dabartinio miesto, arčiau Aismarių.
 - susijęs iš Pagudė: Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes.
 ## Reikšmingi paminėjimai
 
@@ -75,4 +95,24 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=001e47dcc1b4938678128ed3475cf7212e78d03e3747501e38f5bdb3367086b7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Brunsbergas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pasarė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Brunsbergas: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasarė" parinktas kaip owner_note_path. Targetas "Brunsbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 434747-435053; hash=10ff8210b74785efa51368a6f9affa5283cf18c63e9017729d399b6155465ef4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aismares: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pasarė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Aismares: mention_match, place, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasarė" parinktas kaip owner_note_path. Targetas "Aismares" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -37,50 +37,100 @@ Vilniaus žydų bendruomenės savivaldos institucija.
 - t-001
   global_id: t-55106
   teiginys: 'Vilniaus kahalo žydams buvo perduota 5 500 auksinų suma.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 397480-398245; hash=d7341f0b56e8512014a1efe81ba7c9831cb21d00899a21f8b5b0c478d13babd5; match=whitespace_regex
+  sprendimo_priezastis: gap::groups
+  ryšio_patikimumas: susije_su -> Vilniaus kapitula: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus žydų kahalas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Vilniaus kapitula: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus žydų kahalas" parinktas kaip owner_note_path. Targetas "Vilniaus kapitula" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-55107"></a>
 - t-002
   global_id: t-55107
   teiginys: 'Vilniaus kahalas iki 1763 m. Valerijono konvikto gyventojams mokėjo 8 procentus, o nuo 1763 m. - 3 procentus.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytus mokėjimo procentus ir laikotarpius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]'
   temporaliniai_duomenys: 'įvykio data: iki 1763 m.; įvykio data: po 1763 m.; įvykio data: 1763 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytus mokėjimo procentus ir laikotarpius.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 397480-398245; hash=d7341f0b56e8512014a1efe81ba7c9831cb21d00899a21f8b5b0c478d13babd5; match=whitespace_regex
+  sprendimo_priezastis: gap::groups
+  ryšio_patikimumas: susije_su -> Valerijonas (raštininkas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus žydų kahalas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Valerijonas (raštininkas): mention_match, person, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus žydų kahalas" parinktas kaip owner_note_path. Targetas "Valerijonas (raštininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-55108"></a>
 - t-003
   global_id: t-55108
   teiginys: 'Kahalas mokėjo procentus nuo jame investuotų sumų įpareigotų pamaldų reikmėms.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_person: [[objektai/asmenys/Juraha|Juraha]]; mentioned_person: [[objektai/asmenys/Mauricijus|Mauricijus]]; mentioned_person: [[objektai/asmenys/Uršulė|Uršulė]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Juraha|Juraha]]; mentioned_person: [[objektai/asmenys/Mauricijus|Mauricijus]]; mentioned_person: [[objektai/asmenys/Uršulė|Uršulė]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 399308-399920; hash=a75799b4be1de85d1e372ccafd9366f1b3b896a6cf51bb463e3b5b2b09306ec8; match=whitespace_regex
+  sprendimo_priezastis: gap::groups
+  ryšio_patikimumas: susije_su -> kahalas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus žydų kahalas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: kahalas: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus žydų kahalas" parinktas kaip owner_note_path. Targetas "kahalas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-81750"></a>
 - t-004
   global_id: t-81750
   teiginys: 'Tėvas Juraha viderkafto mokestį priskyrė kahale investuotoms sumoms, nuo kurių kahalas mokėjo procentus įpareigotoms pamaldoms.'
   sudarymo_pagrindimas: 'Citata remia kahalo vaidmenį mokant procentus, o pradinė formuluotė nutrūkusi ir užteršta puslapio triukšmu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_person: [[objektai/asmenys/Juraha|Juraha]]; mentioned_person: [[objektai/asmenys/Mauricijus|Mauricijus]]; mentioned_person: [[objektai/asmenys/Uršulė|Uršulė]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Juraha|Juraha]]; mentioned_person: [[objektai/asmenys/Mauricijus|Mauricijus]]; mentioned_person: [[objektai/asmenys/Uršulė|Uršulė]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7cdc7ef5baccf0383209616aad23466fd9885ed767161e5ed4bd1f01a5e7d9e7; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::groups
+  ryšio_patikimumas: susije_su -> Valerijonas (raštininkas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus žydų kahalas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Valerijonas (raštininkas): mention_match, person, gap=106
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus žydų kahalas" parinktas kaip owner_note_path. Targetas "Valerijonas (raštininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-81751"></a>
 - t-005
   global_id: t-81751
   teiginys: '1631 m. Vilniaus kahalo žydams buvo perduota 5500 auksinų suma, nuo kurios kahalas iki 1763 m. mokėjo 8 procentus Valerijono konvikto gyventojams.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Laurynas Volskis|Laurynas Volskis]]; mentioned_person: [[objektai/asmenys/Stanislovas Goreckis|Stanislovas Goreckis]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Laurynas Volskis|Laurynas Volskis]]; mentioned_person: [[objektai/asmenys/Stanislovas Goreckis|Stanislovas Goreckis]]'
   temporaliniai_duomenys: 'įvykio data: iki 1763 m.; įvykio data: 1631 m.; įvykio data: 1763 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, faktinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=270588d63337abc2f4a4dea80cf417f7fca1999dbbb017d2a6a5f8b03693b134; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::groups
+  ryšio_patikimumas: susije_su -> kahalas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus žydų kahalas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: kahalas: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus žydų kahalas" parinktas kaip owner_note_path. Targetas "kahalas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -107,6 +157,16 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 397480-398245; hash=d7341f0b56e8512014a1efe81ba7c9831cb21d00899a21f8b5b0c478d13babd5; match=whitespace_regex
+  sprendimo_priezastis: gap::groups
+  ryšio_patikimumas: susije_su -> Vilniaus kapitula: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus žydų kahalas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Vilniaus kapitula: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus žydų kahalas" parinktas kaip owner_note_path. Targetas "Vilniaus kapitula" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-002
@@ -129,6 +189,16 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 397480-398245; hash=d7341f0b56e8512014a1efe81ba7c9831cb21d00899a21f8b5b0c478d13babd5; match=whitespace_regex
+  sprendimo_priezastis: gap::groups
+  ryšio_patikimumas: susije_su -> Valerijonas (raštininkas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus žydų kahalas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Valerijonas (raštininkas): mention_match, person, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus žydų kahalas" parinktas kaip owner_note_path. Targetas "Valerijonas (raštininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -155,6 +225,16 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 399308-399920; hash=a75799b4be1de85d1e372ccafd9366f1b3b896a6cf51bb463e3b5b2b09306ec8; match=whitespace_regex
+  sprendimo_priezastis: gap::groups
+  ryšio_patikimumas: susije_su -> kahalas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus žydų kahalas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: kahalas: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus žydų kahalas" parinktas kaip owner_note_path. Targetas "kahalas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-004
@@ -181,4 +261,24 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7cdc7ef5baccf0383209616aad23466fd9885ed767161e5ed4bd1f01a5e7d9e7; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::groups
+  ryšio_patikimumas: susije_su -> Valerijonas (raštininkas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus žydų kahalas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Valerijonas (raštininkas): mention_match, person, gap=106
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus žydų kahalas" parinktas kaip owner_note_path. Targetas "Valerijonas (raštininkas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=270588d63337abc2f4a4dea80cf417f7fca1999dbbb017d2a6a5f8b03693b134; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::groups
+  ryšio_patikimumas: susije_su -> kahalas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vilniaus žydų kahalas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: kahalas: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vilniaus žydų kahalas" parinktas kaip owner_note_path. Targetas "kahalas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

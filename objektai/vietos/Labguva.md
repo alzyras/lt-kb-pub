@@ -36,10 +36,10 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - susijęs iš [[objektai/autoriai/Zimmermann P.md#claim-t-60828|Zimmermann P]]: P. Zimmermannas 1925 m. Labguvoje paskelbė Labguvos apskrities istoriją iki maždaug 1500 metų.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183897|Skalviai]]: Skalviai laivais priplaukė Labguvos pilį, apyaušryje ją užėmė, išžudė vyrus, sudegino pilį, o moteris ir vaikus išsivedė.
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89219|Skalviai]]: Skalvių vyresnieji, susirinkę į sueigą, nusprendė pasiųsti 400 rinktinių vyrų į žygį prieš Labguvos pilį.
-- susijęs iš [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti.md#claim-t-183984|Genties vyresniųjų sueiga karo sprendimui priimti]]: Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.
-- susijęs iš [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti.md#claim-t-62115|Genties vyresniųjų sueiga karo sprendimui priimti]]: Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.
 - susijęs iš Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės: A. Vanago straipsnis apie vietovardžio Labguva darybą ir kilmę paskelbtas „Baltisticoje“ 1966 m.
 - susijęs iš Deimena: Lietuvos prekės iš Nemuno per Giliją ir Kuršmares buvo plukdomos Deimena pro Labguvą į Prieglių.
+- susijęs iš [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti.md#claim-t-183984|Genties vyresniųjų sueiga karo sprendimui priimti]]: Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.
+- susijęs iš [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti.md#claim-t-62115|Genties vyresniųjų sueiga karo sprendimui priimti]]: Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.
 - susijęs iš Nogatas: Nogatu buvo plaukiama iš Aistmarių į Vyslą prekybos keliu, kuriuo Lietuvos prekės galiausiai pasiekdavo Dancigą.
 ## Reikšmingi paminėjimai
 

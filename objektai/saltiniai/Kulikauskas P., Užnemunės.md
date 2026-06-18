@@ -24,6 +24,9 @@ Dusburgietis teigia, kad kapinynų, kai kurių piliakalnių tyrimas rodo, kad U�
   sudarymo_pagrindimas: 'Reikia pašalinti nepagrįstą Dusburgiečio atribuciją ir suformuluoti aiškų sakinį iš citatos.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 541084-541229; hash=a7b40ecd97b975fd41a7a10a5575d7cb405980b20353bab0eacc19600c4ed613; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -39,3 +42,6 @@ Dusburgietis teigia, kad kapinynų, kai kurių piliakalnių tyrimas rodo, kad U�
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 541084-541229; hash=a7b40ecd97b975fd41a7a10a5575d7cb405980b20353bab0eacc19600c4ed613; match=exact
+  sprendimo_priezastis: auto

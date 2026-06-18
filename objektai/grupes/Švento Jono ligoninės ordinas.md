@@ -38,13 +38,23 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti boilerplate formuluotę ir palikti aiškų faktinį sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cb949f1150f53d95db6742c554f1776da0fdfd37614f78135e93d0f91e6ca081; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Tamplierių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Švento Jono ligoninės ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Tamplierių ordinas: mention_match, group, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švento Jono ligoninės ordinas" parinktas kaip owner_note_path. Targetas "Tamplierių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88537|Cistersų ordinas]]: Cistersų ordinas kronikos chronologiniame sąraše siejamas su 1097 Viešpaties metais.
-- susijęs iš [[objektai/grupes/Joanitų ordinas.md#claim-t-72082|Joanitų ordinas]]: Švento Jono ligoninės ordinas datuojamas 1104 metais, popiežiaus Urbono II laikais.
 - susijęs iš [[objektai/grupes/Kartūzų ordinas.md#claim-t-63007|Kartūzų ordinas]]: Kartūzų ordinas datuojamas 1082 metais, popiežiaus Viktoro III laikais.
 - susijęs iš [[objektai/grupes/Tamplierių ordinas.md#claim-t-89287|Tamplierių ordinas]]: Tamplierių ordinas siejamas su 1112 m. popiežiaus Paskalio II laikais, o 1312 m. kovo 23 d. popiežius Klemensas V jį panaikino Vieno suvažiavime.
 - susijęs iš [[objektai/grupes/Tamplierių ordinas.md#claim-t-89288|Tamplierių ordinas]]: Tamplierių ordinas minimas prie 1112 metų popiežiaus Paskalio II laikais, o 1312 m. jį panaikino popiežius Klemensas V.
 - susijęs iš [[objektai/ivykiai/Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.).md#claim-t-183968|Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.)]]: 1312 m. kovo 23 d. Vieno suvažiavime popiežius Klemensas V paskelbė Tamplierių ordino panaikinimo parengiamąjį veiksmą.
 - susijęs iš [[objektai/ivykiai/Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.).md#claim-t-62932|Tamplierių ordino panaikinimo parengiamasis veiksmas Vieno suvažiavime (1312 m. kovo 23 d.)]]: 1312 m. kovo 23 d. Vieno suvažiavime popiežius Klemensas V paskelbė Tamplierių ordino panaikinimo parengiamąjį veiksmą.
+- susijęs iš [[objektai/grupes/Joanitų ordinas.md#claim-t-72082|Joanitų ordinas]]: Švento Jono ligoninės ordinas datuojamas 1104 metais, popiežiaus Urbono II laikais.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,3 +73,13 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cb949f1150f53d95db6742c554f1776da0fdfd37614f78135e93d0f91e6ca081; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Tamplierių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Švento Jono ligoninės ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Tamplierių ordinas: mention_match, group, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švento Jono ligoninės ordinas" parinktas kaip owner_note_path. Targetas "Tamplierių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

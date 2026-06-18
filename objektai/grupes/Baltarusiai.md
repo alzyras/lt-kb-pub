@@ -24,7 +24,7 @@ tags:
   global_id: t-65082
   teiginys: 'Kraštiečių demokratų srovė autonominę Lietuvą LDK ribose įsivaizdavo kaip daugiakultūrį lietuvių, lenkų, baltarusių ir iš dalies žydų darinį.'
   sudarymo_pagrindimas: 'Įvardytas neaiškus įvardis ir sakinys susietas su baltarusių paminėjimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -39,6 +39,31 @@ tags:
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f608f6d9f44657fe4f6a6f0315e4270a0563ccff4747d9cf6e634774cfd0b29b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žydai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Baltarusiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltarusiai" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169696|Lietuvos Didžioji Kunigaikštija]]: Po antrojo Abiejų Tautų Respublikos padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.
+- susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74906|Rusėnai]]: LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos.
+- susijęs iš [[objektai/ivykiai/Antrasis LLV padalijimas.md#claim-t-20165|Antrasis LLV padalijimas]]: Po antrojo LLV padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.
+- susijęs iš [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas.md#claim-t-183286|Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]: Vokietijos ir Austrijos kariuomenių kontroliuojamoje buvusios Lenkijos ir Lietuvos valstybės teritorijoje gyveno lenkai, lietuviai, latviai ir baltarusiai.
+- susijęs iš [[objektai/paprociai/LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba.md#claim-t-183315|LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba]]: Visa LDK teritorija, apėmusi dabartinę Lietuvą ir Baltarusiją, ilgainiui pradėta vadinti Lietuva, o šiandien vadinama istorine Lietuva.
+- susijęs iš [[objektai/posakiai/„tautų kalėjimas“ „lydymosi katilas“ „tautų lopšys“.md#claim-t-183511|„tautų kalėjimas“ „lydymosi katilas“ „tautų lopšys“]]: LDK vykę tautų lydymosi procesai baigėsi ne visuotine polonizacija, o lietuvių, baltarusių ir ukrainiečių modernių tautų susikūrimu.
+- susijęs iš Lietuva: LDK lydymosi procesai baigėsi ne visuotine polonizacija, o modernių lietuvių, baltarusių ir ukrainiečių tautų susikūrimu.
+- susijęs iš Lietuva: Po antrojo LLV padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.
+- susijęs iš Pinskas: Pinskas minimas kaip vienas žymiausių baltarusių gyvenamos Polesės miestų.
+- susijęs iš Vilniaus gubernija: Po 1843 m. pertvarkos caro valdžia Vilniaus guberniją priskyrė prie baltarusiškų, nors jos vakarinėje dalyje tebevyravo lietuviškai kalbantieji.
+- susijęs iš [[objektai/zodynas/krajovcai kraštiečiai.md#claim-t-23528|krajovcai kraštiečiai]]: Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.
+- susijęs iš [[objektai/zodynas/krajovcai.md#claim-t-23529|krajovcai]]: Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.
+- susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72703|mokytojų seminarija]]: 1864 m. Molodečne įsteigta mokytojų seminarija negalėjo parengti pakankamai mokytojų Lietuvos ir baltarusių švietimo apygardoms.
+- susijęs iš [[objektai/zodynas/tuteišiai.md#claim-t-183480|tuteišiai]]: Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės.
+- susijęs iš [[objektai/zodynas/tuteišiai.md#claim-t-45860|tuteišiai]]: Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės.
 - susijęs iš [[objektai/asmenys/Bazilijus Ciapinskis.md#claim-t-18848|Bazilijus Ciapinskis]]: Rusėnų ir baltarusių spaustuvininkas Bazilijus Ciapinskis antrojoje XVI a. pusėje spausdino raštus dviem stulpeliais.
 - susijęs iš [[objektai/asmenys/Bogdanas Chmelnickis.md#claim-t-186100|Bogdanas Chmelnickis]]: Kojelavičius Bogdano Chmelnickio vadovautą ukrainiečių sukilimą vadino Rusios baudžiauninkų sukilimu.
 - susijęs iš [[objektai/asmenys/Dominykas Semaško.md#claim-t-63540|Dominykas Semaško]]: Dominyko Semaškos argumentais Lietuvos delegacija rėmėsi derybose su Sovietų Rusija dėl didesnės teritorijos Rytuose.
@@ -56,24 +81,18 @@ tags:
 - susijęs iš [[objektai/daiktai/Ginklai ir ginkluotė.md#claim-t-45484|Ginklai ir ginkluotė]]: 1920 m. rugsėjį Mykolas Sleževičius Seime ragino sveikus gyventojus griebtis ginklo prieš lenkų puolimą.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80772|Abiejų Tautų Respublika]]: 1793 m. Rusija ir Prūsija įvykdė antrąjį Abiejų Tautų Respublikos padalijimą, kurį Gardino seimas buvo priverstas patvirtinti.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179178|Lenkai]]: Nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino „litvinais“ arba „senalietuviais“, bet dauguma integravosi į lenkų tautą.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169696|Lietuvos Didžioji Kunigaikštija]]: Po antrojo Abiejų Tautų Respublikos padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.
 - susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74904|Rusėnai]]: Pranciškus Skorina kilo iš rusėnų kultūrinės aplinkos ir buvo pirmasis Lietuvos spaustuvininkas.
-- susijęs iš [[objektai/grupes/Rusėnai.md#claim-t-74906|Rusėnai]]: LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos.
 - susijęs iš [[objektai/grupes/Senalietuviai.md#claim-t-20007|Senalietuviai]]: XX a. pradžioje kai kurie nutautėjusios Lietuvos dalies bajorai tebesivadino „litvinais“ arba „senalietuviais“, bet dauguma integravosi į lenkų tautą.
-- susijęs iš [[objektai/ivykiai/Antrasis LLV padalijimas.md#claim-t-20165|Antrasis LLV padalijimas]]: Po antrojo LLV padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.
 - susijęs iš [[objektai/ivykiai/Gardino seimas ir antrojo LLV padalijimo patvirtinimas.md#claim-t-20185|Gardino seimas ir antrojo LLV padalijimo patvirtinimas (seimas)]]: Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. Gardine sušaukti Seimą, turėjusį patvirtinti antrąjį LLV padalijimą.
 - susijęs iš [[objektai/ivykiai/Pranciškaus Skorinos spaustuvės įkūrimas Vilniuje.md#claim-t-20458|Pranciškaus Skorinos spaustuvės įkūrimas Vilniuje]]: Pranciškus Skorina buvo pirmasis Lietuvos spaustuvininkas, kilęs iš rusėnų kultūrinės aplinkos ir gimęs Polocko pirklių šeimoje.
-- susijęs iš [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas.md#claim-t-183286|Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]: Vokietijos ir Austrijos kariuomenių kontroliuojamoje buvusios Lenkijos ir Lietuvos valstybės teritorijoje gyveno lenkai, lietuviai, latviai ir baltarusiai.
 - susijęs iš [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika.md#claim-t-75355|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]: 1863 m. pabaigoje į sukilimo slopintojų rankas pakliuvo Antanas Mackevičius ir Konstantinas Kalinauskas, abu netrukus buvo viešai pakarti.
 - susijęs iš [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika.md#claim-t-75356|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]: 1863 m. pabaigoje Antanas Mackevičius ir Konstantinas Kalinauskas pateko į sukilimo slopintojų rankas ir netrukus buvo viešai pakarti.
 - susijęs iš [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui.md#claim-t-20810|Karinė savanorystė ir žemės pažadas valstybės gynimui]]: M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus dalijamos lenkų dvarininkų žemės.
-- susijęs iš [[objektai/paprociai/LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba.md#claim-t-183315|LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba]]: Visa LDK teritorija, apėmusi dabartinę Lietuvą ir Baltarusiją, ilgainiui pradėta vadinti Lietuva, o šiandien vadinama istorine Lietuva.
 - susijęs iš [[objektai/paprociai/LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba.md#claim-t-54260|LDK bajorų lietuviška savivardystė ir raštų kalbos vadinimas lietuvių kalba]]: LDK bajorai, nepaisant etninės kilmės, laikė save lietuviais.
 - susijęs iš [[objektai/paprociai/Liaudies ugdymo siejimas su visuomeninėmis pertvarkomis.md#claim-t-87245|Liaudies ugdymo siejimas su visuomeninėmis pertvarkomis]]: M. Balinskis rėmė lietuvių ir baltarusių švietėjų pastangas liaudies ugdymą paversti visuomeninių pertvarkymų dalimi.
 - susijęs iš [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme.md#claim-t-75373|Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]: Senrusių žemėse lietuviai atrado bažnytinę sistemą ir raštiją, kurių patys neturėjo.
 - susijęs iš [[objektai/paprociai/Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme.md#claim-t-75378|Lietuvių kunigaikščių stačiatikybės priėmimas Rusios žemių valdyme]]: Rusios žemėse lietuviai rado bažnytinę sistemą ir raštiją, kurių patys neturėjo.
 - susijęs iš [[objektai/posakiai/„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“.md#claim-t-20927|„niekuomet nebuvo karo padėtyje“ „nedraugiškas aktas“]]: Lietuviai patenkino A. Jofės prašymą įrašyti, kad Lietuva ir Sovietų Rusija „niekuomet nebuvo karo padėtyje“.
-- susijęs iš [[objektai/posakiai/„tautų kalėjimas“ „lydymosi katilas“ „tautų lopšys“.md#claim-t-183511|„tautų kalėjimas“ „lydymosi katilas“ „tautų lopšys“]]: LDK vykę tautų lydymosi procesai baigėsi ne visuotine polonizacija, o lietuvių, baltarusių ir ukrainiečių modernių tautų susikūrimu.
 - susijęs iš 1920 m. liepos 12 d. taika su Sovietų Rusija: Lietuviai sutiko įrašyti Adolfo Jofės prašytą nuostatą, kad Lietuva ir Sovietų Rusija niekuomet nebuvo karo padėtyje.
 - susijęs iš 1920 m. liepos 12 d. taika su Sovietų Rusija: Lietuviai sutiko įrašyti Adolfo Jofės prašytą nuostatą, kad Lietuva ir Sovietų Rusija niekuomet nebuvo karo padėtyje.
 - susijęs iš LLV ir Rusijos taikos sutartis (1793 m.): 1793 m. Gardino Seimas turėjo pritarti naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
@@ -86,24 +105,15 @@ tags:
 - susijęs iš Gardino gubernija: 1843 m. prie Vilniaus gubernijos priskirtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms.
 - susijęs iš Kaunas: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę.
 - susijęs iš Kauno gubernija: 1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija.
-- susijęs iš Lietuva: LDK lydymosi procesai baigėsi ne visuotine polonizacija, o modernių lietuvių, baltarusių ir ukrainiečių tautų susikūrimu.
-- susijęs iš Lietuva: Po antrojo LLV padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.
 - susijęs iš Paduva: Pranciškus Skorina baigė Paduvos universitetą ir ten įgijo medicinos daktaro laipsnį.
-- susijęs iš Pinskas: Pinskas minimas kaip vienas žymiausių baltarusių gyvenamos Polesės miestų.
 - susijęs iš Polesė: Paaiškinime teigiama, kad Kojelavičius dažnai neskyrė Polesės nuo kaimyninės Palenkės, lenkiškai vadintos Poleksia.
 - susijęs iš Turovas: Turovas buvo vienas žymiausių Polesės miestų kartu su Pinsku ir David Gorodoku.
-- susijęs iš Vilniaus gubernija: Po 1843 m. pertvarkos caro valdžia Vilniaus guberniją priskyrė prie baltarusiškų, nors jos vakarinėje dalyje tebevyravo lietuviškai kalbantieji.
 - susijęs iš Vilniaus gubernija: Per 1863 metus atkakliausiai sukilėliai kovėsi su caro kariuomene Kauno gubernijoje, kurioje įvyko 168 mūšiai ir susidūrimai su caro kariuomene.
 - susijęs iš [[objektai/zodynas/istorinė Lietuva.md#claim-t-75551|istorinė Lietuva]]: XVI–XVIII a. LDK bajorai, nepaisydami etninės kilmės, laikė save lietuviais.
 - susijęs iš [[objektai/zodynas/istorinė Lietuva.md#claim-t-75555|istorinė Lietuva]]: XVI-XVIII a. LDK bajorai, nepaisydami etninės kilmės, laikė save lietuviais.
-- susijęs iš [[objektai/zodynas/krajovcai kraštiečiai.md#claim-t-23528|krajovcai kraštiečiai]]: Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.
-- susijęs iš [[objektai/zodynas/krajovcai.md#claim-t-23529|krajovcai]]: Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.
-- susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72703|mokytojų seminarija]]: 1864 m. Molodečne įsteigta mokytojų seminarija negalėjo parengti pakankamai mokytojų Lietuvos ir baltarusių švietimo apygardoms.
 - susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72705|mokytojų seminarija]]: 1872 m. Panevėžyje įsteigta mokytojų seminarija rengė mokytojus visai Lietuvai, išskyrus Užnemunę.
 - susijęs iš [[objektai/zodynas/rusėnų kalba LDK raštų kalba.md#claim-t-169932|rusėnų kalba LDK raštų kalba]]: Besiformuojanti rusėnų raštija ankstyvojoje Lietuvos istorijoje virto oficialia LDK raštų kalba.
 - susijęs iš [[objektai/zodynas/senalietuviai jaunalietuviai.md#claim-t-26556|senalietuviai jaunalietuviai]]: Nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino litvinais arba senalietuviais, bet dauguma jų integravosi į lenkų tautą.
-- susijęs iš [[objektai/zodynas/tuteišiai.md#claim-t-183480|tuteišiai]]: Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės.
-- susijęs iš [[objektai/zodynas/tuteišiai.md#claim-t-45860|tuteišiai]]: Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -148,3 +158,13 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f608f6d9f44657fe4f6a6f0315e4270a0563ccff4747d9cf6e634774cfd0b29b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žydai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Baltarusiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltarusiai" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -26,6 +26,17 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Pašilė; mentioned_place: Viena; mentioned_place: Žirnajos upelis'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=77e898e6e37832ca0149db62af2e528d953b28445ae89238b4e91f11791ef973; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pašilė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gelvonai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pašilė: mention_match, place, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gelvonai" parinktas kaip owner_note_path. Targetas "Pašilė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Pašilė: Švitrigailos ir Ordino pajėgos iš Vilkmergės traukė į pietus pro Pašilę Gelvonų link.
 - susijęs iš [[objektai/asmenys/Albertas Tžasibroda.md#claim-t-87610|Albertas Tžasibroda]]: Albertas Tžasibroda turėjo žemę, iš kurios Sofija Simonovna privalėjo mokėti kviečių dešimtinę nuo visų laukų.
 - susijęs iš [[objektai/asmenys/Mykolas.md#claim-t-64008|Mykolas]]: Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.
 - susijęs iš [[objektai/asmenys/Mykolas.md#claim-t-64009|Mykolas]]: Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.
@@ -33,7 +44,6 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
 - susijęs iš [[objektai/asmenys/Sofija Šimonova.md#claim-t-87578|Sofija Šimonova]]: Bajorė Sofija Šimonova iš Alberto Tžasibrodos žemės turėjo mokėti kviečių dešimtinę nuo visų laukų.
 - susijęs iš [[objektai/asmenys/Stanislovas Vaitkavičius.md#claim-t-87863|Stanislovas Vaitkavičius]]: Stanislovas Vaitkavičius turėjo žemę, iš kurios buvo mokama kviečių dešimtinė.
 - susijęs iš [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.).md#claim-t-66810|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]: Priešas Pabaisko apylinkėse atsitraukė į patogesnes pozicijas, bet lietuvių-lenkų kariuomenė jį smogė ir perskėlė pusiau.
-- susijęs iš Pašilė: Švitrigailos ir Ordino pajėgos iš Vilkmergės traukė į pietus pro Pašilę Gelvonų link.
 - susijęs iš Vintara: Kariuomenių išsidėstymą natūroje atitinka Vintaros, o ne Žirnajos, padėtis; Vintara yra dešinysis Žirnajos intakas, tekantis per dabartinį Pabaiską.
 - susijęs iš Žirnajų ežeras: Švitrigailos ir Ordino pajėgos prie Žirnajų ežero judėjo vakarine pakrante, o Žygimanto kariuomenė traukė rytine ežero puse.
 ## Reikšmingi paminėjimai
@@ -56,3 +66,13 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=77e898e6e37832ca0149db62af2e528d953b28445ae89238b4e91f11791ef973; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pašilė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gelvonai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Pašilė: mention_match, place, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gelvonai" parinktas kaip owner_note_path. Targetas "Pašilė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

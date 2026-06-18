@@ -30,9 +30,19 @@ Wermke : Bibliographie der Geschichte von Ostund Westpreußen (bis 1929). Wermke
 - t-001
   global_id: t-30602
   teiginys: 'E. Wermke vėlesnėse bibliografijos tąsose rūpestingiau apžvelgė ir lietuvių kalba rašytus darbus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cde30cfa5b545ec6dacc48ba995a702f1e528c074603d7f52a1b44d2d3c04ea6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: E. Wermke: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=67
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "E. Wermke" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Wermke E.md#claim-t-62664|Wermke E]]: E. Wermke parengė Rytų ir Vakarų Prūsijos istorijos bibliografiją, apimančią laikotarpius iki 1929 m., 1930–1938 m. ir 1939–1970 m.
 - susijęs iš Der Deutsche Orden im Zeitalter der polnisch-litauischen Union: H. Oersdorfo Der Deutsche Orden im Zeitalter der polnisch-litauischen Union apėmė didžiojo magistro Konrado Zöllnerio 1382–1390 m. tarnybą.
 - susijęs iš Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386: K. D. Stammlerio „Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386“ pasirodė 1953 m.
@@ -56,3 +66,13 @@ Wermke : Bibliographie der Geschichte von Ostund Westpreußen (bis 1929). Wermke
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cde30cfa5b545ec6dacc48ba995a702f1e528c074603d7f52a1b44d2d3c04ea6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: E. Wermke: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=67
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "E. Wermke" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

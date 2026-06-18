@@ -37,18 +37,38 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys suardytas OCR, citata pagrindžia aiškų faktą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 384698-385291; hash=0256ecc3e67d18237d142dbd7ef140734fe89bbc9b7c5b3ad0c8f147fe3ebb83; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Justas Paleckis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Justas Paleckis" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-19415"></a>
 - t-002
   global_id: t-19415
   teiginys: 'Justas Paleckis vadovavo delegacijai, kuri 1940 m. rugpjūčio 3 d. Maskvoje pasiprašė į SSRS sudėtį.'
   sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas, citata pagrindžia asmens vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies seimas|Liaudies seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_place: SSRS; mentioned_group: [[objektai/grupes/Liaudies seimas|Liaudies seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys fragmentiškas, citata pagrindžia asmens vaidmenį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=91dae415ee835aa8bc28f646b03ad4d0ef70d7b6b8cb577fdb84daffad713dbf; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Justas Paleckis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=66
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Justas Paleckis" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183345"></a>
 - t-003
@@ -64,6 +84,16 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nutrūkęs ir negramatiškas, bet citata aiškiai pagrindžia Paleckio paskyrimą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 384698-385291; hash=0256ecc3e67d18237d142dbd7ef140734fe89bbc9b7c5b3ad0c8f147fe3ebb83; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Justas Paleckis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Justas Paleckis" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -99,5 +129,35 @@ Smetonos valdymą inteligentai: ministru pirmininku paskirtas komunistuojantis l
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=91dae415ee835aa8bc28f646b03ad4d0ef70d7b6b8cb577fdb84daffad713dbf; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Justas Paleckis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=66
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Justas Paleckis" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 384698-385291; hash=0256ecc3e67d18237d142dbd7ef140734fe89bbc9b7c5b3ad0c8f147fe3ebb83; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Justas Paleckis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Justas Paleckis" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 384698-385291; hash=0256ecc3e67d18237d142dbd7ef140734fe89bbc9b7c5b3ad0c8f147fe3ebb83; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Justas Paleckis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Justas Paleckis" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

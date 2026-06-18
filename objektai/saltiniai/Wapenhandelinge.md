@@ -32,6 +32,9 @@ Wapenhandelinge, 1607 (pirmasis leidimas).
   temporalinis_llm_pakomentavimas: 'Citata nurodo autorių, pavadinimą ir pirmojo leidimo metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1100075-1100275; hash=4b233b64bad21a749e4077ff8ef29f47563e51e160cf24816ec0ce4588d985ff; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -50,3 +53,6 @@ Wapenhandelinge, 1607 (pirmasis leidimas).
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1100075-1100275; hash=4b233b64bad21a749e4077ff8ef29f47563e51e160cf24816ec0ce4588d985ff; match=whitespace_regex
+  sprendimo_priezastis: auto

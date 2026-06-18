@@ -24,6 +24,9 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
   teiginys: 'Sveno Hedino kelionė į Tibetą buvo aprašyta kaip kelionė į Azijos širdį ir kovos su vietos tautomis.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=36178a99d3b70b63f191c22fb89da214ead176a1fddb2aa75cde0ec489b9d958; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš Lhasa: Lhasa aprašyta kaip šventasis Tibeto miestas, į kurį vietos tautelės neįsileisdavo europiečių.
 ## Reikšmingi paminėjimai
 
@@ -42,3 +45,6 @@ Sven Hedin'o KELIONE PO TIBETĄ, versta J. Čia nepaprastai įdomiai aprašoma d
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=36178a99d3b70b63f191c22fb89da214ead176a1fddb2aa75cde0ec489b9d958; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

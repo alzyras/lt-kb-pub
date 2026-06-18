@@ -38,6 +38,9 @@ Nenurodyta
   sudarymo_pagrindimas: 'Modernizuota rašyba ir išlaikyta citatos faktinė mintis.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=14da74c8eb1e3e3acce24ac54f2fc1ab96b99e77b3c6bb7a821985bec6c73884; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -53,3 +56,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=14da74c8eb1e3e3acce24ac54f2fc1ab96b99e77b3c6bb7a821985bec6c73884; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

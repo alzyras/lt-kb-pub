@@ -32,9 +32,10 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   global_id: t-58869
   teiginys: 'Stalininkas Druzigeris pabėgo iš mūšio ir Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo.'
   sudarymo_pagrindimas: 'Fragmentas perrašytas į aiškų faktinį sakinį apie stalininką Druzigerį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Druzigeris|Druzigeris]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Druzigeris|Druzigeris]]; mentioned_place: Torunė; mentioned_place: Kulmas; mentioned_place: Lenkija'
   pagrindžia:
     - c-002
+- susijęs iš [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas.md#claim-t-185389|pataurininkis stalininkas rūmininkas iždininkas]]: Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.
 - susijęs iš [[objektai/asmenys/Andrejus Kurbskis.md#claim-t-186030|Andrejus Kurbskis]]: Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurbskį su visais palydovais.
 - susijęs iš [[objektai/asmenys/Druzigeris.md#claim-t-60012|Druzigeris]]: Stalininkas Druzigeris Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo mūšyje.
 - susijęs iš [[objektai/asmenys/Eustachijus Valavičius.md#claim-t-184697|Eustachijus Valavičius]]: Maršalas Eustachijus Valavičius dalyvavo derybose su maskvėnų pasiuntiniais.
@@ -47,7 +48,6 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 - susijęs iš Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus: „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ šiame veikale cituojamas kaip atskiras šaltinis.
 - susijęs iš Kulmo žemė: Druzigeriui Torunėje paskelbus klaidingą žinią apie kariuomenės žūtį, Kulmo žemėje ir Lenkijoje kilo didelis krikščionių raudojimas.
 - susijęs iš Torunė: Stalininkas Druzigeris Torunėje klaidingai pranešė, kad krikščionių kariuomenė žuvo mūšyje.
-- susijęs iš [[objektai/zodynas/pataurininkis stalininkas rūmininkas iždininkas.md#claim-t-185389|pataurininkis stalininkas rūmininkas iždininkas]]: Maskvėnų pasiuntinius priėmė pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis ir rūmininkai, o derybose dalyvavo iždininkas Mikalojus Naruševičius.
 ## Reikšmingi paminėjimai
 
 - c-001

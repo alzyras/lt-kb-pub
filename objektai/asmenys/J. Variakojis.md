@@ -34,6 +34,16 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   susije_objektai: 'mentioned_group: [[objektai/grupes/Panevėžio batalionas|Panevėžio batalionas]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2b0bf1af4c69d301e8e18920aec281f2834c5418d723bf5427f8e8bb15fd264d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kėdainiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Variakojis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kėdainiai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Variakojis" parinktas kaip owner_note_path. Targetas "Kėdainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-40167"></a>
 - t-002
@@ -46,6 +56,16 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie J. Variakojo paskyrimą ir savanorių būrio organizavimą.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 728427-728731; hash=9d97aabbe6cac12262d60b31725333f1bbaf188d72d7d0281c321c899a42c62a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kėdainiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Variakojis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kėdainiai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Variakojis" parinktas kaip owner_note_path. Targetas "Kėdainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-40168"></a>
 - t-003
@@ -54,6 +74,9 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   sudarymo_pagrindimas: 'Reikia aiškesnio sakinio be neapibrėžtos pradžios ir su tiesiogiai įvardytu J. Variakojo veiksmu.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=775a3c439aadd856c0bb0cea564c895889ce52610499be185c8f3c991c254c94; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-40169"></a>
 - t-004
@@ -66,8 +89,18 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako J. Variakojo vadovaujamo būrio raidą ir remiasi citata.'
   pagrindžia:
     - c-001
-- susijęs iš Kėdainiai: 1919 m. sausio 9 d. Jonas Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8f44333ebdee03e136e575b7c4d1f24e86ba89dc88a36d487534330d2e92fdf7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Panevėžio batalionas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Variakojis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Panevėžio batalionas: mention_match, group, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Variakojis" parinktas kaip owner_note_path. Targetas "Panevėžio batalionas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Panevėžys: 1919 m. sausio 9 d. bolševikų pajėgos užėmė Panevėžį, o J. Variakojis su pirmuoju savanorių būriu pasitraukė į Kėdainius.
+- susijęs iš Kėdainiai: 1919 m. sausio 9 d. Jonas Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -101,6 +134,16 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8f44333ebdee03e136e575b7c4d1f24e86ba89dc88a36d487534330d2e92fdf7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Panevėžio batalionas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Variakojis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Panevėžio batalionas: mention_match, group, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Variakojis" parinktas kaip owner_note_path. Targetas "Panevėžio batalionas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -114,6 +157,9 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=775a3c439aadd856c0bb0cea564c895889ce52610499be185c8f3c991c254c94; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-001
 
 - c-004
@@ -136,4 +182,24 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2b0bf1af4c69d301e8e18920aec281f2834c5418d723bf5427f8e8bb15fd264d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kėdainiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Variakojis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kėdainiai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Variakojis" parinktas kaip owner_note_path. Targetas "Kėdainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 728427-728731; hash=9d97aabbe6cac12262d60b31725333f1bbaf188d72d7d0281c321c899a42c62a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kėdainiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Variakojis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kėdainiai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Variakojis" parinktas kaip owner_note_path. Targetas "Kėdainiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

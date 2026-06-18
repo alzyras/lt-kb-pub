@@ -24,9 +24,19 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
   global_id: t-87790
   teiginys: 'Mikolajus Kulmietis buvo neseniai miręs, kai Varmės, Sembos ir Pomezanijos vyskupai Elbinge surengė pasitarimą.'
   sudarymo_pagrindimas: 'Citata palaiko tik ribotą, bet faktinį teiginį apie asmenį.'
-  susije_objektai: 'mentioned_place: Dorpatas; mentioned_place: Elbingas; mentioned_place: Elbliongas; mentioned_place: Estija; mentioned_place: Livonija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Pomezanija; mentioned_place: Semba; mentioned_place: Varmė; mentioned_place: Dorpatas; mentioned_place: Elbliongas; mentioned_place: Estija; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bef9323d457b3864381f9e14cced233651c83ed30c1377342d1e8ca7aa35c562; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Elbingas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikolajus Kulmietis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikolajus Kulmietis" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Eberhardas (Varmės vyskupas).md#claim-t-82281|Eberhardas (Varmės vyskupas)]]: Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl taikos sutarties ir su kitais vyskupais paskelbė ją pražūtinga Prūsijai.
 - susijęs iš [[objektai/asmenys/Jonas (Sembos vyskupas).md#claim-t-87711|Jonas (Sembos vyskupas)]]: Sembos vyskupas Jonas Elblionge dalyvavo pasitarime ir su kitais vyskupais pasiuntė laišką, kuriame taikos sutartį vadino pražūtinga.
 - susijęs iš [[objektai/asmenys/Rudolfas (Pomezanijos vyskupas).md#claim-t-87847|Rudolfas (Pomezanijos vyskupas)]]: Pomezanijos vyskupas Rudolfas Elblionge su kitais vyskupais surengė pasitarimą dėl taikos sutarties ir prisidėjo prie laiško Livonijai.
@@ -73,3 +83,13 @@ Vos tik čionai atėjo žinia apie tą sutartį, Varmės vysku­ pas Eberhardas,
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bef9323d457b3864381f9e14cced233651c83ed30c1377342d1e8ca7aa35c562; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Elbingas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikolajus Kulmietis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikolajus Kulmietis" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

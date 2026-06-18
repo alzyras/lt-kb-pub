@@ -33,7 +33,7 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
   global_id: t-79165
   teiginys: 'Po Augusto II mirties Prancūzijos remiamas Stanislovas Leščinskis mėgino vėl tapti ATR valdovu, bet karaliumi tapo Rusijos remiamas Augustas III.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą Stanislovo Leščinskio siekį ir rezultatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas III|Augustas III]]; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Rusija; mentioned_person: [[objektai/asmenys/Augustas III|Augustas III]]; mentioned_place: Prancūzija; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 

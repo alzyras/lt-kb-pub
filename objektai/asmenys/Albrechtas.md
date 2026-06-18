@@ -37,15 +37,27 @@ periodo_grupes:
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Albrechto veiksmą, o pradinis teiginys buvo apie Kulvietį ir tik netiesiogiai minėjo Albrechtą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f5221424527220da64530218ab06cba2638ab108414e30e43d9916b7d617af00; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abraomas Kulvietis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albrechtas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Abraomas Kulvietis: mention_match, person, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas" parinktas kaip owner_note_path. Targetas "Abraomas Kulvietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Albrechtas (Rudolfo sūnus).md#claim-t-184044|Albrechtas (Rudolfo sūnus)]]: Rudolfo sūnus Albrechtas vėliau tapo Romos karaliumi.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63418|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1307 m. Albrechtas į Čekijos sostą pakėlė savo sūnų.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63420|Albrechtas (Romos karalius)]]: Romos karalius Albrechtas pakėlė savo sūnų į Čekijos sostą, kai po Vaclovo ir jo sūnaus mirties sostas liko be įpėdinių.
 - susijęs iš [[objektai/asmenys/Albrechtas (Rudolfo sūnus).md#claim-t-184044|Albrechtas (Rudolfo sūnus)]]: Rudolfo sūnus Albrechtas vėliau tapo Romos karaliumi.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60004|Albrechtas iš Hageno]]: Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60005|Albrechtas iš Hageno]]: 1317 m. žygyje Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, kai vienas ginklanešys nukrito nuo žirgo.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60006|Albrechtas iš Hageno]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių.
-- susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59955|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.
 - susijęs iš [[objektai/asmenys/Jonas Albrechtas.md#claim-t-87714|Jonas Albrechtas]]: Jonas Albrechtas buvo sutriuškintas Vengrijoje, o žinia apie tai Vilniuje pasiekė jo tėvą karalių Kazimierą.
 - susijęs iš [[objektai/asmenys/Konradas (Skalvių pilies gynėjas).md#claim-t-60478|Konradas (Skalvių pilies gynėjas)]]: Brolis Konradas su Albrechtu iš Hageno ir ginklanešiais apgynė Skalvių pilį nuo lietuvių karaliaus karių.
+- susijęs iš [[objektai/ivykiai/Taikos susitarimas su Prūsijos magistru Albrechtu ir jo paskelbimas Prūsijos kunigaikščiu.md#claim-t-185775|Taikos susitarimas su Prūsijos magistru Albrechtu ir jo paskelbimas Prūsijos kunigaikščiu]]: Albrechtas kunigaikščio teisėmis gavo valdyti Prūsijos kunigaikštystę, likdamas su žeme pavaldus karaliui.
+- susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59955|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.
 - susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-60211|Sudargas]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą ir sudegino jį drauge su aplinkiniais kaimais.
 - susijęs iš [[objektai/asmenys/Vaclovas (Čekijos karalius).md#claim-t-60454|Vaclovas (Čekijos karalius)]]: 1307 m. mirė Čekijos karalius Vaclovas, o Čekijos sostas atiteko svetimiesiems.
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-183951|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. maršalas su broliais ir Sembos vyrais žygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis.
@@ -53,7 +65,6 @@ periodo_grupes:
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56682|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: To paties žygio metu kita kariuomenės dalis sunaikino Sudargo kiemą ir paėmė jo šeimą į nelaisvę.
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56683|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. Fridrichas iš Libencelės su 150 vyrų turėjo slapta paimti Gedimino pilį, bet pilėnai ją apgynė, o papilys sudegė.
 - susijęs iš [[objektai/ivykiai/Skalvių pilies puolimas (1293 m. žiema).md#claim-t-62921|Skalvių pilies puolimas (1293 m. žiema)]]: 1293 m. žiemą lietuvių karaliaus kariai puolė Skalvių pilį, nužudė brolį Liudviką Okse, bet pilies neužėmė.
-- susijęs iš [[objektai/ivykiai/Taikos susitarimas su Prūsijos magistru Albrechtu ir jo paskelbimas Prūsijos kunigaikščiu.md#claim-t-185775|Taikos susitarimas su Prūsijos magistru Albrechtu ir jo paskelbimas Prūsijos kunigaikščiu]]: Albrechtas kunigaikščio teisėmis gavo valdyti Prūsijos kunigaikštystę, likdamas su žeme pavaldus karaliui.
 - susijęs iš [[objektai/ivykiai/Čekijos sosto perėjimas po Vaclovo mirties (1307 m.).md#claim-t-62540|Čekijos sosto perėjimas po Vaclovo mirties (1307 m.)]]: 1307 m. mirus Čekijos karaliui Vaclovui ir nužudžius jo sūnų, Čekijos sostas atiteko svetimiesiems.
 - susijęs iš Buda: 1307 m. mirus Čekijos karaliui Vaclovui, jo sūnus buvo vainikuotas karaliumi Budoje.
 - susijęs iš Gedimino pilis (pilis): 1317 m. vasarą Gedimino pilies pilėnai apgynė pilį, nors Ordino broliams pavyko visiškai sudeginti papilį.
@@ -82,3 +93,16 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f5221424527220da64530218ab06cba2638ab108414e30e43d9916b7d617af00; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abraomas Kulvietis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albrechtas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Abraomas Kulvietis: mention_match, person, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albrechtas" parinktas kaip owner_note_path. Targetas "Abraomas Kulvietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Albrechtas (Rudolfo sūnus)]] buvo_sunus Albrechtas

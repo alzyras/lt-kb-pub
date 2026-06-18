@@ -39,6 +39,9 @@ periodo_grupes:
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir paliktas citata paremtas faktas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 731484-731950; hash=efc28a8e10d25183838f6fece291498d8cf708fa4987e07eee044fb1845222bd; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/J. Aničas.md#claim-t-39866|J. Aničas]]: J. Aničas parašė biografinę apybraižą „Generolas Silvestras Žukauskas (1861–1937)“.
 - susijęs iš Generolas Silvestras Žukauskas (1861-1937): Jono Aničo biografinė apybraiža „Generolas Silvestras Žukauskas (1861–1937)“ išleista Vilniuje 2006 m.
 - susijęs iš Ukmergė: 1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną.
@@ -68,3 +71,6 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 731484-731950; hash=efc28a8e10d25183838f6fece291498d8cf708fa4987e07eee044fb1845222bd; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto

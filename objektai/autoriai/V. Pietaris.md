@@ -23,6 +23,9 @@ Pietaro.
   sudarymo_pagrindimas: 'Per trumpas fragmentas perrašytas į pilną sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 740891-741071; hash=f5c54506cff75e4435ebfa0c51225c9a09d5f97775aa03850e1242e55d4c72a8; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -38,3 +41,6 @@ Pietaro.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 740891-741071; hash=f5c54506cff75e4435ebfa0c51225c9a09d5f97775aa03850e1242e55d4c72a8; match=exact
+  sprendimo_priezastis: auto

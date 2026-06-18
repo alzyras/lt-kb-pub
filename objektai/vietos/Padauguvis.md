@@ -40,7 +40,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   global_id: t-73355
   teiginys: 'Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.'
   sudarymo_pagrindimas: 'Sutvarkyta sakinio pradžia ir išlaikyta citatos paremta faktinė mintis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lybiai|Lybiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių pirkliai|Vokiečių pirkliai]]; mentioned_object: [[objektai/zodynas/kolonijos|kolonijos]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių pirkliai|Vokiečių pirkliai]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lybiai|Lybiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_object: [[objektai/zodynas/kolonijos|kolonijos]]'
   pagrindžia:
     - c-001
 
@@ -55,18 +55,18 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   temporalinis_llm_pakomentavimas: 'Pašalinta kontekstinė pradžia, teiginys sutrumpintas ir sugramatintas.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90052|Traidenis (valdovas, XIII a.)]]: 1272 m. Traidenis pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną dabartinėje Rytų Lenkijoje.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175538|Kalavijuočių ordinas]]: Kalavijuočiai atsikraustė į Padauguvį, o kryžiuočiai į Pavyslį.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175543|Kalavijuočių ordinas]]: Kalavijuočių ordinas pirmiausia ėmė stiprintis prie Dauguvos krantų.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175557|Kalavijuočių ordinas]]: 1220 metais Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams.
-- susijęs iš [[objektai/grupes/Voluiniečiai.md#claim-t-52464|Voluiniečiai]]: Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su lenkais ir voluiniečiais, o rytuose su gudais.
-- susijęs iš [[objektai/grupes/Voluiniečiai.md#claim-t-52465|Voluiniečiai]]: Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su slavais: lenkais ir voluiniečiais.
 - susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89358|Žiemgaliai]]: 1220 m. Lietuvos ir žiemgalių kariuomenė smogė kalavijuočiams Padauguvyje.
-- susijęs iš [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.).md#claim-t-66445|Aizkrauklės mūšis (1279 m. kovo 5 d.)]]: 1279 m. kovo 5 d. Padauguvyje prie Aizkrauklės įvyko mūšis, kuriame abi pusės patyrė nuostolių.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.).md#claim-t-89376|Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.)]]: 1220 m. Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.).md#claim-t-89377|Lietuvos ir žiemgalių smūgis kalavijuočiams padauguvyje (1220 m.)]]: 1220 m. Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams.
-- susijęs iš V. T. Pašuto, Očerki po istorii Galicko-Volynskoj Rusi: V. T. Pašuto veikalas „Očerki po istorii Galicko-Volynskoj Rusi“ buvo išleistas 1950 m.
 - susijęs iš Padauguvio Sėla: Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.
+- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90052|Traidenis (valdovas, XIII a.)]]: 1272 m. Traidenis pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną dabartinėje Rytų Lenkijoje.
+- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175543|Kalavijuočių ordinas]]: Kalavijuočių ordinas pirmiausia ėmė stiprintis prie Dauguvos krantų.
+- susijęs iš [[objektai/grupes/Voluiniečiai.md#claim-t-52464|Voluiniečiai]]: Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su lenkais ir voluiniečiais, o rytuose su gudais.
+- susijęs iš [[objektai/grupes/Voluiniečiai.md#claim-t-52465|Voluiniečiai]]: Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su slavais: lenkais ir voluiniečiais.
+- susijęs iš [[objektai/ivykiai/Aizkrauklės mūšis (1279 m. kovo 5 d.).md#claim-t-66445|Aizkrauklės mūšis (1279 m. kovo 5 d.)]]: 1279 m. kovo 5 d. Padauguvyje prie Aizkrauklės įvyko mūšis, kuriame abi pusės patyrė nuostolių.
+- susijęs iš V. T. Pašuto, Očerki po istorii Galicko-Volynskoj Rusi: V. T. Pašuto veikalas „Očerki po istorii Galicko-Volynskoj Rusi“ buvo išleistas 1950 m.
 ## Reikšmingi paminėjimai
 
 - c-001

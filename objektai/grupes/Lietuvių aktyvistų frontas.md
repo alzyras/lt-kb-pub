@@ -60,7 +60,7 @@ Nenurodyta
 - t-001
   global_id: t-13466
   teiginys: 'LAF aktyvistai rinko žinias iš sovietų valdomos Lietuvos ir siuntė instrukcijas, o karinė LAF dalis bendradarbiavo su Abveru.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abveras|Abveras]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abveras|Abveras]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]'
   pagrindžia:
     - c-002
 
@@ -68,27 +68,47 @@ Nenurodyta
 - t-002
   global_id: t-13467
   teiginys: 'LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/K. Škirpa|K. Škirpa]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/K. Škirpa|K. Škirpa]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_place: Europa; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 399908-400326; hash=b21b2e0178cbb08d01fdcaf544b052ce8f1fbf1a2becc0a41a2ba963a959fef3; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abveras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvių aktyvistų frontas: owner_note_path, group
+  ryšio_targeto_parinkimas: Abveras: mention_match, group, gap=119
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių aktyvistų frontas" parinktas kaip owner_note_path. Targetas "Abveras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-23307"></a>
 - t-003
   global_id: t-23307
   teiginys: '1941 m. rugsėjo 26 d. naciai uždarė Lietuvių aktyvistų frontą.'
   sudarymo_pagrindimas: 'Pateikta citata nepagrindžia pradinio teiginio, bet pagrindžia faktą apie LAF uždarymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]'
   temporaliniai_duomenys: 'įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pateikta citata nepagrindžia pradinio teiginio, bet pagrindžia faktą apie LAF uždarymą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9d57a9c593c1717edca9a276b7495dc00faf6fdae7b0f9dd339ab4822105cfb3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> K. Škirpa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvių aktyvistų frontas: owner_note_path, group
+  ryšio_targeto_parinkimas: K. Škirpa: mention_match, person, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių aktyvistų frontas" parinktas kaip owner_note_path. Targetas "K. Škirpa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-24554"></a>
 - t-004
   global_id: t-24554
   teiginys: 'LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/K. Škirpa|K. Škirpa]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/K. Škirpa|K. Škirpa]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_place: Europa; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -97,7 +117,7 @@ Nenurodyta
   global_id: t-26625
   teiginys: 'Lietuvių aktyvistų frontas rinko žinias iš sovietų valdomos Lietuvos ir iš Vokietijos siuntė instrukcijas dėl valstybingumo atkūrimo bei sukilimo.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, aiškus ir tiesiogiai atitinka citatos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_place: Berlynas; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_place: Lietuva; mentioned_place: Vokietija; mentioned_place: Berlynas; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, aiškus ir tiesiogiai atitinka citatos turinį.'
@@ -109,12 +129,22 @@ Nenurodyta
   global_id: t-26626
   teiginys: 'Naciai rugsėjo 26-ąją uždarė Lietuvių aktyvistų frontą, kai dauguma ministrų atsisakė tapti tarėjais.'
   sudarymo_pagrindimas: 'Pašalinta šalutinė informacija apie kitą partiją ir teiginys sutelktas į pastabos objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“.md#claim-t-75625|„Vokietijos vadovaujamoje Naujoje Europoje...“]]: LAF vadovybė tikėjo, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus leista tvarkytis pačioms.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 399908-400326; hash=b21b2e0178cbb08d01fdcaf544b052ce8f1fbf1a2becc0a41a2ba963a959fef3; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvių aktyvistų frontas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių aktyvistų frontas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Lietuvių aktyvistų fronto programa: Kazys Škirpa manė, kad Lietuvių aktyvistų frontas turi palaikyti ypač glaudžius ryšius su nacių Vokietija.
 - susijęs iš Lietuva: Vokiečių vermachtui įžengiant į Lietuvą, daug lietuvių jį sutiko palankiai, kai kurie net su gėlėmis rankose.
+- susijęs iš [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“.md#claim-t-75625|„Vokietijos vadovaujamoje Naujoje Europoje...“]]: LAF vadovybė tikėjo, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus leista tvarkytis pačioms.
 - susijęs iš Pravieniškių įkalinimo kolonija: 1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus.
 - susijęs iš Pravieniškių įkalinimo kolonija: 1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus.
 - susijęs iš Vokietija: LAF aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo.
@@ -139,6 +169,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 399908-400326; hash=b21b2e0178cbb08d01fdcaf544b052ce8f1fbf1a2becc0a41a2ba963a959fef3; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abveras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvių aktyvistų frontas: owner_note_path, group
+  ryšio_targeto_parinkimas: Abveras: mention_match, group, gap=119
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių aktyvistų frontas" parinktas kaip owner_note_path. Targetas "Abveras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-002
@@ -201,4 +241,14 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 399908-400326; hash=b21b2e0178cbb08d01fdcaf544b052ce8f1fbf1a2becc0a41a2ba963a959fef3; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvių aktyvistų frontas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvių aktyvistų frontas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005

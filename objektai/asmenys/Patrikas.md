@@ -33,7 +33,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   global_id: t-121122
   teiginys: 'Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Patriko giminystę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Katra; mentioned_place: Maskva; mentioned_place: Strėva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Strėva; mentioned_group: [[objektai/grupes/Gediminaičių dinastija|Gediminaičių dinastija]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Katra; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1348 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą Patriko giminystę.'
@@ -51,6 +51,16 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   temporalinis_llm_pakomentavimas: 'Citata palaiko glaustą faktą apie Patriko dalyvavimą žygyje, o pradinė formuluotė nukirsta.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9f783b8ce729549ddc87d0300af99225e5e267c7d2c4120f9353d87747e5e37d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Patrikas (kunigaikštis, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Patrikas (kunigaikštis, XIV a.)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184816"></a>
 - t-003
@@ -63,14 +73,24 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89627|Aleksandras]]: 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas ir jas nuniokojo.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 829443-829826; hash=4705e55778076b81e24f145fb6172ac8da3513b4ab066b90058cc4d5a1857394; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Narimantas (Pinsko kunigaikštis): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Patrikas (kunigaikštis, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Narimantas (Pinsko kunigaikštis): mention_match, person, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Patrikas (kunigaikštis, XIV a.)" parinktas kaip owner_note_path. Targetas "Narimantas (Pinsko kunigaikštis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176281|Algirdas (Lietuvos valdovas)]]: 1365 m. Algirdas su Kęstučiu, Patriku ir Aleksandru įsiveržė į Ordino valdas, jas nuniokojo ir ugnyje paaukojo vokietį belaisvį.
 - susijęs iš [[objektai/asmenys/Henrikas Hochbergas.md#claim-t-186209|Henrikas Hochbergas]]: Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis bandė pagelbėti Kęstučiui.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176518|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: 1365 m. Kęstutis su Algirdu, Patriku ir Aleksandru įsiveržė į Ordino valdas ir po žygio dievams ugnyje paaukojo vokietį belaisvį.
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184767|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Henrikas Ekersbergas ietimi smogė Kęstučio arkliui iš šono, nubloškė Kęstutį nuo žirgo, ir Kęstutis pateko į priešų rankas.
 - susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-82664|Simonas Lengvenis (valdovas, XIV a.)]]: Simonas Lengvenis, Algirdo sūnus, po Patriko tapo Didžiojo Naugardo valdovu arba vaivada.
 - susijęs iš [[objektai/ivykiai/Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.).md#claim-t-185603|Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.)]]: Algirdo, Kęstučio ir Patriko vedami lietuviai netikėtai užpuolė vokiečių stovyklą, bet po kovos Kęstutis pateko į priešų rankas.
 - susijęs iš Wremiennik Sofijski: Sofijski Wremiennik minimas greta kitų šaltinių aiškinant Narimanto, Patriko ir Lengvenio valdžios seką Didžiajame Naugarde.
+- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89627|Aleksandras]]: 1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas ir jas nuniokojo.
+- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184767|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Henrikas Ekersbergas ietimi smogė Kęstučio arkliui iš šono, nubloškė Kęstutį nuo žirgo, ir Kęstutis pateko į priešų rankas.
 - susijęs iš Gardinas: 1365 m. pradžioje Patrikas iš Gardino kartu su Kęstučiu, Algirdu ir Aleksandru Karijotaičiu puolė Skalvos žemę.
 - susijęs iš Skalvos žemė: 1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir sunaikino kelias priešo pilaites.
 - susijęs iš [[objektai/zodynas/lenkų tikėjimas.md#claim-t-187551|lenkų tikėjimas]]: Vytautui priėmus lenkų tikėjimo krikštą, jam buvo duotas Aleksandro vardas.
@@ -144,4 +164,24 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9f783b8ce729549ddc87d0300af99225e5e267c7d2c4120f9353d87747e5e37d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aleksandras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Patrikas (kunigaikštis, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Aleksandras: mention_match, person, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Patrikas (kunigaikštis, XIV a.)" parinktas kaip owner_note_path. Targetas "Aleksandras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 829443-829826; hash=4705e55778076b81e24f145fb6172ac8da3513b4ab066b90058cc4d5a1857394; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Narimantas (Pinsko kunigaikštis): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Patrikas (kunigaikštis, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Narimantas (Pinsko kunigaikštis): mention_match, person, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Patrikas (kunigaikštis, XIV a.)" parinktas kaip owner_note_path. Targetas "Narimantas (Pinsko kunigaikštis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

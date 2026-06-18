@@ -31,6 +31,9 @@ Koppebs.
   teiginys: 'P. W. Koppebsas žurnale „Soter“ paskelbė darbą „Indoeuropiečių religijos kultūriniai istoriniai santykiai“.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f74a5b80b30a9714b1d6cec9ce02a4c2a544fe1920de092bb4378556e6024138; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +50,6 @@ Koppebs.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f74a5b80b30a9714b1d6cec9ce02a4c2a544fe1920de092bb4378556e6024138; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

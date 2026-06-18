@@ -34,6 +34,16 @@ Galiausiai buvo nusiaubtos Opokos apylinkės.
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo kontekstinis; citata leidžia aiškiai susieti įvykį su 1581 m. reidu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c4606318b95064365d0b362c49c5b29f1e1cee31fcf6ea1351dabcb8a3abb595; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Opokos apylinkės: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis): mention_match, event, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Opokos apylinkės" parinktas kaip owner_note_path. Targetas "Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -56,3 +66,13 @@ Galiausiai buvo nusiaubtos Opokos apylinkės.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c4606318b95064365d0b362c49c5b29f1e1cee31fcf6ea1351dabcb8a3abb595; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Opokos apylinkės: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis): mention_match, event, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Opokos apylinkės" parinktas kaip owner_note_path. Targetas "Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

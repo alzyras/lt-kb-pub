@@ -51,7 +51,7 @@ Nenurodyta
   global_id: t-182858
   teiginys: 'Pasak Ivinskio, Vytautas esą reikalavo, kad chanas Timūras Kutlug paklustų ir savo piniguose kaldintų Vytauto ženklą.'
   sudarymo_pagrindimas: 'Teiginys yra apie autoriaus perteikiamą pasakojimą, todėl reikalinga atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Ediga|Ediga]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Ediga|Ediga]]; mentioned_place: Vorskla'
   pagrindžia:
     - c-002
 
@@ -63,7 +63,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas ir suformuluotas pilnas sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/emyras|emyras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_object: [[objektai/zodynas/emyras|emyras]]'
   pagrindžia:
     - c-001
 
@@ -75,7 +75,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Edigėjaus reikalavimą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Edigėjus|Edigėjus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Edigėjus|Edigėjus]]; mentioned_place: Vorskla'
   pagrindžia:
     - c-003
 

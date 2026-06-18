@@ -25,6 +25,16 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
   susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 238533-238949; hash=3616b4ea22e7d55837023518b6c4beb483319a6e3379f1a8a342f2797909a16a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> komtūras: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kunas fon Lichtenšteinas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: komtūras: mention_match, thing, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kunas fon Lichtenšteinas" parinktas kaip owner_note_path. Targetas "komtūras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -54,4 +64,24 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 238533-238949; hash=3616b4ea22e7d55837023518b6c4beb483319a6e3379f1a8a342f2797909a16a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> komtūras: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kunas fon Lichtenšteinas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: komtūras: mention_match, thing, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kunas fon Lichtenšteinas" parinktas kaip owner_note_path. Targetas "komtūras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 238533-238949; hash=3616b4ea22e7d55837023518b6c4beb483319a6e3379f1a8a342f2797909a16a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> komtūras: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kunas fon Lichtenšteinas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: komtūras: mention_match, thing, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kunas fon Lichtenšteinas" parinktas kaip owner_note_path. Targetas "komtūras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

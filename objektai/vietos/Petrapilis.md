@@ -55,16 +55,26 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   susije_objektai: 'mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63844|Kotryna II]]: Po Petro III pašalinimo ir nužudymo valdžią Rusijoje perėmė Kotryna II, Anhalt-Cerbsto kunigaikštytė vokietaitė.
-- susijęs iš [[objektai/autoriai/H. Lowmiański.md#claim-t-05941|H. Lowmiański]]: H. Lowmiański 1931–1932 m. Vilniuje išleido dviejų tomų veikalą „Studja nad początkami społeczeństwa i państwa litewskiego“.
-- susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72360|Latvių Tautos Taryba (institucija)]]: Latvių Tautos Taryba protestavo, kai Brastos taikoje bolševikai paliko Pabaltijį vokiečių valdžioje.
-- susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72361|Latvių Tautos Taryba (institucija)]]: Vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, siekusi kurti nepriklausomą Latviją.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a6705a490a320a86081aa8ed81016edfa1f1697bf702194ceaf1611d4f60eee3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Čartoriskiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Petrapilis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Čartoriskiai: mention_match, group, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petrapilis" parinktas kaip owner_note_path. Targetas "Čartoriskiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72362|Latvių Tautos Taryba (institucija)]]: Latvių Tautos Taryba susidarė vokiečių neužimtoje Latvijos dalyje ir su Petrapilio latvių pabėgėlių komitetu rūpinosi nepriklausomos Latvijos kūrimu.
 - susijęs iš [[objektai/grupes/Lietuvių Tautos Taryba.md#claim-t-01389|Lietuvių Tautos Taryba (institucija)]]: 1917 m. kovą Rusijoje iš įvairių srovių buvo sudaryta Lietuvių Tautos Taryba, sušaukusi Rusijoje išblaškytų lietuvių seimą Petrapilyje.
 - susijęs iš [[objektai/grupes/Petrapilio latvių pabėgėlių komitetas.md#claim-t-72599|Petrapilio latvių pabėgėlių komitetas (institucija)]]: Petrapilio latvių pabėgėlių komitetas kartu su Tautos Taryba rūpinosi nepriklausomos Latvijos sukūrimu.
 - susijęs iš [[objektai/grupes/Slavofilai.md#claim-t-72626|Slavofilai]]: Slavofilai Petrapilyje susiorganizavo į draugiją ir nepritarė universiteto klestėjimui.
 - susijęs iš Lietovskaja Metrika. Knigi sudnich del: „Litovskaja Metrika. Knigi sudnich del“ P. A. Hiltebrantas išleido 1903 m. Petrapilyje, „Russkaja Istoričeskaja Biblioteka“ 20 tome.
 - susijęs iš Mykolo Kleofso Oginskio kunigaikštijos sudarymo projektas (1811 m.): Oginskio projekte siūlyta kunigaikštijoje be apribojimų palikti Lietuvos Statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.
+- susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63844|Kotryna II]]: Po Petro III pašalinimo ir nužudymo valdžią Rusijoje perėmė Kotryna II, Anhalt-Cerbsto kunigaikštytė vokietaitė.
+- susijęs iš [[objektai/autoriai/H. Lowmiański.md#claim-t-05941|H. Lowmiański]]: H. Lowmiański 1931–1932 m. Vilniuje išleido dviejų tomų veikalą „Studja nad początkami społeczeństwa i państwa litewskiego“.
+- susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72360|Latvių Tautos Taryba (institucija)]]: Latvių Tautos Taryba protestavo, kai Brastos taikoje bolševikai paliko Pabaltijį vokiečių valdžioje.
+- susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72361|Latvių Tautos Taryba (institucija)]]: Vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, siekusi kurti nepriklausomą Latviją.
 - susijęs iš Voronežas: Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą.
 - susijęs iš [[objektai/zodynas/tribunolas.md#claim-t-82100|tribunolas]]: Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje.
 ## Reikšmingi paminėjimai
@@ -111,3 +121,13 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   statusas: verified
   pagrindžia:
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a6705a490a320a86081aa8ed81016edfa1f1697bf702194ceaf1611d4f60eee3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Čartoriskiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Petrapilis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Čartoriskiai: mention_match, group, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petrapilis" parinktas kaip owner_note_path. Targetas "Čartoriskiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

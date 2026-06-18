@@ -32,7 +32,7 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 - t-001
   global_id: t-174024
   teiginys: 'Saksonija buvo nuo Lenkijos netolima teritorija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -40,7 +40,7 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 - t-002
   global_id: t-174025
   teiginys: 'Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.'
-  susije_objektai: 'location: Liubekas; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Liubekas; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'location: Liubekas; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Liubekas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -49,9 +49,16 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
   global_id: t-174027
   teiginys: 'Į Vilnių atvykę amatininkai iš Saksonijos kartu su Rusios ir Livonijos pirkliais tapo turtingiausiu miesto gyventojų sluoksniu.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Saksonijos amatininkus, bet pradinis sakinys buvo nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Liubekas; mentioned_place: Livonija; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Liubekas; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
+- susijęs iš [[objektai/asmenys/Gebhardas.md#claim-t-60283|Gebhardas]]: Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir vienam jų kalaviju nukirto galvą.
+- susijęs iš [[objektai/asmenys/Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas).md#claim-t-60324|Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas)]]: Hermanas, Saksonijos hercogas ir Tiuringijos landgrafas, buvo tarp didikų, pritarusių siųsti legatus dėl ligoninės patvirtinimo.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108287|Pranciškonų ordinas]]: Gediminas kreipėsi į pranciškonų ordino brolius, pasklidusius visame pasaulyje, ypač į Saksonijos ministrą.
+- susijęs iš [[objektai/ivykiai/Šiaurės karas (1700–1721 m.).md#claim-t-39143|Šiaurės karas (1700–1721 m.)]]: Per Šiaurės karą 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.
+- susijęs iš Gedimino laiškas dominikonams (1323 m.): Gedimino laiške dominikonams Saksonijos magistrui ir priorams nurodyta perskaičius ir nurašius laišką kuo greičiau siųsti toliau.
+- susijęs iš Vitchendorfas: Vitchendorfas buvo kaimas Saksonijoje.
+- susijęs iš [[objektai/zodynas/konstitucinė monarchija.md#claim-t-15627|konstitucinė monarchija]]: Konstitucinė monarchija liko Lietuvos Tarybos darbotvarkėje, Berlyne svarstant personalinę uniją su Saksonija arba Prūsija.
 - susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78947|Augustas II]]: Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78953|Augustas II]]: 1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija.
@@ -60,7 +67,6 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 - susijęs iš [[objektai/asmenys/Eberhardas Sorcas.md#claim-t-186197|Eberhardas Sorcas]]: Įsruties komtūras Eberhardas Sorcas su 300 raitelių ir 500 pėstininkų buvo žygio metu užpultas ir sunaikintas.
 - susijęs iš [[objektai/asmenys/Eimaras iš Cezarėjos.md#claim-t-60272|Eimaras iš Cezarėjos]]: Eimaras iš Cezarėjos pritarė nuomonei, kad Frydrichas Švabietis turėtų siekti ligoninės įsteigimo ir patvirtinimo.
 - susijęs iš [[objektai/asmenys/Gardolfas.md#claim-t-60282|Gardolfas]]: Halberštato vyskupas Gardolfas buvo tarp Vokietijos dvasininkų ir didikų, svarstusių ką tik įsteigtos ligoninės ateitį.
-- susijęs iš [[objektai/asmenys/Gebhardas.md#claim-t-60283|Gebhardas]]: Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir vienam jų kalaviju nukirto galvą.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176374|Gediminas]]: Gediminas pranciškonams rašė pasiuntęs laišką popiežiui Jonui ir laukiąs jo pasiuntinių atvykimo.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176393|Gediminas]]: Gediminas laiške pranciškonams prisistatė lietuvių ir rusų karaliumi bei Žemgalijos valdovu ir kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Henrikas (Brabanto kunigaikštis).md#claim-t-60305|Henrikas (Brabanto kunigaikštis)]]: Brabanto kunigaikštis Henrikas dalyvavo valdovų pasitarime dėl naujai įsteigtos ligoninės patvirtinimo ir tuo metu vadovavo kariuomenei.
@@ -71,7 +77,6 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63622|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Henrikas iš Kalendino.md#claim-t-60314|Henrikas iš Kalendino]]: Henrikas iš Kalendino buvo imperijos maršalas, minimas tarp didikų, pritarusių legatų siuntimui dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
-- susijęs iš [[objektai/asmenys/Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas).md#claim-t-60324|Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas)]]: Hermanas, Saksonijos hercogas ir Tiuringijos landgrafas, buvo tarp didikų, pritarusių siųsti legatus dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Hugonas.md#claim-t-60330|Hugonas]]: Hugonas, Tiberiados valdovo Radolfo brolis, buvo tarp Jeruzalės karalystės baronų, pritarusių siųsti legatus dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Jonas (popiežius).md#claim-t-87522|Jonas (popiežius)]]: Popiežius Jonas turėjo atsiųsti pasiuntinius Gediminui, tačiau jų delsimas Gediminui kėlė didelį susirūpinimą.
 - susijęs iš [[objektai/asmenys/Jonas iš Hibelino.md#claim-t-60346|Jonas iš Hibelino]]: Jonas iš Hibelino buvo vienas iš Jeruzalės karalystės didikų, pritarusių siūlymui prašyti popiežiaus patvirtinti ligoninę.
@@ -87,16 +92,13 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 - susijęs iš [[objektai/daiktai/Baltas apsiaustas su juodu kryžiumi.md#claim-t-59679|Baltas apsiaustas su juodu kryžiumi]]: Popiežius leido Jeruzalės ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi.
 - susijęs iš [[objektai/grupes/Joanitų ordinas.md#claim-t-72079|Joanitų ordinas]]: Švento Jono ligoninės magistras buvo tarp Šventosios Žemės ordinų ir didikų atstovų, palaikiusių naujai įsteigtą ligoninę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178876|Kryžiuočių ordinas]]: 1233 m. magistras ir Kryžiuočių ordino broliai Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108287|Pranciškonų ordinas]]: Gediminas kreipėsi į pranciškonų ordino brolius, pasklidusius visame pasaulyje, ypač į Saksonijos ministrą.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108309|Pranciškonų ordinas]]: Gediminas savo laišku kreipėsi į pranciškonų ordino ministrus, kustodus, gvardijonus ir kitus brolius.
 - susijęs iš [[objektai/ivykiai/Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.).md#claim-t-28779|Kristijono įšventinimas Lietuvos vyskupu ir Lietuvos vyskupijos išskyrimas (1254 m.)]]: Specialiu raštu panaikindamas Rygos arkivyskupo jurisdikciją Lietuvai, Inocentas IV Mindaugui pranešė apie Lietuvos vyskupijos išskyrimą iš kaimyninės metropolito jurisdikcijos.
 - susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66769|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: 1233 m. magistras ir broliai Kvedino saloje pastatė Marienverderio pilį, vėliau perkeltą į Pamedės valsčiaus Reisių vietovę.
 - susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66770|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: 1233 m. pastatyta Marienverderio pilis vėliau buvo perkelta iš Kvedino salos į Pamedės valsčių, vadintą Reisiais.
-- susijęs iš [[objektai/ivykiai/Šiaurės karas (1700–1721 m.).md#claim-t-39143|Šiaurės karas (1700–1721 m.)]]: Per Šiaurės karą 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.
 - susijęs iš [[objektai/posakiai/Gediminas, dievo malone lietuvių ir rusų karalius.md#claim-t-86843|Gediminas, dievo malone lietuvių ir rusų karalius]]: Gediminas laiške pranciškonams save vadino dieviškąja apvaizda lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
 - susijęs iš [[objektai/posakiai/Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu.md#claim-t-55190|Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu]]: Gedimino laiško vertime pažado tvirtumas išreiškiamas formule, kad pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu, negu bus atšauktas ištartas žodis.
 - susijęs iš [[objektai/posakiai/Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu.md#claim-t-55191|Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu]]: Posakiu „Pirmiau geležis pasikeis į vašką ir vanduo pavirs plienu“ pabrėžta, kad duotas žodis nebus atšauktas.
-- susijęs iš Gedimino laiškas dominikonams (1323 m.): Gedimino laiške dominikonams Saksonijos magistrui ir priorams nurodyta perskaičius ir nurašius laišką kuo greičiau siųsti toliau.
 - susijęs iš Gedimino laiškas pranciškonams (1323 m.): Gediminas laiške pranciškonams pranešė, kad kreipėsi į popiežių Joną ir laukė jo pasiuntinių atvykimo.
 - susijęs iš Berlynas: Kovo 23 dieną Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.
 - susijęs iš Heilsbergas: Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
@@ -112,13 +114,11 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 - susijęs iš Smolenskas: Po Liublino unijos Lietuva kartu su Lenkija vėliau atsiėmė Smolenską.
 - susijęs iš Smolenskas: Zigmanto Vazos laikais, Maskvoje vykstant didžiajai suirutei, Smolenskas buvo atgautas.
 - susijęs iš Smolenskas: Po Liublino unijos Lietuva kartu su Lenkija vėliau atsiėmė Smolenską.
-- susijęs iš Vitchendorfas: Vitchendorfas buvo kaimas Saksonijoje.
 - susijęs iš Vokietija: 1918 m. kovo 23 d. Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę.
 - susijęs iš Vokietija: 1918 m. kovo 23 d. Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę, bet siejo ją su glaudžiais ryšiais su Vokietija.
 - susijęs iš Vonsdorfas: Prūsijos žemės kronikos rodyklėje Vonsdorfas siejamas su formomis Wohenstorph, Wünsdorf, Wonsdorff, Wansdorf ir Unzatrapis.
 - susijęs iš Zelionogradskas: Zelionogradskas anksčiau vadintas Kranzu, lietuviškai - Krantu.
 - susijęs iš Žemaitija: Sudeginus Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
-- susijęs iš [[objektai/zodynas/konstitucinė monarchija.md#claim-t-15627|konstitucinė monarchija]]: Konstitucinė monarchija liko Lietuvos Tarybos darbotvarkėje, Berlyne svarstant personalinę uniją su Saksonija arba Prūsija.
 ## Reikšmingi paminėjimai
 
 - c-001

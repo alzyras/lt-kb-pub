@@ -27,12 +27,22 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   global_id: t-21316
   teiginys: 'Disidentinis judėjimas ragino okupacinę valdžią laikytis 1948 m. JT Generalinės Asamblėjos patvirtintos Visuotinės žmogaus teisių deklaracijos, kurios SSRS faktiškai nepaisė.'
   sudarymo_pagrindimas: 'Teiginys gramatiškai ir tiksliai perteikia citatos informaciją apie deklaracijos reikšmę disidentiniam judėjimui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: SSRS; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1948 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškai ir tiksliai perteikia citatos informaciją apie deklaracijos reikšmę disidentiniam judėjimui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=681d5bd33371247db0ee1417adef47148fffd2a155c5f48a5962944a29ad624a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> SSRS: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Visuotinė žmogaus teisių deklaracija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: SSRS: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Visuotinė žmogaus teisių deklaracija" parinktas kaip owner_note_path. Targetas "SSRS" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -55,3 +65,13 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=681d5bd33371247db0ee1417adef47148fffd2a155c5f48a5962944a29ad624a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> SSRS: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Visuotinė žmogaus teisių deklaracija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: SSRS: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Visuotinė žmogaus teisių deklaracija" parinktas kaip owner_note_path. Targetas "SSRS" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

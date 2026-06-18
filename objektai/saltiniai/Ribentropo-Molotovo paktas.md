@@ -30,12 +30,22 @@ amziai:
   global_id: t-39932
   teiginys: '1939 m. Ribentropo-Molotovo paktu Stalinas ir Hitleris susitarė pasidalyti Vidurio Europą.'
   sudarymo_pagrindimas: 'Reikia pašalinti skliaustinį fragmentą ir suformuoti enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Europa; mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'sutarties data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti skliaustinį fragmentą ir suformuoti enciklopedinį sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 884906-885409; hash=d6ecded6a1ed8b8344eb154d42560537258c223300f368c62ce744640ac46e6c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ribentropo-Molotovo paktas: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=75
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ribentropo-Molotovo paktas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -66,3 +76,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 884906-885409; hash=d6ecded6a1ed8b8344eb154d42560537258c223300f368c62ce744640ac46e6c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ribentropo-Molotovo paktas: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=75
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ribentropo-Molotovo paktas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

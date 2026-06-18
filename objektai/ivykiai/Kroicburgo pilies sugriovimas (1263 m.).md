@@ -46,12 +46,22 @@ Nenurodyta
   teiginys: '1263 m. notangai trejus metus puolė apsuptą Kroicburgo pilį, naudodami tris apgulos mašinas ir tris kuorus.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie notangų apgultį ir puolimo priemones.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Kroicburgas; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Kroicburgas; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie notangų apgultį ir puolimo priemones.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 408056-408485; hash=a0df207a82f0ac12edcce64a96d6e4142de7e19ba80722639efc130a2a0f7661; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kroicburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kroicburgo pilies sugriovimas (1263 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kroicburgas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kroicburgo pilies sugriovimas (1263 m.)" parinktas kaip owner_note_path. Targetas "Kroicburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183936"></a>
 - t-002
@@ -61,9 +71,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą pasitraukimą iš pilies ir beveik visų išžudymą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Kroicburgas; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Kroicburgas; mentioned_place: Prūsai; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 408056-408485; hash=a0df207a82f0ac12edcce64a96d6e4142de7e19ba80722639efc130a2a0f7661; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kroicburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kroicburgo pilies sugriovimas (1263 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kroicburgas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kroicburgo pilies sugriovimas (1263 m.)" parinktas kaip owner_note_path. Targetas "Kroicburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -86,4 +106,24 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 408056-408485; hash=a0df207a82f0ac12edcce64a96d6e4142de7e19ba80722639efc130a2a0f7661; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kroicburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kroicburgo pilies sugriovimas (1263 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kroicburgas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kroicburgo pilies sugriovimas (1263 m.)" parinktas kaip owner_note_path. Targetas "Kroicburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 408056-408485; hash=a0df207a82f0ac12edcce64a96d6e4142de7e19ba80722639efc130a2a0f7661; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kroicburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kroicburgo pilies sugriovimas (1263 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kroicburgas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kroicburgo pilies sugriovimas (1263 m.)" parinktas kaip owner_note_path. Targetas "Kroicburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

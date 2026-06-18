@@ -37,6 +37,16 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1170524-1170841; hash=7cfe23cd0b1c59bd6c574e395594064b330535b9dc8af09322ce138e7378feb5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vasilijus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas: owner_note_path, event
+  ryšio_targeto_parinkimas: Vasilijus: mention_match, person, gap=1
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas" parinktas kaip owner_note_path. Targetas "Vasilijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185529"></a>
 - t-002
@@ -46,9 +56,18 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas iki pagrindinio citatos palaikomo fakto.'
-  susije_objektai: 'location: Maskva; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva; mentioned_place: Možaiskas; mentioned_place: Vilnius'
+  susije_objektai: 'location: Maskva; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_place: Maskva; mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Možaiskas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1170679-1171129; hash=1e64f16483ae5aa58fdfbd8c033af5f82494cd644dbd34bb53121c876afa58ee; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_targeto_parinkimas: Maskva: nearest_after_predicate, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Maskva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185530"></a>
 - t-003
@@ -58,9 +77,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Vasilijaus veiksmą ir legatų paleidimo rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Možaiskas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Možaiskas; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1171394-1172000; hash=98474bec89cf287586e06e4fb366cffa991b982af29d3ad9f2104729cd48f829; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Možaiskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Možaiskas: mention_match, place, gap=2
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas" parinktas kaip owner_note_path. Targetas "Možaiskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -98,6 +127,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1170524-1170841; hash=7cfe23cd0b1c59bd6c574e395594064b330535b9dc8af09322ce138e7378feb5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vasilijus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas: owner_note_path, event
+  ryšio_targeto_parinkimas: Vasilijus: mention_match, person, gap=1
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas" parinktas kaip owner_note_path. Targetas "Vasilijus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -124,4 +163,23 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1170679-1171129; hash=1e64f16483ae5aa58fdfbd8c033af5f82494cd644dbd34bb53121c876afa58ee; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Maskva: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_targeto_parinkimas: Maskva: nearest_after_predicate, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "subjektas" parinktas kaip local_match. Targetas "Maskva" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1171394-1172000; hash=98474bec89cf287586e06e4fb366cffa991b982af29d3ad9f2104729cd48f829; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Možaiskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Možaiskas: mention_match, place, gap=2
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas" parinktas kaip owner_note_path. Targetas "Možaiskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

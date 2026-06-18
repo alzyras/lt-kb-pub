@@ -34,6 +34,16 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie posakio kilmę ir autorių.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7f8d799b99f6b108efa74ebab9651559e7add8196ed5ec56dde4442a28373eda; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Georgas (liet. Jurgis) Zauerveinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: „Lietuviais esame mes gimę...“: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Georgas (liet. Jurgis) Zauerveinas: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Lietuviais esame mes gimę...“" parinktas kaip owner_note_path. Targetas "Georgas (liet. Jurgis) Zauerveinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-75615"></a>
 - t-002
@@ -46,6 +56,16 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad būtų aiškesnis ryšys tarp himno, eilutės ir paplitimo.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7f8d799b99f6b108efa74ebab9651559e7add8196ed5ec56dde4442a28373eda; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Georgas Zauerveinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: „Lietuviais esame mes gimę...“: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Georgas Zauerveinas: mention_match, person, gap=62
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Lietuviais esame mes gimę...“" parinktas kaip owner_note_path. Targetas "Georgas Zauerveinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -69,4 +89,24 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7f8d799b99f6b108efa74ebab9651559e7add8196ed5ec56dde4442a28373eda; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Georgas (liet. Jurgis) Zauerveinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: „Lietuviais esame mes gimę...“: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Georgas (liet. Jurgis) Zauerveinas: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Lietuviais esame mes gimę...“" parinktas kaip owner_note_path. Targetas "Georgas (liet. Jurgis) Zauerveinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7f8d799b99f6b108efa74ebab9651559e7add8196ed5ec56dde4442a28373eda; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Georgas Zauerveinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: „Lietuviais esame mes gimę...“: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Georgas Zauerveinas: mention_match, person, gap=62
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„Lietuviais esame mes gimę...“" parinktas kaip owner_note_path. Targetas "Georgas Zauerveinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

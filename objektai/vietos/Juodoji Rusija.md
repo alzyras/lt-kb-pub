@@ -31,7 +31,7 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
   global_id: t-182869
   teiginys: 'Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasiliko Slanimą ir Valkaviską, o Vaišvilkui atidavė Naugarduką.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai atitinka citatos faktus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Nemunas; mentioned_place: Rusija; mentioned_place: Slanimas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Naugardukas; mentioned_place: Rusija; mentioned_place: Slanimas; mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
 - susijęs iš Drohičinas: Lietuvos metraštyje pasakojama, kad Erdvilas rado Drohičiną Batu nusiaubtą ir sunaikintą, vėliau jį atstatė ir jame kunigaikščiavo.

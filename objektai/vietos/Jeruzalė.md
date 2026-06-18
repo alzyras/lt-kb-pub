@@ -36,7 +36,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   global_id: t-68010
   teiginys: 'Aprašęs Jeruzalės karalystės sostinės Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir kryžiaus žygių santrauką.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neįvardyta Jeruzalės sąsaja, nors citata ją aiškiai pateikia.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Sirija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Sirija'
   temporaliniai_duomenys: 'įvykio data: 1291 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje neįvardyta Jeruzalės sąsaja, nors citata ją aiškiai pateikia.'
@@ -60,6 +60,16 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   susije_objektai: 'mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Gardolfas|Gardolfas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Austrija; mentioned_place: Reinas; mentioned_place: Saksonija'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e89ca5c0d803544e3cca59a576fee7330eee3b5a20ce209c3919c935841cd262; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jeruzalė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeruzalė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-68013"></a>
 - t-004
@@ -69,15 +79,35 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Celestinas III|Celestinas III]]; mentioned_person: [[objektai/asmenys/Popiežius Celestinas III|Popiežius Celestinas III]]; mentioned_place: Romanija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c58f89671246d0bede52f8caf9c67d1ca1203457b528ae5a0fc1f8953df8d1c2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jeruzalė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeruzalė" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-68015"></a>
 - t-005
   global_id: t-68015
   teiginys: 'Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią.'
   sudarymo_pagrindimas: 'Citata palaiko Jeruzalės krikščionių padėtį po Omaro įsiveržimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_person: [[objektai/asmenys/Heraklijus|Heraklijus]]; mentioned_person: [[objektai/asmenys/Omaras|Omaras]]; mentioned_place: Prancūzija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_person: [[objektai/asmenys/Heraklijus|Heraklijus]]; mentioned_person: [[objektai/asmenys/Omaras|Omaras]]; mentioned_place: Prancūzija; mentioned_place: Viena'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=873e21eada0cdd0f87ca81800792db6df2127241e9f59052dc8233f2ff368e10; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jeruzalė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeruzalė" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-68016"></a>
 - t-006
@@ -90,6 +120,16 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje nurodytus faktus.'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 108711-109300; hash=86106ea03a5ed1aa0c7d12f7c82ca468b866b2a9e097a5b762409f618cb56d2f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Teutonai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jeruzalė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Teutonai: mention_match, group, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeruzalė" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-68017"></a>
 - t-007
@@ -102,6 +142,16 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   temporalinis_llm_pakomentavimas: 'Citata kalba apie kitą šaltinį, todėl būtina tiksli atribucija.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d887f1e43b930e90277dbb06614b87d8e98bbb7872c9e40d1d2c8ba001db7b4a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jeruzalė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Albertas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeruzalė" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-68018"></a>
 - t-008
@@ -114,10 +164,38 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susijęs su Jeruzale ir yra paremtas citatos formuluote.'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a4798f2837be104354cf613caa9f64dbcc99846b72d089ec0a22a83c7da70312; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jeruzalė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeruzalė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Henrikas (Jeruzalės karalius).md#claim-t-60306|Henrikas (Jeruzalės karalius)]]: Jeruzalės karalius Henrikas buvo tarp valdovų, pritarusių siūlymui siųsti legatus dėl naujai įsteigtos ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Celestinas III.md#claim-t-60224|Celestinas III]]: Popiežius Celestinas III Jeruzalėje įkūrė Šv. Marijos Teutonų ordino ligoninę ir paskyrė septynis kraštų valdytojus.
 - susijęs iš [[objektai/asmenys/Celestinas III.md#claim-t-60225|Celestinas III]]: Celestinas III Jeruzalėje įkūrė ir pašventino Šv. Marijos Teutonų ordino vienuolių ligoninę.
+- susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60141|Henrikas Valpotas]]: Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.
+- susijęs iš [[objektai/asmenys/Hugonas.md#claim-t-60330|Hugonas]]: Hugonas, Tiberiados valdovo Radolfo brolis, buvo tarp Jeruzalės karalystės baronų, pritarusių siųsti legatus dėl ligoninės patvirtinimo.
+- susijęs iš [[objektai/asmenys/Jonas iš Hibelino.md#claim-t-60346|Jonas iš Hibelino]]: Jonas iš Hibelino buvo vienas iš Jeruzalės karalystės didikų, pritarusių siūlymui prašyti popiežiaus patvirtinti ligoninę.
+- susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90006|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis su Jeruzalės patriarcho Simeono laiškais vyko pas popiežių Urboną II ir ragino leistis į kelionę į Jeruzalę.
+- susijęs iš [[objektai/asmenys/Popiežius Celestinas III.md#claim-t-60480|Popiežius Celestinas III]]: Dusburgietis rašo, kad popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę.
+- susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-184140|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Petras iš Dusburgo dedikacijoje Vernerį iš Orzelno vadino Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistru.
+- susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64226|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Petras iš Dusburgo dedikacijoje Vernerį iš Orzelno vadino Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistru.
+- susijęs iš [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje.md#claim-t-89436|Teutonų namų ligoninė Jeruzalėje]]: Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui ir jo broliams.
+- susijęs iš [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje.md#claim-t-89437|Teutonų namų ligoninė Jeruzalėje]]: Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui su gautomis išmaldomis ir gėrybėmis.
+- susijęs iš [[objektai/grupes/Joanitų ordinas.md#claim-t-72078|Joanitų ordinas]]: Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv.
+- susijęs iš [[objektai/grupes/Tamplierių ordinas.md#claim-t-89286|Tamplierių ordinas]]: 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.
+- susijęs iš [[objektai/ivykiai/Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.).md#claim-t-62934|Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)]]: 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.
+- susijęs iš [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę.md#claim-t-89409|Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]: Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė.
+- susijęs iš [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę.md#claim-t-89410|Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]: 1096 m. Petras su kryžininkais ir daugybe vokiečių persikėlė per Helespontą ir užėmė Švento Jurgio ranką, Antiochiją ir Jeruzalę.
+- susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89584|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę.
+- susijęs iš Klemenso VI laiškas įvairiems krikščioniškųjų šalių valdovams dėl karo prieš lietuvius ir žemaičius: Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias malones kaip Jeruzalės, Kompostelos ar Romos maldininkams.
+- susijęs iš Akonas: Akonas šiame leidime apibūdinamas kaip Jeruzalės karalystės sostinė, kurios žlugimą aprašė kronikininkas.
+- susijęs iš Prancūzija: 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.
+- susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markgrafas).md#claim-t-60262|Ditrichas (Meiseno markgrafas)]]: Meiseno markgrafas Ditrichas buvo tarp didikų, pritarusių siųsti legatus Henrikui VI dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Eimaras iš Cezarėjos.md#claim-t-60272|Eimaras iš Cezarėjos]]: Eimaras iš Cezarėjos pritarė nuomonei, kad Frydrichas Švabietis turėtų siekti ligoninės įsteigimo ir patvirtinimo.
 - susijęs iš [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis).md#claim-t-60015|Fridrichas (Švabijos kunigaikštis)]]: Fridrichas, Švabijos kunigaikštis, patarė Bremeno ir Liubeko miestiečiams padovanoti ligoninę Henrikui Valpotui.
@@ -129,13 +207,10 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 - susijęs iš [[objektai/asmenys/Henrikas (Pfalco grafas prie Reino ir Braunšveigo kunigaikštis).md#claim-t-60309|Henrikas (Pfalco grafas prie Reino ir Braunšveigo kunigaikštis)]]: Henrikas, Pfalco prie Reino pfalcgrafas ir Braunšveigo kunigaikštis, buvo tarp Vokietijos didikų, pritarusių ligoninės patvirtinimo prašymui.
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-184084|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63622|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60141|Henrikas Valpotas]]: Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.
 - susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60142|Henrikas Valpotas]]: Paėmus Akoną Henrikas Valpotas prie miesto sienų nupirko sklypą, kuriame pastatydino bažnyčią, ligoninę ir kitus namus.
 - susijęs iš [[objektai/asmenys/Henrikas iš Kalendino.md#claim-t-60314|Henrikas iš Kalendino]]: Henrikas iš Kalendino buvo imperijos maršalas, minimas tarp didikų, pritarusių legatų siuntimui dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas).md#claim-t-60324|Hermanas (Saksonijos hercogas ir Tiuringijos landgrafas)]]: Hermanas, Saksonijos hercogas ir Tiuringijos landgrafas, buvo tarp didikų, pritarusių siųsti legatus dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Hermanas Balkas.md#claim-t-89818|Hermanas Balkas]]: Hermanas Balkas buvo pirmasis Teutonų ordino magistras Prūsijos žemėje ir jai vadovavo dvylika metų.
-- susijęs iš [[objektai/asmenys/Hugonas.md#claim-t-60330|Hugonas]]: Hugonas, Tiberiados valdovo Radolfo brolis, buvo tarp Jeruzalės karalystės baronų, pritarusių siųsti legatus dėl ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Jonas iš Hibelino.md#claim-t-60346|Jonas iš Hibelino]]: Jonas iš Hibelino buvo vienas iš Jeruzalės karalystės didikų, pritarusių siūlymui prašyti popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Jėzus Kristus.md#claim-t-89876|Jėzus Kristus]]: Petras iš Dusburgo dedikacijoje mini Jėzaus Kristaus darbus, kuriuos aiškino praeities šventieji tėvai.
 - susijęs iš [[objektai/asmenys/Jėzus Kristus.md#claim-t-89878|Jėzus Kristus]]: Jėzus Kristus, pasak dedikacijos, stebuklingus darbus nuveikė pats arba per savo mokinius.
 - susijęs iš [[objektai/asmenys/Klemensas VI.md#claim-t-186227|Klemensas VI]]: Popiežius Klemensas VI laišku pakvietė krikščioniškųjų šalių valdovus į karą prieš lietuvius.
@@ -145,10 +220,6 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 - susijęs iš [[objektai/asmenys/Konradas (Viurcburgo vyskupas).md#claim-t-60362|Konradas (Viurcburgo vyskupas)]]: Konradas, Viurcburgo vyskupas ir Romos imperijos kancleris, buvo tarp Vokietijos didikų, palaikiusių ligoninės patvirtinimo prašymą.
 - susijęs iš [[objektai/asmenys/Omaras.md#claim-t-60397|Omaras]]: Arabų kunigaikštis Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė.
 - susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-184118|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis buvo vargšas ir dievotas žmogus iš Prancūzijos karalystės, gyvenęs atsiskyręs Amjeno vyskupystėje.
-- susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90006|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis su Jeruzalės patriarcho Simeono laiškais vyko pas popiežių Urboną II ir ragino leistis į kelionę į Jeruzalę.
-- susijęs iš [[objektai/asmenys/Popiežius Celestinas III.md#claim-t-60480|Popiežius Celestinas III]]: Dusburgietis rašo, kad popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę.
-- susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-184140|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Petras iš Dusburgo dedikacijoje Vernerį iš Orzelno vadino Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistru.
-- susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64226|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Petras iš Dusburgo dedikacijoje Vernerį iš Orzelno vadino Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistru.
 - susijęs iš [[objektai/asmenys/Volfgeris.md#claim-t-60468|Volfgeris]]: Pasau vyskupas Volfgeris buvo tarp didikų, pritarusių siųsti legatus dėl ligoninės steigimo ir patvirtinimo.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102847|Dusburgas]]: Dedikacijoje Petras iš Dusburgo prisistato tų pačių šventųjų įžadų kunigu ir kreipiasi į magistrą Vernerį iš Orzelno.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181463|Petras Dusburgietis]]: Dedikacijoje Petras iš Dusburgo tiesiogiai įvardija save tų pačių įžadų kunigu ir kronikos siuntėju Verneriui iš Orzelno.
@@ -156,25 +227,18 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181476|Petras Dusburgietis]]: Petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-183995|Petras Dusburgietis]]: Petras iš Dusburgo kronikos dedikacijoje kreipėsi į magistrą Vernerį iš Orzelno.
 - susijęs iš [[objektai/daiktai/Baltas apsiaustas su juodu kryžiumi.md#claim-t-59679|Baltas apsiaustas su juodu kryžiumi]]: Popiežius leido Jeruzalės ligoninės broliams dėvėti baltą apsiaustą su juodu kryžiumi.
-- susijęs iš [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje.md#claim-t-89436|Teutonų namų ligoninė Jeruzalėje]]: Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui ir jo broliams.
-- susijęs iš [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje.md#claim-t-89437|Teutonų namų ligoninė Jeruzalėje]]: Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui su gautomis išmaldomis ir gėrybėmis.
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65109|Dobrynės broliai]]: Dusburgietis Dobrynės brolius, vadintus Kristaus kariais, priskyrė prie ankstesnių kovotojų prieš prūsus.
-- susijęs iš [[objektai/grupes/Joanitų ordinas.md#claim-t-72078|Joanitų ordinas]]: Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv.
 - susijęs iš [[objektai/grupes/Joanitų ordinas.md#claim-t-72079|Joanitų ordinas]]: Švento Jono ligoninės magistras buvo tarp Šventosios Žemės ordinų ir didikų atstovų, palaikiusių naujai įsteigtą ligoninę.
 - susijęs iš [[objektai/grupes/Joanitų ordinas.md#claim-t-72081|Joanitų ordinas]]: Popiežius patvirtino Jeruzalės ligoninės brolių ordiną, skirtą pavargėliams ir paliegėliams slaugyti.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178814|Kryžiuočių ordinas]]: Popiežius patvirtino Jeruzalės ligoninės brolių ordiną ir leido jo broliams dėvėti baltą apsiaustą su juodu kryžiumi.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178981|Kryžiuočių ordinas]]: Popiežius Celestinas III Jeruzalėje įkūrė Šventosios Marijos Teutonų ordino vienuolių ligoninę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178999|Kryžiuočių ordinas]]: Šventosios Marijos Teutonų ligoninės namai Jeruzalėje buvo karinis ordinas, kuriame buvo riterių, karių ir labdarybe besirūpinusių brolių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179091|Kryžiuočių ordinas]]: Pratarmėje Petras Dusburgietis pranašo Danieliaus žodžius panaudojo Kryžiuočių ordino nuopelnams Prūsijoje pabrėžti.
-- susijęs iš [[objektai/grupes/Tamplierių ordinas.md#claim-t-89286|Tamplierių ordinas]]: 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.
 - susijęs iš [[objektai/grupes/Templininkų ordinas.md#claim-t-72652|Templininkų ordinas]]: Templininkų ordinas buvo prancūzų ordinas, minimas šalia italų joanitų ir vokiečių Marijos Mergelės ordino.
 - susijęs iš [[objektai/grupes/Templininkų ordinas.md#claim-t-72653|Templininkų ordinas]]: Prancūzai turėjo templininkų ordiną, priskiriamą kariaujančiųjų riterių ordinams.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171424|Totoriai]]: Petro Dusburgiečio kryžiaus žygių istorijoje pritariama popiežiaus kurijos pastangoms suartėti su totoriais-mongolais.
 - susijęs iš [[objektai/ivykiai/Akono (Akros) žlugimas (1291 m.).md#claim-t-59643|Akono (Akros) žlugimas (1291 m.)]]: Aprašęs Akono žlugimą, Petras Dusburgietis į kroniką įdėjo Šventosios Žemės apraudojimą ir trumpai atpasakojo kryžiaus žygių istoriją.
 - susijęs iš [[objektai/ivykiai/Neapolio sugriovimas ir Konrado mirtis (1251-1252 m.).md#claim-t-62412|Neapolio sugriovimas ir Konrado mirtis (1251-1252 m.)]]: 1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apuliją ir Neapolį, o kitais metais mirė nunuodytas.
-- susijęs iš [[objektai/ivykiai/Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.).md#claim-t-62934|Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)]]: 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.
-- susijęs iš [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę.md#claim-t-89409|Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]: Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė.
-- susijęs iš [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę.md#claim-t-89410|Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]: 1096 m. Petras su kryžininkais ir daugybe vokiečių persikėlė per Helespontą ir užėmė Švento Jurgio ranką, Antiochiją ir Jeruzalę.
 - susijęs iš [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę.md#claim-t-89411|Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]: Po Urbono II susirinkimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį.
 - susijęs iš [[objektai/ivykiai/Vokiečių ordino pradžios datavimas nuo Akono apgulties iki ilgesnio susiformavimo proceso (1190-1198 m.).md#claim-t-59629|Vokiečių ordino pradžios datavimas nuo Akono apgulties iki ilgesnio susiformavimo proceso (1190-1198 m.)]]: Dusburgiečio pasakojimas perteikia oficialią Ordino pradžios tradiciją, o „Narratio“ liudija ilgesnį procesą iki 1198 m.
 - susijęs iš [[objektai/ivykiai/Vokiečių ordino pradžios datavimas nuo Akono apgulties iki ilgesnio susiformavimo proceso (1190-1198 m.).md#claim-t-59630|Vokiečių ordino pradžios datavimas nuo Akono apgulties iki ilgesnio susiformavimo proceso (1190-1198 m.)]]: Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai per Akono apgulą vyrai iš Bremeno ir Liubeko įrengė ligoninę.
@@ -183,7 +247,6 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 - susijęs iš [[objektai/posakiai/Aukščiausias dievas padarė manyje ženklų ir stebuklų.md#claim-t-89576|Aukščiausias dievas padarė manyje ženklų ir stebuklų]]: Dusburgietis aiškino, kad žodžius „Aukščiausias dievas padarė manyje ženklų ir stebuklų“ ištarė Babilonijos karalius Nabuchodonosaras.
 - susijęs iš [[objektai/posakiai/Aukščiausias dievas padarė manyje ženklų ir stebuklų.md#claim-t-89577|Aukščiausias dievas padarė manyje ženklų ir stebuklų]]: Dusburgietis posakį „Aukščiausias dievas padarė manyje ženklų ir stebuklų“ pritaikė savo sumanymui skelbti Dievo ženklus ir stebuklus.
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89583|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę.
-- susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89584|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę.
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89585|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus.
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89586|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę.
 - susijęs iš [[objektai/posakiai/ant tvirtos uolos, o toji uola — Kristus.md#claim-t-59072|ant tvirtos uolos, o toji uola — Kristus]]: Teutonų ordino namų pagrindas vadinamas nesugriaunamu, nes jis pastatytas ant tvirtos uolos, kuri yra Kristus.
@@ -192,7 +255,6 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 - susijęs iš [[objektai/posakiai/„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“.md#claim-t-186398|„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“]]: Traidenis apibūdintas kaip pašėlęs, nedorovingas, prakeiktas ir negailestingas Lietuvos valdovas.
 - susijęs iš [[objektai/posakiai/„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“.md#claim-t-186399|„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“]]: Ipatijaus kronika prie 1270 m. pradžios rašė, kad Lietuvoje pradėjo valdyti pašėlęs, nedorovingas, prakeiktas ir negailestingas Traidenis.
 - susijęs iš [[objektai/posakiai/„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“.md#claim-t-186400|„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“]]: Ipatijaus metraštis prie 1270 m. pradžios pažymi, kad Lietuvoje pradėjo valdyti Traidenis.
-- susijęs iš Klemenso VI laiškas įvairiems krikščioniškųjų šalių valdovams dėl karo prieš lietuvius ir žemaičius: Klemensas VI kovos prieš lietuvius ir žemaičius dalyviams žadėjo tokias malones kaip Jeruzalės, Kompostelos ar Romos maldininkams.
 - susijęs iš Pelplino analai: Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97.
 - susijęs iš Tobijo knyga: Petras Dusburgietis dedikacijoje remiasi Tobijo knygos žodžiais, kad apreikšti Dievo darbus yra šlovinga.
 - susijęs iš Vokiečių ordino statutų prologas: Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai Akono apgulos metu vyrai iš Bremeno ir Liubeko įrengė ligoninę.
@@ -200,12 +262,10 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 - susijęs iš Akonas: Henrikas Valpotas mirė lapkričio pradžioje ir buvo palaidotas Akone.
 - susijęs iš Akonas: Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus pastatydino bažnyčią, ligoninę ir kitus namus.
 - susijęs iš Akonas: Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus nupirko sklypą bažnyčiai ir ligoninei.
-- susijęs iš Akonas: Akonas šiame leidime apibūdinamas kaip Jeruzalės karalystės sostinė, kurios žlugimą aprašė kronikininkas.
 - susijęs iš Bremenas: Bremeno ir Liubeko miestiečiai, laikomi pirmaisiais ordino steigėjais, padovanojo Henrikui Valpotui ligoninę Akone.
 - susijęs iš Liubekas: Bremeno ir Liubeko miestiečiai, pirmieji Teutonų ordino steigėjai, padovanojo Henrikui Valpotui Akono ligoninę su jos išmaldomis ir gėrybėmis.
 - susijęs iš Neapolis: 1251 m. Konradas, imperatoriaus Fridricho II sūnus, užpuolė Apulijos karalystę ir Neapolį, o Neapolio sienas sugriovė iki pamatų.
 - susijęs iš Paryžius: Tamplierių ordino didysis magistras 1314 m. buvo sudegintas ant laužo Paryžiuje.
-- susijęs iš Prancūzija: 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.
 - susijęs iš Sirija: Kronikoje atpasakotoje kryžiaus žygių istorijoje aprašyti totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis.
 - susijęs iš Sirija: Dusburgo kronikoje aprašomi totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis.
 - susijęs iš Sirija: Petras iš Dusburgo kryžiaus žygių istorijoje aprašė totorių ir mongolų žygius prieš Siriją bei kitas musulmoniškąsias šalis.
@@ -260,6 +320,16 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c58f89671246d0bede52f8caf9c67d1ca1203457b528ae5a0fc1f8953df8d1c2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jeruzalė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeruzalė" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-003
@@ -295,6 +365,16 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=873e21eada0cdd0f87ca81800792db6df2127241e9f59052dc8233f2ff368e10; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jeruzalė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeruzalė" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-004
@@ -312,6 +392,16 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e89ca5c0d803544e3cca59a576fee7330eee3b5a20ce209c3919c935841cd262; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jeruzalė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeruzalė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-005
@@ -330,6 +420,16 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d887f1e43b930e90277dbb06614b87d8e98bbb7872c9e40d1d2c8ba001db7b4a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jeruzalė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Albertas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeruzalė" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-006
@@ -372,6 +472,16 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 108711-109300; hash=86106ea03a5ed1aa0c7d12f7c82ca468b866b2a9e097a5b762409f618cb56d2f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Teutonai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jeruzalė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Teutonai: mention_match, group, gap=44
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeruzalė" parinktas kaip owner_note_path. Targetas "Teutonai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-008
@@ -389,6 +499,16 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a4798f2837be104354cf613caa9f64dbcc99846b72d089ec0a22a83c7da70312; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jeruzalė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeruzalė" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 ## Ryšiai

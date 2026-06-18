@@ -43,6 +43,16 @@ Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietu
   temporalinis_llm_pakomentavimas: 'Sutrumpinta ir sugramatinta ilga formuluotė.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bc8af911095c83db41d06aeb1e4436eb4d4efa3612bf2374aa41bf297aca0d22; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vokiečiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liuteronai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=121
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liuteronai" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-45109"></a>
 - t-002
@@ -52,9 +62,19 @@ Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietu
   susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/Liberum veto|Liberum veto]]; mentioned_object: [[objektai/posakiai/„tvanas“|„tvanas“]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Švedija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2b2d84282513268b3230f6bc20f24b306d5c9b7b0ca63753149d73b6fcb71c9f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liuteronai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liuteronai" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Kotryna.md#claim-t-186056|Kotryna]]: Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl žmonės dar labiau patikėjo gandais apie jo perėjimą į liuteronybę.
-- susijęs iš [[objektai/asmenys/Valerijonas Suškovskis Protasevičius.md#claim-t-186263|Valerijonas Suškovskis Protasevičius (vyskupas)]]: Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasevičius.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-184912|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimantas Augustas slėpė Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, todėl pasklido gandai apie jo palankumą liuteronybei.
+- susijęs iš [[objektai/asmenys/Valerijonas Suškovskis Protasevičius.md#claim-t-186263|Valerijonas Suškovskis Protasevičius (vyskupas)]]: Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasevičius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179342|Lietuviai]]: Oberosto režimo metu lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų.
 - susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74883|Oberostas]]: Oberosto režimas nusavino maistą, apkrovė gyventojus mokesčiais ir prievolėmis, išvežė pramonės įmones ir pradėjo germanizaciją mokyklose.
 - susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74886|Oberostas]]: Oberosto karinis kolonijinis režimas nusavindavo maistą, apkrovė valstiečius mokesčiais bei prievolėmis ir pradėjo germanizaciją mokyklose.
@@ -107,4 +127,24 @@ Liuteronybė, prasidėjusi 1539 m., – ankstyviausia reformacijos kryptis Lietu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bc8af911095c83db41d06aeb1e4436eb4d4efa3612bf2374aa41bf297aca0d22; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vokiečiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liuteronai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Vokiečiai: mention_match, group, gap=121
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liuteronai" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2b2d84282513268b3230f6bc20f24b306d5c9b7b0ca63753149d73b6fcb71c9f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liuteronai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liuteronai" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

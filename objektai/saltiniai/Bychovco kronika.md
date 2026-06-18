@@ -23,6 +23,9 @@ tags:
   sudarymo_pagrindimas: 'Citata palaiko tik bibliografinę nuorodą į Bychovco kroniką.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1c407022e80443b3baec42c4355d4233d9eed3711a9d05b1aa8c39da630038e9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -39,3 +42,6 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1c407022e80443b3baec42c4355d4233d9eed3711a9d05b1aa8c39da630038e9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

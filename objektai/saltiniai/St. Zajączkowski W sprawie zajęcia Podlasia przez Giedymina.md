@@ -31,6 +31,9 @@ Zajączkowski, St.
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=aba8e0b23428c2073774d3f3cad1b8f628bba2579b7b94d5d9d9ca9e3f36e6b3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +50,6 @@ Zajączkowski, St.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=aba8e0b23428c2073774d3f3cad1b8f628bba2579b7b94d5d9d9ca9e3f36e6b3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

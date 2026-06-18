@@ -31,39 +31,79 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
   global_id: t-86012
   teiginys: 'Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.'
   sudarymo_pagrindimas: 'Pašalintas nutrūkimas ir perteklinės detalės, paliktas citata paremtas teiginys apie Dviną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vilija; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Dvina; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vilija'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=18094be263f39d9e6643d51d9c2c52082a339e6c5ae0535da59aea7abd23ed5e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dvina: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dvina: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina)" parinktas kaip owner_note_path. Targetas "Dvina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86013"></a>
 - t-002
   global_id: t-86013
   teiginys: 'Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės.'
   sudarymo_pagrindimas: 'Pašalinta dviprasmybė, kas buvo minima kaip suomių padermės atšaka.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Dvina; mentioned_place: Europa; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_place: Dvina; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vysla'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 49179-49708; hash=f6fe24ba0ba5a4cfcb8fed53a4de4ba75da31fbb0375cb8acc905d76578817d5; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dvina: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dvina: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina)" parinktas kaip owner_note_path. Targetas "Dvina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86014"></a>
 - t-003
   global_id: t-86014
   teiginys: 'Švitrigaila įsakė sugautą Alšėnų kunigaikštį Vitebske nuo aukšto skardžio įmesti į Dviną.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gerasimas|Gerasimas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Alšėnai; mentioned_place: Dvina; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_place: Dvina; mentioned_person: [[objektai/asmenys/Gerasimas|Gerasimas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Alšėnai; mentioned_place: Vitebskas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 49709-50571; hash=e0d34793c024f731e1884d11e7ad0b997f69c75b6349ece25afa04d2b653ba5e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dvina: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dvina: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina)" parinktas kaip owner_note_path. Targetas "Dvina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86015"></a>
 - t-004
   global_id: t-86015
   teiginys: 'Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Baltija; mentioned_place: Bremenas; mentioned_place: Dvina; mentioned_place: Pamaris'
+  susije_objektai: 'mentioned_place: Dvina; mentioned_place: Pamaris; mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Baltija; mentioned_place: Bremenas'
   temporaliniai_duomenys: 'įvykio data: 1158 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 444439-444951; hash=80fbc02e516c7842d10dd9fd5f23436e6e85e5b9219a95f898e9aa4a3b20f0d6; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dvina: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dvina: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina)" parinktas kaip owner_note_path. Targetas "Dvina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -108,6 +148,16 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 49179-49708; hash=f6fe24ba0ba5a4cfcb8fed53a4de4ba75da31fbb0375cb8acc905d76578817d5; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dvina: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dvina: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina)" parinktas kaip owner_note_path. Targetas "Dvina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -125,6 +175,16 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 49709-50571; hash=e0d34793c024f731e1884d11e7ad0b997f69c75b6349ece25afa04d2b653ba5e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dvina: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dvina: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina)" parinktas kaip owner_note_path. Targetas "Dvina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-004
@@ -150,4 +210,24 @@ Bremeno pirkliai 1158 m. atrado vakarinės Dvinos [Dauguvos] žiotis ir užmezg�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 444439-444951; hash=80fbc02e516c7842d10dd9fd5f23436e6e85e5b9219a95f898e9aa4a3b20f0d6; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dvina: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dvina: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina)" parinktas kaip owner_note_path. Targetas "Dvina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=18094be263f39d9e6643d51d9c2c52082a339e6c5ae0535da59aea7abd23ed5e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dvina: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dvina: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina)" parinktas kaip owner_note_path. Targetas "Dvina" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

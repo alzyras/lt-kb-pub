@@ -26,6 +26,9 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir sutelktas į Liublino seimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=09e68bf97171d5b36a1877e5b65d850eafaea847641dcf4e5652e0e52d719484; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš Liublinas: Liublino seimas unijos klausimui spręsti susirinko 1569 m. sausio 10 d.
 - susijęs iš [[objektai/zodynas/statuto dėsniai.md#claim-t-70336|statuto dėsniai]]: Statuto dėsniai draudė lenkams įsigyti dvarų Lietuvoje, o vienas unijos nuostatas reikalavo šį draudimą panaikinti.
 ## Reikšmingi paminėjimai
@@ -49,3 +52,6 @@ Kaip Varšuvos seime (1563—4 m.), taip ir Liubline lenkai reikalavo visiško a
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=09e68bf97171d5b36a1877e5b65d850eafaea847641dcf4e5652e0e52d719484; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

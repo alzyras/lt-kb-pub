@@ -35,7 +35,7 @@ Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento D
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sutvarkytos kabutės ir perrašyta į užbaigtą enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Lietuva; mentioned_place: Vašingtonas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Vašingtonas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 2002 m.; įvykio data: 2003 m.; įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sutvarkytos kabutės ir perrašyta į užbaigtą enciklopedinį sakinį.'

@@ -50,6 +50,16 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=446bde3d437e8412dc53b987d10cd180b70c65332e0df46aa4dcdb7a691e34c8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje (sukilimas, XIII a.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje (sukilimas, XIII a.)" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-62926"></a>
 - t-002
@@ -57,12 +67,22 @@ Nenurodyta
   teiginys: '1299 m. mirus tėvui, Mstivojus tapo Pomeranijos kunigaikščiu ir paakino prūsų kariuomenę deginti bei plėšti Kulmo žemę ir Pamedę.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys nutrūkęs ir turi perteklinį įvadą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Pilėnai; mentioned_place: Pomeranija; mentioned_place: Vysla'
   temporaliniai_duomenys: 'įvykio data: 1299 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradinis teiginys nutrūkęs ir turi perteklinį įvadą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1fbd195437ef3b3da0fddf06593ddb5b89c032bdd4262b58dfdad9fb53520da7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pomeranija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje (sukilimas, XIII a.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Pomeranija: mention_match, place, gap=103
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje (sukilimas, XIII a.)" parinktas kaip owner_note_path. Targetas "Pomeranija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -101,4 +121,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1fbd195437ef3b3da0fddf06593ddb5b89c032bdd4262b58dfdad9fb53520da7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pomeranija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje (sukilimas, XIII a.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Pomeranija: mention_match, place, gap=103
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje (sukilimas, XIII a.)" parinktas kaip owner_note_path. Targetas "Pomeranija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=446bde3d437e8412dc53b987d10cd180b70c65332e0df46aa4dcdb7a691e34c8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje (sukilimas, XIII a.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje (sukilimas, XIII a.)" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

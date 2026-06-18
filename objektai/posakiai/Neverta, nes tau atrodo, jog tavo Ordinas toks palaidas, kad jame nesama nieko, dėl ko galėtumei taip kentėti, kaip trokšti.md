@@ -26,6 +26,16 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 249880-250442; hash=c57e871c4f0180c173929c4b1fccc248bfad8a99c4f12d399dd6a8b51c38a396; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Marija: mention_match, person, gap=74
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti" parinktas kaip owner_note_path. Targetas "Marija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-59141"></a>
 - t-002
@@ -35,6 +45,16 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 249880-250442; hash=c57e871c4f0180c173929c4b1fccc248bfad8a99c4f12d399dd6a8b51c38a396; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Marija: mention_match, person, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti" parinktas kaip owner_note_path. Targetas "Marija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -53,6 +73,16 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 249880-250442; hash=c57e871c4f0180c173929c4b1fccc248bfad8a99c4f12d399dd6a8b51c38a396; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Marija: mention_match, person, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti" parinktas kaip owner_note_path. Targetas "Marija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-002
@@ -70,4 +100,24 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 249880-250442; hash=c57e871c4f0180c173929c4b1fccc248bfad8a99c4f12d399dd6a8b51c38a396; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Marija: mention_match, person, gap=74
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti" parinktas kaip owner_note_path. Targetas "Marija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 249654-250206; hash=c48272dfe38d58cec039b3473b54ca9020d3ac149ad073b4758d8838d5ff4baf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Marija: mention_match, person, gap=74
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Neverta, nes tau atrodo, jog tavo Ordinas toks palaidas, kad jame nesama nieko, dėl ko galėtumei taip kentėti, kaip trokšti" parinktas kaip owner_note_path. Targetas "Marija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

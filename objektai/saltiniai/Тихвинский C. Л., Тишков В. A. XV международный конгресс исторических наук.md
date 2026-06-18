@@ -32,6 +32,9 @@ Dusburgietis teigia, kad тихвинский C.
   temporalinis_llm_pakomentavimas: 'Citata palaiko pilną bibliografinį sakinį; pradinis teiginys palieka nutrūkusią inicialų formą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 815534-815636; hash=204df0a1cd35cfe94e64de59531ccfe1c7d8a6ab784f54ef6968a42ce4e9ec10; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +49,6 @@ Dusburgietis teigia, kad тихвинский C.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 815534-815636; hash=204df0a1cd35cfe94e64de59531ccfe1c7d8a6ab784f54ef6968a42ce4e9ec10; match=exact
+  sprendimo_priezastis: auto

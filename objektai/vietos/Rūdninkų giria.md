@@ -23,9 +23,19 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   global_id: t-187316
   teiginys: 'Rūdninkų girios seniau buvo laikomos neperžengiamomis ir žmonių neištirtomis.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_place: Ašmena; mentioned_place: Rūdninkai'
+  susije_objektai: 'mentioned_place: Rūdninkai; mentioned_place: Ašmena'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 515616-515878; hash=bcf86875f5ba5e1d5f78339e44c18eaf7c0bcb60cfe3820fd013bead3da844a9; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Rūdninkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdninkų giria: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Rūdninkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkų giria" parinktas kaip owner_note_path. Targetas "Rūdninkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187317"></a>
 - t-002
@@ -36,6 +46,16 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   semantiniai_rysiai: 'Rūdninkų giria priklausė [[objektai/grupes/Valakai|Valakai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 515115-515678; hash=1b409e648477f87e38236948c2711f422cc4d7ce6604838cdb254d5d2c914741; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Rūdninkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdninkų giria: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Rūdninkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkų giria" parinktas kaip owner_note_path. Targetas "Rūdninkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187318"></a>
 - t-003
@@ -43,9 +63,19 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   teiginys: 'Rūdninkų giria kronikoje minima kaip vieta, kur Mykoliukas susitiko su Kazimieru ir prašė jo malonės.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pašalintas šnekamasis „šiame gabale“ ir įvardyti dalyviai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Rūdninkai; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_place: Rūdninkai; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Volynė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 514456-514882; hash=3b6eefe707b6a8a2120358c8756632a5a81caa448fdf49b1f73a29dc9fe949a1; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: priklause -> Valakai: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
+  ryšio_subjekto_parinkimas: Rūdninkų giria: owner_note_path, place, gap=18
+  ryšio_targeto_parinkimas: Valakai: nearest_after_predicate, group, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Rūdninkų giria" parinktas kaip owner_note_path. Targetas "Valakai" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187320"></a>
 - t-005
@@ -62,9 +92,19 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   teiginys: 'Mykoliukas Rūdninkų girioje susidūrė su Kazimieru, nusilenkė jam ir prašė malonės.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys sukonkretintas pagal citatos veiksmą ir vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Rūdninkai; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_place: Rūdninkai; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Volynė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b47550148090d6f90b6653b3207680f13e5d11a978352a4695b3bab72e0cc6d4; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Rūdninkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdninkų giria: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Rūdninkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkų giria" parinktas kaip owner_note_path. Targetas "Rūdninkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -91,8 +131,38 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   statusas: verified
   pagrindžia:
     - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b47550148090d6f90b6653b3207680f13e5d11a978352a4695b3bab72e0cc6d4; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Rūdninkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdninkų giria: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Rūdninkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkų giria" parinktas kaip owner_note_path. Targetas "Rūdninkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 514456-514882; hash=3b6eefe707b6a8a2120358c8756632a5a81caa448fdf49b1f73a29dc9fe949a1; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: priklause -> Valakai: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_belonging_owner_before_predicate
+  ryšio_subjekto_parinkimas: Rūdninkų giria: owner_note_path, place, gap=18
+  ryšio_targeto_parinkimas: Valakai: nearest_after_predicate, group, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_before_predicate". Subjektas "Rūdninkų giria" parinktas kaip owner_note_path. Targetas "Valakai" parinktas kaip nearest_after_predicate aplink predikatą "priklause". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b47550148090d6f90b6653b3207680f13e5d11a978352a4695b3bab72e0cc6d4; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Rūdninkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdninkų giria: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Rūdninkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkų giria" parinktas kaip owner_note_path. Targetas "Rūdninkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-002
@@ -124,6 +194,16 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 515115-515678; hash=1b409e648477f87e38236948c2711f422cc4d7ce6604838cdb254d5d2c914741; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Rūdninkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdninkų giria: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Rūdninkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkų giria" parinktas kaip owner_note_path. Targetas "Rūdninkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-004
@@ -145,6 +225,16 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 515616-515878; hash=bcf86875f5ba5e1d5f78339e44c18eaf7c0bcb60cfe3820fd013bead3da844a9; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Rūdninkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdninkų giria: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Rūdninkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdninkų giria" parinktas kaip owner_note_path. Targetas "Rūdninkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Rūdninkų giria priklause [[objektai/grupes/Valakai]]

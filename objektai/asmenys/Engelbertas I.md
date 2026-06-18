@@ -32,12 +32,22 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
   global_id: t-60110
   teiginys: 'Markos grafas Engelbertas su Julicho grafu ir didele kariuomene 1262 m. sausio 21 d. atvyko į Karaliaučiaus pilį.'
   sudarymo_pagrindimas: 'Perrašyta aiškiau atskiriant Engelbertą nuo Julicho grafo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Engelbertas|Engelbertas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Engelbertas|Engelbertas]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]'
   temporaliniai_duomenys: 'kelionės data: 1262 m.; kelionės data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta aiškiau atskiriant Engelbertą nuo Julicho grafo.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 385193-386441; hash=2f0df8e6cda8f3714b1d2e5e08cdb2494866a67a61b4910c8b40c03a82afdca0; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Engelbertas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Engelbertas I: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Engelbertas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Engelbertas I" parinktas kaip owner_note_path. Targetas "Engelbertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184060"></a>
 - t-002
@@ -52,6 +62,9 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi neaiškų įvardį ir yra per arti citatos fragmento.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 385070-385405; hash=09102e0b65688b222b16d851b1694554290390e05bb91c1ba089f6669636d15d; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -93,4 +106,17 @@ Dusburgietis teigia, kad mat jis atsiuntė jiems Julicho grafą bei Markos graf�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 385193-386441; hash=2f0df8e6cda8f3714b1d2e5e08cdb2494866a67a61b4910c8b40c03a82afdca0; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Engelbertas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Engelbertas I: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Engelbertas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Engelbertas I" parinktas kaip owner_note_path. Targetas "Engelbertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 385070-385405; hash=09102e0b65688b222b16d851b1694554290390e05bb91c1ba089f6669636d15d; match=exact
+  sprendimo_priezastis: auto

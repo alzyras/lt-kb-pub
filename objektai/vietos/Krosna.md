@@ -29,12 +29,22 @@ Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusė
   global_id: t-79490
   teiginys: 'Apie kilometrą už Krosnos Lazdijų link kairėje plento pusėje driekėsi kalvotas mišrus Kalniškės miškas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Krosnos apylinkėse buvusį Kalniškės mišką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kalniškės miškas; mentioned_place: Lazdijai; mentioned_place: Simnas'
+  susije_objektai: 'mentioned_place: Kalniškės miškas; mentioned_place: Lazdijai; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Simnas'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Krosnos apylinkėse buvusį Kalniškės mišką.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8311b1eb17b1ba8a14d9dafdb4e8211c928ff4f51823e2bafe405659da100592; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalniškės miškas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krosna: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kalniškės miškas: mention_match, place, gap=68
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krosna" parinktas kaip owner_note_path. Targetas "Kalniškės miškas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-79491"></a>
 - t-002
@@ -47,6 +57,16 @@ Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusė
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 916171-916490; hash=80b472b01811de4ae0c09c95a9fc6751681e990d8ce820b206e74686a3011a17; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalniškės mūšis (1945 m. gegužės 16-17 d.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krosna: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kalniškės mūšis (1945 m. gegužės 16-17 d.): mention_match, event, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krosna" parinktas kaip owner_note_path. Targetas "Kalniškės mūšis (1945 m. gegužės 16-17 d.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Kalniškės miškas: Kalniškės miškas tęsiasi apie kilometrą už Krosnos Lazdijų link ir yra 3–4 km pločio bei apie 8 km ilgio kalvotas mišrus miškas.
 - susijęs iš Kalniškės miškas: Kalniškės miškas yra apie 3–4 km pločio ir 8 km ilgio mišrus miškas, kuriame 1945 m. įvyko Kalniškės mūšis.
 ## Reikšmingi paminėjimai
@@ -103,4 +123,24 @@ Prieš mūšį Apie kilometrą už Krosnos, Lazdijų link, kairėje plento pusė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 916171-916490; hash=80b472b01811de4ae0c09c95a9fc6751681e990d8ce820b206e74686a3011a17; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalniškės mūšis (1945 m. gegužės 16-17 d.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krosna: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kalniškės mūšis (1945 m. gegužės 16-17 d.): mention_match, event, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krosna" parinktas kaip owner_note_path. Targetas "Kalniškės mūšis (1945 m. gegužės 16-17 d.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8311b1eb17b1ba8a14d9dafdb4e8211c928ff4f51823e2bafe405659da100592; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalniškės miškas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krosna: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kalniškės miškas: mention_match, place, gap=68
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krosna" parinktas kaip owner_note_path. Targetas "Kalniškės miškas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

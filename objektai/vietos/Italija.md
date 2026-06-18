@@ -35,7 +35,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   global_id: t-114293
   teiginys: 'Palemono legenda teigė, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir ten sukūrė valstybę.'
   sudarymo_pagrindimas: 'Teiginys yra apie legendinę versiją, todėl reikia aiškios atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Libonas|Libonas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Libonas|Libonas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - t-002
   global_id: t-114294
   teiginys: 'Pasakojime romėnų karvedys Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Libonas|Libonas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Romėnai|Romėnai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Libonas|Libonas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]'
   pagrindžia:
     - c-001
 
@@ -52,15 +52,25 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   global_id: t-114296
   teiginys: 'Iš Italijos kilęs de Senis Vilnių papuošė nuostabaus darbo meno kūriniais.'
   sudarymo_pagrindimas: 'Teiginys pataisytas į sklandesnį, enciklopedinį sakinį be šaltinio fragmentiškumo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=17290308910638ded3ae739cc0cdfaf058d13213879b61d1e6f195b7daef2471; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Italija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Italija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-114297"></a>
 - t-004
   global_id: t-114297
   teiginys: 'Aukštojo mokslo siekę ne dvasininkai vykdavo į Vokietijos, Italijos ir Prancūzijos universitetus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_place: Prancūzija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Europa; mentioned_place: Krokuva'
   pagrindžia:
     - c-005
 
@@ -69,7 +79,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   global_id: t-114298
   teiginys: 'Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi neišbaigtą skliaustinį fragmentą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Europa; mentioned_place: Ispanija; mentioned_place: Vakarų Europa; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Ispanija; mentioned_place: Vakarų Europa; mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -93,9 +103,19 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Originale neaiškus įvardinis pradas, o citata leidžia suformuluoti glaudžiau.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_place: Prancūzija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Europa; mentioned_place: Krokuva'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 554422-554869; hash=b2ce201ed76cb7fcb164ebdbfd0d72df607c3bae5831c91698f29b03e1894932; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Italija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Italija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184962"></a>
 - t-009
@@ -108,10 +128,29 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Papakoda|Papakoda]]; mentioned_place: Lenkija; mentioned_place: Maskva'
   pagrindžia:
     - c-006
+- susijęs iš [[objektai/asmenys/Benito Musolinis.md#claim-t-18850|Benito Musolinis]]: Benito Musolinio atėjimas į valdžią Italijoje buvo vienas Europos procesų, skatinusių Seimo valdymu Lietuvoje nepatenkintas jėgas veikti.
+- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82626|Mykolas Glinskis]]: Mykolas Glinskis jaunystėje mokėsi karybos Italijoje, tarnavo imperatoriaus Frydricho dvare ir Lietuvoje formavo husarų dalinius.
+- susijęs iš [[objektai/asmenys/Otonas Didysis.md#claim-t-87814|Otonas Didysis]]: Otono Didžiojo laikais Italijos miestai nusikratė teutonų pareigūnų ir valdžios priekyje pastatė konsulus.
+- susijęs iš [[objektai/asmenys/Vilius.md#claim-t-87933|Vilius]]: Pasak Dlugošo, Vilnius vardą gavo nuo vado Viliaus, kuris lietuvių protėvius atvedęs iš Italijos.
+- susijęs iš [[objektai/grupes/Gepidai.md#claim-t-185459|Gepidai]]: Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti langobardų į žygį į Italiją.
+- susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185424|Langobardai]]: Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele kariuomene įsiveržė į Italiją.
+- susijęs iš [[objektai/ivykiai/Daugelio tūkstančių gvelfų žūtis Italijoje.md#claim-t-183915|Daugelio tūkstančių gvelfų žūtis Italijoje]]: 1325 m. Italijoje gibelinai nužudė daug tūkstančių gvelfų.
+- susijęs iš [[objektai/ivykiai/Daugelio tūkstančių gvelfų žūtis Italijoje.md#claim-t-62765|Daugelio tūkstančių gvelfų žūtis Italijoje]]: 1325 m. Italijoje gibelinai nužudė daug tūkstančių gvelfų.
+- susijęs iš [[objektai/ivykiai/Karalienės Bonos išvykimas į Italiją.md#claim-t-185801|Karalienės Bonos išvykimas į Italiją]]: Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.
+- susijęs iš [[objektai/ivykiai/Karolio Didžiojo žygis prieš langobardus (776 m.).md#claim-t-185803|Karolio Didžiojo žygis prieš langobardus (776 m.)]]: Karolis Didysis su galinga kariuomene įsiveržė į Italiją ir, du kartus sumušęs langobardus, juos nugalėjo.
+- susijęs iš [[objektai/ivykiai/Kometa, dešimt vakarų kreipusi uodegą į Italiją (1313 m. apie balandžio 23 d.).md#claim-t-62326|Kometa, dešimt vakarų kreipusi uodegą į Italiją (1313 m. apie balandžio 23 d.)]]: Apie balandžio 23 d. pasirodžiusi kometa dešimt vakarų kreipė uodegą į Italiją.
+- susijęs iš [[objektai/ivykiai/Langobardų įsiveržimas į Italiją (559 m.).md#claim-t-185810|Langobardų įsiveržimas į Italiją (559 m.)]]: Apie 559 metus Albojino vedami langobardai iškeliavo iš Panonijos ir su didžiule kariuomene įsiveržė į Italiją.
+- susijęs iš [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose.md#claim-t-54297|Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]: Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.
+- susijęs iš [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose.md#claim-t-54299|Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]: Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose buvo svarbios europinės kultūros įsisavinimui.
+- susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
+- susijęs iš Ptolomėjaus iš Lukos Analai: 1228 m. Italijoje radosi gibelinų ir gvelfų partijos: Gibelinas rėmė imperatorių, o Gveltas bažnyčią.
+- susijęs iš Kauno pilis (pilis): Kauno pilį puolė kryžiuočių pajėgos, Livonijos ordino daliniai ir kryžininkai iš Anglijos, Italijos bei Vokietijos.
+- susijęs iš Krokuva: Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.
+- susijęs iš Vokietija: Dvasininkais besirengiantys studentai paprastai vykdavo į Krokuvą, o kiti mokėsi Vokietijos, Italijos ir Prancūzijos universitetuose.
+- susijęs iš [[objektai/zodynas/romėniškoji kilmė.md#claim-t-74036|romėniškoji kilmė]]: Romėniškosios kilmės teorijoje teigta, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-173119|Barbora Radvilaitė]]: Barborai Radvilaitei Šv. Stanislovo bažnyčioje italų meistrai pastatė brangaus marmuro antkapį.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54952|Barbora Radvilaitė]]: Barborai Šv. Stanislovo bažnyčioje buvo pastatytas marmurinis antkapis, kuris XVIII a. pražuvo senosios Katedros griuvėsiuose.
 - susijęs iš [[objektai/asmenys/Belizarijus.md#claim-t-186183|Belizarijus]]: Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero vadovaujamų herulų pagalba.
-- susijęs iš [[objektai/asmenys/Benito Musolinis.md#claim-t-18850|Benito Musolinis]]: Benito Musolinio atėjimas į valdžią Italijoje buvo vienas Europos procesų, skatinusių Seimo valdymu Lietuvoje nepatenkintas jėgas veikti.
 - susijęs iš [[objektai/asmenys/Deziderijus.md#claim-t-186195|Deziderijus]]: Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl pradėjo niokoti Romos ir popiežiaus valdas.
 - susijęs iš [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona).md#claim-t-173150|Elžbieta (Žygimanto Augusto žmona)]]: Italų meistrai Šv. Stanislovo bažnyčioje pastatė marmurinį antkapį karaliaus žmonai Elžbietai.
 - susijęs iš [[objektai/asmenys/Henrikas I Paukštininkas.md#claim-t-87688|Henrikas I Paukštininkas]]: Valdant Henrikui I Paukštininkui, X a. Vokietijos miestai sustiprėjo tiek, kad sulaikydavo vengrų antpuolius.
@@ -119,8 +158,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš [[objektai/asmenys/Julijonas Dausprungas.md#claim-t-186050|Julijonas Dausprungas]]: Kojelavičiaus perpasakotoje tradicijoje Julijonas Dausprungas įvardijamas kaip vienas iš kilmingųjų italų vadų, kurio giminės herbas buvo Kentauras.
 - susijęs iš [[objektai/asmenys/Justinianas.md#claim-t-186121|Justinianas]]: Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus.
 - susijęs iš [[objektai/asmenys/Martynas Ostrovskis.md#claim-t-87773|Martynas Ostrovskis]]: Martynas Ostrovskis buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių ir papuošusių miestą savo kūriniais.
-- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82626|Mykolas Glinskis]]: Mykolas Glinskis jaunystėje mokėsi karybos Italijoje, tarnavo imperatoriaus Frydricho dvare ir Lietuvoje formavo husarų dalinius.
-- susijęs iš [[objektai/asmenys/Otonas Didysis.md#claim-t-87814|Otonas Didysis]]: Otono Didžiojo laikais Italijos miestai nusikratė teutonų pareigūnų ir valdžios priekyje pastatė konsulus.
 - susijęs iš [[objektai/asmenys/Papakoda.md#claim-t-186245|Papakoda]]: Dėl tarno Papakodos suktybių nebuvo įvykdyta karalienės Bonos paskutinė valia, o jos turtas buvo iššvaistytas.
 - susijęs iš [[objektai/asmenys/Peteris Paulius Rubensas.md#claim-t-19189|Peteris Paulius Rubensas]]: Peteris Paulius Rubensas buvo Flandrijoje subrendęs bene žymiausias baroko dailininkas.
 - susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90006|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis su Jeruzalės patriarcho Simeono laiškais vyko pas popiežių Urboną II ir ragino leistis į kelionę į Jeruzalę.
@@ -128,7 +165,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš [[objektai/asmenys/Petras Kubiliūnas.md#claim-t-19193|Petras Kubiliūnas]]: Petras Kubiliūnas 1934 m. vadovavo dalinių išvedimui į Kauno gatves, laikytam pavojingiausiu voldemarininkų pučo bandymu.
 - susijęs iš [[objektai/asmenys/Stanislovas Ratka.md#claim-t-87862|Stanislovas Ratka]]: Stanislovas Ratka buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių iš Poznanės.
 - susijęs iš [[objektai/asmenys/Vaitiekus Chelminskis.md#claim-t-87872|Vaitiekus Chelminskis]]: Vaitiekus Chelminskis iš Inovroclavo buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių.
-- susijęs iš [[objektai/asmenys/Vilius.md#claim-t-87933|Vilius]]: Pasak Dlugošo, Vilnius vardą gavo nuo vado Viliaus, kuris lietuvių protėvius atvedęs iš Italijos.
 - susijęs iš [[objektai/autoriai/Machiavellio.md#claim-t-01108|Machiavellio]]: Machiavellio mokslu vadintas įsitikinimas, kad valdovas turi siekti valdžios nesiskaitydamas su priemonėmis.
 - susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-186291|Prokopijus]]: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.
 - susijęs iš [[objektai/daiktai/Elžbietos ir Barboros marmuro antkapiai Šv. Stanislovo bažnyčioje.md#claim-t-87076|Elžbietos ir Barboros marmuro antkapiai Šv. Stanislovo bažnyčioje]]: Italų meistrai per šešerius metus Šv. Stanislovo bažnyčioje pastatė marmuro antkapius Elžbietai ir Barborai.
@@ -136,34 +172,24 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš [[objektai/daiktai/Mūro sienos.md#claim-t-87057|Mūro sienos]]: Otono Didžiojo laikais daugelis Italijos miestų apsitvėrė mūro sienomis, saugodamiesi vengrų ir saracėnų antpuolių.
 - susijęs iš [[objektai/grupes/Antantė.md#claim-t-19635|Antantė]]: 1922 m. gruodžio 20 d. Prancūzija, Anglija, Italija ir Japonija kaip Antantės valstybės pripažino Lietuvą de jure.
 - susijęs iš [[objektai/grupes/Arijonai.md#claim-t-185456|Arijonai]]: Agilulfui viešpataujant, 591 m. daugelis buvusių arijonų kartu su stabmeldžiais perėjo į krikščionybę.
-- susijęs iš [[objektai/grupes/Gepidai.md#claim-t-185459|Gepidai]]: Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti langobardų į žygį į Italiją.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116693|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116696|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-184475|Herulai]]: Po Otokaro nužudymo Teodorikas patraukė į savo pusę herulų kariuomenę ir lengvai ją perkalbėjo.
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-184477|Herulai]]: Kojelavičius spėjo, kad alanai arba herulai, ilgėdamiesi taikos, galėjo pirmieji pasitraukti iš tėvynės į karo neniokotas žemes.
 - susijęs iš [[objektai/grupes/Hohenštaufenų giminė.md#claim-t-86795|Hohenštaufenų giminė]]: Hohenštaufenų giminės žlugimo sukelti politiniai pokyčiai Švabijoje ir Frankonijoje suteikė miestams persvarą.
 - susijęs iš [[objektai/grupes/Italų ateiviai.md#claim-t-185426|Italų ateiviai]]: Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki šimtai kilmingųjų.
-- susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185424|Langobardai]]: Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele kariuomene įsiveržė į Italiją.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169684|Lietuvos Didžioji Kunigaikštija]]: XVI a. Vytauto kultas Lietuvoje stiprėjo ieškant ideologinės atramos prieš Lenkijos hegemonijos planus.
 - susijęs iš [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė.md#claim-t-183167|Lietuvos vyrų krepšinio rinktinė]]: JAV lietuvių trenerių ir kelių žaidėjų padedama Lietuvos vyrų krepšinio rinktinė 1937 m. Rygoje tapo Europos čempione.
 - susijęs iš [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė.md#claim-t-74802|Lietuvos vyrų krepšinio rinktinė]]: JAV lietuvių trenerių ir kelių žaidėjų padedama Lietuvos vyrų krepšinio rinktinė 1937 m. Rygoje tapo Europos čempione.
-- susijęs iš [[objektai/ivykiai/Daugelio tūkstančių gvelfų žūtis Italijoje.md#claim-t-183915|Daugelio tūkstančių gvelfų žūtis Italijoje]]: 1325 m. Italijoje gibelinai nužudė daug tūkstančių gvelfų.
-- susijęs iš [[objektai/ivykiai/Daugelio tūkstančių gvelfų žūtis Italijoje.md#claim-t-62765|Daugelio tūkstančių gvelfų žūtis Italijoje]]: 1325 m. Italijoje gibelinai nužudė daug tūkstančių gvelfų.
 - susijęs iš [[objektai/ivykiai/Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.).md#claim-t-77895|Generolo Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves (1934 m.)]]: 1934 m. gen. Petro Kubiliūno vadovautas dalinių išvedimas į Kauno gatves buvo pavojingiausias voldemarininkų bandymas puču grąžinti A. Voldemarą į valdžią.
 - susijęs iš [[objektai/ivykiai/Gibelinų ir gvelfų partijų atsiradimas (1228 m.).md#claim-t-62268|Gibelinų ir gvelfų partijų atsiradimas (1228 m.)]]: 1228 m. Italijoje atsirado gibelinų ir gvelfų partijos; Gibelinas rėmė imperatorių, o Gveltas – bažnyčią.
 - susijęs iš [[objektai/ivykiai/Italų atvykimas į Lietuvą A. Kojelavičiaus pasakojime.md#claim-t-185570|Italų atvykimas į Lietuvą A. Kojelavičiaus pasakojime]]: Kojelavičius patikimiausia laikė prielaidą, kad italai į šias žemes atvyko po devintojo amžiaus nuo Kristaus gimimo.
 - susijęs iš [[objektai/ivykiai/Italų įsitvirtinimas Lietuvoje ir lietuvių pasidavimas ateivių valdžiai A. Kojelavičiaus pasakojime.md#claim-t-185704|Italų įsitvirtinimas Lietuvoje ir lietuvių pasidavimas ateivių valdžiai A. Kojelavičiaus pasakojime]]: Kojelavičiaus pasakojime ateiviai ir vietiniai gyventojai susivienijo, panoro bendros valstybės, o lietuviai sutiko pasiduoti ateivių valdžiai.
-- susijęs iš [[objektai/ivykiai/Karalienės Bonos išvykimas į Italiją.md#claim-t-185801|Karalienės Bonos išvykimas į Italiją]]: Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais.
-- susijęs iš [[objektai/ivykiai/Karolio Didžiojo žygis prieš langobardus (776 m.).md#claim-t-185803|Karolio Didžiojo žygis prieš langobardus (776 m.)]]: Karolis Didysis su galinga kariuomene įsiveržė į Italiją ir, du kartus sumušęs langobardus, juos nugalėjo.
-- susijęs iš [[objektai/ivykiai/Kometa, dešimt vakarų kreipusi uodegą į Italiją (1313 m. apie balandžio 23 d.).md#claim-t-62326|Kometa, dešimt vakarų kreipusi uodegą į Italiją (1313 m. apie balandžio 23 d.)]]: Apie balandžio 23 d. pasirodžiusi kometa dešimt vakarų kreipė uodegą į Italiją.
-- susijęs iš [[objektai/ivykiai/Langobardų įsiveržimas į Italiją (559 m.).md#claim-t-185810|Langobardų įsiveržimas į Italiją (559 m.)]]: Apie 559 metus Albojino vedami langobardai iškeliavo iš Panonijos ir su didžiule kariuomene įsiveržė į Italiją.
 - susijęs iš [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.).md#claim-t-75207|Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.)]]: 1939 m. Kaune Lietuva antrą kartą laimėjo Europos krepšinio čempionatą.
 - susijęs iš [[objektai/ivykiai/Otokaro ir Teodoriko sandora bei Otokaro nužudymas Ravenoje (493 m.).md#claim-t-185758|Otokaro ir Teodoriko sandora bei Otokaro nužudymas Ravenoje (493 m.)]]: Teodorikas pasikvietė Otokarą į puotą Ravenoje, pasiuntė žudikus ir atėmė iš jo gyvybę bei sostą.
 - susijęs iš [[objektai/ivykiai/Pirmoji tautinė olimpiada Kaune (1938 m.).md#claim-t-75258|Pirmoji tautinė olimpiada Kaune (1938 m.)]]: 1938 m. Kaune vykusioje pirmojoje tautinėje olimpiadoje gausiai dalyvavo ir užsienio šalių lietuviai.
 - susijęs iš [[objektai/ivykiai/Pirmoji tautinė olimpiada Kaune (1938 m.).md#claim-t-75259|Pirmoji tautinė olimpiada Kaune (1938 m.)]]: 1938 m. Kaune vykusioje pirmojoje tautinėje olimpiadoje gausiai dalyvavo ir užsienio šalių lietuviai.
 - susijęs iš [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę.md#claim-t-89409|Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]: Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė.
-- susijęs iš [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose.md#claim-t-54297|Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]: Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.
-- susijęs iš [[objektai/paprociai/Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose.md#claim-t-54299|Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose]]: Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose buvo svarbios europinės kultūros įsisavinimui.
 - susijęs iš [[objektai/paprociai/Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje.md#claim-t-185889|Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje]]: Kojelavičiaus pasakojime Palemonas Lietuvoje nepanaikino daugelio dievų garbinimo ir senąsias apeigas papildė naujais prietarais.
 - susijęs iš [[objektai/paprociai/Sporto pergalių tautinis pagerbimas ir krepšinio kaip tautinės pergalės simbolis.md#claim-t-77959|Sporto pergalių tautinis pagerbimas ir krepšinio kaip tautinės pergalės simbolis]]: 1937 m. Lietuvos krepšininkams tapus Europos čempionais Rygoje, jų traukinį Lietuvos stotelėse sutiko minios, o krepšinis tapo tautinės pergalės simboliu.
 - susijęs iš [[objektai/paprociai/Valdovo rinkimas bendru balsavimu ir bendruomenės valia.md#claim-t-185902|Valdovo rinkimas bendru balsavimu ir bendruomenės valia]]: Mirus lietuvių valdovui, bendru balsavimu buvo išrinktas Palemonas.
@@ -171,14 +197,10 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš [[objektai/posakiai/„civilizaciniam šuoliui“.md#claim-t-26351|„civilizaciniam šuoliui“]]: Vytautui valdant buvo padėtas pagrindas Lietuvos visuomenės artėjimui prie Vidurio Europos, vadinamam „civilizaciniu šuoliu“.
 - susijęs iš 1547 m. Žygimanto Augusto privilegija Martynui Paleckiui dėl stiklo liejyklos: Už karaliaus dovanotą žemę Martynas Paleckis turėjo kasmet pristatyti į Vilniaus karališkuosius rūmus po 200 didžiųjų ir mažesniųjų Kurovo stiklinių.
 - susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
-- susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
-- susijęs iš Ptolomėjaus iš Lukos Analai: 1228 m. Italijoje radosi gibelinų ir gvelfų partijos: Gibelinas rėmė imperatorių, o Gveltas bažnyčią.
 - susijęs iš Vladislovo ir popiežiaus laiškas Ivanui dėl bendro karo prieš turkus: Vladislovas pasiuntė Zigmantą Santajį pas Ivaną su savo ir popiežiaus laišku dėl bendro krikščionių karo prieš turkus.
 - susijęs iš Ispanija: Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.
 - susijęs iš Kaunas: Kaunas buvo Hanzos miestas.
 - susijęs iš Kaunas: Kaunas buvo Hanzos miestas.
-- susijęs iš Kauno pilis (pilis): Kauno pilį puolė kryžiuočių pajėgos, Livonijos ordino daliniai ir kryžininkai iš Anglijos, Italijos bei Vokietijos.
-- susijęs iš Krokuva: Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.
 - susijęs iš Olandija: XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.
 - susijęs iš Prancūzija: Katalikybė sudarė prielaidą Italijos ir Ispanijos baroko kultūrai plisti Prancūzijoje.
 - susijęs iš Prancūzija: LLV Konstitucija buvo priimta keliais mėnesiais anksčiau už Prancūzijos konstituciją.
@@ -194,7 +216,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Šv. Stanislovo bažnyčioje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius.
 - susijęs iš Vilniaus katedra: Vilniaus katedroje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius.
 - susijęs iš Vilnius: Italų meistrai šešerius metus dirbo Vilniuje ir Šv. Stanislovo bažnyčioje pastatė marmurinius Elžbietos ir Barboros antkapius.
-- susijęs iš Vokietija: Dvasininkais besirengiantys studentai paprastai vykdavo į Krokuvą, o kiti mokėsi Vokietijos, Italijos ir Prancūzijos universitetuose.
 - susijęs iš Šiaurės Europa: XVII–XVIII a. Šiaurės Europa dėl protestantizmo pritapo prie dinamiškosios Vakarų Europos dalies.
 - susijęs iš Šiaurės Europa: Protestantizmas lėmė, kad Šiaurės Europa per XVII–XVIII a. pritapo prie dinamiškosios Vakarų Europos dalies ir pralenkė katalikiškąją Vidurio Europą.
 - susijęs iš Šv. Stanislovo bažnyčia: Šv. Stanislovo bažnyčioje buvo pastatyti marmuriniai Elžbietos ir Barboros antkapiai, vėliau pražuvę Katedros griuvėsiuose.
@@ -207,7 +228,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70220|maldininkai / maldininko įžadai]]: Po Urbono II raginimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį.
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58825|maldininkai]]: 1096 m. Petras su kryžininkais užėmė Antiochiją ir Jeruzalę, o vėliau kiti maldininkai užėmė daug miestų bei pilių.
 - susijęs iš [[objektai/zodynas/protektorium.md#claim-t-36824|protektorium]]: Popiežius paskyrė Vytautą Rygos arkivyskupijos protektoriumi, siekdamas patraukti jį į savo pusę.
-- susijęs iš [[objektai/zodynas/romėniškoji kilmė.md#claim-t-74036|romėniškoji kilmė]]: Romėniškosios kilmės teorijoje teigta, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.
 - susijęs iš [[objektai/zodynas/supremacija.md#claim-t-36838|supremacija]]: Teisiškai Lietuva buvo susieta su Lenkija ir buvo visiškoje jos supremacijoje.
 - susijęs iš [[objektai/zodynas/už įstatymo ribų.md#claim-t-185414|už įstatymo ribų]]: Kojelavičius spėjo, kad iš Italijos galėjo pasitraukti žmonės, nugalėjusių priešų paskelbti už įstatymo ribų.
 ## Reikšmingi paminėjimai
@@ -271,6 +291,16 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=17290308910638ded3ae739cc0cdfaf058d13213879b61d1e6f195b7daef2471; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Italija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Italija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -286,6 +316,16 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=17290308910638ded3ae739cc0cdfaf058d13213879b61d1e6f195b7daef2471; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Italija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Italija" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-005
@@ -334,4 +374,14 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 554422-554869; hash=b2ce201ed76cb7fcb164ebdbfd0d72df607c3bae5831c91698f29b03e1894932; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Italija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Italija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009

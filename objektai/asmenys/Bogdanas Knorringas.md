@@ -28,7 +28,7 @@ Rusijos kariuomenės korpusui, puolusiam Vilnių, vadovavo generolas leitenantas
 - t-001
   global_id: t-40069
   teiginys: '1794 m. liepos 19 d. Bogdano Knorringo vadovaujamas Rusijos kariuomenės korpusas pasiekė Vilnių.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)|Vilniaus gynyba (1794 m. liepos 19–20 d.)]]; mentioned_group: [[objektai/grupes/Rusijos kariuomenės korpusas|Rusijos kariuomenės korpusas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusijos kariuomenės korpusas|Rusijos kariuomenės korpusas]]; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_event: [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.)|Vilniaus gynyba (1794 m. liepos 19–20 d.)]]'
   temporaliniai_duomenys: 'įvykio data: 1794 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

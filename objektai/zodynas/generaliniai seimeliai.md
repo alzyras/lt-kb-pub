@@ -26,6 +26,9 @@ Tie generaliniai seimeliai neišnyko nė įvedus bend- rą su lietuviais seimą.
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir patikslintas sakinys pagal citatą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 551622-551892; hash=23403c3142e409cccb65c236029e5d699d37641d3b59715de3239c42c6c2f7bc; match=exact
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/paprociai/Generaliniai seimeliai ir provincijų sesijos.md#claim-t-01948|Generaliniai seimeliai ir provincijų sesijos]]: Generaliniai seimeliai neišnyko įvedus bendrą seimą su lietuviais, o Lietuvoje prieš bendruosius seimus pradėti rengti panašūs suvažiavimai.
 - susijęs iš Slanimas: Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.
 - susijęs iš Volkoviskas: Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.
@@ -45,3 +48,6 @@ Tie generaliniai seimeliai neišnyko nė įvedus bend- rą su lietuviais seimą.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 551622-551892; hash=23403c3142e409cccb65c236029e5d699d37641d3b59715de3239c42c6c2f7bc; match=exact
+  sprendimo_priezastis: auto

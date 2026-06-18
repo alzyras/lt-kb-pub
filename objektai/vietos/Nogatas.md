@@ -34,39 +34,59 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   susije_objektai: 'mentioned_place: Santyras; mentioned_place: Vysla'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=77db0bb07c12274c5cbd5ffb51d96cb15893fc051d3b56d4d1884a4559dc934f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Santyras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nogatas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Santyras: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nogatas" parinktas kaip owner_note_path. Targetas "Santyras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-68829"></a>
 - t-003
   global_id: t-68829
   teiginys: 'Nogatu buvo plaukiama iš Aistmarių į Vyslą prekybos keliu, kuriuo Lietuvos prekės galiausiai pasiekdavo Dancigą.'
-  susije_objektai: 'mentioned_place: Dancigas; mentioned_place: Deimena; mentioned_place: Labguva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Dancigas; mentioned_place: Lietuva; mentioned_place: Vysla; mentioned_place: Deimena; mentioned_place: Labguva; mentioned_place: Lenkija; mentioned_place: Nemunas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3dc2c13a643ea2de38e874811d779749a6c96a337d57c7763d96b0938322f014; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aismares: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nogatas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Aismares: mention_match, place, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nogatas" parinktas kaip owner_note_path. Targetas "Aismares" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90011|Sventopelkas]]: Sventopelkas pastatė Santyro pilį Vyslos ir Nogato santakoje ir joje įkurdino brolių valdinius puldinėjusius vyrus.
+- susijęs iš [[objektai/grupes/Baltai.md#claim-t-96081|Baltai]]: Manoma, kad XII-XIII a. politinė ir etninė baltų bei Pamario slavų riba ėjo žemutine Vysla ir Nogatu.
+- susijęs iš [[objektai/ivykiai/Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas.md#claim-t-62927|Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis)]]: Broliams negrąžinus sūnaus, Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.
+- susijęs iš Aliamas: Pamedės valsčius Aliamas 1250 m. minėtas forma Alyem prie Nogato ir siejamas su vėlesniu Štumu.
+- susijęs iš Marienburgas: Marienburgo pilis Nogato deš.
+- susijęs iš Santyras: Santyro pilis buvo pastatyta Vyslos ir Nogato santakoje.
+- susijęs iš Santyras: Santyro pilis buvo pastatyta Vyslos ir Nogato santakoje.
+- susijęs iš Vysla: Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
 - susijęs iš [[objektai/asmenys/Mergelė Marija.md#claim-t-59892|Mergelė Marija]]: Dusburgiečio pasakojime Mergelė Marija vienu rankos prisilietimu pagydė sužalotą brolį.
 - susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
 - susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90011|Sventopelkas]]: Sventopelkas pastatė Santyro pilį Vyslos ir Nogato santakoje ir joje įkurdino brolių valdinius puldinėjusius vyrus.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90030|Sventopelkas]]: Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.
 - susijęs iš [[objektai/autoriai/Guerquin B.md#claim-t-60710|Guerquin B]]: B. Guerquin cituojamas teiginiui, kad Ordino konventas iš Santyro į Marienburgo pilį perkeltas 1280 m.
 - susijęs iš [[objektai/autoriai/Górnowicz H.md#claim-t-60555|Górnowicz H]]: H. Górnowiczius nagrinėjo Marienverderio ir Kvidzino vietovardžių medžiagą.
 - susijęs iš [[objektai/autoriai/Górski K.md#claim-t-60602|Górski K]]: K. Górski cituojamas teiginiui, kad Ordino konventas iš Santyro į Marienburgo pilį perkeltas 1280 m.
 - susijęs iš [[objektai/autoriai/Labuda G.md#claim-t-64697|Labuda G]]: G. Labuda Dirsovės vardą laikė prūsišku.
 - susijęs iš [[objektai/autoriai/Schmid B.md#claim-t-60786|Schmid B]]: B. Schmidas cituojamas dėl teiginio, kad Ordino konventas 1280 m. perkeltas iš Santyro į Marienburgo pilį.
-- susijęs iš [[objektai/grupes/Baltai.md#claim-t-96081|Baltai]]: Manoma, kad XII-XIII a. politinė ir etninė baltų bei Pamario slavų riba ėjo žemutine Vysla ir Nogatu.
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96084|Baltai]]: Manoma, kad žalvario amžiuje baltų arealas siekė Oderio žemupį.
 - susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66520|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Divano ir Linko puolimas Kulmo žemėje datuojamas 1271 m.
 - susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66522|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Divanas Klokinis ir Linkas su didele kariuomene įsibrovė į Kulmo žemę, o jų pajėgos patraukė prie Traupeino pilies.
 - susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-66638|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų.
 - susijęs iš [[objektai/ivykiai/Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas.md#claim-t-66768|Marienverderio pilies pastatymas, perkėlimas ir miesto sustiprinimas]]: Lenkijos ir Pomeranijos kunigaikščiai bei kiti didikai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį.
-- susijęs iš [[objektai/ivykiai/Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas.md#claim-t-62927|Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis)]]: Broliams negrąžinus sūnaus, Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.
 - susijęs iš [[objektai/ivykiai/Svečės pilies statyba ir nesėkmingas Ordino puolimas.md#claim-t-66924|Svečės pilies statyba ir nesėkmingas Ordino puolimas]]: Jis mat norėjo neleisti statyti čia pilies.
-- susijęs iš Aliamas: Pamedės valsčius Aliamas 1250 m. minėtas forma Alyem prie Nogato ir siejamas su vėlesniu Štumu.
 - susijęs iš Deimena: Lietuvos prekės iš Nemuno per Giliją ir Kuršmares buvo plukdomos Deimena pro Labguvą į Prieglių.
-- susijęs iš Marienburgas: Marienburgo pilis Nogato deš.
-- susijęs iš Santyras: Santyro pilis buvo pastatyta Vyslos ir Nogato santakoje.
-- susijęs iš Santyras: Santyro pilis buvo pastatyta Vyslos ir Nogato santakoje.
-- susijęs iš Vysla: Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.
 - susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-58786|kuoras propugnaculum pilaitė]]: Prūsų pilaitė prie Wildenbergo aiškinama kaip buvusi greta vėlesnės Marienburgo pilies arba jos vietoje.
 ## Reikšmingi paminėjimai
 
@@ -99,6 +119,16 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=77db0bb07c12274c5cbd5ffb51d96cb15893fc051d3b56d4d1884a4559dc934f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Santyras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nogatas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Santyras: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nogatas" parinktas kaip owner_note_path. Targetas "Santyras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -112,4 +142,14 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3dc2c13a643ea2de38e874811d779749a6c96a337d57c7763d96b0938322f014; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aismares: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Nogatas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Aismares: mention_match, place, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Nogatas" parinktas kaip owner_note_path. Targetas "Aismares" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001

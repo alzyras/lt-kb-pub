@@ -22,15 +22,25 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   global_id: t-18967
   teiginys: 'Johanas Pėteris Frankas dirbo Vilniaus universitete, o jo darbai buvo žinomi tarptautiniu mastu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Johano Pėterio Franko darbą ir žinomumą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Andrius Sniadeckis|Andrius Sniadeckis]]; mentioned_person: [[objektai/asmenys/Joachimas Lelevelis|Joachimas Lelevelis]]; mentioned_person: [[objektai/asmenys/Jonas Sniadeckis|Jonas Sniadeckis]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Andrius Sniadeckis|Andrius Sniadeckis]]; mentioned_person: [[objektai/asmenys/Joachimas Lelevelis|Joachimas Lelevelis]]; mentioned_person: [[objektai/asmenys/Jonas Sniadeckis|Jonas Sniadeckis]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ba5b58edce9bf6ba541499b482f71920557d61cc11a0188709300951b67fa86; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Johanas Pėteris Frankas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Johanas Pėteris Frankas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Jozefas Frankas.md#claim-t-19009|Jozefas Frankas]]: Jozefas Frankas buvo iš Austrijos į Vilniaus universitetą atvykęs mokslininkas, kurio darbai buvo žinomi tarptautiniu mastu.
 - susijęs iš [[objektai/asmenys/Andrius Sniadeckis.md#claim-t-183521|Andrius Sniadeckis]]: Andrius Sniadeckis dirbo Vilniaus universitete kaip chemikas ir biologas.
 - susijęs iš [[objektai/asmenys/Andrius Sniadeckis.md#claim-t-18807|Andrius Sniadeckis]]: Andrius Sniadeckis buvo universitete dirbęs garsus chemikas ir biologas, kurio darbai buvo žinomi tarptautiniu mastu.
 - susijęs iš [[objektai/asmenys/Eduardas Karolis Eichvaldas.md#claim-t-18879|Eduardas Karolis Eichvaldas]]: Eduardas Karolis Eichvaldas dirbo universitete kaip vienas iš garsių biologų, kurių darbai buvo žinomi tarptautiniu mastu.
 - susijęs iš [[objektai/asmenys/Joachimas Lelevelis.md#claim-t-78034|Joachimas Lelevelis]]: Istorikas Joachimas Lelevelis dirbo universitete jo klestėjimo laikotarpiu.
 - susijęs iš [[objektai/asmenys/Jonas Sniadeckis.md#claim-t-183544|Jonas Sniadeckis]]: Filosofas Jonas Sniadeckis dirbo universitete didžiausio jo klestėjimo laikotarpiu.
-- susijęs iš [[objektai/asmenys/Jozefas Frankas.md#claim-t-19009|Jozefas Frankas]]: Jozefas Frankas buvo iš Austrijos į Vilniaus universitetą atvykęs mokslininkas, kurio darbai buvo žinomi tarptautiniu mastu.
 - susijęs iš [[objektai/asmenys/Liudvigas Heinrichas Bojanus.md#claim-t-78065|Liudvigas Heinrichas Bojanus]]: Liudvigas Heinrichas Bojanus dirbo Vilniaus universitete tarp tarptautiniu mastu žinomų mokslininkų.
 - susijęs iš [[objektai/autoriai/Joachimas Lelevelis (istorikas).md#claim-t-63306|Joachimas Lelevelis (istorikas)]]: Joachimas Lelevelis dirbo universitete kaip vienas iš garsių mokslininkų.
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113356|Vilniaus universitetas]]: Vilniaus universitetas tapo istorinės Lietuvos žemių visuomeninio ir kultūrinio gyvenimo centru.
@@ -61,3 +71,13 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ba5b58edce9bf6ba541499b482f71920557d61cc11a0188709300951b67fa86; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Johanas Pėteris Frankas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Johanas Pėteris Frankas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

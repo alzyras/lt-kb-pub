@@ -33,45 +33,81 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
   global_id: t-78004
   teiginys: 'Jonas Basanavičius buvo pirmasis 1883 m. Rytprūsiuose pradėto leisti lietuviško mėnraščio „Aušra“ redaktorius.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir padarytas tiesiogiai apie Joną Basanavičių.'
-  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Praha; mentioned_place: Rytprūsiai; mentioned_place: Užnemunė'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Maskva; mentioned_place: Praha; mentioned_place: Užnemunė'
   temporaliniai_duomenys: 'įvykio data: 1883 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir padarytas tiesiogiai apie Joną Basanavičių.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 225013-225397; hash=2dcf6b6e70ce9155b57a21d52efa2d47f7628e0db41041594c2a72965f1a478f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas Basanavičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonas Basanavičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas Basanavičius: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Basanavičius" parinktas kaip owner_note_path. Targetas "Jonas Basanavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-78005"></a>
 - t-002
   global_id: t-78005
   teiginys: 'Jonas Basanavičius buvo Lietuvių mokslo draugijos pirmininkas ir jau tuo laikotarpiu lietuvių visuomenės laikytas tautos patriarchu.'
   sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą ir predikatą, o citata patvirtina abi nurodytas aplinkybes.'
-  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Liudvika Didžiulienė-Žmona|Liudvika Didžiulienė-Žmona]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Liudvika Didžiulienė-Žmona|Liudvika Didžiulienė-Žmona]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1905 m.; įvykio data: 1912 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys turi aiškų subjektą ir predikatą, o citata patvirtina abi nurodytas aplinkybes.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e39536154c2a85a159fa458271c12fdd88140fa99de2e71fa40af274ee73dd26; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas Basanavičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonas Basanavičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas Basanavičius: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Basanavičius" parinktas kaip owner_note_path. Targetas "Jonas Basanavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-78006"></a>
 - t-003
   global_id: t-78006
   teiginys: '1914 m. liepą Vilniuje Jonas Basanavičius, Stasys Šilingas ir Donatas Malinauskas surašė Gintarinę deklaraciją.'
   sudarymo_pagrindimas: 'Teiginys yra išbaigtas faktinis sakinys ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Stasys Šilingas|Stasys Šilingas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Donatas Malinauskas|Donatas Malinauskas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija; mentioned_place: Suvalkai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Stasys Šilingas|Stasys Šilingas]]; mentioned_person: [[objektai/asmenys/Donatas Malinauskas|Donatas Malinauskas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija; mentioned_place: Suvalkai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1914 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išbaigtas faktinis sakinys ir atitinka citatos informaciją.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/A. Tučkovas.md#claim-t-39984|A. Tučkovas]]: Kapitonas A. Tučkovas, vadovavęs rusų artilerijos parkui Poguliankoje, atsitraukė su įgulos likučiais.
-- susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45929|Adomas Mickevičius (poetas)]]: Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7ee02576f017a7bff795f32bba5ae38b4dc58f5a712b1a25785af68807e9890e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Donatas Malinauskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonas Basanavičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Donatas Malinauskas: mention_match, person, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Basanavičius" parinktas kaip owner_note_path. Targetas "Donatas Malinauskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Donatas Malinauskas.md#claim-t-18878|Donatas Malinauskas]]: Donatas Malinauskas 1914 m. liepą Vilniuje su Jonu Basanavičiumi ir Stasiu Šilingu surašė Gintarinę deklaraciją.
 - susijęs iš [[objektai/asmenys/J. Basanavičius.md#claim-t-63663|J. Basanavičius]]: J. Basanavičius vadinamas tautos patriarchu ir siejamas su Lietuvos Respublikos ištakomis.
 - susijęs iš [[objektai/asmenys/J. Basanavičius.md#claim-t-63664|J. Basanavičius]]: 1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą.
 - susijęs iš [[objektai/autoriai/Basanavičius J.md#claim-t-64567|Basanavičius J]]: Pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių.., p. XXXIII).
 - susijęs iš [[objektai/autoriai/Basanavičius J.md#claim-t-64568|Basanavičius J]]: Basanavičiaus veikale nurodomas Vangrapės upės kilpoje, apie 400 m į pietus nuo Tamoviškių, žinomas Kampsvykalnio piliakalnis.
-- susijęs iš [[objektai/autoriai/Remeika J.md#claim-t-91933|Remeika J]]: J. Remeikos darbas minimas tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą.
 - susijęs iš [[objektai/autoriai/Stasys Šilingas.md#claim-t-63316|Stasys Šilingas]]: Stasys Šilingas su Jonu Basanavičiumi ir Donatu Malinausku 1914 m. liepą Vilniuje surašė Gintarinę deklaraciją.
+- susijęs iš Aušra: Pirmajame „Aušros“ numeryje 1883 m. Jonas Basanavičius pradėjo istorinę prakalbą išverstu lotynišku humanistų posakiu.
+- susijęs iš Basanavičius J., Iš gyvenimo vėlių: Basanavičiaus veikalo puslapiai 178–181 nurodomi kaip pasakojimų apie piliakalnį į pietryčius nuo Ragainės šaltinis.
+- susijęs iš Basanavičius J., Iš gyvenimo vėlių: Basanavičiaus veikalo puslapiai 181–182 nurodomi tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą.
+- susijęs iš Basanavičius J., Iš gyvenimo vėlių: Basanavičiaus veikalo puslapis 182 nurodomas prie Šereitlaukio apylinkėse lokalizuojamos Sareibe pilies aptarimo.
+- susijęs iš Basanavičius J., Iš gyvenimo vėlių: Basanavičiaus veikalo puslapiai 190–191 nurodomi prie Kampsvykalnio piliakalnio Vangrapės krante, į pietus nuo Tamoviškių.
+- susijęs iš Praha: Pirmuoju „Aušros“ redaktoriumi tapo tuo metu Prahoje gyvenęs Jonas Basanavičius.
+- susijęs iš [[objektai/asmenys/A. Tučkovas.md#claim-t-39984|A. Tučkovas]]: Kapitonas A. Tučkovas, vadovavęs rusų artilerijos parkui Poguliankoje, atsitraukė su įgulos likučiais.
+- susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45929|Adomas Mickevičius (poetas)]]: Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
+- susijęs iš [[objektai/autoriai/Remeika J.md#claim-t-91933|Remeika J]]: J. Remeikos darbas minimas tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą.
 - susijęs iš [[objektai/grupes/Aušrininkai.md#claim-t-05242|Aušrininkai]]: Aušrininkai siejami su Simono Daukanto pradėto tautinio ir istorinio palikimo tęsiniu iki nepriklausomybės metų.
 - susijęs iš [[objektai/grupes/Aušrininkai.md#claim-t-80795|Aušrininkai]]: Aušrininkai Lietuvoje sekė Simono Daukanto vykdytu romantiniu tautinės istorijos nusistatymu.
 - susijęs iš [[objektai/grupes/Aušrininkai.md#claim-t-80796|Aušrininkai]]: Aušrininkai ir jų tautinio palikimo tęsėjai iki nepriklausomybės metų sekė Simono Daukanto istoriniu nusistatymu.
@@ -84,18 +120,12 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
 - susijęs iš [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną.md#claim-t-75398|Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]: Lietuvių tautinę savimonę žadino Vinco Kudirkos poezija, satyriniai apsakymai ir Žemaitės realistinė socialinė proza.
 - susijęs iš [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną.md#claim-t-75401|Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]: Maironio lietuviškai rašyta poezija turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
 - susijęs iš [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną.md#claim-t-75402|Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]: Maironio lietuviškai rašyta poezija turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
-- susijęs iš Aušra: Pirmajame „Aušros“ numeryje 1883 m. Jonas Basanavičius pradėjo istorinę prakalbą išverstu lotynišku humanistų posakiu.
 - susijęs iš Aušra: Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).
-- susijęs iš Basanavičius J., Iš gyvenimo vėlių: Basanavičiaus veikalo puslapiai 178–181 nurodomi kaip pasakojimų apie piliakalnį į pietryčius nuo Ragainės šaltinis.
-- susijęs iš Basanavičius J., Iš gyvenimo vėlių: Basanavičiaus veikalo puslapiai 181–182 nurodomi tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą.
-- susijęs iš Basanavičius J., Iš gyvenimo vėlių: Basanavičiaus veikalo puslapis 182 nurodomas prie Šereitlaukio apylinkėse lokalizuojamos Sareibe pilies aptarimo.
-- susijęs iš Basanavičius J., Iš gyvenimo vėlių: Basanavičiaus veikalo puslapiai 190–191 nurodomi prie Kampsvykalnio piliakalnio Vangrapės krante, į pietus nuo Tamoviškių.
 - susijęs iš Jaunoji Lietuva: 1895 m. buvo išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis.
 - susijęs iš Jaunoji Lietuva: 1895 m. išleisti Maironio „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis.
 - susijęs iš Molotovo–Ribentropo paktas: Svarbiausių datų sąraše 1940 m. birželio 15 d. Sovietų Sąjungos įvykdyta Lietuvos okupacija ir aneksija aiškinama kaip Molotovo–Ribentropo pakto realizavimas.
 - susijęs iš Pavasario balsai: Maironio poezijos knyga „Pavasario balsai“ išleista 1895 m., o jo eilėraščiai virto liaudies dainomis.
 - susijęs iš Bulgarija: J. Basanavičius grįžo iš emigracijos Bulgarijoje ir tapo suvažiavimo sumanymo iniciatoriumi.
-- susijęs iš Praha: Pirmuoju „Aušros“ redaktoriumi tapo tuo metu Prahoje gyvenęs Jonas Basanavičius.
 - susijęs iš Rusija: 1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai.
 - susijęs iš [[objektai/zodynas/tautinis krikštas.md#claim-t-101609|tautinis krikštas (krikštas)]]: Lenkų romantikų kūryba prisidėjo prie lietuvių tautinės savimonės plėtotės ir lietuviškai kalbančio kaimo tautinio krikšto.
 - susijęs iš [[objektai/zodynas/tautinis krikštas.md#claim-t-101610|tautinis krikštas (krikštas)]]: Lietuvių tautiniam krikštui didelę reikšmę turėjo lenkų romantikų kūryba ir lietuviškai rašyta Maironio poezija.
@@ -142,6 +172,16 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 225013-225397; hash=2dcf6b6e70ce9155b57a21d52efa2d47f7628e0db41041594c2a72965f1a478f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas Basanavičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonas Basanavičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas Basanavičius: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Basanavičius" parinktas kaip owner_note_path. Targetas "Jonas Basanavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -167,4 +207,24 @@ Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Ma
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7ee02576f017a7bff795f32bba5ae38b4dc58f5a712b1a25785af68807e9890e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Donatas Malinauskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonas Basanavičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Donatas Malinauskas: mention_match, person, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Basanavičius" parinktas kaip owner_note_path. Targetas "Donatas Malinauskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e39536154c2a85a159fa458271c12fdd88140fa99de2e71fa40af274ee73dd26; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas Basanavičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonas Basanavičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas Basanavičius: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Basanavičius" parinktas kaip owner_note_path. Targetas "Jonas Basanavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

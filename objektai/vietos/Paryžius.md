@@ -38,7 +38,7 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   global_id: t-91235
   teiginys: 'Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą.'
   sudarymo_pagrindimas: 'Teiginys yra glaustas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]'
   pagrindžia:
     - c-003
 
@@ -59,9 +59,19 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   global_id: t-91237
   teiginys: 'Paryžiuje Henrikas ir Karolis IX mėgino pakeisti kai kuriuos artikulų punktus, bet delegacijoms nenusileidus sutiko ir prisiekė.'
   sudarymo_pagrindimas: 'Teiginys pataisytas į aiškų sakinį apie Paryžiuje vykusį įvykį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/reskriptas|reskriptas]]; mentioned_person: [[objektai/asmenys/Karolis IX|Karolis IX]]; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Karolis IX|Karolis IX]]; mentioned_object: [[objektai/zodynas/reskriptas|reskriptas]]; mentioned_place: Prancūzija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f8896178e05be2b8d2b23b42b343cedbcc8d5b44bd29a2c932903c3888b68b7e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antantė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Antantė: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "Antantė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-91238"></a>
 - t-004
@@ -71,6 +81,16 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-012
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=824fecfe9e9461e10b863b72a70455cca7f74f4fdaa5c762a78991c2d2564d31; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-91240"></a>
 - t-005
@@ -83,6 +103,16 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą perkėlimą į Paryžių.'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a48392c0f1d3b6410772d015496da94ce355e46ceed12a0bffa2dbe1772e3750; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Voldemaras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: A. Voldemaras: mention_match, person, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "A. Voldemaras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-91241"></a>
 - t-006
@@ -92,18 +122,38 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   susije_objektai: 'mentioned_object: [[objektai/zodynas/reskriptas|reskriptas]]; mentioned_place: Prancūzija'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 330938-331053; hash=e5b9379b0391066cb0ea0c147b25ea196110a69537b77f3e40da4eab4f1fb742; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Voldemaras: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: A. Voldemaras: mention_match, person, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "A. Voldemaras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-91242"></a>
 - t-007
   global_id: t-91242
   teiginys: 'Paryžiaus taikos konferencijoje lietuviai žydams žadėjo plačią kultūrinę autonomiją.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas iki aiškaus citatos remiamo fakto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/S. Rozenbaumas|S. Rozenbaumas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/S. Rozenbaumas|S. Rozenbaumas]]'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas iki aiškaus citatos remiamo fakto.'
   pagrindžia:
     - c-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=aa1f93eb1901b501102a248998babdef3bff2eed649ef337b1054d7f08d63324; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-91243"></a>
 - t-008
@@ -137,18 +187,38 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_place: Lietuva; mentioned_place: Zarasai'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f8896178e05be2b8d2b23b42b343cedbcc8d5b44bd29a2c932903c3888b68b7e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-91246"></a>
 - t-011
   global_id: t-91246
   teiginys: '1919 m. prasidėjusioje Paryžiaus taikos konferencijoje Lietuva nebuvo juridinė dalyvė ir veikė kuluaruose.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas pateikta citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Taryba|Lietuvos Taryba]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir paremtas pateikta citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 346564-347126; hash=4762b1f3f85b0cb9ec44d2d363b2ba39310b585261f63b35d51be2e4c141d4e7; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-91247"></a>
 - t-012
@@ -161,6 +231,16 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-013
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9c349383807d03dd314aebb7c5d0fbda125e02da11fcd12fea447353551b09d7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-91248"></a>
 - t-013
@@ -173,6 +253,16 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=467f523404d64e7b7078b27ae483d80404b68e33b2773f8728e3e7e870c84102; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jeruzalė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jeruzalė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "Jeruzalė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-91249"></a>
 - t-014
@@ -184,24 +274,23 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citatoje nurodytu potvynio aprašymu.'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 699032-699219; hash=9072e85e58bf7b6b233955f01af37a391a501db361144058558991a3900dc443; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstantinopolis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Konstantinopolis: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "Konstantinopolis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-184059|Egidijus (arkivyskupas, XIV a.)]]: Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
-- susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78003|A. Voldemaras]]: Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią.
-- susijęs iš [[objektai/asmenys/Andrejus Sacharovas.md#claim-t-75687|Andrejus Sacharovas]]: Andrejus Sacharovas buvo Jelenos Boner vyras ir bendražygis.
+- susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-184059|Egidijus (arkivyskupas, XIV a.)]]: Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
 - susijęs iš [[objektai/asmenys/Augustas Zaleskis.md#claim-t-18838|Augustas Zaleskis]]: Augustas Zaleskis buvo Lenkijos užsienio reikalų ministras, su kuriuo Paryžiuje susitiko Augustinas Voldemaras.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75778|Augustinas Voldemaras]]: A. Voldemaras buvo kooptuotas į Lietuvos Tarybą vietoj nuo jos atsiskyrusių kairiųjų pažiūrų narių.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75779|Augustinas Voldemaras]]: Augustinas Voldemaras vadovavo Lietuvos delegacijai prie Paryžiaus taikos konferencijos.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75784|Augustinas Voldemaras]]: Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti Augustiną Voldemarą į valdžią.
-- susijęs iš [[objektai/asmenys/Bonifacas VIII.md#claim-t-184047|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]: Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu.
-- susijęs iš [[objektai/asmenys/Bonifacas VIII.md#claim-t-59901|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]: Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu.
-- susijęs iš [[objektai/asmenys/Dominykas Semaško.md#claim-t-63539|Dominykas Semaško]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-184059|Egidijus (arkivyskupas, XIV a.)]]: Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
-- susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-60271|Egidijus (arkivyskupas, XIV a.)]]: Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.
 - susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-184107|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-60050|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
-- susijęs iš [[objektai/asmenys/Oskaras Milašius.md#claim-t-64020|Oskaras Milašius]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
-- susijęs iš [[objektai/asmenys/Simonas Rozenbaumas.md#claim-t-64059|Simonas Rozenbaumas]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
-- susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64222|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Vernerio iš Orzelno laikais Kryžiuočių ordino statute buvo pabrėžtas pamaldumas ir apriboti pasaulietiniai brolių poreikiai.
-- susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64232|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Didysis magistras Verneris iš Orzelno ėmėsi restauruoti Kryžiuočių ordiną.
 - susijęs iš [[objektai/autoriai/J. Chabanier.md#claim-t-30662|J. Chabanier]]: J. Chabanier 1960 m. Paryžiuje paskelbė darbą „Les Tatars Lithuaniens“.
 - susijęs iš [[objektai/autoriai/P. Boissonade.md#claim-t-30891|P. Boissonade]]: P. Boissonade 1923 m. Paryžiuje paskelbė darbą „Du nouveau sur la Chanson de Roland“.
 - susijęs iš [[objektai/daiktai/1900 m. Paryžiaus parodos lietuvių ekspozicijos daiktai.md#claim-t-24534|1900 m. Paryžiaus parodos lietuvių ekspozicijos daiktai]]: 1900 m. Paryžiaus pasaulinės parodos lietuvių ekspozicijoje buvo tautinių drabužių, žemės ūkio padargų, kitų daiktų ir lietuviškos spaudos.
@@ -210,9 +299,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 - susijęs iš [[objektai/daiktai/Viešpaties erškėčių vainikas.md#claim-t-183982|Viešpaties erškėčių vainikas]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš [[objektai/daiktai/Viešpaties erškėčių vainikas.md#claim-t-59709|Viešpaties erškėčių vainikas]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš [[objektai/daiktai/Žemėlapis „Lituania Propria“.md#claim-t-26416|Žemėlapis „Lituania Propria“]]: „Lituania Propria“ žemėlapis pateiktas Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m.
-- susijęs iš [[objektai/grupes/Antantė.md#claim-t-19636|Antantė]]: Lietuvos delegacijos reikalavimu sudarytos karinės misijos sustiprino nepriklausomybės viltis ir suteikė Antantei žinių apie padėtį Lietuvoje.
-- susijęs iš [[objektai/grupes/Antantė.md#claim-t-19637|Antantė]]: Antantė pripažino, kad Lietuvos Taryba iškėlė nepriklausomybės klausimą ir išsivadavo iš Vokietijos politikos diktato.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178874|Kryžiuočių ordinas]]: XIV a. pradžioje Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.
 - susijęs iš [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos.md#claim-t-183152|Lietuvos delegacija prie Paryžiaus taikos konferencijos]]: Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė Lietuvos vardu ir kėlė valstybės pripažinimo problemą.
 - susijęs iš [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos.md#claim-t-74635|Lietuvos delegacija prie Paryžiaus taikos konferencijos]]: Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes Lietuva nebuvo juridinė 1919 m. prasidėjusios konferencijos dalyvė.
 - susijęs iš [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos.md#claim-t-74636|Lietuvos delegacija prie Paryžiaus taikos konferencijos]]: Lietuvos delegacijai prie Paryžiaus taikos konferencijos vadovavo Augustinas Voldemaras.
@@ -220,43 +306,58 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 - susijęs iš [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos.md#claim-t-74638|Lietuvos delegacija prie Paryžiaus taikos konferencijos]]: Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes Lietuva nebuvo juridinė 1919 m. prasidėjusios konferencijos dalyvė.
 - susijęs iš [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos.md#claim-t-74639|Lietuvos delegacija prie Paryžiaus taikos konferencijos]]: Lietuvos delegacija prie Paryžiaus taikos konferencijos buvo instruktuota siekti išėjimo į jūrą per Klaipėdą arba Liepoją.
 - susijęs iš [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos.md#claim-t-74640|Lietuvos delegacija prie Paryžiaus taikos konferencijos]]: Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes Lietuva nebuvo juridinė konferencijos dalyvė.
-- susijęs iš [[objektai/grupes/Lietuvos žydų taryba (Vaad).md#claim-t-74811|Lietuvos žydų taryba (Vaad)]]: 1920 m. sudaryta Lietuvos žydų taryba (Vaad) turėjo spręsti socialinius ir kultūrinius Lietuvos žydų reikalus.
-- susijęs iš [[objektai/grupes/Tamplierių ordinas.md#claim-t-89286|Tamplierių ordinas]]: 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.
-- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117396|Žydai]]: Žydai parėmė Lietuvos nepriklausomybę, dalyvavo Lietuvos Tarybos veikloje ir kaip savanoriai stojo į nepriklausomybės kovas.
 - susijęs iš [[objektai/ivykiai/Didysis potvynis ir Paryžiaus tiltų sugriuvimas (1304 m. apie Kalėdas).md#claim-t-183916|Didysis potvynis ir Paryžiaus tiltų sugriuvimas (1304 m. apie Kalėdas)]]: 1304 m. apie Kalėdas didelis potvynis sugriovė abu Paryžiaus tiltus, o kitos provincijos patyrė didelių nuostolių.
 - susijęs iš [[objektai/ivykiai/Didysis potvynis ir Paryžiaus tiltų sugriuvimas (1304 m. apie Kalėdas).md#claim-t-62236|Didysis potvynis ir Paryžiaus tiltų sugriuvimas (1304 m. apie Kalėdas)]]: 1304 m. apie Kalėdas didelis potvynis sugriovė abu Paryžiaus tiltus, o kitos provincijos patyrė didelių nuostolių.
 - susijęs iš [[objektai/ivykiai/Lietuvių prisistatymas 1900 m. Paryžiaus pasaulinėje parodoje.md#claim-t-24532|Lietuvių prisistatymas 1900 m. Paryžiaus pasaulinėje parodoje]]: 1900 m. Paryžiaus pasaulinės parodos etnografiniame skyriuje lietuviai parengė ekspoziciją su tautiniais drabužiais, ūkio padargais ir lietuviška spauda.
-- susijęs iš [[objektai/ivykiai/Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.).md#claim-t-20390|Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.)]]: 1920 m. sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus.
-- susijęs iš [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.).md#claim-t-62908|Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]: Didžiajam magistrui Verneriui kronikos reikėjo Ordino priekaištams atremti ir vidaus reformai įgyvendinti.
-- susijęs iš [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.).md#claim-t-62909|Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]: 1324 m. Kryžiuočių ordino vidinę kovą laikinai laimėjo reformų šalininkai.
-- susijęs iš [[objektai/ivykiai/Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.).md#claim-t-62934|Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)]]: 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.
 - susijęs iš [[objektai/ivykiai/Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.).md#claim-t-183974|Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš [[objektai/ivykiai/Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.).md#claim-t-62527|Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
-- susijęs iš [[objektai/ivykiai/Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis).md#claim-t-20591|Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis)]]: 1918 m. gruodį Jokūbas Vygodskis tapo ministru be portfelio žydų reikalams, o S. Rozenbaumas – užsienio reikalų viceministru.
-- susijęs iš [[objektai/paprociai/Klaipėdos krašto autonominis režimas.md#claim-t-67120|Klaipėdos krašto autonominis režimas (kraštas)]]: Klaipėdos kraštas turėjo autonominę valdžią, o Lietuvos Respublikos vyriausybei ten atstovavo prezidento skiriamas gubernatorius.
 - susijęs iš [[objektai/paprociai/Tarpukario jaunos poros santuokos Paryžiuje kaip prestižinė kultūrinė praktika.md#claim-t-77960|Tarpukario jaunos poros santuokos Paryžiuje kaip prestižinė kultūrinė praktika]]: Tarpukariu jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.
-- susijęs iš [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis.md#claim-t-175142|Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]: Didysis magistras Verneris papildė Ordino statutą prierašais apie pamaldumą, maldas, brolių poreikių ribojimą ir bendruomenės drausmę.
-- susijęs iš [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis.md#claim-t-175143|Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]: Vernerio prierašai turėjo būti skaitomi visuose Ordino namuose keturis kartus per metus.
-- susijęs iš [[objektai/paprociai/Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime.md#claim-t-77944|Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime]]: 1920 m. Lietuvos žydų kahalų atstovų konferencijoje sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus.
-- susijęs iš Klaipėdos konvencija: 1924 m. Paryžiuje pasirašyta Klaipėdos konvencija oficialiai pavertė Klaipėdos kraštą Lietuvos Respublikos autonomine dalimi.
-- susijęs iš Lietuvos Konstitucija (1928 m.): 1928 m. Lietuvos konstitucijoje Lietuvos sostine buvo įrašytas Vilnius.
 - susijęs iš The Boundaries of Lithuania: Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m., buvo žemėlapis „Lituania Propria“.
 - susijęs iš Berezina: Po žiauraus mūšio prie Berezinos Napoleonas pavedė kariuomenę maršalui Miuratui ir parskubėjo į Paryžių rinkti naujų jėgų.
 - susijęs iš Konstantinopolis: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš Konstantinopolis: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš Marijampolė: Po mūšio prie Berezinos Napoleonas per Vilnių, Kauną, Marijampolę ir Varšuvą parskubėjo į Paryžių.
 - susijęs iš Vakarų Europa: Vakarų Europos XVI a. religinį nepakantumą simbolizavo 1572 m. Baltramiejaus naktis Paryžiuje.
-- susijęs iš Vilnius: 1928 m. Lietuvos konstitucijoje Lietuvos sostine buvo įrašytas Vilnius.
 - susijęs iš Zarasai: Voldemaras buvo ištremtas iš Zarasų į Paryžių.
-- susijęs iš Šveicarija: Neutralioje Šveicarijoje susidaręs negausus lietuvių būrys šelpė lietuvius belaisvius Vokietijoje ir skleidė žinias apie lietuvių teises.
 - susijęs iš [[objektai/zodynas/Antisemitizmas.md#claim-t-75542|Antisemitizmas]]: Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o Paryžiaus taikos konferencijoje žydams žadėjo plačią kultūrinę autonomiją.
+- susijęs iš [[objektai/zodynas/neutralizacija.md#claim-t-70250|neutralizacija]]: Svarstant Nemuno neutralizaciją, Lietuvos vyriausybė Paryžiaus Ambasadorių Konferencijai pabrėžė Lietuvos teises ir interesus.
+- susijęs iš [[objektai/zodynas/reskriptas.md#claim-t-58923|reskriptas]]: Popiežiaus Bonifaco Prancūzijos karaliui siųstas priklausomybės reskriptas buvo perskaitytas ir sudegintas Paryžiaus karaliaus rūmuose.
+- susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78003|A. Voldemaras]]: Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią.
+- susijęs iš [[objektai/asmenys/Andrejus Sacharovas.md#claim-t-75687|Andrejus Sacharovas]]: Andrejus Sacharovas buvo Jelenos Boner vyras ir bendražygis.
+- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75778|Augustinas Voldemaras]]: A. Voldemaras buvo kooptuotas į Lietuvos Tarybą vietoj nuo jos atsiskyrusių kairiųjų pažiūrų narių.
+- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75784|Augustinas Voldemaras]]: Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti Augustiną Voldemarą į valdžią.
+- susijęs iš [[objektai/asmenys/Bonifacas VIII.md#claim-t-184047|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]: Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu.
+- susijęs iš [[objektai/asmenys/Bonifacas VIII.md#claim-t-59901|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]: Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu.
+- susijęs iš [[objektai/asmenys/Dominykas Semaško.md#claim-t-63539|Dominykas Semaško]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
+- susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-60271|Egidijus (arkivyskupas, XIV a.)]]: Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.
+- susijęs iš [[objektai/asmenys/Oskaras Milašius.md#claim-t-64020|Oskaras Milašius]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
+- susijęs iš [[objektai/asmenys/Simonas Rozenbaumas.md#claim-t-64059|Simonas Rozenbaumas]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
+- susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64222|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Vernerio iš Orzelno laikais Kryžiuočių ordino statute buvo pabrėžtas pamaldumas ir apriboti pasaulietiniai brolių poreikiai.
+- susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64232|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Didysis magistras Verneris iš Orzelno ėmėsi restauruoti Kryžiuočių ordiną.
+- susijęs iš [[objektai/grupes/Antantė.md#claim-t-19636|Antantė]]: Lietuvos delegacijos reikalavimu sudarytos karinės misijos sustiprino nepriklausomybės viltis ir suteikė Antantei žinių apie padėtį Lietuvoje.
+- susijęs iš [[objektai/grupes/Antantė.md#claim-t-19637|Antantė]]: Antantė pripažino, kad Lietuvos Taryba iškėlė nepriklausomybės klausimą ir išsivadavo iš Vokietijos politikos diktato.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178874|Kryžiuočių ordinas]]: XIV a. pradžioje Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.
+- susijęs iš [[objektai/grupes/Lietuvos žydų taryba (Vaad).md#claim-t-74811|Lietuvos žydų taryba (Vaad)]]: 1920 m. sudaryta Lietuvos žydų taryba (Vaad) turėjo spręsti socialinius ir kultūrinius Lietuvos žydų reikalus.
+- susijęs iš [[objektai/grupes/Tamplierių ordinas.md#claim-t-89286|Tamplierių ordinas]]: 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.
+- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117396|Žydai]]: Žydai parėmė Lietuvos nepriklausomybę, dalyvavo Lietuvos Tarybos veikloje ir kaip savanoriai stojo į nepriklausomybės kovas.
+- susijęs iš [[objektai/ivykiai/Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.).md#claim-t-20390|Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.)]]: 1920 m. sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus.
+- susijęs iš [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.).md#claim-t-62908|Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]: Didžiajam magistrui Verneriui kronikos reikėjo Ordino priekaištams atremti ir vidaus reformai įgyvendinti.
+- susijęs iš [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.).md#claim-t-62909|Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]: 1324 m. Kryžiuočių ordino vidinę kovą laikinai laimėjo reformų šalininkai.
+- susijęs iš [[objektai/ivykiai/Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.).md#claim-t-62934|Tamplierių ordino persekiojimas ir likvidavimas Prancūzijoje (1307—1314 m.)]]: 1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas.
+- susijęs iš [[objektai/ivykiai/Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis).md#claim-t-20591|Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis)]]: 1918 m. gruodį Jokūbas Vygodskis tapo ministru be portfelio žydų reikalams, o S. Rozenbaumas – užsienio reikalų viceministru.
+- susijęs iš [[objektai/paprociai/Klaipėdos krašto autonominis režimas.md#claim-t-67120|Klaipėdos krašto autonominis režimas (kraštas)]]: Klaipėdos kraštas turėjo autonominę valdžią, o Lietuvos Respublikos vyriausybei ten atstovavo prezidento skiriamas gubernatorius.
+- susijęs iš [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis.md#claim-t-175142|Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]: Didysis magistras Verneris papildė Ordino statutą prierašais apie pamaldumą, maldas, brolių poreikių ribojimą ir bendruomenės drausmę.
+- susijęs iš [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis.md#claim-t-175143|Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]: Vernerio prierašai turėjo būti skaitomi visuose Ordino namuose keturis kartus per metus.
+- susijęs iš [[objektai/paprociai/Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime.md#claim-t-77944|Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime]]: 1920 m. Lietuvos žydų kahalų atstovų konferencijoje sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus.
+- susijęs iš Klaipėdos konvencija: 1924 m. Paryžiuje pasirašyta Klaipėdos konvencija oficialiai pavertė Klaipėdos kraštą Lietuvos Respublikos autonomine dalimi.
+- susijęs iš Lietuvos Konstitucija (1928 m.): 1928 m. Lietuvos konstitucijoje Lietuvos sostine buvo įrašytas Vilnius.
+- susijęs iš Vilnius: 1928 m. Lietuvos konstitucijoje Lietuvos sostine buvo įrašytas Vilnius.
+- susijęs iš Šveicarija: Neutralioje Šveicarijoje susidaręs negausus lietuvių būrys šelpė lietuvius belaisvius Vokietijoje ir skleidė žinias apie lietuvių teises.
 - susijęs iš [[objektai/zodynas/Kahalai.md#claim-t-21993|Kahalai]]: 1920 m. nacionalinėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų konferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo spręsti visus socialinius ir kultūrinius žydų reikalus.
 - susijęs iš [[objektai/zodynas/autonomija autonominis statusas.md#claim-t-70093|autonomija autonominis statusas]]: Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms tautinėms mažumoms.
 - susijęs iš [[objektai/zodynas/kahalai sėslumo riba.md#claim-t-22176|kahalai sėslumo riba]]: 1920 m. nacionalinėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų konferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo spręsti visus socialinius ir kultūrinius žydų reikalus.
 - susijęs iš [[objektai/zodynas/kultūrinė autonomija.md#claim-t-169916|kultūrinė autonomija]]: Paryžiaus taikos konferencijoje lietuviai žydams prižadėjo plačiausią kultūrinę autonomiją.
-- susijęs iš [[objektai/zodynas/neutralizacija.md#claim-t-70250|neutralizacija]]: Svarstant Nemuno neutralizaciją, Lietuvos vyriausybė Paryžiaus Ambasadorių Konferencijai pabrėžė Lietuvos teises ir interesus.
 - susijęs iš [[objektai/zodynas/neutralizacija.md#claim-t-70251|neutralizacija]]: Nemuno neutralizacijos klausimas kilo ryšium su Lietuvos pripažinimu de jure.
-- susijęs iš [[objektai/zodynas/reskriptas.md#claim-t-58923|reskriptas]]: Popiežiaus Bonifaco Prancūzijos karaliui siųstas priklausomybės reskriptas buvo perskaitytas ir sudegintas Paryžiaus karaliaus rūmuose.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -302,7 +403,27 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f8896178e05be2b8d2b23b42b343cedbcc8d5b44bd29a2c932903c3888b68b7e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antantė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Antantė: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "Antantė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-013
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=467f523404d64e7b7078b27ae483d80404b68e33b2773f8728e3e7e870c84102; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jeruzalė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jeruzalė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "Jeruzalė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-011
 
 - c-003
@@ -318,6 +439,16 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 346564-347126; hash=4762b1f3f85b0cb9ec44d2d363b2ba39310b585261f63b35d51be2e4c141d4e7; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-004
@@ -367,6 +498,16 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 699032-699219; hash=9072e85e58bf7b6b233955f01af37a391a501db361144058558991a3900dc443; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstantinopolis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Konstantinopolis: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "Konstantinopolis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
 
 - c-007
@@ -379,6 +520,16 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a48392c0f1d3b6410772d015496da94ce355e46ceed12a0bffa2dbe1772e3750; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Voldemaras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: A. Voldemaras: mention_match, person, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "A. Voldemaras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-010
 
 - c-008
@@ -396,6 +547,16 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f8896178e05be2b8d2b23b42b343cedbcc8d5b44bd29a2c932903c3888b68b7e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-009
@@ -417,6 +578,16 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 330938-331053; hash=e5b9379b0391066cb0ea0c147b25ea196110a69537b77f3e40da4eab4f1fb742; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Voldemaras: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: A. Voldemaras: mention_match, person, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "A. Voldemaras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-010
@@ -452,6 +623,16 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=aa1f93eb1901b501102a248998babdef3bff2eed649ef337b1054d7f08d63324; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-012
@@ -495,6 +676,16 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=824fecfe9e9461e10b863b72a70455cca7f74f4fdaa5c762a78991c2d2564d31; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-012
 
 - c-014
@@ -512,7 +703,28 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9c349383807d03dd314aebb7c5d0fbda125e02da11fcd12fea447353551b09d7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-015
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 719699-720392; hash=1f940e71314193d42328caaa8de2bc1f27dc6dd11b4e0f545d807cfd1e05e3a4; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Augustinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paryžius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Augustinas: mention_match, person, gap=89
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paryžius" parinktas kaip owner_note_path. Targetas "Augustinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
+- [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]] buvo_palaidotas Paryžius
 - [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]] mire Paryžius

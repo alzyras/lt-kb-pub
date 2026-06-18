@@ -35,12 +35,22 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Vilnelė; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 563473-563985; hash=876cb3136dbe1df233bc244502e5c450426292d9aaf6279d8e94dc92bd6fb15d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bauskė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Druja: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bauskė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druja" parinktas kaip owner_note_path. Targetas "Bauskė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-83319"></a>
 - t-002
   global_id: t-83319
   teiginys: '1538 m. Žygimanto Augusto laiške minima Drujos upė Paplaujoje, iš kurios vanduo vamzdžiais buvo nuvestas į miestą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Vilnelė; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Vilnelė; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1538 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -62,14 +72,24 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_place: Bauskė; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ff5e3253de3dedc62f80060a132251f4df1f2c3c290980703c4737df268a2984; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vamzdžiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Druja: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vamzdžiai: mention_match, thing, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druja" parinktas kaip owner_note_path. Targetas "Vamzdžiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Eustachijus (raštininkas).md#claim-t-87662|Eustachijus (raštininkas)]]: Raštininkas Eustachijus pasirašė 1538 m. rugsėjo 1 d. Žygimanto Augusto laišką dėl Drujos vandens tiekimo į Vilnių.
 - susijęs iš [[objektai/asmenys/Kiščina (Vitebsko vaivadienė).md#claim-t-87756|Kiščina (Vitebsko vaivadienė)]]: Kiščina, Vitebsko vaivadienė, buvo įspėta nestabdyti į Vilnių vamzdžiais vedamo vandens iš Drujos upės.
+- susijęs iš 1538 m. Žygimanto Augusto laiškas Kiščinai dėl Drujos vandens: 1538 m. rugsėjo 1 d. Žygimantas Augustas laišku įspėjo Kiščiną nestabdyti vandens, vamzdžiais vedamo į miestą iš Drujos upės Paplaujoje.
+- susijęs iš Žygimanto Senojo privilegijos dėl Drujos vandens (1534 ir 1535 m.): Miesto archyve buvo Žygimanto Senojo privilegijos dėl Drujos vandens, datuotos 1534 m. liepos 4 d. ir 1535 m. liepos 17 d.
 - susijęs iš [[objektai/grupes/Sapiegų kariuomenė.md#claim-t-78446|Sapiegų kariuomenė]]: M. P. Sapiega, gavęs Višnioveckių saugumo garantijas, pasidavė respublikonams su visa likusia kariuomene.
 - susijęs iš [[objektai/grupes/Sapiegų kariuomenė.md#claim-t-78448|Sapiegų kariuomenė]]: Sapiegų kariuomenės dalies gynyba sutrukdė respublikonams persekioti besitraukiančius Sapiegų giminės senjorus.
 - susijęs iš [[objektai/ivykiai/Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika.md#claim-t-185748|Livonijos paėmimas į Žygimanto Augusto globą ir 1559 m. rugpjūčio 31 d. priesaika]]: Ordino magistras Ketleris ir Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą.
-- susijęs iš 1538 m. Žygimanto Augusto laiškas Kiščinai dėl Drujos vandens: 1538 m. rugsėjo 1 d. Žygimantas Augustas laišku įspėjo Kiščiną nestabdyti vandens, vamzdžiais vedamo į miestą iš Drujos upės Paplaujoje.
 - susijęs iš Livonijos ir Lietuvos sąjungos bei globos sutartis: Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Lietuvos didžiojo kunigaikščio Žygimanto Augusto globą.
-- susijęs iš Žygimanto Senojo privilegijos dėl Drujos vandens (1534 ir 1535 m.): Miesto archyve buvo Žygimanto Senojo privilegijos dėl Drujos vandens, datuotos 1534 m. liepos 4 d. ir 1535 m. liepos 17 d.
 - susijęs iš Bauskė: Livonijos riterių ordinas sąjungos sąlygomis turėjo atiduoti Lietuvai Bauskės pilį su apylinkėmis.
 - susijęs iš Bauskė: Etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą apie kelionę į Drują ir Bychovo tvirtovę, traukėsi į Bauskę ir Mintaują.
 - susijęs iš Bychovo tvirtovė: Sapiegų etmonas, iždininkas ir maršalas paskleidė gandą, kad vyksta į Drują bei Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą.
@@ -121,6 +141,16 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 563473-563985; hash=876cb3136dbe1df233bc244502e5c450426292d9aaf6279d8e94dc92bd6fb15d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bauskė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Druja: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bauskė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druja" parinktas kaip owner_note_path. Targetas "Bauskė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-002
@@ -147,3 +177,13 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
   pagrindžia:
     - t-003
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ff5e3253de3dedc62f80060a132251f4df1f2c3c290980703c4737df268a2984; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vamzdžiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Druja: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vamzdžiai: mention_match, thing, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druja" parinktas kaip owner_note_path. Targetas "Vamzdžiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -33,10 +33,20 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   global_id: t-60141
   teiginys: 'Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Akonas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Akonas; mentioned_place: Bremenas; mentioned_place: Jeruzalė; mentioned_place: Liubekas; mentioned_place: Vokietija'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]] mirė Akonas'
+  susije_objektai: 'burial_place: Akonas; location: Akonas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Akonas; mentioned_place: Jeruzalė; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Bremenas; mentioned_place: Liubekas; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]] buvo palaidotas Akonas; [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]] mirė Akonas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fcae6d30cd86366537983fadcc9edc9d449d1997bb0e144f73bfbcaa18456bc2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_palaidotas -> Akonas: 1.00
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_burial_local_place
+  ryšio_subjekto_parinkimas: Henrikas Valpotas: owner_note_path, person, gap=123
+  ryšio_targeto_parinkimas: Akonas: nearest_after_predicate, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_burial_local_place". Subjektas "Henrikas Valpotas" parinktas kaip owner_note_path. Targetas "Akonas" parinktas kaip nearest_after_predicate aplink predikatą "palaidotas". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60142"></a>
 - t-002
@@ -49,10 +59,20 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija asmenį, veiksmą ir citatoje nurodytą vietą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 121566-123109; hash=1da5fece9d631a194ed4090e163d58cadf7a9313b1073b9f6a3a566c62af13ad; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Akonas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas Valpotas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Akonas: mention_match, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas Valpotas" parinktas kaip owner_note_path. Targetas "Akonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Pasakojimas apie Teutonų ordino pradžią: „Pasakojime apie Vokiečių ordino pradžią“ pirmasis Ordino magistras Henrikas Valpotas vadinamas Hermanu.
-- susijęs iš Akonas: Henrikas Valpotas mirė lapkričio pradžioje ir buvo palaidotas Akone.
 - susijęs iš Akonas: Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus pastatydino bažnyčią, ligoninę ir kitus namus.
 - susijęs iš Akonas: Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus nupirko sklypą bažnyčiai ir ligoninei.
+- susijęs iš Akonas: Henrikas Valpotas mirė lapkričio pradžioje ir buvo palaidotas Akone.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -106,7 +126,28 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 121566-123109; hash=1da5fece9d631a194ed4090e163d58cadf7a9313b1073b9f6a3a566c62af13ad; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Akonas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas Valpotas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Akonas: mention_match, place, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas Valpotas" parinktas kaip owner_note_path. Targetas "Akonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fcae6d30cd86366537983fadcc9edc9d449d1997bb0e144f73bfbcaa18456bc2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_palaidotas -> Akonas: 1.00
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_burial_local_place
+  ryšio_subjekto_parinkimas: Henrikas Valpotas: owner_note_path, person, gap=123
+  ryšio_targeto_parinkimas: Akonas: nearest_after_predicate, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_burial_local_place". Subjektas "Henrikas Valpotas" parinktas kaip owner_note_path. Targetas "Akonas" parinktas kaip nearest_after_predicate aplink predikatą "palaidotas". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
+- Henrikas Valpotas buvo_palaidotas [[objektai/vietos/Akonas]]
 - Henrikas Valpotas mire [[objektai/vietos/Akonas]]

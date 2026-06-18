@@ -22,21 +22,31 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Luckas; mentioned_place: Skitija'
+  susije_objektai: 'mentioned_place: Skitija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Luckas'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-184656|Aleksandras]]: Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 764386-765006; hash=81862ad9c779d4dc57b1d3494f4a9325c1df748ef0379fff0d447f5f12a1a0f0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skitija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valachija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Skitija: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valachija" parinktas kaip owner_note_path. Targetas "Skitija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Jonas Tarnovskis.md#claim-t-184742|Jonas Tarnovskis]]: Jonui Tarnovskiui sutelkus daugiau jėgų, Valachijos kunigaikštis Petras prie Chotino paprašė taikos.
+- susijęs iš [[objektai/ivykiai/Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.).md#claim-t-185693|Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)]]: 1485 m. Bajazitas pradėjo karą prieš Valachijos valdovą Steponą ir užėmė kelis Dakijos miestus.
+- susijęs iš [[objektai/ivykiai/Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.).md#claim-t-185694|Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)]]: Karalius paskelbė Steponą ir Valachiją savo globotiniais ir nusiuntė jiems tris tūkstančius rinktinių karių.
+- susijęs iš [[objektai/ivykiai/Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos.md#claim-t-185580|Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos]]: Kameneco gynėjų Podolės ir Valachijos kariai susipyko, todėl buvo pasiųsti žygūnai tartis dėl pilies perdavimo sąlygų.
+- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-184656|Aleksandras]]: Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184859|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Vladislovo pastangomis lenkai, vengrai, čekai, lietuviai ir valachai sudarė tarpusavio gynybos sutartis prieš karą su turkais.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-184606|J. Dlugošas]]: Pasak Dlugošo, lenkų stovykloje buvo didikų, kurie Lucko apsuptiesiems teikė žinių ir maisto.
 - susijęs iš [[objektai/daiktai/Balti vilnoniai marškiniai.md#claim-t-12278|Balti vilnoniai marškiniai]]: Jogaila krikštijamiems žmonėms duodavo baltų vilnonių rūbų, kad būtų įvykdytas krikšto liturgijos reikalavimas turėti baltą rūbą.
 - susijęs iš [[objektai/daiktai/Balti vilnoniai marškiniai.md#claim-t-186424|Balti vilnoniai marškiniai]]: Balti vilnoniai rūbai prie krikšto buvo dalijami ir kaip liturginis nekaltybės simbolio reikalavimas.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184534|Lenkai]]: Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos kare prieš turkus.
 - susijęs iš [[objektai/grupes/Vengrai.md#claim-t-184586|Vengrai]]: Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos prasidėjus karui prieš turkus.
-- susijęs iš [[objektai/ivykiai/Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.).md#claim-t-185693|Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)]]: 1485 m. Bajazitas pradėjo karą prieš Valachijos valdovą Steponą ir užėmė kelis Dakijos miestus.
-- susijęs iš [[objektai/ivykiai/Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.).md#claim-t-185694|Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)]]: Karalius paskelbė Steponą ir Valachiją savo globotiniais ir nusiuntė jiems tris tūkstančius rinktinių karių.
 - susijęs iš [[objektai/ivykiai/Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas.md#claim-t-185798|Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas]]: Kol karalius buvo išvykęs, Bogdanas smarkiai nuniokojo Rusią, sudegino kelis miestus ir daugybę bažnyčių.
-- susijęs iš [[objektai/ivykiai/Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos.md#claim-t-185580|Kameneco kapituliacija ir Podolės prijungimas prie Lietuvos]]: Kameneco gynėjų Podolės ir Valachijos kariai susipyko, todėl buvo pasiųsti žygūnai tartis dėl pilies perdavimo sąlygų.
 - susijęs iš [[objektai/ivykiai/Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.).md#claim-t-185615|Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.)]]: Karalius Kazimieras Vilniuje priėmė Tverės didįjį kunigaikštį, pabėgusį pas jį po maišto Tverėje.
 - susijęs iš [[objektai/paprociai/Lietuvos krikšto apeigos.md#claim-t-184238|Lietuvos krikšto apeigos]]: Per Lietuvos krikštą Jogaila krikštijamiesiems duodavo baltų vilnonių rūbų, kad būtų įvykdytas liturginis reikalavimas.
 - susijęs iš [[objektai/paprociai/Lietuvos krikšto apeigos.md#claim-t-93038|Lietuvos krikšto apeigos]]: Krikšto apeigos pirmiausia buvo atliktos Vilniuje, o paskui Jogaila važinėdamas krikštijo visas kitas žymesnes Lietuvos vietas.
@@ -73,3 +83,13 @@ atnaujinta: ''
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 764386-765006; hash=81862ad9c779d4dc57b1d3494f4a9325c1df748ef0379fff0d447f5f12a1a0f0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skitija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valachija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Skitija: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valachija" parinktas kaip owner_note_path. Targetas "Skitija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -34,9 +34,19 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   global_id: t-59900
   teiginys: 'Bonifaco VIII ir Prancūzijos karaliaus Pilypo nesantarvė prasidėjo dėl popiežiaus pretenzijų į Prancūzijos reikalų pavaldumą Apaštalų sostui.'
   sudarymo_pagrindimas: 'Citata palaiko nesantarvės priežastį, o pradinis teiginys turi triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/reskriptas|reskriptas]]; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_place: Prancūzija; mentioned_object: [[objektai/zodynas/reskriptas|reskriptas]]'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 719988-720400; hash=c44af7674fb407d977f1259c1e71d1f5cee1880f5daf0360b1b26313f0ba4cb4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> magistras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: magistras: mention_match, thing, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bonifacas VIII (arkivyskupas, XIII–XIV a.)" parinktas kaip owner_note_path. Targetas "magistras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59901"></a>
 - t-002
@@ -46,18 +56,38 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Paryžius'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fac3d87a477ac6ab4843e244748db89cadf04e34bf8ed1dd57eb8a8661546255; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prancūzija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prancūzija: mention_match, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bonifacas VIII (arkivyskupas, XIII–XIV a.)" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59902"></a>
 - t-003
   global_id: t-59902
   teiginys: '1303 m. Bonifacas VIII paskelbė Romos karalių Albrechtą imperatoriumi ir perdavė jam Prancūzijos karalystę, bet Klemensas V tai atšaukė.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, pašalinti bibliografiniai ir fragmentiniai priedai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Flandrai|Flandrai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]; mentioned_place: Prancūzija; mentioned_group: [[objektai/grupes/Flandrai|Flandrai]]'
   temporaliniai_duomenys: 'įvykio data: 1303 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, pašalinti bibliografiniai ir fragmentiniai priedai.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 733186-733970; hash=1a6926aa977aca430ad5969abcd29d50cb0a549681fb2e22847dc5d0f787fb4d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prancūzija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prancūzija: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bonifacas VIII (arkivyskupas, XIII–XIV a.)" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59903"></a>
 - t-004
@@ -69,6 +99,16 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   temporalinis_llm_pakomentavimas: 'Citata palaiko įvykį; pradinis tekstas prasideda šaltinio boilerplate.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cea1bfc521e75963551cc1b8f1b0f232aa897e726f05420830c1ee09ba744c33; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Klemensas V: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Klemensas V: mention_match, person, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bonifacas VIII (arkivyskupas, XIII–XIV a.)" parinktas kaip owner_note_path. Targetas "Klemensas V" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59904"></a>
 - t-005
@@ -81,10 +121,13 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia glaustą faktinį sakinį.'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63416|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1303 m. Bonifacas VIII paskelbė Albrechtą imperatoriumi ir atidavė jam Prancūzijos karalystę.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f5c43af674243791c29f4d26421af1e08974d17b750771a6e03a077bd7280b3a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-60271|Egidijus (arkivyskupas, XIV a.)]]: Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.
-- susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-60049|Liudvikas (Prancūzijos karalius)]]: 1296 m. popiežius Bonifacas VIII kanonizavo Prancūzijos karalių Liudviką.
 - susijęs iš [[objektai/ivykiai/Bonifaco VIII suėmimas Ananyje ir bažnyčios turto išnešiojimas (1303 m. rugsėjo pradžia).md#claim-t-62212|Bonifaco VIII suėmimas Ananyje ir bažnyčios turto išnešiojimas (1303 m. rugsėjo pradžia)]]: 1303 m. rugsėjo pradžioje popiežius Bonifacas VIII buvo įkalintas Ananyje, o bažnyčios turtas išnešiotas.
+- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63416|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1303 m. Bonifacas VIII paskelbė Albrechtą imperatoriumi ir atidavė jam Prancūzijos karalystę.
+- susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-60049|Liudvikas (Prancūzijos karalius)]]: 1296 m. popiežius Bonifacas VIII kanonizavo Prancūzijos karalių Liudviką.
 - susijęs iš [[objektai/ivykiai/Švento Liudviko kanonizavimas (1296 m.).md#claim-t-62544|Švento Liudviko kanonizavimas (1296 m.)]]: 1296 m. popiežius Bonifacas VIII kanonizavo Liudviką, Prancūzijos karalių.
 ## Reikšmingi paminėjimai
 
@@ -117,6 +160,16 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cea1bfc521e75963551cc1b8f1b0f232aa897e726f05420830c1ee09ba744c33; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Klemensas V: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Klemensas V: mention_match, person, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bonifacas VIII (arkivyskupas, XIII–XIV a.)" parinktas kaip owner_note_path. Targetas "Klemensas V" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -132,6 +185,16 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 733186-733970; hash=1a6926aa977aca430ad5969abcd29d50cb0a549681fb2e22847dc5d0f787fb4d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prancūzija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prancūzija: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bonifacas VIII (arkivyskupas, XIII–XIV a.)" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-004
@@ -151,7 +214,20 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f5c43af674243791c29f4d26421af1e08974d17b750771a6e03a077bd7280b3a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fac3d87a477ac6ab4843e244748db89cadf04e34bf8ed1dd57eb8a8661546255; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prancūzija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prancūzija: mention_match, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bonifacas VIII (arkivyskupas, XIII–XIV a.)" parinktas kaip owner_note_path. Targetas "Prancūzija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-005
@@ -172,4 +248,24 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 719988-720400; hash=c44af7674fb407d977f1259c1e71d1f5cee1880f5daf0360b1b26313f0ba4cb4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> magistras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: magistras: mention_match, thing, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bonifacas VIII (arkivyskupas, XIII–XIV a.)" parinktas kaip owner_note_path. Targetas "magistras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 719988-720400; hash=c44af7674fb407d977f1259c1e71d1f5cee1880f5daf0360b1b26313f0ba4cb4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> magistras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bonifacas VIII (arkivyskupas, XIII–XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: magistras: mention_match, thing, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bonifacas VIII (arkivyskupas, XIII–XIV a.)" parinktas kaip owner_note_path. Targetas "magistras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -30,9 +30,19 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
   global_id: t-87775
   teiginys: 'Mauricijaus ir Uršulės mūras kadaise buvo įpareigotas kasmet mokėti 140 auksinų pamaldoms.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir su triukšmu, tačiau citata pagrindžia aiškų faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Juraha|Juraha]]; mentioned_person: [[objektai/asmenys/Uršulė|Uršulė]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Uršulė|Uršulė]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Juraha|Juraha]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 389683-389928; hash=92b92aed98239b55511ac2f5fe4e272c09e8baf8e570320a8d1bffa204bdf633; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Parulis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mauricijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Parulis: mention_match, person, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mauricijus" parinktas kaip owner_note_path. Targetas "Parulis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87776"></a>
 - t-002
@@ -45,14 +55,24 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=270588d63337abc2f4a4dea80cf417f7fca1999dbbb017d2a6a5f8b03693b134; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Uršulė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mauricijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Uršulė: mention_match, person, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mauricijus" parinktas kaip owner_note_path. Targetas "Uršulė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Uršulė.md#claim-t-87930|Uršulė]]: 1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai.
+- susijęs iš [[objektai/zodynas/viderkaftas.md#claim-t-86624|viderkaftas]]: Tėvas Juraha nuo mūrinio namo nuėmė 140 auksinų metinį viderkafto mokestį už Uršulę ir Mauricijų.
 - susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-55108|Vilniaus žydų kahalas]]: Kahalas mokėjo procentus nuo jame investuotų sumų įpareigotų pamaldų reikmėms.
 - susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-81750|Vilniaus žydų kahalas]]: Tėvas Juraha viderkafto mokestį priskyrė kahale investuotoms sumoms, nuo kurių kahalas mokėjo procentus įpareigotoms pamaldoms.
 - susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-66882|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: 1236 m. rugsėjo 22 d. prie Saulės Vykinto vadovaujami būriai sumušė grįžtančius riterius; žuvo Volkevinas ir 48 riteriai.
 - susijęs iš [[objektai/posakiai/kein Soule sie karten wider.md#claim-t-28705|kein Soule sie karten wider]]: Frazė „kein Soule sie karten wider“ nusakė kryžiuočių grįžimą prie Saulės, kur 1236 m. rugsėjo 22 d. juos sumušė Vykinto vadovaujami žemaičiai.
 - susijęs iš Parulio mūras: 1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą iš magistrato ir perdavė jį Akademijos kolegijai.
 - susijęs iš [[objektai/zodynas/kahalas.md#claim-t-86529|kahalas]]: Akademijos rektorius Juraha nuėmė viderkafto mokestį nuo Švarco namu vadinto mūro ir priskyrė jį kahale investuotoms sumoms.
-- susijęs iš [[objektai/zodynas/viderkaftas.md#claim-t-86624|viderkaftas]]: Tėvas Juraha nuo mūrinio namo nuėmė 140 auksinų metinį viderkafto mokestį už Uršulę ir Mauricijų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -94,4 +114,24 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 389683-389928; hash=92b92aed98239b55511ac2f5fe4e272c09e8baf8e570320a8d1bffa204bdf633; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Parulis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mauricijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Parulis: mention_match, person, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mauricijus" parinktas kaip owner_note_path. Targetas "Parulis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=270588d63337abc2f4a4dea80cf417f7fca1999dbbb017d2a6a5f8b03693b134; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Uršulė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mauricijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Uršulė: mention_match, person, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mauricijus" parinktas kaip owner_note_path. Targetas "Uršulė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

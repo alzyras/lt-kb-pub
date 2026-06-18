@@ -28,12 +28,22 @@ Molodečnas yra miestas apie 110 km į rytus nuo Vilniaus ir apie 30 km į rytus
   teiginys: '1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė nežygiavo link Molodečno ir surengė reidą po šiaurės rytų Lietuvą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata leidžia nurodyti datą ir veiksmą, todėl teiginys tampa informatyvesnis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija'
   temporaliniai_duomenys: 'įvykio data: 1433 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia nurodyti datą ir veiksmą, todėl teiginys tampa informatyvesnis.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b7dbd49db39cfefae7c29bb4628522b9b308d48cdb760dcd58ac6466c8a3ac1d; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Krėva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Molodečnas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krėva: mention_match, place, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Molodečnas" parinktas kaip owner_note_path. Targetas "Krėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187265"></a>
 - t-002
@@ -41,9 +51,19 @@ Molodečnas yra miestas apie 110 km į rytus nuo Vilniaus ir apie 30 km į rytus
   teiginys: 'Kurenecas lokalizuojamas į šiaurę nuo Molodečno kaip planuota Livonijos kariuomenės ir Švitrigailos susijungimo vieta.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti išsamesnį faktą apie ryšį su Molodečnu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kurenecas; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Kurenecas; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ba51f4a63d4f3b4946b0fd110cd46073389b071ee6bac06a20343f9168a6e9ea; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Molodečnas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Molodečnas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187266"></a>
 - t-003
@@ -54,8 +74,18 @@ Molodečnas yra miestas apie 110 km į rytus nuo Vilniaus ir apie 30 km į rytus
   susije_objektai: 'mentioned_place: Krėva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186742|Švitrigailos užpuolimas Ašmenoje]]: Redakcinė pastaba nurodo, kad Petras Mantgirdaitis už dalyvavimą 1432 m. rugsėjo 1 d. Švitrigailos užpuolime Ašmenoje nuo 1434 m. gavo krašto vyriausiojo maršalo vietą.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ba51f4a63d4f3b4946b0fd110cd46073389b071ee6bac06a20343f9168a6e9ea; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Molodečnas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Molodečnas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Kurenecas: Kurenecas lokalizuojamas į šiaurę nuo Molodečno.
+- susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186742|Švitrigailos užpuolimas Ašmenoje]]: Redakcinė pastaba nurodo, kad Petras Mantgirdaitis už dalyvavimą 1432 m. rugsėjo 1 d. Švitrigailos užpuolime Ašmenoje nuo 1434 m. gavo krašto vyriausiojo maršalo vietą.
 - susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72703|mokytojų seminarija]]: 1864 m. Molodečne įsteigta mokytojų seminarija negalėjo parengti pakankamai mokytojų Lietuvos ir baltarusių švietimo apygardoms.
 ## Reikšmingi paminėjimai
 
@@ -85,5 +115,35 @@ Molodečnas yra miestas apie 110 km į rytus nuo Vilniaus ir apie 30 km į rytus
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ba51f4a63d4f3b4946b0fd110cd46073389b071ee6bac06a20343f9168a6e9ea; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Molodečnas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Molodečnas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ba51f4a63d4f3b4946b0fd110cd46073389b071ee6bac06a20343f9168a6e9ea; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Molodečnas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Molodečnas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b7dbd49db39cfefae7c29bb4628522b9b308d48cdb760dcd58ac6466c8a3ac1d; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Krėva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Molodečnas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krėva: mention_match, place, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Molodečnas" parinktas kaip owner_note_path. Targetas "Krėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

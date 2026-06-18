@@ -122,7 +122,7 @@ Nenurodyta
 - t-007
   global_id: t-108577
   teiginys: '1861 m. vasario 19 d. manifestu baudžiava Rusijos imperijoje buvo panaikinta, paliekant valstiečiams teisę išsipirkti žemę per 49 metus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   temporaliniai_duomenys: 'įvykio data: 1861 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

@@ -32,6 +32,16 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=200d301890723c22ece90ed6b130176404a142fae1b3854eeef4f4b0853474ac; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: ATAS: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ATAS" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos rūmai (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-40833"></a>
 - t-002
@@ -44,9 +54,19 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti puslapio ir OCR triukšmą bei aiškiau nusakyti citatoje minimą veiksmą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bacf143038878bf212138f029b4b2843fee0971e0839923b0f5d29dcb50bca83; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: ATAS: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ATAS" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos rūmai (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/daiktai/TT pistoletas.md#claim-t-40773|TT pistoletas]]: Sausio įvykių metu TT pistoletu ginkluotas ATAS darbuotojas saugojo Aukščiausiosios Tarybos rūmus.
 - susijęs iš [[objektai/asmenys/Vytautas Landsbergis.md#claim-t-170253|Vytautas Landsbergis]]: 1991 m. sausio 13 d. Vytautas Landsbergis buvo Aukščiausiosios Tarybos pirmininkas ir šalies vadovas.
 - susijęs iš [[objektai/daiktai/AKSU automatinis šautuvas.md#claim-t-40686|AKSU automatinis šautuvas]]: 1991 m. rugpjūčio pučo metu AT gynyboje vienas Mokomojo junginio karys buvo ginkluotas AKSU automatiniu šautuvu.
-- susijęs iš [[objektai/daiktai/TT pistoletas.md#claim-t-40773|TT pistoletas]]: Sausio įvykių metu TT pistoletu ginkluotas ATAS darbuotojas saugojo Aukščiausiosios Tarybos rūmus.
 - susijęs iš Žvėryno tiltas: Žvėryno tiltas buvo užtvertas „Kraz“ sunkvežimiu ir dviem „Kirovec“ traktoriais, o Goštauto gatvė blokuota sunkiąja technika.
 ## Reikšmingi paminėjimai
 
@@ -114,4 +134,24 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bacf143038878bf212138f029b4b2843fee0971e0839923b0f5d29dcb50bca83; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: ATAS: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ATAS" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos rūmai (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=200d301890723c22ece90ed6b130176404a142fae1b3854eeef4f4b0853474ac; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: ATAS: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ATAS" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos rūmai (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

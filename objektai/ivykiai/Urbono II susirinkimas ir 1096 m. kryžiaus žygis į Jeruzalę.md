@@ -46,30 +46,60 @@ Nenurodyta
   global_id: t-89409
   teiginys: 'Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda įvardžiu ir yra per ilgas; citata leidžia įvardyti Petrą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Italija; mentioned_place: Jeruzalė; mentioned_place: Viena; mentioned_place: Šventoji'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Jeruzalė; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Italija; mentioned_place: Viena; mentioned_place: Šventoji'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 724162-725587; hash=ba1bcb94bfcfc36e69f7001a3886a7ce1c5a0a171a521396acd030d424fef9ba; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jeruzalė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jeruzalė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę" parinktas kaip owner_note_path. Targetas "Jeruzalė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89410"></a>
 - t-002
   global_id: t-89410
   teiginys: '1096 m. Petras su kryžininkais ir daugybe vokiečių persikėlė per Helespontą ir užėmė Švento Jurgio ranką, Antiochiją ir Jeruzalę.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata remia glaustą sakinį apie žygio veiksmus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Jeruzalė; mentioned_place: Šventoji'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Jeruzalė; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Šventoji'
   temporaliniai_duomenys: 'įvykio data: 1096 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs; citata remia glaustą sakinį apie žygio veiksmus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7f62a1f9dc99189c70a7af11dd0b6459a76571342cbde4754c2dde02f4b4c9f5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jeruzalė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jeruzalė: mention_match, place, gap=120
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę" parinktas kaip owner_note_path. Targetas "Jeruzalė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89411"></a>
 - t-003
   global_id: t-89411
   teiginys: 'Po Urbono II susirinkimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį.'
   sudarymo_pagrindimas: 'Pradinis teiginys kopijuoja retorinį fragmentą ir nutrūksta; citata remia faktinį perrašymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Jeruzalė; mentioned_place: Šventoji'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Jeruzalė; mentioned_place: Šventoji'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7f62a1f9dc99189c70a7af11dd0b6459a76571342cbde4754c2dde02f4b4c9f5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> maldininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: maldininkai: mention_match, thing, gap=101
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę" parinktas kaip owner_note_path. Targetas "maldininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -98,6 +128,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7f62a1f9dc99189c70a7af11dd0b6459a76571342cbde4754c2dde02f4b4c9f5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jeruzalė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jeruzalė: mention_match, place, gap=120
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę" parinktas kaip owner_note_path. Targetas "Jeruzalė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-002
@@ -126,4 +166,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7f62a1f9dc99189c70a7af11dd0b6459a76571342cbde4754c2dde02f4b4c9f5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> maldininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: maldininkai: mention_match, thing, gap=101
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę" parinktas kaip owner_note_path. Targetas "maldininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 724162-725587; hash=ba1bcb94bfcfc36e69f7001a3886a7ce1c5a0a171a521396acd030d424fef9ba; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jeruzalė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jeruzalė: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę" parinktas kaip owner_note_path. Targetas "Jeruzalė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

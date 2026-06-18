@@ -30,12 +30,22 @@ Tačiau pirmasis visuotinis Rusijos imperijos gyventojų surašymas 1897 m. paro
   global_id: t-67515
   teiginys: '1897 m. pirmasis visuotinis Rusijos imperijos gyventojų surašymas parodė, kad 48 proc. etninių lietuvių mokėjo skaityti, o rusiškai skaitė tik kas penktas iš jų.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai paremtas citatos statistika.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas|Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas|Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Rusija; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1897 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai paremtas citatos statistika.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 221871-222411; hash=940d724ac00fc03a11122893a058ed094167606ec855bcfcd59ded8611ab4215; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pirmasis visuotinis Rusijos imperijos gyventojų surašymas (1897 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=87
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pirmasis visuotinis Rusijos imperijos gyventojų surašymas (1897 m.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -61,4 +71,24 @@ Tačiau pirmasis visuotinis Rusijos imperijos gyventojų surašymas 1897 m. paro
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 221871-222411; hash=940d724ac00fc03a11122893a058ed094167606ec855bcfcd59ded8611ab4215; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pirmasis visuotinis Rusijos imperijos gyventojų surašymas (1897 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=87
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pirmasis visuotinis Rusijos imperijos gyventojų surašymas (1897 m.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 221871-222411; hash=940d724ac00fc03a11122893a058ed094167606ec855bcfcd59ded8611ab4215; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pirmasis visuotinis Rusijos imperijos gyventojų surašymas (1897 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=87
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pirmasis visuotinis Rusijos imperijos gyventojų surašymas (1897 m.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

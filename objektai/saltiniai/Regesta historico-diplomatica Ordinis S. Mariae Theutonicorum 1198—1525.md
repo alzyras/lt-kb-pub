@@ -37,6 +37,9 @@ Dusburgietis teigia, kad regesta historico-diplomatica Ordinis S.
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia leidinio pavadinimą, dalį ir leidimo metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 794817-795068; hash=6c8c0db65e4534921280e2ca072fd70f12bc17c227403cd6bcfada4ab6a595a9; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -53,3 +56,6 @@ Dusburgietis teigia, kad regesta historico-diplomatica Ordinis S.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 794817-795068; hash=6c8c0db65e4534921280e2ca072fd70f12bc17c227403cd6bcfada4ab6a595a9; match=exact
+  sprendimo_priezastis: auto

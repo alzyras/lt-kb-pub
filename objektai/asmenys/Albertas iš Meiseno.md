@@ -25,15 +25,35 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 551977-552319; hash=bdab5d37df9c07183e63e53176e083bd4be5779be8caa47c448554d5623212db; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas iš Meiseno: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Albertas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas iš Meiseno" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89609"></a>
 - t-002
   global_id: t-89609
   teiginys: 'Albertas iš Meiseno, traukdamas su broliais prieš tikėjimo priešus, pasitraukė nuo kitų ir meldėsi dėl Kristaus kūno priėmimo.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi antraštės triukšmo; citata palaiko pilną sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 553324-553734; hash=4296326bcc69bd6362e86c4655bdc081f82cf3979bfdbd32113da8530d0a2927; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Deglas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas iš Meiseno: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Deglas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas iš Meiseno" parinktas kaip owner_note_path. Targetas "Deglas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-89610"></a>
 - t-003
@@ -51,6 +71,16 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Deglas|Deglas]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 554273-555030; hash=3bf687b311f4e2299f939dc2c757de1d79643642a68fdd19085a9276825a75f2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas iš Meiseno: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Albertas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas iš Meiseno" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89612"></a>
 - t-005
@@ -59,24 +89,55 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 552176-552362; hash=0b843ad52cf1ea7dbd287e8101f01087aa4debb7d6efbccfa02eba5d4b1849f3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: vede -> Albertas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
+  ryšio_subjekto_parinkimas: Albertas iš Meiseno: owner_note_path, person, gap=111
+  ryšio_targeto_parinkimas: Albertas: nearest_person_after_predicate, person, gap=111
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Albertas iš Meiseno" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
 
 <a id="claim-t-89613"></a>
 - t-006
   global_id: t-89613
   teiginys: 'Albertas iš Meiseno buvo pilies komtūras, Dusburgiečio apibūdintas kaip Dievui atsidavęs ir pagirtinai gyvenęs vyras.'
   sudarymo_pagrindimas: 'Citata remia vaidmenį ir autoriaus vertinimą, bet pradinė formuluotė yra neenciklopedinė.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
+  susije_objektai: 'spouse: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Albertas iš Meiseno|Albertas iš Meiseno]] vedė [[objektai/asmenys/Albertas|Albertas]]'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ee6b8699873c1b61c83ff5d0a363f1301fc30db9ac66bfd270e9a3069ea79fe1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas iš Meiseno: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Albertas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas iš Meiseno" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89614"></a>
 - t-007
   global_id: t-89614
   teiginys: 'Dusburgiečio pasakojime Albertas iš Meiseno kasdien kalbėjo maldą, kol jį liovėsi kamavusios pagundos.'
   sudarymo_pagrindimas: 'Citata pateikia religinį pasakojimą; reikia aiškios atribucijos ir sutvarkyto asmens vardo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Deglas|Deglas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Deglas|Deglas]]'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=724fbde6725f9885493c2f2fc2e9b38638beeb423a11dc1b182df55c9cc6d8ed; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas iš Meiseno: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Albertas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas iš Meiseno" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89615"></a>
 - t-008
@@ -86,6 +147,16 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 554273-555030; hash=3bf687b311f4e2299f939dc2c757de1d79643642a68fdd19085a9276825a75f2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas iš Meiseno: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Albertas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas iš Meiseno" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184655"></a>
 - t-009
@@ -98,6 +169,16 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 554273-555030; hash=3bf687b311f4e2299f939dc2c757de1d79643642a68fdd19085a9276825a75f2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas iš Meiseno: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Albertas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas iš Meiseno" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -126,6 +207,16 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 552176-552362; hash=0b843ad52cf1ea7dbd287e8101f01087aa4debb7d6efbccfa02eba5d4b1849f3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: vede -> Albertas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
+  ryšio_subjekto_parinkimas: Albertas iš Meiseno: owner_note_path, person, gap=111
+  ryšio_targeto_parinkimas: Albertas: nearest_person_after_predicate, person, gap=111
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse". Subjektas "Albertas iš Meiseno" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip nearest_person_after_predicate aplink predikatą "vede". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
     - t-004
 
 - c-003
@@ -146,8 +237,38 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 554273-555030; hash=3bf687b311f4e2299f939dc2c757de1d79643642a68fdd19085a9276825a75f2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas iš Meiseno: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Albertas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas iš Meiseno" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 553324-553734; hash=4296326bcc69bd6362e86c4655bdc081f82cf3979bfdbd32113da8530d0a2927; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Deglas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas iš Meiseno: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Deglas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas iš Meiseno" parinktas kaip owner_note_path. Targetas "Deglas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 551977-552319; hash=bdab5d37df9c07183e63e53176e083bd4be5779be8caa47c448554d5623212db; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas iš Meiseno: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Albertas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas iš Meiseno" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -185,6 +306,16 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=724fbde6725f9885493c2f2fc2e9b38638beeb423a11dc1b182df55c9cc6d8ed; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas iš Meiseno: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Albertas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas iš Meiseno" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-006
@@ -198,6 +329,16 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 554273-555030; hash=3bf687b311f4e2299f939dc2c757de1d79643642a68fdd19085a9276825a75f2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas iš Meiseno: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Albertas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas iš Meiseno" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-007
@@ -216,4 +357,27 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ee6b8699873c1b61c83ff5d0a363f1301fc30db9ac66bfd270e9a3069ea79fe1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas iš Meiseno: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Albertas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas iš Meiseno" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 554273-555030; hash=3bf687b311f4e2299f939dc2c757de1d79643642a68fdd19085a9276825a75f2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Albertas iš Meiseno: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Albertas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Albertas iš Meiseno" parinktas kaip owner_note_path. Targetas "Albertas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Albertas iš Meiseno vede [[objektai/asmenys/Albertas]]

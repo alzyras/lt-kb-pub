@@ -33,10 +33,21 @@ periodo_grupes:
   global_id: t-87596
   teiginys: 'Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas.'
   sudarymo_pagrindimas: 'Citata palaiko tik giminystės faktą apie Borisą; papildomas kontekstas apie Sofiją jam šalutinis.'
-  susije_objektai: 'territory: Tverė; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Florencija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Tverė'
+  susije_objektai: 'territory: Tverė; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_place: Florencija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Tverė'
   semantiniai_rysiai: '[[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]] buvo valdovas Tverė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 353800-354387; hash=80241a6f40b222991985bb644f0e450da93ac650aa50d0b0aee2903d8303f944; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Tverė: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Borisas (Tverės kunigaikštis): owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Tverė: exact_title_context, place, gap=7
+  ryšio_slopinti_kandidatai: Maskva: candidate; Valakija: candidate; Vokietija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Borisas (Tverės kunigaikštis)" parinktas kaip owner_after_title. Targetas "Tverė" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Maskva.md", "selected": false, "strategy": "candidate", "title": "Maskva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Valakija.md", "selected": false, "strategy": "candidate", "title": "Valakija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Vokietija.md", "selected": false, "strategy": "candidate", "title": "Vokietija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 <a id="claim-t-87597"></a>
 - t-002
@@ -50,16 +61,29 @@ periodo_grupes:
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Boriso dalyvavimą, bet pradinis tekstas yra fragmentiškas ir triukšmingas.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7237c0ed25b833bef2ce5c57e839f92fb56c54ecd1a42614a7a9cc9b9b1325c7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Tverė: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Borisas (Tverės kunigaikštis): owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Tverė: exact_title_context, place, gap=7
+  ryšio_slopinti_kandidatai: Florencija: candidate; Lietuva: candidate; Livonija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Borisas (Tverės kunigaikštis)" parinktas kaip owner_after_title. Targetas "Tverė" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Florencija.md", "selected": false, "strategy": "candidate", "title": "Florencija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Livonija.md", "selected": false, "strategy": "candidate", "title": "Livonija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
+- susijęs iš Tverė: Švitrigailos žmona Sofija buvo Tverės kunigaikščio Boriso duktė ir vėliau pateko Žygimanto valdžion.
+- susijęs iš [[objektai/asmenys/Sofija (Švitrigailos žmona).md#claim-t-87855|Sofija (Švitrigailos žmona)]]: Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią.
 - susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-184371|Borisas Karijotaitis]]: Podolėje įsikūrę Borisas ir Konstantinas Karijotaičiai turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
 - susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-179639|Karijotas]]: Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo.
-- susijęs iš [[objektai/asmenys/Konstantinas (Karijotaitis).md#claim-t-29032|Konstantinas (Karijotaitis)]]: Konstantinas Karijotaitis palaikė Lietuvos ir Lenkijos sąjungą, nes jam rūpėjo apsaugoti Podolę nuo totorių.
 - susijęs iš [[objektai/asmenys/Sofija (Švitrigailos žmona).md#claim-t-87855|Sofija (Švitrigailos žmona)]]: Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią.
-- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186630|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis pasakoja, kad Smolensko prastieji žmonės po Velykų sumanė išvaryti Andrių Sakavičių ir sulaužyti priesaiką.
 - susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186631|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis teigia, kad Smolensko sukilimo metu Andriaus šalininkai susirėmė su prastaisiais žmonėmis prie šv. Boriso ir Glebo cerkvės.
-- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186632|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraščio pasakojime po Velykų Smolensko prastieji žmonės sumanė išvaryti Andrių, apsiginklavo ietimis, dalgiais ir kirviais bei ėmė skambinti varpu.
-- susijęs iš [[objektai/ivykiai/Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to).md#claim-t-185548|Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)]]: Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos.
 - susijęs iš Tverė: Popiežius Eugenijus IV 1434 m. laiške užtarė Sofiją, Tverės kunigaikščio Boriso dukterį, patekusią Žygimanto galion.
 - susijęs iš Tverė: Švitrigailos žmona Sofija buvo Tverės kunigaikščio Boriso duktė ir vėliau pateko Žygimanto valdžion.
+- susijęs iš [[objektai/asmenys/Konstantinas (Karijotaitis).md#claim-t-29032|Konstantinas (Karijotaitis)]]: Konstantinas Karijotaitis palaikė Lietuvos ir Lenkijos sąjungą, nes jam rūpėjo apsaugoti Podolę nuo totorių.
+- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186630|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis pasakoja, kad Smolensko prastieji žmonės po Velykų sumanė išvaryti Andrių Sakavičių ir sulaužyti priesaiką.
+- susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186632|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraščio pasakojime po Velykų Smolensko prastieji žmonės sumanė išvaryti Andrių, apsiginklavo ietimis, dalgiais ir kirviais bei ėmė skambinti varpu.
+- susijęs iš [[objektai/ivykiai/Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to).md#claim-t-185548|Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)]]: Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -122,7 +146,31 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 353800-354387; hash=80241a6f40b222991985bb644f0e450da93ac650aa50d0b0aee2903d8303f944; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Tverė: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Borisas (Tverės kunigaikštis): owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Tverė: exact_title_context, place, gap=7
+  ryšio_slopinti_kandidatai: Maskva: candidate; Valakija: candidate; Vokietija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Borisas (Tverės kunigaikštis)" parinktas kaip owner_after_title. Targetas "Tverė" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Maskva.md", "selected": false, "strategy": "candidate", "title": "Maskva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Valakija.md", "selected": false, "strategy": "candidate", "title": "Valakija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Vokietija.md", "selected": false, "strategy": "candidate", "title": "Vokietija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7237c0ed25b833bef2ce5c57e839f92fb56c54ecd1a42614a7a9cc9b9b1325c7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Tverė: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Borisas (Tverės kunigaikštis): owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Tverė: exact_title_context, place, gap=7
+  ryšio_slopinti_kandidatai: Florencija: candidate; Lietuva: candidate; Livonija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Borisas (Tverės kunigaikštis)" parinktas kaip owner_after_title. Targetas "Tverė" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Florencija.md", "selected": false, "strategy": "candidate", "title": "Florencija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Livonija.md", "selected": false, "strategy": "candidate", "title": "Livonija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 ## Ryšiai
 - Borisas (Tverės kunigaikštis) buvo_valdovas [[objektai/vietos/Tverė]]
+- [[objektai/asmenys/Švitrigaila]] vede Borisas (Tverės kunigaikštis)
+- [[objektai/asmenys/Sofija (Švitrigailos žmona)]] buvo_dukte Borisas (Tverės kunigaikštis)

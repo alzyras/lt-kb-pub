@@ -27,7 +27,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
 - t-001
   global_id: t-46002
   teiginys: 'Antano Tyzenhauzo veikla atnešė didelių permainų į Lietuvos ūkį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]'
   pagrindžia:
     - c-003
 
@@ -46,7 +46,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   global_id: t-46004
   teiginys: 'Su politinėmis permainomis ir pirmaisiais Apšvietos žingsniais sutapo Antano Tyzenhauzo veiklos, atnešusios didelių permainų į Lietuvos ūkį, pradžia.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Antano Tyzenhauzo veiklos pradžią ir poveikį.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Gardinas'
   pagrindžia:
     - c-005
 
@@ -54,7 +54,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
 - t-004
   global_id: t-46005
   teiginys: 'Antano Tyzenhauzo reformos datuojamos 1767 m. ir siejamos su Apšvietos epochos pradžia.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Antano Tyzenhauzo reformos|Antano Tyzenhauzo reformos]]; mentioned_event: [[objektai/ivykiai/Jėzuitų ordino panaikinimas|Jėzuitų ordino panaikinimas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Baroko epocha|Baroko epocha]]; mentioned_person: [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)|Bžostovskis (Vilniaus vyskupas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Paulava'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Antano Tyzenhauzo reformos|Antano Tyzenhauzo reformos]]; mentioned_object: [[objektai/zodynas/Baroko epocha|Baroko epocha]]; mentioned_event: [[objektai/ivykiai/Jėzuitų ordino panaikinimas|Jėzuitų ordino panaikinimas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)|Bžostovskis (Vilniaus vyskupas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Paulava'
   temporaliniai_duomenys: 'įvykio data: 1767 m.; įvykio data: 1769 m.; įvykio data: 1773 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -73,7 +73,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
 - t-006
   global_id: t-46007
   teiginys: 'Antano Tyzenhauzo 1767 m. reformos kartais laikomos vienu iš Apšvietos epochos pradžios įvykių.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Antano Tyzenhauzo reformos|Antano Tyzenhauzo reformos]]; mentioned_event: [[objektai/ivykiai/Jėzuitų ordino panaikinimas|Jėzuitų ordino panaikinimas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Baroko epocha|Baroko epocha]]; mentioned_person: [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)|Bžostovskis (Vilniaus vyskupas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Paulava'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Antano Tyzenhauzo reformos|Antano Tyzenhauzo reformos]]; mentioned_object: [[objektai/zodynas/Baroko epocha|Baroko epocha]]; mentioned_event: [[objektai/ivykiai/Jėzuitų ordino panaikinimas|Jėzuitų ordino panaikinimas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)|Bžostovskis (Vilniaus vyskupas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Paulava'
   temporaliniai_duomenys: 'įvykio data: 1767 m.; įvykio data: 1769 m.; įvykio data: 1773 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -84,7 +84,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   global_id: t-46008
   teiginys: 'Antano Tyzenhauzo reformos buvo vienas svarbiausių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Antano Tyzenhauzo reformos|Antano Tyzenhauzo reformos]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Antano Tyzenhauzo reformos|Antano Tyzenhauzo reformos]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Gardinas'
   temporaliniai_duomenys: 'įvykio data: 1800 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai paremtas citata.'
@@ -96,7 +96,7 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   global_id: t-46009
   teiginys: 'Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulavos respublika (1769 m.), jėzuitų ordino panaikinimas ir Edukacinės komisijos sukūrimas (1773 m.) – šie įvykiai kartais laikomi Apšvietos epochos pradžia.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, informatyvus ir paremtas citata.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Antano Tyzenhauzo reformos|Antano Tyzenhauzo reformos]]; mentioned_event: [[objektai/ivykiai/Jėzuitų ordino panaikinimas|Jėzuitų ordino panaikinimas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Baroko epocha|Baroko epocha]]; mentioned_person: [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)|Bžostovskis (Vilniaus vyskupas)]]; mentioned_person: [[objektai/asmenys/Povilas Ksaveras Bžostovskis|Povilas Ksaveras Bžostovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Paulava'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Antano Tyzenhauzo reformos|Antano Tyzenhauzo reformos]]; mentioned_event: [[objektai/ivykiai/Jėzuitų ordino panaikinimas|Jėzuitų ordino panaikinimas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Baroko epocha|Baroko epocha]]; mentioned_person: [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)|Bžostovskis (Vilniaus vyskupas)]]; mentioned_person: [[objektai/asmenys/Povilas Ksaveras Bžostovskis|Povilas Ksaveras Bžostovskis]]; mentioned_place: Paulava; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas'
   temporaliniai_duomenys: 'įvykio data: 1767 m.; įvykio data: 1769 m.; įvykio data: 1773 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, informatyvus ir paremtas citata.'
@@ -129,12 +129,12 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
-- susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23214|Povilas Ksaveras Bžostovskis]]: Povilas Ksaveras Bžostovskis 1769 m. įkūrė Paulavos respubliką.
-- susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23216|Povilas Ksaveras Bžostovskis]]: Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma vienu Apšvietos epochos pradžios ženklų.
-- susijęs iš [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai.md#claim-t-77924|Gardino ekonomijos manufaktūrų gaminiai]]: Antanas Tyzenhauzas Gardino ekonomijoje įsteigė tekstilės, popieriaus, galanterijos, ginklų ir vežimų manufaktūras.
 - susijęs iš [[objektai/ivykiai/Antano Tyzenhauzo reformos.md#claim-t-183217|Antano Tyzenhauzo reformos]]: Antanas Tyzenhauzas karališkosiose ekonomijose steigė palivarkus, reikalavo lažo, rūšiavo žemę, melioravo laukus ir tiesė kelius.
 - susijęs iš [[objektai/ivykiai/Antano Tyzenhauzo reformos.md#claim-t-66449|Antano Tyzenhauzo reformos]]: Antanas Tyzenhauzas karališkosiose ekonomijose steigė palivarkus, reikalavo lažo, rūšiavo žemę, melioravo laukus ir tiesė kelius.
 - susijęs iš [[objektai/ivykiai/Antano Tyzenhauzo reformos.md#claim-t-66450|Antano Tyzenhauzo reformos]]: Antano Tyzenhauzo reformos 1767 m. kartais laikomos vienu Apšvietos epochos pradžios ženklų.
+- susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23214|Povilas Ksaveras Bžostovskis]]: Povilas Ksaveras Bžostovskis 1769 m. įkūrė Paulavos respubliką.
+- susijęs iš [[objektai/asmenys/Povilas Ksaveras Bžostovskis.md#claim-t-23216|Povilas Ksaveras Bžostovskis]]: Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma vienu Apšvietos epochos pradžios ženklų.
+- susijęs iš [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai.md#claim-t-77924|Gardino ekonomijos manufaktūrų gaminiai]]: Antanas Tyzenhauzas Gardino ekonomijoje įsteigė tekstilės, popieriaus, galanterijos, ginklų ir vežimų manufaktūras.
 - susijęs iš [[objektai/ivykiai/Edukacinės komisijos įkūrimas.md#claim-t-66535|Edukacinės komisijos įkūrimas]]: Edukacinės komisijos sukūrimas 1773 m. kartais laikomas vienu iš Apšvietos epochos pradžios įvykių.
 - susijęs iš [[objektai/ivykiai/Jėzuitų ordino panaikinimas.md#claim-t-77884|Jėzuitų ordino panaikinimas]]: Jėzuitų ordino panaikinimas 1773 m. kartais laikomas vienu Apšvietos epochos pradžios įvykių.
 - susijęs iš [[objektai/ivykiai/Paulavos respublikos įkūrimas ir įstatų patvirtinimas.md#claim-t-77885|Paulavos respublikos įkūrimas ir įstatų patvirtinimas]]: Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika minima tarp įvykių, kartais laikomų Apšvietos epochos pradžia.

@@ -24,18 +24,38 @@ tags:
   global_id: t-86438
   teiginys: 'Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės pakėlė miestiečių luomo visuomeninę padėtį virš nelaisvų kaimo žmonių.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie miestiečių luomo padėtį, pašalinus puslapių ir antraščių triukšmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_place: Kaimas; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 340127-340823; hash=40134da17301e25d568170f2c32b5f1ff9070c75b4df1ffb998d5f4e626bb3ed; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: miestiečių luomas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "miestiečių luomas" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86439"></a>
 - t-002
   global_id: t-86439
   teiginys: 'Du paskutiniai Jogailaičiai miestiečių luomą paaukštino iki tikrųjų piliečių, o karalius Steponas jį stipriai palaikė.'
   sudarymo_pagrindimas: 'Citata palaiko tikslesnį ir aiškesnį formuluotės variantą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4439cb09425b9b3e88d23110c2377c799d32b59bbf2fd7487abb728d3ef6b712; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: miestiečių luomas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "miestiečių luomas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-86440"></a>
 - t-003
@@ -45,25 +65,35 @@ tags:
   susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Jeronimas Opachovskis.md#claim-t-87705|Jeronimas Opachovskis]]: Jeronimas Opachovskis, Vilniaus raštininkas, 1569 m. liepos 1 d. kartu su kitais delegatais pasirašė Liublino unijos dekretą.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113976|Steponas Batoras]]: Vilniaus miestiečių luomas Steponą Batorą laikė stipriu globėju, kokiu vėliau netapo nė vienas karalius.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 601462-602182; hash=5b339c0bb586667b3e81f35ab7c6f921263bf3e104d25bfa576d30ec0508d857; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Steponas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: miestiečių luomas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Steponas: mention_match, person, gap=61
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "miestiečių luomas" parinktas kaip owner_note_path. Targetas "Steponas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110662|Jogailaičiai]]: Dviejų paskutiniųjų Jogailaičių paaukštintas miestiečių luomas valdant Steponui turėjo stiprų karaliaus palaikymą.
 - susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110663|Jogailaičiai]]: Dviejų paskutiniųjų Jogailaičių laikais miestiečių luomas buvo paaukštintas iki tikrųjų piliečių.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172830|Vilniaus miestiečių luomas]]: 1569 m. liepos 1 d. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172831|Vilniaus miestiečių luomas]]: Balińskis Liublino seimo ir 1564 m. sprendimus laikė aukščiausia Vilniaus ir Lietuvos miestiečių luomo teisių riba.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172836|Vilniaus miestiečių luomas]]: Vilniaus miestiečių luomas turėjo nustatytą vietą Lietuvos seimuose ir dalyvavo krašto reprezentacijose.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172844|Vilniaus miestiečių luomas]]: Vilniaus miestiečių luomas negalėjo išsiderėti daugiau laisvių, nes stokojo palankaus meto ir politinių sąlygų.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55077|Vilniaus miestiečių luomas]]: Balińskio vertinimu, Lietuvos miestiečių luomas vėlavo kartu su civilizacijos raida ir formavosi tik XIV amžiuje.
+- susijęs iš [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime.md#claim-t-87170|Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]: Vilniaus miestiečių luomas turėjo nustatytą vietą krašto reprezentacijose ir nuo Vytauto laikų dalyvavo Lietuvos seimuose.
+- susijęs iš [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas.md#claim-t-86500|Miestiečių luomas vidurinysis visuomenės luomas]]: Lietuvos miestiečių luomas susikūrė tik XIV amžiuje ir vėlavo panašiai kaip bendra šalies civilizacijos raida.
+- susijęs iš [[objektai/asmenys/Jeronimas Opachovskis.md#claim-t-87705|Jeronimas Opachovskis]]: Jeronimas Opachovskis, Vilniaus raštininkas, 1569 m. liepos 1 d. kartu su kitais delegatais pasirašė Liublino unijos dekretą.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113976|Steponas Batoras]]: Vilniaus miestiečių luomas Steponą Batorą laikė stipriu globėju, kokiu vėliau netapo nė vienas karalius.
+- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172830|Vilniaus miestiečių luomas]]: 1569 m. liepos 1 d. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55089|Vilniaus miestiečių luomas]]: 1569 m. Vilniaus pasiuntiniai Liublino unijos seime pasirašė susivienijimo dekretą kartu su kitais LDK delegatais.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55090|Vilniaus miestiečių luomas]]: 1564 m. Žygimantas Augustas atribojo Vilniaus miestiečius nuo Antrojo Statuto galios ir suteikė daugiau bylinėjimosi laisvės pagal Magdeburgo teisę.
-- susijęs iš [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime.md#claim-t-87170|Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]: Vilniaus miestiečių luomas turėjo nustatytą vietą krašto reprezentacijose ir nuo Vytauto laikų dalyvavo Lietuvos seimuose.
 - susijęs iš Antrasis Lietuvos Statutas: 1564 m. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Antrojo Lietuvos Statuto galios.
 - susijęs iš Pirmasis Lietuvos Statutas: Skelbdamas Pirmąjį Lietuvos Statutą, Žygimantas Senasis Vilniaus miestiečiams taikė Magdeburgo teisės bylinėjimosi laisvės principą.
 - susijęs iš Bełskas: 1564 m. Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą.
 - susijęs iš Vilnius: 1569 m. liepos 1 d. Vilniaus pasiuntiniai Liublino seime kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.
 - susijęs iš Vilnius: Kazimieras, priėmęs volyniečių ištikimybės priesaiką, su Lietuvos kunigaikščiais ir Tarybos ponais išvyko į Vilnių, kurį metraštis vadina Vytauto sostine.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisė.md#claim-t-86595|Magdeburgo teisė]]: 1564 m. Žygimantas Augustas leido Vilniaus miestiečiams laisviau bylinėtis teismuose pagal Magdeburgo teisę.
-- susijęs iš [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas.md#claim-t-86500|Miestiečių luomas vidurinysis visuomenės luomas]]: Lietuvos miestiečių luomas susikūrė tik XIV amžiuje ir vėlavo panašiai kaip bendra šalies civilizacijos raida.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -118,6 +148,16 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4439cb09425b9b3e88d23110c2377c799d32b59bbf2fd7487abb728d3ef6b712; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: miestiečių luomas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "miestiečių luomas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-003
@@ -147,4 +187,24 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 601462-602182; hash=5b339c0bb586667b3e81f35ab7c6f921263bf3e104d25bfa576d30ec0508d857; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Steponas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: miestiečių luomas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Steponas: mention_match, person, gap=61
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "miestiečių luomas" parinktas kaip owner_note_path. Targetas "Steponas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 340127-340823; hash=40134da17301e25d568170f2c32b5f1ff9070c75b4df1ffb998d5f4e626bb3ed; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: miestiečių luomas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "miestiečių luomas" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

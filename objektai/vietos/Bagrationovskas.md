@@ -21,9 +21,19 @@ Dusburgietis teigia, kad bačkininkėliai Bagrationovskas (buv.
   global_id: t-58686
   teiginys: 'Bagrationovskas anksčiau vadintas Prūsų Ylava.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti trumpą faktą apie vietovės ankstesnį pavadinimą.'
-  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Bajerburgas; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Baiga; mentioned_place: Bajerburgas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 840474-840578; hash=12266490c876c6438b030eeaa9b85ad9c6e8d0c3e3071a0a8f3b809c7bf8d76b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bagrationovskas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bagrationovskas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -41,3 +51,13 @@ Dusburgietis teigia, kad bačkininkėliai Bagrationovskas (buv.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 840474-840578; hash=12266490c876c6438b030eeaa9b85ad9c6e8d0c3e3071a0a8f3b809c7bf8d76b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bagrationovskas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bagrationovskas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

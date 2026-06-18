@@ -33,21 +33,42 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   global_id: t-40515
   teiginys: 'Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.'
   sudarymo_pagrindimas: 'Perrašyta į tiesioginį enciklopedinį sakinį be OCR triukšmo.'
-  susije_objektai: 'territory: Čekija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Brasta; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Starodubas; mentioned_place: Vengrija; mentioned_place: Čekija'
+  susije_objektai: 'territory: Čekija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Vengrija; mentioned_place: Brasta; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Starodubas; mentioned_place: Čekija'
   semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo valdovas Čekija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7d4e98b402726dbb596090cdb47e018ba0106c74d75d47df84e228b00bc1e776; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Lenkija: exact_title_context, place, gap=9
+  ryšio_slopinti_kandidatai: Lietuva: candidate; Trakai: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_after_title. Targetas "Lenkija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": 94, "match_index": 104, "path": "objektai/vietos/Trakai.md", "selected": false, "strategy": "candidate", "title": "Trakai", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 <a id="claim-t-40516"></a>
 - t-002
   global_id: t-40516
   teiginys: 'Lenkijos karalius Vladislovas Jogailaitis suteikė Žygimantui Kęstutaičiui prašytą pagalbą prieš žygį į Trakus.'
-  susije_objektai: 'territory: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'territory: Lenkija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Trakai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo valdovas Lenkija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1435 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo valdovas Lenkija“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ba2ac2e0aaa31b32a1adde7d2e7283044f3c8a5c9ded18c8c76303a036cb61d6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusdorfas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rusdorfas: mention_match, person, gap=68
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_note_path. Targetas "Rusdorfas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-40517"></a>
 - t-003
@@ -60,6 +81,17 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   temporalinis_llm_pakomentavimas: 'Sutrumpinta ir pataisyta į aiškų sakinį apie asmenį.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8d47a96c007d2dcd9f5dcb2ab6e6c3ecae7219966814e540fa3ba5d39f956aeb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Čekija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Čekija: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Brasta: candidate; Kazanė: candidate; Maskva: candidate; Starodubas: candidate; Vengrija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_after_title. Targetas "Čekija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Brasta.md", "selected": false, "strategy": "candidate", "title": "Brasta", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Kazanė.md", "selected": false, "strategy": "candidate", "title": "Kazanė", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Maskva.md", "selected": false, "strategy": "candidate", "title": "Maskva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 <a id="claim-t-184857"></a>
 - t-005
@@ -72,6 +104,16 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Vengrija'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 945354-945803; hash=f34504236500bf6bec939a3ab32141f7c113ac8767c37469aacfdcffb0a48cd0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184858"></a>
 - t-006
@@ -84,6 +126,16 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Silezija; mentioned_place: Vengrija'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 947770-948153; hash=980461b5672d808e8c572d272ad2444fa098538ad457aaa45c1e1c592db92475; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184859"></a>
 - t-007
@@ -96,6 +148,16 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_place: Lietuva; mentioned_place: Valachija; mentioned_place: Vengrija; mentioned_place: Viena'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 984190-984631; hash=60f153e800bef90c33bccfda1cb6146810ea257332de871851501e317c77fb31; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184860"></a>
 - t-008
@@ -105,9 +167,19 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia tik siaurą faktą apie Vladislovo raginimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Maskva'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1114390-1114962; hash=d855eba5ce5e03872535e8b206349ea08f002fa24b75d710601e5181d05c926c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vladislovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vladislovas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_note_path. Targetas "Vladislovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184861"></a>
 - t-009
@@ -117,9 +189,20 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta OCR klaida, paliktas citata pagrįstas faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Čekija'
+  susije_objektai: 'family: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo duktė [[objektai/asmenys/Vladislovas|Vladislovas]]'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1128559-1129049; hash=d203d3de5ae1a337bbf220666c9126fc2efaac582857fc8be4dd6fda0b61ae8f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_dukte -> Vladislovas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_family_local_relative
+  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_note_path, person, gap=18
+  ryšio_targeto_parinkimas: Vladislovas: nearest_family_person, person, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_note_path. Targetas "Vladislovas" parinktas kaip nearest_family_person aplink predikatą "buvo_dukte". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
 
 ## Reikšmingi paminėjimai
 
@@ -173,6 +256,16 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ba2ac2e0aaa31b32a1adde7d2e7283044f3c8a5c9ded18c8c76303a036cb61d6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusdorfas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rusdorfas: mention_match, person, gap=68
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_note_path. Targetas "Rusdorfas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -194,6 +287,17 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7d4e98b402726dbb596090cdb47e018ba0106c74d75d47df84e228b00bc1e776; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Lenkija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Lenkija: exact_title_context, place, gap=9
+  ryšio_slopinti_kandidatai: Lietuva: candidate; Trakai: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_after_title. Targetas "Lenkija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": 94, "match_index": 104, "path": "objektai/vietos/Trakai.md", "selected": false, "strategy": "candidate", "title": "Trakai", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
     - t-003
 
 - c-004
@@ -233,6 +337,17 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8d47a96c007d2dcd9f5dcb2ab6e6c3ecae7219966814e540fa3ba5d39f956aeb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Čekija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Čekija: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Brasta: candidate; Kazanė: candidate; Maskva: candidate; Starodubas: candidate; Vengrija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_after_title. Targetas "Čekija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Brasta.md", "selected": false, "strategy": "candidate", "title": "Brasta", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Kazanė.md", "selected": false, "strategy": "candidate", "title": "Kazanė", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Maskva.md", "selected": false, "strategy": "candidate", "title": "Maskva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
     - t-004
 
 - c-005
@@ -261,6 +376,17 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 307100-307415; hash=356f0936a9e1bc83d9d634d80978191b5381feb5068b20c3c8616ad8a1936029; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Čekija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Čekija: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Brasta: candidate; Palanga: candidate; Vengrija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_after_title. Targetas "Čekija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Brasta.md", "selected": false, "strategy": "candidate", "title": "Brasta", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Palanga.md", "selected": false, "strategy": "candidate", "title": "Palanga", "type": "place"}, {"distance_to_predicate": 42, "match_index": 51, "path": "objektai/vietos/Vengrija.md", "selected": false, "strategy": "candidate", "title": "Vengrija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
     - t-005
 
 - c-006
@@ -279,6 +405,16 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 945354-945803; hash=f34504236500bf6bec939a3ab32141f7c113ac8767c37469aacfdcffb0a48cd0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-006
 
 - c-007
@@ -298,6 +434,16 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 947770-948153; hash=980461b5672d808e8c572d272ad2444fa098538ad457aaa45c1e1c592db92475; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-008
@@ -319,6 +465,16 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 984190-984631; hash=60f153e800bef90c33bccfda1cb6146810ea257332de871851501e317c77fb31; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-009
@@ -343,8 +499,29 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1114390-1114962; hash=d855eba5ce5e03872535e8b206349ea08f002fa24b75d710601e5181d05c926c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vladislovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vladislovas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_note_path. Targetas "Vladislovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1128559-1129049; hash=d203d3de5ae1a337bbf220666c9126fc2efaac582857fc8be4dd6fda0b61ae8f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_dukte -> Vladislovas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_family_local_relative
+  ryšio_subjekto_parinkimas: Vladislovas Jogailaitis (Lenkijos karalius, XV a.): owner_note_path, person, gap=18
+  ryšio_targeto_parinkimas: Vladislovas: nearest_family_person, person, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Vladislovas Jogailaitis (Lenkijos karalius, XV a.)" parinktas kaip owner_note_path. Targetas "Vladislovas" parinktas kaip nearest_family_person aplink predikatą "buvo_dukte". Patikimumą lėmė: owner_before_predicate, single_candidate_target, same_sentence_locality, multiple_competing_people.
 
 ## Ryšiai
 - Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo_valdovas [[objektai/vietos/Lenkija]]
 - Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo_valdovas [[objektai/vietos/Čekija]]
+- Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo_dukte [[objektai/asmenys/Vladislovas]]

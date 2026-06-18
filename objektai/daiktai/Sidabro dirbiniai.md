@@ -52,12 +52,12 @@ Nenurodyta
   global_id: t-05235
   teiginys: 'L. Nakaitė rašė apie sidabro naudojimą II-XIII a. Lietuvoje, sidabrą kaip vertės matą, sidabro dirbinius ir auksakalystę iki XIII a.'
   sudarymo_pagrindimas: 'Patikslinta pagal citatą, įtraukiant auksakalystę.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/L. Nakaitė|L. Nakaitė]]; mentioned_author: [[objektai/autoriai/M. Michelbertas|M. Michelbertas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Lietuva; mentioned_place: Rudaičiai; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Michelbertas|M. Michelbertas]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/L. Nakaitė|L. Nakaitė]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Rudaičiai; mentioned_place: Veliuona'
   pagrindžia:
     - c-001
+- susijęs iš [[objektai/autoriai/Vaitkunskienė L.md#claim-t-60806|Vaitkunskienė L]]: Vaitkunskienė L., Sidabras..., p. 10 ir kt.
 - susijęs iš [[objektai/autoriai/E. Danilaitė.md#claim-t-30591|E. Danilaitė]]: E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.
 - susijęs iš [[objektai/autoriai/E. Radzvilovaitė.md#claim-t-30596|E. Radzvilovaitė]]: Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
-- susijęs iš [[objektai/autoriai/Vaitkunskienė L.md#claim-t-60806|Vaitkunskienė L]]: Vaitkunskienė L., Sidabras..., p. 10 ir kt.
 - susijęs iš [[objektai/daiktai/Brūkšniuotoji keramika.md#claim-t-47808|Brūkšniuotoji keramika]]: E. Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje.
 - susijęs iš [[objektai/daiktai/Brūkšniuotoji keramika.md#claim-t-47809|Brūkšniuotoji keramika]]: E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.
 - susijęs iš [[objektai/daiktai/Geležiniai įrankiai.md#claim-t-31107|Geležiniai įrankiai]]: J. Stankus rašė apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII a.

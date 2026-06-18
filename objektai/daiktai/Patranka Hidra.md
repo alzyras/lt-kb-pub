@@ -57,6 +57,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginį reikia sutvarkyti ir užbaigti, citata pagrindžia dekoro aprašymą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 392368-392607; hash=f6e65ee6fbb5f0b8094c14528606a4845e2b32c731a62f7e857307fdb6cceebf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Patrankos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Patranka Hidra: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Patrankos: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Patranka Hidra" parinktas kaip owner_note_path. Targetas "Patrankos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -70,3 +80,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 392368-392607; hash=f6e65ee6fbb5f0b8094c14528606a4845e2b32c731a62f7e857307fdb6cceebf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Patrankos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Patranka Hidra: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Patrankos: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Patranka Hidra" parinktas kaip owner_note_path. Targetas "Patrankos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

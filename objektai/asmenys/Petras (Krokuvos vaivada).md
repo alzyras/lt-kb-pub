@@ -30,12 +30,22 @@ Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšian
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko Petro paskyrimą vadu, bet pradinis teiginys yra smarkiai sugadintas OCR triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Rusia'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_place: Krokuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Rusia'
   temporaliniai_duomenys: 'įvykio data: 1266 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko Petro paskyrimą vadu, bet pradinis teiginys yra smarkiai sugadintas OCR triukšmo.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 200908-202020; hash=1f71190554e68ca7bbcfb92c1dffd8b7499bd27c1c19617937fd5a5eb1acf133; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Petras (Krokuvos vaivada): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras (Krokuvos vaivada)" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -83,3 +93,13 @@ Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšian
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 200908-202020; hash=1f71190554e68ca7bbcfb92c1dffd8b7499bd27c1c19617937fd5a5eb1acf133; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Petras (Krokuvos vaivada): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Petras (Krokuvos vaivada)" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

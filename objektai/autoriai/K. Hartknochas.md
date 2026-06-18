@@ -36,15 +36,35 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai nurodo Hartknocho vaidmenį ir leidimo vietą bei metus.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=28583c8a17bdfe19644075c504fd82c4089586525877a50778a30dfb1ff9a7af; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Torunė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: K. Hartknochas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Torunė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Hartknochas" parinktas kaip owner_note_path. Targetas "Torunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-64674"></a>
 - t-002
   global_id: t-64674
   teiginys: 'K. Hartknochas, pirmasis Dusburgiečio kronikos leidėjas, manė, kad rutėnais vadinti Riugeno salos gyventojai.'
   sudarymo_pagrindimas: 'Citata pagrindžia Hartknocho vaidmenį ir jo aiškinimą dėl rutėnų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Salos; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_place: Salos; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 56231-56323; hash=72ffb1a55b3565b8ba1c42b4f2792ffcafa0fe5495947be9eb10b87f52ea0310; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: K. Hartknochas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Hartknochas" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64675"></a>
 - t-003
@@ -54,10 +74,20 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_author: [[objektai/autoriai/Hartknochas|Hartknochas]]'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-64054|Simonas Grunau]]: XVI a. 3-iajame dešimtmetyje Simonas Grunau Prūsijoje parašė išsamią visos Prūsijos istoriją iki 1529 m.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 487377-487716; hash=fd854c8338ad98435a38f80bf0f1b141fe6be5258894c459ee727c2d52922337; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Salos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: K. Hartknochas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Salos: mention_match, place, gap=92
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Hartknochas" parinktas kaip owner_note_path. Targetas "Salos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-64625|J. Foigtas]]: J. Foigtas XIX a. trečiajame dešimtmetyje ėmėsi moksliškai tirti Dusburgiečio kroniką.
 - susijęs iš Pirmasis Dusburgiečio kronikos leidimas (1679 m.): Pirmąjį Dusburgiečio kronikos leidimą K. Hartknochas parengė Karaliaučiuje 1679 m.
 - susijęs iš Simono Grunau kronika: Simonas Grunau XVI a. 3-iajame dešimtmetyje parašė Prūsijos istoriją, kurioje plačiai rėmėsi Petru iš Dusburgo.
+- susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-64054|Simonas Grunau]]: XVI a. 3-iajame dešimtmetyje Simonas Grunau Prūsijoje parašė išsamią visos Prūsijos istoriją iki 1529 m.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -85,6 +115,16 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 56231-56323; hash=72ffb1a55b3565b8ba1c42b4f2792ffcafa0fe5495947be9eb10b87f52ea0310; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: K. Hartknochas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Hartknochas" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -97,4 +137,24 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=28583c8a17bdfe19644075c504fd82c4089586525877a50778a30dfb1ff9a7af; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Torunė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: K. Hartknochas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Torunė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Hartknochas" parinktas kaip owner_note_path. Targetas "Torunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 487377-487716; hash=fd854c8338ad98435a38f80bf0f1b141fe6be5258894c459ee727c2d52922337; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Salos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: K. Hartknochas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Salos: mention_match, place, gap=92
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "K. Hartknochas" parinktas kaip owner_note_path. Targetas "Salos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

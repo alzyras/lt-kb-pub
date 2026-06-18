@@ -30,9 +30,19 @@ Stanislovas Daugirdas stropiai surinko lietuvių belaisvių vardus iš visos Mas
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Stanislovą Daugirdą ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vargiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Vargiai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1080958-1081527; hash=d9bc0f60092f7171b651cede560cd9a1d2119dd360bc3d63d31f96db61c797a2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Daugirdas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Stanislovas Daugirdas (kunigaikštis, XVI a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Daugirdas: mention_match, person, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanislovas Daugirdas (kunigaikštis, XVI a.)" parinktas kaip owner_note_path. Targetas "Daugirdas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -64,3 +74,13 @@ Stanislovas Daugirdas stropiai surinko lietuvių belaisvių vardus iš visos Mas
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1080958-1081527; hash=d9bc0f60092f7171b651cede560cd9a1d2119dd360bc3d63d31f96db61c797a2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Daugirdas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Stanislovas Daugirdas (kunigaikštis, XVI a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Daugirdas: mention_match, person, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stanislovas Daugirdas (kunigaikštis, XVI a.)" parinktas kaip owner_note_path. Targetas "Daugirdas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

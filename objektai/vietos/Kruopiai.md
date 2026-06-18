@@ -25,6 +25,16 @@ Bolševikams priartėjus prie Kėdainių, savanorių būriai, nesulaukdami iš K
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Lietuvos kariuomenės savanorio rankovės antsiuvas|Lietuvos kariuomenės savanorio rankovės antsiuvas]]; mentioned_place: Kaunas; mentioned_place: Kėdainiai; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=42ca316569f5e85429f67df18169ea4d22a3286b4729c85624826e2ed4fdd7ea; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kruopiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kruopiai" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Bolševikų 2-asis šaulių pulkas.md#claim-t-40869|Bolševikų 2-asis šaulių pulkas]]: Bolševikų 2-asis šaulių pulkas artėjo Kėdainių kryptimi ir turėjo apie 900 ar 1 000 kovotojų.
 ## Reikšmingi paminėjimai
 
@@ -50,3 +60,13 @@ Bolševikams priartėjus prie Kėdainių, savanorių būriai, nesulaukdami iš K
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=42ca316569f5e85429f67df18169ea4d22a3286b4729c85624826e2ed4fdd7ea; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kruopiai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kruopiai" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

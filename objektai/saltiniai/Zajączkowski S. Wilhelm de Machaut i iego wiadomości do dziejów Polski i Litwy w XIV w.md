@@ -32,6 +32,9 @@ Dusburgietis teigia, kad zajączkowski S.
   temporalinis_llm_pakomentavimas: 'Citata patvirtina straipsnio pavadinimą, leidinį ir publikavimo metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1ffaef9d9585c94207708388df17bc6f30a3b8635131fbb16817034e1789cffc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -48,3 +51,6 @@ Dusburgietis teigia, kad zajączkowski S.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1ffaef9d9585c94207708388df17bc6f30a3b8635131fbb16817034e1789cffc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

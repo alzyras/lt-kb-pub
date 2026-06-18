@@ -29,12 +29,30 @@ amziai:
   global_id: t-34186
   teiginys: '1413 m. spalio 2 d. Jogaila sušaukė suvažiavimą Horodlės miestelyje prie Būgo upės.'
   sudarymo_pagrindimas: 'Teiginys yra tikslus, pilnas ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Būgas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Būgas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1413 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, pilnas ir paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 335829-336035; hash=c0b463f6e81990fc9addec6b615b9f8b1c27f72d63469a21feb6190fe12b0ee8; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Būgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Horodlė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Būgas: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Horodlė" parinktas kaip owner_note_path. Targetas "Būgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas.md#claim-t-92925|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]: Horodlės unijoje 47 Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.
+- susijęs iš [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas.md#claim-t-92926|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]: Horodlės unijoje 47 Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems savo herbus.
+- susijęs iš [[objektai/ivykiai/Vėlesni Kriavo pažadų akto susitarimai (1392–1432 m.).md#claim-t-100047|Vėlesni Kriavo pažadų akto susitarimai (1392–1432 m.)]]: 1385 m. Kriavo pažadų aktas davė pradžią vėlesniems Astravo, Vilniaus, Horodlės ir Gardino susitarimams dėl artimesnių santykių.
+- susijęs iš [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme.md#claim-t-71795|Bajorų dalyvavimas svarbiausių aktų sudaryme]]: Visa tai buvo sutarta bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime Horodlėje.
+- susijęs iš Horodlės aktai (1413 m.): 1413 m. Horodlės unija nesuteikė privilegijų stačiatikiams, ypač jų diduomenei.
+- susijęs iš Horodlės aktai: 1755 m. Nesvyžiaus pilies archyvų liustracijoje buvo minimas Horodlėje sudarytas Lietuvos unijos su Lenkijos Karūna aktas.
+- susijęs iš Witold Wielki Książe Litewski: Kochanovskio nuomone, Horodlės unija Vytautas siekė ne lenkinti Lietuvą, o ją civilizuoti per Vakarų Europos kultūrą.
+- susijęs iš Vakarų Bugas: Vakarų Bugas naudojamas kaip Horodlės vietos orientyras.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51025|Jadvyga (Jogailos duktė)]]: Horodlėje karalaitė Jadvyga buvo pripažinta Lenkijos sosto įpėdine, o Vytautas paskirtas jos globėju.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51027|Jadvyga (Jogailos duktė)]]: Horodlės unijos kontekste Jogailos duktė Jadvyga buvo pripažinta Lenkijos karalaite ir jai duota ištikimybės priesaika.
 - susijęs iš [[objektai/asmenys/Mikalojus (Medininkų vyskupas nominatas).md#claim-t-87780|Mikalojus (Medininkų vyskupas nominatas)]]: Mikalojus sutartyje buvo nurodytas kaip Medininkų, arba Žemaitijos, vyskupas nominatas tarp kunigaikščių ir prelatų.
@@ -47,22 +65,14 @@ amziai:
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92961|Herbai]]: Horodlės unijoje 47 pirmaeilinės Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.
 - susijęs iš [[objektai/daiktai/Herbas.md#claim-t-34572|Herbas]]: Horodlės unijos 18 paragrafu 47 lietuvių bajorams buvo suteikti 47 lenkų bajorų herbai.
 - susijęs iš [[objektai/grupes/Piastų dinastija.md#claim-t-34363|Piastų dinastija]]: Horodlės unija nepraplėtė sosto paveldėjimo teisės tiems Jogailos vaikams, kurie būtų kilę ne iš Piastų dinastijos.
-- susijęs iš [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas.md#claim-t-92925|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]: Horodlės unijoje 47 Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus.
-- susijęs iš [[objektai/ivykiai/1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas.md#claim-t-92926|1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)]]: Horodlės unijoje 47 Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems savo herbus.
 - susijęs iš [[objektai/ivykiai/Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.).md#claim-t-185738|Lenkų žygis prie Belzo ir Kęstučio išderėtos paliaubos (1377 m.)]]: Prie Sandomiro sutelkta lenkų kariuomenė buvo padalyta: Sendzivojus iš Šubino pasiųstas pulti Chelmo, o karalius nuvedė pajėgas prie Belzo.
 - susijęs iš [[objektai/ivykiai/Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.).md#claim-t-35878|Sutartis su Fridriku Brandenburgiečiu ir Jadvygos sužieduotuvės (1420–1421 m.)]]: 1421 m. Jogailos dukra Jadvyga buvo sužieduota su devynerių metų Brandenburgo markgrafo sūnumi Fridriku.
-- susijęs iš [[objektai/ivykiai/Vėlesni Kriavo pažadų akto susitarimai (1392–1432 m.).md#claim-t-100047|Vėlesni Kriavo pažadų akto susitarimai (1392–1432 m.)]]: 1385 m. Kriavo pažadų aktas davė pradžią vėlesniems Astravo, Vilniaus, Horodlės ir Gardino susitarimams dėl artimesnių santykių.
 - susijęs iš [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme.md#claim-t-71791|Bajorų dalyvavimas svarbiausių aktų sudaryme]]: Horodlės suvažiavimo nutarimai buvo surašyti valdovų ir abiejų valstybių bajorų dokumentuose.
-- susijęs iš [[objektai/paprociai/Bajorų dalyvavimas svarbiausių aktų sudaryme.md#claim-t-71795|Bajorų dalyvavimas svarbiausių aktų sudaryme]]: Visa tai buvo sutarta bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime Horodlėje.
 - susijęs iš [[objektai/posakiai/Aktai sau, gyvenimas nuėjo sau.md#claim-t-184251|Aktai sau, gyvenimas nuėjo sau]]: Posakiu „Aktai sau, gyvenimas nuėjo sau“ apibūdinta padėtis po Liublino unijos, kai Lietuva pasiliko savarankiška.
 - susijęs iš [[objektai/posakiai/juo didesnis žmogus, juo didesnes ir klaidas gali padaryti.md#claim-t-36005|juo didesnis žmogus, juo didesnes ir klaidas gali padaryti]]: Posakiu „juo didesnis žmogus, juo didesnes ir klaidas gali padaryti“ aiškinta, kad Vytautas savo politikoje nebuvo laisvas nuo klaidų.
-- susijęs iš Horodlės aktai (1413 m.): 1413 m. Horodlės unija nesuteikė privilegijų stačiatikiams, ypač jų diduomenei.
-- susijęs iš Horodlės aktai: 1755 m. Nesvyžiaus pilies archyvų liustracijoje buvo minimas Horodlėje sudarytas Lietuvos unijos su Lenkijos Karūna aktas.
 - susijęs iš Jogailos privilegijos (1387 m.): 1387 m. Jogailos privilegija nesuteikė privilegijų stačiatikiams, nors bajorai katalikai buvo gavę plačių laisvių.
 - susijęs iš Karalystės archyve saugomas dokumentas apie Zigmanto klastingumo įrodymą: Karalystės archyve saugomas dokumentas buvo patvirtintas Vytauto, Vilniaus vyskupo Mikalojaus, Alberto Manvydo ir Jono Nemyros parašais.
-- susijęs iš Witold Wielki Książe Litewski: Kochanovskio nuomone, Horodlės unija Vytautas siekė ne lenkinti Lietuvą, o ją civilizuoti per Vakarų Europos kultūrą.
 - susijęs iš Jedlno: Jedlnos nutarimuose lenkai pasirinko Jogailos įpėdinį be Vytauto ir lietuvių bajorų žinios bei pritarimo.
-- susijęs iš Vakarų Bugas: Vakarų Bugas naudojamas kaip Horodlės vietos orientyras.
 - susijęs iš Vakarų Bugas: Horodlė šaltinio pastaboje lokalizuojama Volynėje, dabartinėje Lenkijoje, prie Vakarų Bugo, į pietus nuo Bresto.
 - susijęs iš Vilnius: Pagal šaltinyje pateiktą sąrašą Vilnius 1387 m. iš Vladislovo Jogailos gavo Magdeburgo teisę.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės vokiečių teisė.md#claim-t-86535|Magdeburgo teisės vokiečių teisė]]: Vilnius 1321 m. turėjo Gedimino Rygos pavyzdžiu suteiktą vokiečių teisę, o 1387 m. iš Jogailos gavo Magdeburgo teisę.
@@ -86,3 +96,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 335829-336035; hash=c0b463f6e81990fc9addec6b615b9f8b1c27f72d63469a21feb6190fe12b0ee8; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Būgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Horodlė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Būgas: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Horodlė" parinktas kaip owner_note_path. Targetas "Būgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

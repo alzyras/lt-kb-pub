@@ -34,21 +34,41 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=86e4a559a63eba2ae9cb156f86dd57cb53ccc5507d7c2a8db9717c8dfdb0c804; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Brūkšniuotoji keramika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: E. Danilaitė: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Brūkšniuotoji keramika: mention_match, thing, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "E. Danilaitė" parinktas kaip owner_note_path. Targetas "Brūkšniuotoji keramika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-30591"></a>
 - t-002
   global_id: t-30591
   teiginys: 'E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Brūkšniuotoji keramika|Brūkšniuotoji keramika]]; mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Brūkšniuotoji keramika|Brūkšniuotoji keramika]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=20576d3cd02359ba2f4d2df4be55e3fac1b9120684c18807da4e8a684e2d2104; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: E. Danilaitė: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "E. Danilaitė" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas.md#claim-t-31259|LTSR Mokslų Akademijos Istorijos Institutas]]: LTSR Mokslų Akademijos Istorijos Institutas kas dvejus metus leido knygas „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“.
+- susijęs iš Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje: „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“ buvo kas dvejus metus leidžiamas LTSR MA Istorijos instituto leidinys.
 - susijęs iš [[objektai/autoriai/E. Radzvilovaitė.md#claim-t-30596|E. Radzvilovaitė]]: Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
 - susijęs iš [[objektai/daiktai/Brūkšniuotoji keramika.md#claim-t-47808|Brūkšniuotoji keramika]]: E. Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje.
 - susijęs iš [[objektai/daiktai/Brūkšniuotoji keramika.md#claim-t-47809|Brūkšniuotoji keramika]]: E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.
 - susijęs iš [[objektai/daiktai/Geležiniai įrankiai.md#claim-t-31107|Geležiniai įrankiai]]: J. Stankus rašė apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII a.
 - susijęs iš [[objektai/daiktai/Skydai.md#claim-t-97104|Skydai]]: E. Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.
-- susijęs iš [[objektai/grupes/LTSR Mokslų Akademijos Istorijos Institutas.md#claim-t-31259|LTSR Mokslų Akademijos Istorijos Institutas]]: LTSR Mokslų Akademijos Istorijos Institutas kas dvejus metus leido knygas „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“.
-- susijęs iš Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje: „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“ buvo kas dvejus metus leidžiamas LTSR MA Istorijos instituto leidinys.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -82,4 +102,24 @@ Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje (AkMD, t. E. Danilaitė
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=20576d3cd02359ba2f4d2df4be55e3fac1b9120684c18807da4e8a684e2d2104; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: E. Danilaitė: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "E. Danilaitė" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=86e4a559a63eba2ae9cb156f86dd57cb53ccc5507d7c2a8db9717c8dfdb0c804; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Brūkšniuotoji keramika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: E. Danilaitė: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Brūkšniuotoji keramika: mention_match, thing, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "E. Danilaitė" parinktas kaip owner_note_path. Targetas "Brūkšniuotoji keramika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

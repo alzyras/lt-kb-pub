@@ -27,12 +27,22 @@ Pirmojo pasaulio lietuvių kongreso prezidiumas.
   global_id: t-01439
   teiginys: '1935 m. rugpjūčio 11–17 d. Kaune vykęs Pirmasis pasaulio lietuvių kongresas nutarė įkurti Pasaulio Lietuvių Sąjungą.'
   sudarymo_pagrindimas: 'Pradinė formuluotė buvo tik antraštė, o citata remia konkretų faktą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Pirmasis pasaulio lietuvių kongresas (1935 m.)|Pirmasis pasaulio lietuvių kongresas (1935 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_event: [[objektai/ivykiai/Pirmasis pasaulio lietuvių kongresas (1935 m.)|Pirmasis pasaulio lietuvių kongresas (1935 m.)]]; mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė buvo tik antraštė, o citata remia konkretų faktą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1331358-1331513; hash=fb35842a2164e624f011628e60e04f6834aabc69fef56c1e3955da93ca5a26d0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pasaulio Lietuvių Sąjunga: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasaulio Lietuvių Sąjunga" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +57,13 @@ Pirmojo pasaulio lietuvių kongreso prezidiumas.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1331358-1331513; hash=fb35842a2164e624f011628e60e04f6834aabc69fef56c1e3955da93ca5a26d0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pasaulio Lietuvių Sąjunga: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pasaulio Lietuvių Sąjunga" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

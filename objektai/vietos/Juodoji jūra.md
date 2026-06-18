@@ -39,7 +39,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   global_id: t-08500
   teiginys: 'Daukanto pasakojime lietuviai buvo atskirti nuo Uksinės, arba Juodosios, jūros ir Dunojaus.'
   sudarymo_pagrindimas: 'Citata nepagrindžia gintaro prekybos, bet remia atskyrimą nuo Juodosios jūros.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Isteris; mentioned_place: Lietuva; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Isteris; mentioned_place: Podolė'
   pagrindžia:
     - c-001
 
@@ -56,7 +56,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - t-003
   global_id: t-08502
   teiginys: 'Juodoji jūra siejama su Lietuvos prekybos ir valstybės ribų plėtra.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/autoriai/J. Andrius.md#claim-t-30657|J. Andrius]]: J. Andrius 1952 m. „Aiduose“ paskelbė darbą „Kng. Radvilos Lietuvos žemėlapis“.

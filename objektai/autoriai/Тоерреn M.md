@@ -33,21 +33,41 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   global_id: t-60665
   teiginys: 'M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas lietuviškas sakinys apie M. Tepeną ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Tepenas|M. Tepenas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Rausvė; mentioned_place: Romuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Tepenas|M. Tepenas]]; mentioned_place: Rausvė; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Romuva'
   temporaliniai_duomenys: 'įvykio data: 1684 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas lietuviškas sakinys apie M. Tepeną ir tiksliai remiasi citata.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 211294-211879; hash=0fef8f55b26fca000c3193b221096e644de19c979ae9a2b76a0c7b59e3f24bb7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> M. Tepenas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Тоерреn M: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: M. Tepenas: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Тоерреn M" parinktas kaip owner_note_path. Targetas "M. Tepenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60666"></a>
 - t-002
   global_id: t-60666
   teiginys: 'M. Toeppenas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir rytinėje pusėje įrengė didelį papilį.'
   sudarymo_pagrindimas: 'Rewrite failed deterministic gates: claim_missing_note_object'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Aistmarios; mentioned_place: Baiga; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_place: Baiga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Aistmarios; mentioned_place: Varmė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 263547-264155; hash=9af0535ab84dfd69206bed245f4349df9b94e6e10aefbd39aabc134f4f29f534; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baiga: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Тоерреn M: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Тоерреn M" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60667"></a>
 - t-003
@@ -57,6 +77,16 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   susije_objektai: 'mentioned_place: Semba'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 402149-402290; hash=b09d008b50a234072af6c1616a824acab373765480fce79cc1600d6616402a42; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Semba: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Тоерреn M: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Тоерреn M" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -89,6 +119,16 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 263547-264155; hash=9af0535ab84dfd69206bed245f4349df9b94e6e10aefbd39aabc134f4f29f534; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baiga: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Тоерреn M: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Тоерреn M" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -106,4 +146,24 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 402149-402290; hash=b09d008b50a234072af6c1616a824acab373765480fce79cc1600d6616402a42; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Semba: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Тоерреn M: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Тоерреn M" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 211294-211879; hash=0fef8f55b26fca000c3193b221096e644de19c979ae9a2b76a0c7b59e3f24bb7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> M. Tepenas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Тоерреn M: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: M. Tepenas: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Тоерреn M" parinktas kaip owner_note_path. Targetas "M. Tepenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

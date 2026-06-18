@@ -34,6 +34,9 @@ Dusburgietis teigia, kad thomas A.
   temporalinis_llm_pakomentavimas: 'Citata pateikia leidinio vietą, metus ir tomą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 799779-799888; hash=0b2c4f4448ffec03ed22eb4251e053c65c5787fcfa3a067d1b966f2227043fc4; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -48,3 +51,6 @@ Dusburgietis teigia, kad thomas A.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 799779-799888; hash=0b2c4f4448ffec03ed22eb4251e053c65c5787fcfa3a067d1b966f2227043fc4; match=exact
+  sprendimo_priezastis: auto

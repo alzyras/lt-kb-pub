@@ -39,6 +39,16 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 184968-185495; hash=df39bdc25ab058bd1c4f8de45bc7add0e174221af4bf532458a350e7654e407f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: luomas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "luomas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-169918"></a>
 - t-002
@@ -47,6 +57,16 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3c228e754dc173cd4b3d061b950b9561a9bfe56bff63105a56b23f12062be3b6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herbai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: luomas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Herbai: mention_match, thing, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "luomas" parinktas kaip owner_note_path. Targetas "Herbai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-169919"></a>
 - t-003
@@ -56,6 +76,16 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 712269-712633; hash=d4d85bca816a8cdc0078fb76f7d5855774167217bc167f96117815c67f4f1553; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: luomas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "luomas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-169920"></a>
 - t-004
@@ -65,13 +95,23 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_object: [[objektai/daiktai/Herbai|Herbai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 184968-185495; hash=df39bdc25ab058bd1c4f8de45bc7add0e174221af4bf532458a350e7654e407f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: luomas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "luomas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-169921"></a>
 - t-005
   global_id: t-169921
   teiginys: 'Batoras teigė muitus įsakęs rinkti ne luomų teisėms varžyti, o dėl Livonijos ir Lietuvos sienų gynybos poreikių.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata leidžia suformuluoti aiškų faktą apie luomų teises ir muitus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Czopowe|Czopowe]]; mentioned_object: [[objektai/zodynas/Szosowe|Szosowe]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Torunė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_object: [[objektai/zodynas/Czopowe|Czopowe]]; mentioned_object: [[objektai/zodynas/Szosowe|Szosowe]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Torunė; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -128,7 +168,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie luomų sprendimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-010
 
@@ -152,7 +192,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata apie lietuvių luomų veiksmus Vilniaus seime.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Piotrkovas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Piotrkovas; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]'
   pagrindžia:
     - c-012
 
@@ -166,9 +206,6 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   sudarymo_pagrindimas: 'Citata remia aiškų sakinį apie pasiuntinių įgaliojimus ir luomus.'
   pagrindžia:
     - c-013
-- susijęs iš [[objektai/asmenys/Jeronimas Opachovskis.md#claim-t-87705|Jeronimas Opachovskis]]: Jeronimas Opachovskis, Vilniaus raštininkas, 1569 m. liepos 1 d. kartu su kitais delegatais pasirašė Liublino unijos dekretą.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113976|Steponas Batoras]]: Vilniaus miestiečių luomas Steponą Batorą laikė stipriu globėju, kokiu vėliau netapo nė vienas karalius.
-- susijęs iš [[objektai/autoriai/Jacobas Schrenckas.md#claim-t-78083|Jacobas Schrenckas]]: Jacobo Schrencko „Armamentarium Heroicum“ 1603 m. Insbruke pateikė Mikalojaus Radvilos Juodojo atvaizdą.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-12290|Herbai]]: Turintieji tą patį herbą buvo laikomi giminėmis, jiems leistos abipusės vedybos, o tai suartino abiejų valstybių aukštąjį luomą.
 - susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169560|Bajorai]]: Lenkijoje ir Lietuvoje bajorų luomas sudarė apie 6,5 proc. krašto gyventojų ir buvo santykinai gausesnis nei kitur Europoje.
 - susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169561|Bajorai]]: Bajorai buvo vienintelis privilegijuotas visuomenės luomas, turėjęs politines teises ir siuntęs atstovus į Seimą.
@@ -178,19 +215,30 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
 - susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110662|Jogailaičiai]]: Dviejų paskutiniųjų Jogailaičių paaukštintas miestiečių luomas valdant Steponui turėjo stiprų karaliaus palaikymą.
 - susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110663|Jogailaičiai]]: Dviejų paskutiniųjų Jogailaičių laikais miestiečių luomas buvo paaukštintas iki tikrųjų piliečių.
 - susijęs iš [[objektai/grupes/Miestelėnų luomas.md#claim-t-184222|Miestelėnų luomas]]: Vytautas sudarė miestelėnų luomą, gyvenusį iš visuomenės produktų apyvartos ir stiprinusį prekybos bei ekonominio gyvenimo galimybes.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172830|Vilniaus miestiečių luomas]]: 1569 m. liepos 1 d. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172831|Vilniaus miestiečių luomas]]: Balińskis Liublino seimo ir 1564 m. sprendimus laikė aukščiausia Vilniaus ir Lietuvos miestiečių luomo teisių riba.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172836|Vilniaus miestiečių luomas]]: Vilniaus miestiečių luomas turėjo nustatytą vietą Lietuvos seimuose ir dalyvavo krašto reprezentacijose.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172844|Vilniaus miestiečių luomas]]: Vilniaus miestiečių luomas negalėjo išsiderėti daugiau laisvių, nes stokojo palankaus meto ir politinių sąlygų.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55077|Vilniaus miestiečių luomas]]: Balińskio vertinimu, Lietuvos miestiečių luomas vėlavo kartu su civilizacijos raida ir formavosi tik XIV amžiuje.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55078|Vilniaus miestiečių luomas]]: Balińskis Vilniaus miestiečių luomą kildino iš nelaisvųjų, svetimšalių kolonistų ir bajorų arba kunigaikščių tarnų grupių.
+- susijęs iš [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime.md#claim-t-87170|Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]: Vilniaus miestiečių luomas turėjo nustatytą vietą krašto reprezentacijose ir nuo Vytauto laikų dalyvavo Lietuvos seimuose.
+- susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-101622|„jogailaičių Europa“ „krikščionybės forpostas“]]: LDK visuomenei europėjant susiformavo leno teisė, feodai, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema.
+- susijęs iš [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas.md#claim-t-86499|Miestiečių luomas vidurinysis visuomenės luomas]]: Lietuvos miestiečių luomas, nepaisant privilegijų, neįgijo nei didelių turtų, nei ypatingo visuomeninio svorio.
+- susijęs iš [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas.md#claim-t-86500|Miestiečių luomas vidurinysis visuomenės luomas]]: Lietuvos miestiečių luomas susikūrė tik XIV amžiuje ir vėlavo panašiai kaip bendra šalies civilizacijos raida.
+- susijęs iš [[objektai/zodynas/Riterių luomas.md#claim-t-55269|Riterių luomas]]: Kryžiaus karų poveikis sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.
+- susijęs iš [[objektai/zodynas/Riterių luomas.md#claim-t-55270|Riterių luomas]]: Balińskis riterių luomą vadino garbingiausiąja viduramžių institucija.
+- susijęs iš [[objektai/zodynas/Riterių luomas.md#claim-t-82096|Riterių luomas]]: Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos.
+- susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82055|feodalizmas]]: Susidūrimas su Rytais, anot autoriaus, sutramdė feodalizmo piktnaudžiavimą ir iš bajorijos formavo riterių luomą.
+- susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82059|feodalizmas]]: Susidūrimas su Rytais esą sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.
+- susijęs iš [[objektai/zodynas/leno teisė feodas luominė monarchija.md#claim-t-77813|leno teisė feodas luominė monarchija]]: XVI a. LDK visuomenėje susiformavo leno teisė, riterio dvaras, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema.
+- susijęs iš [[objektai/asmenys/Jeronimas Opachovskis.md#claim-t-87705|Jeronimas Opachovskis]]: Jeronimas Opachovskis, Vilniaus raštininkas, 1569 m. liepos 1 d. kartu su kitais delegatais pasirašė Liublino unijos dekretą.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113976|Steponas Batoras]]: Vilniaus miestiečių luomas Steponą Batorą laikė stipriu globėju, kokiu vėliau netapo nė vienas karalius.
+- susijęs iš [[objektai/autoriai/Jacobas Schrenckas.md#claim-t-78083|Jacobas Schrenckas]]: Jacobo Schrencko „Armamentarium Heroicum“ 1603 m. Insbruke pateikė Mikalojaus Radvilos Juodojo atvaizdą.
+- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172830|Vilniaus miestiečių luomas]]: 1569 m. liepos 1 d. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55089|Vilniaus miestiečių luomas]]: 1569 m. Vilniaus pasiuntiniai Liublino unijos seime pasirašė susivienijimo dekretą kartu su kitais LDK delegatais.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55090|Vilniaus miestiečių luomas]]: 1564 m. Žygimantas Augustas atribojo Vilniaus miestiečius nuo Antrojo Statuto galios ir suteikė daugiau bylinėjimosi laisvės pagal Magdeburgo teisę.
 - susijęs iš [[objektai/ivykiai/1449 m. amžinoji taika su Maskva.md#claim-t-100029|1449 m. amžinoji taika su Maskva]]: Vytauto ir Kazimiero laikais Lietuvos ekspansija į rytus pasiekė kulminaciją, kurią žymėjo 1449 m. amžinoji taika su Maskva.
 - susijęs iš [[objektai/ivykiai/Kryžiaus karai.md#claim-t-86953|Kryžiaus karai]]: XI a. Kryžiaus karai iš pradžių laikyti savotiškais žygiais, bet vėliau virto svarbiu Europos istorijos įvykiu.
-- susijęs iš [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime.md#claim-t-87170|Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]: Vilniaus miestiečių luomas turėjo nustatytą vietą krašto reprezentacijose ir nuo Vytauto laikų dalyvavo Lietuvos seimuose.
 - susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-101621|„jogailaičių Europa“ „krikščionybės forpostas“]]: Krikščionybės forposto idėja buvo nukreipta prieš stačiatikišką Maskvą ir siejosi su krikščioniškojo mentaliteto įsigalėjimu visuomenės elite.
-- susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-101622|„jogailaičių Europa“ „krikščionybės forpostas“]]: LDK visuomenei europėjant susiformavo leno teisė, feodai, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema.
 - susijęs iš Antrasis Lietuvos Statutas: 1564 m. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Antrojo Lietuvos Statuto galios.
 - susijęs iš Armamentarium Heroicum: 1603 m. Insbruke išleistame Jacobo Schrencko „Armamentarium Heroicum“ buvo pavaizduotas Mikalojus Radvila Juodasis.
 - susijęs iš Brastos Biblija: Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų kalbą, nes ji būtų suprantama liaudžiai.
@@ -204,20 +252,12 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
 - susijęs iš Vilnius: Kazimieras, priėmęs volyniečių ištikimybės priesaiką, su Lietuvos kunigaikščiais ir Tarybos ponais išvyko į Vilnių, kurį metraštis vadina Vytauto sostine.
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-21975|Bajorų respublika liberum veto]]: Bajorų respublikoje valdovą rinkę atstovai sudarė įspūdį, kad valstybės santvarka buvo respublika, o ne monarchija.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisė.md#claim-t-86595|Magdeburgo teisė]]: 1564 m. Žygimantas Augustas leido Vilniaus miestiečiams laisviau bylinėtis teismuose pagal Magdeburgo teisę.
-- susijęs iš [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas.md#claim-t-86499|Miestiečių luomas vidurinysis visuomenės luomas]]: Lietuvos miestiečių luomas, nepaisant privilegijų, neįgijo nei didelių turtų, nei ypatingo visuomeninio svorio.
-- susijęs iš [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas.md#claim-t-86500|Miestiečių luomas vidurinysis visuomenės luomas]]: Lietuvos miestiečių luomas susikūrė tik XIV amžiuje ir vėlavo panašiai kaip bendra šalies civilizacijos raida.
-- susijęs iš [[objektai/zodynas/Riterių luomas.md#claim-t-55269|Riterių luomas]]: Kryžiaus karų poveikis sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.
-- susijęs iš [[objektai/zodynas/Riterių luomas.md#claim-t-55270|Riterių luomas]]: Balińskis riterių luomą vadino garbingiausiąja viduramžių institucija.
-- susijęs iš [[objektai/zodynas/Riterių luomas.md#claim-t-82096|Riterių luomas]]: Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos.
 - susijęs iš [[objektai/zodynas/bajoriškoji demokratija luominė monarchija.md#claim-t-22068|bajoriškoji demokratija luominė monarchija]]: Abiejų Tautų Respublikoje atstovai rinkdavo valdovą, todėl santvarka galėjo atrodyti kaip respublika, o ne monarchija.
 - susijęs iš [[objektai/zodynas/bajorų tauta politinė lietuvių tauta.md#claim-t-101565|bajorų tauta politinė lietuvių tauta]]: LDK visuomenei europėjant susiformavo bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
 - susijęs iš [[objektai/zodynas/bajorų tauta politinė lietuvių tauta.md#claim-t-101566|bajorų tauta politinė lietuvių tauta]]: Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.
 - susijęs iš [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija.md#claim-t-101568|bajorų tauta politinė tauta lietuvių nacija]]: LDK visuomenei įsiliejant į Vakarų civilizaciją susiformavo bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
 - susijęs iš [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija.md#claim-t-101570|bajorų tauta politinė tauta lietuvių nacija]]: Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.
 - susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82051|feodalizmas]]: Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką.
-- susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82055|feodalizmas]]: Susidūrimas su Rytais, anot autoriaus, sutramdė feodalizmo piktnaudžiavimą ir iš bajorijos formavo riterių luomą.
-- susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82059|feodalizmas]]: Susidūrimas su Rytais esą sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.
-- susijęs iš [[objektai/zodynas/leno teisė feodas luominė monarchija.md#claim-t-77813|leno teisė feodas luominė monarchija]]: XVI a. LDK visuomenėje susiformavo leno teisė, riterio dvaras, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema.
 - susijęs iš [[objektai/zodynas/leno teisė.md#claim-t-77812|leno teisė]]: XVI a. LDK nuosavybės santykiuose susiformavo leno teisė.
 ## Reikšmingi paminėjimai
 
@@ -299,6 +339,16 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 712269-712633; hash=d4d85bca816a8cdc0078fb76f7d5855774167217bc167f96117815c67f4f1553; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: luomas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "luomas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
 
 - c-004
@@ -325,6 +375,16 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 184968-185495; hash=df39bdc25ab058bd1c4f8de45bc7add0e174221af4bf532458a350e7654e407f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: luomas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "luomas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
 
 - c-005
@@ -344,6 +404,16 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3c228e754dc173cd4b3d061b950b9561a9bfe56bff63105a56b23f12062be3b6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herbai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: luomas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Herbai: mention_match, thing, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "luomas" parinktas kaip owner_note_path. Targetas "Herbai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-006
@@ -360,6 +430,16 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 184968-185495; hash=df39bdc25ab058bd1c4f8de45bc7add0e174221af4bf532458a350e7654e407f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: luomas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "luomas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-007
 
 - c-007

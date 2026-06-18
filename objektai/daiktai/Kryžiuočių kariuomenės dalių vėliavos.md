@@ -54,7 +54,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   teiginys: 'Bychovco kronikoje teigiama, kad Žalgirio mūšyje laimėtos kryžiuočių vėliavos buvo pakabintos Vilniaus katedroje.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys išlaiko būtąją atribuciją Bychovco kronikai, nes kalbama apie kronikos liudijimą dėl trofėjinių vėliavų. Nepridėta, kad vėliavos tikrai išliko ar buvo fiziškai patikrintos.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Miechovita|Miechovita]]; mentioned_author: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Miechovita|Miechovita]]; mentioned_author: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]'
   temporaliniai_duomenys: 'įvykio data: 1454 m.; įvykio data: 1529 m.; įvykio data: 1550 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys išlaiko būtąją atribuciją Bychovco kronikai, nes kalbama apie kronikos liudijimą dėl trofėjinių vėliavų. Nepridėta, kad vėliavos tikrai išliko ar buvo fiziškai patikrintos.'
@@ -67,7 +67,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   teiginys: '1411 m. rudenį Vavelio katedroje buvo pakabinta 51 kryžiuočių ir jų talkininkų vėliava, paimta 1409–1411 m. kare.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys, tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_author: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1409-1411; įvykio data: 1411 m.; įvykio data: 1529 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys, tiesiogiai paremtas citata.'
@@ -88,7 +88,7 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   global_id: t-186825
   teiginys: 'Jogaila paimtas vėliavas nugabeno į Krokuvą, į Vavelio pilį.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Tanenbergas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Tanenbergas'
   pagrindžia:
     - c-003
 
@@ -100,6 +100,16 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dc1676ab3a461f22a6861cbdbea468ed1b71779716930e15d5b8caa6f14a2a51; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
+  ryšio_patikimumas: susije_su -> Vėliavos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryžiuočių kariuomenės dalių vėliavos: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vėliavos: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių kariuomenės dalių vėliavos" parinktas kaip owner_note_path. Targetas "Vėliavos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -175,4 +185,14 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dc1676ab3a461f22a6861cbdbea468ed1b71779716930e15d5b8caa6f14a2a51; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
+  ryšio_patikimumas: susije_su -> Vėliavos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryžiuočių kariuomenės dalių vėliavos: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vėliavos: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžiuočių kariuomenės dalių vėliavos" parinktas kaip owner_note_path. Targetas "Vėliavos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001

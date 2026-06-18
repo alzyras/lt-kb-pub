@@ -30,15 +30,25 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
   global_id: t-78076
   teiginys: 'Ėrichas Liudendorfas formaliai vadovavo Oberostui kartu su Pauliumi fon Hindenburgu.'
   sudarymo_pagrindimas: 'Pradinis sakinys prasideda neaiškiu įvardžiu ir yra gramatiškai netikslus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Oberostas|Oberostas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Paulius fon Hindenburgas|Paulius fon Hindenburgas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Oberostas|Oberostas]]; mentioned_person: [[objektai/asmenys/Paulius fon Hindenburgas|Paulius fon Hindenburgas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1915 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys prasideda neaiškiu įvardžiu ir yra gramatiškai netikslus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=907a91567aa06294555901eb95758dc858156a308d82edf71b0949d3899ae3c0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Oberostas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ėrichas Liudendorfas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Oberostas: mention_match, group, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ėrichas Liudendorfas" parinktas kaip owner_note_path. Targetas "Oberostas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Paulius fon Hindenburgas.md#claim-t-78068|Paulius fon Hindenburgas]]: Oberostui formaliai vadovavo generolai Paulius fon Hindenburgas ir Ėrichas Liudendorfas.
-- susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74881|Oberostas]]: 1915 m. frontui stabilizavusis, vokiečiai sudarė karinę administraciją ir pavadino ją Oberostu.
 - susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74882|Oberostas]]: Oberostui formaliai vadovavo Paulius fon Hindenburgas ir Ėrichas Liudendorfas.
+- susijęs iš [[objektai/grupes/Oberostas.md#claim-t-74881|Oberostas]]: 1915 m. frontui stabilizavusis, vokiečiai sudarė karinę administraciją ir pavadino ją Oberostu.
 - susijęs iš Kaunas: 1916 m. birželį Lietuvos apskritis su centru Kaune buvo suvienyta su Vilniaus apskritimi.
 ## Reikšmingi paminėjimai
 
@@ -60,3 +70,13 @@ Jai formaliai vadovavo generolai Paulius fon Hindenburgas (Paul von Hindenburg) 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=907a91567aa06294555901eb95758dc858156a308d82edf71b0949d3899ae3c0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Oberostas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ėrichas Liudendorfas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Oberostas: mention_match, group, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ėrichas Liudendorfas" parinktas kaip owner_note_path. Targetas "Oberostas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

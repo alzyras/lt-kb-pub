@@ -38,6 +38,16 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
   temporalinis_llm_pakomentavimas: 'Pašalintas netinkamas autorinis boilerplate ir suformuluotas tik citatos palaikomas faktas apie šaltinį.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 127961-128181; hash=4de2ef91e130c6f9a2e007edb8945af29c8a7e88331ff46231d526bfe1d6d6d5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Burcos žemė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Regesta historico-diplomatica Ordinis Mariae Theutonicorum: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Burcos žemė: mention_match, place, gap=119
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Regesta historico-diplomatica Ordinis Mariae Theutonicorum" parinktas kaip owner_note_path. Targetas "Burcos žemė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60963"></a>
 - t-002
@@ -78,3 +88,13 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 127961-128181; hash=4de2ef91e130c6f9a2e007edb8945af29c8a7e88331ff46231d526bfe1d6d6d5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Burcos žemė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Regesta historico-diplomatica Ordinis Mariae Theutonicorum: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Burcos žemė: mention_match, place, gap=119
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Regesta historico-diplomatica Ordinis Mariae Theutonicorum" parinktas kaip owner_note_path. Targetas "Burcos žemė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

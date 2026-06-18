@@ -30,15 +30,25 @@ periodo_grupes:
   global_id: t-87667
   teiginys: 'Fabijonas buvo paskirtas Varmės vyskupu be valdovo pritarimo, bet jo paskyrimą vėliau sutikta pripažinti galiojančiu.'
   sudarymo_pagrindimas: 'Citata pagrindžia paskyrimą Varmės vyskupu ir jo pripažinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_place: Varmė; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Apaštalų Sostas.md#claim-t-172076|Apaštalų Sostas]]: Valdovas siekė išrūpinti Šventojo Tėvo patvirtinimą artikulams, kuriems turėjo pritarti Apaštalų Sostas.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 721260-722054; hash=b5a305b0f7bbf0d75ad236a9a76c2bee1c9fdb0e082554a3a777c5a35600d593; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Varmė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fabijonas (Varmės vyskupas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Varmė: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fabijonas (Varmės vyskupas)" parinktas kaip owner_note_path. Targetas "Varmė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86737|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu.
 - susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86738|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu.
-- susijęs iš [[objektai/ivykiai/Varmės vyskupo Fabijono paskyrimo patvirtinimo sureguliavimas (1514 m. gegužės 6 d.).md#claim-t-86961|Varmės vyskupo Fabijono paskyrimo patvirtinimo sureguliavimas (1514 m. gegužės 6 d.)]]: 1514 m. gegužės 6 d. Vilniuje nuspręsta siekti Šventojo Tėvo patvirtinimo dėl Varmės vyskupo rinkimo artikulų.
 - susijęs iš Varmė: Varmės bažnyčios kapitula prašė pripažinti Fabijono paskyrimą dabartiniu Varmės vyskupu.
 - susijęs iš Varmė: Varmės bažnyčios kapitula prašė pripažinti galiojančiu Fabijono paskyrimą Varmės vyskupu.
+- susijęs iš [[objektai/grupes/Apaštalų Sostas.md#claim-t-172076|Apaštalų Sostas]]: Valdovas siekė išrūpinti Šventojo Tėvo patvirtinimą artikulams, kuriems turėjo pritarti Apaštalų Sostas.
+- susijęs iš [[objektai/ivykiai/Varmės vyskupo Fabijono paskyrimo patvirtinimo sureguliavimas (1514 m. gegužės 6 d.).md#claim-t-86961|Varmės vyskupo Fabijono paskyrimo patvirtinimo sureguliavimas (1514 m. gegužės 6 d.)]]: 1514 m. gegužės 6 d. Vilniuje nuspręsta siekti Šventojo Tėvo patvirtinimo dėl Varmės vyskupo rinkimo artikulų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,3 +81,13 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 721260-722054; hash=b5a305b0f7bbf0d75ad236a9a76c2bee1c9fdb0e082554a3a777c5a35600d593; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Varmė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fabijonas (Varmės vyskupas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Varmė: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fabijonas (Varmės vyskupas)" parinktas kaip owner_note_path. Targetas "Varmė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

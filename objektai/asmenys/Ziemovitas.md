@@ -24,15 +24,28 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   teiginys: 'Tarp karaliaus ir Mozūrų kunigaikščio Ziemovito buvo kilęs ginčas, kurį išsprendė Vytautas.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=86ebb0b34b145d29cbb713b25c104445d0f3e80627628d92d1cd43b4972d2b40; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ziemovitas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ziemovitas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-93745"></a>
 - t-002
   global_id: t-93745
   teiginys: 'Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir savo šalininkų buvo dukart išrinktas Lenkijos karaliumi.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Austrija; mentioned_place: Gniezno; mentioned_place: Lenkija; mentioned_place: Mažlenkiai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Austrija; mentioned_place: Gniezno; mentioned_place: Mažlenkiai; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b01b2e9d35341e4497b12cc716455b0170da0fcbd8c0b0e7e11c0cc80a8da71e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-93746"></a>
 - t-003
@@ -48,9 +61,19 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   global_id: t-93748
   teiginys: 'Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir buvo dukart savo šalininkų išrinktas Lenkijos karaliumi.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos faktus apie Ziemovitą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Austrija; mentioned_place: Gniezno; mentioned_place: Lenkija; mentioned_place: Mažlenkiai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Austrija; mentioned_place: Gniezno; mentioned_place: Mažlenkiai; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d131c3b6cac0877bc5944f706def21c01ac36e537240fd6a163eb64875e2340f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ziemovitas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ziemovitas" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-93749"></a>
 - t-006
@@ -58,11 +81,21 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   teiginys: 'Tarp karaliaus ir Mozūrų kunigaikščio Ziemovito kilusį nesusipratimą išsprendė Vytautas.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d131c3b6cac0877bc5944f706def21c01ac36e537240fd6a163eb64875e2340f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ziemovitas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ziemovitas" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86734|Mazovijos kunigaikščiai]]: 1325 m. kitose Mazovijos žemėse viešpatavo kunigaikščiai Ziemovitas ir Traidenis.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51024|Jadvyga (Jogailos duktė)]]: Vytautas buvo pašauktas būti karalaitės Jadvygos globėju ir nuo tada turėjo ryškią įtaką Lenkijos reikaluose.
 - susijęs iš [[objektai/asmenys/Jadvyga (Jogailos duktė).md#claim-t-51028|Jadvyga (Jogailos duktė)]]: Karalaitė Jadvyga buvo pavesta Vytauto globai, nuo kurios prasidėjo ryški jo įtaka lenkų reikaluose.
 - susijęs iš [[objektai/asmenys/Stanislovas Ciołek.md#claim-t-35286|Stanislovas Ciołek]]: Stanislovas Ciołek turėjo būti dėkingas Vytautui už Poznanės vyskupo mitrą.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90050|Traidenis (valdovas, XIII a.)]]: Kunigaikščiai Ziemovitas ir Traidenis įsiveržė į Dobrynės žemę.
-- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86734|Mazovijos kunigaikščiai]]: 1325 m. kitose Mazovijos žemėse viešpatavo kunigaikščiai Ziemovitas ir Traidenis.
 - susijęs iš [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais.md#claim-t-93031|Kreipimasis į Vytautą svarbiausiais reikalais]]: Lenkų pakancleriai, vyskupai ir senatoriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami patarimo ir paramos.
 - susijęs iš [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais.md#claim-t-93034|Kreipimasis į Vytautą svarbiausiais reikalais]]: Lenkų pakancleriai, vyskupai ir senatoriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami patarimo arba paramos.
 - susijęs iš [[objektai/zodynas/pakancleris.md#claim-t-70260|pakancleris]]: Lenkų karūnos pakancleriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami jo patarimo ir paramos.
@@ -90,6 +123,16 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   statusas: verified
   pagrindžia:
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d131c3b6cac0877bc5944f706def21c01ac36e537240fd6a163eb64875e2340f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ziemovitas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ziemovitas" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-002
@@ -104,7 +147,20 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b01b2e9d35341e4497b12cc716455b0170da0fcbd8c0b0e7e11c0cc80a8da71e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=86ebb0b34b145d29cbb713b25c104445d0f3e80627628d92d1cd43b4972d2b40; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ziemovitas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ziemovitas" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-003
@@ -126,5 +182,18 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d131c3b6cac0877bc5944f706def21c01ac36e537240fd6a163eb64875e2340f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ziemovitas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ziemovitas" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b01b2e9d35341e4497b12cc716455b0170da0fcbd8c0b0e7e11c0cc80a8da71e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

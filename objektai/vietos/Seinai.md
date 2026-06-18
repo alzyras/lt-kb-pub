@@ -31,29 +31,29 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
   global_id: t-181449
   teiginys: 'Ratifikavus sutartį Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikta aiški, šaltinio paremta faktinė mintis.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Potsdamas; mentioned_place: Punskas; mentioned_place: SSRS; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Punskas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Potsdamas; mentioned_place: SSRS; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+- susijęs iš [[objektai/asmenys/K. Ramanauskas.md#claim-t-40252|K. Ramanauskas]]: Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link.
+- susijęs iš [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga).md#claim-t-66458|Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]: 1920 m. rugsėjo 22 d. lenkai slapta pergrupavo pajėgas ir pradėjo puolimą ties Seinais bei Kapčiamiesčiu.
+- susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-66638|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų.
+- susijęs iš [[objektai/posakiai/Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų.md#claim-t-41480|Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų (mūšis)]]: Ant prie buožės pritvirtintos lentelės buvo užrašyta: „Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų“.
+- susijęs iš Atskirojo Marijampolės bataliono viršilos Antano Šukio pasvarstymai: 6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakojo apie savo kuopos kontrataką prieš lenkų pajėgas tarp Seinų ir Gibų.
+- susijęs iš Vigrai: 1798 m. Prūsijos valdžia Vigriuose įsteigė atskirą, tiesiog popiežiui pavaldžią vyskupiją, 1818 m. perkeltą į Seinus.
 - susijęs iš [[objektai/asmenys/A. Jakaitis.md#claim-t-39978|A. Jakaitis]]: Mjr. A. Jakaitis vadovavo 10-ajam pulkui, kuris iš Šipliškių turėjo žygiuoti į Suvalkus, o iš ten į Augustavą.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78000|A. Voldemaras]]: 1927 m. rugsėjo 27 d. A. Voldemaras Romoje pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75768|Augustinas Voldemaras]]: Augustinas Voldemaras 1927 m. rugsėjo 27 d. Romoje pasirašė konkordatą su Vatikanu.
-- susijęs iš [[objektai/asmenys/K. Ramanauskas.md#claim-t-40252|K. Ramanauskas]]: Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link.
 - susijęs iš [[objektai/asmenys/Mykolas Sleževičius.md#claim-t-75993|Mykolas Sleževičius]]: 1920 m. rugsėjį ministras pirmininkas Mykolas Sleževičius Seime ragino griebtis ginklo prieš lenkų puolimą.
 - susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49490|V. Grigaliūnas-Glovackis]]: V. Grigaliūno-Glovackio vadovaujamą kovinę grupę sudarė 2-asis ir 10-asis pėstininkų pulkai, 6-ojo pulko batalionas, 5-oji ir 9-oji artilerijos baterijos ir 2-ojo husarų pulko eskadronas.
 - susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49494|V. Grigaliūnas-Glovackis]]: Augustavo-Suvalkų operacijai buvo sudaryta V. Grigaliūno-Glovackio vadovaujama kovinė grupė.
 - susijęs iš [[objektai/daiktai/Ginklai ir ginkluotė.md#claim-t-45484|Ginklai ir ginkluotė]]: 1920 m. rugsėjį Mykolas Sleževičius Seime ragino sveikus gyventojus griebtis ginklo prieš lenkų puolimą.
 - susijęs iš [[objektai/daiktai/Ginklai ir ginkluotė.md#claim-t-45485|Ginklai ir ginkluotė]]: 1920 m. rugsėjį M. Sleževičius Seime ragino sveikus žmones griebtis ginklo prieš lenkų puolimą.
-- susijęs iš [[objektai/ivykiai/Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga).md#claim-t-66458|Augustavo-Suvalkų operacija (1920 m. rugsėjo 22 d. – rugsėjo pabaiga)]]: 1920 m. rugsėjo 22 d. lenkai slapta pergrupavo pajėgas ir pradėjo puolimą ties Seinais bei Kapčiamiesčiu.
 - susijęs iš [[objektai/ivykiai/Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.).md#claim-t-20230|Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.)]]: 1927 m. rugsėjo 27 d. Augustinas Voldemaras Romoje pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.
-- susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-66638|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų.
-- susijęs iš [[objektai/posakiai/Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų.md#claim-t-41480|Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų (mūšis)]]: Ant prie buožės pritvirtintos lentelės buvo užrašyta: „Šitas Šautuvas yra 5 p. pulko pirmas karo grobis paimtas mūšyje ties Seinais iš lenkų“.
 - susijęs iš [[objektai/posakiai/„lenkai atakuoja...“.md#claim-t-20909|„lenkai atakuoja...“]]: 1920 m. rugsėjį Mykolas Sleževičius Seime pareiškė, kad lenkai atakuoja Lietuvą, nes juos pakvietė dvarininkai.
-- susijęs iš Atskirojo Marijampolės bataliono viršilos Antano Šukio pasvarstymai: 6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakojo apie savo kuopos kontrataką prieš lenkų pajėgas tarp Seinų ir Gibų.
 - susijęs iš Lietuvos ir Vatikano konkordatas (1927 m.): 1927 m. rugsėjo 27 d. Augustinas Voldemaras pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje.
 - susijęs iš Punskas: Įsigaliojus sutarčiai Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską.
 - susijęs iš Punskas: Per karinius susidūrimus su Lenkija Lietuva prarado lietuviškus Seinus ir Punską.
 - susijęs iš Punskas: Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską.
-- susijęs iš Vigrai: 1798 m. Prūsijos valdžia Vigriuose įsteigė atskirą, tiesiog popiežiui pavaldžią vyskupiją, 1818 m. perkeltą į Seinus.
 ## Reikšmingi paminėjimai
 
 - c-001

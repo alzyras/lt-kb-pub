@@ -29,7 +29,7 @@ tags:
   global_id: t-09667
   teiginys: 'Algirdas Maskvos valdovo pasiuntiniui pareiškė, kad per Velykas bus Maskvoje ir atrems ietį į Kremliaus sieną.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų atsakymą, ne abstrakčią formuluotę apie kontrgrasinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_place: Kremlius; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_place: Kremlius; mentioned_place: Maskva; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]'
   pagrindžia:
     - c-001
 

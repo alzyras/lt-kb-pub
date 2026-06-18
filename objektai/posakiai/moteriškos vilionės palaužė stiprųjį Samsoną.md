@@ -24,6 +24,16 @@ Dusburgietis teigia, kad štai koks nuostabus, štai koks nepaprastas įvykis: m
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 558594-558998; hash=7ec79585fa25b04c5c1877faa907415bd8f425dc4d9ca82598f05d3e576304cd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Petras Dusburgietis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: moteriškos vilionės palaužė stiprųjį Samsoną: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Petras Dusburgietis: mention_match, author, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "moteriškos vilionės palaužė stiprųjį Samsoną" parinktas kaip owner_note_path. Targetas "Petras Dusburgietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -41,3 +51,13 @@ Dusburgietis teigia, kad štai koks nuostabus, štai koks nepaprastas įvykis: m
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 558594-558998; hash=7ec79585fa25b04c5c1877faa907415bd8f425dc4d9ca82598f05d3e576304cd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Petras Dusburgietis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: moteriškos vilionės palaužė stiprųjį Samsoną: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Petras Dusburgietis: mention_match, author, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "moteriškos vilionės palaužė stiprųjį Samsoną" parinktas kaip owner_note_path. Targetas "Petras Dusburgietis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -22,6 +22,9 @@ b) Voskresensk.
   teiginys: '„Voskresensk. lietopis“ cituoja Vytauto žodžius apie ketinimą nugalėti carą Temir Kutlujų ir pasodinti Tachtamyšą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0fd05a3c1834d8877901b5ac9dfc3a6f2def90b9cc6aa5f58a4455afc359a8ea; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -38,3 +41,6 @@ b) Voskresensk.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0fd05a3c1834d8877901b5ac9dfc3a6f2def90b9cc6aa5f58a4455afc359a8ea; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

@@ -23,6 +23,9 @@ Katche.
   sudarymo_pagrindimas: 'Pradinis teiginys neturi predikato, o citata pagrindžia Katche pareigas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 735317-735445; hash=00362462d58b1aba332587a05121ad164d2c41171835c2d83b77dc32715c8de9; match=whitespace_regex
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/ivykiai/Antrasis Panevėžio puolimas.md#claim-t-41237|Antrasis Panevėžio puolimas]]: 1919 m. gegužės 19 d. Antrasis Panevėžio puolimas buvo tęsiamas, o lietuvių spaudžiami bolševikai traukėsi visu frontu.
 ## Reikšmingi paminėjimai
 
@@ -39,3 +42,6 @@ Katche.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 735317-735445; hash=00362462d58b1aba332587a05121ad164d2c41171835c2d83b77dc32715c8de9; match=whitespace_regex
+  sprendimo_priezastis: auto

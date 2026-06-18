@@ -47,11 +47,21 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/daiktai/Deglas.md#claim-t-55033|Deglas]]: Mūšio metu į medinius miesto namus mestas deglas sukėlė didžiulį gaisrą, per kurį ugnis pasiglemžė didelę Vilniaus dalį.
-- susijęs iš [[objektai/daiktai/Karinės vėliavos ir ženklai.md#claim-t-87051|Karinės vėliavos ir ženklai]]: Ordino riteriai puolė į mūšį nešini šv. Jurgio vėliava, bet lietuviai juos atrėmė ir privertė grįžti patyrus nuostolių.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 111513-111787; hash=f3615956d51eeb98e41011510393486c770c7f6286923f42d8e93698dbcd9cae; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šv. Jurgio vėliava: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Jurgio vėliava" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-12344|Vėliavos]]: Tarp pabėgusių lenkų vėliavų buvo ir šv. Jurgio vėliava.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179026|Kryžiuočių ordinas]]: Ordino riteriai su šv. Jurgio vėliava puolė į mūšį, bet lietuvių buvo atremti ir patyrė didelių nuostolių.
 - susijęs iš [[objektai/grupes/Lietuviai Lietuvos kariuomenė.md#claim-t-86782|Lietuviai Lietuvos kariuomenė]]: Lietuviai narsiai atrėmė Ordino riterių puolimą su šv. Jurgio vėliava ir privertė juos grįžti prie likusių karių.
+- susijęs iš [[objektai/daiktai/Deglas.md#claim-t-55033|Deglas]]: Mūšio metu į medinius miesto namus mestas deglas sukėlė didžiulį gaisrą, per kurį ugnis pasiglemžė didelę Vilniaus dalį.
+- susijęs iš [[objektai/daiktai/Karinės vėliavos ir ženklai.md#claim-t-87051|Karinės vėliavos ir ženklai]]: Ordino riteriai puolė į mūšį nešini šv. Jurgio vėliava, bet lietuviai juos atrėmė ir privertė grįžti patyrus nuostolių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179298|Lietuviai]]: Ordino riteriai, nešini šv. Jurgio vėliava, puolė į mūšį, bet lietuviai juos atrėmė.
 - susijęs iš [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.).md#claim-t-86928|Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]: Per mūšį į medinius Vilniaus namus mestas deglas sukėlė didžiulį gaisrą, pasiglemžusį didelę miesto dalį.
 ## Reikšmingi paminėjimai
@@ -74,3 +84,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 111513-111787; hash=f3615956d51eeb98e41011510393486c770c7f6286923f42d8e93698dbcd9cae; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šv. Jurgio vėliava: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šv. Jurgio vėliava" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

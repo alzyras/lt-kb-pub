@@ -35,48 +35,98 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   global_id: t-85913
   teiginys: 'XII amžiuje buvo geriau susipažinta su tolimesnėmis Baltijos jūros pakrantėmis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatos sakiniu apie Baltijos pakrantes.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Baltija; mentioned_place: Bremenas; mentioned_place: Dvina'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_group: [[objektai/grupes/Bremeno pirkliai|Bremeno pirkliai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Bremenas; mentioned_place: Dvina'
   temporaliniai_duomenys: 'įvykio data: 1158 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatos sakiniu apie Baltijos pakrantes.'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=18094be263f39d9e6643d51d9c2c52082a339e6c5ae0535da59aea7abd23ed5e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-85914"></a>
 - t-002
   global_id: t-85914
   teiginys: 'Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.'
   sudarymo_pagrindimas: 'Teiginys aiškiai paremtas citata apie lietuvių tautos atšakas ir pakrantę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vilija; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Dvina; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Būgas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vilija'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 35060-35493; hash=790880af2d23c4372aa78c74b5e5e7eaaa4837672baa43d43241f863d6bf8c3e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-85915"></a>
 - t-003
   global_id: t-85915
   teiginys: 'Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir remiasi citatos faktu apie Skandinavijos piratų laivus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Skandinavija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Skandinavija; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 40927-41458; hash=df1816bf9a244d4661784d2f74f1316ac738edaf96004192bd459d68990eefb9; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-85916"></a>
 - t-004
   global_id: t-85916
   teiginys: 'Vytauto užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos mintį apie Vytauto užkariavimus.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Nuo Baltijos iki pat Juodosios jūros|Nuo Baltijos iki pat Juodosios jūros]]; mentioned_place: Baltija; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_object: [[objektai/posakiai/Nuo Baltijos iki pat Juodosios jūros|Nuo Baltijos iki pat Juodosios jūros]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 48423-49421; hash=ca691641a082e476c9493a2459044194e1b78a2af70c0af5d7ae55d0afc4d867; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-85917"></a>
 - t-005
   global_id: t-85917
   teiginys: 'Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).'
   sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Baltija; mentioned_place: Dvina; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Dvina; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 49709-50571; hash=e0d34793c024f731e1884d11e7ad0b997f69c75b6349ece25afa04d2b653ba5e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-85918"></a>
 - t-006
@@ -86,15 +136,35 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   susije_objektai: 'mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Naugardukas'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 53962-54671; hash=9131bf3c3daa5c5ef49a22104ee13064c6cc3bdf20aa1fc5dda172939c4b791b; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-85919"></a>
 - t-007
   global_id: t-85919
   teiginys: 'XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Teutonų ordino veiklą Baltijos pakrantėse.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Malburgas; mentioned_place: Prūsai; mentioned_place: Revelis; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Malburgas; mentioned_place: Prūsai; mentioned_place: Revelis; mentioned_place: Torunė; mentioned_place: Varmė; mentioned_place: Čekija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=216b838271cef42a28debd3a8e8443e2355e55cb05def6690e189dd2367c82a6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -150,6 +220,16 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=216b838271cef42a28debd3a8e8443e2355e55cb05def6690e189dd2367c82a6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-003
@@ -185,6 +265,16 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 49709-50571; hash=e0d34793c024f731e1884d11e7ad0b997f69c75b6349ece25afa04d2b653ba5e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-004
@@ -205,6 +295,16 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 48423-49421; hash=ca691641a082e476c9493a2459044194e1b78a2af70c0af5d7ae55d0afc4d867; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-005
@@ -237,6 +337,16 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 53962-54671; hash=9131bf3c3daa5c5ef49a22104ee13064c6cc3bdf20aa1fc5dda172939c4b791b; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-006
@@ -262,6 +372,16 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 40927-41458; hash=df1816bf9a244d4661784d2f74f1316ac738edaf96004192bd459d68990eefb9; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-007
@@ -279,4 +399,24 @@ XII amžiuje geriau susipažinta su toli­ mesnėmis Baltijos jūros pakrantėmi
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 35060-35493; hash=790880af2d23c4372aa78c74b5e5e7eaaa4837672baa43d43241f863d6bf8c3e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=18094be263f39d9e6643d51d9c2c52082a339e6c5ae0535da59aea7abd23ed5e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai)" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -50,6 +50,16 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Vysla'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c739a96907fee5d4e4726631c5d48c374b8e85d4d805f63a1eb5294b6d56c70e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Salys: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Salys" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-64514"></a>
 - t-003
@@ -61,15 +71,28 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   temporalinis_llm_pakomentavimas: 'Citata palaiko A. Salio autorystę tik straipsniui „Baltic Languages“, o ne kitam nurodytam darbui.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6c114b6960dd77eb5e3df11ea57a7a2ccb9199289f30f24357f71a5033758680; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Salys: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Salys" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64515"></a>
 - t-004
   global_id: t-64515
   teiginys: 'A. Salys teigė, kad slavų ir baltų prokalbės išriedėjo iš dviejų artimų indoeuropiečių prokalbės tarmių.'
   sudarymo_pagrindimas: 'Teiginys tinkamai priskiria Salio kalbinę poziciją ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=842816aea6722f527131bdd8afc0922bf7ac5ee489d970ce8f6b8fda54d2db50; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-64517"></a>
 - t-005
@@ -78,6 +101,9 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   sudarymo_pagrindimas: 'Teiginys yra trumpas faktinis sakinys apie Salio publikaciją.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=51087d2c916e8d552c48e5b4ef03497e05ba81e309dbf0982dad1b2465378ddc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-64518"></a>
 - t-006
@@ -87,6 +113,16 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   susije_objektai: 'mentioned_place: Kaunas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=da34481bccd472aeff3abac51b7de3f0cf7d223e2fb5effe156e9c117668a71f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vysla: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Salys: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Vysla: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Salys" parinktas kaip owner_note_path. Targetas "Vysla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Salys A.md#claim-t-64846|Salys A]]: A. Salys Ragainės vardo kilmę siejo su Lietuva.
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96085|Baltai]]: Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių.
 - susijęs iš Salys A. Die žemaitischen Mundarten: A. Salio „Die žemaitischen Mundarten“ 1 dalis paskelbta „Tauta ir žodis“ 6 knygoje 1930 m., p. 173–314.
@@ -125,6 +161,16 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=da34481bccd472aeff3abac51b7de3f0cf7d223e2fb5effe156e9c117668a71f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vysla: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Salys: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Vysla: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Salys" parinktas kaip owner_note_path. Targetas "Vysla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
 
 - c-003
@@ -138,6 +184,9 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=842816aea6722f527131bdd8afc0922bf7ac5ee489d970ce8f6b8fda54d2db50; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-005
 
 - c-004
@@ -153,6 +202,9 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=51087d2c916e8d552c48e5b4ef03497e05ba81e309dbf0982dad1b2465378ddc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-003
 
 - c-005
@@ -167,6 +219,16 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6c114b6960dd77eb5e3df11ea57a7a2ccb9199289f30f24357f71a5033758680; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Salys: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Salys" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-006
@@ -190,3 +252,13 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c739a96907fee5d4e4726631c5d48c374b8e85d4d805f63a1eb5294b6d56c70e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Salys: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Salys" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -36,6 +36,16 @@ Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pa
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis sakinys apie Devletą ir remiasi citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 691899-692144; hash=ebdd9870c3283c721d5dc9f5b4e6750ee38bfd88e1b489859e22666368d28f90; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstantinopolis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Devletas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konstantinopolis: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Devletas" parinktas kaip owner_note_path. Targetas "Konstantinopolis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas.md#claim-t-34469|Devleto mėginimas išsivaduoti iš protektorato ir sosto netekimas]]: 1422 m. Devletas pabandė išsivaduoti iš protektorato, neteko sosto ir vos gyvas paspruko.
 ## Reikšmingi paminėjimai
 
@@ -53,3 +63,13 @@ Devletas pabandė iš to protektorato išsivaduoti, neteko sosto ir vos gyvas pa
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 691899-692144; hash=ebdd9870c3283c721d5dc9f5b4e6750ee38bfd88e1b489859e22666368d28f90; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konstantinopolis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Devletas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Konstantinopolis: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Devletas" parinktas kaip owner_note_path. Targetas "Konstantinopolis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

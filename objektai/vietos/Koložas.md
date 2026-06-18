@@ -23,9 +23,19 @@ tags:
   global_id: t-99928
   teiginys: 'Koložas buvo Gardino priemiestis.'
   sudarymo_pagrindimas: 'Indekso fragmentas leidžia paremti trumpą faktą, bet pradinė ištrauka buvo triukšminga ir ne sakinio formos.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/L. Kolankowski|L. Kolankowski]]; mentioned_place: Gardinas; mentioned_place: Knituva; mentioned_place: Kolainiai; mentioned_place: Kolainių pilis; mentioned_place: Maskva; mentioned_place: Šušvė'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_author: [[objektai/autoriai/L. Kolankowski|L. Kolankowski]]; mentioned_place: Knituva; mentioned_place: Kolainiai; mentioned_place: Kolainių pilis; mentioned_place: Maskva; mentioned_place: Šušvė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f7db4eb9bf476d67fec35ced76ccdb7329204d42d924b69c602ecfc494300b7d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Koložas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Koložas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Naugardukas: Naugardukas 1044 m. Jaroslavo buvo įkurtas, tikėtina, dar lietuvių gyvenamoje žemėje.
 ## Reikšmingi paminėjimai
 
@@ -68,3 +78,13 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f7db4eb9bf476d67fec35ced76ccdb7329204d42d924b69c602ecfc494300b7d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Koložas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Koložas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

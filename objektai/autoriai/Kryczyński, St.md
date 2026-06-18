@@ -36,6 +36,16 @@ Kryczyński, St.: Tatarzy litewscy.
   temporalinis_llm_pakomentavimas: 'Bibliografinis įrašas pagrindžia autoriaus ir veikalo publikavimo faktą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 884356-884576; hash=fe948bc3f843091bd54f4219699103c0065e331134c306400b075dd0db2dfbd2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> St. Kryczyński: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryczyński, St: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: St. Kryczyński: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryczyński, St" parinktas kaip owner_note_path. Targetas "St. Kryczyński" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -51,3 +61,13 @@ Kryczyński, St.: Tatarzy litewscy.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 884356-884576; hash=fe948bc3f843091bd54f4219699103c0065e331134c306400b075dd0db2dfbd2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> St. Kryczyński: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryczyński, St: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: St. Kryczyński: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryczyński, St" parinktas kaip owner_note_path. Targetas "St. Kryczyński" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

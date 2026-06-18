@@ -40,12 +40,22 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys sugadintas OCR fragmentais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_place: Vengrija; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]'
   temporaliniai_duomenys: 'įvykio data: 1490 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys sugadintas OCR fragmentais.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 945180-945561; hash=b84ba531407221e0e625e6c5205e51f468e3fb55e059205cbb20582084a5e1ea; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vengrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Vengrija: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.)" parinktas kaip owner_note_path. Targetas "Vengrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185576"></a>
 - t-002
@@ -58,6 +68,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 945562-946005; hash=e83507bf361ec07c919a208294487e9284d4ca14559d705d3ae02752717ac820; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas Olbrachtas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jonas Olbrachtas: mention_match, person, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.)" parinktas kaip owner_note_path. Targetas "Jonas Olbrachtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -108,4 +128,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 945180-945561; hash=b84ba531407221e0e625e6c5205e51f468e3fb55e059205cbb20582084a5e1ea; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vengrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Vengrija: mention_match, place, gap=12
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.)" parinktas kaip owner_note_path. Targetas "Vengrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 945562-946005; hash=e83507bf361ec07c919a208294487e9284d4ca14559d705d3ae02752717ac820; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas Olbrachtas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Jonas Olbrachtas: mention_match, person, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jono Olbrachto pakvietimas į Vengrijos sostą ir nesėkmingas žygis (1490 m.)" parinktas kaip owner_note_path. Targetas "Jonas Olbrachtas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

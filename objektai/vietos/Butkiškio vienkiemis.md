@@ -33,6 +33,16 @@ Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, konkretus ir paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fe57a9b5e785bc242da79ea043e2977fe1f95aaa52dd43d324ea5dfac981ecf9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albinas Kubilius-Rūgštymas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Butkiškio vienkiemis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Albinas Kubilius-Rūgštymas: mention_match, person, gap=126
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Butkiškio vienkiemis" parinktas kaip owner_note_path. Targetas "Albinas Kubilius-Rūgštymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -58,3 +68,13 @@ Po intensyvių tardymų bei kankinimų abu sutiko bendradarbiauti ir spalio 28 d
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fe57a9b5e785bc242da79ea043e2977fe1f95aaa52dd43d324ea5dfac981ecf9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albinas Kubilius-Rūgštymas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Butkiškio vienkiemis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Albinas Kubilius-Rūgštymas: mention_match, person, gap=126
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Butkiškio vienkiemis" parinktas kaip owner_note_path. Targetas "Albinas Kubilius-Rūgštymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

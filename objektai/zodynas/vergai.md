@@ -25,6 +25,9 @@ Tai buvo vergai.
   sudarymo_pagrindimas: 'Reikia sklandesnio sakinio, nepridedant citatoje nepagrįstų detalių.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 81003-81149; hash=9dc1ccbc7acd947a22a8c9865607c81c498cdc08f5339a4bce8f7478968c83e3; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-182989"></a>
 - t-002
@@ -36,6 +39,9 @@ Tai buvo vergai.
   sudarymo_pagrindimas: 'Pradinė formuluotė per trumpa, o citata pagrindžia informatyvesnį sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 81003-81149; hash=9dc1ccbc7acd947a22a8c9865607c81c498cdc08f5339a4bce8f7478968c83e3; match=exact
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/ivykiai/Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas.md#claim-t-91921|Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas]]: Prie Baigos broliai pastatė prie upės į pilį panašiai sutvirtintą malūną, kurį prūsai netrukus užėmė, gynėjus išžudė ir sudegino.
 - susijęs iš Valstiečių «tarnyba» - feodalinio prievolių vienetas iki valakų įvedimo Lietuvoje: Studija „Valstiečių tarnyba - feodalinio prievolių vienetas iki valakų įvedimo Lietuvoje“ paskelbta 1957 m. AkMD 3 tome, p. 93-103.
 - susijęs iš Valstiečių «veldamai» Lietuvoje XV-XVI a: „Valstiečiai «veldamai» Lietuvoje XV-XVI a.“ išspausdintas AkMD 4 tome 1958 m., p. 113-126.
@@ -59,4 +65,10 @@ Tai buvo vergai.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 81003-81149; hash=9dc1ccbc7acd947a22a8c9865607c81c498cdc08f5339a4bce8f7478968c83e3; match=exact
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 81003-81149; hash=9dc1ccbc7acd947a22a8c9865607c81c498cdc08f5339a4bce8f7478968c83e3; match=exact
+  sprendimo_priezastis: auto

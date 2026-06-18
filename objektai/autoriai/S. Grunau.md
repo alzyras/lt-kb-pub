@@ -21,7 +21,7 @@ tags:
   global_id: t-64836
   teiginys: 'S. Grunau XVI a. pirmoje pusėje rašė, kad Romuvoje augo milžiniškas ąžuolas su Perkūno, Patulo ir Patrimpo stabais.'
   sudarymo_pagrindimas: 'Reikia pašalinti klaidingą Dusburgiečio atribuciją ir sutrumpinti teiginį.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Romuva'
+  susije_objektai: 'mentioned_place: Romuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -33,15 +33,25 @@ tags:
   susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Livonija; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 218805-219144; hash=b677456519ae0e81499fda768b4704a3d4805fda8b570320a95cd9b86e6798ad; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Romuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: S. Grunau: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Romuva: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "S. Grunau" parinktas kaip owner_note_path. Targetas "Romuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60509|Powierski J]]: J. Powierski cituojamas aiškinant Romovės šventojo ąžuolo ryšį su indoeuropiečių mitologiniais vaizdiniais.
 - susijęs iš [[objektai/autoriai/Иванов В. В.md#claim-t-60643|Иванов В. В]]: V. V. Ivanovo ir V. N. Toporovo tyrimai siejami su aiškinimu, kad Romovės šventasis ąžuolas buvo tridalio pasaulio medžio simbolis.
+- susijęs iš Grunau S. Preussische Chronik: S. Grunau „Preussische Chronik“ pirmasis tomas, parengtas M. Perlbacho, išleistas Leipcige 1875 m.
+- susijęs iš S. Grunau, Preussische Chronik: S. Grunau Krivį vadino Krivių Krivaičiu ir siejo šį vardą su Brutenio ir Videvučio tradicija.
+- susijęs iš S. Grunau, Preussische Chronik: S. Grunau rašė, kad Romuvoje augusiame milžiniškame ąžuole stovėjo Perkūno, Patulo ir Patrimpo stabai.
 - susijęs iš [[objektai/daiktai/Dievų trejybės stabai.md#claim-t-59681|Dievų trejybės stabai]]: S. Grunau rašė, kad Romovės ąžuolo uoksuose stovėjo dievų trejybės stabai: Perkūnas, Patulas ir Patrimpas.
 - susijęs iš [[objektai/daiktai/Šventasis ąžuolas.md#claim-t-59712|Šventasis ąžuolas]]: S. Grunau rašė, kad Romuvoje augęs milžiniškas trijų dalių šventasis ąžuolas su Perkūno, Patulo ir Patrimpo stabais.
 - susijęs iš [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė.md#claim-t-12421|Aisčių ugnies kultas ir šventoji namų ugnelė]]: Senovės Lietuvoje nėra rimtų liudijimų apie tikybos šventnamius, o šventosios ugnies pastogės, jei buvo, neišsiskyrė iš paprastų trobesių.
 - susijęs iš [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė.md#claim-t-93015|Aisčių ugnies kultas ir šventoji namų ugnelė]]: Senovės Lietuvoje žinoma keletas kulto tarnų vardų, bet nerasta jų organizacinio ryšio ar rimtų tikybos šventnamių liudijimų.
-- susijęs iš Grunau S. Preussische Chronik: S. Grunau „Preussische Chronik“ pirmasis tomas, parengtas M. Perlbacho, išleistas Leipcige 1875 m.
-- susijęs iš S. Grunau, Preussische Chronik: S. Grunau Krivį vadino Krivių Krivaičiu ir siejo šį vardą su Brutenio ir Videvučio tradicija.
-- susijęs iš S. Grunau, Preussische Chronik: S. Grunau rašė, kad Romuvoje augusiame milžiniškame ąžuole stovėjo Perkūno, Patulo ir Patrimpo stabai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,4 +85,14 @@ tags:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 218805-219144; hash=b677456519ae0e81499fda768b4704a3d4805fda8b570320a95cd9b86e6798ad; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Romuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: S. Grunau: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Romuva: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "S. Grunau" parinktas kaip owner_note_path. Targetas "Romuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001

@@ -39,7 +39,7 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
 - t-001
   global_id: t-41495
   teiginys: 'Antoine’as Gramont’as rašė, kad totoriai Lietuvoje valdė laisvuosius dvarus ir sudarė lengvąją raitiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva'
+  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]'
   temporaliniai_duomenys: 'įvykio data: 1700 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -50,7 +50,7 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   global_id: t-41496
   teiginys: 'Antoine’o Gramont’o 1663-1664 m. pasakojimo ištrauka aprašo totorius Lietuvos kariuomenėje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie šaltinio objektą ir paremtas citatos antraštiniu sakiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/flangas|flangas]]; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/flangas|flangas]]; mentioned_place: Prancūzija'
   temporaliniai_duomenys: 'įvykio data: 1663-1664; įvykio data: 1664 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie šaltinio objektą ir paremtas citatos antraštiniu sakiniu.'
@@ -117,4 +117,24 @@ Cituojama „Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėj
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=69785add90e52ed0d04f0f7759858ebb2d84596e79d52157b7a3344122ad0845; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
+  ryšio_patikimumas: valde_teritorija -> Lietuva: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_control_local_territory
+  ryšio_subjekto_parinkimas: Totoriai: nearest_actor, group, gap=19
+  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_control_local_territory". Subjektas "Totoriai" parinktas kaip nearest_actor. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "valde_teritorija". Patikimumą lėmė: single_candidate_target, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 567260-567526; hash=33d4007d40fc0215608ac01ac408614a5731bfaf91fe84faae55934e2f73a63f; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėje: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=69
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėje" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

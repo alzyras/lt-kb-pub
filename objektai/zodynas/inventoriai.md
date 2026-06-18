@@ -23,6 +23,9 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys perrašytas glaustai.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 939666-939940; hash=1447dd56863e6c3e7ed265bfe94f76dd7623be7a9bbe34a078b74b235a62ff53; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-72699"></a>
 - t-002
@@ -31,9 +34,12 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir neaiški nuoroda „tam tikslui“.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=700b4504004446d43abb23c3cc737fe327e5be27119dfe9ec54005756d02fd27; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+- susijęs iš Lietuvos inventoriai XVII amž: Rinkinys „Lietuvos inventoriai XVII amž.“ buvo sudarytas drauge su M. Juču ir išleistas 1962 m.
 - susijęs iš [[objektai/autoriai/K. Jablonskis.md#claim-t-179503|K. Jablonskis]]: K. Jablonskis sudarė pirmąjį XVI–XVII a. dokumentų rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.
 - susijęs iš [[objektai/autoriai/Konstantinas Jablonskis.md#claim-t-179507|Konstantinas Jablonskis]]: Konstantinas Jablonskis sudarė pirmąjį rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.
-- susijęs iš Lietuvos inventoriai XVII amž: Rinkinys „Lietuvos inventoriai XVII amž.“ buvo sudarytas drauge su M. Juču ir išleistas 1962 m.
 - susijęs iš Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams: Jablonskis 1960 m. suredagavo „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“ ir parašė pratarmę.
 - susijęs iš Prūsija: 1960 m. buvo suredaguotas leidinys „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“.
 ## Reikšmingi paminėjimai
@@ -69,4 +75,10 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 939666-939940; hash=1447dd56863e6c3e7ed265bfe94f76dd7623be7a9bbe34a078b74b235a62ff53; match=exact
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=700b4504004446d43abb23c3cc737fe327e5be27119dfe9ec54005756d02fd27; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

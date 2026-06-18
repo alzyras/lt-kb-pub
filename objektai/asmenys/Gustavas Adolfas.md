@@ -47,6 +47,9 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
   sudarymo_pagrindimas: 'Pradinis teiginys labiau apie Karolį X Gustavą, todėl reikia aiškesnio ryšio su Gustavo Adolfo šeima.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b642bd0533417786deb54f54c80220c44e3bf408d91e2088faef2546cb9ff5af; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -77,4 +80,7 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b642bd0533417786deb54f54c80220c44e3bf408d91e2088faef2546cb9ff5af; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-001

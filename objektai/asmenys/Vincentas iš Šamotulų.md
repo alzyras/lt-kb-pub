@@ -22,9 +22,19 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sutvarkyta OCR klaida ir pašalinta nereikalinga įžanga.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_place: Braclavas; mentioned_place: Lvovas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lvovas; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_place: Braclavas; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 777639-778191; hash=f03fd7af1ace61e0e03fab1ea9f593f435bb86e9a64efbe6ee47692a3fa68cba; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lvovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vincentas iš Šamotulų: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lvovas: mention_match, place, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vincentas iš Šamotulų" parinktas kaip owner_note_path. Targetas "Lvovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186089"></a>
 - t-002
@@ -37,6 +47,16 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 779737-779952; hash=5dfb67578d5fc07bd441d9f508d908cb40d07c78684705840f5c4d8ca3b9eb52; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vežimai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vincentas iš Šamotulų: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vežimai: mention_match, thing, gap=68
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vincentas iš Šamotulų" parinktas kaip owner_note_path. Targetas "Vežimai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -74,4 +94,24 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 777639-778191; hash=f03fd7af1ace61e0e03fab1ea9f593f435bb86e9a64efbe6ee47692a3fa68cba; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lvovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vincentas iš Šamotulų: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lvovas: mention_match, place, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vincentas iš Šamotulų" parinktas kaip owner_note_path. Targetas "Lvovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 779737-779952; hash=5dfb67578d5fc07bd441d9f508d908cb40d07c78684705840f5c4d8ca3b9eb52; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vežimai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vincentas iš Šamotulų: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vežimai: mention_match, thing, gap=68
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vincentas iš Šamotulų" parinktas kaip owner_note_path. Targetas "Vežimai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

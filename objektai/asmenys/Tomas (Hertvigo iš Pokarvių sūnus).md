@@ -31,12 +31,177 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   global_id: t-60446
   teiginys: 'Kronikoje pasakojama, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas, Hertvigo iš Pokarvių sūnus, mirė ir atgijo per Viešpaties kryžiaus atskalą.'
   sudarymo_pagrindimas: 'Stebuklinį pasakojimą geriau pateikti su šaltinio pobūdį rodančia atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/atskala|atskala]]; mentioned_person: [[objektai/asmenys/Flekenšteinas|Flekenšteinas]]; mentioned_person: [[objektai/asmenys/Gebhardas|Gebhardas]]; mentioned_person: [[objektai/asmenys/Gebhardas iš Manstfeldo|Gebhardas iš Manstfeldo]]; mentioned_person: [[objektai/asmenys/Hertvigas|Hertvigas]]; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/atskala|atskala]]; mentioned_person: [[objektai/asmenys/Gebhardas iš Manstfeldo|Gebhardas iš Manstfeldo]]; mentioned_person: [[objektai/asmenys/Hertvigas|Hertvigas]]; mentioned_person: [[objektai/asmenys/Flekenšteinas|Flekenšteinas]]; mentioned_person: [[objektai/asmenys/Gebhardas|Gebhardas]]; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1322 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Stebuklinį pasakojimą geriau pateikti su šaltinio pobūdį rodančia atribucija.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=170184d254c172318f9087ca3d80f94072f96e9d51ad620c69202cd657c943cb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gebhardas iš Manstfeldo: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gebhardas iš Manstfeldo: mention_match, person, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tomas (Hertvigo iš Pokarvių sūnus)" parinktas kaip owner_note_path. Targetas "Gebhardas iš Manstfeldo" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/autoriai/A. Plateris.md#claim-t-30527|A. Plateris]]: A. Plateris parašė straipsnį „Janulaitis mokslininkas“, publikuotą „Lietuvių enciklopedijos“ 9 tome.
+- susijęs iš [[objektai/autoriai/A. Triller.md#claim-t-60668|A. Triller]]: A. Triller kartu su H. Koeppenu parengė „Preussisches Urkundenbuch“ trečio tomo papildymus ir registrą.
+- susijęs iš [[objektai/autoriai/C. P. Woelky.md#claim-t-60682|C. P. Woelky]]: C. P. Woelky parengė leidinio „Urkundenbuch des Bisthums Culm“ pirmojo tomo pirmąją dalį.
+- susijęs iš [[objektai/autoriai/Cz. Kudzinowski.md#claim-t-97150|Cz. Kudzinowski]]: Cz. Kudzinowski parašė straipsnį „Jaćwingome w języku“, paskelbtą ABaSl I tome 1964 m.
+- susijęs iš [[objektai/autoriai/Davies N.md#claim-t-17710|Davies N]]: N. Daviesas parašė veikalo „God’s Playground: A History of Poland“ pirmąjį tomą apie Lenkijos istorijos ištakas iki 1795 m.
+- susijęs iš [[objektai/autoriai/F. Kämpfer.md#claim-t-30609|F. Kämpfer]]: F. Kämpfer parašė straipsnį „Beobachtungen zu den Sendschreiben Filofejs“, paskelbtą 1970 m. „JbGO“ 18 tome.
+- susijęs iš [[objektai/autoriai/G. F. Karpov.md#claim-t-29475|G. F. Karpov]]: G. F. Karpovas 1892 m. išleido SbRIO 35 tomą apie Lietuvos ir Lenkijos diplomatinius santykius su Maskva.
+- susijęs iš [[objektai/autoriai/I. Lappo.md#claim-t-100107|I. Lappo]]: I. Lappo 1934 m. Kaune išleido veikalo „1588 Lietuvos Statutas“ pirmojo tomo pirmąją dalį.
+- susijęs iš [[objektai/autoriai/J. Jaroszewicz.md#claim-t-30677|J. Jaroszewicz]]: J. Jaroszewicziaus „Obraz Litwy pod względem jej cywilizacji“ pirmasis tomas išėjo Vilniuje 1846 m.
+- susijęs iš [[objektai/autoriai/K. Žukas.md#claim-t-30754|K. Žukas]]: K. Žukas 1965 m. paskelbė „Prof. K. Jablonskio bibliografiją“ leidinio „Bibliotekininkystės ir bibliografijos klausimai“ IV tome.
+- susijęs iš [[objektai/autoriai/Koneczny, P.md#claim-t-30762|Koneczny, P]]: P. Koneczny 1893 m. Lvove išleido pirmąjį veikalo „Jagiełło i Witold“ tomą.
+- susijęs iš [[objektai/autoriai/Krasauskas, R.md#claim-t-30768|Krasauskas, R]]: R. Krasauskas Lietuvių enciklopedijos 18 tome paskelbė tekstą apie Medininkų diecezijos įsteigimą ir aprūpinimą.
+- susijęs iš [[objektai/autoriai/M. Gimbutienė.md#claim-t-30830|M. Gimbutienė]]: M. Gimbutienė parašė tekstą „Vidurinis geležies amžius“, publikuotą Lietuvių enciklopedijos 15 tome.
+- susijęs iš [[objektai/autoriai/M. Stryjkowski.md#claim-t-30848|M. Stryjkowski]]: M. Stryjkowskis parašė veikalą „Kronika Polska, Litewska etc.“, cituojamą 1846 m. leidimo pirmajame tome.
+- susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182797|Michał Baliński Mykolas Balinskis]]: M. Balinskis laiške Joachimui Leleveliui rašė, kad Vilniaus miesto istorijos pirmąjį tomą baigė 1825 metų pradžioje.
+- susijęs iš [[objektai/autoriai/Mykolas Balinskis.md#claim-t-55012|Mykolas Balinskis]]: Balinskis Vilniaus miesto istorijos pirmąjį tomą baigė rašyti 1825 m. pradžioje ir svarstė trijų ar keturių tomų veikalą.
+- susijęs iš [[objektai/autoriai/P. Pakarklis.md#claim-t-97205|P. Pakarklis]]: P. Pakarklis parašė straipsnį „Lietuvos Didžiųjų Kunigaikščių metraštis“, paskelbtą AkMD 3 tome 1957 m.
+- susijęs iš [[objektai/autoriai/Pauli.md#claim-t-88078|Pauli]]: Pauli savo „Prūsijos valstybės istorijos“ IV tome pateikė vertinimą, kurio Balinskis nelaikė patikimu.
+- susijęs iš [[objektai/autoriai/S. Lazutka.md#claim-t-19468|S. Lazutka]]: S. Lazutka kartu su E. Gudavičiumi parengė „Pirmojo Lietuvos Statuto“ nuorašų faksimilių leidinio pirmo tomo antrą dalį.
+- susijęs iš [[objektai/autoriai/St. Matulis.md#claim-t-30997|St. Matulis]]: St. Matulis 1961 m. LASD IV tome paskelbė darbą „Kun. prof. dr. Jonas Totoraitis“.
+- susijęs iš [[objektai/autoriai/Stryjkowski M.md#claim-t-64852|Stryjkowski M]]: M. Stryjkowskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ pirmasis tomas išleistas Varšuvoje 1846 m.
+- susijęs iš [[objektai/autoriai/U. Lewicka.md#claim-t-31019|U. Lewicka]]: U. Lewicka kartu su J. Pochodowicz redagavo „Bibliografia Regionu Białostockiego“ pirmąjį tomą.
+- susijęs iš [[objektai/autoriai/V. Bagdanavičius.md#claim-t-31021|V. Bagdanavičius]]: V. Bagdanavičius 1959 m. paskelbė kritišką LTSR istorijos pirmojo tomo įvertinimą apie sovietinę Lietuvos istoriografiją.
+- susijęs iš [[objektai/autoriai/V. J. Mansikka.md#claim-t-31028|V. J. Mansikka]]: V. J. Mansikka 1922 m. Helsinkyje paskelbė šaltinių tomą apie rytų slavų religiją.
+- susijęs iš [[objektai/autoriai/Vcl. Biržiška.md#claim-t-100121|Vcl. Biržiška]]: Vcl. Biržiška parašė veikalą „Senųjų lietuviškų knygų istorija“, kurio pirmasis tomas išleistas 1953 m. Čikagoje.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178845|Kryžiuočių ordinas]]: Kojalavičius pagoniškai Lietuvai skirtame tome lietuvių kovas su kryžiuočiais pateikė su pagarba lietuviams.
+- susijęs iš A. Horn, Tannenberg: A. Horno „Tannenberg“ paskelbtas AM 22 tome 1885 m. ir 23 tome 1886 m.
+- susijęs iš A. Prioult Un poete voyageur Guillaume de Machaut et la « Reise » de Jean VAveugle, roi de Boheme, en 1326-1329: A. Prioult „Un poete voyageur“ paskelbtas „Les Lettres Romanes“ IV tomo 1 numeryje 1950 m., p. 3-29.
+- susijęs iš A. Viskontas, Vytautas D. L. K. ir Gardelio unija: A. Viskonto darbas „Vytautas D. L. K. ir Gardelio unija“ paskelbtas leidinyje „Lietuvių Tauta“, IV tome.
+- susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): Kojelavičiaus „Lietuvos istorijos“ pirmasis tomas išėjo 1650 m. Gdanske, o antrasis - 1669 m. Antverpene.
+- susijęs iš Arimo įrankiai Lietuvoje feodalizmo laikotarpyje: P. Dundulienės „Arimo įrankiai Lietuvoje feodalizmo laikotarpyje“ paskelbtas VUMD 2 tome 1955 m., p. 148-168.
+- susijęs iš B. Dundulis, Žemaičių sukilimai prieš teutoniškuosius pavergėjus 1401 ir 1409 m: B. Dundulio „Žemaičių sukilimai prieš teutoniškuosius pavergėjus 1401 ir 1409 m.“ paskelbtas VUMD 6 tome 1955 m.
+- susijęs iš Badania archeologiczne na Litwie w latach 1955-1961: P. Kulikausko „Badania archeologiczne na Litwie w latach 1955-1961“ buvo paskelbta ABaSl II tome 1965 m., p. 203-259.
+- susijęs iš Bibliografia Historii Polski: „Bibliografia Historii Polski“ I tomo pirmoje dalyje pateikė rytų Europą liečiančių bibliografinių rinkinių ir specialių bibliografijų sąrašus.
+- susijęs iš Bibliografia Regionu Białostockiego: „Bibliografia Regionu Białostockiego“ redagavo U. Lewicka ir J. Pochodowiczius; jos pirmasis tomas išėjo Balstogėje 1964 m.
+- susijęs iš CDPr: CDPr III tomo 134 numeris nurodytas 180 puslapyje.
+- susijęs iš CDV: CDV I tomo medžiaga nurodyta 13-15 puslapiuose.
+- susijęs iš Caro vyriausybės politika kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu: Vladimirovo straipsnis „Caro vyriausybės politika kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu“ paskelbtas BBK 3 tome 1964 m.
+- susijęs iš Codex Diplomaticus Prussicus: „Codex Diplomaticus Prussicus“ I tomas išleistas Karaliaučiuje 1836 m.
+- susijęs iš DlugO: DlugO XIII tomas cituojamas nurodant 19, 48, 50, 53, 63 ir 64 puslapius.
+- susijęs iš Dzieje Unji Jagiełłonskiej: Oskaro Haleckio veikalas Dzieje Unji Jagiełłonskiej pirmu tomu išleistas Krokuvoje 1919 m.
+- susijęs iš Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów: L. Kolankowskio „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ pirmas tomas apima 1377-1499 m. ir išleistas Varšuvoje 1930 m.
+- susijęs iš Dzieje kultury polskiej: A. Brücknerio „Dzieje kultury polskiej“ I tomas išleistas Krokuvoje 1931 m.
+- susijęs iš Ewald A. L., Die Eroberung: Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas kaip Kimenavos puolimo datavimo 1278 m. šaltinis.
+- susijęs iš Ewald A. L., Die Eroberung: Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas aprašant 1279–1280 m. žiemos puolimą.
+- susijęs iš Ewald A. L., Die Eroberung: Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas kaip šaltinis Sembos puolimui 1280 m. vėlyvą rudenį datuoti.
+- susijęs iš Ghillebert de Lannoy. Dvi jo kelionės Lietuvon Vytauto Didžiojo laikais (1413-14 ir 1421 metais): „Ghillebert de Lannoy. Dvi jo kelionės Lietuvon Vytauto Didžiojo laikais“ išspausdintas „Praeities“ II tome 1933 m., p. 94–157.
+- susijęs iš H. Paszkiewicz Ze studiów uad polityką polską, litewską i krzyżacką Bolesława-Jerzego, ostatniego księcia Rusi halicko-włodzimierskiej: H. Paszkiewicziaus „Ze studiów nad polityką polską, litewską i krzyżacką Bolesława-Jerzego“ paskelbta AW 2 tome 1924 m., p. 31–67.
+- susijęs iš Hanul, namiestnik wileński i jego ród: Wb. Semkowicziaus „Hanul, namiestnik wileński i jego ród“ paskelbta AW 7 tome 1930 m., p. 1–20.
+- susijęs iš Historia Pomorza: „Historia Pomorza“ pirmojo tomo pirmąją dalį iki 1466 m. redagavo G. Labuda, ji išleista Poznanėje 1969 m.
+- susijęs iš Issledovanie archeologičeskich pamiatnikov Litvy: P. Kulikausko „Issledovanie archeologičeskich pamiatnikov Litvy“ paskelbta 1952 m. leidinio „Kratkie soobščenija“ 42 tome.
+- susijęs iš Istorija Ukrajiny-Rusy: M. Hruševskio „Istorija Ukrajiny-Rusy“ 4 tomas antruoju leidimu išėjo 1907 m., o 5–6 tomai – Kijeve ir Lvove 1905–1907 m.
+- susijęs iš J. Caro, Geschichte Polens: J. Caro veikalo „Geschichte Polens“ III tomas buvo išleistas 1869 m.
+- susijęs iš J. Caro, Geschichte Polens: J. Caro „Geschichte Polens“ III tomas buvo išleistas 1869 m.
+- susijęs iš J. Dąbrowski, Rozbiór krytyczny Annalium Poloniae Jana Długosza z lat 1385-1444: J. Dąbrowskio „Rozbiór krytyczny Annalium Poloniae Jana Długosza z lat 1385–1444“ I tomas išleistas Vroclave, Varšuvoje ir Krokuvoje 1961 m.
+- susijęs iš J. Jakštas, Dlugošas apie Žalgirio mūšį: J. Jakšto „Dlugošas apie Žalgirio mūšį“ 1960 m. išspausdintas TaPr I tomo 2 numeryje, p. 165–181.
+- susijęs iš Jadwyga d’Anjou: „Jadwyga d’Anjou“ nurodyta kaip Lietuvos enciklopedijos 9 tomo straipsnis, apimantis 244-249 puslapius.
+- susijęs iš Jagiełło i Witold: P. Koneczny veikalo „Jagiełło i Witold“ I tomas buvo išleistas Lvove 1893 m.
+- susijęs iš Johanneso Voigto Prūsijos istorija, V tomas: Balińskis pataisytą žygio į Vilnių aprašymą grindė Johanneso Voigto Prūsijos istorijos V tomu ir Ignaco Onacevičiaus pastabomis.
+- susijęs iš K. Forstreuter Die Bekehrung des Litauerkönigs Gedimin. Eine Streitfrage: K. Forstreuterio „Die Bekehrung des Litauerkönigs Gedimin. Eine Streitfrage“ 1955 m. buvo išspausdintas „Jahrbuch der Albertus-Universität zu Königsberg“ 6 tome.
+- susijęs iš Karo Archyvas: 1925 m. Kaune išleisto „Karo archyvo“ 11 tome buvo paskelbtas tekstas „Sukilėlių pulkai“.
+- susijęs iš Koehler, gener., Entwicklung des Kriegswesens und der Kriegsführung in der Ritterzeit: Koehlerio „Entwicklung des Kriegswesens und der Kriegsführung in der Ritterzeit“ antrasis tomas išleistas Breslau 1886 m.
+- susijęs iš Kołzebue A. Preußens ältere Geschichte: A. Kołzebue veikalo „Preußens ältere Geschichte“ antrasis tomas išleistas Rygoje 1808 m.
+- susijęs iš Kronika Polska litewska żmódzka y wszystkiey Rusi Kijowskiey: M. Stryjkovskio „Kronika Polska, Litewska“ 1846 m. leidimo I tome aptariama 370–372 puslapiuose.
+- susijęs iš Kuzavinis К. Etymologica: K. Kuzavinio „Etymologica“ paskelbta 1966 m. žurnalo „Baltistica“ 1 tomo 2 numeryje, p. 177–184.
+- susijęs iš Kuzavinis К. Garbus— jotvingiškas žodis: K. Kuzavinio „Garbus – jotvingiškas žodis“ paskelbta 1968 m. „Baltistica“ 4 tomo 1 numeryje, p. 65–67.
+- susijęs iš Lietuviškoji enciklopedija: Aštuntasis „Lietuviškosios enciklopedijos“ tomas išleistas Kaune 1940 m.
+- susijęs iš Lietuviškoji tarybinė enciklopedija: Trečiasis „Lietuviškosios tarybinės enciklopedijos“ tomas išleistas 1978 m.
+- susijęs iš Lietuvių kalbos žodynas: Šeštasis „Lietuvių kalbos žodyno“ tomas išleistas 1962 m.
+- susijęs iš Lietuvių kultūros-švietimo draugijos 1905-1907 metų revoliucijos ir Stolypino reakcijos metais: „Lietuvių kultūros-švietimo draugijos 1905-1907 metų revoliucijos ir Stolypino reakcijos metais“ paskelbta BBK 2 tome 1962 m.
+- susijęs iš Lietuvių nacionalinio judėjimo periodizavimo klausimu: „Lietuvių nacionalinio judėjimo periodizavimo klausimu“ paskelbta žurnalo „Problemos“ 2 tome 1968 m., 86-97 puslapiuose.
+- susijęs iš Lietuvos Didžiųjų Kunigaikščių metraštis: „Lietuvos Didžiųjų Kunigaikščių metraštis“ paskelbtas AkMD 3 tome 1957 m., p. 111-120.
+- susijęs iš Lietuvos TSR Istorijos Šaltiniai: Pirmasis „Lietuvos TSR istorijos šaltinių“ tomas išleistas Vilniuje 1955 m.
+- susijęs iš Lietuvos TSR archeologijos atlasas: Antrasis „Lietuvos TSR archeologijos atlaso“ tomas apie piliakalnius išleistas Vilniuje 1975 m.
+- susijęs iš Lietuvos TSR istorija: Pirmasis „Lietuvos TSR istorijos“ tomas išleistas Vilniuje 1957 m.
+- susijęs iš Likimo keliais: „Likimo keliais“ II dalis išleista kaip Vinco Krėvės raštų VIII tomo dalis su V. Bičiūno pastabomis ir komentarais.
+- susijęs iš Lites ac res gestae inter Polonos et Ordinemque cruciferorum: „Lites ac res gestae inter Polonos et Ordinemque cruciferorum“ pirmasis tomas išleistas Poznanėje 1890 m.
+- susijęs iš Lites: Racionžo susitarimų dokumentai buvo išspausdinti leidinio „Lites“ antrajame tome 1892 m.
+- susijęs iš M. Stryjkowski Kronika Polska, Litewska etc: M. Stryjkowskio „Kronika Polska, Litewska etc.“ I tomas cituojamas 1846 m. leidimo 370–372 puslapiuose.
+- susijęs iš Massalski R. Zamek elbląski w świetle badań architektonicznych: R. Massalskio „Zamek elbląski w świetle badań architektonicznych“ paskelbtas „Rocznik Elbląski“ 8 tome 1979 m., p. 39–87.
+- susijęs iš Mažiulis V. Dėl Neringos vardo: V. Mažiulio „Dėl Neringos vardo“ paskelbtas „Lietuvių kalbotyros klausimų“ 3 tome 1960 m., p. 301–315.
+- susijęs iš Mažiulis V. Selonįca: V. Mažiulio „Selonįca“ paskelbta „Baltistica“ 1981 m. 17 tomo 1 numeryje, p. 7–12.
+- susijęs iš Mažiulis V. Seniausias baltų rašto paminklas: V. Mažiulio „Seniausias baltų rašto paminklas“ paskelbtas „Baltistica“ 1975 m. 11 tomo 2 numeryje.
+- susijęs iš Michael Küchmeister. Hochmeister des Deutschen Ordens 1414-1422: W. Nöbelio veikalas „Michael Küchmeister. Hochmeister des Deutschen Ordens 1414-1422“ minimas kaip 1969 m. penktojo tomo publikacija.
+- susijęs iš Naujausių Proistorinių Tyrinėjimų Duomens: J. Puzino „Naujausių Proistorinių Tyrinėjimų Duomens“ išleistas Kaune 1938 m. kaip atspaudas iš „Senovės“ 4 tomo.
+- susijęs iš O drevuejšich kul’turnych oblastjach na territorii Litvy: R. Jablonskytė-Rimantienė straipsnį „O drevuejšich kul’turnych oblastjach na territorii Litvy“ paskelbė 1955 m. žurnalo „Sovetskaja Etnografija“ 3 tome.
+- susijęs iš Obraz Litwy pod względem jej cywilizacji: J. Jaroszewicziaus „Obraz Litwy pod względem jej cywilizacji“ pirmasis tomas išleistas Vilniuje 1846 m.
+- susijęs iš Otrębski J. Gramatyka języka litewskiego: J. Otrębskio „Gramatyka języka litewskiego“ pirmasis tomas išleistas Varšuvoje 1958 m.
+- susijęs iš P. Rėklaitis Lietuvos senoji kartografija: P. Rėklaičio „Lietuvos senoji kartografija“ paskelbta „Tautos Praeities“ II tomo 1 dalyje, Romoje 1964 m., p. 64-76.
+- susijęs iš Pollakówna M. Galindia: M. Pollakównos straipsnis „Galindia“ paskelbtas SSS 2 tomo 1 dalyje, 1964 m. Vroclave, Varšuvoje ir Krokuvoje, p. 78–79.
+- susijęs iš Polnoje sobranije Russkich letopisej: „Polnoje sobranije Russkich letopisej“ XVII tomą 1907 m. Sankt Peterburge išleido Imperatoriškoji archeologijos komisija.
+- susijęs iš Powierski J. Chronologia początków Malborka: J. Powierskio straipsnis „Chronologia początków Malborka“ paskelbtas 1979 m. ZHPB 44 tomo 2 sąsiuvinyje.
+- susijęs iš Powierski J. Hugo Butyr Fragment stosunków polsko-niderlandzkich w XII w: J. Powierskio straipsnis „Hugo Butyr: Fragment stosunków polsko-niderlandzkich w XII w.“ paskelbtas 1972 m. ZHPB 37 tomo 2 sąsiuvinyje.
+- susijęs iš Powierski J. Prusowie, Prusy: J. Powierskio tekstas „Prusowie, Prusy“ paskelbtas SSS 4 tomo 1 dalyje, 368–371 puslapiuose.
+- susijęs iš Powierski J. Rec. Marija Gimbutas, The Balts: J. Powierskio recenzija Marijos Gimbutas knygai „The Balts“ paskelbta 1966 m. Torunėje, ZHP 31 tomo 2 sąsiuvinyje.
+- susijęs iš Powierski J. Uwagi o starożytnych dziejach ziem pruskich: J. Powierskio straipsnis „Uwagi o starożytnych dziejach ziem pruskich“ paskelbtas 1976 m. ZHPB 41 tomo 4 sąsiuvinyje.
+- susijęs iš Pradinis švietimas Lietuvoje iki trečiojo padalinimo (1795 m.): „Pradinis švietimas Lietuvoje iki trečiojo padalinimo (1795 m.)“ 1971 m. paskelbtas „Lietuvių Tautos Praeities“ III tomo 1 numeryje.
+- susijęs iš Prekyba Nemunu iki 1430. Pirmųjų Gediminaičių laikų Lietuvos prekybiniai ryšiai su Vakarais: J. Remeikos „Prekyba Nemunu iki 1430“ 1962 m. paskelbta „Tautos Praeities“ I tomo 4 numeryje.
+- susijęs iš Preussisches Urkundenbuch Politische Abtheilung: Pirmasis „Preussisches Urkundenbuch: Politische Abtheilung“ tomas apima 1140–1309 m. dokumentus.
+- susijęs iš Prūsų kalba: „Prūsų kalba“ nurodyta kaip MLTE 1968 m. antro tomo 935–936 puslapių publikacija.
+- susijęs iš Regesta Lithnaniae: H. Paszkiewicziaus Regesta Lithnaniae I tomas išleistas Varšuvoje 1930 m. ir apima medžiagą iki 1315 m.
+- susijęs iš Regesta Lithuaniae: „Regesta Lithuaniae“ pirmą tomą parengė H. Paszkiewiczius, jis išleistas Varšuvoje 1930 m.
+- susijęs iš S. Ekdahl, Der Krieg zwischen dem Deutschen Orden und Polen-Litauen im Jahre 1422: S. Ekdahlio „Der Krieg zwischen dem Deutschen Orden und Polen-Litauen im Jahre 1422“ paskelbta „ZfO“ 13 tome 1964 m., p. 614-651.
+- susijęs iš Senovės baltų žemdirbystės technikos klausimu: J. Antonevičiaus „Senovės baltų žemdirbystės technikos klausimu“ išspausdintas ILKI 4 tome 1964 m., p. 164-170.
+- susijęs iš Senųjų lietuviškų knygų istorija: Vaclovas Biržiška „Senųjų lietuviškų knygų istorijos“ I tomą išleido Čikagoje 1953 m.
+- susijęs iš Sokolovski, Dr. Pr. Aug., Dzieje Polski, tom. II: Dr. Pr. Aug. Sokolovskio „Dzieje Polski“ antrasis tomas buvo išleistas Varšuvoje 1900 m.
+- susijęs iš St. Kujot, Wojna 1410: St. Kujoto „Wojna 1410“ publikuota „Rocznik Towarzystwa Nauk w Toruniu“ 18 tome 1911 m., p. 157–159.
+- susijęs iš Stankiewicz J. Twierdza Toruń: J. Stankiewicziaus „Twierdza Toruń“ publikuota 1972 m. ZHPB 37 tomo 4 sąsiuvinyje.
+- susijęs iš Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa, 1846: M. Stryjkowskio kronikos tomas išleistas Varšuvoje 1846 m.
+- susijęs iš Taube, M. — Klymenko, F. Die Urkunden Mindowes für den livländischen Orden: M. Taube ir F. Klymenko darbas „Die Urkunden Mindowes für den livländischen Orden“ paskelbtas AF VI tome 1929 m., p. 201-255.
+- susijęs iš Toppen M Einleitung: M. Toppeno „Einleitung“ paskelbta SRP pirmojo tomo 3–20 puslapiuose.
+- susijęs iš Urkundenbuch des Bisthums Culm Bearbeitet von C. P. Woelky. Bd. 1. Theil 1: C. P. Woelky parengto „Urkundenbuch des Bisthums Culm“ pirmojo tomo pirmoji dalis išleista Dancige 1887 m.
+- susijęs iš V. O. Ključevskij Kurs russkoj istorii: V. O. Ključevskio „Kurs russkoj istorii“ pirmasis tomas išleistas Maskvoje 1956 m.
+- susijęs iš V. Urbanavičius, XIV-XVII amžių monetos Lietuvos kapinynuose: V. Urbanavičiaus „XIV-XVII amžių monetos Lietuvos kapinynuose“ išspausdintas AkMD 24 tome 1967 m., p. 61-74.
+- susijęs iš VMPL: VMPL I tomo 693 numeris cituojamas prie susitarimo, kurį abi pusės patvirtino priesaika.
+- susijęs iš Valančius M. Raštai. T. 1: M. Valančiaus „Raštų“ pirmasis tomas išleistas Vilniuje 1972 m.
+- susijęs iš Valstiečių «veldamai» Lietuvoje XV-XVI a: „Valstiečiai «veldamai» Lietuvoje XV-XVI a.“ išspausdintas AkMD 4 tome 1958 m., p. 113-126.
+- susijęs iš Vileišio laiškai lietuviškų knygų spausdinimo klausimu: „Vileišio laiškai lietuviškų knygų spausdinimo klausimu“ paskelbti BBK 7 tome 1969 m., p. 201-214.
+- susijęs iš Vitoldiana: „Vitoldiana“ paskelbta AW 7 tome 1930 m., p. 494-504, ir siejama su Dubysos sutartimis.
+- susijęs iš Volfgango „Uwagi Historyczne“ leidinyje „Dziennik Wileński“: Profesorius Volfgangas 1816 m. „Dziennik Wileński“ IV tome išspausdino trumpą žinutę apie farmacijos būklę Lietuvoje.
+- susijęs iš Vytauto Didžiojo nuopelnai dvasinės kultūros srityje: Pr. Penkausko „Vytauto Didžiojo nuopelnai dvasinės kultūros srityje“ paskelbtas 1931 m. „Athenaeum“ II tomo 1 numeryje.
+- susijęs iš W. Semkowicz, Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi: W. Semkowicziaus „Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi“ išspausdintas KH 44 tome 1930 m., p. 348-355.
+- susijęs iš W. Zakrzewski, Bitwa pod Grunwaldem: W. Zakrzewskio darbas „Bitwa pod Grunwaldem“ paskelbtas „RTPNP“ 17 tome 1890 m., p. 11-28.
+- susijęs iš Wattenbach W. Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des dreizehnten Jahrhunderts, Bd. 2,—Berlin, 1886: W. Wattenbacho „Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des dreizehnten Jahrhunderts“ antras tomas išleistas Berlyne 1886 m.
+- susijęs iš Wcielenie Litwy do Polski w 1386: H. Łowmiańskio „Wcielenie Litwy do Polski w 1386“ išspausdintas AW 12 tome 1937 m., p. 36-145.
+- susijęs iš Werminghoee Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens: A. Werminghoee „Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens“ išspausdintas Archiv für Urkundenforschung 5 tome 1914 m., p. 21-40.
+- susijęs iš Wilhelm de Machaut i jego wiadomości do dziejów Polski i Litwy w XIV w: „Wilhelm de Machaut i jego wiadomości do dziejów Polski i Litwy w XIV w.“ paskelbta KH 43 tome 1929 m., p. 217–228.
+- susijęs iš Wnuk Kiejstuta, Jan książę drohiczyński: J. Fijałeko „Wnuk Kiejstuta, Jan książę drohiczyński“ išspausdintas KH 28 tome 1914 m., p. 181-197.
+- susijęs iš Władysław Jagiełło: St. Smolka ir Fr. Papée parengė tekstą „Władysław Jagiełło“, paskelbtą „Encyklopedja Polska“ V tomo 1 dalyje.
+- susijęs iš Z. Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų: „Kovos bruožai dėl Žemaičių ir jų sienų“ nurodytas kaip 1935 m. „Athenaeum“ VI tomo tekstas, apimantis 54–117 puslapius.
+- susijęs iš Z. Ivinskis, Vytautas Didysis istorinėje literatūroje. Svarbesnės literatūros apžvalga apie Vytautą Didįjį: Z. Ivinskio straipsnis „Vytautas Didysis istorinėje literatūroje“ paskelbtas „Athenaeum“ 1930 m., I tomo 2 sąsiuvinyje, p. 190–212.
+- susijęs iš Zajączkowski S. Jotvingių problema istoriografijoje: S. Zajączkowskio straipsnis „Jotvingių problema istoriografijoje“ paskelbtas 1941 m. leidinio „Lietuvos praeitis“ 1 tomo 2 sąsiuvinyje.
+- susijęs iš Zajączkowski S. Kaip jotvingiai buvo vadinami viduriniais amžiais: S. Zajączkowskio straipsnis „Kaip jotvingiai buvo vadinami viduriniais amžiais“ paskelbtas 1940 m. leidinio „Lietuvos praeitis“ 1 tomo 1 sąsiuvinyje.
+- susijęs iš Zajączkowski S. Uwagi nad terytorialno-plemienną strukturą Jaćwieży Na marginesie pracy J. Nalepy Jaćwięgowie: S. Zajączkowskio straipsnis „Uwagi nad terytorialno-plemienną strukturą Jaćwieży“ paskelbtas 1966 m. Torunės leidinio ZHP 31 tomo 4 sąsiuvinyje.
+- susijęs iš Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.): Zenonas Ivinskis mirė 1971 m. gruodžio 24 d., nebaigęs numatyto plano, o tomą redagavo ir spragas užpildė Paulius Jatulis.
+- susijęs iš Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.): Redakcinėje pastaboje nurodoma, kad iš trijų sumanytų Lietuvos istorijos tomų pirmasis tesiekia Vytauto Didžiojo laikus, nors buvo planuotas iki 1492 m., o įvadas liko nebaigtas.
+- susijęs iš Zientara B. Sprawy pruskie w polityce Henryka Brodatego: B. Zientaros straipsnis „Sprawy pruskie w polityce Henryka Brodatego“ paskelbtas 1976 m. ZHPB 41 tomo 4 sąsiuvinyje.
+- susijęs iš Zinkevičius Z. Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje): Z. Zinkevičiaus straipsnis „Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje)“ publikuotas 1975 m. „Baltistica“ 11 tomo 2 sąsiuvinyje.
+- susijęs iš [[objektai/saltiniai/[Nalepa J.] Polekszanie.md#claim-t-61194|[Nalepa J.] Polekszanie]]: J. Nalepos straipsnis „Polekszanie“ publikuotas SSS 1970 m. 4 tomo 1 dalyje.
+- susijęs iš [[objektai/saltiniai/[Powierski J.] Nadrowia.md#claim-t-61250|[Powierski J.] Nadrowia]]: J. Powierskio straipsnis „Nadrowia“ publikuotas SSS 1968 m. 3 tomo 2 dalyje.
+- susijęs iš [[objektai/saltiniai/[Powierski J.] Pogezania.md#claim-t-61251|[Powierski J.] Pogezania]]: J. Powierskio straipsnis „Pogezania“ publikuotas SSS 1970 m. 4 tomo 1 dalyje.
+- susijęs iš [[objektai/saltiniai/[Powierski J.] Pomezania.md#claim-t-61252|[Powierski J.] Pomezania]]: J. Powierskio „Pomezania“ nurodyta SSS 4 tomo 1 dalies 220 puslapyje.
+- susijęs iš [[objektai/saltiniai/[Powierski J.] Sambia.md#claim-t-61253|[Powierski J.] Sambia]]: J. Powierskio „Sambia“ nurodyta 1975 m. SSS 5 tomo 37-38 puslapiuose.
+- susijęs iš [[objektai/saltiniai/[Powierski J.] Sasinowie.md#claim-t-61254|[Powierski J.] Sasinowie]]: J. Powierskio „Sasinowie“ nurodyta SSS 5 tomo 74-75 puslapiuose.
+- susijęs iš [[objektai/saltiniai/[Powierski J.] Skalowia.md#claim-t-61255|[Powierski J.] Skalowia]]: J. Powierskio „Skalowia“ nurodyta SSS 5 tomo 192-193 puslapiuose.
+- susijęs iš [[objektai/saltiniai/[Powierski J.] Warmia.md#claim-t-61256|[Powierski J.] Warmia]]: J. Powierskio „Warmia“ nurodyta 1980 m. SSS VI tomo 2 dalies 329-332 puslapiuose.
+- susijęs iš [[objektai/saltiniai/[Szymański J.] Templariusze.md#claim-t-61305|[Szymański J.] Templariusze]]: J. Szymańskio straipsnis „Templariusze“ paskelbtas 1977 m. leidinio SSS šešto tomo pirmoje dalyje, 48-49 puslapiuose.
+- susijęs iš Żmudź w początkach unii polsko-litewskiej: St. Zajączkowskio „Żmudź w początkach unii polsko-litewskiej“ paskelbtas PamZH II tome 1930 m., p. 337-344.
+- susijęs iš Žemdirbystė ir žemės ūkio technika Lietuvoje XIII-XV a: „Žemdirbystė ir žemės ūkio technika Lietuvoje XIII-XV a.“ paskelbta rusų kalba su lietuviška santrauka AkMD 1 tome 1955 m., p. 57-73.
+- susijęs iš Дельбрюк Г. История военного искусства в рамках политической истории. Т. 3. Средневековье: G. Delbrücko „История военного искусства в рамках политической истории“ trečiasis tomas apie viduramžius išleistas Maskvoje 1938 m.
+- susijęs iš История Эстонской ССР. — Т. I (с древнейших времен до середины XIX века) Под редакцией А. Вассара и Г. Наана: „История Эстонской ССР“ I tomas apie laikotarpį iki XIX a. vidurio išleistas Taline 1961 m.
+- susijęs iš Полное собрание русских летописей: „Полное собрание русских летописей“ II tomas apima Ipatijaus metraštį.
+- susijęs iš Савукинас Б. К проблеме западнобалтийского субстрата в югозападной Литве: B. Савукинас straipsnis „К проблеме западнобалтийского субстрата в югозападной Литве“ paskelbtas 1966 m. žurnale „Baltistica“, 1 tomo 2 numeryje, p. 165–176.
+- susijęs iš т. II. Ипатьевская летопись (с. 1—227); Густинская летопись (с. 231—373) Изд. Археографическою комиссиею: 1843 m. Sankt Peterburge išleistame II tome paskelbtos Ipatijaus metraštis ir Gustyno metraštis.
+- susijęs iš т. XXXII. Хроники Литовская и Жмойтская, и Быховца. Летописи Баркулабовская, Аверки и Панцырного Составитель и редактор H. Н. Улащик: XXXII tome paskelbtos Lietuvos ir Žemaičių, Bychovco, Barkulabovo, Averkos ir Pancyrno kronikos bei metraščiai.
 - susijęs iš [[objektai/asmenys/Albrechtas Radvila.md#claim-t-87613|Albrechtas Radvila]]: Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54937|Aleksandras Jogailaitis]]: Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82173|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
@@ -147,49 +312,24 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179727|Švitrigaila]]: Dar neįsitvirtinus Vytautui, Švitrigaila išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179732|Švitrigaila]]: Švitrigaila, įsižeidęs dėl Vytauto iškėlimo, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114101|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: 1432 m. rugsėjo 23 d. Žygimantas Kęstutaitis leido Vilniaus miestiečiams prekiauti ir gabenti prekes be muitų Lietuvos žemėje.
-- susijęs iš [[objektai/autoriai/A. Plateris.md#claim-t-30527|A. Plateris]]: A. Plateris parašė straipsnį „Janulaitis mokslininkas“, publikuotą „Lietuvių enciklopedijos“ 9 tome.
 - susijęs iš [[objektai/autoriai/A. Prochaska.md#claim-t-47869|A. Prochaska]]: A. Prochaska parašė „Stosunki krzyżaków z Gediminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“.
 - susijęs iš [[objektai/autoriai/A. Prochaska.md#claim-t-47871|A. Prochaska]]: A. Prochaska parašė darbus „Stosunki krzyżaków z Gedyminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“.
-- susijęs iš [[objektai/autoriai/A. Triller.md#claim-t-60668|A. Triller]]: A. Triller kartu su H. Koeppenu parengė „Preussisches Urkundenbuch“ trečio tomo papildymus ir registrą.
 - susijęs iš [[objektai/autoriai/Albertas Vijūkas-Kojelavičius.md#claim-t-184456|Albertas Vijūkas-Kojelavičius]]: Albertas Vijūkas-Kojelavičius buvo Vilniaus aukštosios mokyklos profesorius ir savo veikalą skyrė jos studentams.
 - susijęs iš [[objektai/autoriai/Augustinas Mieleckis Rotundas.md#claim-t-88000|Augustinas Mieleckis Rotundas]]: Augustinas Rotundas Mieleckis dokumente įvardytas abiejų teisių daktaru, karaliaus sekretoriumi, Stakliškių seniūnu ir Vilniaus vaitu.
 - susijęs iš [[objektai/autoriai/Augustinas Mieleckis Rotundas.md#claim-t-88001|Augustinas Mieleckis Rotundas]]: 1560 m. vasario 12 d. Vilniaus vaitas Augustinas Mieleckis Rotundas Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs.
-- susijęs iš [[objektai/autoriai/C. P. Woelky.md#claim-t-60682|C. P. Woelky]]: C. P. Woelky parengė leidinio „Urkundenbuch des Bisthums Culm“ pirmojo tomo pirmąją dalį.
 - susijęs iš [[objektai/autoriai/Cz. Kudzinowski.md#claim-t-97149|Cz. Kudzinowski]]: Cz. Kudzinowski 1964 m. paskelbė darbą „Jaćwingowie w języku“ leidinyje ABaSl.
-- susijęs iš [[objektai/autoriai/Cz. Kudzinowski.md#claim-t-97150|Cz. Kudzinowski]]: Cz. Kudzinowski parašė straipsnį „Jaćwingome w języku“, paskelbtą ABaSl I tome 1964 m.
-- susijęs iš [[objektai/autoriai/Davies N.md#claim-t-17710|Davies N]]: N. Daviesas parašė veikalo „God’s Playground: A History of Poland“ pirmąjį tomą apie Lenkijos istorijos ištakas iki 1795 m.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102844|Dusburgas]]: Dusburgas trumpai paminėjo, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102846|Dusburgas]]: Dusburgas pranešė, kad Gedimino pasiuntinys paneigė valdovo valia siųstus laiškus dėl krikšto.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102856|Dusburgas]]: Dusburgas trumpai užsiminė, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus.
 - susijęs iš [[objektai/autoriai/Epitomatorius.md#claim-t-88045|Epitomatorius]]: Epitomatorius nurodė, kad Rygos miestiečiai ir arkivyskupas skelbė apie lietuvių ir rutėnų valdovų norą priimti krikštą.
-- susijęs iš [[objektai/autoriai/F. Kämpfer.md#claim-t-30609|F. Kämpfer]]: F. Kämpfer parašė straipsnį „Beobachtungen zu den Sendschreiben Filofejs“, paskelbtą 1970 m. „JbGO“ 18 tome.
-- susijęs iš [[objektai/autoriai/G. F. Karpov.md#claim-t-29475|G. F. Karpov]]: G. F. Karpovas 1892 m. išleido SbRIO 35 tomą apie Lietuvos ir Lenkijos diplomatinius santykius su Maskva.
 - susijęs iš [[objektai/autoriai/Grzybowski.md#claim-t-81900|Grzybowski]]: Balińskis atmetė Grzybowskio pasakojimą apie tariamą Goštauto vienuolystę ir vyskupystę kaip tikriausiai prasimanytą.
 - susijęs iš [[objektai/autoriai/Gurnickis.md#claim-t-88091|Gurnickis]]: Gurnickis paminėjo, kad 1540 m. Vilniuje džiaugtasi žinia apie karaliaus Jono sūnaus gimimą.
-- susijęs iš [[objektai/autoriai/I. Lappo.md#claim-t-100107|I. Lappo]]: I. Lappo 1934 m. Kaune išleido veikalo „1588 Lietuvos Statutas“ pirmojo tomo pirmąją dalį.
 - susijęs iš [[objektai/autoriai/Ignas Danilavičius.md#claim-t-81908|Ignas Danilavičius]]: Ignas Danilavičius pirmasis lenkų kalba sudarė Lietuvos istorijai reikalingų dokumentų ir regestų rinkinį.
-- susijęs iš [[objektai/autoriai/J. Jaroszewicz.md#claim-t-30677|J. Jaroszewicz]]: J. Jaroszewicziaus „Obraz Litwy pod względem jej cywilizacji“ pirmasis tomas išėjo Vilniuje 1846 m.
 - susijęs iš [[objektai/autoriai/K. Jablonskis.md#claim-t-179502|K. Jablonskis]]: K. Jablonskis Baltarusijos TSR Mokslų Akademijos pavedimu suredagavo ir išleido 1529 m. Pirmąjį Lietuvos Statutą.
-- susijęs iš [[objektai/autoriai/K. Žukas.md#claim-t-30754|K. Žukas]]: K. Žukas 1965 m. paskelbė „Prof. K. Jablonskio bibliografiją“ leidinio „Bibliotekininkystės ir bibliografijos klausimai“ IV tome.
-- susijęs iš [[objektai/autoriai/Koneczny, P.md#claim-t-30762|Koneczny, P]]: P. Koneczny 1893 m. Lvove išleido pirmąjį veikalo „Jagiełło i Witold“ tomą.
 - susijęs iš [[objektai/autoriai/Konstantinas Jablonskis.md#claim-t-179508|Konstantinas Jablonskis]]: Konstantinas Jablonskis iš senosios Lietuvos valstybės raštinių kalbos išrinko 299 lietuviškus žodžius ir 1941 m. išleido šaltinių ištraukų rinkinį.
-- susijęs iš [[objektai/autoriai/Krasauskas, R.md#claim-t-30768|Krasauskas, R]]: R. Krasauskas Lietuvių enciklopedijos 18 tome paskelbė tekstą apie Medininkų diecezijos įsteigimą ir aprūpinimą.
-- susijęs iš [[objektai/autoriai/M. Gimbutienė.md#claim-t-30830|M. Gimbutienė]]: M. Gimbutienė parašė tekstą „Vidurinis geležies amžius“, publikuotą Lietuvių enciklopedijos 15 tome.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172914|M. Strijkovskis Stryjkowski]]: Strijkovskis neužsiminė apie tariamą Goštauto vienuolystę ir vyskupystę, todėl ši aplinkybė tekste atmetama.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172936|M. Strijkovskis Stryjkowski]]: Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors šis tapatinimas laikomas klaidingu.
-- susijęs iš [[objektai/autoriai/M. Stryjkowski.md#claim-t-30848|M. Stryjkowski]]: M. Stryjkowskis parašė veikalą „Kronika Polska, Litewska etc.“, cituojamą 1846 m. leidimo pirmajame tome.
-- susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182797|Michał Baliński Mykolas Balinskis]]: M. Balinskis laiške Joachimui Leleveliui rašė, kad Vilniaus miesto istorijos pirmąjį tomą baigė 1825 metų pradžioje.
-- susijęs iš [[objektai/autoriai/Mykolas Balinskis.md#claim-t-55012|Mykolas Balinskis]]: Balinskis Vilniaus miesto istorijos pirmąjį tomą baigė rašyti 1825 m. pradžioje ir svarstė trijų ar keturių tomų veikalą.
-- susijęs iš [[objektai/autoriai/P. Pakarklis.md#claim-t-97205|P. Pakarklis]]: P. Pakarklis parašė straipsnį „Lietuvos Didžiųjų Kunigaikščių metraštis“, paskelbtą AkMD 3 tome 1957 m.
-- susijęs iš [[objektai/autoriai/Pauli.md#claim-t-88078|Pauli]]: Pauli savo „Prūsijos valstybės istorijos“ IV tome pateikė vertinimą, kurio Balinskis nelaikė patikimu.
 - susijęs iš [[objektai/autoriai/Pskovo metraštininkas.md#claim-t-88081|Pskovo metraštininkas]]: Pskovo metraštininkas minėjo pskoviečių pasiuntinybę pas Vytautą.
-- susijęs iš [[objektai/autoriai/S. Lazutka.md#claim-t-19468|S. Lazutka]]: S. Lazutka kartu su E. Gudavičiumi parengė „Pirmojo Lietuvos Statuto“ nuorašų faksimilių leidinio pirmo tomo antrą dalį.
-- susijęs iš [[objektai/autoriai/St. Matulis.md#claim-t-30997|St. Matulis]]: St. Matulis 1961 m. LASD IV tome paskelbė darbą „Kun. prof. dr. Jonas Totoraitis“.
-- susijęs iš [[objektai/autoriai/Stryjkowski M.md#claim-t-64852|Stryjkowski M]]: M. Stryjkowskio „Kronika polska, litewska, żmódzka i wszystkiej Rusi“ pirmasis tomas išleistas Varšuvoje 1846 m.
-- susijęs iš [[objektai/autoriai/U. Lewicka.md#claim-t-31019|U. Lewicka]]: U. Lewicka kartu su J. Pochodowicz redagavo „Bibliografia Regionu Białostockiego“ pirmąjį tomą.
-- susijęs iš [[objektai/autoriai/V. Bagdanavičius.md#claim-t-31021|V. Bagdanavičius]]: V. Bagdanavičius 1959 m. paskelbė kritišką LTSR istorijos pirmojo tomo įvertinimą apie sovietinę Lietuvos istoriografiją.
-- susijęs iš [[objektai/autoriai/V. J. Mansikka.md#claim-t-31028|V. J. Mansikka]]: V. J. Mansikka 1922 m. Helsinkyje paskelbė šaltinių tomą apie rytų slavų religiją.
-- susijęs iš [[objektai/autoriai/Vcl. Biržiška.md#claim-t-100121|Vcl. Biržiška]]: Vcl. Biržiška parašė veikalą „Senųjų lietuviškų knygų istorija“, kurio pirmasis tomas išleistas 1953 m. Čikagoje.
 - susijęs iš [[objektai/autoriai/W. Kuraszkiewicz.md#claim-t-31064|W. Kuraszkiewicz]]: W. Kuraszkiewiczius 1955 m. Varšuvoje paskelbė darbą apie spėjamą jotvingių pėdsaką Palenkėje.
 - susijęs iš [[objektai/daiktai/Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste.md#claim-t-87021|Bažnyčios su bažnytiniais sakramentais Livonijos Dorpato kontekste]]: Kunigaikštystėje buvo apiplėšti ir sudeginti ištisi kaimai bei dešimtys bažnyčių, o paimtų į nelaisvę žmonių skaičius siekė apie 9000.
 - susijęs iš [[objektai/daiktai/Elžbietos ir Barboros marmuro antkapiai Šv. Stanislovo bažnyčioje.md#claim-t-87076|Elžbietos ir Barboros marmuro antkapiai Šv. Stanislovo bažnyčioje]]: Italų meistrai per šešerius metus Šv. Stanislovo bažnyčioje pastatė marmuro antkapius Elžbietai ir Barborai.
@@ -223,7 +363,6 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116732|Katalikų Bažnyčia]]: Testamente pareikšta ištikimybė Katalikų Bažnyčiai ir Romos tikėjimui, priimant išpažinties, Eucharistijos ir patepimo sakramentus.
 - susijęs iš [[objektai/grupes/Kiršenšteinai.md#claim-t-86799|Kiršenšteinai]]: Kiršenšteinų giminė, vėliau gavusi pilietybę, keletą šimtmečių valdė Raudonės pilį.
 - susijęs iš [[objektai/grupes/Krymo orda.md#claim-t-86728|Krymo orda]]: Krymo chano sūnūs su 20 000 totorių, pakeliui plėšdami ir degindami, priartėjo prie Lydos.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178845|Kryžiuočių ordinas]]: Kojalavičius pagoniškai Lietuvai skirtame tome lietuvių kovas su kryžiuočiais pateikė su pagarba lietuviams.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178880|Kryžiuočių ordinas]]: 1323 m. Liubeke dėl tariamų Gedimino laiškų nutarta kreiptis patarimo į tuo metu mieste buvusius Ordino riterius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178916|Kryžiuočių ordinas]]: Švitrigaila išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą Vytautą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178962|Kryžiuočių ordinas]]: Konrado Valenrodo šlovė ir Ordino iškėlimas į didžiuosius magistrus subūrė gausius kryžininkų pulkus žygiui į Lietuvą.
@@ -332,164 +471,35 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
 - susijęs iš 1547 m. Žygimanto Augusto privilegija Martynui Paleckiui dėl stiklo liejyklos: Už karaliaus dovanotą žemę Martynas Paleckis turėjo kasmet pristatyti į Vilniaus karališkuosius rūmus po 200 didžiųjų ir mažesniųjų Kurovo stiklinių.
 - susijęs iš 1576 m. gruodžio 20 d. Stepono Batoro laiškas Mikalojui Radvilai dėl muitų, Czopowe ir Szosowe mokesčių: 1576 m. gruodžio 20 d. Steponas Batoras reikalavo, kad Mikalojus Radvila skatintų mokėti muitus ir iš Vilniaus miestiečių išreikalautų Czopowe bei Szosowe mokesčius.
 - susijęs iš 1581 m. apaštališkojo nuncijaus patvirtinimas dėl Jus Patronatus: 1581 m. liepos 7 d. apaštališkasis nuncijus Jonas Andrius patvirtino Vilniaus kapitulos rektoriams perleistas Jus Patronatus teises.
-- susijęs iš A. Horn, Tannenberg: A. Horno „Tannenberg“ paskelbtas AM 22 tome 1885 m. ir 23 tome 1886 m.
-- susijęs iš A. Prioult Un poete voyageur Guillaume de Machaut et la « Reise » de Jean VAveugle, roi de Boheme, en 1326-1329: A. Prioult „Un poete voyageur“ paskelbtas „Les Lettres Romanes“ IV tomo 1 numeryje 1950 m., p. 3-29.
 - susijęs iš A. Vijūko-Kojelavičiaus Lietuvos istorija: A. Vijūko-Kojelavičiaus Lietuvos istorijos p. 270 minimas Gedimino 1323-1324 m. įsiveržimas į Mazoviją ir Dobrynės žemę.
-- susijęs iš A. Viskontas, Vytautas D. L. K. ir Gardelio unija: A. Viskonto darbas „Vytautas D. L. K. ir Gardelio unija“ paskelbtas leidinyje „Lietuvių Tauta“, IV tome.
-- susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): Kojelavičiaus „Lietuvos istorijos“ pirmasis tomas išėjo 1650 m. Gdanske, o antrasis - 1669 m. Antverpene.
-- susijęs iš Arimo įrankiai Lietuvoje feodalizmo laikotarpyje: P. Dundulienės „Arimo įrankiai Lietuvoje feodalizmo laikotarpyje“ paskelbtas VUMD 2 tome 1955 m., p. 148-168.
-- susijęs iš B. Dundulis, Žemaičių sukilimai prieš teutoniškuosius pavergėjus 1401 ir 1409 m: B. Dundulio „Žemaičių sukilimai prieš teutoniškuosius pavergėjus 1401 ir 1409 m.“ paskelbtas VUMD 6 tome 1955 m.
-- susijęs iš Badania archeologiczne na Litwie w latach 1955-1961: P. Kulikausko „Badania archeologiczne na Litwie w latach 1955-1961“ buvo paskelbta ABaSl II tome 1965 m., p. 203-259.
-- susijęs iš Bibliografia Historii Polski: „Bibliografia Historii Polski“ I tomo pirmoje dalyje pateikė rytų Europą liečiančių bibliografinių rinkinių ir specialių bibliografijų sąrašus.
-- susijęs iš Bibliografia Regionu Białostockiego: „Bibliografia Regionu Białostockiego“ redagavo U. Lewicka ir J. Pochodowiczius; jos pirmasis tomas išėjo Balstogėje 1964 m.
 - susijęs iš Bielskio metraščiai: Bielskis savo metraščiuose kritikavo Aleksandrą Balinskį dėl karaliaus Aleksandro gydymo Vilniuje žolių garo vonia.
 - susijęs iš Bohuszo Summaryusz Aktów Kapituły Wileńskiej: Bohuszo „Summaryusz Aktów Kapituły Wileńskiej“ mini, kad 1556 m. naujosios sektos tapo reformos šalininkų prieglobsčiu ir mokykla.
-- susijęs iš CDPr: CDPr III tomo 134 numeris nurodytas 180 puslapyje.
-- susijęs iš CDV: CDV I tomo medžiaga nurodyta 13-15 puslapiuose.
-- susijęs iš Caro vyriausybės politika kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu: Vladimirovo straipsnis „Caro vyriausybės politika kultūros-švietimo srityje Lietuvoje 1871-1904 m. laikotarpiu“ paskelbtas BBK 3 tome 1964 m.
-- susijęs iš Codex Diplomaticus Prussicus: „Codex Diplomaticus Prussicus“ I tomas išleistas Karaliaučiuje 1836 m.
-- susijęs iš DlugO: DlugO XIII tomas cituojamas nurodant 19, 48, 50, 53, 63 ir 64 puslapius.
-- susijęs iš Dzieje Unji Jagiełłonskiej: Oskaro Haleckio veikalas Dzieje Unji Jagiełłonskiej pirmu tomu išleistas Krokuvoje 1919 m.
-- susijęs iš Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów: L. Kolankowskio „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ pirmas tomas apima 1377-1499 m. ir išleistas Varšuvoje 1930 m.
-- susijęs iš Dzieje kultury polskiej: A. Brücknerio „Dzieje kultury polskiej“ I tomas išleistas Krokuvoje 1931 m.
-- susijęs iš Ewald A. L., Die Eroberung: Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas kaip Kimenavos puolimo datavimo 1278 m. šaltinis.
-- susijęs iš Ewald A. L., Die Eroberung: Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas aprašant 1279–1280 m. žiemos puolimą.
-- susijęs iš Ewald A. L., Die Eroberung: Ewaldo veikalo „Die Eroberung“ 4 tomas nurodomas kaip šaltinis Sembos puolimui 1280 m. vėlyvą rudenį datuoti.
 - susijęs iš Gedimino laiškas Hanzos miestams ir Gotlando pirkliams (1323 m.): Gedimino laiške skelbiama, kad jo žemė pirkliams, riteriams ir vasalams yra laisva nuo muitų ir kelio prievolių.
 - susijęs iš Generalinis potvarkis dėl lietuviškų monetų: Potvarkis numatė, kad 1558-1565 m. nukaldintos lietuviškos monetos galės būti keičiamos kalykloje pagal nustatytą kainą.
 - susijęs iš Generalinis potvarkis dėl lietuviškų monetų: Žygimantas Augustas įsakė lietuviškus grašius imti po pustrečio lenkiško grašio už du lietuviškus grašius.
-- susijęs iš Ghillebert de Lannoy. Dvi jo kelionės Lietuvon Vytauto Didžiojo laikais (1413-14 ir 1421 metais): „Ghillebert de Lannoy. Dvi jo kelionės Lietuvon Vytauto Didžiojo laikais“ išspausdintas „Praeities“ II tome 1933 m., p. 94–157.
-- susijęs iš H. Paszkiewicz Ze studiów uad polityką polską, litewską i krzyżacką Bolesława-Jerzego, ostatniego księcia Rusi halicko-włodzimierskiej: H. Paszkiewicziaus „Ze studiów nad polityką polską, litewską i krzyżacką Bolesława-Jerzego“ paskelbta AW 2 tome 1924 m., p. 31–67.
-- susijęs iš Hanul, namiestnik wileński i jego ród: Wb. Semkowicziaus „Hanul, namiestnik wileński i jego ród“ paskelbta AW 7 tome 1930 m., p. 1–20.
-- susijęs iš Historia Pomorza: „Historia Pomorza“ pirmojo tomo pirmąją dalį iki 1466 m. redagavo G. Labuda, ji išleista Poznanėje 1969 m.
-- susijęs iš Issledovanie archeologičeskich pamiatnikov Litvy: P. Kulikausko „Issledovanie archeologičeskich pamiatnikov Litvy“ paskelbta 1952 m. leidinio „Kratkie soobščenija“ 42 tome.
-- susijęs iš Istorija Ukrajiny-Rusy: M. Hruševskio „Istorija Ukrajiny-Rusy“ 4 tomas antruoju leidimu išėjo 1907 m., o 5–6 tomai – Kijeve ir Lvove 1905–1907 m.
-- susijęs iš J. Caro, Geschichte Polens: J. Caro veikalo „Geschichte Polens“ III tomas buvo išleistas 1869 m.
-- susijęs iš J. Caro, Geschichte Polens: J. Caro „Geschichte Polens“ III tomas buvo išleistas 1869 m.
-- susijęs iš J. Dąbrowski, Rozbiór krytyczny Annalium Poloniae Jana Długosza z lat 1385-1444: J. Dąbrowskio „Rozbiór krytyczny Annalium Poloniae Jana Długosza z lat 1385–1444“ I tomas išleistas Vroclave, Varšuvoje ir Krokuvoje 1961 m.
-- susijęs iš J. Jakštas, Dlugošas apie Žalgirio mūšį: J. Jakšto „Dlugošas apie Žalgirio mūšį“ 1960 m. išspausdintas TaPr I tomo 2 numeryje, p. 165–181.
-- susijęs iš Jadwyga d’Anjou: „Jadwyga d’Anjou“ nurodyta kaip Lietuvos enciklopedijos 9 tomo straipsnis, apimantis 244-249 puslapius.
-- susijęs iš Jagiełło i Witold: P. Koneczny veikalo „Jagiełło i Witold“ I tomas buvo išleistas Lvove 1893 m.
 - susijęs iš Jogailos ir Vytauto privilegija Vilniaus vyskupui Andriui dėl metinių pajamų: 1396 m. Jogailos ir Vytauto privilegijoje Vilniaus vyskupui Andriui tarp liudytojų minėtas Vilniaus vaivada Manvydas.
-- susijęs iš Johanneso Voigto Prūsijos istorija, V tomas: Balińskis pataisytą žygio į Vilnių aprašymą grindė Johanneso Voigto Prūsijos istorijos V tomu ir Ignaco Onacevičiaus pastabomis.
-- susijęs iš K. Forstreuter Die Bekehrung des Litauerkönigs Gedimin. Eine Streitfrage: K. Forstreuterio „Die Bekehrung des Litauerkönigs Gedimin. Eine Streitfrage“ 1955 m. buvo išspausdintas „Jahrbuch der Albertus-Universität zu Königsberg“ 6 tome.
 - susijęs iš Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.): Aleksandras Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jai priklausančiomis žemėmis ir valdomis.
-- susijęs iš Karo Archyvas: 1925 m. Kaune išleisto „Karo archyvo“ 11 tome buvo paskelbtas tekstas „Sukilėlių pulkai“.
-- susijęs iš Koehler, gener., Entwicklung des Kriegswesens und der Kriegsführung in der Ritterzeit: Koehlerio „Entwicklung des Kriegswesens und der Kriegsführung in der Ritterzeit“ antrasis tomas išleistas Breslau 1886 m.
-- susijęs iš Kołzebue A. Preußens ältere Geschichte: A. Kołzebue veikalo „Preußens ältere Geschichte“ antrasis tomas išleistas Rygoje 1808 m.
-- susijęs iš Kronika Polska litewska żmódzka y wszystkiey Rusi Kijowskiey: M. Stryjkovskio „Kronika Polska, Litewska“ 1846 m. leidimo I tome aptariama 370–372 puslapiuose.
-- susijęs iš Kuzavinis К. Etymologica: K. Kuzavinio „Etymologica“ paskelbta 1966 m. žurnalo „Baltistica“ 1 tomo 2 numeryje, p. 177–184.
-- susijęs iš Kuzavinis К. Garbus— jotvingiškas žodis: K. Kuzavinio „Garbus – jotvingiškas žodis“ paskelbta 1968 m. „Baltistica“ 4 tomo 1 numeryje, p. 65–67.
 - susijęs iš Lietuviški žodžiai senosios Lietuvos raštinių kalboje, 1 d., tekstai: 1941 m. rinkinyje „Lietuviški žodžiai senosios Lietuvos raštinių kalboje, 1 d., tekstai“ pateikti 299 lietuviški žodžiai.
-- susijęs iš Lietuviškoji enciklopedija: Aštuntasis „Lietuviškosios enciklopedijos“ tomas išleistas Kaune 1940 m.
-- susijęs iš Lietuviškoji tarybinė enciklopedija: Trečiasis „Lietuviškosios tarybinės enciklopedijos“ tomas išleistas 1978 m.
-- susijęs iš Lietuvių kalbos žodynas: Šeštasis „Lietuvių kalbos žodyno“ tomas išleistas 1962 m.
-- susijęs iš Lietuvių kultūros-švietimo draugijos 1905-1907 metų revoliucijos ir Stolypino reakcijos metais: „Lietuvių kultūros-švietimo draugijos 1905-1907 metų revoliucijos ir Stolypino reakcijos metais“ paskelbta BBK 2 tome 1962 m.
-- susijęs iš Lietuvių nacionalinio judėjimo periodizavimo klausimu: „Lietuvių nacionalinio judėjimo periodizavimo klausimu“ paskelbta žurnalo „Problemos“ 2 tome 1968 m., 86-97 puslapiuose.
-- susijęs iš Lietuvos Didžiųjų Kunigaikščių metraštis: „Lietuvos Didžiųjų Kunigaikščių metraštis“ paskelbtas AkMD 3 tome 1957 m., p. 111-120.
-- susijęs iš Lietuvos TSR Istorijos Šaltiniai: Pirmasis „Lietuvos TSR istorijos šaltinių“ tomas išleistas Vilniuje 1955 m.
-- susijęs iš Lietuvos TSR archeologijos atlasas: Antrasis „Lietuvos TSR archeologijos atlaso“ tomas apie piliakalnius išleistas Vilniuje 1975 m.
-- susijęs iš Lietuvos TSR istorija: Pirmasis „Lietuvos TSR istorijos“ tomas išleistas Vilniuje 1957 m.
 - susijęs iš Lietuvos ponų tarybos laiškas Kristupui Radvilai apie Stepono Batoro mirtį (1586 m. gruodžio 13 d.): Po Stepono Batoro mirties Lietuvos ponų taryba prašė Kristupo Radvilos atvykti prie mirusio valdovo kūno arba skubiai atsiųsti savo nuomonę.
 - susijęs iš Lietuvos ponų tarybos laiškas Kristupui Radvilai apie Stepono Batoro mirtį (1586 m. gruodžio 13 d.): Lietuvos ponų tarybos laiškas Kristupui Radvilai buvo sutvirtintas aštuoniais antspaudais.
 - susijęs iš Lietuvos ponų tarybos laiškas Kristupui Radvilai apie Stepono Batoro mirtį (1586 m. gruodžio 13 d.): Lietuvos ponų taryba Kristupui Radvilai pranešė, kad gydytojai laiku neįspėjo apie pavojų Stepono Batoro sveikatai.
-- susijęs iš Likimo keliais: „Likimo keliais“ II dalis išleista kaip Vinco Krėvės raštų VIII tomo dalis su V. Bičiūno pastabomis ir komentarais.
-- susijęs iš Lites ac res gestae inter Polonos et Ordinemque cruciferorum: „Lites ac res gestae inter Polonos et Ordinemque cruciferorum“ pirmasis tomas išleistas Poznanėje 1890 m.
-- susijęs iš Lites: Racionžo susitarimų dokumentai buvo išspausdinti leidinio „Lites“ antrajame tome 1892 m.
-- susijęs iš M. Stryjkowski Kronika Polska, Litewska etc: M. Stryjkowskio „Kronika Polska, Litewska etc.“ I tomas cituojamas 1846 m. leidimo 370–372 puslapiuose.
 - susijęs iš Maloningosios Dievo Motinos brolijos įkūrimo paskelbimas ir Petro Skargos promocija: 1589 m. liepos 29 d. Dievo Kūno koplyčioje paskelbtas Maloningosios Dievo Motinos brolijos įkūrimas ir Petro Skargos promocija.
-- susijęs iš Massalski R. Zamek elbląski w świetle badań architektonicznych: R. Massalskio „Zamek elbląski w świetle badań architektonicznych“ paskelbtas „Rocznik Elbląski“ 8 tome 1979 m., p. 39–87.
-- susijęs iš Mažiulis V. Dėl Neringos vardo: V. Mažiulio „Dėl Neringos vardo“ paskelbtas „Lietuvių kalbotyros klausimų“ 3 tome 1960 m., p. 301–315.
-- susijęs iš Mažiulis V. Selonįca: V. Mažiulio „Selonįca“ paskelbta „Baltistica“ 1981 m. 17 tomo 1 numeryje, p. 7–12.
-- susijęs iš Mažiulis V. Seniausias baltų rašto paminklas: V. Mažiulio „Seniausias baltų rašto paminklas“ paskelbtas „Baltistica“ 1975 m. 11 tomo 2 numeryje.
-- susijęs iš Michael Küchmeister. Hochmeister des Deutschen Ordens 1414-1422: W. Nöbelio veikalas „Michael Küchmeister. Hochmeister des Deutschen Ordens 1414-1422“ minimas kaip 1969 m. penktojo tomo publikacija.
 - susijęs iš Miechovitos metraščiai: Miechovita savo metraščiuose piktinosi Aleksandro Balinskio gydymu Vilniuje, per kurį karalius Aleksandras vos neužduso garo vonioje.
-- susijęs iš Naujausių Proistorinių Tyrinėjimų Duomens: J. Puzino „Naujausių Proistorinių Tyrinėjimų Duomens“ išleistas Kaune 1938 m. kaip atspaudas iš „Senovės“ 4 tomo.
 - susijęs iš Nikono metraštis: Balińskis įdėjo visą Nikono metraščio vietą, kurioje kalbama apie tariamus Vilniaus kunigaikščius.
 - susijęs iš Noworocznik Litewski (1834 m.): Noworocznik Litewski 1834 m. buvo pateikta žinia apie Šv. Onos bažnytėlę.
-- susijęs iš O drevuejšich kul’turnych oblastjach na territorii Litvy: R. Jablonskytė-Rimantienė straipsnį „O drevuejšich kul’turnych oblastjach na territorii Litvy“ paskelbė 1955 m. žurnalo „Sovetskaja Etnografija“ 3 tome.
-- susijęs iš Obraz Litwy pod względem jej cywilizacji: J. Jaroszewicziaus „Obraz Litwy pod względem jej cywilizacji“ pirmasis tomas išleistas Vilniuje 1846 m.
-- susijęs iš Otrębski J. Gramatyka języka litewskiego: J. Otrębskio „Gramatyka języka litewskiego“ pirmasis tomas išleistas Varšuvoje 1958 m.
-- susijęs iš P. Rėklaitis Lietuvos senoji kartografija: P. Rėklaičio „Lietuvos senoji kartografija“ paskelbta „Tautos Praeities“ II tomo 1 dalyje, Romoje 1964 m., p. 64-76.
-- susijęs iš Pollakówna M. Galindia: M. Pollakównos straipsnis „Galindia“ paskelbtas SSS 2 tomo 1 dalyje, 1964 m. Vroclave, Varšuvoje ir Krokuvoje, p. 78–79.
-- susijęs iš Polnoje sobranije Russkich letopisej: „Polnoje sobranije Russkich letopisej“ XVII tomą 1907 m. Sankt Peterburge išleido Imperatoriškoji archeologijos komisija.
-- susijęs iš Powierski J. Chronologia początków Malborka: J. Powierskio straipsnis „Chronologia początków Malborka“ paskelbtas 1979 m. ZHPB 44 tomo 2 sąsiuvinyje.
-- susijęs iš Powierski J. Hugo Butyr Fragment stosunków polsko-niderlandzkich w XII w: J. Powierskio straipsnis „Hugo Butyr: Fragment stosunków polsko-niderlandzkich w XII w.“ paskelbtas 1972 m. ZHPB 37 tomo 2 sąsiuvinyje.
-- susijęs iš Powierski J. Prusowie, Prusy: J. Powierskio tekstas „Prusowie, Prusy“ paskelbtas SSS 4 tomo 1 dalyje, 368–371 puslapiuose.
-- susijęs iš Powierski J. Rec. Marija Gimbutas, The Balts: J. Powierskio recenzija Marijos Gimbutas knygai „The Balts“ paskelbta 1966 m. Torunėje, ZHP 31 tomo 2 sąsiuvinyje.
-- susijęs iš Powierski J. Uwagi o starożytnych dziejach ziem pruskich: J. Powierskio straipsnis „Uwagi o starożytnych dziejach ziem pruskich“ paskelbtas 1976 m. ZHPB 41 tomo 4 sąsiuvinyje.
-- susijęs iš Pradinis švietimas Lietuvoje iki trečiojo padalinimo (1795 m.): „Pradinis švietimas Lietuvoje iki trečiojo padalinimo (1795 m.)“ 1971 m. paskelbtas „Lietuvių Tautos Praeities“ III tomo 1 numeryje.
-- susijęs iš Prekyba Nemunu iki 1430. Pirmųjų Gediminaičių laikų Lietuvos prekybiniai ryšiai su Vakarais: J. Remeikos „Prekyba Nemunu iki 1430“ 1962 m. paskelbta „Tautos Praeities“ I tomo 4 numeryje.
-- susijęs iš Preussisches Urkundenbuch Politische Abtheilung: Pirmasis „Preussisches Urkundenbuch: Politische Abtheilung“ tomas apima 1140–1309 m. dokumentus.
 - susijęs iš Prūsijos vyskupų laiškas dėl 1323 m. sutarties: Prūsijos vyskupų laiškas ragino atmesti 1323 m. sutartį ir nenutraukti kovos su priešu.
-- susijęs iš Prūsų kalba: „Prūsų kalba“ nurodyta kaip MLTE 1968 m. antro tomo 935–936 puslapių publikacija.
-- susijęs iš Regesta Lithnaniae: H. Paszkiewicziaus Regesta Lithnaniae I tomas išleistas Varšuvoje 1930 m. ir apima medžiagą iki 1315 m.
-- susijęs iš Regesta Lithuaniae: „Regesta Lithuaniae“ pirmą tomą parengė H. Paszkiewiczius, jis išleistas Varšuvoje 1930 m.
-- susijęs iš S. Ekdahl, Der Krieg zwischen dem Deutschen Orden und Polen-Litauen im Jahre 1422: S. Ekdahlio „Der Krieg zwischen dem Deutschen Orden und Polen-Litauen im Jahre 1422“ paskelbta „ZfO“ 13 tome 1964 m., p. 614-651.
-- susijęs iš Senovės baltų žemdirbystės technikos klausimu: J. Antonevičiaus „Senovės baltų žemdirbystės technikos klausimu“ išspausdintas ILKI 4 tome 1964 m., p. 164-170.
-- susijęs iš Senųjų lietuviškų knygų istorija: Vaclovas Biržiška „Senųjų lietuviškų knygų istorijos“ I tomą išleido Čikagoje 1953 m.
-- susijęs iš Sokolovski, Dr. Pr. Aug., Dzieje Polski, tom. II: Dr. Pr. Aug. Sokolovskio „Dzieje Polski“ antrasis tomas buvo išleistas Varšuvoje 1900 m.
-- susijęs iš St. Kujot, Wojna 1410: St. Kujoto „Wojna 1410“ publikuota „Rocznik Towarzystwa Nauk w Toruniu“ 18 tome 1911 m., p. 157–159.
-- susijęs iš Stankiewicz J. Twierdza Toruń: J. Stankiewicziaus „Twierdza Toruń“ publikuota 1972 m. ZHPB 37 tomo 4 sąsiuvinyje.
-- susijęs iš Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa, 1846: M. Stryjkowskio kronikos tomas išleistas Varšuvoje 1846 m.
-- susijęs iš Taube, M. — Klymenko, F. Die Urkunden Mindowes für den livländischen Orden: M. Taube ir F. Klymenko darbas „Die Urkunden Mindowes für den livländischen Orden“ paskelbtas AF VI tome 1929 m., p. 201-255.
-- susijęs iš Toppen M Einleitung: M. Toppeno „Einleitung“ paskelbta SRP pirmojo tomo 3–20 puslapiuose.
-- susijęs iš Urkundenbuch des Bisthums Culm Bearbeitet von C. P. Woelky. Bd. 1. Theil 1: C. P. Woelky parengto „Urkundenbuch des Bisthums Culm“ pirmojo tomo pirmoji dalis išleista Dancige 1887 m.
-- susijęs iš V. O. Ključevskij Kurs russkoj istorii: V. O. Ključevskio „Kurs russkoj istorii“ pirmasis tomas išleistas Maskvoje 1956 m.
-- susijęs iš V. Urbanavičius, XIV-XVII amžių monetos Lietuvos kapinynuose: V. Urbanavičiaus „XIV-XVII amžių monetos Lietuvos kapinynuose“ išspausdintas AkMD 24 tome 1967 m., p. 61-74.
-- susijęs iš VMPL: VMPL I tomo 693 numeris cituojamas prie susitarimo, kurį abi pusės patvirtino priesaika.
-- susijęs iš Valančius M. Raštai. T. 1: M. Valančiaus „Raštų“ pirmasis tomas išleistas Vilniuje 1972 m.
 - susijęs iš Valerijono Bursos namo pirkimo raštas: Valerijono Bursos studentams buvo duoti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.
 - susijęs iš Valerijono Bursos pastatymo ir aprūpinimo raštas (1579 m.): Valerijono Bursos raštas buvo surašytas steigėjo ranka, patvirtintas jo antspaudu ir perduotas saugoti rektoriui.
 - susijęs iš Valerijono Bursos pastatymo ir aprūpinimo raštas (1579 m.): Valerijono Bursos raštu kolegijos mokiniams, dėl sunkios padėties negalėjusiems baigti studijų, skirta amžina ir neatšaukiama dovana.
-- susijęs iš Valstiečių «veldamai» Lietuvoje XV-XVI a: „Valstiečiai «veldamai» Lietuvoje XV-XVI a.“ išspausdintas AkMD 4 tome 1958 m., p. 113-126.
-- susijęs iš Vileišio laiškai lietuviškų knygų spausdinimo klausimu: „Vileišio laiškai lietuviškų knygų spausdinimo klausimu“ paskelbti BBK 7 tome 1969 m., p. 201-214.
-- susijęs iš Vitoldiana: „Vitoldiana“ paskelbta AW 7 tome 1930 m., p. 494-504, ir siejama su Dubysos sutartimis.
-- susijęs iš Volfgango „Uwagi Historyczne“ leidinyje „Dziennik Wileński“: Profesorius Volfgangas 1816 m. „Dziennik Wileński“ IV tome išspausdino trumpą žinutę apie farmacijos būklę Lietuvoje.
-- susijęs iš Vytauto Didžiojo nuopelnai dvasinės kultūros srityje: Pr. Penkausko „Vytauto Didžiojo nuopelnai dvasinės kultūros srityje“ paskelbtas 1931 m. „Athenaeum“ II tomo 1 numeryje.
 - susijęs iš Vytauto privilegija Trakams (1384 m.): 1384 m. Vytauto privilegija Trakams liudija, kad Trakai dar prieš Lietuvos krikštą buvo svarbus Lietuvos miestas.
 - susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1407 m. Vilniuje rašyta Vytauto privilegija Vilniaus kapitulai Liubarų kaimą suteikė mainais už anksčiau dovanotą Jaryničių kaimą.
-- susijęs iš W. Semkowicz, Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi: W. Semkowicziaus „Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi“ išspausdintas KH 44 tome 1930 m., p. 348-355.
-- susijęs iš W. Zakrzewski, Bitwa pod Grunwaldem: W. Zakrzewskio darbas „Bitwa pod Grunwaldem“ paskelbtas „RTPNP“ 17 tome 1890 m., p. 11-28.
-- susijęs iš Wattenbach W. Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des dreizehnten Jahrhunderts, Bd. 2,—Berlin, 1886: W. Wattenbacho „Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des dreizehnten Jahrhunderts“ antras tomas išleistas Berlyne 1886 m.
-- susijęs iš Wcielenie Litwy do Polski w 1386: H. Łowmiańskio „Wcielenie Litwy do Polski w 1386“ išspausdintas AW 12 tome 1937 m., p. 36-145.
-- susijęs iš Werminghoee Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens: A. Werminghoee „Urkunde Ludwigs d. Bayers für den Hochmeister des Deutschen Ordens“ išspausdintas Archiv für Urkundenforschung 5 tome 1914 m., p. 21-40.
-- susijęs iš Wilhelm de Machaut i jego wiadomości do dziejów Polski i Litwy w XIV w: „Wilhelm de Machaut i jego wiadomości do dziejów Polski i Litwy w XIV w.“ paskelbta KH 43 tome 1929 m., p. 217–228.
-- susijęs iš Wnuk Kiejstuta, Jan książę drohiczyński: J. Fijałeko „Wnuk Kiejstuta, Jan książę drohiczyński“ išspausdintas KH 28 tome 1914 m., p. 181-197.
-- susijęs iš Władysław Jagiełło: St. Smolka ir Fr. Papée parengė tekstą „Władysław Jagiełło“, paskelbtą „Encyklopedja Polska“ V tomo 1 dalyje.
-- susijęs iš Z. Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų: „Kovos bruožai dėl Žemaičių ir jų sienų“ nurodytas kaip 1935 m. „Athenaeum“ VI tomo tekstas, apimantis 54–117 puslapius.
-- susijęs iš Z. Ivinskis, Vytautas Didysis istorinėje literatūroje. Svarbesnės literatūros apžvalga apie Vytautą Didįjį: Z. Ivinskio straipsnis „Vytautas Didysis istorinėje literatūroje“ paskelbtas „Athenaeum“ 1930 m., I tomo 2 sąsiuvinyje, p. 190–212.
-- susijęs iš Zajączkowski S. Jotvingių problema istoriografijoje: S. Zajączkowskio straipsnis „Jotvingių problema istoriografijoje“ paskelbtas 1941 m. leidinio „Lietuvos praeitis“ 1 tomo 2 sąsiuvinyje.
-- susijęs iš Zajączkowski S. Kaip jotvingiai buvo vadinami viduriniais amžiais: S. Zajączkowskio straipsnis „Kaip jotvingiai buvo vadinami viduriniais amžiais“ paskelbtas 1940 m. leidinio „Lietuvos praeitis“ 1 tomo 1 sąsiuvinyje.
-- susijęs iš Zajączkowski S. Uwagi nad terytorialno-plemienną strukturą Jaćwieży Na marginesie pracy J. Nalepy Jaćwięgowie: S. Zajączkowskio straipsnis „Uwagi nad terytorialno-plemienną strukturą Jaćwieży“ paskelbtas 1966 m. Torunės leidinio ZHP 31 tomo 4 sąsiuvinyje.
-- susijęs iš Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.): Zenonas Ivinskis mirė 1971 m. gruodžio 24 d., nebaigęs numatyto plano, o tomą redagavo ir spragas užpildė Paulius Jatulis.
-- susijęs iš Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.): Redakcinėje pastaboje nurodoma, kad iš trijų sumanytų Lietuvos istorijos tomų pirmasis tesiekia Vytauto Didžiojo laikus, nors buvo planuotas iki 1492 m., o įvadas liko nebaigtas.
-- susijęs iš Zientara B. Sprawy pruskie w polityce Henryka Brodatego: B. Zientaros straipsnis „Sprawy pruskie w polityce Henryka Brodatego“ paskelbtas 1976 m. ZHPB 41 tomo 4 sąsiuvinyje.
-- susijęs iš Zinkevičius Z. Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje): Z. Zinkevičiaus straipsnis „Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje)“ publikuotas 1975 m. „Baltistica“ 11 tomo 2 sąsiuvinyje.
-- susijęs iš [[objektai/saltiniai/[Nalepa J.] Polekszanie.md#claim-t-61194|[Nalepa J.] Polekszanie]]: J. Nalepos straipsnis „Polekszanie“ publikuotas SSS 1970 m. 4 tomo 1 dalyje.
-- susijęs iš [[objektai/saltiniai/[Powierski J.] Nadrowia.md#claim-t-61250|[Powierski J.] Nadrowia]]: J. Powierskio straipsnis „Nadrowia“ publikuotas SSS 1968 m. 3 tomo 2 dalyje.
-- susijęs iš [[objektai/saltiniai/[Powierski J.] Pogezania.md#claim-t-61251|[Powierski J.] Pogezania]]: J. Powierskio straipsnis „Pogezania“ publikuotas SSS 1970 m. 4 tomo 1 dalyje.
-- susijęs iš [[objektai/saltiniai/[Powierski J.] Pomezania.md#claim-t-61252|[Powierski J.] Pomezania]]: J. Powierskio „Pomezania“ nurodyta SSS 4 tomo 1 dalies 220 puslapyje.
-- susijęs iš [[objektai/saltiniai/[Powierski J.] Sambia.md#claim-t-61253|[Powierski J.] Sambia]]: J. Powierskio „Sambia“ nurodyta 1975 m. SSS 5 tomo 37-38 puslapiuose.
-- susijęs iš [[objektai/saltiniai/[Powierski J.] Sasinowie.md#claim-t-61254|[Powierski J.] Sasinowie]]: J. Powierskio „Sasinowie“ nurodyta SSS 5 tomo 74-75 puslapiuose.
-- susijęs iš [[objektai/saltiniai/[Powierski J.] Skalowia.md#claim-t-61255|[Powierski J.] Skalowia]]: J. Powierskio „Skalowia“ nurodyta SSS 5 tomo 192-193 puslapiuose.
-- susijęs iš [[objektai/saltiniai/[Powierski J.] Warmia.md#claim-t-61256|[Powierski J.] Warmia]]: J. Powierskio „Warmia“ nurodyta 1980 m. SSS VI tomo 2 dalies 329-332 puslapiuose.
-- susijęs iš [[objektai/saltiniai/[Szymański J.] Templariusze.md#claim-t-61305|[Szymański J.] Templariusze]]: J. Szymańskio straipsnis „Templariusze“ paskelbtas 1977 m. leidinio SSS šešto tomo pirmoje dalyje, 48-49 puslapiuose.
 - susijęs iš Švitrigailos 1432 m. rugpjūčio 13 d. laiškas didžiajam magistrui: Švitrigaila laiške prašė didžiojo magistro palydėti Vroclavo vyskupą Konradą į Kistriną ir suteikti garantiją Vroclavo gyventojams.
-- susijęs iš Żmudź w początkach unii polsko-litewskiej: St. Zajączkowskio „Żmudź w początkach unii polsko-litewskiej“ paskelbtas PamZH II tome 1930 m., p. 337-344.
-- susijęs iš Žemdirbystė ir žemės ūkio technika Lietuvoje XIII-XV a: „Žemdirbystė ir žemės ūkio technika Lietuvoje XIII-XV a.“ paskelbta rusų kalba su lietuviška santrauka AkMD 1 tome 1955 m., p. 57-73.
 - susijęs iš Žygimanto 1432 m. Vilniaus Magdeburgo teisių patvirtinimo privilegijos: 1432 m. Vilnius gavo Magdeburgo teisių atnaujinimą ir patvirtinimą dviem privilegijomis lotynų ir rusų kalbomis.
 - susijęs iš Žygimanto Augusto testamentas (1571 m. gegužės 6 d.): Žygimantas Augustas testamente prašė giminaičių ginti jo paskutinę valią ir prireikus perimti testamento vykdymą.
 - susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimantas Senasis uždraudė naudoti plaustus per Viliją tarp Verkių ir Panerių, kad nebūtų pakenkta nustatytam tilto muitui.
 - susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimanto Senojo tarėjai apžiūrėjo vietą prie Šv. Dvasios prieglaudos, kurią Ulrikas Hozijus buvo pradėjęs mūryti.
 - susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimantas Senasis prieglaudos administracijos globą ir vadovavimą patikėjo Vilniaus vyskupui ir Vilniaus kapitulai.
 - susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Vilijos upę, o iš tilto muito susigrąžino statybos išlaidas.
-- susijęs iš Дельбрюк Г. История военного искусства в рамках политической истории. Т. 3. Средневековье: G. Delbrücko „История военного искусства в рамках политической истории“ trečiasis tomas apie viduramžius išleistas Maskvoje 1938 m.
-- susijęs iš История Эстонской ССР. — Т. I (с древнейших времен до середины XIX века) Под редакцией А. Вассара и Г. Наана: „История Эстонской ССР“ I tomas apie laikotarpį iki XIX a. vidurio išleistas Taline 1961 m.
-- susijęs iš Полное собрание русских летописей: „Полное собрание русских летописей“ II tomas apima Ipatijaus metraštį.
-- susijęs iš Савукинас Б. К проблеме западнобалтийского субстрата в югозападной Литве: B. Савукинас straipsnis „К проблеме западнобалтийского субстрата в югозападной Литве“ paskelbtas 1966 m. žurnale „Baltistica“, 1 tomo 2 numeryje, p. 165–176.
-- susijęs iš т. II. Ипатьевская летопись (с. 1—227); Густинская летопись (с. 231—373) Изд. Археографическою комиссиею: 1843 m. Sankt Peterburge išleistame II tome paskelbtos Ipatijaus metraštis ir Gustyno metraštis.
-- susijęs iš т. XXXII. Хроники Литовская и Жмойтская, и Быховца. Летописи Баркулабовская, Аверки и Панцырного Составитель и редактор H. Н. Улащик: XXXII tome paskelbtos Lietuvos ir Žemaičių, Bychovco, Barkulabovo, Averkos ir Pancyrno kronikos bei metraščiai.
 - susijęs iš Akademijos aikštė: Akademijos aikštė buvo netaisyklingas ketvirtainis, apsuptas bažnyčios, kolegijos sienų ir mokymosi patalpų kolonadų.
 - susijęs iš Akademijos visuotinių iškilmių salė: Akademijos visuotinių iškilmių salė buvo pailgos formos salė kairėje pusėje prie bokšto arba varpinės.
 - susijęs iš Anglija: Derbio grafas Henrikas vadovavo Gdansko uoste išsilaipinusiems lankininkams ir vėliau, kaip Henrikas IV, paveldėjo Anglijos sostą.
@@ -737,3 +747,13 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=170184d254c172318f9087ca3d80f94072f96e9d51ad620c69202cd657c943cb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gebhardas iš Manstfeldo: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tomas (Hertvigo iš Pokarvių sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gebhardas iš Manstfeldo: mention_match, person, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tomas (Hertvigo iš Pokarvių sūnus)" parinktas kaip owner_note_path. Targetas "Gebhardas iš Manstfeldo" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -44,6 +44,9 @@ Nenurodyta
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikėjo pataisyti kalbą ir aiškumą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 87794-87956; hash=e6b17f149fb9bd530592aae29fe9e15ffcbcdf0a00981c779b31de2cd5faa2bf; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-08351"></a>
 - t-002
@@ -53,6 +56,16 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=80f740af56ce42f80346994c25bad43f5c72a1c1a418ba9d1dabeb8704f88222; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Balti vilnoniai marškiniai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vyženos: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Balti vilnoniai marškiniai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vyženos" parinktas kaip owner_note_path. Targetas "Balti vilnoniai marškiniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -83,7 +96,20 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 87794-87956; hash=e6b17f149fb9bd530592aae29fe9e15ffcbcdf0a00981c779b31de2cd5faa2bf; match=exact
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=80f740af56ce42f80346994c25bad43f5c72a1c1a418ba9d1dabeb8704f88222; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Balti vilnoniai marškiniai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vyženos: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Balti vilnoniai marškiniai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vyženos" parinktas kaip owner_note_path. Targetas "Balti vilnoniai marškiniai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Pastabos
 

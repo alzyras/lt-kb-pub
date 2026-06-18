@@ -38,9 +38,19 @@ Dusburgietis teigia, kad apie švento Liudviko, Sicilijos karaliaus Roberto brol
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Roberto giminystę ir Liudviko kanonizavimo datą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3b2f5b5a7e4257f5628bb3e3fcba13ee9b48daca9594c67e0658c7b024f17a1e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Robertas (Sicilijos karalius): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Robertas (Sicilijos karalius)" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Liudvikas (Sicilijos karaliaus Roberto brolis).md#claim-t-60377|Liudvikas (Sicilijos karaliaus Roberto brolis)]]: 1317 m. popiežius Jonas kanonizavo Liudviką, Sicilijos karaliaus Roberto brolį iš Mažesniųjų brolių ordino.
-- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108325|Pranciškonų ordinas]]: 1317 m. popiežius Jonas kanonizavo šventąjį Liudviką, Sicilijos karaliaus Roberto brolį iš Mažesniųjų brolių ordino.
 - susijęs iš [[objektai/ivykiai/Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.).md#claim-t-62545|Švento Liudviko, Roberto brolio, kanonizavimas (1317 m.)]]: 1317 m. popiežius Jonas kanonizavo Liudviką, Sicilijos karaliaus Roberto brolį iš mažesniųjų brolių ordino.
+- susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108325|Pranciškonų ordinas]]: 1317 m. popiežius Jonas kanonizavo šventąjį Liudviką, Sicilijos karaliaus Roberto brolį iš Mažesniųjų brolių ordino.
 - susijęs iš [[objektai/paprociai/Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas.md#claim-t-62119|Kanonizuotų šventųjų liturginio minėjimo dienų nustatymas]]: 1317 m. popiežius Jonas kanonizavo šventą Liudviką ir liepė jo gimimą švęsti penktą dieną po Žolinės.
 - susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: 1317 m. popiežius Jonas kanonizavo šventąjį Liudviką, Sicilijos karaliaus Roberto brolį iš Mažesniųjų brolių ordino.
 ## Reikšmingi paminėjimai
@@ -59,3 +69,13 @@ Dusburgietis teigia, kad apie švento Liudviko, Sicilijos karaliaus Roberto brol
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3b2f5b5a7e4257f5628bb3e3fcba13ee9b48daca9594c67e0658c7b024f17a1e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Robertas (Sicilijos karalius): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Jonas: mention_match, person, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Robertas (Sicilijos karalius)" parinktas kaip owner_note_path. Targetas "Jonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

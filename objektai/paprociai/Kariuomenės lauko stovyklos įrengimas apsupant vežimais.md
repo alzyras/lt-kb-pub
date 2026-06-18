@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-78696
   teiginys: 'Kariuomenė stovykloje apsisupdavo amuniciją, proviantą ir kitus daiktus gabenusiais vežimais, palikdama tik kelis praėjimus.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra nutrūkusi citatos ištrauka.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Girolamo Lippomano|Girolamo Lippomano]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Venecija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_author: [[objektai/autoriai/Girolamo Lippomano|Girolamo Lippomano]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Venecija; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1575 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra nutrūkusi citatos ištrauka.'
@@ -60,7 +60,7 @@ Nenurodyta
   global_id: t-78697
   teiginys: 'Susibūrusi kariuomenė lauko stovyklą apsupdavo amunicijos ir provianto vežimais, palikdama tik kelis saugomus praėjimus.'
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs fragmentas ir OCR triukšmas.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_event: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1564 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas nutrūkęs fragmentas ir OCR triukšmas.'
@@ -76,18 +76,38 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=32eadc164ad39eb8becb8379e03f2b98e25f685f8b333e945bebfbbd92704a8c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Artilerija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kariuomenės lauko stovyklos įrengimas apsupant vežimais: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kariuomenės lauko stovyklos įrengimas apsupant vežimais" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-78699"></a>
 - t-004
   global_id: t-78699
   teiginys: 'Vežimais apsuptoje kariuomenės lauko stovykloje prie kelių praėjimų statydavo artilerijos pabūklus, o už vežimų iškasdavo ilgą griovį.'
   sudarymo_pagrindimas: 'Teiginys aiškiai susietas su stovyklos įrengimo praktika.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_event: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1564 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susietas su stovyklos įrengimo praktika.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3e128ee07fd0c40b87ac10f2b41b53968a896579b95c7c5c801b3a423dc40e95; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vežimai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kariuomenės lauko stovyklos įrengimas apsupant vežimais: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vežimai: mention_match, thing, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kariuomenės lauko stovyklos įrengimas apsupant vežimais" parinktas kaip owner_note_path. Targetas "Vežimai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -123,5 +143,25 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3e128ee07fd0c40b87ac10f2b41b53968a896579b95c7c5c801b3a423dc40e95; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vežimai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kariuomenės lauko stovyklos įrengimas apsupant vežimais: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vežimai: mention_match, thing, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kariuomenės lauko stovyklos įrengimas apsupant vežimais" parinktas kaip owner_note_path. Targetas "Vežimai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=32eadc164ad39eb8becb8379e03f2b98e25f685f8b333e945bebfbbd92704a8c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Artilerija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kariuomenės lauko stovyklos įrengimas apsupant vežimais: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Artilerija: mention_match, thing, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kariuomenės lauko stovyklos įrengimas apsupant vežimais" parinktas kaip owner_note_path. Targetas "Artilerija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001

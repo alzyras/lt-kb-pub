@@ -24,27 +24,57 @@ tags:
   global_id: t-87446
   teiginys: 'Vilniaus vyskupui Motiejui ir jo įpėdiniams buvo dovanotas dvaras Medininkų valsčiuje.'
   sudarymo_pagrindimas: 'Claimas buvo nutrūkęs dokumento fragmentas; citata palaiko konkretų dovanojimo faktą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 339112-339781; hash=4964e660b96cf84d2e647883e796f452b7f52b29a5a6326122a78601c2bc4247; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Motiejus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Motiejus (Vilniaus vyskupas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Motiejus: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus (Vilniaus vyskupas)" parinktas kaip owner_note_path. Targetas "Motiejus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87447"></a>
 - t-002
   global_id: t-87447
   teiginys: 'Vilniaus vyskupas Motiejus raštu suteikė kapitulai ir jos valdiniams jurisdikciją su teise taikyti bažnytines cenzūras.'
   sudarymo_pagrindimas: 'Claimas buvo kontekstinis fragmentas; citata palaiko konkretų Motiejaus suteiktos jurisdikcijos faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/prelatai ir kanauninkai|prelatai ir kanauninkai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/prelatai ir kanauninkai|prelatai ir kanauninkai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb8f069a44a1cb06aa086df4d211fb74adb46d59464c0e0239a32cde64e8f25d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Motiejus (Vilniaus vyskupas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus (Vilniaus vyskupas)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87448"></a>
 - t-003
   global_id: t-87448
   teiginys: 'Vilniaus vyskupas Motiejus buvo nurodytas tarp kunigaikščių ir prelatų sutartyje, kurią leista laiduoti Vilniui.'
   sudarymo_pagrindimas: 'Citata pagrindžia Motiejaus paminėjimą sutartyje, o pradinis teiginys turi OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Mykolas Skirgaila|Mykolas Skirgaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Horodlė; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Černigovas; mentioned_place: Šalčininkai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Mykolas Skirgaila|Mykolas Skirgaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Horodlė; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Černigovas; mentioned_place: Šalčininkai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6b4aa199d01f48603158aa74b561eb0e0c4b027338fd8d869c052c8fe24a61f1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Motiejus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Motiejus (Vilniaus vyskupas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Motiejus: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus (Vilniaus vyskupas)" parinktas kaip owner_note_path. Targetas "Motiejus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -107,6 +137,16 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6b4aa199d01f48603158aa74b561eb0e0c4b027338fd8d869c052c8fe24a61f1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Motiejus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Motiejus (Vilniaus vyskupas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Motiejus: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus (Vilniaus vyskupas)" parinktas kaip owner_note_path. Targetas "Motiejus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003
@@ -137,4 +177,24 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb8f069a44a1cb06aa086df4d211fb74adb46d59464c0e0239a32cde64e8f25d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Motiejus (Vilniaus vyskupas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus (Vilniaus vyskupas)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 339112-339781; hash=4964e660b96cf84d2e647883e796f452b7f52b29a5a6326122a78601c2bc4247; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Motiejus: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Motiejus (Vilniaus vyskupas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Motiejus: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus (Vilniaus vyskupas)" parinktas kaip owner_note_path. Targetas "Motiejus" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

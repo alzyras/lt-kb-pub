@@ -33,6 +33,16 @@ Dusburgietis teigia, kad 58—59): „Prisirenkite ir būkite drąsūs vyrai, b�
   susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Grigalius IX|Grigalius IX]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 146519-147456; hash=a779f3f4a599111cfce879be66fce126039fd8499340e13f036d47de1336b778; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Grigalius IX: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prisirenkite ir būkite drąsūs vyrai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Grigalius IX: mention_match, person, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prisirenkite ir būkite drąsūs vyrai" parinktas kaip owner_note_path. Targetas "Grigalius IX" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -58,3 +68,13 @@ Dusburgietis teigia, kad 58—59): „Prisirenkite ir būkite drąsūs vyrai, b�
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 146519-147456; hash=a779f3f4a599111cfce879be66fce126039fd8499340e13f036d47de1336b778; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Grigalius IX: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prisirenkite ir būkite drąsūs vyrai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Grigalius IX: mention_match, person, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prisirenkite ir būkite drąsūs vyrai" parinktas kaip owner_note_path. Targetas "Grigalius IX" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

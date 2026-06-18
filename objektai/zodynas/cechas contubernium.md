@@ -26,6 +26,16 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
   sudarymo_pagrindimas: 'Pradinė frazė turi OCR ir puslapio triukšmo; citata pagrindžia aiškų faktą apie cechą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 818002-819025; hash=601ecc7cd9b69e434675cd806bc1d8e1111cdd70508c455ac9fd15e5de36ac3e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Steponas Genseris: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: cechas contubernium: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Steponas Genseris: mention_match, person, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "cechas contubernium" parinktas kaip owner_note_path. Targetas "Steponas Genseris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86462"></a>
 - t-002
@@ -35,6 +45,9 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Genseris|Steponas Genseris]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a9236669bea6f0797b3835b43ce6dea7dcf809b267bfec5ce25c37f31ebb37c1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -107,4 +120,17 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 818002-819025; hash=601ecc7cd9b69e434675cd806bc1d8e1111cdd70508c455ac9fd15e5de36ac3e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Steponas Genseris: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: cechas contubernium: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Steponas Genseris: mention_match, person, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "cechas contubernium" parinktas kaip owner_note_path. Targetas "Steponas Genseris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a9236669bea6f0797b3835b43ce6dea7dcf809b267bfec5ce25c37f31ebb37c1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

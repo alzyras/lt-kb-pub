@@ -54,6 +54,25 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie šarvuočių buvimo vietą perversmo metu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=27a8aca5dc9f968845247c94dcb651fc36c8089be7559dee063f67259be3d61d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> 1926 m. gruodžio 17 d. perversmas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šarvuočiai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: 1926 m. gruodžio 17 d. perversmas: mention_match, event, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarvuočiai" parinktas kaip owner_note_path. Targetas "1926 m. gruodžio 17 d. perversmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/daiktai/Sovietų tankai ir šarvuočiai.md#claim-t-13461|Sovietų tankai ir šarvuočiai]]: Naktį iš 1991 m. sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai.
+- susijęs iš [[objektai/daiktai/Sovietų tankai ir šarvuočiai.md#claim-t-13462|Sovietų tankai ir šarvuočiai]]: Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą.
+- susijęs iš [[objektai/daiktai/Sovietų tankai ir šarvuočiai.md#claim-t-13463|Sovietų tankai ir šarvuočiai]]: Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą ir Lietuvos radijo bei televizijos komiteto pastatą.
+- susijęs iš [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.).md#claim-t-169856|Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]: 1991 m. sausio 13-osios naktį sovietų tankai ir šarvuočiai apsiautė Vilniaus televizijos bokštą.
+- susijęs iš Lietuvos radijo ir televizijos komiteto pastatas (institucija): 1991 m. sausio 13-osios naktį sovietų tankai ir šarvuočiai apsiautė Lietuvos radijo ir televizijos komiteto pastatą, kurį gynė taiki minia.
+- susijęs iš Vilnius: 1991 m. sausio 10–11 d. naktį Vilniaus gatvėmis važinėjo kariniai šarvuočiai.
+- susijęs iš Žuvinto ežeras: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.
+- susijęs iš Žuvinto palios: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.
+- susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49289|petihorai]]: Petihorai LDK kariuomenėje buvo kavalerijos rūšis, atsisakiusi dzidų ir ginkluote prilyginta šarvuočiams.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77999|A. Voldemaras]]: A. Smetona ir A. Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75714|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75732|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėždavo stiprių prezidento galių būtinybę ir nevertino politinių partijų vaidmens.
@@ -62,24 +81,15 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Vytautas Landsbergis.md#claim-t-170248|Vytautas Landsbergis]]: Sausio 12 d. Vytautas Landsbergis vadovavo Aukščiausiajai Tarybai - Atkuriamajam Seimui, priėmusiam nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.
 - susijęs iš [[objektai/daiktai/Sausio 13-osios gynybinės barikados.md#claim-t-23302|Sausio 13-osios gynybinės barikados]]: 1991 m. sausio 12 d. vakare aplink AT-AS pastatą buvo statomos betoninės sienos ir spygliuotų vielų užtvaros.
 - susijęs iš [[objektai/daiktai/Sausio 13-osios gynybinės barikados.md#claim-t-23303|Sausio 13-osios gynybinės barikados]]: 1991 m. sausio 12 d. vakare prie parlamento budint žmonėms aplink AT-AS pastatą buvo statomos betoninės sienos ir spygliuotų vielų užtvaros.
-- susijęs iš [[objektai/daiktai/Sovietų tankai ir šarvuočiai.md#claim-t-13461|Sovietų tankai ir šarvuočiai]]: Naktį iš 1991 m. sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai.
-- susijęs iš [[objektai/daiktai/Sovietų tankai ir šarvuočiai.md#claim-t-13462|Sovietų tankai ir šarvuočiai]]: Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą.
-- susijęs iš [[objektai/daiktai/Sovietų tankai ir šarvuočiai.md#claim-t-13463|Sovietų tankai ir šarvuočiai]]: Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą ir Lietuvos radijo bei televizijos komiteto pastatą.
 - susijęs iš [[objektai/grupes/107-oji motošaulių divizija.md#claim-t-40821|107-oji motošaulių divizija]]: 1991 m. sausio įvykiuose Lietuvoje dalyvavo Vilniuje dislokuota 107-oji motošaulių divizija.
 - susijęs iš [[objektai/grupes/Aukščiausioji Taryba.md#claim-t-40859|Aukščiausioji Taryba (institucija)]]: 1991 m. sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba – Atkuriamasis Seimas priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.
 - susijęs iš [[objektai/ivykiai/Sausio 13-oji (1991 m.).md#claim-t-75265|Sausio 13-oji (1991 m.)]]: 1991 m. sausio 12-osios vakarą žmonės rinkosi budėti prie parlamento, Lietuvos radijo ir televizijos bei televizijos bokšto.
 - susijęs iš [[objektai/ivykiai/Sausio 13-oji (1991 m.).md#claim-t-75267|Sausio 13-oji (1991 m.)]]: Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.
 - susijęs iš [[objektai/ivykiai/Sausio 13-oji (1991 m.).md#claim-t-75270|Sausio 13-oji (1991 m.)]]: 1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje.
 - susijęs iš [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.).md#claim-t-169853|Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]: Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.
-- susijęs iš [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.).md#claim-t-169856|Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]: 1991 m. sausio 13-osios naktį sovietų tankai ir šarvuočiai apsiautė Vilniaus televizijos bokštą.
 - susijęs iš [[objektai/ivykiai/Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.).md#claim-t-169857|Sausio 13-oji ir Vilniaus televizijos bokšto šturmas (1991 m. sausio 12–13 d.)]]: 1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje.
-- susijęs iš Lietuvos radijo ir televizijos komiteto pastatas (institucija): 1991 m. sausio 13-osios naktį sovietų tankai ir šarvuočiai apsiautė Lietuvos radijo ir televizijos komiteto pastatą, kurį gynė taiki minia.
 - susijęs iš Vilniaus televizijos bokštas: 1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje.
-- susijęs iš Vilnius: 1991 m. sausio 10–11 d. naktį Vilniaus gatvėmis važinėjo kariniai šarvuočiai.
-- susijęs iš Žuvinto ežeras: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.
-- susijęs iš Žuvinto palios: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.
 - susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49287|petihorai]]: Petihorai Lietuvos Didžiosios Kunigaikštijos kariuomenėje buvo kavalerijos rūšis, anksčiau naudojusi dzidas.
-- susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49289|petihorai]]: Petihorai LDK kariuomenėje buvo kavalerijos rūšis, atsisakiusi dzidų ir ginkluote prilyginta šarvuočiams.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -111,3 +121,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=27a8aca5dc9f968845247c94dcb651fc36c8089be7559dee063f67259be3d61d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> 1926 m. gruodžio 17 d. perversmas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Šarvuočiai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: 1926 m. gruodžio 17 d. perversmas: mention_match, event, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Šarvuočiai" parinktas kaip owner_note_path. Targetas "1926 m. gruodžio 17 d. perversmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

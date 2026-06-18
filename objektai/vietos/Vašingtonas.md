@@ -36,17 +36,27 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas, išlaikant citatos pagrindžiamus faktus apie Vašingtono susitikimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b678eb75c5cbd0eba8ab63d95400970ecfeda7bb45f85bfabb210d75bb6c62fd; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vašingtonas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vašingtonas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.).md#claim-t-75197|Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]: 1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO.
+- susijęs iš [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.).md#claim-t-75221|Lietuvos įstojimas į ES ir NATO (2004 m.)]]: 1999 m. balandį NATO vadovų susitikime Vašingtone buvo patvirtintas Narystės veiksmų planas Lietuvos pasirengimui stoti į NATO.
+- susijęs iš Narystės veiksmų planas pasirengti stojimui į NATO: 1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO.
+- susijęs iš Vašingtono sutartis: Vašingtono sutarties 5-asis straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus vieną Aljanso narę.
+- susijęs iš Vašingtono sutartis: Vašingtono sutarties 5-asis straipsnis numato, kad NATO narės ginkluoto puolimo atveju ateina viena kitai į pagalbą.
 - susijęs iš [[objektai/asmenys/Džordžas Robertsonas.md#claim-t-26439|Džordžas Robertsonas]]: Džordžas Robertsonas 2000 m. gegužės 19 d. Vilniuje dalyvavo konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje.
 - susijęs iš [[objektai/asmenys/Valdas Adamkus.md#claim-t-64205|Valdas Adamkus]]: Valdas Adamkus 2000 m. gegužės 19 d. dalyvavo Vilniaus konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje.
 - susijęs iš [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO).md#claim-t-75051|Šiaurės Atlanto sutarties organizacija (NATO)]]: Vašingtono sutarties 5-asis straipsnis garantuoja NATO narių individualios ar kolektyvinės savigynos teisę ginkluoto užpuolimo atveju.
 - susijęs iš [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO).md#claim-t-75056|Šiaurės Atlanto sutarties organizacija (NATO)]]: NATO Vašingtono sutarties 5 straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus Aljanso narę.
 - susijęs iš [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO).md#claim-t-75057|Šiaurės Atlanto sutarties organizacija (NATO)]]: 2002 m. lapkritį Prahoje septynios NATO kandidatės – Bulgarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakviestos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.
-- susijęs iš [[objektai/ivykiai/Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.).md#claim-t-75197|Lietuvos tapimas visateise NATO nare (2004 m. kovo 29 d.)]]: 1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO.
-- susijęs iš [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.).md#claim-t-75221|Lietuvos įstojimas į ES ir NATO (2004 m.)]]: 1999 m. balandį NATO vadovų susitikime Vašingtone buvo patvirtintas Narystės veiksmų planas Lietuvos pasirengimui stoti į NATO.
 - susijęs iš [[objektai/posakiai/„Mūsų sąjunga pasiryžusi ginti savo nares...“.md#claim-t-183499|„Mūsų sąjunga pasiryžusi ginti savo nares...“]]: 2002 m. lapkričio 23 d. Vilniuje George'as Bushas pasakė, kad NATO pasiryžusi ginti savo nares ir kad Lietuvos priešai taptų JAV priešais.
-- susijęs iš Narystės veiksmų planas pasirengti stojimui į NATO: 1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO.
-- susijęs iš Vašingtono sutartis: Vašingtono sutarties 5-asis straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus vieną Aljanso narę.
-- susijęs iš Vašingtono sutartis: Vašingtono sutarties 5-asis straipsnis numato, kad NATO narės ginkluoto puolimo atveju ateina viena kitai į pagalbą.
 - susijęs iš Praha: 2002 m. lapkritį Prahoje Lietuva ir dar šešios NATO kandidatės pakviestos pradėti derybas dėl narystės NATO.
 - susijęs iš [[objektai/zodynas/Kolektyvinės savigynos teisė.md#claim-t-183434|Kolektyvinės savigynos teisė]]: Vašingtono sutarties 5-ajame straipsnyje garantuojama individualios ar kolektyvinės savigynos teisė, užpuolus vieną Aljanso narę.
 - susijęs iš [[objektai/zodynas/Kolektyvinės savigynos teisė.md#claim-t-21996|Kolektyvinės savigynos teisė]]: Kolektyvinės savigynos teisė reiškia, kad ginkluoto puolimo prieš vieną Aljanso narę atveju kitos narės ateina jai į pagalbą.
@@ -68,3 +78,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b678eb75c5cbd0eba8ab63d95400970ecfeda7bb45f85bfabb210d75bb6c62fd; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vašingtonas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vašingtonas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

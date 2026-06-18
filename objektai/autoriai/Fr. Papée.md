@@ -23,6 +23,16 @@ i Papée, Fr.
   susije_objektai: 'mentioned_author: [[objektai/autoriai/St. Smolka|St. Smolka]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=def4d6ff9fcd8c3cc04d0a23aa94942c3e0db7b1d289676d49bf5a07986ae26c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> St. Smolka: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fr. Papée: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: St. Smolka: mention_match, author, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fr. Papée" parinktas kaip owner_note_path. Targetas "St. Smolka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/A. Brückner.md#claim-t-64508|A. Brückner]]: Al. Brückneris priklausė senosios istorikų kartai, kuri XIII a. pradžios lietuvius vaizdavo kaip vargšus ir skurdžius.
 - susijęs iš [[objektai/autoriai/Pr. Papée.md#claim-t-30929|Pr. Papée]]: Fr. Papée priklausė senajai istorikų kartai, vaizdavusiai lietuvius vargšais ir skurdžiais.
 - susijęs iš [[objektai/autoriai/Pr. Papée.md#claim-t-30930|Pr. Papée]]: Fr. Papée kartu su St. Smolka parengė darbą Władysław Jagiełło Encyklopedja Polska leidiniui.
@@ -41,3 +51,13 @@ i Papée, Fr.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=def4d6ff9fcd8c3cc04d0a23aa94942c3e0db7b1d289676d49bf5a07986ae26c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> St. Smolka: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fr. Papée: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: St. Smolka: mention_match, author, gap=13
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fr. Papée" parinktas kaip owner_note_path. Targetas "St. Smolka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

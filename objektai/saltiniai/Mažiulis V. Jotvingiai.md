@@ -32,6 +32,9 @@ Dusburgietis teigia, kad mažiulis V.
   temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį įrašo faktą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 785320-785371; hash=484f94fe6fab55bfe2421887c7ad632286d6578e6238f49e40e3889144f6cc09; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -45,3 +48,6 @@ Dusburgietis teigia, kad mažiulis V.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 785320-785371; hash=484f94fe6fab55bfe2421887c7ad632286d6578e6238f49e40e3889144f6cc09; match=exact
+  sprendimo_priezastis: auto

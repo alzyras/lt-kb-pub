@@ -35,6 +35,16 @@ Dusburgietis teigia, kad milthaler F.
   temporalinis_llm_pakomentavimas: 'Citata pateikia autorių, pavadinimą, leidimo vietas ir metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 786746-786850; hash=c66bc9d31e538445c8c7e04e1ba458d7ffee18c00e4054d4d044969a81861c0d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Berlynas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Milthaler F. Die Grossgebietiger des Deutschen Ritterordens bis 1440,—Königsberg (Pr.) und Berlin, 1940: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=99
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Milthaler F. Die Grossgebietiger des Deutschen Ritterordens bis 1440,—Königsberg (Pr.) und Berlin, 1940" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +59,13 @@ Dusburgietis teigia, kad milthaler F.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 786746-786850; hash=c66bc9d31e538445c8c7e04e1ba458d7ffee18c00e4054d4d044969a81861c0d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Berlynas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Milthaler F. Die Grossgebietiger des Deutschen Ritterordens bis 1440,—Königsberg (Pr.) und Berlin, 1940: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Berlynas: mention_match, place, gap=99
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Milthaler F. Die Grossgebietiger des Deutschen Ritterordens bis 1440,—Königsberg (Pr.) und Berlin, 1940" parinktas kaip owner_note_path. Targetas "Berlynas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -24,6 +24,9 @@ Nebuvo aplenkti nė vienuolynai: juos paskelbė „lotyniškos lenkiškos propag
   sudarymo_pagrindimas: 'Reikia pašalinti OCR kėlimą ir sutvarkyti kabutes.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9a43c94e10ade6261291331fce8a09a823c0d7c6d15ebe5edd36eb65b96997c5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -40,3 +43,6 @@ Nebuvo aplenkti nė vienuolynai: juos paskelbė „lotyniškos lenkiškos propag
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9a43c94e10ade6261291331fce8a09a823c0d7c6d15ebe5edd36eb65b96997c5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

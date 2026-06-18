@@ -24,6 +24,9 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Kęsgailų giminės paminėjimus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 41234-41550; hash=a23806a8eb48ebe9e9fa791fa14068fb4bacb05e37ffbca5b714dd36b2b4a78f; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -43,3 +46,6 @@ Bychovco kronikoje Žemaitijos seniūnų Kęsgailų giminės atstovai minimi ben
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 41234-41550; hash=a23806a8eb48ebe9e9fa791fa14068fb4bacb05e37ffbca5b714dd36b2b4a78f; match=whitespace_regex
+  sprendimo_priezastis: auto

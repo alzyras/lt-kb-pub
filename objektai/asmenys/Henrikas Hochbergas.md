@@ -22,9 +22,19 @@ Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis b
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinė pretenzija painiojo kitą Henriką; citata apie Hochbergą pagrindžia šį faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Patrikas|Patrikas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Patrikas|Patrikas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 423151-424132; hash=b6e0f3e06f66b730f7043b4631e27594e746600f9c9f8558adbe2dc84c814e1b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Patrikas (kunigaikštis, XIV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas Hochbergas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Patrikas (kunigaikštis, XIV a.): mention_match, person, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas Hochbergas" parinktas kaip owner_note_path. Targetas "Patrikas (kunigaikštis, XIV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -65,3 +75,13 @@ Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis b
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 423151-424132; hash=b6e0f3e06f66b730f7043b4631e27594e746600f9c9f8558adbe2dc84c814e1b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Patrikas (kunigaikštis, XIV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas Hochbergas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Patrikas (kunigaikštis, XIV a.): mention_match, person, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas Hochbergas" parinktas kaip owner_note_path. Targetas "Patrikas (kunigaikštis, XIV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

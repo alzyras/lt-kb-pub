@@ -34,7 +34,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys palaikomas citata, bet reikia pašalinti boilerplate ir pataisyti rašybą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Kamenecas; mentioned_place: Livonija; mentioned_place: Poleksija; mentioned_place: Suražas; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Suražas; mentioned_place: Kamenecas; mentioned_place: Poleksija; mentioned_place: Suražas; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Livonija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -43,6 +43,16 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia veikalo leidimo vietą ir atskirų tomų leidimo metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 768614-768785; hash=36e85b64efa448fa1edb5f1047f37ad0ecf93cedecbaefe1f28751c39f06b51b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Varšuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jono Dlugošo Lenkijos karalystės metraščiai kronikos: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Varšuva: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jono Dlugošo Lenkijos karalystės metraščiai kronikos" parinktas kaip owner_note_path. Targetas "Varšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60986"></a>
 - t-002
@@ -51,6 +61,9 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 768788-768907; hash=a2037437024c6c0ea6baff573567dbb3fb268c8f8419e8d99b4614cbf7dc3480; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -76,4 +89,17 @@ Dusburgietis teigia, kad dlugossii I. Annales seu cronicae incliti regni Polonia
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 768614-768785; hash=36e85b64efa448fa1edb5f1047f37ad0ecf93cedecbaefe1f28751c39f06b51b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Varšuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jono Dlugošo Lenkijos karalystės metraščiai kronikos: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Varšuva: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jono Dlugošo Lenkijos karalystės metraščiai kronikos" parinktas kaip owner_note_path. Targetas "Varšuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 768788-768907; hash=a2037437024c6c0ea6baff573567dbb3fb268c8f8419e8d99b4614cbf7dc3480; match=exact
+  sprendimo_priezastis: auto

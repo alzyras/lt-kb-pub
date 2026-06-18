@@ -32,21 +32,41 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   global_id: t-19412
   teiginys: 'Vaižgantas buvo vienas iš lietuvių literatūros klasikų, tarpukariu dar gyvenusių Kaune.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata leidžia suformuluoti faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7b6cbac005ce8d10beb8b51ee9761dd31c03c4983e5707b82916db5e497c4daf; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> spiritus movens: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Juozas Tumas (Vaižgantas): owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: spiritus movens: mention_match, thing, gap=70
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Tumas (Vaižgantas)" parinktas kaip owner_note_path. Targetas "spiritus movens" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-19413"></a>
 - t-002
   global_id: t-19413
   teiginys: 'Juozas Tumas (Vaižgantas) buvo 1896 m. pradėto leisti „Tėvynės sargo“ spiritus movens.'
   sudarymo_pagrindimas: 'Reikia sakinio, kurio pagrindinis objektas būtų asmuo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/spiritus movens|spiritus movens]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/spiritus movens|spiritus movens]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   temporaliniai_duomenys: 'įvykio data: po 1896 m.; įvykio data: 1896 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia sakinio, kurio pagrindinis objektas būtų asmuo.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 340008-340944; hash=4209f10648cdb93f41fa736f4abb14595c621eb143c096bf6422a47e785b34de; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Juozas Tumas (Vaižgantas): owner_note_path, author
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Tumas (Vaižgantas)" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183344"></a>
 - t-003
@@ -56,19 +76,29 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas iki aiškaus enciklopedinio sakinio apie asmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/spiritus movens|spiritus movens]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/spiritus movens|spiritus movens]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   temporaliniai_duomenys: 'įvykio data: po 1896 m.; įvykio data: 1896 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas iki aiškaus enciklopedinio sakinio apie asmenį.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 227418-227990; hash=872a272aafc306e2771f56a4eced6628cd8eb7846141e56151155af78b861d72; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> spiritus movens: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Juozas Tumas (Vaižgantas): owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: spiritus movens: mention_match, thing, gap=90
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Tumas (Vaižgantas)" parinktas kaip owner_note_path. Targetas "spiritus movens" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Juozas Tumas-Vaižgantas.md#claim-t-63767|Juozas Tumas-Vaižgantas]]: Jaunas kunigas Juozas Tumas-Vaižgantas buvo svarbiausias nuo 1896 m. leisto katalikiško laikraščio „Tėvynės sargas“ veikėjas.
+- susijęs iš Tėvynės sargas: „Tėvynės sargas“ nuo 1896 m. tapo populiariausiu katalikiškos pakraipos leidiniu, o jo varomoji jėga buvo Juozas Tumas-Vaižgantas.
+- susijęs iš [[objektai/zodynas/spiritus movens.md#claim-t-22304|spiritus movens]]: 1896 m. pradėto leisti „Tėvynės sargo“ spiritus movens buvo jaunas kunigas Juozas Tumas-Vaižgantas.
 - susijęs iš [[objektai/grupes/Lietuviškoji socialdemokratų partija.md#claim-t-74618|Lietuviškoji socialdemokratų partija]]: 1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido spaudą lietuvių ir lenkų kalbomis.
 - susijęs iš [[objektai/ivykiai/Lietuviškosios socialdemokratų partijos susikūrimas.md#claim-t-20262|Lietuviškosios socialdemokratų partijos susikūrimas]]: 1896 m. susikūrusi Lietuviškoji socialdemokratų partija buvo pirmoji su lietuvių tautiniu sąjūdžiu susijusi politinė partija.
 - susijęs iš [[objektai/ivykiai/„Tėvynės sargo“ leidimo pradžia.md#claim-t-26406|„Tėvynės sargo“ leidimo pradžia]]: Nuo 1896 m. leistas „Tėvynės sargas“ tapo populiariausiu katalikiškos pakraipos leidiniu.
 - susijęs iš [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui.md#claim-t-54314|Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]: 1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido savo spaudą lietuvių ir lenkų kalbomis.
-- susijęs iš Tėvynės sargas: „Tėvynės sargas“ nuo 1896 m. tapo populiariausiu katalikiškos pakraipos leidiniu, o jo varomoji jėga buvo Juozas Tumas-Vaižgantas.
-- susijęs iš [[objektai/zodynas/spiritus movens.md#claim-t-22304|spiritus movens]]: 1896 m. pradėto leisti „Tėvynės sargo“ spiritus movens buvo jaunas kunigas Juozas Tumas-Vaižgantas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -108,6 +138,16 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 340008-340944; hash=4209f10648cdb93f41fa736f4abb14595c621eb143c096bf6422a47e785b34de; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Juozas Tumas (Vaižgantas): owner_note_path, author
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Tumas (Vaižgantas)" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -127,4 +167,24 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7b6cbac005ce8d10beb8b51ee9761dd31c03c4983e5707b82916db5e497c4daf; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> spiritus movens: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Juozas Tumas (Vaižgantas): owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: spiritus movens: mention_match, thing, gap=70
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Tumas (Vaižgantas)" parinktas kaip owner_note_path. Targetas "spiritus movens" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 227418-227990; hash=872a272aafc306e2771f56a4eced6628cd8eb7846141e56151155af78b861d72; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> spiritus movens: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Juozas Tumas (Vaižgantas): owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: spiritus movens: mention_match, thing, gap=90
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Juozas Tumas (Vaižgantas)" parinktas kaip owner_note_path. Targetas "spiritus movens" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

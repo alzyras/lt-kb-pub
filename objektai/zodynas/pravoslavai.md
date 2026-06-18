@@ -21,7 +21,7 @@ amziai:
   global_id: t-11775
   teiginys: 'Pravoslavai priklausė Konstantinopolio patriarchatui ir kadaise buvo valdomi Kijevo metropolito.'
   sudarymo_pagrindimas: 'Reikia aiškiai įvardyti objektą ir pašalinti neapibrėžtą įvardį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

@@ -49,6 +49,16 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=35a42fada3305c984b3b66c9e0085398f527cd3317ee0595819d8ca3cc8d8a16; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltarusiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstantinas Kalinauskas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Baltarusiai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstantinas Kalinauskas" parinktas kaip owner_note_path. Targetas "Baltarusiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-63838"></a>
 - t-003
@@ -61,9 +71,19 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai mini K. Kalinausko egzekuciją ir Muravjovo įsakymą karti sukilėlius.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6fb33dfa405a40ce820533f8eb5ef9371f20152d9d41e3237fd28d25186094c3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstantinas Kalinauskas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstantinas Kalinauskas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika.md#claim-t-75356|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]: 1863 m. pabaigoje Antanas Mackevičius ir Konstantinas Kalinauskas pateko į sukilimo slopintojų rankas ir netrukus buvo viešai pakarti.
 - susijęs iš [[objektai/grupes/Laikinoji Vyriausybė Lietuvoje.md#claim-t-40980|Laikinoji Vyriausybė Lietuvoje]]: Lietuvos Provincijos komitetas 1863 m. vasario 1 d. paskelbė manifestą ir pasivadino Laikinąja Vyriausybe Lietuvoje.
 - susijęs iš [[objektai/ivykiai/1863 m. sukilimo pradžia.md#claim-t-39122|1863 m. sukilimo pradžia (sukilimas)]]: 1863 m. sausio 22 d. Lenkijoje prasidėjo sukilimas.
-- susijęs iš [[objektai/paprociai/Carinės sukilimo slopinimo teroro ir viešų bausmių praktika.md#claim-t-75356|Carinės sukilimo slopinimo teroro ir viešų bausmių praktika (sukilimas)]]: 1863 m. pabaigoje Antanas Mackevičius ir Konstantinas Kalinauskas pateko į sukilimo slopintojų rankas ir netrukus buvo viešai pakarti.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -98,6 +118,16 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=35a42fada3305c984b3b66c9e0085398f527cd3317ee0595819d8ca3cc8d8a16; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltarusiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstantinas Kalinauskas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Baltarusiai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstantinas Kalinauskas" parinktas kaip owner_note_path. Targetas "Baltarusiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-003
@@ -118,3 +148,13 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
   statusas: verified
   pagrindžia:
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6fb33dfa405a40ce820533f8eb5ef9371f20152d9d41e3237fd28d25186094c3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Konstantinas Kalinauskas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Konstantinas Kalinauskas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

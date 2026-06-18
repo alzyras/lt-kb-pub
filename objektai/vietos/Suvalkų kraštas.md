@@ -25,7 +25,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   global_id: t-95214
   teiginys: 'Užnemunėje, citatoje tapatinamoje su Suvalkų kraštu, kaimai XIX a. išsiskirstė vienkiemiais.'
   sudarymo_pagrindimas: 'Reikia pašalinti santrumpos ir fragmentiškumo įspūdį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Suvalkai; mentioned_place: Užnemunė'
+  susije_objektai: 'mentioned_place: Suvalkai; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Užnemunė'
   pagrindžia:
     - c-001
 
@@ -50,7 +50,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   global_id: t-95219
   teiginys: 'Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais, o į Prūsiją per jį ėjo tik du keliai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai apibendrina citatoje pateiktą informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Suvalkai'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_place: Suvalkai; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -61,6 +61,9 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d904f45558d462ae8e5e033171065a8b2e069e554257cef8508972a2d8181a79; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -131,6 +134,9 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d904f45558d462ae8e5e033171065a8b2e069e554257cef8508972a2d8181a79; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
 
 - c-005

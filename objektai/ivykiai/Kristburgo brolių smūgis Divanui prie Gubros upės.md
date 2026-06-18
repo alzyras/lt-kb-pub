@@ -47,12 +47,22 @@ Nenurodyta
   global_id: t-91915
   teiginys: 'Kristburgo ir Elbingo broliai prie Gubros upės užpuolė Divaną, nukovė jo giminaitį Dabarą ir susigrąžino grobį.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir tiesiogiai paremtas citata apie puolimą prie Gubros upės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Dabaras|Dabaras]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Aliamas; mentioned_place: Elbingas; mentioned_place: Kaimas; mentioned_place: Kristburgas; mentioned_place: Marienburgas; mentioned_place: Pilaitė; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Vildenbergas; mentioned_place: Zirgūna'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dabaras|Dabaras]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Elbingas; mentioned_place: Kristburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Aliamas; mentioned_place: Kaimas; mentioned_place: Marienburgas; mentioned_place: Pilaitė; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Vildenbergas; mentioned_place: Zirgūna'
   temporaliniai_duomenys: 'įvykio data: 1271 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, konkretus ir tiesiogiai paremtas citata apie puolimą prie Gubros upės.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 441140-442755; hash=f55568cedc280bfabe1f2b7d2f7904f2ca92465512675f97c7c2056db7f3ee1d; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dabaras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristburgo brolių smūgis Divanui prie Gubros upės: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Dabaras: mention_match, person, gap=83
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristburgo brolių smūgis Divanui prie Gubros upės" parinktas kaip owner_note_path. Targetas "Dabaras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -87,3 +97,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 441140-442755; hash=f55568cedc280bfabe1f2b7d2f7904f2ca92465512675f97c7c2056db7f3ee1d; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dabaras: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristburgo brolių smūgis Divanui prie Gubros upės: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Dabaras: mention_match, person, gap=83
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristburgo brolių smūgis Divanui prie Gubros upės" parinktas kaip owner_note_path. Targetas "Dabaras" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

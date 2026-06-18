@@ -36,6 +36,16 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
   temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti privilegiją ir pakeisti įvardį konkrečiu subjektu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d64016b0ce89cc5acf46aa165aba62e57707baf0903157f915c93b3cb07bdc41; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> pravoslavai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zigmanto Kęstutaičio 1434 m. privilegija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: pravoslavai: mention_match, thing, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmanto Kęstutaičio 1434 m. privilegija" parinktas kaip owner_note_path. Targetas "pravoslavai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -54,3 +64,13 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d64016b0ce89cc5acf46aa165aba62e57707baf0903157f915c93b3cb07bdc41; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> pravoslavai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zigmanto Kęstutaičio 1434 m. privilegija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: pravoslavai: mention_match, thing, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zigmanto Kęstutaičio 1434 m. privilegija" parinktas kaip owner_note_path. Targetas "pravoslavai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -44,7 +44,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, o teiginys sutvarkytas ir išvalytas nuo OCR triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Breslavas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Breslavas'
   pagrindžia:
     - c-002
 
@@ -56,7 +56,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pataisytas, paliekant tik citatos remiamus faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1419 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir pataisytas, paliekant tik citatos remiamus faktus.'
@@ -73,6 +73,7 @@ amziai:
   sudarymo_pagrindimas: 'Iš citatos pašalintas OCR triukšmas ir aiškiai įvardyti asmenys bei objektas.'
   pagrindžia:
     - c-004
+- susijęs iš [[objektai/asmenys/Jonas (Čekijos karalius).md#claim-t-39558|Jonas (Čekijos karalius)]]: 1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją.
 - susijęs iš [[objektai/asmenys/Jonas Liuksemburgietis.md#claim-t-30310|Jonas Liuksemburgietis]]: 1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius.
 - susijęs iš [[objektai/asmenys/Otokaras (Čekijos karalius).md#claim-t-35259|Otokaras (Čekijos karalius)]]: Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje.
 - susijęs iš [[objektai/asmenys/Otokaras II.md#claim-t-175269|Otokaras II]]: 1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus.
@@ -82,16 +83,50 @@ amziai:
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40515|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
 - susijęs iš [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.).md#claim-t-59667|Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]]: Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.
 - susijęs iš [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.).md#claim-t-66805|Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]: Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.
+- susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-101620|„jogailaičių Europa“ „krikščionybės forpostas“]]: XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lietuvą, Čekiją ir Vengriją, todėl rytinė Vidurio Europa vadinta „jogailaičių Europa“.
 - susijęs iš [[objektai/asmenys/Egerbergas.md#claim-t-87658|Egerbergas]]: 1323 m. pradžioje Egerbergas su Zinnenbergu atvyko su stipriu kilmingų karių ir vasalų pulku iš Čekijos bei Pareinio žemių.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63418|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1307 m. Albrechtas į Čekijos sostą pakėlė savo sūnų.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63420|Albrechtas (Romos karalius)]]: Romos karalius Albrechtas pakėlė savo sūnų į Čekijos sostą, kai po Vaclovo ir jo sūnaus mirties sostas liko be įpėdinių.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176307|Algirdas (Lietuvos valdovas)]]: Algirdo ir Kęstučio laikais Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.
+- susijęs iš [[objektai/asmenys/Egerbergas.md#claim-t-87658|Egerbergas]]: 1323 m. pradžioje Egerbergas su Zinnenbergu atvyko su stipriu kilmingų karių ir vasalų pulku iš Čekijos bei Pareinio žemių.
+- susijęs iš [[objektai/asmenys/Jonas iš Liuksemburgo.md#claim-t-60347|Jonas iš Liuksemburgo]]: 1329 m. Jonas iš Liuksemburgo, Čekijos karalius, su kilmingųjų palyda atžygiavo į Prūsiją.
+- susijęs iš [[objektai/asmenys/Jonas Černinas.md#claim-t-186219|Jonas Černinas]]: Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti didelius algininkų būrius.
+- susijęs iš [[objektai/asmenys/Margalis (Margirius ).md#claim-t-39597|Margalis (Margirius )]]: 1329 m. lietuvių didikas Margalis dvikovoje susirėmė su Čekijos karaliumi Jonu Liuksemburgiečiu.
+- susijęs iš [[objektai/asmenys/Plihta.md#claim-t-87833|Plihta]]: 1322 m. žiemą Plihta su broliu iš Čekijos vedė vieną kryžiuočių ekspedicijos į Prūsiją pulką.
+- susijęs iš [[objektai/asmenys/Rudolfas iš Habsburgo.md#claim-t-184124|Rudolfas iš Habsburgo]]: Rudolfas iš Habsburgo savo dukterį atidavė nukauto Čekijos karaliaus Otokaro sūnui.
+- susijęs iš [[objektai/asmenys/Rudolfas iš Habsburgo.md#claim-t-60197|Rudolfas iš Habsburgo]]: Rudolfas iš Habsburgo kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė sūnui Albrechtui.
+- susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-35305|Vaclovas Čekietis]]: Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.
+- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176867|Zigmantas Kaributas]]: Vytautas pasiuntė savo sūnėną Zigmantą Kaributą į Čekiją vietininku su keliolika tūkstančių kareivių.
+- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176869|Zigmantas Kaributas]]: Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas.
+- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176882|Zigmantas Liuksemburgietis]]: Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.
+- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-184297|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis pabijojo, kad Vytautas neįsitvirtintų Čekijoje ir jos neperimtų.
+- susijęs iš [[objektai/autoriai/Pr. Penkauskas.md#claim-t-30931|Pr. Penkauskas]]: Pr. Penkauskas 1930 m. Židinyje paskelbė darbą apie Vytautą Didįjį ir jo Čekijos politiką po Vencelio mirties.
+- susijęs iš [[objektai/daiktai/Šv. Vaclovo karūna.md#claim-t-35570|Šv. Vaclovo karūna]]: Čekai pasiūlė Vytautui karūnuotis Čekijos karaliaus karūna.
+- susijęs iš [[objektai/grupes/Habsburgai.md#claim-t-182891|Habsburgai]]: Zigmantas rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdytų Vengrijos ir Čekijos.
+- susijęs iš [[objektai/grupes/Husitai.md#claim-t-184478|Husitai]]: 1429 m. valdovų posėdyje imperatorius ragino sutelktomis jėgomis numalšinti husitus pirmiausia Čekijoje.
+- susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110661|Jogailaičiai]]: 1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą.
+- susijęs iš [[objektai/grupes/Čekijos husitai.md#claim-t-41207|Čekijos husitai]]: Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną.
+- susijęs iš [[objektai/ivykiai/Karaliaučiaus, arba Tvankstės, pilies pastatymas (1255 m.).md#claim-t-62819|Karaliaučiaus, arba Tvankstės, pilies pastatymas (1255 m.)]]: 1255 m. magistras ir broliai pastatė Karaliaučiaus pilį, kurią Čekijos karaliaus garbei pavadino Karaliaus pilimi.
+- susijęs iš [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.).md#claim-t-35843|Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]: Lietuvių santykiai su husitais baigėsi, kai Kaributas po derybų su popiežiumi buvo išvytas iš Čekijos.
+- susijęs iš [[objektai/ivykiai/Čekijos ir Vengrijos karalių karas (1260 m.).md#claim-t-62539|Čekijos ir Vengrijos karalių karas (1260 m.)]]: 1260 m. Vengrijos karalius su įvairiataute 40 tūkstančių raitelių kariuomene užpuolė Čekijos karalių.
+- susijęs iš [[objektai/ivykiai/Čekijos sosto perėjimas po Vaclovo mirties (1307 m.).md#claim-t-62540|Čekijos sosto perėjimas po Vaclovo mirties (1307 m.)]]: 1307 m. mirus Čekijos karaliui Vaclovui ir nužudžius jo sūnų, Čekijos sostas atiteko svetimiesiems.
+- susijęs iš [[objektai/ivykiai/Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.).md#claim-t-185675|Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.)]]: Čekai, tikėdamiesi Jogailos ir Vytauto paramos prieš imperatorių Zigmantą, pasiūlė jiems Čekijos karaliaus vainiką.
+- susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos.md#claim-t-67160|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]: Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją.
+- susijęs iš [[objektai/posakiai/Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.md#claim-t-185467|Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą]]: Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų nepalankumo sau ir žalos čekams.
+- susijęs iš [[objektai/posakiai/Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.md#claim-t-185468|Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą]]: Vytautas pareiškė įsakęs Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.
+- susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-101620|„jogailaičių Europa“ „krikščionybės forpostas“]]: XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lietuvą, Čekiją ir Vengriją, todėl rytinė Vidurio Europa vadinta „jogailaičių Europa“.
+- susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-183493|„jogailaičių Europa“ „krikščionybės forpostas“]]: Jogailaičių dinastija Lenkijos ir Lietuvos sostuose valdė iki 1572 m., o XV a. pabaigoje–XVI a. pradžioje užėmė ir Čekijos bei Vengrijos sostus.
+- susijęs iš Vytautas Didysis ir jo Čekijos politika Venceliui mirus: Penkausko darbas „Vytautas Didysis ir jo Čekijos politika Venceliui mirus“ buvo atspaustas iš 1930 m. „Židinio“.
+- susijęs iš Buda: 1307 m. mirus Čekijos karaliui Vaclovui, jo sūnus buvo vainikuotas karaliumi Budoje.
+- susijęs iš Karaliaučius: 1255 m. Karaliaučius iškilo padedant Čekijos karaliui Otokarui.
+- susijęs iš Karaliaučius: Karaliaučius iškilo 1255 metais, padedant Čekijos karaliui Otokarui.
+- susijęs iš Prūsija: Zigmantas siekė su kryžiuočių pagalba sudaryti Lietuvos, Prūsijos, Vengrijos ir Čekijos sąjungą prieš Lenkiją.
+- susijęs iš Semba: 1254 m. į Sembos pavergimo žygį vyko Čekijos karalius Otokaras, Otonas ir kiti didikai bei dvasininkai.
 - susijęs iš [[objektai/asmenys/Albrechtas (Rudolfo sūnus).md#claim-t-184044|Albrechtas (Rudolfo sūnus)]]: Rudolfo sūnus Albrechtas vėliau tapo Romos karaliumi.
 - susijęs iš [[objektai/asmenys/Albrechtas (Rudolfo sūnus).md#claim-t-60231|Albrechtas (Rudolfo sūnus)]]: Rudolfas, nukovęs Čekijos karalių Otokarą, Austrijos kunigaikštystę atidavė savo sūnui Albrechtui.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176274|Algirdas (Lietuvos valdovas)]]: Algirdas buvo Gedimino sūnus ir Jogailos tėvas.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176307|Algirdas (Lietuvos valdovas)]]: Algirdo ir Kęstučio laikais Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.
 - susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Bernardas iš Svidnicos.md#claim-t-87633|Bernardas iš Svidnicos]]: 1322 m. žiemą Silezijos kunigaikštis Bernardas iš Svidnicos vedė atskirą kryžiuočių ekspedicijos į Prūsiją pulką.
-- susijęs iš [[objektai/asmenys/Egerbergas.md#claim-t-87658|Egerbergas]]: 1323 m. pradžioje Egerbergas su Zinnenbergu atvyko su stipriu kilmingų karių ir vasalų pulku iš Čekijos bei Pareinio žemių.
 - susijęs iš [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona).md#claim-t-173148|Elžbieta (Žygimanto Augusto žmona)]]: Elžbieta, Ferdinando duktė, 1543 m. ištekėjo už Žygimanto Augusto, 1545 m. mirė Vilniuje ir buvo palaidota katedroje.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-89713|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočiai manė, kad Rygos arkivyskupas Fridrichas iš senos neapykantos atsikvietė lietuvių priešą į Livoniją.
 - susijęs iš [[objektai/asmenys/Fridrichas fon Vildenbergas.md#claim-t-87501|Fridrichas fon Vildenbergas]]: Krašto magistras Fridrichas fon Vildenbergas su 150 Ordino riterių nuvedė kariuomenę į Vaikius Žemaitijoje.
@@ -105,15 +140,12 @@ amziai:
 - susijęs iš [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė).md#claim-t-60323|Hermanas (Petro iš Rozenbergo dėdė)]]: 1324 m. Petras iš Rozenbergo ir jo dėdė Hermanas su daugybe riterių bei ginklanešių atvyko į Prūsiją.
 - susijęs iš [[objektai/asmenys/Jonas (Čekijos karalius).md#claim-t-39558|Jonas (Čekijos karalius)]]: 1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją.
 - susijęs iš [[objektai/asmenys/Jonas Liuksemburgietis.md#claim-t-30310|Jonas Liuksemburgietis]]: 1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius.
-- susijęs iš [[objektai/asmenys/Jonas iš Liuksemburgo.md#claim-t-60347|Jonas iš Liuksemburgo]]: 1329 m. Jonas iš Liuksemburgo, Čekijos karalius, su kilmingųjų palyda atžygiavo į Prūsiją.
-- susijęs iš [[objektai/asmenys/Jonas Černinas.md#claim-t-186219|Jonas Černinas]]: Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti didelius algininkų būrius.
 - susijęs iš [[objektai/asmenys/Jonas.md#claim-t-60338|Jonas]]: 1324 m. grafas Jonas iš Španheimo atvyko į Prūsiją, bet dėl plono ledo nesiėmė veiksmų prieš tikėjimo priešus.
 - susijęs iš [[objektai/asmenys/Jurgis (Vilniaus kaštelionas, Barboros tėvas).md#claim-t-87739|Jurgis (Vilniaus kaštelionas, Barboros tėvas)]]: Jurgis buvo Vilniaus kaštelionas ir Barboros Radvilaitės tėvas.
 - susijęs iš [[objektai/asmenys/Karolis VI.md#claim-t-184283|Karolis VI]]: Ordino magistras Henrikas von Plauenas prašė Prancūzijos karaliaus Karolio VI pagalbos prieš Vytautą.
 - susijęs iš [[objektai/asmenys/Karolis VI.md#claim-t-35184|Karolis VI]]: Ordino magistras Henrikas von Plauenas prašė Prancūzijos karaliaus Karolio VI pagalbos prieš Vytautą.
 - susijęs iš [[objektai/asmenys/Liudvikas (Vengrijos karalius).md#claim-t-39587|Liudvikas (Vengrijos karalius)]]: 1345 m. sausį Vengrijos karalius Liudvikas atvyko į Prūsiją su kitais valdovais ir kilmingaisiais.
 - susijęs iš [[objektai/asmenys/Liudvikas (Čekijos karalius).md#claim-t-186144|Liudvikas (Čekijos karalius)]]: Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tėvą ir valdovą.
-- susijęs iš [[objektai/asmenys/Margalis (Margirius ).md#claim-t-39597|Margalis (Margirius )]]: 1329 m. lietuvių didikas Margalis dvikovoje susirėmė su Čekijos karaliumi Jonu Liuksemburgiečiu.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184436|Martynas V]]: Martynas V keliais atvejais ragino Vytautą pasitraukti nuo husitų.
 - susijęs iš [[objektai/asmenys/Martynas iš Opavos.md#claim-t-60385|Martynas iš Opavos (arkivyskupas, XIII a.)]]: Martynas iš Opavos, čekų vienuolis, 1278 m. buvo paskirtas Gnezno arkivyskupu, bet mirė ten nenuvykęs.
 - susijęs iš [[objektai/asmenys/Otokaras (Čekijos karalius).md#claim-t-35259|Otokaras (Čekijos karalius)]]: Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje.
@@ -124,40 +156,27 @@ amziai:
 - susijęs iš [[objektai/asmenys/Otonas (Brandenburgo markgrafas).md#claim-t-60188|Otonas (Brandenburgo markgrafas)]]: 1266 m. Brandenburgo markgrafas Otonas su sūnumi ir broliu patraukė į Prūsiją tramdyti prūsų sukilimo.
 - susijęs iš [[objektai/asmenys/Petras iš Rozenbergo.md#claim-t-60408|Petras iš Rozenbergo]]: 1324 m. Petras iš Rozenbergo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.
 - susijęs iš [[objektai/asmenys/Pilypas.md#claim-t-60410|Pilypas]]: 1324 m. grafas Pilypas iš Španheimo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.
-- susijęs iš [[objektai/asmenys/Plihta.md#claim-t-87833|Plihta]]: 1322 m. žiemą Plihta su broliu iš Čekijos vedė vieną kryžiuočių ekspedicijos į Prūsiją pulką.
 - susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
 - susijęs iš [[objektai/asmenys/Pršemyslas Otokaras II.md#claim-t-39630|Pršemyslas Otokaras II]]: Pršemyslas Otokaras II 1255 m. atvyko į pagalbą Ordinui ir inicijavo Karaliaučiaus pilies statybą.
-- susijęs iš [[objektai/asmenys/Rudolfas iš Habsburgo.md#claim-t-184124|Rudolfas iš Habsburgo]]: Rudolfas iš Habsburgo savo dukterį atidavė nukauto Čekijos karaliaus Otokaro sūnui.
-- susijęs iš [[objektai/asmenys/Rudolfas iš Habsburgo.md#claim-t-60197|Rudolfas iš Habsburgo]]: Rudolfas iš Habsburgo kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė sūnui Albrechtui.
 - susijęs iš [[objektai/asmenys/Russdorfas.md#claim-t-35271|Russdorfas]]: Russdorfas buvo numatytos sąjungos su Vytautu ir Zigmantu dalyvis; ši sąjunga turėjo būti nukreipta prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Vaclovas (Čekijos ir Lenkijos karalius).md#claim-t-60453|Vaclovas (Čekijos ir Lenkijos karalius)]]: 1300 m. Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Vaclovas (Čekijos karalius).md#claim-t-60454|Vaclovas (Čekijos karalius)]]: 1307 m. mirė Čekijos karalius Vaclovas, o Čekijos sostas atiteko svetimiesiems.
 - susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-184288|Vaclovas Čekietis]]: Ordino magistras Henrikas von Plauenas po Makro raporto vyko pas Čekijos karalių Vaclovą prašyti pagalbos prieš Vytautą.
-- susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-35305|Vaclovas Čekietis]]: Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-184141|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1329 m. Verneris su 200 brolių ir 18 tūkstančių karių patraukė į Lietuvą ir apsupo Medvėgalio pilį.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64231|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1329 m. Verneris su 200 brolių ir 18 tūkstančių karių patraukė į Lietuvą ir apsupo Medvėgalio pilį.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-183769|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184861|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Į valdovų susitikimą karalius Vladislovas ir jo duktė Ona atvažiavo važiuoti.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40515|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90072|Vladislovas Lokietka]]: Vasario 1 d. Vladislovas Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis.
-- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176867|Zigmantas Kaributas]]: Vytautas pasiuntė savo sūnėną Zigmantą Kaributą į Čekiją vietininku su keliolika tūkstančių kareivių.
-- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176869|Zigmantas Kaributas]]: Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176872|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis kurstė popiežių, ordinus, Hanzos miestus ir Vokietijos kunigaikščius kariauti su Vytautu.
-- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176882|Zigmantas Liuksemburgietis]]: Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.
-- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-184297|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis pabijojo, kad Vytautas neįsitvirtintų Čekijoje ir jos neperimtų.
 - susijęs iš [[objektai/asmenys/Zinnenbergas.md#claim-t-87893|Zinnenbergas]]: 1323 metų pradžioje riteriai Zinnenbergas ir Egerbergas atvyko su stipriu kilmingų karių ir vasalų pulku.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179720|Švitrigaila]]: Lenkijos valdantieji sluoksniai Švitrigailai siūlė Lenkijos vainiką arba Lietuvos valdymą susiejus ją su Lenkija.
-- susijęs iš [[objektai/autoriai/Pr. Penkauskas.md#claim-t-30931|Pr. Penkauskas]]: Pr. Penkauskas 1930 m. Židinyje paskelbė darbą apie Vytautą Didįjį ir jo Čekijos politiką po Vencelio mirties.
 - susijęs iš [[objektai/daiktai/Ietis.md#claim-t-186836|Ietis]]: 1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais.
-- susijęs iš [[objektai/daiktai/Šv. Vaclovo karūna.md#claim-t-35570|Šv. Vaclovo karūna]]: Čekai pasiūlė Vytautui karūnuotis Čekijos karaliaus karūna.
-- susijęs iš [[objektai/grupes/Habsburgai.md#claim-t-182891|Habsburgai]]: Zigmantas rūpinosi, kad Habsburgai negautų jo brolio Vladislovo valdytų Vengrijos ir Čekijos.
 - susijęs iš [[objektai/grupes/Habsburgų dinastija.md#claim-t-19699|Habsburgų dinastija]]: XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija buvo pagrindinė Habsburgų dinastijos konkurentė.
 - susijęs iš [[objektai/grupes/Husitai.md#claim-t-172096|Husitai]]: Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.
 - susijęs iš [[objektai/grupes/Husitai.md#claim-t-172102|Husitai]]: 1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą tapti jų karaliumi ir gavo iš jo vilčių.
 - susijęs iš [[objektai/grupes/Husitai.md#claim-t-172104|Husitai]]: Čekai husitai pasiūlė karališką vainiką Jogailai, bet Jogaila atsisakė jį priimti kaip eretikų siūlymą.
 - susijęs iš [[objektai/grupes/Husitai.md#claim-t-172105|Husitai]]: Lenkijoje, o vėliau ir Lietuvoje kilo opozicija husitams: imta kovoti su jų mokslu ir likta Bažnyčios pusėje.
-- susijęs iš [[objektai/grupes/Husitai.md#claim-t-184478|Husitai]]: 1429 m. valdovų posėdyje imperatorius ragino sutelktomis jėgomis numalšinti husitus pirmiausia Čekijoje.
-- susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110661|Jogailaičiai]]: 1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą.
 - susijęs iš [[objektai/grupes/Jogailaičių dinastija.md#claim-t-183137|Jogailaičių dinastija]]: Jogailai tapus Lenkijos karaliumi 1386 m., atsirado Gediminaičių šakos Jogailaičių dinastija.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178849|Kryžiuočių ordinas]]: 1322 m. krašto magistras Fridrichas fon Vildenbergas kryžiuočių ir riterių būrį nuvedė į Vaikius Žemaitijoje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178866|Kryžiuočių ordinas]]: Tarp kryžiuočių buvo paplitusi nuomonė, kad Rygos arkivyskupas Fridrichas atsikvietė priešą į šalį.
@@ -167,16 +186,13 @@ amziai:
 - susijęs iš [[objektai/grupes/Moravai.md#claim-t-34360|Moravai]]: Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113366|Vilniaus universitetas]]: Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
 - susijęs iš [[objektai/grupes/Čekai.md#claim-t-50766|Čekai]]: Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.
-- susijęs iš [[objektai/grupes/Čekijos husitai.md#claim-t-41207|Čekijos husitai]]: Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną.
 - susijęs iš [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją.md#claim-t-183908|1265-1268 m. maldininkų atvykimai į Prūsiją]]: 1265-1268 m. Vokietijos žemių valdovai su kariuomenėmis vyko į Prūsiją gelbėti krikščionių ir tramdyti prūsų sukilimo.
 - susijęs iš [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją.md#claim-t-62734|1265-1268 m. maldininkų atvykimai į Prūsiją]]: 1265-1268 m. į Prūsiją atvykę kunigaikščiai dėl minkštos žiemos nepasiekė savo tikslo ir sugrįžo į savo kraštus.
 - susijęs iš [[objektai/ivykiai/1265-1268 m. maldininkų atvykimai į Prūsiją.md#claim-t-62735|1265-1268 m. maldininkų atvykimai į Prūsiją]]: 1265-1268 m. Vokietijos žemių valdovai su kariuomenėmis vyko į Prūsiją gelbėti krikščionių ir tramdyti prūsų sukilimo.
 - susijęs iš [[objektai/ivykiai/Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją.md#claim-t-34539|Husitų karališko vainiko pasiūlymas Jogailai ir Vytautui bei Zigmanto Kaributo siuntimas į Čekiją]]: Jogaila atsisakė čekų husitų siūlyto karališko vainiko, o Vytautas vėliau sutiko rūpintis jų reikalais.
-- susijęs iš [[objektai/ivykiai/Karaliaučiaus, arba Tvankstės, pilies pastatymas (1255 m.).md#claim-t-62819|Karaliaučiaus, arba Tvankstės, pilies pastatymas (1255 m.)]]: 1255 m. magistras ir broliai pastatė Karaliaučiaus pilį, kurią Čekijos karaliaus garbei pavadino Karaliaus pilimi.
 - susijęs iš [[objektai/ivykiai/Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas.md#claim-t-185720|Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas]]: Po kryžiuočių pralaimėjimo krikščionių valdovai surinko kariuomenes ir atvedė jas į Prūsiją.
 - susijęs iš [[objektai/ivykiai/Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas.md#claim-t-185721|Krikščionių kunigaikščių žygis į Prūsiją ir Brandenburgo įkūrimas]]: Čekijos karalius, Brandenburgo markgrafas, Tiuringijos landgrafas ir Braunšveigo kunigaikštis atvedė kariuomenes į Prūsiją, bet lietuvių nepuolė.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių žygis į Žemaitiją ir atmušimas prie Pieštvės (1322 m.).md#claim-t-62843|Kryžiuočių žygis į Žemaitiją ir atmušimas prie Pieštvės (1322 m.)]]: 1322 m. Ordinas su talkininkais iš Vokietijos, Čekijos ir kitur niokojo Žemaitiją, bet buvo atremtas prie Pieštvės pilies.
-- susijęs iš [[objektai/ivykiai/Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.).md#claim-t-35843|Kėzmarko suvažiavimas ir santykių su husitais nutraukimas (1423 m.)]]: Lietuvių santykiai su husitais baigėsi, kai Kaributas po derybų su popiežiumi buvo išvytas iš Čekijos.
 - susijęs iš [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo).md#claim-t-89380|Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]: Lietuvos kariuomenė vasarą puolė Ordiną Semboje ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę.
 - susijęs iš [[objektai/ivykiai/Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo).md#claim-t-89381|Lietuvos žygiai į Sembą ir Dobrynės kunigaikštystę (1323 m. vasara—ruduo)]]: 1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę ginti Mazovijos.
 - susijęs iš [[objektai/ivykiai/Mindaugo karūnacija (1253 m.).md#claim-t-24564|Mindaugo karūnacija (1253 m.)]]: Mindaugo vainikavimas šaltinyje aiškinamas kaip valstybės susikūrimo užbaigimas, nes Lietuvą pripažino to meto pasaulis.
@@ -194,37 +210,25 @@ amziai:
 - susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45452|Vilniaus universiteto įkūrimas (1579 m.)]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
 - susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas.md#claim-t-71774|Vilniaus universiteto įkūrimas]]: Yra ir kitas senojo Vilniaus universiteto istorinės reikšmės aspektas.
 - susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas.md#claim-t-71778|Vilniaus universiteto įkūrimas]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
-- susijęs iš [[objektai/ivykiai/Čekijos ir Vengrijos karalių karas (1260 m.).md#claim-t-62539|Čekijos ir Vengrijos karalių karas (1260 m.)]]: 1260 m. Vengrijos karalius su įvairiataute 40 tūkstančių raitelių kariuomene užpuolė Čekijos karalių.
-- susijęs iš [[objektai/ivykiai/Čekijos sosto perėjimas po Vaclovo mirties (1307 m.).md#claim-t-62540|Čekijos sosto perėjimas po Vaclovo mirties (1307 m.)]]: 1307 m. mirus Čekijos karaliui Vaclovui ir nužudžius jo sūnų, Čekijos sostas atiteko svetimiesiems.
-- susijęs iš [[objektai/ivykiai/Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.).md#claim-t-185675|Čekų pasiūlymas Jogailai ir Vytautui priimti Čekijos karaliaus vainiką ir abiejų atsisakymas (1420 m.)]]: Čekai, tikėdamiesi Jogailos ir Vytauto paramos prieš imperatorių Zigmantą, pasiūlė jiems Čekijos karaliaus vainiką.
 - susijęs iš [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą.md#claim-t-183312|Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]: Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
 - susijęs iš [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą.md#claim-t-54245|Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]: Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
 - susijęs iš [[objektai/paprociai/Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika.md#claim-t-87296|Kryžiuočių žygių belaisvių ėmimo, krašto niokojimo ir plėšikavimo praktika]]: 1322 m. kryžiuočių žygio į Vaikius Žemaitijoje tikslai buvo belaisvių ėmimas, krašto niokojimas ir plėšikavimas.
-- susijęs iš [[objektai/paprociai/Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos.md#claim-t-67160|Lietuvos kunigaikščių derybos dėl krikšto ir karūnacijos (krikštas)]]: Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją.
-- susijęs iš [[objektai/posakiai/Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.md#claim-t-185467|Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą]]: Vytautas nenorėjo atvirai užimti Čekijos karaliaus sosto, nes bijojo valdovų nepalankumo sau ir žalos čekams.
-- susijęs iš [[objektai/posakiai/Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.md#claim-t-185468|Aš įsakiau Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą]]: Vytautas pareiškė įsakęs Kaributaičiui įsiveržti į Čekiją ir atkeršyti imperatoriui už skriaudą.
 - susijęs iš [[objektai/posakiai/in odium Sigismundi.md#claim-t-34391|in odium Sigismundi]]: Formulė „in odium Sigismundi“ aiškino Vytauto pagalbą husitams pykčiu Zigmantui, pripažinusiam Ordinui Žemaičius.
-- susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-101620|„jogailaičių Europa“ „krikščionybės forpostas“]]: XV a. pabaigoje–XVI a. pradžioje Jogailaičių dinastija valdė Lenkiją, Lietuvą, Čekiją ir Vengriją, todėl rytinė Vidurio Europa vadinta „jogailaičių Europa“.
-- susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-183493|„jogailaičių Europa“ „krikščionybės forpostas“]]: Jogailaičių dinastija Lenkijos ir Lietuvos sostuose valdė iki 1572 m., o XV a. pabaigoje–XVI a. pradžioje užėmė ir Čekijos bei Vengrijos sostus.
 - susijęs iš Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus: „Bazelio susirinkimas ir Lietuvos sosto reikalas Vytautui mirus“ buvo šaltiniais paremta studijėlė, atspausta iš TK 1926 m.
 - susijęs iš Guillaume de Machaut Confort d’Ami: Guillaume de Machaut 1357 m. veikale „Confort d’Ami“ paminėjo žygį, kuriame dalyvavo svečių net iš Anglijos.
 - susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Martynas iš Opavos parašė popiežių ir imperatorių istoriją, baigiamą XIII a. aštuntojo dešimtmečio įvykiais.
 - susijęs iš Pasaulio aprašymo pradžia: Dublino kodekse išlikusioje „Pasaulio aprašymo pradžioje“ teigiama, kad į šiaurę nuo Prūsijos tęsiasi Semba.
 - susijęs iš Pelplino analai: Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97.
 - susijęs iš Užsienio Lietuvių Spaudos Metraštis: „Užsienio Lietuvių Spaudos Metraštis“ rodyklėje nurodytas 17 puslapyje.
-- susijęs iš Vytautas Didysis ir jo Čekijos politika Venceliui mirus: Penkausko darbas „Vytautas Didysis ir jo Čekijos politika Venceliui mirus“ buvo atspaustas iš 1930 m. „Židinio“.
 - susijęs iš Baiga: Po susitaikymo Čekijos karalius nuvedė kariuomenę iki Baigos pilies, kur broliai surado seną vyrą Gedūną.
 - susijęs iš Baltarusija: Kazimieras žiemos viduryje aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus.
 - susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.
 - susijęs iš Baltijos jūra: XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių.
-- susijęs iš Buda: 1307 m. mirus Čekijos karaliui Vaclovui, jo sūnus buvo vainikuotas karaliumi Budoje.
 - susijęs iš Elbingas: Žiemą daugiau kaip 60 tūkstančių karių atžygiavo į Elbingą, bet ginčas malūne vos nesuardė žygio.
 - susijęs iš Jeruzalė: „Pelplino analų“ pirmojoje žinutėje kalbama apie Ordino įsikūrimą Jeruzalėje 1190 m.
 - susijęs iš Karaliaučius: 1255 m. Otokaro II garbei pastatytas Karaliaučius vėliau tapo svarbiu Ordino atramos tašku kovose prieš lietuvius.
-- susijęs iš Karaliaučius: 1255 m. Karaliaučius iškilo padedant Čekijos karaliui Otokarui.
 - susijęs iš Karaliaučius: 1255 m. Otokaro II garbei pastatytas Karaliaučius vėliau tapo svarbiu Ordino atramos tašku kovose prieš lietuvius.
 - susijęs iš Karaliaučius: 1255 m. Otokaro II garbei pastatytas Karaliaučius vėliau tapo svarbiu Ordino atramos tašku kovose prieš lietuvius.
-- susijęs iš Karaliaučius: Karaliaučius iškilo 1255 metais, padedant Čekijos karaliui Otokarui.
 - susijęs iš Kulmas: Vasario 1 d. Lenkijos karalius Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis.
 - susijęs iš Kvedenava: Kvedenava buvo valsčiaus centras, galbūt buvęs apie 4 km į šiaurės rytus nuo dabartinio Kaliningrado centro.
 - susijęs iš Lenkija: Lietuvos suartėjimas su Lenkija lėmė epochos pobūdį, kai abi valstybes dažnai valdė tie patys valdovai.
@@ -236,11 +240,9 @@ amziai:
 - susijęs iš Medvėgalis: 1329 m. brolis Verneris su kariuomene apsupo Medvėgalio pilį, kuri po ilgų kovų pasidavė krikščionių tikėjimui.
 - susijęs iš Polockas: Kazimieras žiemos viduryje lankėsi Baltarusijoje ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus.
 - susijęs iš Praha: Karalienė Jadvyga Prahoje įkūrė lietuvių kolegiją ir paskyrė jai gausių lėšų.
-- susijęs iš Prūsija: Zigmantas siekė su kryžiuočių pagalba sudaryti Lietuvos, Prūsijos, Vengrijos ir Čekijos sąjungą prieš Lenkiją.
 - susijęs iš Prūsija: 1322 m. žiemą po ilgos ramybės nauja kryžiuočių ekspedicija patraukė į Prūsiją.
 - susijęs iš Prūsija: 1329 m. Jonas Liuksemburgietis, Čekijos karalius, su kilmingaisiais atžygiavo į Prūsijos žemę.
 - susijęs iš Prūsija: Petro iš Dusburgo kronikos IV dalies paaiškinimai Prūsijos įvykius gretino su visuotinės istorijos faktais.
-- susijęs iš Semba: 1254 m. į Sembos pavergimo žygį vyko Čekijos karalius Otokaras, Otonas ir kiti didikai bei dvasininkai.
 - susijęs iš Smolenskas: Kazimieras žiemos viduryje aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos ir karo reikalus.
 - susijęs iš Torunė: Torunę 1235 m. pastatė kryžiuočiai.
 - susijęs iš Torunė: Torunę 1235 m. pastatė kryžiuočiai, Teutonų ordinui gausinant miestus ir pilis Baltijos pakrantėse.
@@ -337,10 +339,12 @@ amziai:
     - t-004
 
 ## Ryšiai
+- [[objektai/asmenys/Jonas (Čekijos karalius)]] buvo_valdovas Čekija
 - [[objektai/asmenys/Jonas Liuksemburgietis]] buvo_valdovas Čekija
 - [[objektai/asmenys/Otokaras (Čekijos karalius)]] buvo_valdovas Čekija
 - [[objektai/asmenys/Otokaras II]] buvo_valdovas Čekija
 - [[objektai/asmenys/Vaclovas (Čekijos ir Lenkijos karalius)]] buvo_valdovas Čekija
 - [[objektai/asmenys/Vaclovas (Čekijos karalius)]] buvo_valdovas Čekija
 - [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] buvo_valdovas Čekija
+- [[objektai/grupes/Jogailaičiai]] valde_teritorija Čekija
 - [[objektai/asmenys/Egerbergas]] keliavo_i Čekija

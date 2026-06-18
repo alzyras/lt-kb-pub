@@ -73,7 +73,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata apie sukilimo pradžią.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Liepoja; mentioned_place: Sudeikiai'
+  susije_objektai: 'mentioned_place: Sudeikiai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Liepoja'
   pagrindžia:
     - c-006
 
@@ -100,7 +100,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia Raseinių įtraukimą tarp sričių ir taikos sudarymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Viena; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -119,6 +119,17 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   pagrindžia:
     - c-007
 - susijęs iš [[objektai/asmenys/Aleksandra Atgailainytė.md#claim-t-39475|Aleksandra Atgailainytė]]: Prisikėlimo apygardos partizanė Aleksandra Atgailainytė buvo suimta ir po tardymų Raseinių kalėjime pervežama į kitą vietą.
+- susijęs iš [[objektai/grupes/Bermontininkai.md#claim-t-40868|Bermontininkai]]: Bermontininkai užėmė Šiaurės Lietuvą ir, palaipsniui judėdami į pietus, pasiekė Raseinius.
+- susijęs iš [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.).md#claim-t-31505|Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]: 1322 m. riteriai su kryžininkais įsiveržė į Žemaičius, nusiaubė Vėjukų sritį ir gaisrais nuniokojo Raseinių bei Ariogalos sritis.
+- susijęs iš [[objektai/ivykiai/Žemaičių sukilimas 1418 m.md#claim-t-50814|Žemaičių sukilimas 1418 m (sukilimas)]]: Žemaičių sukilimas prasidėjo Raseinių apskrityje, apėmė Ariogalą, Kražius ir Medininkus, o Vytautas jį malšino du kartus.
+- susijęs iš Ariogala: 1352 m. vasarį Kniprodė smarkiai teriojo Ariogalos, Gaižuvos ir Raseinių sritis.
+- susijęs iš Ariogala: 1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis.
+- susijęs iš Ariogala: Žemaitiją nusiaubęs priešas sulygino su žeme Ariogalos, Vaikių, Raseinių ir Klogėnų valsčius.
+- susijęs iš Kražių apygarda: Kražių apygardoje šios mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.
+- susijęs iš Kretinga: IV Kražių apygardoje apygardėlinės mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.
+- susijęs iš Raseinių apskritis: 1945 m. vasario 15 d. Raseinių apskrityje Vlado Pabarčiaus partizanų būrys surengė pasalą NKVD Betygalos stribams.
+- susijęs iš Šiaurės Lietuva: Bermontininkai užėmė Šiaurės Lietuvą ir judėdami į pietus pasiekė net Raseinius.
+- susijęs iš Šiaurės Lietuva: Šiaurės Lietuva atsidūrė bermontininkų rankose, o judėdami į pietus bermontininkai pasiekė net Raseinius.
 - susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Vildenbergo.md#claim-t-60279|Fridrichas iš Vildenbergo]]: 1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių.
 - susijęs iš [[objektai/asmenys/Galminas.md#claim-t-30231|Galminas]]: Galminas su Rumbaudu, Getautu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
@@ -129,39 +140,28 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 - susijęs iš [[objektai/daiktai/Romuva kaip Perkūno šventykla.md#claim-t-87093|Romuva kaip Perkūno šventykla]]: Romuva buvo laikoma Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindine buveine.
 - susijęs iš [[objektai/daiktai/Vaikių pilis ir aplinkiniai pastatai.md#claim-t-87095|Vaikių pilis ir aplinkiniai pastatai]]: Vaikių krašte šventoji giria, netoliese stovėjusi pilis ir aplinkiniai pastatai per vieną naktį buvo sudeginti iki pamatų.
 - susijęs iš [[objektai/daiktai/Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslas.md#claim-t-59716|Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslas]]: Sūduviai iš Lenkijos išsivežė Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslą ir ketino mėtyti į jį ietis.
-- susijęs iš [[objektai/grupes/Bermontininkai.md#claim-t-40868|Bermontininkai]]: Bermontininkai užėmė Šiaurės Lietuvą ir, palaipsniui judėdami į pietus, pasiekė Raseinius.
 - susijęs iš [[objektai/grupes/Gintaro rinktinė.md#claim-t-38953|Gintaro rinktinė]]: Plauginių kautynių stovykloje buvo 20 Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio būrių partizanų.
 - susijęs iš [[objektai/grupes/Prisikėlimo apygarda.md#claim-t-41118|Prisikėlimo apygarda]]: Prisikėlimo apygardos partizanė Aleksandra Atgailainytė pasakojo apie KGB-MGB provokaciją.
 - susijęs iš [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis.md#claim-t-59408|Ruseinio atsivertimas ir mirtis]]: Ruseinis teigė išgelbėjęs Marijos su kūdikiu paveikslą nuo sūduvių išniekinimo ir atidavęs jį krikščioniui.
-- susijęs iš [[objektai/ivykiai/Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.).md#claim-t-31505|Vėjukų srities nusiaubimas ir Raseinių bei Ariogalos sričių gaisrai (1322 m.)]]: 1322 m. riteriai su kryžininkais įsiveržė į Žemaičius, nusiaubė Vėjukų sritį ir gaisrais nuniokojo Raseinių bei Ariogalos sritis.
-- susijęs iš [[objektai/ivykiai/Žemaičių sukilimas 1418 m.md#claim-t-50814|Žemaičių sukilimas 1418 m (sukilimas)]]: Žemaičių sukilimas prasidėjo Raseinių apskrityje, apėmė Ariogalą, Kražius ir Medininkus, o Vytautas jį malšino du kartus.
 - susijęs iš [[objektai/posakiai/Už pagarbą, kurią per mano paveikslą esi man parodęs.md#claim-t-59164|Už pagarbą, kurią per mano paveikslą esi man parodęs]]: Švenčiausioji mergelė sapne pažadėjo atlygį už pagarbą, parodytą per jos paveikslą.
 - susijęs iš Vokiškieji kryžiuočių kelių aprašymai: Vaikių valsčius įtikimiau lokalizuojamas į rytus nuo Viduklės, kur kryžiuočių kelių aprašymuose minimi lant Wayke ir Waykowsoppe.
 - susijęs iš Airiogala: Žemaičių sukilimas, prasidėjęs Raseinių apskrityje, atsiliepė Airiogaloje, Kražiuose, Medininkuose ir kitose Žemaitijos vietose.
-- susijęs iš Ariogala: 1352 m. vasarį Kniprodė smarkiai teriojo Ariogalos, Gaižuvos ir Raseinių sritis.
-- susijęs iš Ariogala: 1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis.
 - susijęs iš Ariogala: Ariogalos apylinkės buvo laikomos pagonims svarbia vietove, siejama su Romuva, Perkūno šventykla ir Krivių Krivaičio buveine.
 - susijęs iš Ariogala: Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes.
-- susijęs iš Ariogala: Žemaitiją nusiaubęs priešas sulygino su žeme Ariogalos, Vaikių, Raseinių ir Klogėnų valsčius.
 - susijęs iš Betygala: 1945 m. vasario 15 d. NKVD Betygalos stribai prie Šilainių miško pateko į Vlado Pabarčiaus partizanų būrio pasalą.
 - susijęs iš Dombrovica: Brastos apygardoje mokyklų buvo ir Dombrovicoje.
 - susijęs iš Graužai-Lenčiai: 1945 m. vasario 15 d. Graužų-Lenčių miške NKVD Betygalos stribai pateko į Vlado Pabarčiaus partizanų būrio pasalą, kurioje žuvo 6 stribai.
 - susijęs iš Kaltinėnai: Kaltinėnai buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai sudarė taiką su Vytautu ir ordinu.
 - susijęs iš Knituva: Knituva buvo viena iš septynių Žemaičių aukštumos sričių, kurių 31 atstovas darė taiką su Vytautu ir ordinu.
-- susijęs iš Kražių apygarda: Kražių apygardoje šios mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.
-- susijęs iš Kretinga: IV Kražių apygardoje apygardėlinės mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.
 - susijęs iš Kuršių marios: Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos.
 - susijęs iš Lenkija: Lietuvos ir Lenkijos tautų nelaimė paskatino visuomenes ir karalių bandyti gelbėti ATR valstybę.
 - susijęs iš Liubešavas: Brastos apygardoje Liubešave veikė viena iš minimų mokyklų.
 - susijęs iš Medingėnai: Medingėnų srities atstovai kartu su kitų Žemaičių sričių kilmingaisiais darė taiką su Vytautu ir Ordinu.
-- susijęs iš Raseinių apskritis: 1945 m. vasario 15 d. Raseinių apskrityje Vlado Pabarčiaus partizanų būrys surengė pasalą NKVD Betygalos stribams.
 - susijęs iš Romuva: Raseinių ir Ariogalos apylinkės laikytos svarbiomis pagonims, nes čia stovėjo Romuva su Perkūno šventykla ir Krivių Krivaičio buveine.
 - susijęs iš Romuva: Romuva minima kaip Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė.
 - susijęs iš Sudeikiai: Sukilimo pradžioje Raseinių apskrityje buvo sudegintas Sudeikių dvaras.
 - susijęs iš Vaikiai: Vaikių krašte buvusi šventoji giria su netoliese stovėjusia pilimi ir pastatais per vieną naktį buvo sudeginta.
 - susijęs iš Viduklė: Viduklės srities atstovai kartu su kitų šešių Žemaičių aukštumos sričių atstovais darė taiką su Vytautu ir Ordinu.
-- susijęs iš Šiaurės Lietuva: Bermontininkai užėmė Šiaurės Lietuvą ir judėdami į pietus pasiekė net Raseinius.
-- susijęs iš Šiaurės Lietuva: Šiaurės Lietuva atsidūrė bermontininkų rankose, o judėdami į pietus bermontininkai pasiekė net Raseinius.
 - susijęs iš Šilainiai: 1945 m. vasario 15 d. prie Šilainių miško Vlado Pabarčiaus partizanų būrys surengė pasalą NKVD Betygalos stribams, žuvo 6 stribai.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70227|maldininkai / maldininko įžadai]]: Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį.
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58828|maldininkai]]: Puolant Pieštvės pilį maldininkai buvo taip gerai apsišarvavę, kad pilėnai nepajėgė jų sulaikyti kopiant į sienas.

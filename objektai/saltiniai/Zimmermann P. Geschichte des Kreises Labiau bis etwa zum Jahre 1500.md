@@ -34,6 +34,9 @@ Dusburgietis teigia, kad zimmermann P.
   temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinę informaciją apie leidinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 805740-805823; hash=462dbfbb9fdfacf885e9f660136f31652466afb1f95b3009aecde9775172d74e; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -48,3 +51,6 @@ Dusburgietis teigia, kad zimmermann P.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 805740-805823; hash=462dbfbb9fdfacf885e9f660136f31652466afb1f95b3009aecde9775172d74e; match=exact
+  sprendimo_priezastis: auto

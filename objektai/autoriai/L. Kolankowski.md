@@ -48,14 +48,17 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   susije_objektai: 'mentioned_object: [[objektai/zodynas/Diarchijos sistema|Diarchijos sistema]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/autoriai/H. Paszkiewicz.md#claim-t-64599|H. Paszkiewicz]]: H. Paszkiewiczius 1938 m. paskelbė 206 puslapių veikalą „O genezie i wartości Krewa“.
-- susijęs iš [[objektai/autoriai/H. Paszkiewicz.md#claim-t-64600|H. Paszkiewicz]]: H. Paszkiewicz parašė veikalą „O genezie i wartości Krewa“.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 8698-8847; hash=a162c31893a315a67af29cbccf08ef1a6abd8206b66ecda35c9fe77846c6a6fa; match=exact
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/Kolankowski L.md#claim-t-60728|Kolankowski L]]: Kolankowski L. parašė darbą „Litwini a Prusacy“, paskelbtą 1931 m. Lvove istorikų suvažiavimo leidinyje.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176145|Žemaičiai]]: 1416 m. žemaičių delegacija Konstancos susirinkime pareiškė, kad žemaičiai yra tos pačios lietuvių tautos žmonės.
-- susijęs iš CEV: CEV 53 numeris nurodytas 18 puslapyje.
-- susijęs iš DlugO: DlugO XIII tomas cituojamas nurodant 19, 48, 50, 53, 63 ir 64 puslapius.
 - susijęs iš K. Heinl, Fürst Witold von Litauen 1382-1401: K. Heinlio „Fürst Witold von Litauen 1382–1401“ 1925 m. buvo išleistas kaip 61 puslapio darbas.
 - susijęs iš Kolankowski L. Litwini a Prusacy: L. Kolankowskio straipsnis „Litwini a Prusacy“ paskelbtas 1931 m. Lvove išleistame V visuotinio lenkų istorikų suvažiavimo leidinyje.
+- susijęs iš [[objektai/autoriai/H. Paszkiewicz.md#claim-t-64599|H. Paszkiewicz]]: H. Paszkiewiczius 1938 m. paskelbė 206 puslapių veikalą „O genezie i wartości Krewa“.
+- susijęs iš [[objektai/autoriai/H. Paszkiewicz.md#claim-t-64600|H. Paszkiewicz]]: H. Paszkiewicz parašė veikalą „O genezie i wartości Krewa“.
+- susijęs iš CEV: CEV 53 numeris nurodytas 18 puslapyje.
+- susijęs iš DlugO: DlugO XIII tomas cituojamas nurodant 19, 48, 50, 53, 63 ir 64 puslapius.
 - susijęs iš Koložas: Koložas buvo Gardino priemiestis.
 ## Reikšmingi paminėjimai
 
@@ -120,3 +123,6 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   citata_rodoma: ''
   teiginio_tipas: faktas
   statusas: verified
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 8698-8847; hash=a162c31893a315a67af29cbccf08ef1a6abd8206b66ecda35c9fe77846c6a6fa; match=exact
+  sprendimo_priezastis: auto

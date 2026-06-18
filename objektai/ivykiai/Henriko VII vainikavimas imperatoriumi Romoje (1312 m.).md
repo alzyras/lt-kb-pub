@@ -52,6 +52,9 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai atitinka citatos turinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9aad0eabcb591a133ff65ffbc4fc1bcc6148e57f8b0a2c788964207ba379556e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -69,4 +72,10 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9aad0eabcb591a133ff65ffbc4fc1bcc6148e57f8b0a2c788964207ba379556e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9aad0eabcb591a133ff65ffbc4fc1bcc6148e57f8b0a2c788964207ba379556e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

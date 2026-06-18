@@ -35,11 +35,21 @@ Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpis
   temporalinis_llm_pakomentavimas: 'Citata yra turinio antraštė, todėl reikia aiškios šaltinio vartosenos atribucijos.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184754|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis įsitraukė į karą dėl Podolės ir nurodė sūnui Jonui Olbrachtui pavaduoti karalių karo stovykloje.
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82514|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis 1440 m. buvo išrinktas didžiuoju Lietuvos kunigaikščiu.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=763f23a1591af67afa95ebd49f89c6e03ba2f3434314ad9fa3f452a7d12991b6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> pereinamasis laikotarpis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: ponų įsigalėjimo laikotarpis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: pereinamasis laikotarpis: mention_match, thing, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ponų įsigalėjimo laikotarpis" parinktas kaip owner_note_path. Targetas "pereinamasis laikotarpis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82507|Kazimieras Jogailaitis]]: A. Šapokos redaguotoje „Lietuvos istorijoje“ Kazimiero Jogailaičio laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.
 - susijęs iš [[objektai/zodynas/pereinamasis laikotarpis.md#claim-t-72000|pereinamasis laikotarpis]]: Kazimiero laikai 1440–1492 m. Lietuvos istorijoje vadinami pereinamuoju laikotarpiu.
 - susijęs iš [[objektai/zodynas/pereinamasis laikotarpis.md#claim-t-72001|pereinamasis laikotarpis]]: Kazimiero laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu.
 - susijęs iš [[objektai/zodynas/pereinamasis laikotarpis.md#claim-t-72002|pereinamasis laikotarpis]]: Pereinamasis laikotarpis siejamas su didžiųjų kunigaikščių monarchijos irimu ir ponų įsigalėjimu.
+- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82514|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis 1440 m. buvo išrinktas didžiuoju Lietuvos kunigaikščiu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,3 +69,13 @@ Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpis
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=763f23a1591af67afa95ebd49f89c6e03ba2f3434314ad9fa3f452a7d12991b6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> pereinamasis laikotarpis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: ponų įsigalėjimo laikotarpis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: pereinamasis laikotarpis: mention_match, thing, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ponų įsigalėjimo laikotarpis" parinktas kaip owner_note_path. Targetas "pereinamasis laikotarpis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

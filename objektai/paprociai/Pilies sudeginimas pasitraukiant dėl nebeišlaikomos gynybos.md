@@ -49,6 +49,16 @@ Nenurodyta
   pagrindžia:
     - c-001
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 433973-434354; hash=456a29b06961081cb56aff7e11ac55b449f758dae10770bf030a12e1d8677fdc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Elbingas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis): owner_note_path, thing
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-62712"></a>
 - t-002
@@ -59,6 +69,16 @@ Nenurodyta
   susije_objektai: 'mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Spitenbergas'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 449034-449446; hash=d9c00ec7e2f8f151548fc410494eafb53621c30a1fd6bfb3a0c93ff017ed0196; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pamedė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis): owner_note_path, thing
+  ryšio_targeto_parinkimas: Pamedė: mention_match, place, gap=72
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)" parinktas kaip owner_note_path. Targetas "Pamedė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -90,6 +110,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 433973-434354; hash=456a29b06961081cb56aff7e11ac55b449f758dae10770bf030a12e1d8677fdc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Elbingas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis): owner_note_path, thing
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-003
@@ -111,4 +141,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 433973-434354; hash=456a29b06961081cb56aff7e11ac55b449f758dae10770bf030a12e1d8677fdc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Elbingas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis): owner_note_path, thing
+  ryšio_targeto_parinkimas: Elbingas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)" parinktas kaip owner_note_path. Targetas "Elbingas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 449034-449446; hash=d9c00ec7e2f8f151548fc410494eafb53621c30a1fd6bfb3a0c93ff017ed0196; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pamedė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis): owner_note_path, thing
+  ryšio_targeto_parinkimas: Pamedė: mention_match, place, gap=72
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pilies sudeginimas pasitraukiant dėl nebeišlaikomos gynybos (pilis)" parinktas kaip owner_note_path. Targetas "Pamedė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

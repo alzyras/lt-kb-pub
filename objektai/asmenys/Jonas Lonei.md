@@ -32,12 +32,22 @@ O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė
   global_id: t-80718
   teiginys: 'Sembos vyskupo teisėjas Jonas Lonei žuvo Strėvos mūšyje kartu su penkiomis dešimtimis karių prie vėliavos.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo ilgas kronikos fragmentas; citata leidžia suformuluoti aiškų faktą apie asmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_object: [[objektai/zodynas/vyskupo teisėjas|vyskupo teisėjas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Zygfridas iš Da[he]nfeldo|Zygfridas iš Da[he]nfeldo]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Smolenskas; mentioned_place: Strėva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Strėva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_object: [[objektai/zodynas/vyskupo teisėjas|vyskupo teisėjas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Zygfridas iš Da[he]nfeldo|Zygfridas iš Da[he]nfeldo]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Smolenskas'
   temporaliniai_duomenys: 'įvykio data: 1348 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo ilgas kronikos fragmentas; citata leidžia suformuluoti aiškų faktą apie asmenį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 143239-144586; hash=392e7c09ceb607309f9501ad0e3f9c838a281592a925aed0557e6befe94e6f24; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Strėva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonas Lonei: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Strėva: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Lonei" parinktas kaip owner_note_path. Targetas "Strėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -72,3 +82,13 @@ O [Ordino] broliai priešinasi jiems vyriškai, ir daugeliui buvo atimta gyvybė
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 143239-144586; hash=392e7c09ceb607309f9501ad0e3f9c838a281592a925aed0557e6befe94e6f24; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Strėva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonas Lonei: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Strėva: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Lonei" parinktas kaip owner_note_path. Targetas "Strėva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

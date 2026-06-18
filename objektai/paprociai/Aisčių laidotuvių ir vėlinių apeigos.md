@@ -41,7 +41,7 @@ Nenurodyta
   global_id: t-05333
   teiginys: 'Aisčių laidotuvių apeigose mirusiųjų kapai darėsi turtingesni, o drauge su mirusiaisiais buvo pakasami išpuošti žirgai.'
   sudarymo_pagrindimas: 'Teiginys faktinis, bet reikėjo aiškiai susieti su note objektu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Papuošalai|Papuošalai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_object: [[objektai/daiktai/Papuošalai|Papuošalai]]'
   pagrindžia:
     - c-003
 
@@ -60,6 +60,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7a185ca6220db2834031657079b182df376cf02cb0377dc1397e8b17441f9712; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aisčiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aisčių laidotuvių ir vėlinių apeigos: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Aisčiai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aisčių laidotuvių ir vėlinių apeigos" parinktas kaip owner_note_path. Targetas "Aisčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-10813"></a>
 - t-004
@@ -77,6 +87,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 315141-315505; hash=71a8fe00e9f2b533db4d0ead143ad64e5e3e2f35ee4db04a9a10844577b11d62; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aisčiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aisčių laidotuvių ir vėlinių apeigos: owner_note_path, thing
+  ryšio_targeto_parinkimas: Aisčiai: mention_match, group, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aisčių laidotuvių ir vėlinių apeigos" parinktas kaip owner_note_path. Targetas "Aisčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-12419"></a>
 - t-006
@@ -84,6 +104,16 @@ Nenurodyta
   teiginys: 'Vėlinių dienomis gyvieji, rūpindamiesi vėlių likimu, Žeminei nuliedavo gėrimų ir numesdavo valgio, o vėles laikė galinčiomis pereiti į gyvulius, medžius ir kitus gamtos kūnus.'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 32963-33413; hash=6187d92b9d3db15bcc8b08757c54d5ae0d15e3b75b04a0502b7ed6482d39ec27; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aisčiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aisčių laidotuvių ir vėlinių apeigos: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Aisčiai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aisčių laidotuvių ir vėlinių apeigos" parinktas kaip owner_note_path. Targetas "Aisčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -118,6 +148,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7a185ca6220db2834031657079b182df376cf02cb0377dc1397e8b17441f9712; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aisčiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aisčių laidotuvių ir vėlinių apeigos: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Aisčiai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aisčių laidotuvių ir vėlinių apeigos" parinktas kaip owner_note_path. Targetas "Aisčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-003
@@ -178,4 +218,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 315141-315505; hash=71a8fe00e9f2b533db4d0ead143ad64e5e3e2f35ee4db04a9a10844577b11d62; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aisčiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aisčių laidotuvių ir vėlinių apeigos: owner_note_path, thing
+  ryšio_targeto_parinkimas: Aisčiai: mention_match, group, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aisčių laidotuvių ir vėlinių apeigos" parinktas kaip owner_note_path. Targetas "Aisčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 32963-33413; hash=6187d92b9d3db15bcc8b08757c54d5ae0d15e3b75b04a0502b7ed6482d39ec27; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aisčiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aisčių laidotuvių ir vėlinių apeigos: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Aisčiai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aisčių laidotuvių ir vėlinių apeigos" parinktas kaip owner_note_path. Targetas "Aisčiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

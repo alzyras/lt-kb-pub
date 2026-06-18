@@ -32,6 +32,9 @@ Dusburgietis teigia, kad mickevičius J.
   temporalinis_llm_pakomentavimas: 'Citata nurodo autorių, pavadinimą, formą ir metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 786471-786530; hash=466db2e8789c8d68c52793f8785c69a90c96b943193c60e9acecfa26b81eb4b2; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -45,3 +48,6 @@ Dusburgietis teigia, kad mickevičius J.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 786471-786530; hash=466db2e8789c8d68c52793f8785c69a90c96b943193c60e9acecfa26b81eb4b2; match=exact
+  sprendimo_priezastis: auto

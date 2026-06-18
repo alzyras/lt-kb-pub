@@ -22,9 +22,19 @@ Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys perrašytas į vientisą sakinį be OCR klaidų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bobrovnikai; mentioned_place: Lenkija; mentioned_place: Lipnas; mentioned_place: Prūsija; mentioned_place: Zlotorija'
+  susije_objektai: 'mentioned_place: Zlotorija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bobrovnikai; mentioned_place: Lenkija; mentioned_place: Lipnas; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 651103-651346; hash=6e5d0e7c98d30a3fce5aa2d487a8ab75606f8649aeb1b34dde85aa7ade279bfe; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Zlotorija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bidgoščius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Zlotorija: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bidgoščius" parinktas kaip owner_note_path. Targetas "Zlotorija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185260"></a>
 - t-002
@@ -34,14 +44,24 @@ Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra rišlus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; mentioned_place: Radzejovas; mentioned_place: Svecė; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Svecė; mentioned_place: Lenkija; mentioned_place: Radzejovas; mentioned_place: Volynė'
   pagrindžia:
     - c-002
-- susijęs iš Lenčica: Jogaila Didžiosios Lenkijos kariams liepė rinktis į Lenčicą kovai su Prūsija.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 651347-651577; hash=7c88544fbddb71b99332347472969da041ab9ba45c0663a33ba29109f53f33d9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bidgoščius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bidgoščius" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Radzejovas: Prie Radzejovo susijungusi kariuomenė patraukė link Bidgoščiaus.
+- susijęs iš Zlotorija: Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir išdavus Bidgoščių.
+- susijęs iš Lenčica: Jogaila Didžiosios Lenkijos kariams liepė rinktis į Lenčicą kovai su Prūsija.
 - susijęs iš Svecė: Prie Bidgoščiaus kariuomenė gavo žinią, kad kryžiuočių pulkai artėja prie Svecės.
 - susijęs iš Volbožas: Jogaila paliepė Mažosios Lenkijos ir Volynės kariams rinktis į Volbožą, o Didžiosios Lenkijos kariams - į Lenčicą.
-- susijęs iš Zlotorija: Zlotorija buvo užimta po aštuonių dienų apsupties, pasidavus Bobrovnikams ir išdavus Bidgoščių.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,4 +93,24 @@ Pasidavus Bobrovnikams ir išdavus Bidgoščių, po aštuonių dienų apsupties 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 651103-651346; hash=6e5d0e7c98d30a3fce5aa2d487a8ab75606f8649aeb1b34dde85aa7ade279bfe; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Zlotorija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bidgoščius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Zlotorija: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bidgoščius" parinktas kaip owner_note_path. Targetas "Zlotorija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 651347-651577; hash=7c88544fbddb71b99332347472969da041ab9ba45c0663a33ba29109f53f33d9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bidgoščius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bidgoščius" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

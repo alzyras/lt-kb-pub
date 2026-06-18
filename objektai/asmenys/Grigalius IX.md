@@ -55,6 +55,18 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir remiasi citatoje nurodytais Grigaliaus IX veiksmais.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 75688-76111; hash=e54e742d0cc29479de5f265982955415ea654b9beecdcf696e19f0981ad8cc38; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dorpatas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Grigalius IX: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dorpatas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grigalius IX" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Chronicon Hermanui de Wartberge: „Chronicon Hermanui de Wartberge“ nurodė tokį pat Saulės mūšyje kritusių riterių skaičių kaip Grigaliaus IX bulė: 50.
+- susijęs iš Chronicon Olivense: „Chronicon Olivense“ nurodė tokį pat Saulės mūšyje kritusių riterių skaičių kaip Grigaliaus IX bulė: 50.
 - susijęs iš [[objektai/asmenys/Elžbieta.md#claim-t-82298|Elžbieta]]: 1235 m. popiežius Grigalius IX kanonizavo šventą Elžbietą Perudžoje.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178895|Kryžiuočių ordinas]]: 1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų namų ordino broliais ir įpareigojo juos kovoti.
 - susijęs iš [[objektai/ivykiai/Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą.md#claim-t-62796|Grigaliaus IX susitarimo patvirtinimas ir brolių paraginimas į kovą]]: 1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir paragino juos kovoti.
@@ -62,8 +74,6 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
 - susijęs iš [[objektai/ivykiai/Pirmojo kryžiaus žygio prieš lietuvius paskelbimas (1236.II.19).md#claim-t-31464|Pirmojo kryžiaus žygio prieš lietuvius paskelbimas (1236.II.19)]]: 1236 m. vasario 19 d. popiežius Grigalius IX leido Šiaurės Vokietijoje paskelbti pirmąjį kryžiaus žygį prieš lietuvius.
 - susijęs iš [[objektai/ivykiai/Šventos Elžbietos kanonizavimas (1235 m.).md#claim-t-62547|Šventos Elžbietos kanonizavimas (1235 m.)]]: 1235 m. popiežius Grigalius IX Perudžoje kanonizavo šventą Elžbietą ir jos garbei paskyrė altorių.
 - susijęs iš [[objektai/posakiai/Prisirenkite ir būkite drąsūs vyrai.md#claim-t-59068|Prisirenkite ir būkite drąsūs vyrai]]: Popiežius Grigalius IX ragino brolius į kovą žodžiais „Prisirenkite ir būkite drąsūs vyrai“.
-- susijęs iš Chronicon Hermanui de Wartberge: „Chronicon Hermanui de Wartberge“ nurodė tokį pat Saulės mūšyje kritusių riterių skaičių kaip Grigaliaus IX bulė: 50.
-- susijęs iš Chronicon Olivense: „Chronicon Olivense“ nurodė tokį pat Saulės mūšyje kritusių riterių skaičių kaip Grigaliaus IX bulė: 50.
 - susijęs iš Lenkija: 1230 m. popiežius Grigalius IX patvirtino Lenkijos kunigaikščio susitarimą su Teutonų ordino broliais.
 - susijęs iš Perudža: 1235 m. popiežius Grigalius IX kanonizavo šventą Elžbietą Perudžoje, brolių pamokslininkų konvente.
 ## Reikšmingi paminėjimai
@@ -106,3 +116,13 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 75688-76111; hash=e54e742d0cc29479de5f265982955415ea654b9beecdcf696e19f0981ad8cc38; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dorpatas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Grigalius IX: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dorpatas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Grigalius IX" parinktas kaip owner_note_path. Targetas "Dorpatas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

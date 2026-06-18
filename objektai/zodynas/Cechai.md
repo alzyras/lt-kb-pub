@@ -26,6 +26,16 @@ XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­ tvirtino Vokiet
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Italija; mentioned_place: Prancūzija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 32845-33622; hash=9b5866f4d3356e15e54888c9619919510cd160e9775f6a63d46f8206bddaf358; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Italija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Cechai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Italija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cechai" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-101622|„jogailaičių Europa“ „krikščionybės forpostas“]]: LDK visuomenei europėjant susiformavo leno teisė, feodai, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema.
 - susijęs iš [[objektai/zodynas/leno teisė feodas luominė monarchija.md#claim-t-77813|leno teisė feodas luominė monarchija]]: XVI a. LDK visuomenėje susiformavo leno teisė, riterio dvaras, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema.
 ## Reikšmingi paminėjimai
@@ -52,3 +62,13 @@ XII amžiaus antrojoje pusėje, kai amatai ir prekyba jau įsi­ tvirtino Vokiet
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 32845-33622; hash=9b5866f4d3356e15e54888c9619919510cd160e9775f6a63d46f8206bddaf358; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Italija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Cechai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Italija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Cechai" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

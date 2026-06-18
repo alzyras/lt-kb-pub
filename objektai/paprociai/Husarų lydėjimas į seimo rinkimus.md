@@ -46,7 +46,7 @@ Nenurodyta
 - t-001
   global_id: t-67083
   teiginys: 'Husarai buvo bajorai, kuriuos karalius ir etmonai pagerbdavo suteikdami draugo vardą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]'
   pagrindžia:
     - c-001
 

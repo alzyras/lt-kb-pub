@@ -22,9 +22,19 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
 - t-001
   global_id: t-83202
   teiginys: 'Etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą apie kelionę į Drują ir Bychovo tvirtovę, traukėsi į Bauskę ir Mintaują.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_place: Druja; mentioned_place: Mintauja; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Mintauja; mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_place: Druja; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=876cb3136dbe1df233bc244502e5c450426292d9aaf6279d8e94dc92bd6fb15d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mintauja: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bauskė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Mintauja: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bauskė" parinktas kaip owner_note_path. Targetas "Mintauja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184930"></a>
 - t-002
@@ -37,17 +47,27 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
   susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dauguva; mentioned_place: Druja; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Nesvyžius; mentioned_place: Sėlpilis'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1251822-1252582; hash=5c00e149fcca006c067f55f0659d8d5555f503935cafd6517fda2e927c188976; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dauguva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bauskė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dauguva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bauskė" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš Kuršas: Sapiegų etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą, iš Vilniaus pasitraukė į Kuršą, Bauskę ir Mintaują.
+- susijęs iš Vilnius: Sapiegų etmonas, iždininkas ir maršalas po nakvynės Vilniuje iš tikrųjų pasitraukė į Kuršą, Bauskę ir Mintaują.
 - susijęs iš [[objektai/grupes/Sapiegų kariuomenė.md#claim-t-78446|Sapiegų kariuomenė]]: M. P. Sapiega, gavęs Višnioveckių saugumo garantijas, pasidavė respublikonams su visa likusia kariuomene.
 - susijęs iš [[objektai/grupes/Sapiegų kariuomenė.md#claim-t-78448|Sapiegų kariuomenė]]: Sapiegų kariuomenės dalies gynyba sutrukdė respublikonams persekioti besitraukiančius Sapiegų giminės senjorus.
 - susijęs iš Bychovo tvirtovė: Sapiegų etmonas, iždininkas ir maršalas paskleidė gandą, kad vyksta į Drują bei Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą.
 - susijęs iš Bychovo tvirtovė: Etmonas, iždininkas ir maršalas paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, tačiau iš tikrųjų traukėsi į Kuršą.
 - susijęs iš Druja: Sapiegų senjorai Vilniuje paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą.
 - susijęs iš Druja: Sapiegos paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą.
-- susijęs iš Kuršas: Sapiegų etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą, iš Vilniaus pasitraukė į Kuršą, Bauskę ir Mintaują.
 - susijęs iš Mintauja: Etmonas, iždininkas ir maršalas, paskleidę gandą apie kelionę į Drują bei Bychovo tvirtovę, iš tikrųjų traukėsi į Bauskę ir Mintaują.
 - susijęs iš Vilnius: Sapiegas persekiojęs respublikonų kariuomenės dalinys įžengė į Vilnių, kai Sapiegos jau buvo išvykę iš miesto.
 - susijęs iš Vilnius: Sapiegų etmonas, iždininkas ir maršalas vakare pasiekė Vilnių ir svarbiausias rūmų vertybes suvežė į dominikonų vienuolyną.
-- susijęs iš Vilnius: Sapiegų etmonas, iždininkas ir maršalas po nakvynės Vilniuje iš tikrųjų pasitraukė į Kuršą, Bauskę ir Mintaują.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -104,4 +124,24 @@ Etmonas, iždininkas ir maršalas vakare pasiekė Vilnių, iš visų savo rūmų
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=876cb3136dbe1df233bc244502e5c450426292d9aaf6279d8e94dc92bd6fb15d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mintauja: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bauskė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Mintauja: mention_match, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bauskė" parinktas kaip owner_note_path. Targetas "Mintauja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1251822-1252582; hash=5c00e149fcca006c067f55f0659d8d5555f503935cafd6517fda2e927c188976; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dauguva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bauskė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dauguva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bauskė" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -22,9 +22,19 @@ Teodoras Vodka buvo tarp didikų, kurie karaliaus įsakymu su didele pagarba atl
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia pašalinti OCR triukšmą ir suformuluoti sakinį apie Teodorą Vodką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_place: Liublinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Liublinas; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1232341-1232796; hash=ebd38d63b480c707750f7401029f97d0383ca65d3024f979084216012f764a8b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Liublinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Teodoras Vodka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Liublinas: mention_match, place, gap=102
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Teodoras Vodka" parinktas kaip owner_note_path. Targetas "Liublinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Petras Semaška.md#claim-t-186247|Petras Semaška]]: Petras Semaška buvo tarp didikų, kurie karaliaus paliepimu atlydėjo maskvėnų legatą į Liubliną.
 ## Reikšmingi paminėjimai
 
@@ -46,3 +56,13 @@ Teodoras Vodka buvo tarp didikų, kurie karaliaus įsakymu su didele pagarba atl
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1232341-1232796; hash=ebd38d63b480c707750f7401029f97d0383ca65d3024f979084216012f764a8b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Liublinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Teodoras Vodka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Liublinas: mention_match, place, gap=102
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Teodoras Vodka" parinktas kaip owner_note_path. Targetas "Liublinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

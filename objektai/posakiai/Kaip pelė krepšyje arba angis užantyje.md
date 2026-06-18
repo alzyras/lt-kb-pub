@@ -46,6 +46,16 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dobrynė; mentioned_place: Dorpatas; mentioned_place: Elbliongas; mentioned_place: Estija; mentioned_place: Kulmas; mentioned_place: Livonija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba; mentioned_place: Varmė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 176384-178500; hash=bc7a4710e3e9b2eb9dda82f893bf7d7ab02583554bf84a20a5810be8cf182899; match=whitespace_regex
+  sprendimo_priezastis: gap::sayings
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaip pelė krepšyje arba angis užantyje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaip pelė krepšyje arba angis užantyje" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-55179"></a>
 - t-002
@@ -54,6 +64,16 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dobrynė; mentioned_place: Dorpatas; mentioned_place: Elbliongas; mentioned_place: Estija; mentioned_place: Kulmas; mentioned_place: Livonija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba; mentioned_place: Varmė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 176384-178500; hash=bc7a4710e3e9b2eb9dda82f893bf7d7ab02583554bf84a20a5810be8cf182899; match=whitespace_regex
+  sprendimo_priezastis: gap::sayings
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaip pelė krepšyje arba angis užantyje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaip pelė krepšyje arba angis užantyje" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-82140"></a>
 - t-003
@@ -63,6 +83,16 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dobrynė; mentioned_place: Dorpatas; mentioned_place: Elbliongas; mentioned_place: Estija; mentioned_place: Kulmas; mentioned_place: Livonija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba; mentioned_place: Varmė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 176384-178500; hash=bc7a4710e3e9b2eb9dda82f893bf7d7ab02583554bf84a20a5810be8cf182899; match=whitespace_regex
+  sprendimo_priezastis: gap::sayings
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaip pelė krepšyje arba angis užantyje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaip pelė krepšyje arba angis užantyje" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -123,5 +153,35 @@ Formulė reiškia slaptą, iš vidaus veikiančią grėsmę.
   statusas: verified
   pagrindžia:
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 176384-178500; hash=bc7a4710e3e9b2eb9dda82f893bf7d7ab02583554bf84a20a5810be8cf182899; match=whitespace_regex
+  sprendimo_priezastis: gap::sayings
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaip pelė krepšyje arba angis užantyje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaip pelė krepšyje arba angis užantyje" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 176384-178500; hash=bc7a4710e3e9b2eb9dda82f893bf7d7ab02583554bf84a20a5810be8cf182899; match=whitespace_regex
+  sprendimo_priezastis: gap::sayings
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaip pelė krepšyje arba angis užantyje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaip pelė krepšyje arba angis užantyje" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 176384-178500; hash=bc7a4710e3e9b2eb9dda82f893bf7d7ab02583554bf84a20a5810be8cf182899; match=whitespace_regex
+  sprendimo_priezastis: gap::sayings
+  ryšio_patikimumas: susije_su -> Dobrynė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kaip pelė krepšyje arba angis užantyje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Dobrynė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kaip pelė krepšyje arba angis užantyje" parinktas kaip owner_note_path. Targetas "Dobrynė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

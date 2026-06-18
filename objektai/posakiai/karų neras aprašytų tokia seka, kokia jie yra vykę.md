@@ -26,6 +26,16 @@ Dusburgietis teigia, kad pastarojo pasakojimo pradžioje kronikininkas pažymi, 
   susije_objektai: 'mentioned_place: Prūsai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 75620-76017; hash=4743ef072b699e95728a9d0eb62a27d3cd2ac3bfe5abf4658f98694b4a9b5aff; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: karų neras aprašytų tokia seka, kokia jie yra vykę: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "karų neras aprašytų tokia seka, kokia jie yra vykę" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -44,3 +54,13 @@ Dusburgietis teigia, kad pastarojo pasakojimo pradžioje kronikininkas pažymi, 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 75620-76017; hash=4743ef072b699e95728a9d0eb62a27d3cd2ac3bfe5abf4658f98694b4a9b5aff; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: karų neras aprašytų tokia seka, kokia jie yra vykę: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "karų neras aprašytų tokia seka, kokia jie yra vykę" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

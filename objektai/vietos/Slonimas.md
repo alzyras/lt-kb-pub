@@ -30,12 +30,23 @@ amziai:
   global_id: t-86105
   teiginys: 'Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mongolams, puolusiems Lietuvą.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Haličas; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Haličas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1272 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ec90489b60b703075cca6071634ffee123ec9643c96fd7c7f3863750a91b5b6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Haličas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Slonimas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Haličas: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Slonimas" parinktas kaip owner_note_path. Targetas "Haličas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Haličo kunigaikščiai.md#claim-t-80832|Haličo kunigaikščiai]]: 1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą, o Slonimas jiems smarkiai pasipriešino.
 - susijęs iš [[objektai/asmenys/Albertas (Vilniaus vyskupas).md#claim-t-87422|Albertas (Vilniaus vyskupas)]]: Albertas kaip vyskupas dalyvavo 1501 m. Gardine aktuotame dokumente tarp patikimų liudytojų.
 - susijęs iš [[objektai/asmenys/Aleksandras Jurgėvičius.md#claim-t-87616|Aleksandras Jurgėvičius]]: Aleksandras Jurgėvičius 1501 metais Gardine minėtas kaip Vilniaus kaštelionas ir Gardino seniūnas.
 - susijęs iš [[objektai/asmenys/Jonas iš Zabrežjės.md#claim-t-87526|Jonas iš Zabrežjės]]: Jonas iš Zabrežjės 1501 m. Gardine dalyvavo kaip Trakų vaivada ir LDK didysis maršalka.
@@ -45,7 +56,6 @@ amziai:
 - susijęs iš [[objektai/asmenys/Vaitiekus Janavičius.md#claim-t-87874|Vaitiekus Janavičius]]: Vaitiekus Janavičius 1507 m. Melnike buvo paminėtas kaip karališkasis rūmininkas ir Kauno seniūnas.
 - susijęs iš [[objektai/asmenys/Vaitiekus Narutavičius.md#claim-t-87875|Vaitiekus Narutavičius]]: Vaitiekus Narutavičius 1507 m. Melnike dalyvavo kaip rūmų maršalka ir Josvainių seniūnas.
 - susijęs iš [[objektai/grupes/Haličo kunigaikščiai.md#claim-t-55066|Haličo kunigaikščiai]]: Slonimas smarkiai pasipriešino 1272 m. Lietuvą puolusiems Haličo kunigaikščiams ir Nogajaus mongolams.
-- susijęs iš [[objektai/grupes/Haličo kunigaikščiai.md#claim-t-80832|Haličo kunigaikščiai]]: 1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą, o Slonimas jiems smarkiai pasipriešino.
 - susijęs iš [[objektai/ivykiai/Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių.md#claim-t-185564|Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių]]: Kaidanas įrengė karo stovyklą prie Pripetės žiočių ir išsiuntė daug būrių krašto niokoti.
 - susijęs iš [[objektai/ivykiai/Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių.md#claim-t-185565|Erdvilo puolimas prieš Kaidano stovyklą prie Pripetės žiočių]]: Erdvilas leido kariams pailsėti giriose, prieš aušrą juos išrikiavo kautynėms ir įsiveržė į Kaidano stovyklą.
 - susijęs iš Gardinas: 1501 m. dokumentas buvo aktuotas ir duotas Gardine šeštadienį po šv. Baltramiejaus šventės.
@@ -76,3 +86,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ec90489b60b703075cca6071634ffee123ec9643c96fd7c7f3863750a91b5b6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Haličas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Slonimas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Haličas: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Slonimas" parinktas kaip owner_note_path. Targetas "Haličas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

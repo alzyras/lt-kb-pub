@@ -25,6 +25,16 @@ Maskvos didikai teigė, kad Suleimano laiškas Vasilijui Vasiljevičiui titulavo
   susije_objektai: 'mentioned_place: Maskva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1235261-1235699; hash=d36f1b23e3aa350a7bcc2d9c9ea4af47a13d5d687ea31fb2267fbeff491ec0b2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Suleimanas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Suleimanas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Vasilijus Vasiljevičius.md#claim-t-184854|Vasilijus Vasiljevičius]]: Maskvos didikai teigė, kad Maksimilijono ir Suleimano laiškai Vasilijui Vasiljevičiui titulavo Maskvos didįjį kunigaikštį caru.
 ## Reikšmingi paminėjimai
 
@@ -46,3 +56,13 @@ Maskvos didikai teigė, kad Suleimano laiškas Vasilijui Vasiljevičiui titulavo
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1235261-1235699; hash=d36f1b23e3aa350a7bcc2d9c9ea4af47a13d5d687ea31fb2267fbeff491ec0b2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Suleimanas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Suleimanas" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

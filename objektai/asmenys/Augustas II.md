@@ -62,7 +62,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   global_id: t-78947
   teiginys: 'Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.'
   sudarymo_pagrindimas: 'Teiginys pilnas, aiškus ir patvirtintas citatoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sapiegų giminė|Sapiegų giminė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Saksonija; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Livonija; mentioned_place: Švedija; mentioned_group: [[objektai/grupes/Sapiegų giminė|Sapiegų giminė]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Lietuva; mentioned_place: Saksonija'
   pagrindžia:
     - c-002
 
@@ -97,8 +97,8 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Augusto II išrinkimą ir politinį siekį.'
   pagrindžia:
     - c-007
-- susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184422|Petras I Didysis]]: Augustas II ir Petras I sudarė sutartį atimti iš Švedijos Baltijos pajūrį.
 - susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184425|Petras I Didysis]]: Petras I susitarė su Augustu II dėl Rusijos paramos prieš Švediją.
+- susijęs iš [[objektai/asmenys/Petras I Didysis.md#claim-t-184422|Petras I Didysis]]: Augustas II ir Petras I sudarė sutartį atimti iš Švedijos Baltijos pajūrį.
 - susijęs iš Livonija: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
 - susijęs iš Livonija: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
 ## Reikšmingi paminėjimai

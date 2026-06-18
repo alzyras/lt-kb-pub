@@ -31,7 +31,7 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
   global_id: t-180499
   teiginys: 'Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą.'
   sudarymo_pagrindimas: 'Citata kalba apie Romos kuriją, todėl teiginį reikia patikslinti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/imperatorius Zigmantas|imperatorius Zigmantas]]; mentioned_place: Luckas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/imperatorius Zigmantas|imperatorius Zigmantas]]; mentioned_place: Luckas'
   pagrindžia:
     - c-002
 
@@ -42,6 +42,11 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
   sudarymo_pagrindimas: 'Sakinys sutvarkytas, pašalintas OCR triukšmas ir paliktas citatos paremtas faktas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=813836aaedd8a960151262ea24ebef284a0b65841a9405fac9d560b84c42d4e9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+- susijęs iš [[objektai/grupes/Husitai.md#claim-t-172096|Husitai]]: Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.
+- susijęs iš Lisabona: XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei barokinės architektūros ir dailės įtaką iki Meksikos ir Paragvajaus.
 - susijęs iš [[objektai/autoriai/A. Baltinis.md#claim-t-30496|A. Baltinis]]: A. Baltinis parašė veikalą „Vysk. V. Borisevičiaus gyvenimas ir darbai“, išleistą Romoje 1975 m.
 - susijęs iš [[objektai/autoriai/A. Dambrauskas-Jakštas.md#claim-t-30503|A. Dambrauskas-Jakštas]]: A. Dambrausko-Jakšto „Užgesę Žiburiai“ antrasis leidimas 1975 m. išėjo Romoje.
 - susijęs iš [[objektai/autoriai/A. Kučas.md#claim-t-30513|A. Kučas]]: A. Kučas 1965 m. Romoje paskelbė knygą „Kun. Antanas Staniukynas“.
@@ -56,11 +61,9 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179524|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: A. Prochaska rašė apie XIV-XV a. Lietuvą, išleido Vytauto Didžiojo aktų kodeksą ir parašė Jogailos bei Vytauto monografijas.
 - susijęs iš [[objektai/autoriai/O. Halecki.md#claim-t-179557|O. Halecki]]: O. Haleckio 1958 m. darbe „From Florence to Brest“ išsamiai įvertintas Vytauto vaidmuo.
 - susijęs iš [[objektai/autoriai/V. Jatulis.md#claim-t-31029|V. Jatulis]]: V. Jatulis redagavo 1964-1975 m. Romoje leistus „Monumenta Ucrainae Historica“ tomus.
-- susijęs iš [[objektai/grupes/Husitai.md#claim-t-172096|Husitai]]: Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.
 - susijęs iš J. Andrius Kng. Radvilos Lietuvos žemėlapis: J. Andriaus „Kng. Radvilos Lietuvos žemėlapis“ paskelbtas žurnalo „Aidai“ 1952 m. 10 numeryje, p. 445–448.
 - susijęs iš Monumenta Ucrainae Historica: A. Šeptyckio „Monumenta Ucrainae Historica“ I–XII tomai išleisti Romoje 1964–1975 m., redaguojant V. Jatuliui.
 - susijęs iš P. Rėklaitis Lietuvos senoji kartografija: P. Rėklaičio „Lietuvos senoji kartografija“ paskelbta „Tautos Praeities“ II tomo 1 dalyje, Romoje 1964 m., p. 64-76.
-- susijęs iš Lisabona: XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei barokinės architektūros ir dailės įtaką iki Meksikos ir Paragvajaus.
 - susijęs iš Možaiskas: Žvalgams pranešus apie netoliese esantį Možaiską, Algirdas surikiavo karius kautynių tvarka ir išvedė į vieškelį.
 ## Reikšmingi paminėjimai
 
@@ -96,4 +99,7 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=813836aaedd8a960151262ea24ebef284a0b65841a9405fac9d560b84c42d4e9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-001

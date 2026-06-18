@@ -35,6 +35,9 @@ Desantininkams vadovavo iš Pasvalio kilęs leitenantas Vladas JazokasPetraitis.
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 907953-908141; hash=9068bd77efffd44351c712d1e78170c4f14687ff64cbb65dd0906833a30b65ae; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -51,3 +54,6 @@ Desantininkams vadovavo iš Pasvalio kilęs leitenantas Vladas JazokasPetraitis.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 907953-908141; hash=9068bd77efffd44351c712d1e78170c4f14687ff64cbb65dd0906833a30b65ae; match=exact
+  sprendimo_priezastis: auto

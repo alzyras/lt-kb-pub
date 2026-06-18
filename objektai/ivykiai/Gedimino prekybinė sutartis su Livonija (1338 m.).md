@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-05293
   teiginys: '1338 m. lapkričio 1 d. Gediminas su Livonija sudarė prekybinę sutartį.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, veikėją ir sutarties sudarymą, paremtą citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Livonija; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Veliuona'
   temporaliniai_duomenys: 'įvykio data: 1338 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veikėją ir sutarties sudarymą, paremtą citata.'

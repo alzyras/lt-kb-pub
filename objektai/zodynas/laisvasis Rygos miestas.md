@@ -24,6 +24,9 @@ Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- t
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=aafb0ebc5a95c1759aeb2af72cd1117e938c40f951adc837fdb316a580f596a0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -46,3 +49,6 @@ Tam labai priešinosi arkivyskupas, kurs jautėsi esąs aukščiausias autori- t
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=aafb0ebc5a95c1759aeb2af72cd1117e938c40f951adc837fdb316a580f596a0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

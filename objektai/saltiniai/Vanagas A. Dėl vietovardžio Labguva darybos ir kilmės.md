@@ -33,6 +33,16 @@ Dusburgietis teigia, kad vanagas A.
   temporalinis_llm_pakomentavimas: 'Citata pateikia autorių, pavadinimą, leidinį ir metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 801471-801562; hash=e20a9d9c5072c5ff43690404a076e1a8ce31481dce6ab55cdca0473f35479c96; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Labguva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Labguva: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės" parinktas kaip owner_note_path. Targetas "Labguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +57,13 @@ Dusburgietis teigia, kad vanagas A.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 801471-801562; hash=e20a9d9c5072c5ff43690404a076e1a8ce31481dce6ab55cdca0473f35479c96; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Labguva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Labguva: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vanagas A. Dėl vietovardžio Labguva darybos ir kilmės" parinktas kaip owner_note_path. Targetas "Labguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

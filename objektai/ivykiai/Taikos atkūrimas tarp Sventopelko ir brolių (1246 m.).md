@@ -50,6 +50,17 @@ Nenurodyta
   susije_objektai: 'territory: Pomeranija; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 320306-321324; hash=c9b56c858b364d63ce4a761d339a89bd5daee38107a90c4fe6d3f6737945a0c8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Pomeranija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Sventopelkas: nearest_actor_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Pomeranija: exact_title_context, place, gap=12
+  ryšio_slopinti_kandidatai: Prūsija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Sventopelkas" parinktas kaip nearest_actor_after_title. Targetas "Pomeranija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 <a id="claim-t-62497"></a>
 - t-002
@@ -57,12 +68,22 @@ Nenurodyta
   teiginys: '1246 m. buvo sudarytos paliaubos tarp Ordino ir Sventopelko.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys yra trumpas, faktinis ir tiesiogiai paremtas pastabos citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]'
   temporaliniai_duomenys: 'įvykio data: 1246 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, faktinis ir tiesiogiai paremtas pastabos citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 322245-322348; hash=cadf752d5190b6cdf768e7dbf0069e402f2a471c82632568c8bd3be0985aaeac; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Sventopelkas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Sventopelkas: mention_match, person, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.)" parinktas kaip owner_note_path. Targetas "Sventopelkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -99,4 +120,25 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 320306-321324; hash=c9b56c858b364d63ce4a761d339a89bd5daee38107a90c4fe6d3f6737945a0c8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Pomeranija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Sventopelkas: nearest_actor_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Pomeranija: exact_title_context, place, gap=12
+  ryšio_slopinti_kandidatai: Prūsija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Sventopelkas" parinktas kaip nearest_actor_after_title. Targetas "Pomeranija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Prūsija.md", "selected": false, "strategy": "candidate", "title": "Prūsija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 322245-322348; hash=cadf752d5190b6cdf768e7dbf0069e402f2a471c82632568c8bd3be0985aaeac; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Sventopelkas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Sventopelkas: mention_match, person, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.)" parinktas kaip owner_note_path. Targetas "Sventopelkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -23,6 +23,9 @@ tags:
   sudarymo_pagrindimas: 'Citata yra atsiminimų fragmentas, todėl reikia sutvarkyti enciklopedinį sakinį be laužtinių skliaustų.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 660094-660303; hash=5d655db440069158f5cdc534abd46de7462d717ac651dce3661abd37b42a5a3a; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -37,3 +40,6 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 660094-660303; hash=5d655db440069158f5cdc534abd46de7462d717ac651dce3661abd37b42a5a3a; match=exact
+  sprendimo_priezastis: auto

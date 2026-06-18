@@ -46,6 +46,16 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Romualdas Ozolas|Romualdas Ozolas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=738597734902a428aa092c80b0cb2304dba124caba8c41d6acc99b755285299a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Romualdas Ozolas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Laikraščio „Atgimimas“ leidimo pradžia (1988 m. rugsėjo 16 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Romualdas Ozolas: mention_match, person, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laikraščio „Atgimimas“ leidimo pradžia (1988 m. rugsėjo 16 d.)" parinktas kaip owner_note_path. Targetas "Romualdas Ozolas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -68,3 +78,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=738597734902a428aa092c80b0cb2304dba124caba8c41d6acc99b755285299a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Romualdas Ozolas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Laikraščio „Atgimimas“ leidimo pradžia (1988 m. rugsėjo 16 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Romualdas Ozolas: mention_match, person, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Laikraščio „Atgimimas“ leidimo pradžia (1988 m. rugsėjo 16 d.)" parinktas kaip owner_note_path. Targetas "Romualdas Ozolas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

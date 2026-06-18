@@ -35,6 +35,16 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys neturėjo aiškaus subjekto; perrašyta kaip savarankiškas faktinis sakinys.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3ebcdfed22aa219fa5a13ea7d1d87fedb92b356e321fb7a593b6585da661858b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Radvila: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jezeriščė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Radvila: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jezeriščė" parinktas kaip owner_note_path. Targetas "Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184964"></a>
 - t-002
@@ -47,6 +57,16 @@ amziai:
   susije_objektai: 'mentioned_place: Polockas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1284509-1285050; hash=c3ac403667725feeec06ef69d0cde3f7dae3da9f723558cf32af0226bbe637fc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Polockas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jezeriščė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jezeriščė" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Usviatai: 1580 m. Kristupas Radvila dalyvavo paimant Usviatų tvirtovę.
 ## Reikšmingi paminėjimai
 
@@ -83,4 +103,24 @@ amziai:
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3ebcdfed22aa219fa5a13ea7d1d87fedb92b356e321fb7a593b6585da661858b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Radvila: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jezeriščė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Radvila: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jezeriščė" parinktas kaip owner_note_path. Targetas "Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1284509-1285050; hash=c3ac403667725feeec06ef69d0cde3f7dae3da9f723558cf32af0226bbe637fc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Polockas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jezeriščė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Polockas: mention_match, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jezeriščė" parinktas kaip owner_note_path. Targetas "Polockas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

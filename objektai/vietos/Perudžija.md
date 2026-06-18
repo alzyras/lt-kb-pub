@@ -33,6 +33,9 @@ Pasiuntiniai rado popiežių Perudžijoje (Š.
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Perudžiją ir atitinka citatą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 261601-261717; hash=aa91446286a3d318d9ebe9100303639838ca2df0432b8f33426b9b4cddcff59e; match=exact
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176308|Algirdas (Lietuvos valdovas)]]: Poznanės vyskupas Dobrogostas buvo tarpininkavęs tarp popiežiaus Inocento VI ir didžiojo Lietuvos kunigaikščio Algirdo.
 - susijęs iš [[objektai/asmenys/Dobrogostas.md#claim-t-82254|Dobrogostas]]: Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių Urboną VI ir anksčiau tarpininkavo Algirdui bei Inocentui VI.
 - susijęs iš [[objektai/asmenys/Inocentas VI.md#claim-t-35100|Inocentas VI]]: Inocentas VI buvo popiežius, kurio santykiuose su Algirdu kartą tarpininkavo Poznanės vyskupas Dobrogostas.
@@ -51,3 +54,6 @@ Pasiuntiniai rado popiežių Perudžijoje (Š.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 261601-261717; hash=aa91446286a3d318d9ebe9100303639838ca2df0432b8f33426b9b4cddcff59e; match=exact
+  sprendimo_priezastis: auto

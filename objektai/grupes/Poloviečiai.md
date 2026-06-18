@@ -22,10 +22,20 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Patikslintas priešininkas pagal citatos kontekstą ir išlaikytas pilnas sakinys.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Rusai|Rusai]]; counterparty: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Tautvila|Tautvila]]'
-  semantiniai_rysiai: '[[objektai/grupes/Poloviečiai|Poloviečiai]] kariavo prieš [[objektai/grupes/Rusai|Rusai]]; [[objektai/grupes/Poloviečiai|Poloviečiai]] kariavo prieš [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'counterparty: [[objektai/grupes/Vokiečiai|Vokiečiai]]; counterparty: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Tautvila|Tautvila]]'
+  semantiniai_rysiai: '[[objektai/grupes/Poloviečiai|Poloviečiai]] kariavo prieš [[objektai/grupes/Vokiečiai|Vokiečiai]]; [[objektai/grupes/Poloviečiai|Poloviečiai]] kariavo prieš [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 89552-89804; hash=46a05ed050d529df420576bd2bcec289825dacb1e5d0cbbfea1680f78922649c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: kariavo_pries -> Vokiečiai: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_combat_counterparty
+  ryšio_subjekto_parinkimas: Poloviečiai: owner_note_path, group, gap=25
+  ryšio_targeto_parinkimas: Vokiečiai: counterparty_iteration, group, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Poloviečiai" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187774"></a>
 - t-002
@@ -38,6 +48,16 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   susije_objektai: 'mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 91663-92052; hash=334f479b01a820f8d98a913eb644dbb99eede081020e44c0230d503a548c920a; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jotvingiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Poloviečiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Jotvingiai: mention_match, group, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poloviečiai" parinktas kaip owner_note_path. Targetas "Jotvingiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Arbaletai.md#claim-t-186830|Arbaletai]]: Lietuvos metraštyje pasakojama, kad prieš vokiečius išjoję Mindaugo kariai buvo ginkluoti arbaletais.
 - susijęs iš [[objektai/daiktai/Strėlės.md#claim-t-186831|Strėlės]]: Lietuvos metraštyje pasakojama, kad lietuvos metraštis pasakoja, kad rusai ir poloviečiai šiame susirėmime jodinėjo su strėlėmis; Šiame gabale strėlės minimos kaip atskira kovinė priemonė.
 - susijęs iš [[objektai/daiktai/Trumpos ietys.md#claim-t-186832|Trumpos ietys]]: Lietuvos metraščio pasakojime jotvingiai susirėmime prieš vokiečius jodinėjo su trumpomis ietimis.
@@ -81,8 +101,28 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 89552-89804; hash=46a05ed050d529df420576bd2bcec289825dacb1e5d0cbbfea1680f78922649c; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: kariavo_pries -> Vokiečiai: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_combat_counterparty
+  ryšio_subjekto_parinkimas: Poloviečiai: owner_note_path, group, gap=25
+  ryšio_targeto_parinkimas: Vokiečiai: counterparty_iteration, group, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Poloviečiai" parinktas kaip owner_note_path. Targetas "Vokiečiai" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: owner_before_predicate, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 91663-92052; hash=334f479b01a820f8d98a913eb644dbb99eede081020e44c0230d503a548c920a; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jotvingiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Poloviečiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Jotvingiai: mention_match, group, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Poloviečiai" parinktas kaip owner_note_path. Targetas "Jotvingiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
-- Poloviečiai kariavo_pries [[objektai/grupes/Rusai]]
 - Poloviečiai kariavo_pries [[objektai/grupes/Vokiečiai]]
+- Poloviečiai kariavo_pries [[objektai/grupes/Rusai]]

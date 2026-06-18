@@ -32,17 +32,27 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
   global_id: t-59996
   teiginys: 'Pamedės kilmingasis Pipinas gyveno pilaitėje ir su būriais puldinėjo iš pilies išėjusius krikščionis.'
   sudarymo_pagrindimas: 'Reikia pašalinti boilerplate ir suformuoti vientisą faktinį sakinį.'
-  susije_objektai: 'location: Pilaitė; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Pilėnai; mentioned_place: Viena'
+  susije_objektai: 'location: Pilaitė; mentioned_place: Pilaitė; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Viena'
   semantiniai_rysiai: '[[objektai/asmenys/Pipinas|Pipinas]] gyveno Pilaitė'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=eafcf7213028bf68f354ef9a427eb4e54211137e1d647b0ff36c273c641e2eac; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pipinas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pipinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59998"></a>
 - t-002
   global_id: t-59998
   teiginys: 'Ragavos vadas išdavė savo seserėną Pipiną broliams, kurie pririštą prie arklio uodegos Pipiną nuvilko iki Torunės ir pakorė po medžiu.'
   sudarymo_pagrindimas: 'Reikia pataisyti sakinio sklandumą ir aiškiai įvardyti Pipiną.'
-  susije_objektai: 'mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_place: Torunė; mentioned_place: Pamedė; mentioned_place: Pilėnai'
   pagrindžia:
     - c-001
 
@@ -51,24 +61,36 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
   global_id: t-59999
   teiginys: 'Pipinas buvo vienas pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatoje pateiktu vertinimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Kulmas; mentioned_place: Oliva; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Kulmas; mentioned_place: Oliva; mentioned_place: Pamedė; mentioned_place: Torunė'
   temporaliniai_duomenys: 'įvykio data: iki 1223 m.; įvykio data: 1223 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatoje pateiktu vertinimu.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63912|Martynas iš Golino]]: Martynas iš Golino žygiuodavo su Rudino ir vėliau Karaliaučiaus broliais.
-- susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63915|Martynas iš Golino]]: Martynas iš Golino žygiuodavo su Rudino broliais, o vėliau su Karaliaučiaus broliais.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=108f8c8721107bebb3511f72dae20c667bf6d16c71c2f418cc283c719708d938; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyveno -> Pilaitė: 1.00
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_residence_local_place
+  ryšio_subjekto_parinkimas: Pipinas: owner_note_path, person, gap=8
+  ryšio_targeto_parinkimas: Pilaitė: nearest_after_predicate, place, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Pipinas" parinktas kaip owner_note_path. Targetas "Pilaitė" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Mata.md#claim-t-60057|Mata]]: Mata buvo kilmingas Pamedės vyras ir Pipino sūnus, iki mirties drąsiai gynęs Kristaus tikėjimą.
 - susijęs iš [[objektai/asmenys/Mata.md#claim-t-60055|Mata]]: Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.
 - susijęs iš [[objektai/asmenys/Mata.md#claim-t-60056|Mata]]: Kilmingas pamedėnas Mata, Pipino sūnus, patarė broliams ir kariuomenei pulti priešus pėsčiomis, palikus arklius užnugaryje.
 - susijęs iš [[objektai/asmenys/Mata.md#claim-t-60057|Mata]]: Mata buvo kilmingas Pamedės vyras ir Pipino sūnus, iki mirties drąsiai gynęs Kristaus tikėjimą.
+- susijęs iš [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis.md#claim-t-66533|Dviejų pilių sugriovimas ir Pipino žūtis]]: 221 Pipino nukankinimas vaizduojamas tendencingai (žr.
+- susijęs iš [[objektai/ivykiai/Pipino nukankinimas ir mirtis.md#claim-t-62897|Pipino nukankinimas ir mirtis]]: Dusburgietis Pipino mirtį vaizdavo kaip pakorimą po to, kai Pipinas buvo pririštas prie arklio ir atvilktas iki Torunės.
+- susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63912|Martynas iš Golino]]: Martynas iš Golino žygiuodavo su Rudino ir vėliau Karaliaučiaus broliais.
+- susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63915|Martynas iš Golino]]: Martynas iš Golino žygiuodavo su Rudino broliais, o vėliau su Karaliaučiaus broliais.
+- susijęs iš [[objektai/asmenys/Mata.md#claim-t-60055|Mata]]: Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.
 - susijęs iš [[objektai/autoriai/Dundulienė P.md#claim-t-64573|Dundulienė P]]: Dundulienės darbas cituojamas teiginiui, kad balti ir juodi Perkūno žirgai buvo žinomi, o tokio plauko žirgai ypatingai gerbti.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178928|Kryžiuočių ordinas]]: Ordino pilis ant Švento Jurgio kalno, atrodo, stovėjo dešiniajame Nemuno krante apie dabartinį Jurbarką.
 - susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185425|Langobardai]]: 703 m. galų nugalėti langobardai sudarė su romėnais palankią taiką.
 - susijęs iš [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis.md#claim-t-183918|Dviejų pilių sugriovimas ir Pipino žūtis]]: Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.
-- susijęs iš [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis.md#claim-t-66533|Dviejų pilių sugriovimas ir Pipino žūtis]]: 221 Pipino nukankinimas vaizduojamas tendencingai (žr.
 - susijęs iš [[objektai/ivykiai/Dviejų pilių sugriovimas ir Pipino žūtis.md#claim-t-66534|Dviejų pilių sugriovimas ir Pipino žūtis]]: Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis.
-- susijęs iš [[objektai/ivykiai/Pipino nukankinimas ir mirtis.md#claim-t-62897|Pipino nukankinimas ir mirtis]]: Dusburgietis Pipino mirtį vaizdavo kaip pakorimą po to, kai Pipinas buvo pririštas prie arklio ir atvilktas iki Torunės.
 - susijęs iš [[objektai/posakiai/krikščioniškieji plėšikautojai.md#claim-t-59119|krikščioniškieji plėšikautojai]]: „Krikščioniškieji plėšikautojai“, veikę Ordino labui, galėjo pateikti nemaža žinių apie Lietuvos ir Prūsijos kraštus.
 - susijęs iš [[objektai/zodynas/latrunkuliai.md#claim-t-58913|latrunkuliai]]: Krikščioniškieji plėšikautojai, vadinti latrunkuliais, veikė Ordino labui ir galėjo teikti žinių kronikai.
 ## Reikšmingi paminėjimai
@@ -129,7 +151,29 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=108f8c8721107bebb3511f72dae20c667bf6d16c71c2f418cc283c719708d938; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyveno -> Pilaitė: 1.00
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_residence_local_place
+  ryšio_subjekto_parinkimas: Pipinas: owner_note_path, person, gap=8
+  ryšio_targeto_parinkimas: Pilaitė: nearest_after_predicate, place, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Pipinas" parinktas kaip owner_note_path. Targetas "Pilaitė" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=eafcf7213028bf68f354ef9a427eb4e54211137e1d647b0ff36c273c641e2eac; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pipinas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pipinas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Pipinas gyveno [[objektai/vietos/Pilaitė]]
+- [[objektai/asmenys/Mata]] vede Pipinas
+- [[objektai/asmenys/Mata]] buvo_sunus Pipinas

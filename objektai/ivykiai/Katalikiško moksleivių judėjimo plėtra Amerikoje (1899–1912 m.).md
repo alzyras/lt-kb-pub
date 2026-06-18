@@ -40,6 +40,9 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=50807032ddf004f36b7ddd525aff242342d23cc564f8041f9c8ee7c150ce7694; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -61,3 +64,6 @@ Nenurodyta
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=50807032ddf004f36b7ddd525aff242342d23cc564f8041f9c8ee7c150ce7694; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

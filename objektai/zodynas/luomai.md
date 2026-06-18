@@ -25,6 +25,16 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
   susije_objektai: 'mentioned_place: Lenčica; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 649556-650050; hash=37779191052ba28c3c071fbaf60ee752c96f4bc8c8cd6293e312c14e6381d7ff; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenčica: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: luomai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenčica: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "luomai" parinktas kaip owner_note_path. Targetas "Lenčica" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185357"></a>
 - t-002
@@ -37,6 +47,16 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 670695-671155; hash=2c376bf29526c7d5726bbd5511012c30143e21c11aea2e1d5a2d4190c985bbf4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: luomai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "luomai" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185358"></a>
 - t-003
@@ -49,6 +69,16 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Korčinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 734419-734797; hash=b0f019830111a0541197eeb319608c3c238161a7b1498b88b3afb35e0cd35fe7; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Goštautas (vyskupas, XV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: luomai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Goštautas (vyskupas, XV a.): mention_match, person, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "luomai" parinktas kaip owner_note_path. Targetas "Goštautas (vyskupas, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185359"></a>
 - t-004
@@ -58,9 +88,19 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie karaliaus ir luomų sprendimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 737011-737752; hash=b10d70edb3742a32acd061bb10006ed5e8c97dc393ec44563cf0944a9abdbd62; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: luomai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "luomai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185361"></a>
 - t-005
@@ -73,10 +113,7 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
   pagrindžia:
     - c-005
 - susijęs iš [[objektai/asmenys/Augustas.md#claim-t-185940|Augustas]]: Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl metų ir ligų perdavė jam valdymą, o luomai tam pritarė.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184700|Gediminas]]: Kijevo luomai pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184733|Jogaila (kunigaikštis, XIV–XV a.)]]: Iš Lucko grįžęs į Lenkiją, Jogaila Korčine sukvietė seimą, kad luomai nuspręstų, kaip priešintis Vytauto siekiams.
-- susijęs iš [[objektai/asmenys/Jurgis Chodkevičius.md#claim-t-184746|Jurgis Chodkevičius]]: Bresto seimo pradžioje Jurgis Chodkevičius paskirtas Lietuvos Didžiosios Kunigaikštystės archikamerarijumi.
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184750|Kazimieras Jogailaitis]]: Vilniaus šv. Stanislovo katedroje maršalas paskelbė Kazimierą Jogailaitį Lietuvos didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184532|Lenkai]]: Po visą Lenkiją sklidusios paskalos paskatino luomus reikalauti, kad valdovas neatplėštų žemių nuo karalystės.
 - susijęs iš [[objektai/grupes/Lenkijos karalystės luomai.md#claim-t-185451|Lenkijos karalystės luomai]]: Vytauto pasiuntiniai Korčino seime išdėstė Lenkijos karalystės luomams valdovo reikalavimus dėl vainikavimo.
 - susijęs iš [[objektai/grupes/Lietuvos luomai.md#claim-t-185432|Lietuvos luomai]]: Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimus, taip patvirtindami senąją sąjungą su lenkais.
@@ -84,23 +121,29 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 - susijęs iš [[objektai/grupes/Vilniaus lietuvių seimas.md#claim-t-185439|Vilniaus lietuvių seimas (seimas, XV a.)]]: Vilniaus lietuvių seime luomai prašė paskirti Lietuvai vietininku Simoną Olelkaitį, Slucko kunigaikštį.
 - susijęs iš [[objektai/ivykiai/1430 m. Jedlno seimo suvažiavimas.md#claim-t-35819|1430 m. Jedlno seimo suvažiavimas (seimas, XV a.)]]: 1430 m. Jedlne Lenkijos luomai atnaujino pažadą vieną Jogailos sūnų priimti kaip jo įpėdinį su Vytauto ir lietuvių pritarimu.
 - susijęs iš [[objektai/ivykiai/Algirdo mirtis ir Jogailos paskelbimas didžiuoju kunigaikščiu.md#claim-t-185689|Algirdo mirtis ir Jogailos paskelbimas didžiuoju kunigaikščiu]]: Palaidojus Algirdą pagal senus protėvių papročius, visi luomai Kęstučio siūlymu paskelbė Jogailą Lietuvos didžiuoju kunigaikščiu.
-- susijęs iš [[objektai/ivykiai/Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas.md#claim-t-185798|Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas]]: Kol karalius buvo išvykęs, Bogdanas smarkiai nuniokojo Rusią, sudegino kelis miestus ir daugybę bažnyčių.
 - susijęs iš [[objektai/ivykiai/Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.).md#claim-t-185494|Gedimino žygis į Kijevo žemę, mūšis prie Irpenio ir Kijevo užėmimas (1320 m.)]]: Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.
 - susijęs iš [[objektai/ivykiai/Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.).md#claim-t-185816|Lietuvos luomų seimas dėl Medininkų vyskupystės raštų sutvarkymo (1421 m.)]]: 1421 m. Vytautas sušaukė Lietuvos luomų seimą ir, visiems pritariant, parūpino valstybinius raštus dėl Medininkų vyskupystės.
 - susijęs iš [[objektai/ivykiai/Piotrkovo seimas ir luomų reikalavimas karaliui prisiekti dėl Podolės bei Volynės (1449 m.).md#claim-t-185824|Piotrkovo seimas ir luomų reikalavimas karaliui prisiekti dėl Podolės bei Volynės (1449 m.)]]: Piotrkovo seime Lenkijos luomai pareikalavo, kad karalius prisiektų neatiduoti lietuviams Podolės ir Volynės žemių.
 - susijęs iš [[objektai/ivykiai/Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.).md#claim-t-185653|Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.)]]: 1461 m. Vilniaus seime Lietuvos luomai pareiškė, kad visuomenė gali būti rami tik karaliui asmeniškai valdant Lietuvą.
 - susijęs iš [[objektai/ivykiai/Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.).md#claim-t-185654|Vilniaus lietuvių seimas ir prašymas skirti Simoną Olelkaitį vietininku (1461 m.)]]: 1461 m. Vilniaus seime Lietuvos luomai prašė paskirti Simoną Olelkaitį Lietuvos vietininku.
 - susijęs iš [[objektai/ivykiai/Vilniaus seimas ir Belsko žemės atskyrimo aktas.md#claim-t-185832|Vilniaus seimas ir Belsko žemės atskyrimo aktas (seimas, XVI a.)]]: 1548 m. Vilniaus seime Lietuvos luomai pasirašė aktą, kuriuo Belsko žemė Palenkėje atskirta nuo Lietuvos ir atiduota lenkams.
-- susijęs iš [[objektai/ivykiai/Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.).md#claim-t-185784|Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.)]]: 1509 m. Vilniaus seime nutarta teisti Glinskio šalininkus, o žymiausieji iš jų buvo įkalinti Trakuose.
-- susijęs iš [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.).md#claim-t-184600|Vytauto karūnacijos byla (1429–1430 m.)]]: Išvykęs iš Lucko, karalius Korčine sukvietė seimą spręsti, kaip priešintis Vytauto karūnacijos siekiams.
-- susijęs iš [[objektai/paprociai/Pakėlimas į kunigaikščius su įprastinėmis apeigomis.md#claim-t-185920|Pakėlimas į kunigaikščius su įprastinėmis apeigomis]]: Imperatorius Maksimilijonas Goniondze įprastinėmis apeigomis pakėlė Mikalojų II Radvilą į Rusios ir Mazovijos kunigaikščius.
 - susijęs iš [[objektai/paprociai/Testamento vykdytojų pareiga padalyti turtą pagal testatoriaus valią.md#claim-t-87304|Testamento vykdytojų pareiga padalyti turtą pagal testatoriaus valią]]: Testatorius prašė sosto įpėdinio ir abiejų valstybių luomų tarybų netrukdyti padalyti jo turtų pagal pareikštą valią.
 - susijęs iš [[objektai/posakiai/Kijevo ir Rusios didįjį kunigaikštį.md#claim-t-185478|Kijevo ir Rusios didįjį kunigaikštį]]: Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.
 - susijęs iš Lietuvos ir Lenkijos sąjungos atnaujinimo viešasis dokumentas (1401 m.): 1401 m. Lietuvos luomai viešu dokumentu paliudijo, kad Lietuva su savo kunigaikštystėmis ir žemėmis prisijungia prie Lenkijos karalystės.
-- susijęs iš Livonijos ir Lietuvos sąjungos bei globos sutartis: Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su maskvėnais susitars be lietuvių karinės ir piniginės pagalbos.
-- susijęs iš Mikalojaus Radvilos ir Eustachijaus Valavičiaus laiškas Maskvos didikams: Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.
 - susijęs iš Gardinas: Gardino seime luomai svarstė valstybės reikalus, kai Mengli Girėjaus pasiuntiniai pranešė apie Maniako rengiamą karą prieš Rusią.
 - susijęs iš Kijevas: Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
+- susijęs iš [[objektai/zodynas/luomas.md#claim-t-169919|luomas]]: Valdovas prašė būsimo įpėdinio ir abiejų valstybių luomų tarybų netrukdyti padalyti jo turtų pagal aprašytą tvarką.
+- susijęs iš [[objektai/zodynas/luomas.md#claim-t-184620|luomas]]: Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo.
+- susijęs iš [[objektai/zodynas/luomas.md#claim-t-184621|luomas]]: Karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką.
+- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184700|Gediminas]]: Kijevo luomai pasveikino nugalėtoją Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė paklusti jo valdžiai.
+- susijęs iš [[objektai/asmenys/Jurgis Chodkevičius.md#claim-t-184746|Jurgis Chodkevičius]]: Bresto seimo pradžioje Jurgis Chodkevičius paskirtas Lietuvos Didžiosios Kunigaikštystės archikamerarijumi.
+- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184750|Kazimieras Jogailaitis]]: Vilniaus šv. Stanislovo katedroje maršalas paskelbė Kazimierą Jogailaitį Lietuvos didžiuoju kunigaikščiu.
+- susijęs iš [[objektai/ivykiai/Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas.md#claim-t-185798|Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas]]: Kol karalius buvo išvykęs, Bogdanas smarkiai nuniokojo Rusią, sudegino kelis miestus ir daugybę bažnyčių.
+- susijęs iš [[objektai/ivykiai/Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.).md#claim-t-185784|Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.)]]: 1509 m. Vilniaus seime nutarta teisti Glinskio šalininkus, o žymiausieji iš jų buvo įkalinti Trakuose.
+- susijęs iš [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.).md#claim-t-184600|Vytauto karūnacijos byla (1429–1430 m.)]]: Išvykęs iš Lucko, karalius Korčine sukvietė seimą spręsti, kaip priešintis Vytauto karūnacijos siekiams.
+- susijęs iš [[objektai/paprociai/Pakėlimas į kunigaikščius su įprastinėmis apeigomis.md#claim-t-185920|Pakėlimas į kunigaikščius su įprastinėmis apeigomis]]: Imperatorius Maksimilijonas Goniondze įprastinėmis apeigomis pakėlė Mikalojų II Radvilą į Rusios ir Mazovijos kunigaikščius.
+- susijęs iš Livonijos ir Lietuvos sąjungos bei globos sutartis: Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su maskvėnais susitars be lietuvių karinės ir piniginės pagalbos.
+- susijęs iš Mikalojaus Radvilos ir Eustachijaus Valavičiaus laiškas Maskvos didikams: Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė, kad Žygimantas Augustas vengė karo su Maskva.
 - susijęs iš Kijevo žemės: Lenkų atstovai Vilniaus seime reikalavo Lenkijos karalystei atiduoti Palenkę, Volynę, Kijevo ir Seversko žemes.
 - susijęs iš Krokuva: Paleidęs seimą, karalius išvyko į Krokuvą.
 - susijęs iš Luckas: Po senato posėdžio karalius skubiai išvyko iš Lucko, net neatsisveikinęs su imperatoriumi.
@@ -113,9 +156,6 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 - susijęs iš [[objektai/zodynas/Rusios didysis kunigaikštis.md#claim-t-185410|Rusios didysis kunigaikštis]]: Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.
 - susijęs iš [[objektai/zodynas/archikamerarijus.md#claim-t-185398|archikamerarijus]]: Seimo pradžioje Jurgis Chodkevičius buvo paskirtas vyriausiuoju kunigaikščio miegamojo prižiūrėtoju, vadintu archikamerarijumi.
 - susijęs iš [[objektai/zodynas/graikų schizma.md#claim-t-185386|graikų schizma]]: Konstantinas, išpažindamas rusų tikėjimą, prisidėjo prie graikų schizmos ir išsižadėjo paklusnumo Romos popiežiui.
-- susijęs iš [[objektai/zodynas/luomas.md#claim-t-169919|luomas]]: Valdovas prašė būsimo įpėdinio ir abiejų valstybių luomų tarybų netrukdyti padalyti jo turtų pagal aprašytą tvarką.
-- susijęs iš [[objektai/zodynas/luomas.md#claim-t-184620|luomas]]: Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo.
-- susijęs iš [[objektai/zodynas/luomas.md#claim-t-184621|luomas]]: Karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -160,6 +200,16 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 649556-650050; hash=37779191052ba28c3c071fbaf60ee752c96f4bc8c8cd6293e312c14e6381d7ff; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenčica: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: luomai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenčica: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "luomai" parinktas kaip owner_note_path. Targetas "Lenčica" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-003
@@ -179,6 +229,16 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 670695-671155; hash=2c376bf29526c7d5726bbd5511012c30143e21c11aea2e1d5a2d4190c985bbf4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: luomai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "luomai" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-004
@@ -203,6 +263,16 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 734419-734797; hash=b0f019830111a0541197eeb319608c3c238161a7b1498b88b3afb35e0cd35fe7; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Goštautas (vyskupas, XV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: luomai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Goštautas (vyskupas, XV a.): mention_match, person, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "luomai" parinktas kaip owner_note_path. Targetas "Goštautas (vyskupas, XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-005
@@ -222,4 +292,14 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 737011-737752; hash=b10d70edb3742a32acd061bb10006ed5e8c97dc393ec44563cf0944a9abdbd62; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: luomai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "luomai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005

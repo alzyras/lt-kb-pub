@@ -35,6 +35,16 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus faktinis sakinys apie objektą ir tiksliai remiasi citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1b49430240f539c17e3a3be9dd0d9b1dd9e17950183d52e7c6672ae69136c959; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Juozas Lukša-Skirmantas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: geležinė uždanga: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Juozas Lukša-Skirmantas: mention_match, person, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "geležinė uždanga" parinktas kaip owner_note_path. Targetas "Juozas Lukša-Skirmantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -58,3 +68,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1b49430240f539c17e3a3be9dd0d9b1dd9e17950183d52e7c6672ae69136c959; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Juozas Lukša-Skirmantas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: geležinė uždanga: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Juozas Lukša-Skirmantas: mention_match, person, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "geležinė uždanga" parinktas kaip owner_note_path. Targetas "Juozas Lukša-Skirmantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

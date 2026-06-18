@@ -47,9 +47,19 @@ Nenurodyta
   teiginys: 'Ragainės broliai, gavę žinią iš žvalgo, užpuolė 36 lietuvius viename lauke ir 25 iš jų nukovė.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškesnį faktinį sakinį apie išpuolį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]]; mentioned_person: [[objektai/asmenys/Markvardas (Ragainės komtūras)|Markvardas (Ragainės komtūras)]]; mentioned_person: [[objektai/asmenys/Markvardas iš Revelingės|Markvardas iš Revelingės]]; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]]; mentioned_person: [[objektai/asmenys/Markvardas iš Revelingės|Markvardas iš Revelingės]]; mentioned_place: Ragainė; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Markvardas (Ragainės komtūras)|Markvardas (Ragainės komtūras)]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 562909-563315; hash=f6d0e89283583ec1a7a07cb84de83ce0046cca40d500410e84793665a2f4b24b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukaimis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-62905"></a>
 - t-002
@@ -63,6 +73,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas pašalinant antraštės ir OCR triukšmą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b5c45dbd8f3d28e4f1841a1782669a143d1052ef351eb566d308d9fcd1cf45a8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -96,4 +116,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b5c45dbd8f3d28e4f1841a1782669a143d1052ef351eb566d308d9fcd1cf45a8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 562909-563315; hash=f6d0e89283583ec1a7a07cb84de83ce0046cca40d500410e84793665a2f4b24b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukaimis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aukaimis: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ragainės brolių išpuolis prieš 36 lietuvius (1290 m. birželio 25 d.)" parinktas kaip owner_note_path. Targetas "Aukaimis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

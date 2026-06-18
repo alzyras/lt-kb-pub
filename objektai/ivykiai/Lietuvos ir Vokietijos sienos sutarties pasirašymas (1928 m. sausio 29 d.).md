@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-45361
   teiginys: '1928 m. sausio 29 d. Berlyne Lietuva ir Vokietija nustatė sienos liniją, palikusią Klaipėdos teritoriją Lietuvos pusėje.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti turiningesnį faktą apie sutarties rezultatą.'
-  susije_objektai: 'mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vokietija; mentioned_place: Berlynas'
   temporaliniai_duomenys: 'įvykio data: 1928 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti turiningesnį faktą apie sutarties rezultatą.'

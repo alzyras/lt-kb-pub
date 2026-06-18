@@ -30,9 +30,19 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
   global_id: t-86096
   teiginys: 'Paulius iš Olivos kartu su Jordanu iš Pelplino laiškuose popiežiui stojo ginti kryžiuočių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatoje nurodytą Pauliaus iš Olivos veiksmą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Pelplinas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Pelplinas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 178501-179518; hash=c7727a9936e60cd4db58aecbc83230029c830c8b308d55f8a267c197d2b108c9; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jordanas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Oliva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jordanas: mention_match, author, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Oliva" parinktas kaip owner_note_path. Targetas "Jordanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86097"></a>
 - t-002
@@ -45,14 +55,35 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
   temporalinis_llm_pakomentavimas: 'Lotyniška citata pakeista glaustu lietuvišku sakiniu, remiantis vertimu.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=504643295c87b66b63406b2545b6c425966d54d8a1ef40d16e1375bd1affff9b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Oliva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Oliva" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Paulius iš Olivos.md#claim-t-87818|Paulius iš Olivos]]: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo.
+- susijęs iš [[objektai/autoriai/M. Perlbachas.md#claim-t-175148|M. Perlbachas]]: M. Perlbachas rašė apie senesniąją Olivos kroniką.
+- susijęs iš [[objektai/autoriai/Olivos metraščiai.md#claim-t-88077|Olivos metraščiai]]: Olivos metraščiai rašo, kad Gediminui ar jo kariui stumiant karinę mašiną pataikė Marijano iš bombardos paleistas šūvis.
+- susijęs iš Olivos ir Pelplino abatų laiškas dėl Teutonų ordino garbės (1324 m.): Olivos abatas Paulius ir Pelplino abatas Jordanas laiškais popiežiui gynė Teutonų ordino brolių garbę.
+- susijęs iš Olivos ir Pelplino abatų laiškas dėl Teutonų ordino garbės (1324 m.): Olivos ir Pelplino abatų laiškas buvo datuotas 1324 m. sausio 17 d. Gmevo pilyje.
+- susijęs iš Olivos kronika: Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Wonsdorff ir Wansdorf.
+- susijęs iš Olivos kronika: Olivos kronikoje Cristburgo pavadinimas pateikiamas formomis Kirsburg ir Kirsberg.
+- susijęs iš Olivos kronika: Olivos kronikoje atitinkama vieta perteikta žodžiais „tradidit illis“, reiškiančiais „jiems perdavė“.
+- susijęs iš Olivos kronika: Senesnėje Olivos kronikoje: generatio [...] Bogatini (SRP, 1, p. 680).
+- susijęs iš Olivos kronika: Senojoje Olivos kronikoje nurodyta, kad per 1243 (1242?) m. birželio 15 d. kautynes Sventopelkas buvo sudaręs paliaubas su Ordinu.
+- susijęs iš Olivos kronika: Olivos kronikoje vietovardis pateikiamas formomis Kirske ir Kirsko.
+- susijęs iš Olivos kronika: Senojoje Olivos kronikoje aiškiau aprašytas Dusburgiečio minimas Pamedės niokojimas.
+- susijęs iš Olivos kronika: J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.
+- susijęs iš Olivos kronika: Olivos kronikoje Renseno ežeras minimas lotyniška forma „ad lacum qui dicitur Rensin“.
 - susijęs iš [[objektai/asmenys/Eberhardas (Varmės vyskupas).md#claim-t-82282|Eberhardas (Varmės vyskupas)]]: Varmės vyskupas Eberhardas 1325 m. rašė, kad teiginiai apie lietuvių norą krikštytis yra melagingi.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176377|Gediminas]]: Olivos metraščiai teigė, kad Gediminas žuvo nuo Marijano paleisto šūvio iš bombardos.
-- susijęs iš [[objektai/asmenys/Paulius iš Olivos.md#claim-t-87818|Paulius iš Olivos]]: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo.
 - susijęs iš [[objektai/asmenys/Pipinas.md#claim-t-59999|Pipinas]]: Pipinas buvo vienas pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją.
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.
 - susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62620|J. Venta]]: J. Venta iškėlė mintį, kad išlikusi Dusburgiečio kronika yra 1326 m. redakcija arba jos cenzūruotas antrininkas.
-- susijęs iš [[objektai/autoriai/M. Perlbachas.md#claim-t-175148|M. Perlbachas]]: M. Perlbachas rašė apie senesniąją Olivos kroniką.
-- susijęs iš [[objektai/autoriai/Olivos metraščiai.md#claim-t-88077|Olivos metraščiai]]: Olivos metraščiai rašo, kad Gediminui ar jo kariui stumiant karinę mašiną pataikė Marijano iš bombardos paleistas šūvis.
 - susijęs iš [[objektai/grupes/Cistersų ordinas.md#claim-t-88539|Cistersų ordinas]]: 1210 m. pabaigos popiežiaus bulėje Cistersų ordino vienuolis Kristijonas minimas kaip vienas krikščioniškosios misijos Prūsijoje vadovų.
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65110|Dobrynės broliai]]: Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu.
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65113|Dobrynės broliai]]: 1235 m. Dobrynės ordinas susijungė su kryžiuočiais.
@@ -66,17 +97,6 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
 - susijęs iš [[objektai/ivykiai/Pipino nukankinimas ir mirtis.md#claim-t-62897|Pipino nukankinimas ir mirtis]]: Dusburgietis Pipino mirtį vaizdavo kaip pakorimą po to, kai Pipinas buvo pririštas prie arklio ir atvilktas iki Torunės.
 - susijęs iš 1210 m. pabaigos popiežiaus bulė: 1210 m. pabaigos popiežiaus bulėje Kristijonas minimas kaip vienas krikščioniškosios misijos Prūsijoje vadovų.
 - susijęs iš Mažesniųjų brolių laiškas dėl Teutonų ordino garbės (1323 m.): 1323 m. Mažesniųjų brolių laiške popiežiui Teutonų ordino brolių garbė ginta nuo kaltinimų trukdžius Gediminui priimti krikštą.
-- susijęs iš Olivos ir Pelplino abatų laiškas dėl Teutonų ordino garbės (1324 m.): Olivos abatas Paulius ir Pelplino abatas Jordanas laiškais popiežiui gynė Teutonų ordino brolių garbę.
-- susijęs iš Olivos ir Pelplino abatų laiškas dėl Teutonų ordino garbės (1324 m.): Olivos ir Pelplino abatų laiškas buvo datuotas 1324 m. sausio 17 d. Gmevo pilyje.
-- susijęs iš Olivos kronika: Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Wonsdorff ir Wansdorf.
-- susijęs iš Olivos kronika: Olivos kronikoje Cristburgo pavadinimas pateikiamas formomis Kirsburg ir Kirsberg.
-- susijęs iš Olivos kronika: Olivos kronikoje atitinkama vieta perteikta žodžiais „tradidit illis“, reiškiančiais „jiems perdavė“.
-- susijęs iš Olivos kronika: Senesnėje Olivos kronikoje: generatio [...] Bogatini (SRP, 1, p. 680).
-- susijęs iš Olivos kronika: Senojoje Olivos kronikoje nurodyta, kad per 1243 (1242?) m. birželio 15 d. kautynes Sventopelkas buvo sudaręs paliaubas su Ordinu.
-- susijęs iš Olivos kronika: Olivos kronikoje vietovardis pateikiamas formomis Kirske ir Kirsko.
-- susijęs iš Olivos kronika: Senojoje Olivos kronikoje aiškiau aprašytas Dusburgiečio minimas Pamedės niokojimas.
-- susijęs iš Olivos kronika: J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.
-- susijęs iš Olivos kronika: Olivos kronikoje Renseno ežeras minimas lotyniška forma „ad lacum qui dicitur Rensin“.
 - susijęs iš Prūsijos trumpoji eiliuotoji kronika: Prūsijos trumpojoje eiliuotojoje kronikoje Kristburgo vardas pateiktas forma „Kirsburg“.
 - susijęs iš Prūsijos vyskupų laiškas dėl 1323 m. sutarties: Prūsijos vyskupų laiškas ragino atmesti 1323 m. sutartį ir nenutraukti kovos su priešu.
 - susijęs iš Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė): Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.
@@ -144,4 +164,24 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 178501-179518; hash=c7727a9936e60cd4db58aecbc83230029c830c8b308d55f8a267c197d2b108c9; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jordanas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Oliva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jordanas: mention_match, author, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Oliva" parinktas kaip owner_note_path. Targetas "Jordanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=504643295c87b66b63406b2545b6c425966d54d8a1ef40d16e1375bd1affff9b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gediminas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Oliva: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Oliva" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

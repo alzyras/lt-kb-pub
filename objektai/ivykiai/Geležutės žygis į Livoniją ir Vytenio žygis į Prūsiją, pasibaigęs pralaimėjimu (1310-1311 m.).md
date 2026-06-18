@@ -41,9 +41,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas šaltinio priskyrimas ir OCR triukšmas, sakinys sukonkretintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 325047-325608; hash=e61432bdc6d03498b4f76850238dc35484426a5fbc189d4c1419332ca4f932ea; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vytenis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Vytenis: mention_match, person, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.)" parinktas kaip owner_note_path. Targetas "Vytenis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -67,3 +77,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 325047-325608; hash=e61432bdc6d03498b4f76850238dc35484426a5fbc189d4c1419332ca4f932ea; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vytenis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Vytenis: mention_match, person, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Geležutės žygis į Livoniją ir Vytenio žygis į Prūsiją, pasibaigęs pralaimėjimu (1310-1311 m.)" parinktas kaip owner_note_path. Targetas "Vytenis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

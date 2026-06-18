@@ -34,6 +34,16 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, bet citata pagrindžia pilną sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 194599-194949; hash=652b6aaeb957e6a7fb8ef638bd2f0699d7ccd455915ec35536bf8477f588d5a1; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Mickevičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Adomo Mickevičiaus pirmasis poezijos tomelis (1822 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: A. Mickevičius: mention_match, author, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adomo Mickevičiaus pirmasis poezijos tomelis (1822 m.)" parinktas kaip owner_note_path. Targetas "A. Mickevičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183352"></a>
 - t-002
@@ -49,6 +59,16 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie šaltinio objektą ir atitinka citatą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 194599-194949; hash=652b6aaeb957e6a7fb8ef638bd2f0699d7ccd455915ec35536bf8477f588d5a1; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Mickevičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Adomo Mickevičiaus pirmasis poezijos tomelis (1822 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: A. Mickevičius: mention_match, author, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adomo Mickevičiaus pirmasis poezijos tomelis (1822 m.)" parinktas kaip owner_note_path. Targetas "A. Mickevičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -70,4 +90,24 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 194599-194949; hash=652b6aaeb957e6a7fb8ef638bd2f0699d7ccd455915ec35536bf8477f588d5a1; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Mickevičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Adomo Mickevičiaus pirmasis poezijos tomelis (1822 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: A. Mickevičius: mention_match, author, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adomo Mickevičiaus pirmasis poezijos tomelis (1822 m.)" parinktas kaip owner_note_path. Targetas "A. Mickevičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 194599-194949; hash=652b6aaeb957e6a7fb8ef638bd2f0699d7ccd455915ec35536bf8477f588d5a1; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Mickevičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Adomo Mickevičiaus pirmasis poezijos tomelis (1822 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: A. Mickevičius: mention_match, author, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adomo Mickevičiaus pirmasis poezijos tomelis (1822 m.)" parinktas kaip owner_note_path. Targetas "A. Mickevičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

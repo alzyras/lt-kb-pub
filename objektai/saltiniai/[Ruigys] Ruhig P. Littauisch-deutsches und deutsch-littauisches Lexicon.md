@@ -32,6 +32,9 @@ Dusburgietis teigia, kad [Ruigys] Ruhig P.
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia autoriaus, pavadinimo, vietos ir metų duomenis.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 795768-795859; hash=f5ea495b911d5c280b1600095ccef67ff1f21661a11cb8bd27ebae50bdb29ded; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +49,6 @@ Dusburgietis teigia, kad [Ruigys] Ruhig P.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 795768-795859; hash=f5ea495b911d5c280b1600095ccef67ff1f21661a11cb8bd27ebae50bdb29ded; match=exact
+  sprendimo_priezastis: auto

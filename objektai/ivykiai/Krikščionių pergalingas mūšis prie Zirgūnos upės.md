@@ -40,9 +40,19 @@ Nenurodyta
   global_id: t-91906
   teiginys: 'Prie Zirgūnos upės Hermano vadovaujami krikščionys sumušė prūsų kariuomenę, o mūšyje krito daugiau nei penki tūkstančiai prūsų.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata palaiko aiškų mūšio rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Išganytojo (Spaso) bažnyčia Vilniuje; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Zirgūna'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Prūsai; mentioned_place: Zirgūna; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Išganytojo (Spaso) bažnyčia Vilniuje; mentioned_place: Pomeranija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 246523-247687; hash=c7d9bbf051bd8dc48edaa279aebef5e63ee208f7a275f020bc0f314d4208225a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hermanas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krikščionių pergalingas mūšis prie Zirgūnos upės: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Hermanas: mention_match, person, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krikščionių pergalingas mūšis prie Zirgūnos upės" parinktas kaip owner_note_path. Targetas "Hermanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -70,3 +80,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 246523-247687; hash=c7d9bbf051bd8dc48edaa279aebef5e63ee208f7a275f020bc0f314d4208225a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Hermanas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krikščionių pergalingas mūšis prie Zirgūnos upės: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Hermanas: mention_match, person, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krikščionių pergalingas mūšis prie Zirgūnos upės" parinktas kaip owner_note_path. Targetas "Hermanas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

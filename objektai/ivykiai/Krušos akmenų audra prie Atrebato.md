@@ -40,6 +40,9 @@ Nenurodyta
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir konkretus faktinis sakinys, tiksliai remiamas citatos apie audrą prie Atrebato.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 693796-694016; hash=5a30467c1ea227901d88cd0ea6dbf90df77019baa7236c43cd09906f77cf8f02; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -57,3 +60,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 693796-694016; hash=5a30467c1ea227901d88cd0ea6dbf90df77019baa7236c43cd09906f77cf8f02; match=exact
+  sprendimo_priezastis: auto

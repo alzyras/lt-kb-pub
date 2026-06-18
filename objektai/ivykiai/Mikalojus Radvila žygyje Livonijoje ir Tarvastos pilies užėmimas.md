@@ -36,6 +36,9 @@ Nenurodyta
   sudarymo_pagrindimas: 'Citata palaiko konkretų veiksmą per Tarvastos pilies užėmimą; pašalintas OCR triukšmas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1270357-1270809; hash=96a97bc139436ed1cf81d2ec221a636e2a21273764b2bb3cb01b16e1a39c1535; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -56,3 +59,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1270357-1270809; hash=96a97bc139436ed1cf81d2ec221a636e2a21273764b2bb3cb01b16e1a39c1535; match=exact
+  sprendimo_priezastis: auto

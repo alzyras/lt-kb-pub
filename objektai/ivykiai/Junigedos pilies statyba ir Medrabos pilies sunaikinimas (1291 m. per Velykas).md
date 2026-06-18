@@ -44,21 +44,41 @@ Nenurodyta
   global_id: t-66575
   teiginys: 'Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį.'
   sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi; citata leidžia įvardyti veikėją, veiksmą ir rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Junigeda; mentioned_place: Medraba; mentioned_place: Semba'
+  susije_objektai: 'mentioned_place: Junigeda; mentioned_place: Medraba; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Semba'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 566566-567383; hash=f9892132a4a1bb352b23d856a5653034c074e19d88a7bcbe44447591780f6356; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Junigeda: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Junigeda: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)" parinktas kaip owner_note_path. Targetas "Junigeda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-66576"></a>
 - t-002
   global_id: t-66576
   teiginys: '1291 m. per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją tuo pačiu vardu.'
   sudarymo_pagrindimas: 'Teiginys pašalina citatos intarpų triukšmą ir yra pagrįstas šaltiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Junigeda; mentioned_place: Medraba; mentioned_place: Nemunas; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_place: Junigeda; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Medraba; mentioned_place: Nemunas; mentioned_place: Veliuona'
   temporaliniai_duomenys: 'pastatymo data: 1291 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pašalina citatos intarpų triukšmą ir yra pagrįstas šaltiniu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 567315-567799; hash=76e8bee7be7da94dae5261dd4e9eff86e40bcfeec260b2b55a50cff480081f7c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Junigeda: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Junigeda: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)" parinktas kaip owner_note_path. Targetas "Junigeda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -107,5 +127,35 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 567315-567799; hash=76e8bee7be7da94dae5261dd4e9eff86e40bcfeec260b2b55a50cff480081f7c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Junigeda: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Junigeda: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)" parinktas kaip owner_note_path. Targetas "Junigeda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 567315-567799; hash=76e8bee7be7da94dae5261dd4e9eff86e40bcfeec260b2b55a50cff480081f7c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Junigeda: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Junigeda: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)" parinktas kaip owner_note_path. Targetas "Junigeda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 566566-567383; hash=f9892132a4a1bb352b23d856a5653034c074e19d88a7bcbe44447591780f6356; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Junigeda: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Junigeda: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)" parinktas kaip owner_note_path. Targetas "Junigeda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -55,9 +55,9 @@ atnaujinta: ''
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/A. Šulskis-Šulas.md#claim-t-39987|A. Šulskis-Šulas]]: A. Šulskis-Šulas vadovavo Žaliosios girios Panevėžio rinktinės grupei pietrytinėje girios dalyje Subačiaus valsčiuje.
-- susijęs iš [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.).md#claim-t-78607|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]: 1945 m. kovo pradžioje NKVD divizijos persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus.
 - susijęs iš [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.).md#claim-t-78609|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]: 1945 m. kovo pradžioje NKVD divizija pradėjo puolimą prieš Pušaloto, Pasvalio ir Žaliosios girios partizanus.
 - susijęs iš [[objektai/paprociai/Karinės gynybos tvarka deginant namus ir slepiant šeimą giriose.md#claim-t-07776|Karinės gynybos tvarka deginant namus ir slepiant šeimą giriose]]: Sudeginus namus, priešams po degėsius ieškant lietuvių, Kęstutis puolė iš Palangos girių, o Algirdas užėjo iš Žaliosios girios.
+- susijęs iš [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.).md#claim-t-78607|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]: 1945 m. kovo pradžioje NKVD divizijos persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus.
 - susijęs iš Isteris: Isteris, arba Dunojus, yra viena iš didžiųjų pietinės įšleities upių.
 ## Reikšmingi paminėjimai
 

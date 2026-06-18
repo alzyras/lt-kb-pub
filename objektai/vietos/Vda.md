@@ -26,6 +26,16 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Jeronimas|Jeronimas]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 307241-307329; hash=84c534c5edc2f4c256f33b91f411a063858059e3b86ac4dae78c13ccbc1e7a3a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Svečė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vda: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Svečė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vda" parinktas kaip owner_note_path. Targetas "Svečė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58653"></a>
 - t-002
@@ -35,6 +45,16 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
   susije_objektai: 'mentioned_place: Svečė; mentioned_place: Vysla'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 307332-307721; hash=404119eaf28e97c9d62292f6e9b89a0599777ca5ca8991dc47db505bfa19dcda; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jeronimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vda: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jeronimas: mention_match, person, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vda" parinktas kaip owner_note_path. Targetas "Jeronimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -64,6 +84,16 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 307332-307721; hash=404119eaf28e97c9d62292f6e9b89a0599777ca5ca8991dc47db505bfa19dcda; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jeronimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vda: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jeronimas: mention_match, person, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vda" parinktas kaip owner_note_path. Targetas "Jeronimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -77,4 +107,24 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 307241-307329; hash=84c534c5edc2f4c256f33b91f411a063858059e3b86ac4dae78c13ccbc1e7a3a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Svečė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vda: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Svečė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vda" parinktas kaip owner_note_path. Targetas "Svečė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 307279-307361; hash=567b95b4e5ae6b9b88445d0c4dbade2f5b4622ef58e29bcf4d51529ddb9a83a5; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vysla: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vda: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vysla: mention_match, place, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vda" parinktas kaip owner_note_path. Targetas "Vysla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

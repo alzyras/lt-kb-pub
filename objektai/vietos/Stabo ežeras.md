@@ -25,6 +25,16 @@ Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinbe
   susije_objektai: 'mentioned_place: Spitenbergas; mentioned_place: Stalupėnai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 862804-862937; hash=ece1a1bd1f8b82d6132131f403d300d0003e27792c8d50f03b3df0311fbc0066; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Spitenbergas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Stabo ežeras: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Spitenbergas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stabo ežeras" parinktas kaip owner_note_path. Targetas "Spitenbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Nalepa J., Stabo: J. Nalepos tyrime Stabo ežeras tapatinamas su dabartiniu Kamienne ežeru Suvalkų krašte.
 ## Reikšmingi paminėjimai
 
@@ -60,4 +70,24 @@ Dusburgietis teigia, kad spąsčių kalnas Spitenbergas (Spittenbergk, Spittinbe
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 862804-862937; hash=ece1a1bd1f8b82d6132131f403d300d0003e27792c8d50f03b3df0311fbc0066; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Spitenbergas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Stabo ežeras: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Spitenbergas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stabo ežeras" parinktas kaip owner_note_path. Targetas "Spitenbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 862789-862920; hash=3623de86c3a00d2d5e8799f49c54f63907b44e1ca0cc586de9200a3278ad7f48; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Spitenbergas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Stabo ežeras: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Spitenbergas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Stabo ežeras" parinktas kaip owner_note_path. Targetas "Spitenbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

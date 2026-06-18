@@ -45,18 +45,31 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   sudarymo_pagrindimas: 'Bibliografinė nuoroda leidžia pagrįsti trumpą faktą apie autoriaus darbą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 57110-57577; hash=4636d5d1029e394f33a02093d1134254e4a00c7d23a1a4ebd490b35c968320a2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pamaris: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Poverskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Pamaris: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Poverskis" parinktas kaip owner_note_path. Targetas "Pamaris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-64633"></a>
 - t-002
   global_id: t-64633
   teiginys: 'J. Poverskis manė, kad prūsų sukilimas galėjo prasidėti 1243 m. paskutiniame ketvirtyje.'
   sudarymo_pagrindimas: 'Citata aiškiai priskiria šią datavimo nuomonę J. Poverskiui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1242 m.; įvykio data: 1243 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai priskiria šią datavimo nuomonę J. Poverskiui.'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 59390-59429; hash=2a9aa6a63cbac185e8cdfaeeeeb3d729ed563d800b57ee70f5d6b3ecb4894926; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-64634"></a>
 - t-003
@@ -72,7 +85,7 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   global_id: t-64635
   teiginys: 'J. Poverskis manė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.'
   sudarymo_pagrindimas: 'Citata tiesiogiai sieja šią nuomonę su J. Poverskio darbu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Galinda'
+  susije_objektai: 'mentioned_place: Galinda; mentioned_object: [[objektai/zodynas/dykra|dykra]]'
   pagrindžia:
     - c-004
 
@@ -128,6 +141,16 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 57110-57577; hash=4636d5d1029e394f33a02093d1134254e4a00c7d23a1a4ebd490b35c968320a2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pamaris: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Poverskis: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Pamaris: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Poverskis" parinktas kaip owner_note_path. Targetas "Pamaris" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
 
 - c-004
@@ -157,3 +180,6 @@ J. Poverskis šiame šaltinyje minimas kaip tyrinėtojas, rašęs apie Dusburgie
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 59390-59429; hash=2a9aa6a63cbac185e8cdfaeeeeb3d729ed563d800b57ee70f5d6b3ecb4894926; match=exact
+  sprendimo_priezastis: auto

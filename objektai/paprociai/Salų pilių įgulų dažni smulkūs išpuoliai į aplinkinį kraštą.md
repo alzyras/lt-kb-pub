@@ -37,9 +37,19 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuotas aiškus sakinys apie salų pilių įgulas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Marienburgas; mentioned_place: Nemunas; mentioned_place: Ritersverderis; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Marienburgas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Nemunas; mentioned_place: Ritersverderis; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 562696-563247; hash=6b67576225022ad65b4083424dcf2669232ccaebb722cf774437fd8861af89c6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marienburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą (kraštas): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Marienburgas: mention_match, place, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą (kraštas)" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -66,3 +76,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 562696-563247; hash=6b67576225022ad65b4083424dcf2669232ccaebb722cf774437fd8861af89c6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marienburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą (kraštas): owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Marienburgas: mention_match, place, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą (kraštas)" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

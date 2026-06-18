@@ -23,7 +23,7 @@ Vokiečiai Lietuvą laikė Rusijos okupuota teritorija, tad, 1915 m. frontui sta
   global_id: t-68832
   teiginys: 'Oberosto karinis kolonijinis režimas nusavindavo valstiečių maistą, apkrovė juos mokesčiais bei prievolėmis ir išvežė pramonės įmones į Vokietiją.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet pataisyta sakinio sandara ir aiškumas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Liuteronai|Liuteronai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Vokietija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Liuteronai|Liuteronai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

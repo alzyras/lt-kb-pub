@@ -38,6 +38,16 @@ balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartb
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kalavijuočių ordinas dalyvavo mūšyje Saulės mūšis (1236 m. rugsėjo 22 d.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kryžiuočių ordinas dalyvavo mūšyje Saulės mūšis (1236 m. rugsėjo 22 d.)“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dc688984220a8cae4843f17c35df83cf8e7f594b8d44dd1ff268537782821add; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: dalyvavo_musyje -> Saulės mūšis (1236 m. rugsėjo 22 d.): 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_event_participation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: participant_match, group, gap=21
+  ryšio_targeto_parinkimas: Saulės mūšis (1236 m. rugsėjo 22 d.): event_owner_or_first_target, event, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_event_participation". Subjektas "Kalavijuočių ordinas" parinktas kaip participant_match. Targetas "Saulės mūšis (1236 m. rugsėjo 22 d.)" parinktas kaip event_owner_or_first_target aplink predikatą "dalyvavo_musyje". Patikimumą lėmė: single_candidate_target, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -68,3 +78,13 @@ balnakilpės = L se KRISTAUS KARIŲ BROLIJOS LIKIMAS Ištrauka iš Hermano Vartb
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=dc688984220a8cae4843f17c35df83cf8e7f594b8d44dd1ff268537782821add; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: dalyvavo_musyje -> Saulės mūšis (1236 m. rugsėjo 22 d.): 0.95
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_event_participation
+  ryšio_subjekto_parinkimas: Kalavijuočių ordinas: participant_match, group, gap=21
+  ryšio_targeto_parinkimas: Saulės mūšis (1236 m. rugsėjo 22 d.): event_owner_or_first_target, event, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_event_participation". Subjektas "Kalavijuočių ordinas" parinktas kaip participant_match. Targetas "Saulės mūšis (1236 m. rugsėjo 22 d.)" parinktas kaip event_owner_or_first_target aplink predikatą "dalyvavo_musyje". Patikimumą lėmė: single_candidate_target, same_sentence_locality.

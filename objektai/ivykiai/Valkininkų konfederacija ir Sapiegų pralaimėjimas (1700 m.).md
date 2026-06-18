@@ -57,12 +57,12 @@ Nenurodyta
   global_id: t-78642
   teiginys: 'Karolio Zikaro sudarytame leidinyje Valkininkų mūšis siejamas su suirutės Lietuvoje pradžia ir kaimynų įtakos stiprėjimu.'
   sudarymo_pagrindimas: 'Tai interpretacinis teiginys, todėl pridėta šaltinio atribucija.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_place: Lietuva; mentioned_place: Valkininkai'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Valkininkai; mentioned_author: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]'
   pagrindžia:
     - c-001
+- susijęs iš [[objektai/grupes/Valkininkų konfederacija.md#claim-t-78533|Valkininkų konfederacija]]: Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 - susijęs iš [[objektai/grupes/Respublikonai.md#claim-t-41123|Respublikonai]]: Po Valkininkų nutarimo respublikonų kariuomenė Vilniaus Šnipiškių stovykloje iš esmės suformavo naują 7500 etatinių vienetų LDK kariuomenę.
-- susijęs iš [[objektai/grupes/Valkininkų konfederacija.md#claim-t-78533|Valkininkų konfederacija]]: Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.
 ## Reikšmingi paminėjimai
 
 - c-001

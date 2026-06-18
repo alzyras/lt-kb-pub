@@ -35,6 +35,16 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškesnį sakinį apie Rotundui perduotą kroniką.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 51031-51279; hash=f61603120516bafebe8be0d2b458a080d9d9a22f4af0814eedd22bcc3bac65b2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Augustinas Rotundas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Augustinas Rotundas" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-60087"></a>
 - t-002
@@ -43,11 +53,14 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikta citatos tiesiogiai paremta faktinė informacija.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 51426-51580; hash=0a8ea4ba49c6b1b4e9b094405f64265db336a53c3e2373aed3d973c2642e96b6; match=exact
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Augustinas Rotundas Milesijus.md#claim-t-87906|Augustinas Rotundas Milesijus]]: Augustinas Rotundas Milesijus buvo bajoras ir abiejų teisių daktaras, 1542 m. išrinktas iš magistrato narių.
+- susijęs iš [[objektai/autoriai/Augustinas Mieleckis Rotundas.md#claim-t-88000|Augustinas Mieleckis Rotundas]]: Augustinas Rotundas Mieleckis dokumente įvardytas abiejų teisių daktaru, karaliaus sekretoriumi, Stakliškių seniūnu ir Vilniaus vaitu.
 - susijęs iš [[objektai/asmenys/Rotundas (Augustinas Milesijus Mieleskis).md#claim-t-87455|Rotundas (Augustinas Milesijus Mieleskis)]]: Augustinas Rotundas Mieleskis 1579 m. buvo paminėtas kaip liudininkas, abiejų teisių daktaras ir karališkasis sekretorius.
 - susijęs iš [[objektai/asmenys/Rotundas (Augustinas Milesijus Mieleskis).md#claim-t-87457|Rotundas (Augustinas Milesijus Mieleskis)]]: Augustinas Rotundas Mieleskis buvo kilęs iš bajorų, nes miesto aktuose prie jo pavardės rašyta „Nobilis“.
 - susijęs iš [[objektai/asmenys/Stanislovas Sabina.md#claim-t-87458|Stanislovas Sabina]]: Stanislovas Sabina buvo medicinos daktaras ir 1584 m. ėjo Vilniaus vaito pareigas.
-- susijęs iš [[objektai/autoriai/Augustinas Mieleckis Rotundas.md#claim-t-88000|Augustinas Mieleckis Rotundas]]: Augustinas Rotundas Mieleckis dokumente įvardytas abiejų teisių daktaru, karaliaus sekretoriumi, Stakliškių seniūnu ir Vilniaus vaitu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,4 +88,17 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 51031-51279; hash=f61603120516bafebe8be0d2b458a080d9d9a22f4af0814eedd22bcc3bac65b2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Augustinas Rotundas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=82
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Augustinas Rotundas" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 51426-51580; hash=0a8ea4ba49c6b1b4e9b094405f64265db336a53c3e2373aed3d973c2642e96b6; match=exact
+  sprendimo_priezastis: auto

@@ -34,6 +34,9 @@ HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 1869, 211 p.
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra bibliografinis fragmentas; citata leidžia suformuluoti glaustą faktinį sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 993183-993268; hash=309d771ffb8571663ae49f839633c042472d6b566442064700f5fae7bae59647; match=ocr_normalized
+  sprendimo_priezastis: auto
 - susijęs iš J. Caro, Geschichte Polens: J. Caro veikalo „Geschichte Polens“ III tomas buvo išleistas 1869 m.
 - susijęs iš J. Caro, Geschichte Polens: J. Caro „Geschichte Polens“ 2-5 tomai, apimantys 1300-1506 m., buvo išleisti Gothoje 1863-1888 m.
 - susijęs iš J. Caro, Geschichte Polens: J. Caro „Geschichte Polens“ III tomas buvo išleistas 1869 m.
@@ -50,3 +53,6 @@ HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 1869, 211 p.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 993183-993268; hash=309d771ffb8571663ae49f839633c042472d6b566442064700f5fae7bae59647; match=ocr_normalized
+  sprendimo_priezastis: auto

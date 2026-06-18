@@ -21,9 +21,19 @@ Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.
   global_id: t-80733
   teiginys: 'Mengli-Girėjaus jaunesnieji sūnūs Fatihas ir Burnašas vadovavo žygiui į LDK gilumą.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Fatiho vaidmenį ir yra paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 305303-305501; hash=8c928bcb3a083c734996c6acb74fa99eba32e469896a2fa563a2a29704b52474; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> žygis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fatihas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: žygis: mention_match, thing, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fatihas" parinktas kaip owner_note_path. Targetas "žygis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Burnašas.md#claim-t-80731|Burnašas]]: Mengli-Girėjaus jaunesnieji sūnūs Fatihas ir Burnašas vadovavo žygiui į LDK gilumą.
 ## Reikšmingi paminėjimai
 
@@ -43,3 +53,13 @@ Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 305303-305501; hash=8c928bcb3a083c734996c6acb74fa99eba32e469896a2fa563a2a29704b52474; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> žygis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Fatihas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: žygis: mention_match, thing, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Fatihas" parinktas kaip owner_note_path. Targetas "žygis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -40,6 +40,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Langobardai|Langobardai]]; mentioned_place: Italija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 97074-97655; hash=097d3cd7f519536e9c30afe219e47c378def736c7616faeebdf08d8a92df38a3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gotai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Gotai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje" parinktas kaip owner_note_path. Targetas "Gotai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185890"></a>
 - t-002
@@ -52,6 +62,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva; mentioned_place: Romanova'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 97515-97990; hash=b2d8a38de9f818d038d4b8bcc60db0ee94d7a1db33c5a1522e1a5596d2d9804b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -94,4 +114,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 97074-97655; hash=097d3cd7f519536e9c30afe219e47c378def736c7616faeebdf08d8a92df38a3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gotai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Gotai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje" parinktas kaip owner_note_path. Targetas "Gotai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 97515-97990; hash=b2d8a38de9f818d038d4b8bcc60db0ee94d7a1db33c5a1522e1a5596d2d9804b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Senųjų apeigų tęsimas ir vyriausiojo žynio paskyrimas Romanovoje" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

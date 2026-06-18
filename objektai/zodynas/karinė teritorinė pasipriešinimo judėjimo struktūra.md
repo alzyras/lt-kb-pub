@@ -23,6 +23,9 @@ Taip pat buvo įtvirtinta karinė teritorinė pasipriešinimo judėjimo struktū
   sudarymo_pagrindimas: 'Pirminis teiginys per bendras, citata leidžia pateikti informatyvesnę struktūrą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 952613-952882; hash=ccccf1e0b4d2dbf7bbc7c8a2f0d5546194c19eef9ecc7bba47503d13c43ce52d; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -39,3 +42,6 @@ Taip pat buvo įtvirtinta karinė teritorinė pasipriešinimo judėjimo struktū
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 952613-952882; hash=ccccf1e0b4d2dbf7bbc7c8a2f0d5546194c19eef9ecc7bba47503d13c43ce52d; match=exact
+  sprendimo_priezastis: auto

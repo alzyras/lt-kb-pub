@@ -39,46 +39,96 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   susije_objektai: 'mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Palestina'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 154778-155191; hash=18da200fc0fae8abdb9a142ba1cc88313fbe6236a5872e6e7d47aa2d2ee09333; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žydai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Litvakai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Litvakai" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-45104"></a>
 - t-002
   global_id: t-45104
   teiginys: 'Vilniaus Gaono autoritetas galėjo lemti, kad litvakai imti laikyti iškiliais žydais, išsiskyrusiais religine tradicija, racionalumu ir pagarba išsimokslinimui.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1c18302ea61ff8852e20bae335f8ed1c4961fad4a9328999595693d2acc5546a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Litvakai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Litvakai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-45105"></a>
 - t-003
   global_id: t-45105
   teiginys: 'Christiaanas Barnardas knygoje minimas kaip litvakų palikuonis, 1967 m. Pietų Afrikos Respublikoje atlikęs pirmąją pasaulyje žmogaus širdies persodinimo operaciją.'
   sudarymo_pagrindimas: 'Citatoje yra abejonę rodantis intarpas, todėl faktą reikia pateikti kaip šaltinio minimą poziciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Christiaan Barnard|Christiaan Barnard]]; mentioned_person: [[objektai/asmenys/David Baltimore|David Baltimore]]; mentioned_person: [[objektai/asmenys/Gertrude Ellion|Gertrude Ellion]]; mentioned_person: [[objektai/asmenys/Louis Washkansky|Louis Washkansky]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_person: [[objektai/asmenys/Sydney Brenner|Sydney Brenner]]; mentioned_place: Afrika; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Afrika; mentioned_person: [[objektai/asmenys/Christiaan Barnard|Christiaan Barnard]]; mentioned_person: [[objektai/asmenys/David Baltimore|David Baltimore]]; mentioned_person: [[objektai/asmenys/Gertrude Ellion|Gertrude Ellion]]; mentioned_person: [[objektai/asmenys/Louis Washkansky|Louis Washkansky]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_person: [[objektai/asmenys/Sydney Brenner|Sydney Brenner]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1865 m.; įvykio data: 1910 m.; įvykio data: 1927 m.; įvykio data: 1967 m.; įvykio data: 1975 m.; įvykio data: 1988 m.; įvykio data: 2002 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citatoje yra abejonę rodantis intarpas, todėl faktą reikia pateikti kaip šaltinio minimą poziciją.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9e480c54e3dedcb88b7ac96bcdebd502d58a7b52eb56ca083344165ad402a7a3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Litvakai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Litvakai" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-45106"></a>
 - t-004
   global_id: t-45106
   teiginys: 'Litvakas reiškė žydą iš istorinės Lietuvos, tačiau šiuo vardu imta vadinti ir savita gyvensena pasižymėjusius žydus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_place: Lietuva; mentioned_place: Liublinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_place: Liublinas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2639b0fe639bb4129f9309d215be8b232749290cbf3185839606a0c805a49bf7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Litvakai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Litvakai" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-45107"></a>
 - t-005
   global_id: t-45107
   teiginys: 'Christiaanas Barnardas knygoje minimas kaip litvakų palikuonis, 1967 m. Pietų Afrikos Respublikoje atlikęs pirmąją žmogaus širdies persodinimo operaciją.'
   sudarymo_pagrindimas: 'Citatoje yra autoriaus atsarga dėl kilmės, todėl reikia formuluoti kaip knygos minimą teiginį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Christiaan Barnard|Christiaan Barnard]]; mentioned_person: [[objektai/asmenys/Frank Lubin|Frank Lubin]]; mentioned_person: [[objektai/asmenys/Jack Sharkey|Jack Sharkey]]; mentioned_person: [[objektai/asmenys/Johnny Unitas|Johnny Unitas]]; mentioned_person: [[objektai/asmenys/Louis Washkansky|Louis Washkansky]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_place: Afrika; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Afrika; mentioned_person: [[objektai/asmenys/Christiaan Barnard|Christiaan Barnard]]; mentioned_person: [[objektai/asmenys/Frank Lubin|Frank Lubin]]; mentioned_person: [[objektai/asmenys/Jack Sharkey|Jack Sharkey]]; mentioned_person: [[objektai/asmenys/Johnny Unitas|Johnny Unitas]]; mentioned_person: [[objektai/asmenys/Louis Washkansky|Louis Washkansky]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_place: Europa; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1967 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citatoje yra autoriaus atsarga dėl kilmės, todėl reikia formuluoti kaip knygos minimą teiginį.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c9063151c935af646b1af484225155f58c056b187749b3f93345fd00e1e6b24c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Litvakai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Litvakai" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183170"></a>
 - t-006
@@ -88,16 +138,27 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pateikia interpretacinį teiginį su „atrodo“, todėl reikia atsargesnės formuluotės.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 154778-155191; hash=18da200fc0fae8abdb9a142ba1cc88313fbe6236a5872e6e7d47aa2d2ee09333; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žydai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Litvakai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=86
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Litvakai" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Louis Washkansky.md#claim-t-19114|Louis Washkansky]]: Louis Washkansky buvo iš litvakų kilęs Christiaano Barnardo 1967 m. atliktos pirmosios žmogaus širdies persodinimo operacijos pacientas.
+- susijęs iš [[objektai/zodynas/Lite litvakai.md#claim-t-183445|Lite litvakai]]: Kai kurių vertinimu, kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK erdvės kilę žydai litvakai.
 - susijęs iš [[objektai/asmenys/Algimantas Marcinkevičius.md#claim-t-78042|Algimantas Marcinkevičius]]: Algimantas Marcinkevičius šaltinyje siejamas su Lietuvos kardiochirurgijos mokykla.
 - susijęs iš [[objektai/asmenys/Bernardas Berensonas.md#claim-t-101637|Bernardas Berensonas]]: Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių apylinkių.
 - susijęs iš [[objektai/asmenys/Bernardas Berensonas.md#claim-t-101638|Bernardas Berensonas]]: Bernardas Berensonas buvo žymus italų renesanso tapybos žinovas, kilęs iš Butrimonių.
 - susijęs iš [[objektai/asmenys/Christiaan Barnard.md#claim-t-18867|Christiaan Barnard]]: Christiaanas Barnardas 1967 m. Pietų Afrikos Respublikoje atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.
 - susijęs iš [[objektai/asmenys/David Baltimore.md#claim-t-78048|David Baltimore]]: David Baltimore'as buvo 1975 m. medicinos ir fiziologijos Nobelio premijos laureatas, siejamas su Lietuva.
 - susijęs iš [[objektai/asmenys/Gertrude Ellion.md#claim-t-18916|Gertrude Ellion]]: Gertrude Ellion 1988 m. gavo medicinos ir fiziologijos srities Nobelio premiją, o jos tėvas vaikystėje emigravo iš Lietuvos į JAV.
-- susijęs iš [[objektai/asmenys/Louis Washkansky.md#claim-t-19114|Louis Washkansky]]: Louis Washkansky buvo iš litvakų kilęs Christiaano Barnardo 1967 m. atliktos pirmosios žmogaus širdies persodinimo operacijos pacientas.
 - susijęs iš [[objektai/asmenys/Sydney Brenner.md#claim-t-19279|Sydney Brenner]]: Sydney Brenneris gimė 1927 m. batsiuvio, 1910 m. emigravusio iš Lietuvos į Pietų Afriką, šeimoje ir 2002 m. gavo Nobelio premiją.
 - susijęs iš [[objektai/asmenys/Vytautas Sirvydis.md#claim-t-78075|Vytautas Sirvydis]]: Vytautas Sirvydis kartu su Algimantu Marcinkevičiumi siejamas su Lietuvos kardiochirurgijos mokykla.
 - susijęs iš [[objektai/grupes/Gediminaičiai.md#claim-t-19691|Gediminaičiai]]: Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis.
@@ -108,7 +169,6 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
 - susijęs iš [[objektai/ivykiai/Pirmoji pasaulyje žmogaus širdies persodinimo operacija (1967 m.).md#claim-t-20453|Pirmoji pasaulyje žmogaus širdies persodinimo operacija (1967 m.)]]: 1967 m. litvakų palikuonis Christiaan Barnard Pietų Afrikos Respublikoje atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.
 - susijęs iš Butrimonys: Italų renesanso tapybos žinovas Bernardas Berensonas buvo kilęs iš Butrimonių.
 - susijęs iš Pietų Afrikos Respublika: 1967 m. Pietų Afrikos Respublikoje Christiaan Barnard atliko pirmąją pasaulyje žmogaus širdies persodinimo operaciją.
-- susijęs iš [[objektai/zodynas/Lite litvakai.md#claim-t-183445|Lite litvakai]]: Kai kurių vertinimu, kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK erdvės kilę žydai litvakai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -143,6 +203,16 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2639b0fe639bb4129f9309d215be8b232749290cbf3185839606a0c805a49bf7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Litvakai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Litvakai" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -163,6 +233,16 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 154778-155191; hash=18da200fc0fae8abdb9a142ba1cc88313fbe6236a5872e6e7d47aa2d2ee09333; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žydai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Litvakai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Litvakai" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-004
@@ -188,6 +268,16 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c9063151c935af646b1af484225155f58c056b187749b3f93345fd00e1e6b24c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Litvakai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Litvakai" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-005
@@ -205,5 +295,35 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9e480c54e3dedcb88b7ac96bcdebd502d58a7b52eb56ca083344165ad402a7a3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Litvakai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Litvakai" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 154778-155191; hash=18da200fc0fae8abdb9a142ba1cc88313fbe6236a5872e6e7d47aa2d2ee09333; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Žydai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Litvakai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Žydai: mention_match, group, gap=86
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Litvakai" parinktas kaip owner_note_path. Targetas "Žydai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1c18302ea61ff8852e20bae335f8ed1c4961fad4a9328999595693d2acc5546a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Litvakai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=34
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Litvakai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

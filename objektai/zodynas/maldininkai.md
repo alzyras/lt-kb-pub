@@ -41,25 +41,45 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   temporalinis_llm_pakomentavimas: 'Citata tiksliau skiria Petro žygį ir vėlesnius maldininkus.'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 655197-655783; hash=24c87d2b1064fc36de457712cfca9515e57a6f83e60deb5a19454ff76bc2a22d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58826"></a>
 - t-002
   global_id: t-58826
   teiginys: '1227 m. rugsėjo 11 d. Ortrante šventosios Elžbietos vyras landgrafas mirė maldininko kelionėje po kryžiaus žygio vėliava.'
   sudarymo_pagrindimas: 'Reikia aiškiai susieti teiginį su maldininko kelione.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Ortrantas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_place: Ortrantas'
   temporaliniai_duomenys: 'įvykio data: 1227 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiai susieti teiginį su maldininko kelione.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 666412-667355; hash=d8f1ca38cc1f193da71bd2a48789b868cf10b4cebf75efc82b865f83841fc8e7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pilėnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Pilėnai: mention_match, place, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai" parinktas kaip owner_note_path. Targetas "Pilėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58827"></a>
 - t-003
   global_id: t-58827
   teiginys: '1316 m. Henrikas Karaliaučiuje sutiko iš Reino krašto atvykusių maldininkų ir su jais nusiaubė Medininkų valsčių.'
   sudarymo_pagrindimas: 'Pašalinta antraštė, išplėstas kontekstas ir suformuluotas pilnas faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Medininkai; mentioned_place: Medvėgalis; mentioned_place: Reinas'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Medvėgalis; mentioned_place: Reinas'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta antraštė, išplėstas kontekstas ir suformuluotas pilnas faktas.'
@@ -71,9 +91,19 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   global_id: t-58828
   teiginys: 'Puolant Pieštvės pilį maldininkai buvo taip gerai apsišarvavę, kad pilėnai nepajėgė jų sulaikyti kopiant į sienas.'
   sudarymo_pagrindimas: 'Perrašyta be atribucijos ir su aiškiu veiksmu bei rezultatu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Ariogala; mentioned_place: Kulmas; mentioned_place: Pieštvė; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Raseiniai; mentioned_place: Reinas; mentioned_place: Vaikiai; mentioned_place: Vildenbergas; mentioned_place: Vroclavas; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_place: Pilėnai; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Ariogala; mentioned_place: Kulmas; mentioned_place: Pieštvė; mentioned_place: Prūsija; mentioned_place: Raseiniai; mentioned_place: Reinas; mentioned_place: Vaikiai; mentioned_place: Vildenbergas; mentioned_place: Vroclavas; mentioned_place: Čekija'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fc18dadf920040fc1b40f6369953d94c221f80a0bb199548b1a931521fa019fe; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58830"></a>
 - t-005
@@ -83,12 +113,19 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_place: Anglija'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Engelbertas I.md#claim-t-60110|Engelbertas I]]: Markos grafas Engelbertas su Julicho grafu ir didele kariuomene 1262 m. sausio 21 d. atvyko į Karaliaučiaus pilį.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=386aba604668e3258587878867b8af52c60afb943c0f9e0453f155df7a9635eb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Stantekas.md#claim-t-60438|Stantekas]]: Stantekas, sunkiai sužeistas susidūręs su sembų sargyba, pranešė maldininkams apie pasalą.
-- susijęs iš [[objektai/asmenys/Štenkelis iš Bentheimo.md#claim-t-60476|Štenkelis iš Bentheimo]]: Štenkelis iš Bentheimo Pokarviuose įsiveržė į notangų rikiuotę ir grįždamas buvo nukautas.
 - susijęs iš [[objektai/daiktai/Nelegaliai išspausdinta religinė literatūra.md#claim-t-23463|Nelegaliai išspausdinta religinė literatūra]]: Religinėse manifestacijose maldininkai įsigydavo nelegaliai išspausdintų maldaknygių, katekizmų ir Šventojo Rašto leidinių.
 - susijęs iš [[objektai/daiktai/Religinės relikvijos.md#claim-t-23464|Religinės relikvijos]]: Religinėse manifestacijose maldininkai įsigydavo draustų religinių relikvijų ir nelegaliai išspausdintos religinės literatūros.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78397|Notangai]]: Notangai sausio 22 dieną Pokarviuose užpuolė likusią brolių ir maldininkų kariuomenės dalį.
 - susijęs iš [[objektai/grupes/Vokietijos maldininkai.md#claim-t-183906|Vokietijos maldininkai]]: 1304 m. Vokietijos maldininkai vėl išvyko į Prūsijos žemę.
 - susijęs iš [[objektai/grupes/Vokietijos maldininkai.md#claim-t-59008|Vokietijos maldininkai]]: 1307 m. į Prūsijos žemę atvykę Vokietijos maldininkai žiemą telkė kariuomenę žygiui prieš lietuvius, bet žygio nepradėjo dėl plono ledo.
@@ -96,19 +133,22 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 - susijęs iš [[objektai/grupes/Vokietijos maldininkai.md#claim-t-59010|Vokietijos maldininkai]]: 1316 m. Reino krašto maldininkai su broliu Henriku žygiavo į Medininkų valsčių ir jį nusiaubė.
 - susijęs iš [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.).md#claim-t-66509|Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]: Po pergalės broliai ir maldininkai grįžo namo su 1600 priešo žirgų ir kitu grobiu.
 - susijęs iš [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.).md#claim-t-66573|Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]: Prieš kautynes žvalgas Stantekas, sunkiai sužeistas sembų sargybos, pranešė maldininkams apie pasalą.
-- susijęs iš [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės.md#claim-t-91906|Krikščionių pergalingas mūšis prie Zirgūnos upės]]: Prie Zirgūnos upės Hermano vadovaujami krikščionys sumušė prūsų kariuomenę, o mūšyje krito daugiau nei penki tūkstančiai prūsų.
 - susijęs iš [[objektai/ivykiai/Susirėmimas Pokarviuose (1261 m.).md#claim-t-183964|Susirėmimas Pokarviuose (1261 m.)]]: Sausio 22 d. notangai sutelkė jėgas ir Pokarviuose užpuolė ten likusią brolių bei maldininkų kariuomenės dalį.
 - susijęs iš [[objektai/ivykiai/Susirėmimas Pokarviuose (1261 m.).md#claim-t-59249|Susirėmimas Pokarviuose (1261 m.)]]: Sausio 22 d. notangai sutelkė jėgas ir Pokarviuose užpuolė ten likusią brolių bei maldininkų kariuomenės dalį.
-- susijęs iš [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę.md#claim-t-89410|Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]: 1096 m. Petras su kryžininkais ir daugybe vokiečių persikėlė per Helespontą ir užėmė Švento Jurgio ranką, Antiochiją ir Jeruzalę.
 - susijęs iš [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę.md#claim-t-89411|Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]: Po Urbono II susirinkimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį.
-- susijęs iš Jeruzalė: 1096 m. Petras su kryžininkais ir daugybe vokiečių užėmė Antiochiją ir šventąjį Jeruzalės miestą.
-- susijęs iš Prūsija: 1304 m. Vokietijos maldininkai vėl išsirengė keliauti į Prūsijos žemę.
 - susijęs iš Sklunija: Sklunija buvo kaimas, anksčiau vadintas Kalija, į kurį subėgusius priešus maldininkai įveikė.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70220|maldininkai / maldininko įžadai]]: Po Urbono II raginimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70227|maldininkai / maldininko įžadai]]: Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70228|maldininkai / maldininko įžadai]]: Šio šaltinio pasakojime maldininkai veikia kaip atskira nuo Ordino brolių karinė jėga.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70231|maldininkai / maldininko įžadai]]: Vokietijos maldininkai atvyko į pagalbą prūsų apsiaustai Baigos piliai.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58803|pilėnas pilėnai]]: 1322 m. Pieštvės pilėnai gynė pilies sienas nuo gerai apsišarvavusių maldininkų puolimo.
+- susijęs iš [[objektai/asmenys/Engelbertas I.md#claim-t-60110|Engelbertas I]]: Markos grafas Engelbertas su Julicho grafu ir didele kariuomene 1262 m. sausio 21 d. atvyko į Karaliaučiaus pilį.
+- susijęs iš [[objektai/asmenys/Štenkelis iš Bentheimo.md#claim-t-60476|Štenkelis iš Bentheimo]]: Štenkelis iš Bentheimo Pokarviuose įsiveržė į notangų rikiuotę ir grįždamas buvo nukautas.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
+- susijęs iš [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės.md#claim-t-91906|Krikščionių pergalingas mūšis prie Zirgūnos upės]]: Prie Zirgūnos upės Hermano vadovaujami krikščionys sumušė prūsų kariuomenę, o mūšyje krito daugiau nei penki tūkstančiai prūsų.
+- susijęs iš [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę.md#claim-t-89410|Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]: 1096 m. Petras su kryžininkais ir daugybe vokiečių persikėlė per Helespontą ir užėmė Švento Jurgio ranką, Antiochiją ir Jeruzalę.
+- susijęs iš Jeruzalė: 1096 m. Petras su kryžininkais ir daugybe vokiečių užėmė Antiochiją ir šventąjį Jeruzalės miestą.
+- susijęs iš Prūsija: 1304 m. Vokietijos maldininkai vėl išsirengė keliauti į Prūsijos žemę.
 - susijęs iš [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda.md#claim-t-23535|pogrindis pogrindiniai leidiniai nelegali spauda]]: Maldininkai religinėse manifestacijose įsigydavo draustų relikvijų ir nelegaliai išspausdintos religinės literatūros.
 ## Reikšmingi paminėjimai
 
@@ -150,6 +190,16 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=386aba604668e3258587878867b8af52c60afb943c0f9e0453f155df7a9635eb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-003
@@ -189,6 +239,16 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 666412-667355; hash=d8f1ca38cc1f193da71bd2a48789b868cf10b4cebf75efc82b865f83841fc8e7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pilėnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Pilėnai: mention_match, place, gap=45
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai" parinktas kaip owner_note_path. Targetas "Pilėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-005
@@ -224,4 +284,24 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fc18dadf920040fc1b40f6369953d94c221f80a0bb199548b1a931521fa019fe; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 655197-655783; hash=24c87d2b1064fc36de457712cfca9515e57a6f83e60deb5a19454ff76bc2a22d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: maldininkai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=31
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "maldininkai" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

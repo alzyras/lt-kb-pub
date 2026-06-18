@@ -24,6 +24,9 @@ tags:
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuotas pilnas sakinys apie posakio vartojimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c8cc922310db45b62537b65593970a9e94471fc4452a31729c1bd3694e57f2c4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -42,3 +45,6 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c8cc922310db45b62537b65593970a9e94471fc4452a31729c1bd3694e57f2c4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

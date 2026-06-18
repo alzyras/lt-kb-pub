@@ -69,7 +69,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   global_id: t-74882
   teiginys: 'Oberostui formaliai vadovavo Paulius fon Hindenburgas ir Ėrichas Liudendorfas.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Paulius fon Hindenburgas|Paulius fon Hindenburgas]]; mentioned_person: [[objektai/asmenys/Ėrichas Liudendorfas|Ėrichas Liudendorfas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Paulius fon Hindenburgas|Paulius fon Hindenburgas]]; mentioned_person: [[objektai/asmenys/Ėrichas Liudendorfas|Ėrichas Liudendorfas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1915 m.; įvykio data: 1916 m.; įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
@@ -89,7 +89,7 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   global_id: t-74884
   teiginys: '1917 m. pabaigoje Kaune rezidavęs Oberostas įteikė Lietuvos Tarybos prezidiumui norimos rezoliucijos projektą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Oberosto veiksmą 1917 m. pabaigoje ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Oberosto veiksmą 1917 m. pabaigoje ir atitinka citatą.'
@@ -116,8 +116,8 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Liuteronai|Liuteronai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
-- susijęs iš [[objektai/asmenys/Paulius fon Hindenburgas.md#claim-t-78068|Paulius fon Hindenburgas]]: Oberostui formaliai vadovavo generolai Paulius fon Hindenburgas ir Ėrichas Liudendorfas.
 - susijęs iš [[objektai/asmenys/Ėrichas Liudendorfas.md#claim-t-78076|Ėrichas Liudendorfas]]: Ėrichas Liudendorfas formaliai vadovavo Oberostui kartu su Pauliumi fon Hindenburgu.
+- susijęs iš [[objektai/asmenys/Paulius fon Hindenburgas.md#claim-t-78068|Paulius fon Hindenburgas]]: Oberostui formaliai vadovavo generolai Paulius fon Hindenburgas ir Ėrichas Liudendorfas.
 - susijęs iš Kaunas: 1916 m. birželį Lietuvos apskritis su centru Kaune buvo suvienyta su Vilniaus apskritimi.
 ## Reikšmingi paminėjimai
 

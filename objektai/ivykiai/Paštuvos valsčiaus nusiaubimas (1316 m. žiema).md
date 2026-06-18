@@ -50,6 +50,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai remia faktą, bet pradinė formuluotė prasideda nereikalinga atribucija.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c6c59345f1c4140f3ef7a04c0fe79df58d3abfe7a9d1ae6649f68c48470ec3b1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Henrikas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paštuvos valsčiaus nusiaubimas (1316 m. žiema): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paštuvos valsčiaus nusiaubimas (1316 m. žiema)" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -72,3 +82,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c6c59345f1c4140f3ef7a04c0fe79df58d3abfe7a9d1ae6649f68c48470ec3b1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Henrikas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Paštuvos valsčiaus nusiaubimas (1316 m. žiema): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Henrikas: mention_match, author, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Paštuvos valsčiaus nusiaubimas (1316 m. žiema)" parinktas kaip owner_note_path. Targetas "Henrikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

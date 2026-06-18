@@ -32,6 +32,9 @@ Dusburgietis teigia, kad dorobek archeologii na Warmii i Mazurach —Z otchłani
   temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinius duomenis, o pradinis teiginys neturi predikato.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 818729-818820; hash=d13a3860e562c523306560c751bf637a4b93b33e31569eb265c3d9448c433fcf; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +49,6 @@ Dusburgietis teigia, kad dorobek archeologii na Warmii i Mazurach —Z otchłani
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 818729-818820; hash=d13a3860e562c523306560c751bf637a4b93b33e31569eb265c3d9448c433fcf; match=exact
+  sprendimo_priezastis: auto

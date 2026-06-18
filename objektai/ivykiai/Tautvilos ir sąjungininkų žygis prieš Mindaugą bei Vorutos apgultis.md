@@ -36,9 +36,19 @@ Nenurodyta
   teiginys: 'Mindaugas, pasak metraščio, nesiryžo kautis atvirame lauke ir užsidarė Vorutos pilyje.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys aiškus ir tinkamai priskirtas metraščiui.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Voruta'
+  susije_objektai: 'mentioned_place: Voruta; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4de2416f251aa70d2a530e3e6438d3156ec76ec597db0df1e48f4c57b9c3680b; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: susije_su -> Tautvilas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Tautvilas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis" parinktas kaip owner_note_path. Targetas "Tautvilas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187498"></a>
 - t-002
@@ -46,9 +56,19 @@ Nenurodyta
   teiginys: 'Pasak šaltinio, po susirėmimo Tautvilas sugrįžo namo į Žemaitiją.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys aiškus, trumpas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_group: [[objektai/grupes/Poloviečiai|Poloviečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_group: [[objektai/grupes/Poloviečiai|Poloviečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4de2416f251aa70d2a530e3e6438d3156ec76ec597db0df1e48f4c57b9c3680b; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: susije_su -> Voruta: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Voruta: mention_match, place, gap=71
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis" parinktas kaip owner_note_path. Targetas "Voruta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187499"></a>
 - t-003
@@ -59,6 +79,16 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ecf9cdbb89b43f46939a147f16bc467f218c80fd74cf9599e85a1e3ea692de2; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: susije_su -> Arbaletai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Arbaletai: mention_match, thing, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis" parinktas kaip owner_note_path. Targetas "Arbaletai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187500"></a>
 - t-004
@@ -66,9 +96,19 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad prie Vorutos Mindaugo kariai su arbaletais išjojo prieš vokiečius, o rusai, polovcai ir jotvingiai vaikėsi po lauką.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Citata leidžia parašyti konkretesnį įvykio aprašą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_group: [[objektai/grupes/Poloviečiai|Poloviečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Arbaletai|Arbaletai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Voruta'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jotvingiai|Jotvingiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Arbaletai|Arbaletai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Voruta; mentioned_group: [[objektai/grupes/Poloviečiai|Poloviečiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ecf9cdbb89b43f46939a147f16bc467f218c80fd74cf9599e85a1e3ea692de2; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: susije_su -> Namas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -86,6 +126,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ecf9cdbb89b43f46939a147f16bc467f218c80fd74cf9599e85a1e3ea692de2; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: susije_su -> Namas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-002
@@ -103,5 +153,35 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4de2416f251aa70d2a530e3e6438d3156ec76ec597db0df1e48f4c57b9c3680b; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: susije_su -> Voruta: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Voruta: mention_match, place, gap=71
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis" parinktas kaip owner_note_path. Targetas "Voruta" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ecf9cdbb89b43f46939a147f16bc467f218c80fd74cf9599e85a1e3ea692de2; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: susije_su -> Arbaletai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Arbaletai: mention_match, thing, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis" parinktas kaip owner_note_path. Targetas "Arbaletai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4de2416f251aa70d2a530e3e6438d3156ec76ec597db0df1e48f4c57b9c3680b; match=fallback; occurrences=0
+  sprendimo_priezastis: gap::events
+  ryšio_patikimumas: susije_su -> Tautvilas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Tautvilas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis" parinktas kaip owner_note_path. Targetas "Tautvilas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

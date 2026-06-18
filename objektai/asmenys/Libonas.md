@@ -25,9 +25,19 @@ Kojelavičius Liboną vadina laivyno legatu ir Pompėjaus partijos šalininku.
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Živinbudas|Živinbudas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 90978-91848; hash=a6d1436116ebbfc4137c8d1edf3a9452fa7587a8643bc50b1c8f040f8944df9d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Živinbudas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Libonas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Živinbudas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Libonas" parinktas kaip owner_note_path. Targetas "Živinbudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/zodynas/romėniškoji kilmė.md#claim-t-74036|romėniškoji kilmė]]: Romėniškosios kilmės teorijoje teigta, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.
 - susijęs iš Italija: Palemono legenda teigė, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir ten sukūrė valstybę.
 - susijęs iš Italija: Pasakojime romėnų karvedys Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.
-- susijęs iš [[objektai/zodynas/romėniškoji kilmė.md#claim-t-74036|romėniškoji kilmė]]: Romėniškosios kilmės teorijoje teigta, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,3 +71,13 @@ Kojelavičius Liboną vadina laivyno legatu ir Pompėjaus partijos šalininku.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 90978-91848; hash=a6d1436116ebbfc4137c8d1edf3a9452fa7587a8643bc50b1c8f040f8944df9d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Živinbudas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Libonas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Živinbudas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Libonas" parinktas kaip owner_note_path. Targetas "Živinbudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

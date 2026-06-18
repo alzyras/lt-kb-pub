@@ -31,7 +31,7 @@ amziai:
 - t-001
   global_id: t-80590
   teiginys: 'Žuvinto ežeras ir Palios buvo apsupti šarvuočių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/daiktai/Valtys|Valtys]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Žuvintas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Žuvintas; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/daiktai/Valtys|Valtys]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -50,7 +50,7 @@ amziai:
 - t-003
   global_id: t-80592
   teiginys: 'Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/daiktai/Valtys|Valtys]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Žuvintas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_place: Žuvintas; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/daiktai/Valtys|Valtys]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -64,6 +64,16 @@ amziai:
   susije_objektai: 'mentioned_place: Žuvintas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=902dd49a245893e1322440c62a3f4461850077adb0e34855cb7c9b7931ac253c; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> NKVD: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žuvinto ežeras: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: NKVD: mention_match, group, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto ežeras" parinktas kaip owner_note_path. Targetas "NKVD" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-80595"></a>
 - t-006
@@ -72,13 +82,23 @@ amziai:
   susije_objektai: 'mentioned_place: Žuvintas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 934154-934469; hash=08f82ec3a8059dada8ce64f99caf78341e8405807e61ea451c2269f7b267cac2; match=ocr_normalized
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Žuvintas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žuvinto ežeras: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Žuvintas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto ežeras" parinktas kaip owner_note_path. Targetas "Žuvintas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Dzūkų būrys.md#claim-t-40877|Dzūkų būrys]]: Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais.
-- susijęs iš [[objektai/grupes/Muškietininkų būrys.md#claim-t-41091|Muškietininkų būrys]]: 1945 m. birželio 25 d. į pasalą patekę žuvo „Muškietininkų“ būrio vadas Vladas Gavėnas-Tarzanas, Vincas Boruta-Žvalgas ir Sigitas Melnykas-Portas.
 - susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-183680|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: Žuvinto Palių kautynėse enkavėdistai, pritrūkę valčių, kluonų durimis kaip plaustais plaukė per ežerą.
-- susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-71779|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį.
 - susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-71783|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: Žuvinto Palių kautynėse enkavėdistai, pritrūkę valčių, kluonų durimis kaip plaustais plaukė per ežerą.
-- susijęs iš Buktos (Žaliosios) miškas: Staniškis-Litas įsakė Dzūkų būriui trauktis į Buktos (Žaliosios) miško ir Palių pakraštį.
 - susijęs iš Žuvinto palios: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.
+- susijęs iš [[objektai/grupes/Muškietininkų būrys.md#claim-t-41091|Muškietininkų būrys]]: 1945 m. birželio 25 d. į pasalą patekę žuvo „Muškietininkų“ būrio vadas Vladas Gavėnas-Tarzanas, Vincas Boruta-Žvalgas ir Sigitas Melnykas-Portas.
+- susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-71779|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį.
+- susijęs iš Buktos (Žaliosios) miškas: Staniškis-Litas įsakė Dzūkų būriui trauktis į Buktos (Žaliosios) miško ir Palių pakraštį.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -115,7 +135,27 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6795fe969c91f645f0d627673d63050089e7b5bb73ca07d3c38fe2966fa25a9c; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Lėktuvai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žuvinto ežeras: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lėktuvai: mention_match, thing, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto ežeras" parinktas kaip owner_note_path. Targetas "Lėktuvai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=902dd49a245893e1322440c62a3f4461850077adb0e34855cb7c9b7931ac253c; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> NKVD: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žuvinto ežeras: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: NKVD: mention_match, group, gap=46
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto ežeras" parinktas kaip owner_note_path. Targetas "NKVD" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-003
@@ -154,5 +194,15 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 934154-934469; hash=08f82ec3a8059dada8ce64f99caf78341e8405807e61ea451c2269f7b267cac2; match=ocr_normalized
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Žuvintas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žuvinto ežeras: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Žuvintas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žuvinto ežeras" parinktas kaip owner_note_path. Targetas "Žuvintas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
     - t-003

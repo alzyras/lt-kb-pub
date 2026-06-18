@@ -34,6 +34,16 @@ Prieš mūšį 1945 m. gruodžio 5 d. prie Mardasavo km., ant Merkio kranto neti
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Mardasavą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=339940a0d01912a6c7353ac9ecfbad244d493f44303a62e61ac0fe7c14b2c2f0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> NKVD: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mardasavas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: NKVD: mention_match, group, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mardasavas" parinktas kaip owner_note_path. Targetas "NKVD" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66780|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Prieš Merkinės puolimą 1945 m. gruodžio 5 d. prie Mardasavo NKVD dalinio užklupti žuvo keturi Marcinkonių bataliono partizanai.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66781|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: 1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas ir trys jo kovos draugai.
 ## Reikšmingi paminėjimai
@@ -59,3 +69,13 @@ Prieš mūšį 1945 m. gruodžio 5 d. prie Mardasavo km., ant Merkio kranto neti
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=339940a0d01912a6c7353ac9ecfbad244d493f44303a62e61ac0fe7c14b2c2f0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> NKVD: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mardasavas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: NKVD: mention_match, group, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mardasavas" parinktas kaip owner_note_path. Targetas "NKVD" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -35,6 +35,16 @@ Maciūno, TRUMPAS HIGIENOS VADOVĖLIS.
   temporalinis_llm_pakomentavimas: 'Citata palaiko išsamų sakinį apie autoriaus parengtą vadovėlį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 740180-740309; hash=0dc7405f24d9cbc8b2eb8941628deaf84f279d601ca3f120254e0a1ebd346ec6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rytas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Maciūnas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Rytas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Maciūnas" parinktas kaip owner_note_path. Targetas "Rytas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +59,13 @@ Maciūno, TRUMPAS HIGIENOS VADOVĖLIS.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 740180-740309; hash=0dc7405f24d9cbc8b2eb8941628deaf84f279d601ca3f120254e0a1ebd346ec6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rytas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Maciūnas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Rytas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Maciūnas" parinktas kaip owner_note_path. Targetas "Rytas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -35,6 +35,16 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=09aab4684a3c0eeac448a08246e9324a1ed6c325cabf9c24ae8a6011d171e78a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Grigalius (vicekancleris): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jeronimas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Grigalius (vicekancleris): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeronimas" parinktas kaip owner_note_path. Targetas "Grigalius (vicekancleris)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-60150"></a>
 - t-002
@@ -44,10 +54,20 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Prūsija; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 240899-241930; hash=083fc711987e0efe382f4404d6235942ba6388ea358b060573b0b670797ed239; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jeronimas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeronimas" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Vda: Vda atpažįstama kaip upė, Jeronimo variante vadinama Bda.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178942|Kryžiuočių ordinas]]: Prūsams buvo sunkiau gintis nuo Kryžiuočių ordino, nes jie neturėjo vieningos valstybės ir negalėjo sutartinai priešintis.
 - susijęs iš [[objektai/ivykiai/Kulmo pilies ir miesto įkūrimas (1232 m.).md#claim-t-66650|Kulmo pilies ir miesto įkūrimas (1232 m.)]]: 1232 m. magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, pastatė Kulmo pilį ir miestą senosios pilies vietoje.
 - susijęs iš [[objektai/posakiai/Pergalės būdas tikriausias — kantrybė.md#claim-t-59052|Pergalės būdas tikriausias — kantrybė]]: Dusburgietis Grigaliui priskiria mintį, kad kankiniu galima būti ir be kalavijo ar liepsnų, jei sieloje išsaugoma kantrybė.
-- susijęs iš Vda: Vda atpažįstama kaip upė, Jeronimo variante vadinama Bda.
 - susijęs iš [[objektai/zodynas/daiktiški ir dvasiški ginklai dvasios ginklai.md#claim-t-58935|daiktiški ir dvasiški ginklai dvasios ginklai]]: Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios priešus.
 - susijęs iš [[objektai/zodynas/daiktiški ir dvasiški ginklai.md#claim-t-58934|daiktiški ir dvasiški ginklai]]: Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios priešus.
 ## Reikšmingi paminėjimai
@@ -88,4 +108,24 @@ Dusburgietis teigia, kad jeronimas priduria: „Negi gali būti kas vainikuotas 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=09aab4684a3c0eeac448a08246e9324a1ed6c325cabf9c24ae8a6011d171e78a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Grigalius (vicekancleris): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jeronimas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Grigalius (vicekancleris): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeronimas" parinktas kaip owner_note_path. Targetas "Grigalius (vicekancleris)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 240899-241930; hash=083fc711987e0efe382f4404d6235942ba6388ea358b060573b0b670797ed239; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jeronimas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jeronimas" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

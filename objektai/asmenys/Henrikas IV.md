@@ -37,9 +37,20 @@ Dalyvavo ir Lancasterio grafas Derby, būsimasis Anglijos karalius Henrikas IV (
   semantiniai_rysiai: '[[objektai/asmenys/Henrikas IV|Henrikas IV]] buvo valdovas Anglija'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Boucicaut.md#claim-t-87490|Boucicaut]]: Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0740a3c71e087e08ba7771ad846db318a310309664aa730216653085f102c291; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Anglija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Henrikas IV: owner_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Anglija: exact_title_context, place, gap=9
+  ryšio_slopinti_kandidatai: Lietuva: candidate; Prancūzija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Henrikas IV" parinktas kaip owner_after_title. Targetas "Anglija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Prancūzija.md", "selected": false, "strategy": "candidate", "title": "Prancūzija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Henrikas Lankasteris.md#claim-t-87430|Henrikas Lankasteris]]: Derbio grafas Henrikas, Lankasterio kunigaikščio Jono vyresnysis sūnus, vadovavo Gdansko uoste išsilaipinusiems lankininkams.
 - susijęs iš [[objektai/grupes/Anglai.md#claim-t-172067|Anglai]]: Tūkstančiui rinktinių anglų lankininkų, išsilaipinusių Gdansko uoste, vadovavo Derbio grafas Henrikas.
+- susijęs iš [[objektai/asmenys/Boucicaut.md#claim-t-87490|Boucicaut]]: Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno.
 - susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-81588|Prancūzai]]: 1390 m. žygyje prancūzams ir kitiems kariams vadovavo riteris Boucicaut.
 - susijęs iš Anglija: Derbio grafas Henrikas vadovavo Gdansko uoste išsilaipinusiems lankininkams ir vėliau, kaip Henrikas IV, paveldėjo Anglijos sostą.
 ## Reikšmingi paminėjimai
@@ -59,6 +70,17 @@ Dalyvavo ir Lancasterio grafas Derby, būsimasis Anglijos karalius Henrikas IV (
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0740a3c71e087e08ba7771ad846db318a310309664aa730216653085f102c291; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Anglija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Henrikas IV: owner_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Anglija: exact_title_context, place, gap=9
+  ryšio_slopinti_kandidatai: Lietuva: candidate; Prancūzija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Henrikas IV" parinktas kaip owner_after_title. Targetas "Anglija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Prancūzija.md", "selected": false, "strategy": "candidate", "title": "Prancūzija", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 ## Ryšiai
 - Henrikas IV buvo_valdovas [[objektai/vietos/Anglija]]

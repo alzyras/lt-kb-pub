@@ -47,6 +47,16 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 92284-92663; hash=f912f5ec2be0560bc1f0ad8312880e5e862eefa62616b9782162420a8cae5af9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Petras iš Dusburgo (kunigas): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Petras iš Dusburgo (kunigas): mention_match, person, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika" parinktas kaip owner_note_path. Targetas "Petras iš Dusburgo (kunigas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-62704"></a>
 - t-002
@@ -54,9 +64,19 @@ Nenurodyta
   teiginys: 'Marienverderio ir Kristmemelio pilys Dusburgiečio pasakojime siejamos su keliu į netikėlių žemes ir krikščionių žemių plėtra.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretesnį teiginį apie pilių statybos religinį ir ekspansinį aiškinimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Kristmemelis; mentioned_place: Marienverderis; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Kristmemelis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Marienverderis; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5f0fc87b78f4972507f7f63329a3991ff3ec7d7ccad21072332bef373430a953; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -89,6 +109,16 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 92284-92663; hash=f912f5ec2be0560bc1f0ad8312880e5e862eefa62616b9782162420a8cae5af9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Petras iš Dusburgo (kunigas): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Petras iš Dusburgo (kunigas): mention_match, person, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika" parinktas kaip owner_note_path. Targetas "Petras iš Dusburgo (kunigas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-003
@@ -105,4 +135,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5f0fc87b78f4972507f7f63329a3991ff3ec7d7ccad21072332bef373430a953; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 92128-92551; hash=7c1e6a5f91a7260cc87f0d46234ba05f25b4bbc2f7fb9a511a1b78cbc39a64de; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Petras iš Dusburgo (kunigas): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Petras iš Dusburgo (kunigas): mention_match, person, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ordino pilių statyba kaip užkariavimo ir krikščionių žemių plėtros praktika" parinktas kaip owner_note_path. Targetas "Petras iš Dusburgo (kunigas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

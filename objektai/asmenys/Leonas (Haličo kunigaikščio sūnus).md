@@ -34,9 +34,19 @@ Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pasta
   global_id: t-87764
   teiginys: 'Leonas, Danieliaus iš Haličo sūnus, pastatydino Lvovą, kuris citatoje datuojamas 1280 metais.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje buvo perteklinis kontekstas apie kitus miestus ir OCR klaida asmenvardyje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Haličas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Lvovas; mentioned_place: Poznanė; mentioned_place: Sandomiras'
+  susije_objektai: 'mentioned_place: Haličas; mentioned_place: Lvovas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Poznanė; mentioned_place: Sandomiras'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 40027-40612; hash=0a3246d645462fefd2ac56aa2c9e1fbae138002d2b129c91034dbc3dc4bd07d2; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Haličas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Leonas (Haličo kunigaikščio sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Haličas: mention_match, place, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leonas (Haličo kunigaikščio sūnus)" parinktas kaip owner_note_path. Targetas "Haličas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -59,3 +69,13 @@ Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pasta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 40027-40612; hash=0a3246d645462fefd2ac56aa2c9e1fbae138002d2b129c91034dbc3dc4bd07d2; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Haličas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Leonas (Haličo kunigaikščio sūnus): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Haličas: mention_match, place, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leonas (Haličo kunigaikščio sūnus)" parinktas kaip owner_note_path. Targetas "Haličas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

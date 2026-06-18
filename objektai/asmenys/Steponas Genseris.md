@@ -24,24 +24,44 @@ tags:
   global_id: t-87460
   teiginys: 'Steponas Genseris buvo auksakalys, kurį karaliaus dekretas atleido nuo Vilniaus miesto jurisdikcijos ir cechų valdžios.'
   sudarymo_pagrindimas: 'Citata aiškiai įvardija Genserį auksakaliu ir nurodo dekreto sprendimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto cechai|Vilniaus miesto cechai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Bełskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto cechai|Vilniaus miesto cechai]]; mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Bełskas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 817973-818770; hash=8dc58d5453fd87bd410ab1c7bd18cba862a733500092d4201f49892c99785ce7; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Steponas Genseris: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steponas Genseris" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87461"></a>
 - t-002
   global_id: t-87461
   teiginys: 'Auksakalys Steponas Genseris buvo pašauktas į teismą Vilniaus miesto auksakalių cecho reikalavimu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Transilvanija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Transilvanija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8a9fa723f686a27ec0742a91c6bfa1d770ab751b628edf81211b42f1ae6f2b53; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilniaus miesto cechai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Steponas Genseris: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilniaus miesto cechai: mention_match, group, gap=71
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steponas Genseris" parinktas kaip owner_note_path. Targetas "Vilniaus miesto cechai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Aleksandro privilegija Vilniaus auksakalių cechui: Vilniaus auksakalių cecho prašymu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo Aleksandro privilegijai.
-- susijęs iš Aleksandro privilegija Vilniaus auksakalių cechui: Steponas Genseris kaltintas nepaklusęs Aleksandro suteiktai ir vėliau patvirtintai Vilniaus auksakalių cecho privilegijai.
 - susijęs iš Stepono Batoro teismo šaukimas Steponui Genseriui dėl Vilniaus auksakalių cecho skundo: Steponas Genseris Vilniaus auksakalių cecho reikalavimu buvo raštiškai pakviestas į valdovo teismą.
 - susijęs iš Stepono Batoro teismo šaukimas Steponui Genseriui dėl Vilniaus auksakalių cecho skundo: Steponas Genseris kaltintas atskirai nuo Vilniaus auksakalių cecho gaminęs ir pardavinėjęs auksakalystės dirbinius.
-- susijęs iš Vladislovo privilegija Vilniaus katedros bažnyčiai ir Vilniaus vyskupui dėl vyskupijos jurisdikcijos: Auksakalys Steponas Genseris buvo paskelbtas laisvu nuo Vilniaus miesto pasaulietinės jurisdikcijos ir cechų valdžios.
 - susijęs iš [[objektai/zodynas/cechas contubernium.md#claim-t-86462|cechas contubernium]]: Vilniaus auksakalių cecho reikalavimu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo cecho privilegijai.
+- susijęs iš Aleksandro privilegija Vilniaus auksakalių cechui: Steponas Genseris kaltintas nepaklusęs Aleksandro suteiktai ir vėliau patvirtintai Vilniaus auksakalių cecho privilegijai.
+- susijęs iš Vladislovo privilegija Vilniaus katedros bažnyčiai ir Vilniaus vyskupui dėl vyskupijos jurisdikcijos: Auksakalys Steponas Genseris buvo paskelbtas laisvu nuo Vilniaus miesto pasaulietinės jurisdikcijos ir cechų valdžios.
 - susijęs iš [[objektai/zodynas/civilinė teisė ir pasaulietinė civilinė teisė.md#claim-t-86519|civilinė teisė ir pasaulietinė civilinė teisė]]: Auksakalys Steponas Genseris buvo kaltintas vertęsis amatu nesilaikydamas civilinės teisės ir Vilniaus auksakalių cecho tvarkos.
 ## Reikšmingi paminėjimai
 
@@ -90,4 +110,24 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8a9fa723f686a27ec0742a91c6bfa1d770ab751b628edf81211b42f1ae6f2b53; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilniaus miesto cechai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Steponas Genseris: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilniaus miesto cechai: mention_match, group, gap=71
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steponas Genseris" parinktas kaip owner_note_path. Targetas "Vilniaus miesto cechai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 817973-818770; hash=8dc58d5453fd87bd410ab1c7bd18cba862a733500092d4201f49892c99785ce7; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Steponas Genseris: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steponas Genseris" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -47,6 +47,16 @@ Nenurodyta
   susije_objektai: 'mentioned_event: [[objektai/ivykiai/Dovydiškių sutarties sudarymas|Dovydiškių sutarties sudarymas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 751220-751661; hash=c0cff47f731613ff9b3ce9549d934c1a246eabb86b8d8f8309e79fa1f62aea4a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dovydiškių sutarties sudarymas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Dovydiškių sutarties sudarymas: mention_match, event, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)" parinktas kaip owner_note_path. Targetas "Dovydiškių sutarties sudarymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -65,3 +75,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 751220-751661; hash=c0cff47f731613ff9b3ce9549d934c1a246eabb86b8d8f8309e79fa1f62aea4a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dovydiškių sutarties sudarymas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Dovydiškių sutarties sudarymas: mention_match, event, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)" parinktas kaip owner_note_path. Targetas "Dovydiškių sutarties sudarymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -48,6 +48,19 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Prūsija; mentioned_place: Vilija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 277552-278047; hash=780bee116259cc6f1b39864ebd08607de46ea4e888e1f99f9a0d037e6ff0c0ef; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Parakas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=96
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Parakas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/daiktai/Kablinis šautuvas.md#claim-t-183685|Kablinis šautuvas]]: Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.
+- susijęs iš [[objektai/daiktai/Kablinis šautuvas.md#claim-t-78653|Kablinis šautuvas]]: Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.
+- susijęs iš [[objektai/zodynas/automatinių šautuvų veikimo principai.md#claim-t-38745|automatinių šautuvų veikimo principai]]: AK-47 automatika veikia dujų nuvedimo principu, kai dalis kulką iš vamzdžio išstumiančių parako dujų grąžina spyną į galinę padėtį ir tokiu būdu leidžia kitam šoviniui iš dėtuvės patekti į šovinio lizdą.
 - susijęs iš [[objektai/asmenys/D. Kuruta.md#claim-t-40079|D. Kuruta]]: Generolas leitenantas grafas D. Kuruta laikinai perdavė vadovavimą generolui leitenantui baronui D. Osten-Sakenui.
 - susijęs iš [[objektai/asmenys/D. Osten-Sakenas.md#claim-t-40083|D. Osten-Sakenas]]: Osten-Sakeno įsakymu prasidėjo sukilėlių persekiojimas, jame dalyvavo Leibgvardijos lietuvių pėstininkų, Leibgvardijos Podolės kirasyrų, 9-ojo jėgerių pulkų kariai.
 - susijęs iš [[objektai/asmenys/D. Osten-Sakenas.md#claim-t-40084|D. Osten-Sakenas]]: Generolas leitenantas baronas D. Osten-Sakenas laikinai perėmė vadovavimą iš leitenanto grafo D. Kurutos.
@@ -55,8 +68,6 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Stanislovas Pacas.md#claim-t-186081|Stanislovas Pacas]]: Stanislovas Pacas patraukė persekioti maskvėnų, niokojusių kunigaikščių Ostrogiškių valdas.
 - susijęs iš [[objektai/autoriai/Mykolas Brenšteinas.md#claim-t-34880|Mykolas Brenšteinas]]: Mykolas Brenšteinas, remdamasis kronikomis, manė, kad Vytauto laikų pabaigoje lietuvių artilerija jau buvo nemenka.
 - susijęs iš [[objektai/daiktai/Daugiavamzdė Gatlingo sistema.md#claim-t-40704|Daugiavamzdė Gatlingo sistema]]: JAV buvo gaminamas kulkosvaidžio prototipas - daugiavamzdė Gatlingo sistema.
-- susijęs iš [[objektai/daiktai/Kablinis šautuvas.md#claim-t-183685|Kablinis šautuvas]]: Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.
-- susijęs iš [[objektai/daiktai/Kablinis šautuvas.md#claim-t-78653|Kablinis šautuvas]]: Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.
 - susijęs iš [[objektai/daiktai/Kablinis šautuvas.md#claim-t-78654|Kablinis šautuvas]]: Kablinio šautuvo apačioje pritvirtintas žemyn nukreiptas kablys buvo skirtas stipriai šūvio atatrankai sušvelninti.
 - susijęs iš [[objektai/daiktai/Mietas.md#claim-t-80693|Mietas]]: Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.
 - susijęs iš [[objektai/ivykiai/1381 m. kryžiuočių puolimai Kęstučio valdose.md#claim-t-97013|1381 m. kryžiuočių puolimai Kęstučio valdose]]: 1381 m. pradžioje Prūsų kryžiuočiai teriojo Kęstučio valdas.
@@ -70,7 +81,6 @@ Nenurodyta
 - susijęs iš Žuvinto ežeras: Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas.
 - susijęs iš Žuvinto palios: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.
 - susijęs iš [[objektai/zodynas/Brandskugeliai karkasai.md#claim-t-42419|Brandskugeliai karkasai]]: Brandskugeliai buvo tuščiaviduriai ketaus sviediniai su padegamuoju mišiniu, o karkasai - ovalūs iš geležinių žiedų sudaryti padegamieji sviediniai.
-- susijęs iš [[objektai/zodynas/automatinių šautuvų veikimo principai.md#claim-t-38745|automatinių šautuvų veikimo principai]]: AK-47 automatika veikia dujų nuvedimo principu, kai dalis kulką iš vamzdžio išstumiančių parako dujų grąžina spyną į galinę padėtį ir tokiu būdu leidžia kitam šoviniui iš dėtuvės patekti į šovinio lizdą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -90,3 +100,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 277552-278047; hash=780bee116259cc6f1b39864ebd08607de46ea4e888e1f99f9a0d037e6ff0c0ef; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Parakas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=96
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Parakas" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

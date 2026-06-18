@@ -36,7 +36,7 @@ Vartojama aiškinant lietuvių, rusėnų žemių ir Maskvos erdvės nuosavybės 
   global_id: t-71204
   teiginys: 'Gardino pilininko Dovydo alodas vadinamas dvaru ir buvo Notangos vyrų sudegintas iki pamatų.'
   sudarymo_pagrindimas: 'Citata tiesiogiai sieja alodą su dvaru ir nurodo įvykį.'
-  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Notanga'
+  susije_objektai: 'mentioned_place: Notanga; mentioned_place: Gardinas'
   pagrindžia:
     - c-001
 

@@ -41,42 +41,82 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bbf1ed0144b1b246545d062e2f3a83b315e3e1eea9fadee755a85358d56a808a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jekaterina II: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jekaterina II: mention_match, person, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Jekaterina II" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77134"></a>
 - t-002
   global_id: t-77134
   teiginys: 'Pirmojo pasaulinio karo metais Peterburge ir Voroneže susiformavo lietuvių centrai su laikraščių redakcijomis ir gimnazijomis.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs ir turėjo nebaigtą frazę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Voronežas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Voronežas; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nutrūkęs ir turėjo nebaigtą frazę.'
   pagrindžia:
     - c-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f806dce32b8c48dae5159da6b9429a97eb986b2e41a134673e26baaa001f15ff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Austrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77135"></a>
 - t-003
   global_id: t-77135
   teiginys: '1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.'
   sudarymo_pagrindimas: 'Teiginys yra tikslus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1795 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e387816dd6bb6997ffd61c030c0c03ce9e96da5875b9c9067372d59f04c6253f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-77136"></a>
 - t-004
   global_id: t-77136
   teiginys: '1797 m. sausio 26 d. Peterburgo konvencija patvirtino trečiąjį Lenkijos ir Lietuvos valstybės padalijimą, panaikino valstybingumo likučius ir nubrėžė sienas.'
   sudarymo_pagrindimas: 'Santrumpa išplėsta į aiškų valstybės pavadinimą.'
-  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Užnemunė'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Austrija; mentioned_place: Prūsija; mentioned_place: Užnemunė'
   temporaliniai_duomenys: 'įvykio data: 1797 m.; įvykio data: 1815 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Santrumpa išplėsta į aiškų valstybės pavadinimą.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=efe659f148800a0baa555c6c3931a0f4e23238786e97ea73f8b2b5c58d8696f4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Rusija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-77137"></a>
 - t-005
@@ -89,6 +129,16 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citata.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6de2fbfc971d9492b1e7c91b80afd6a4e7ab114f2ccfd235d3f8c375287e9e6d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-77138"></a>
 - t-006
@@ -106,7 +156,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - t-008
   global_id: t-77141
   teiginys: 'Peterburge telkėsi reformų opozicija, nes Jekaterina II ten susikvietė aršiausius reformų priešininkus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Targovica'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Targovica'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -120,31 +170,41 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e3f05af3acd6afaae4d37ab83a8aa4b4487b92ea419ae813487ac60abbd5edb5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-77143"></a>
 - t-010
   global_id: t-77143
   teiginys: 'Peterburge nebuvo rimtai svarstoma rezoliucija dėl politinės autonomijos suteikimo Lietuvai.'
-  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Kaimas'
   temporaliniai_duomenys: 'įvykio data: 1906 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=15c9f1056211c8dc671fd06b6561b7d5ce9134eeed2993ff134982fd38691953; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170089|Stanislovas Augustas Poniatovskis (valdovas)]]: Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos.
 - susijęs iš [[objektai/autoriai/A. E. Presniakov.md#claim-t-30504|A. E. Presniakov]]: A. E. Presniakov 1908-1910 m. Peterburgo universiteto paskaitose lietė Lietuvos istorijos klausimus nuo XIII a. vidurio iki Liublino unijos.
-- susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80769|Abiejų Tautų Respublika]]: 1797 m. Peterburgo konvencija patvirtino trečiąjį Abiejų Tautų Respublikos padalijimą ir panaikino jos valstybingumo likučius.
-- susijęs iš [[objektai/grupes/JAV lietuviai.md#claim-t-74138|JAV lietuviai]]: JAV lietuvius 1917 m. suaktyvino JAV įstojimas į karą prieš Vokietiją ir Woodrow Wilsono paskelbti „14 punktų“.
-- susijęs iš [[objektai/grupes/Rusijos kariuomenė.md#claim-t-66078|Rusijos kariuomenė]]: 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, ir taip prasidėjo 1792 m. LLV karas su Rusija.
-- susijęs iš [[objektai/grupes/Rusijos kariuomenė.md#claim-t-66079|Rusijos kariuomenė]]: 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama 1792 m. karą tarp LLV ir Rusijos.
 - susijęs iš [[objektai/grupes/Targovicos konfederacija.md#claim-t-182712|Targovicos konfederacija]]: Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.
 - susijęs iš [[objektai/ivykiai/1797 m. Peterburgo konvencija dėl trečiojo padalijimo patvirtinimo.md#claim-t-20135|1797 m. Peterburgo konvencija dėl trečiojo padalijimo patvirtinimo]]: 1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peterburgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos valstybingumo likučius ir nubrėžė tikslias sienas.
-- susijęs iš [[objektai/ivykiai/1905 m. revoliucija Lietuvoje.md#claim-t-183211|1905 m. revoliucija Lietuvoje]]: 1905 m. revoliucijos rezoliucijos skatino Lietuvos kaimus ir miestelius perimti valsčių savivaldybes į savo rankas.
-- susijęs iš [[objektai/ivykiai/Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos.md#claim-t-75125|Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos]]: Po 1905 m. revoliucijos Rusijoje atsirado Valstybės Tarybos ir Valstybės Dūmos parlamentas, bet vykdomoji valdžia liko caro rankose.
-- susijęs iš [[objektai/ivykiai/Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos.md#claim-t-75126|Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos]]: Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus.
 - susijęs iš [[objektai/ivykiai/Targovicos konfederacijos akto paskelbimas.md#claim-t-77908|Targovicos konfederacijos akto paskelbimas]]: Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.
-- susijęs iš [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas.md#claim-t-20522|Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]: 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvenciją.
-- susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45452|Vilniaus universiteto įkūrimas (1579 m.)]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
-- susijęs iš [[objektai/posakiai/„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“.md#claim-t-77854|„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“]]: Vilniaus akademiją steigęs jėzuitas rašė, kad iš Vilniaus atsiveria kelias į Maskoviją, o per totorius galima pasiekti Kiniją.
 - susijęs iš Napiersky, Russisch - livländische Urkunden: K. E. Napiersky veikalas „Russisch-livländische Urkunden“ buvo išleistas Peterburge 1868 m.
 - susijęs iš Peterburgo konvencija dėl LLV padalijimo patvirtinimo (1797 m.): 1797 m. sausio 26 d. Rusija, Prūsija ir Austrija pasirašė naują Peterburgo konvenciją, kuri patvirtino trečiąjį LLV padalijimą, panaikino jos valstybingumo likučius ir nubrėžė tikslias sienas.
 - susijęs iš Peterburgo konvencija dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo (1795 m.): Po 1795 m. Peterburgo konvencijos LDK etninės lietuvių žemės atiteko Rusijai, Užnemunė Prūsijai, o pietvakarinis LDK kampas Austrijai.
@@ -154,11 +214,24 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - susijęs iš Stanislovo Augusto Poniatovskio abdikacijos aktas: Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos.
 - susijęs iš Targovicos konfederacijos aktas: Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.
 - susijęs iš Volumina Legum: „Volumina legum“ šeši tomai buvo išleisti Peterburge 1859 m.
+- susijęs iš т. II. Ипатьевская летопись. Изд. 2 Изд. А. А. Шахматов: II tomo „Ипатьевская летопись“ antrasis leidimas, redaguotas A. A. Šachmatovo, išleistas 1908 m. Sankt Peterburge ir 1962 m. Maskvoje.
+- susijęs iš т. XVII. Западнорусские летописи Изд. С. Л. Пташицкий и А. А. Шахматов: XVII tomą „Западнорусские летописи“ redagavo S. L. Ptašickis ir A. A. Šachmatovas, jis išleistas 1907 m. Sankt Peterburge.
+- susijęs iš Sankt Peterburgas: 1772 m. Sankt Peterburge buvo pasirašytos padalijimo sutartys, kurias 1773-1775 m. patvirtino delegacinis seimas Varšuvoje.
+- susijęs iš Targovica: Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.
+- susijęs iš [[objektai/zodynas/delegacinis seimas.md#claim-t-42440|delegacinis seimas (seimas)]]: 1773–1775 m. delegacinis seimas Varšuvoje patvirtino 1772 m. Sankt Peterburge pasirašytas padalinimo sutartis.
+- susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80769|Abiejų Tautų Respublika]]: 1797 m. Peterburgo konvencija patvirtino trečiąjį Abiejų Tautų Respublikos padalijimą ir panaikino jos valstybingumo likučius.
+- susijęs iš [[objektai/grupes/JAV lietuviai.md#claim-t-74138|JAV lietuviai]]: JAV lietuvius 1917 m. suaktyvino JAV įstojimas į karą prieš Vokietiją ir Woodrow Wilsono paskelbti „14 punktų“.
+- susijęs iš [[objektai/grupes/Rusijos kariuomenė.md#claim-t-66078|Rusijos kariuomenė]]: 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, ir taip prasidėjo 1792 m. LLV karas su Rusija.
+- susijęs iš [[objektai/grupes/Rusijos kariuomenė.md#claim-t-66079|Rusijos kariuomenė]]: 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama 1792 m. karą tarp LLV ir Rusijos.
+- susijęs iš [[objektai/ivykiai/1905 m. revoliucija Lietuvoje.md#claim-t-183211|1905 m. revoliucija Lietuvoje]]: 1905 m. revoliucijos rezoliucijos skatino Lietuvos kaimus ir miestelius perimti valsčių savivaldybes į savo rankas.
+- susijęs iš [[objektai/ivykiai/Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos.md#claim-t-75125|Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos]]: Po 1905 m. revoliucijos Rusijoje atsirado Valstybės Tarybos ir Valstybės Dūmos parlamentas, bet vykdomoji valdžia liko caro rankose.
+- susijęs iš [[objektai/ivykiai/Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos.md#claim-t-75126|Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos]]: Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus.
+- susijęs iš [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas.md#claim-t-20522|Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]: 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvenciją.
+- susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45452|Vilniaus universiteto įkūrimas (1579 m.)]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
+- susijęs iš [[objektai/posakiai/„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“.md#claim-t-77854|„Reikia taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją...“]]: Vilniaus akademiją steigęs jėzuitas rašė, kad iš Vilniaus atsiveria kelias į Maskoviją, o per totorius galima pasiekti Kiniją.
 - susijęs iš Vudro Vilsono 14 punktų: Vudro Vilsono paskelbti „14 punktų“ suteikė JAV lietuvių imigrantams progą kelti Lietuvos klausimą.
 - susijęs iš Žemaičių vyskupystės istorija: Simonas Daukantas įkalbino Motiejų Valančių Sankt Peterburge rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją.
 - susijęs iš т. II. Ипатьевская летопись (с. 1—227); Густинская летопись (с. 231—373) Изд. Археографическою комиссиею: 1843 m. Sankt Peterburge išleistame II tome paskelbtos Ipatijaus metraštis ir Gustyno metraštis.
-- susijęs iš т. II. Ипатьевская летопись. Изд. 2 Изд. А. А. Шахматов: II tomo „Ипатьевская летопись“ antrasis leidimas, redaguotas A. A. Šachmatovo, išleistas 1908 m. Sankt Peterburge ir 1962 m. Maskvoje.
-- susijęs iš т. XVII. Западнорусские летописи Изд. С. Л. Пташицкий и А. А. Шахматов: XVII tomą „Западнорусские летописи“ redagavo S. L. Ptašickis ir A. A. Šachmatovas, jis išleistas 1907 m. Sankt Peterburge.
 - susijęs iš Augustavo gubernija: Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augustavo gubernijoje.
 - susijęs iš Kinija: Vilniaus akademiją steigę jėzuitai manė, kad per Maskoviją ir totorius galima pasiekti Kiniją.
 - susijęs iš Lietuva: Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.
@@ -168,12 +241,9 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 - susijęs iš Polockas: 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama karą tarp LLV ir Rusijos.
 - susijęs iš Prūsija: Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.
 - susijęs iš Rusija: 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko ir pradėjo LLV karą su Rusija.
-- susijęs iš Sankt Peterburgas: 1772 m. Sankt Peterburge buvo pasirašytos padalijimo sutartys, kurias 1773-1775 m. patvirtino delegacinis seimas Varšuvoje.
-- susijęs iš Targovica: Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.
 - susijęs iš Targovica: Targovicos konfederatams į pagalbą atėjusi Rusijos kariuomenė 1792 m. gegužės 22 d. įžengė į LDK prie Polocko.
 - susijęs iš Vilnius: Vilnius tuomet turėjo apie 25 tūkst. gyventojų ir buvo trečias pagal dydį Rusijos imperijos miestas.
 - susijęs iš Čikaga: 1917 m. JAV lietuvių imigrantus, gyvenusius daugiausia Čikagoje, Niujorke ir Pensilvanijoje, suaktyvino JAV įstojimas į karą.
-- susijęs iš [[objektai/zodynas/delegacinis seimas.md#claim-t-42440|delegacinis seimas (seimas)]]: 1773–1775 m. delegacinis seimas Varšuvoje patvirtino 1772 m. Sankt Peterburge pasirašytas padalinimo sutartis.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -225,6 +295,16 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e387816dd6bb6997ffd61c030c0c03ce9e96da5875b9c9067372d59f04c6253f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-004
@@ -242,6 +322,16 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=efe659f148800a0baa555c6c3931a0f4e23238786e97ea73f8b2b5c58d8696f4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Rusija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Rusija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
 
 - c-005
@@ -260,6 +350,16 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6de2fbfc971d9492b1e7c91b80afd6a4e7ab114f2ccfd235d3f8c375287e9e6d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-006
@@ -274,6 +374,16 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bbf1ed0144b1b246545d062e2f3a83b315e3e1eea9fadee755a85358d56a808a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jekaterina II: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jekaterina II: mention_match, person, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Jekaterina II" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-010
 
 - c-007
@@ -291,6 +401,16 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=15c9f1056211c8dc671fd06b6561b7d5ce9134eeed2993ff134982fd38691953; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-009
 
 - c-008
@@ -311,6 +431,16 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e3f05af3acd6afaae4d37ab83a8aa4b4487b92ea419ae813487ac60abbd5edb5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-006
 
 - c-009
@@ -348,4 +478,24 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cb734bef09d31177d3157de3f4d5a70b9d472f11067b0abb872efc7be11ced01; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=83
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f806dce32b8c48dae5159da6b9429a97eb986b2e41a134673e26baaa001f15ff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Austrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Peterburgas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Peterburgas" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

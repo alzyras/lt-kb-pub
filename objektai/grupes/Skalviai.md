@@ -27,7 +27,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-89211
   teiginys: 'M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais.'
   sudarymo_pagrindimas: 'Pradinė formuluotė klaidingai priskiria teiginį Dusburgiečiui ir turi OCR triukšmo.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Becenbergeris|A. Becenbergeris]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Deimena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_author: [[objektai/autoriai/A. Becenbergeris|A. Becenbergeris]]; mentioned_place: Deimena'
   pagrindžia:
     - c-012
 
@@ -36,40 +36,80 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-89212
   teiginys: '1289 m. balandžio 23 d. brolis Meinhardas su kariuomene įžengė į skalvių žemę ir Nemuno pakrantėje pastatė Landeshutės pilį.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi antraštės triukšmo.'
-  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Austrija; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Viena'
   temporaliniai_duomenys: 'pastatymo data: 1289 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi antraštės triukšmo.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=44e583c468a3aa40c211ae5fa1951ad85790209edf753530b77078d945d6d80f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89213"></a>
 - t-003
   global_id: t-89213
   teiginys: 'Magistras ir broliai, keršydami skalviams, įsiveržė į Skalvą, ją nusiaubė, daug žmonių išžudė, o moteris ir vaikus išsivarė.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi neaiškių įvardžių.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija; mentioned_place: Skalva'
+  susije_objektai: 'mentioned_place: Skalva; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a8a8f60cc60404e7fb78a79f5f0cd3c67afa3b34c71cd81ae8e954ecdd67150b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Latviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Latviai: mention_match, group, gap=105
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89214"></a>
 - t-004
   global_id: t-89214
   teiginys: 'Sembų fogtas brolis Ditrichas su Ordino kariais įsiveržė į abipus Nemuno buvusią skalvių žemę ir užpuolė pilį būsimos Ragainės vietoje.'
   sudarymo_pagrindimas: 'Pradinė formuluotė nukirsta ir per daug pažodinė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Nemunas; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_place: Ragainė; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Nemunas'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 171114-171425; hash=742209a01cb347039e77322499734830e260d6b36585ccdab991ec5ad17a9179; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyveno -> Nemunas: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_residence_local_place
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=24
+  ryšio_targeto_parinkimas: Nemunas: nearest_after_predicate, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89215"></a>
 - t-005
   global_id: t-89215
   teiginys: 'Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.'
   sudarymo_pagrindimas: 'Teiginys aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'location: Nemunas; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lamatiečiai|Lamatiečiai]]; mentioned_place: Lietuva; mentioned_place: Minija; mentioned_place: Nemunas'
+  susije_objektai: 'location: Nemunas; mentioned_group: [[objektai/grupes/Lamatiečiai|Lamatiečiai]]; mentioned_place: Minija; mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_place: Lietuva'
   semantiniai_rysiai: '[[objektai/grupes/Skalviai|Skalviai]] gyveno Nemunas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 195718-196028; hash=0db63b56a64bf4947c7b5d6e9b5359acd0eb48cf4aa4122351f8da2fb5b2d41e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ragainė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Ragainė: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Ragainė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89216"></a>
 - t-006
@@ -79,6 +119,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Surdeta|Surdeta]]; mentioned_person: [[objektai/asmenys/Svisdeta|Svisdeta]]; mentioned_place: Skalva; mentioned_place: Skalvos žemė'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 196324-196661; hash=a0d290762a49975ffb60824365f91790d48616139ba57cf95cf53b62e0f27cc0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89217"></a>
 - t-007
@@ -89,25 +139,55 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   pagrindžia:
     - c-004
     - c-011
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=25672d73b2bb8c3bbf055b7ccfa26890d09f1e2f3b15366f5e09e3ddbe9d5cd7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Semba: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89218"></a>
 - t-008
   global_id: t-89218
   teiginys: 'Materialinės kultūros požiūriu skalviai prie Nemuno žemupio siejami su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Nemunas; mentioned_group: [[objektai/grupes/Galindai|Galindai]]'
   pagrindžia:
     - c-008
     - c-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=84dcca443a624e09697af20fb0cb02f3de0aecb1aacf53998e31cf7aa2e6eac2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ragainė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Ragainė: mention_match, place, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Ragainė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89219"></a>
 - t-009
   global_id: t-89219
   teiginys: 'Skalvių vyresnieji, susirinkę į sueigą, nusprendė pasiųsti 400 rinktinių vyrų į žygį prieš Labguvos pilį.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako sprendimą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Labguva'
+  susije_objektai: 'mentioned_place: Labguva; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2e8dd04842d7728b6e5fd0952df2e2e30da85ee3613e503c423800ce8a00467d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Labguva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Labguva: mention_match, place, gap=91
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Labguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89220"></a>
 - t-010
@@ -117,6 +197,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   susije_objektai: 'mentioned_place: Nemunas'
   pagrindžia:
     - c-013
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 494189-494923; hash=6b6b8a645735a311dd6f39d6acb5502fb8ecc1800e0eacd803401ea92564b995; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skalva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Skalva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Skalva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89221"></a>
 - t-011
@@ -126,33 +216,73 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Nemunas'
   pagrindžia:
     - c-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 501194-501775; hash=847be5bc4e04d6d1c12f6beb0bd5079fbb4686d7f139e07fd0394badd8138dbd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skalva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Skalva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Skalva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89222"></a>
 - t-012
   global_id: t-89222
   teiginys: 'Dusburgietis Skalvos nusiaubimą aiškina kaip brolių kerštą skalviams už ankstesnį nusikaltimą.'
   sudarymo_pagrindimas: 'Teiginys apie autoriaus vertinimą, todėl tinka aiški atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija; mentioned_place: Skalva'
+  susije_objektai: 'mentioned_place: Skalva; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 556271-557027; hash=32cb761794572def9de817aa5c61bd12e1c05cb40cbce45806e1ed38cc5ff4a2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Austrija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-89223"></a>
 - t-013
   global_id: t-89223
   teiginys: 'Skalvos centras buvo Ragainė (dab.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Ragainė; mentioned_place: Skalva'
+  susije_objektai: 'mentioned_place: Ragainė; mentioned_place: Skalva; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a9ea29301fb0173409268b9364825afb6d1ffffef51f5c6e0b843e9e753c6913; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuršiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kuršiai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-89224"></a>
 - t-014
   global_id: t-89224
   teiginys: 'Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi antraštės triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Nadruva; mentioned_place: Semba; mentioned_place: Vėluva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Semba; mentioned_place: Vėluva; mentioned_place: Nadruva'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 494189-494923; hash=6b6b8a645735a311dd6f39d6acb5502fb8ecc1800e0eacd803401ea92564b995; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skalva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Skalva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Skalva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183897"></a>
 - t-015
@@ -165,6 +295,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Labguva'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 556271-557027; hash=32cb761794572def9de817aa5c61bd12e1c05cb40cbce45806e1ed38cc5ff4a2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183898"></a>
 - t-016
@@ -174,70 +314,43 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys yra silpnas fragmentas; citata remia pilną sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Svisdeta|Svisdeta]]; mentioned_place: Skalva; mentioned_place: Skalvos žemė'
+  susije_objektai: 'mentioned_place: Skalva; mentioned_place: Skalvos žemė; mentioned_person: [[objektai/asmenys/Svisdeta|Svisdeta]]'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2e8dd04842d7728b6e5fd0952df2e2e30da85ee3613e503c423800ce8a00467d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Labguva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Labguva: mention_match, place, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Labguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60004|Albrechtas iš Hageno]]: Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.
-- susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59880|Bertoldas, vadinamas Briuhavenu]]: 1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių.
-- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59838|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas magistro įsakymu su brolių ir tūkstančio vyrų pajėgomis užpuolė Ragainės pilies vietoje stovėjusią pilį.
-- susijęs iš [[objektai/asmenys/Jonas, vadinamas Pope.md#claim-t-184096|Jonas, vadinamas Pope]]: 1315 m. per lietuvių iš Žemaitijos Ragainės pilies užpuolimą buvo nukautas brolis Jonas, vadinamas Pope.
-- susijęs iš [[objektai/asmenys/Jonas, vadinamas Pope.md#claim-t-60351|Jonas, vadinamas Pope]]: 1315 m. per lietuvių iš Žemaitijos Ragainės pilies užpuolimą buvo nukautas brolis Jonas, vadinamas Pope.
 - susijęs iš [[objektai/asmenys/Konradas (Skalvių pilies gynėjas).md#claim-t-60478|Konradas (Skalvių pilies gynėjas)]]: Brolis Konradas su Albrechtu iš Hageno ir ginklanešiais apgynė Skalvių pilį nuo lietuvių karaliaus karių.
-- susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89917|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis subūrė 1500 raitelių, puolė Sasavos pilį, ją užėmė ir sudegino.
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59874|Meinhardas Saksas iš Kverfurto]]: 1289 m. balandžio 23 d. Meinhardas Saksas iš Kverfurto su kariuomene patraukė į Skalvą ir Nemuno pakrantėje pastatė Landeshutės pilį.
-- susijęs iš [[objektai/asmenys/Sarkis.md#claim-t-60064|Sarkis]]: Nelaisvėje Sarkis sutraukė pančius, nužudė vieną brolį ir tris ginklanešius, nukirto kitam ranką ir žuvo kovoje.
 - susijęs iš [[objektai/asmenys/Sarkis.md#claim-t-60065|Sarkis]]: Sarkis buvo galingas skalvių vyras ir Sarkų pilies pilininkas Lietuvos žemės pasienyje.
-- susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-184835|Surbantas]]: Skalvių didikas Surbantas, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.
-- susijęs iš [[objektai/asmenys/Surdeta.md#claim-t-184836|Surdeta]]: Skalvių didikas Surdeta, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.
-- susijęs iš [[objektai/asmenys/Svisdeta.md#claim-t-184839|Svisdeta]]: Skalvių didikas Svisdeta, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.
 - susijęs iš [[objektai/autoriai/M. Tepenas.md#claim-t-64745|M. Tepenas]]: M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, padarė išvadą, kad skalviai ir nadruviai buvo lietuviai.
 - susijęs iš [[objektai/autoriai/R. Jasas.md#claim-t-64830|R. Jasas]]: R. Jasas cituojamas tarp autorių, kurių darbai siejami su skalvių lietuviškumo klausimu.
-- susijęs iš [[objektai/daiktai/Pančiai.md#claim-t-59698|Pančiai]]: Sarkis pirmąją nelaisvės naktį sutraukė pančius, kuriais buvo pririštas prie medžio.
-- susijęs iš [[objektai/daiktai/Žuvų tvenkinys Ragainės pilyje.md#claim-t-59718|Žuvų tvenkinys Ragainės pilyje (pilis)]]: Ragainės pilies viduryje buvo maždaug 20 žingsnių ilgio ir beveik tokio pat pločio žuvų tvenkinys.
-- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88533|Bartai]]: Bartai buvo viena iš vakarinių baltų, arba prūsų, genčių, žinomų Rytprūsiuose.
-- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65558|Kuršiai]]: Skalviai prie Nemuno žemupio siejosi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.
 - susijęs iš [[objektai/grupes/Lamatiečiai.md#claim-t-59036|Lamatiečiai]]: Lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje, kartu su skalviais.
-- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65935|Nadruviai]]: M. Tepenas, remdamasis rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais.
 - susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65938|Nadruviai]]: Nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, tai yra vakarinių baltų.
 - susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65939|Nadruviai]]: Nadruviai, skalviai ir sūduviai įsibrovė į Sembą, ją nusiaubė ir pastatė Vėluvos pilį gynybai nuo brolių ir sembų.
 - susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65940|Nadruviai]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį prie Bartenšteino.
-- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175086|Sembai]]: Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175132|Sūduviai-jotvingiai]]: Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175135|Sūduviai-jotvingiai]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89235|Sūduviai]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.
 - susijęs iš [[objektai/ivykiai/Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis.md#claim-t-62763|Bysleidos pilies apgula ir daugiau kaip dviejų tūkstančių sūduvių žūtis (pilis)]]: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai puolė Bysleidos pilį Kartenės miške prie Bartenšteino.
-- susijęs iš [[objektai/ivykiai/Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.).md#claim-t-185559|Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)]]: Kryžiuočiai puolė Christmemelio pilį taranais ir strėlėmis, o į pagalbą iš Sembos skubėjęs būrys buvo sunaikintas.
 - susijęs iš [[objektai/ivykiai/Lietuvių nesėkmingas puolimas prieš Skalvių pilį (1293 m.).md#claim-t-185743|Lietuvių nesėkmingas puolimas prieš Skalvių pilį (1293 m.)]]: Lietuvių puolėjai pirmąjį staigų smūgį ketino nukreipti į Skalvių miestą ir pilį.
 - susijęs iš [[objektai/ivykiai/Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.).md#claim-t-183959|Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.)]]: 1295 m. rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius.
-- susijęs iš [[objektai/ivykiai/Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.).md#claim-t-62449|Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.)]]: 1295 m. birželio 19 d. lietuviai saloje prie Ragainės pilies pagrobė brolių žirgus ir galvijus.
 - susijęs iš [[objektai/ivykiai/Ragainės ir Skalvių pilių pastatymas.md#claim-t-62906|Ragainės ir Skalvių pilių pastatymas]]: Netrukus po Ragainės pastatymo brolis Meinhardas prie Nemuno pastatė Skalvių pilį atsivertusiems skalviams gyventi.
 - susijęs iš [[objektai/ivykiai/Ragainės ir Skalvių pilių pastatymas.md#claim-t-62907|Ragainės ir Skalvių pilių pastatymas]]: 1289 m. brolis Meinhardas Nemuno pakrantėje, skalvių žemėje, pastatė Landeshutės pilį, vėliau vadintą Ragaine.
 - susijęs iš [[objektai/ivykiai/Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.).md#claim-t-70964|Ragainės pilies puolimas ir Christmemelio apgultis (1315 m.)]]: 1315 m. apie rugpjūčio 15 d. lietuviai iš Žemaitijos užpuolė Ragainės pilį, nukovė brolį Joną Pope ir pasitraukdami sunaikino Ragainės bei Skalvių laukų pasėlius.
-- susijęs iš [[objektai/ivykiai/Ragainės pilies užpuolimas (1315 m. apie rugpjūčio 15 d.).md#claim-t-62452|Ragainės pilies užpuolimas (1315 m. apie rugpjūčio 15 d.)]]: 1315 m. apie rugpjūčio 15 d. lietuviai iš Žemaitijos slapta atžygiavo prie Ragainės pilies ir ją užpuolė.
 - susijęs iš [[objektai/ivykiai/Sembos nuniokojimas ir Vėluvos pilies pastatymas.md#claim-t-62918|Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)]]: Karaliaučiaus pastatymo metais nadruviai, skalviai ir sūduviai nuniokojo Sembą ir grįždami pastatė Vėluvos pilį.
 - susijęs iš [[objektai/ivykiai/Skalvių pilies puolimas (1293 m. žiema).md#claim-t-62921|Skalvių pilies puolimas (1293 m. žiema)]]: 1293 m. žiemą lietuvių karaliaus kariai puolė Skalvių pilį, nužudė brolį Liudviką Okse, bet pilies neužėmė.
-- susijęs iš [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti.md#claim-t-183984|Genties vyresniųjų sueiga karo sprendimui priimti]]: Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.
-- susijęs iš [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti.md#claim-t-62115|Genties vyresniųjų sueiga karo sprendimui priimti]]: Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.
-- susijęs iš [[objektai/posakiai/kol dar jiems bus likę kas daro.md#claim-t-59117|kol dar jiems bus likę kas daro]]: Užkariavę nadruvius, broliai nukreipė ginklus prieš skalvius, nes manė nieko nepasiekę, kol dar turėjo ką daryti.
-- susijęs iš [[objektai/posakiai/težino vienas dievas.md#claim-t-59160|težino vienas dievas]]: Petras Dusburgietis skalvių tvenkinio pokytį aiškino kaip vienam Dievui žinomą dalyką.
-- susijęs iš Pelplino analai: Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97.
-- susijęs iš Гуревич Ф. Д. Древний Новогрудок: F. D. Gurevič veikale „Древний Новогрудок“ Naugarduko pradžia datuojama X a. pabaiga.
-- susijęs iš Ткачоу М. А., Абарончыя: M. A. Ткачоу darbas „Абарончыя“ cituojamas dėl Naugarduko pilies ir jos papilio aprašymo, pateikto p. 42–52.
-- susijęs iš Ткачоу М. А., Замки: M. A. Ткачоу darbas „Замки“ cituojamas dėl Naugarduko pilies ir jos papilio aprašymo, pateikto p. 15–21.
-- susijęs iš Alna: A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos.
-- susijęs iš Bysleida: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.
 - susijęs iš Nadruva: Užkariavę nadruvius, Ordino broliai nukreipė ginklus prieš skalvius, kuriuos buvo galima pasiekti laivais Nemunu.
 - susijęs iš Nadruva: Po karo su nadruviais broliai nukreipė savo ginklus prieš skalvius, nes nadruviai gyveno toliau nuo Nemuno.
 - susijęs iš Nemunas: Į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gyveno skalviai ir lamatiečiai, o toliau į šiaurę, Klaipėdos apylinkėse, prasidėjo kuršių teritorija.
-- susijęs iš Nemunas: Brolis Ditrichas, sembų fogtas, su kariuomene įžengė į skalvių žemę abipus Nemuno ir užpuolė pilį, stovėjusią dabartinės Ragainės vietoje.
-- susijęs iš Nemunas: Kronikininkas, aprašęs kovas Skalvoje abipus Nemuno, pažymėjo, kad broliai daug kartų kariavo su skalviais.
-- susijęs iš Ragainė: Skalvių pilis Ragainėje, manoma, buvo piliakalnyje per 2 km į pietryčius nuo dabartinio miestelio.
-- susijęs iš Ragainė: Ordino pilis iš pradžių vadinta Landishute / Landeshute, o vėliau įsigalėjo baltiškasis Ragainės vardas.
-- susijęs iš Ragainė: Skalviai prie Ragainės ant kalno turėjo pilį, kurią siaubė didelė rutėnų kariuomenė.
-- susijęs iš Ragainė: Sembų fogtas brolis Ditrichas su broliais ir tūkstančiu vyrų užpuolė skalvių pilį toje vietoje, kur vėliau buvo Ragainės pilis.
-- susijęs iš Ragainė: 1289 m. brolis Meinhardas Nemuno pakrantėje pastatė Landeshutės pilį, kuri vėliau vadinta Ragaine.
-- susijęs iš Ragainė: Sekmadienį prieš Jonines lietuviai saloje prie Ragainės pilies pagrobė visus brolių žirgus ir galvijus.
-- susijęs iš Ragainė: 1315 m. apie Žolinę lietuviai iš Žemaitijos slaptai ir netikėtai atžygiavo prie Ragainės pilies ir ją užpuolė.
 - susijęs iš Ragainė: Tų pačių metų rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius.
 - susijęs iš Skalva: Pirmasis staigus smūgis buvo planuotas prieš Skalvių miestą ir pilį.
 - susijęs iš Skalva: Užkariavę nadruvius, Ordino broliai nukreipė ginklus prieš skalvius.
@@ -251,14 +364,51 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 - susijęs iš Skalvių pilis (pilis, XIII a.): 1289 m. brolis Meinhardas prie Nemuno pastatė Ragainės pilį, o netrukus žemiau prie Nemuno pastatė Skalvių pilį.
 - susijęs iš Skalvos žemė: Skalvių žemė buvo abiejose Nemuno pusėse.
 - susijęs iš Skalvos žemė: Užkariavę nadruvius, Ordino broliai nukreipė ginklus prieš Skalvos žemės gyventojus skalvius.
+- susijęs iš [[objektai/zodynas/ginklanešiai.md#claim-t-175170|ginklanešiai]]: 1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį.
+- susijęs iš [[objektai/zodynas/ginklanešys.md#claim-t-175176|ginklanešys]]: 1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį.
+- susijęs iš [[objektai/zodynas/vakariniai baltai.md#claim-t-70378|vakariniai baltai]]: Prie vakarinių baltų priskiriami prūsai, kuršiai, nadruviai ir skalviai, o dalis jų XIV–XVI a. sulietuvėjo.
+- susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59880|Bertoldas, vadinamas Briuhavenu]]: 1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių.
+- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59838|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas magistro įsakymu su brolių ir tūkstančio vyrų pajėgomis užpuolė Ragainės pilies vietoje stovėjusią pilį.
+- susijęs iš [[objektai/asmenys/Jonas, vadinamas Pope.md#claim-t-184096|Jonas, vadinamas Pope]]: 1315 m. per lietuvių iš Žemaitijos Ragainės pilies užpuolimą buvo nukautas brolis Jonas, vadinamas Pope.
+- susijęs iš [[objektai/asmenys/Jonas, vadinamas Pope.md#claim-t-60351|Jonas, vadinamas Pope]]: 1315 m. per lietuvių iš Žemaitijos Ragainės pilies užpuolimą buvo nukautas brolis Jonas, vadinamas Pope.
+- susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89917|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis subūrė 1500 raitelių, puolė Sasavos pilį, ją užėmė ir sudegino.
+- susijęs iš [[objektai/asmenys/Sarkis.md#claim-t-60064|Sarkis]]: Nelaisvėje Sarkis sutraukė pančius, nužudė vieną brolį ir tris ginklanešius, nukirto kitam ranką ir žuvo kovoje.
+- susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-184835|Surbantas]]: Skalvių didikas Surbantas, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.
+- susijęs iš [[objektai/asmenys/Surdeta.md#claim-t-184836|Surdeta]]: Skalvių didikas Surdeta, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.
+- susijęs iš [[objektai/asmenys/Svisdeta.md#claim-t-184839|Svisdeta]]: Skalvių didikas Svisdeta, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.
+- susijęs iš [[objektai/daiktai/Pančiai.md#claim-t-59698|Pančiai]]: Sarkis pirmąją nelaisvės naktį sutraukė pančius, kuriais buvo pririštas prie medžio.
+- susijęs iš [[objektai/daiktai/Žuvų tvenkinys Ragainės pilyje.md#claim-t-59718|Žuvų tvenkinys Ragainės pilyje (pilis)]]: Ragainės pilies viduryje buvo maždaug 20 žingsnių ilgio ir beveik tokio pat pločio žuvų tvenkinys.
+- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88533|Bartai]]: Bartai buvo viena iš vakarinių baltų, arba prūsų, genčių, žinomų Rytprūsiuose.
+- susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65558|Kuršiai]]: Skalviai prie Nemuno žemupio siejosi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių.
+- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65935|Nadruviai]]: M. Tepenas, remdamasis rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais.
+- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175086|Sembai]]: Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių.
+- susijęs iš [[objektai/ivykiai/Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.).md#claim-t-185559|Christmemelio pilies apgultis ir Vytenio paskutinis žygis į Prūsiją (1315 m.)]]: Kryžiuočiai puolė Christmemelio pilį taranais ir strėlėmis, o į pagalbą iš Sembos skubėjęs būrys buvo sunaikintas.
+- susijęs iš [[objektai/ivykiai/Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.).md#claim-t-62449|Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.)]]: 1295 m. birželio 19 d. lietuviai saloje prie Ragainės pilies pagrobė brolių žirgus ir galvijus.
+- susijęs iš [[objektai/ivykiai/Ragainės pilies užpuolimas (1315 m. apie rugpjūčio 15 d.).md#claim-t-62452|Ragainės pilies užpuolimas (1315 m. apie rugpjūčio 15 d.)]]: 1315 m. apie rugpjūčio 15 d. lietuviai iš Žemaitijos slapta atžygiavo prie Ragainės pilies ir ją užpuolė.
+- susijęs iš [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti.md#claim-t-183984|Genties vyresniųjų sueiga karo sprendimui priimti]]: Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.
+- susijęs iš [[objektai/paprociai/Genties vyresniųjų sueiga karo sprendimui priimti.md#claim-t-62115|Genties vyresniųjų sueiga karo sprendimui priimti]]: Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų.
+- susijęs iš [[objektai/posakiai/kol dar jiems bus likę kas daro.md#claim-t-59117|kol dar jiems bus likę kas daro]]: Užkariavę nadruvius, broliai nukreipė ginklus prieš skalvius, nes manė nieko nepasiekę, kol dar turėjo ką daryti.
+- susijęs iš [[objektai/posakiai/težino vienas dievas.md#claim-t-59160|težino vienas dievas]]: Petras Dusburgietis skalvių tvenkinio pokytį aiškino kaip vienam Dievui žinomą dalyką.
+- susijęs iš Pelplino analai: Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97.
+- susijęs iš Гуревич Ф. Д. Древний Новогрудок: F. D. Gurevič veikale „Древний Новогрудок“ Naugarduko pradžia datuojama X a. pabaiga.
+- susijęs iš Ткачоу М. А., Абарончыя: M. A. Ткачоу darbas „Абарончыя“ cituojamas dėl Naugarduko pilies ir jos papilio aprašymo, pateikto p. 42–52.
+- susijęs iš Ткачоу М. А., Замки: M. A. Ткачоу darbas „Замки“ cituojamas dėl Naugarduko pilies ir jos papilio aprašymo, pateikto p. 15–21.
+- susijęs iš Alna: A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos.
+- susijęs iš Bysleida: Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino.
+- susijęs iš Nemunas: Brolis Ditrichas, sembų fogtas, su kariuomene įžengė į skalvių žemę abipus Nemuno ir užpuolė pilį, stovėjusią dabartinės Ragainės vietoje.
+- susijęs iš Nemunas: Kronikininkas, aprašęs kovas Skalvoje abipus Nemuno, pažymėjo, kad broliai daug kartų kariavo su skalviais.
+- susijęs iš Ragainė: Skalvių pilis Ragainėje, manoma, buvo piliakalnyje per 2 km į pietryčius nuo dabartinio miestelio.
+- susijęs iš Ragainė: Ordino pilis iš pradžių vadinta Landishute / Landeshute, o vėliau įsigalėjo baltiškasis Ragainės vardas.
+- susijęs iš Ragainė: Skalviai prie Ragainės ant kalno turėjo pilį, kurią siaubė didelė rutėnų kariuomenė.
+- susijęs iš Ragainė: Sembų fogtas brolis Ditrichas su broliais ir tūkstančiu vyrų užpuolė skalvių pilį toje vietoje, kur vėliau buvo Ragainės pilis.
+- susijęs iš Ragainė: 1289 m. brolis Meinhardas Nemuno pakrantėje pastatė Landeshutės pilį, kuri vėliau vadinta Ragaine.
+- susijęs iš Ragainė: Sekmadienį prieš Jonines lietuviai saloje prie Ragainės pilies pagrobė visus brolių žirgus ir galvijus.
+- susijęs iš Ragainė: 1315 m. apie Žolinę lietuviai iš Žemaitijos slaptai ir netikėtai atžygiavo prie Ragainės pilies ir ją užpuolė.
 - susijęs iš Vėluva: Nadruviai, skalviai ir sūduviai pastatė Vėluvos pilį, siekdami trukdyti broliams ir sembams brautis į Nadruvą.
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-58812|fogtas]]: Sembų fogtas Ditrichas magistro įsakymu su broliais ir tūkstančiu vyrų atplaukė pulti Ragainės pilies.
-- susijęs iš [[objektai/zodynas/ginklanešiai.md#claim-t-175170|ginklanešiai]]: 1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį.
 - susijęs iš [[objektai/zodynas/ginklanešiai.md#claim-t-175171|ginklanešiai]]: Ragainės piliai ginti Meinhardas paliko 40 brolių ir šimtą rinktinių ginklanešių.
-- susijęs iš [[objektai/zodynas/ginklanešys.md#claim-t-175176|ginklanešys]]: 1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį.
 - susijęs iš [[objektai/zodynas/ginklanešys.md#claim-t-175177|ginklanešys]]: Ragainės piliai ginti Meinhardas paliko 40 brolių ir šimtą rinktinių ginklanešių.
 - susijęs iš [[objektai/zodynas/vakariniai baltai.md#claim-t-70377|vakariniai baltai]]: Šio leidimo aiškinime nadruviai, skalviai ir kuršiai priskiriami prie vakarinių baltų.
-- susijęs iš [[objektai/zodynas/vakariniai baltai.md#claim-t-70378|vakariniai baltai]]: Prie vakarinių baltų priskiriami prūsai, kuršiai, nadruviai ir skalviai, o dalis jų XIV–XVI a. sulietuvėjo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -288,6 +438,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a9ea29301fb0173409268b9364825afb6d1ffffef51f5c6e0b843e9e753c6913; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuršiai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kuršiai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Kuršiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
 
 - c-003
@@ -308,7 +468,27 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 195718-196028; hash=0db63b56a64bf4947c7b5d6e9b5359acd0eb48cf4aa4122351f8da2fb5b2d41e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ragainė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Ragainė: mention_match, place, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Ragainė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2e8dd04842d7728b6e5fd0952df2e2e30da85ee3613e503c423800ce8a00467d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Labguva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Labguva: mention_match, place, gap=91
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Labguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-015
 
 - c-004
@@ -333,7 +513,27 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 556271-557027; hash=32cb761794572def9de817aa5c61bd12e1c05cb40cbce45806e1ed38cc5ff4a2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=44e583c468a3aa40c211ae5fa1951ad85790209edf753530b77078d945d6d80f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-005
@@ -354,6 +554,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=25672d73b2bb8c3bbf055b7ccfa26890d09f1e2f3b15366f5e09e3ddbe9d5cd7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Semba: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-014
 
 - c-006
@@ -370,6 +580,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 494189-494923; hash=6b6b8a645735a311dd6f39d6acb5502fb8ecc1800e0eacd803401ea92564b995; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skalva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Skalva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Skalva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-007
@@ -389,7 +609,27 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 171114-171425; hash=742209a01cb347039e77322499734830e260d6b36585ccdab991ec5ad17a9179; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: gyveno -> Nemunas: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_residence_local_place
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=24
+  ryšio_targeto_parinkimas: Nemunas: nearest_after_predicate, place, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_residence_local_place". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip nearest_after_predicate aplink predikatą "gyveno". Patikimumą lėmė: owner_before_predicate, single_candidate_target, target_after_predicate, same_sentence_locality.
     - t-012
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 556271-557027; hash=32cb761794572def9de817aa5c61bd12e1c05cb40cbce45806e1ed38cc5ff4a2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Austrija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Austrija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Austrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-008
@@ -405,6 +645,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a8a8f60cc60404e7fb78a79f5f0cd3c67afa3b34c71cd81ae8e954ecdd67150b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Latviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Latviai: mention_match, group, gap=105
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-009
@@ -423,7 +673,27 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=84dcca443a624e09697af20fb0cb02f3de0aecb1aacf53998e31cf7aa2e6eac2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ragainė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Ragainė: mention_match, place, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Ragainė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 196324-196661; hash=a0d290762a49975ffb60824365f91790d48616139ba57cf95cf53b62e0f27cc0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nemunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Nemunas: mention_match, place, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-016
 
 - c-010
@@ -439,7 +709,27 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2e8dd04842d7728b6e5fd0952df2e2e30da85ee3613e503c423800ce8a00467d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Labguva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Labguva: mention_match, place, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Labguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-011
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 501194-501775; hash=847be5bc4e04d6d1c12f6beb0bd5079fbb4686d7f139e07fd0394badd8138dbd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skalva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Skalva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Skalva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-011
@@ -455,6 +745,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=84dcca443a624e09697af20fb0cb02f3de0aecb1aacf53998e31cf7aa2e6eac2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ragainė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Ragainė: mention_match, place, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Ragainė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-012
@@ -469,6 +769,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=25672d73b2bb8c3bbf055b7ccfa26890d09f1e2f3b15366f5e09e3ddbe9d5cd7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Semba: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Semba: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Semba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-013
@@ -484,6 +794,16 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   statusas: verified
   pagrindžia:
     - t-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 494189-494923; hash=6b6b8a645735a311dd6f39d6acb5502fb8ecc1800e0eacd803401ea92564b995; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Skalva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Skalviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Skalva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Skalviai" parinktas kaip owner_note_path. Targetas "Skalva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Skalviai gyveno [[objektai/vietos/Nemunas]]

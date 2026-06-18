@@ -36,18 +36,38 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Deimena; mentioned_place: Prūsai; mentioned_place: Vangrapė'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 9254-9736; hash=5f2c44377ba69a6305b37fa4c00624f3fd9473aa0a49e60f0e6fd1848c95b370; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Deimena: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prieglius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Deimena: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prieglius" parinktas kaip owner_note_path. Targetas "Deimena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58369"></a>
 - t-002
   global_id: t-58369
   teiginys: 'Jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiesiogiai paremtas citata apie Vėluvos pilį prie Priegliaus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Vėluva'
+  susije_objektai: 'object: Vėluva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Vėluva'
   temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiesiogiai paremtas citata apie Vėluvos pilį prie Priegliaus.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=14c709d8903f18c2c6d494b516f1feea206497e3f79263f593d72c14e15dd4b4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: apgule -> Vėluva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_siege_local_target
+  ryšio_subjekto_parinkimas: Lietuviai: nearest_actor, group, gap=20
+  ryšio_targeto_parinkimas: Vėluva: nearest_after_predicate, place, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_siege_local_target". Subjektas "Lietuviai" parinktas kaip nearest_actor. Targetas "Vėluva" parinktas kaip nearest_after_predicate aplink predikatą "apgule". Patikimumą lėmė: target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58370"></a>
 - t-003
@@ -60,6 +80,16 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, subjektą ir teritorinį reikalavimą iki Priegliaus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8251527ba1629d03e2883b43b4a990da3bc2feea99f76dcff2c62c58cfcd2834; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prieglius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prieglius" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58371"></a>
 - t-004
@@ -68,6 +98,16 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   sudarymo_pagrindimas: 'Citata palaiko faktą apie vietą prie Priegliaus, nors miesto pavadinimo joje nėra.'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=780844459df274d4c685df68fbdbeeb36f113e2453bed254eb6cd7038e9e427b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prieglius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kuorai: mention_match, thing, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prieglius" parinktas kaip owner_note_path. Targetas "Kuorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58372"></a>
 - t-005
@@ -77,11 +117,31 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 395043-395266; hash=106c61f44145b46f9d307aead9e54d6ef1ad46aeda86218de4c55082d07f98c1; match=exact
+  sprendimo_priezastis: auto
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78406|Notangai]]: Notangai gyveno Notangoje, teritorijoje į rytus nuo Varmės, siekusioje Priegliaus pakrantes ir Alnos upę.
+- susijęs iš Vėluva: Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10072|Algirdas (Lietuvos valdovas)]]: Tose pačiose derybose Algirdas reikalavo sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos, Priegliaus ir Dauguvos.
+- susijęs iš [[objektai/daiktai/Tiltas per Prieglių.md#claim-t-59708|Tiltas per Prieglių]]: Prūsai pastatė tiltą per Prieglių su tvirtais kuorais abiejuose galuose, siekdami trukdyti broliams plukdyti reikmenis į Karaliaučiaus pilį.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78406|Notangai]]: Notangai gyveno Notangoje, teritorijoje į rytus nuo Varmės, siekusioje Priegliaus pakrantes ir Alnos upę.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175106|Sūduviai-jotvingiai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89234|Sūduviai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
+- susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-59179|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Per Karaliaučiaus apgultį broliai po kovos išardė ir sunaikino prūsų pastatytą tiltą per Prieglių bei jo kuorus.
+- susijęs iš [[objektai/ivykiai/Karolio IV krikšto bandymas Lietuvoje (1358 m.).md#claim-t-31426|Karolio IV krikšto bandymas Lietuvoje (1358 m.)]]: Lietuvos kunigaikščiai krikštui kėlė sąlygą, kad kryžiuočių ordinas grąžintų užimtas žemes tarp Alnos, Priegliaus ir Dauguvos.
+- susijęs iš [[objektai/ivykiai/Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.).md#claim-t-62858|Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.)]]: 1358 m. Lietuvos vyriausybė derybose su imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos, Priegliaus žemupio ir jūros.
+- susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.).md#claim-t-07571|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]: Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko iš Lenkijos į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse.
+- susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis.md#claim-t-01893|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]: Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse.
+- susijęs iš [[objektai/paprociai/Karaliaučiaus pilies blokada kuorais, laivais ir tiltu.md#claim-t-62680|Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)]]: Prūsai pastatė tiltą per Priegliaus upę ir įrengė kuorus, siekdami trukdyti reikmenų gabenimui į Karaliaučiaus pilį.
+- susijęs iš Savukynas B. Dėl M. Rudnickio Galindos, Priegliaus ir Sūduvos etimologinių aiškinimų: B. Savukyno straipsnis „Dėl M. Rudnickio Galindos, Priegliaus ir Sūduvos etimologinių aiškinimų“ paskelbtas 1963 m.
+- susijęs iš Alna: 1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros.
+- susijęs iš Bartos žemė: Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos.
+- susijęs iš Deimena: Lietuvos prekės iš Nemuno per Giliją ir Kuršmares buvo plukdomos Deimena pro Labguvą į Prieglių.
+- susijęs iš Notanga: Notanga šiaurės rytuose siekė Unzatrapio žemę prie Priegliaus ir Alnos santakos.
+- susijęs iš Tepliava: Tepliava buvo Deimenos ir Priegliaus santakoje, o 1265 m. Ordinas čia pastatė savo pilį.
+- susijęs iš Vysla: Brunonas išplaukė Vysla į jūrą ir priplaukė krantą Priegliaus žiotyse.
+- susijęs iš Vėluva: Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10071|Algirdas (Lietuvos valdovas)]]: 1358 m. derybose su Šv. Romos imperatoriumi Karoliu IV Algirdas reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10072|Algirdas (Lietuvos valdovas)]]: Tose pačiose derybose Algirdas reikalavo sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos, Priegliaus ir Dauguvos.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176301|Algirdas (Lietuvos valdovas)]]: Algirdas 1358 m. derybose su Karoliu IV reikalavo iškelti kryžiuočius į rytų stepes ir sugrąžinti Lietuvai vakarines baltų žemes.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175191|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175194|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę ir 1263 m. mūšio lauke sutriuškino kryžiuočius.
@@ -93,46 +153,28 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 - susijęs iš [[objektai/autoriai/A. Becenbergeris.md#claim-t-56717|A. Becenbergeris]]: A. Becenbergeris šiame šaltinyje pristatomas kaip tyrinėtojas, nustatęs lietuvių ir prūsų kalbinę ribą pagal vietovardžių paplitimą.
 - susijęs iš [[objektai/autoriai/A. Becenbergeris.md#claim-t-56719|A. Becenbergeris]]: A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos.
 - susijęs iš [[objektai/autoriai/Friederici W.md#claim-t-60700|Friederici W]]: W. Friederici darbas „Über die Lage Romow’s...“ cituojamas siejant Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen su Kriviu ir Romuva.
-- susijęs iš [[objektai/daiktai/Tiltas per Prieglių.md#claim-t-59708|Tiltas per Prieglių]]: Prūsai pastatė tiltą per Prieglių su tvirtais kuorais abiejuose galuose, siekdami trukdyti broliams plukdyti reikmenis į Karaliaučiaus pilį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178839|Kryžiuočių ordinas]]: Klaipėdos pilis beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.
 - susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65937|Nadruviai]]: Viduryje Nadruva priklausė, atrodo, Mindaugo Lietuvai.
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78406|Notangai]]: Notangai gyveno Notangoje, teritorijoje į rytus nuo Varmės, siekusioje Priegliaus pakrantes ir Alnos upę.
-- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175106|Sūduviai-jotvingiai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
-- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89234|Sūduviai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171409|Totoriai]]: Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171426|Totoriai]]: Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių.
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78546|Varmiai]]: Varmės vardas greičiausiai yra upėvardinės kilmės, plg.
 - susijęs iš [[objektai/ivykiai/Kapstetos pilies paėmimas Vonsdorfo žemėje.md#claim-t-91914|Kapstetos pilies paėmimas Vonsdorfo žemėje]]: Karaliaučiaus komtūras su sembų kariuomene įsiveržė į Vonsdorfo žemę, užėmė Kapstetos pilį, ją sudegino ir nusiaubė kraštą.
-- susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-59179|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Per Karaliaučiaus apgultį broliai po kovos išardė ir sunaikino prūsų pastatytą tiltą per Prieglių bei jo kuorus.
 - susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-59182|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Sembai netikėtai užpuolė prie Karaliaučiaus pilies įkurtą miestą, jį sugriovė, o dalį žmonių paėmė į nelaisvę arba išžudė.
-- susijęs iš [[objektai/ivykiai/Karolio IV krikšto bandymas Lietuvoje (1358 m.).md#claim-t-31426|Karolio IV krikšto bandymas Lietuvoje (1358 m.)]]: Lietuvos kunigaikščiai krikštui kėlė sąlygą, kad kryžiuočių ordinas grąžintų užimtas žemes tarp Alnos, Priegliaus ir Dauguvos.
-- susijęs iš [[objektai/ivykiai/Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.).md#claim-t-62858|Lietuvos derybos su Karoliu IV dėl Ordino užgrobtų žemių grąžinimo (1358 m.)]]: 1358 m. Lietuvos vyriausybė derybose su imperatoriumi Karoliu IV reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos, Priegliaus žemupio ir jūros.
-- susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.).md#claim-t-07571|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]: Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko iš Lenkijos į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse.
 - susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.).md#claim-t-07572|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (997 m.)]]: Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės.
-- susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis.md#claim-t-01893|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]: Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse.
 - susijęs iš [[objektai/ivykiai/Šv. Vaitiekaus misija į aisčių kraštą ir žūtis.md#claim-t-01895|Šv. Vaitiekaus misija į aisčių kraštą ir žūtis (kraštas)]]: Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės.
 - susijęs iš [[objektai/paprociai/Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną.md#claim-t-59725|Baltų jungtiniai karo veiksmai prieš Kryžiuočių ordiną]]: Sembų ir lietuvių bendri karo veiksmai siejami su Ordinui priklausiusios Klaipėdos pilies apgultimi XIII a. šeštajame dešimtmetyje.
-- susijęs iš [[objektai/paprociai/Karaliaučiaus pilies blokada kuorais, laivais ir tiltu.md#claim-t-62680|Karaliaučiaus pilies blokada kuorais, laivais ir tiltu (pilis)]]: Prūsai pastatė tiltą per Priegliaus upę ir įrengė kuorus, siekdami trukdyti reikmenų gabenimui į Karaliaučiaus pilį.
-- susijęs iš Savukynas B. Dėl M. Rudnickio Galindos, Priegliaus ir Sūduvos etimologinių aiškinimų: B. Savukyno straipsnis „Dėl M. Rudnickio Galindos, Priegliaus ir Sūduvos etimologinių aiškinimų“ paskelbtas 1963 m.
 - susijęs iš W. Friederici, Über die Lage Romow’s: W. Friederici darbe minimas bandymas sieti Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen su Kriviu ir Romove arba Romuva.
 - susijęs iš Aistmarios: Hermano Wartberges kronikoje aprašyta siena Priegliumi turėjo eiti iki Aistmarių.
-- susijęs iš Alna: 1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros.
 - susijęs iš Alna: A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos.
 - susijęs iš Auksinė: Auksinės apylinkės siejamos su pagonišku kultu, remiantis vietovardžiais Juodkapis, Sernupė ir galbūt Auksinės upės vardu.
 - susijęs iš Barta: 1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtą Bartą ir kitas žemes.
-- susijęs iš Bartos žemė: Lietuva siekė atgauti Bartą, Nadruvą, Sembą, Kuršą, Žiemgalą, Latgalą ir Baltijos pajūrį tarp Priegliaus ir Dauguvos.
-- susijęs iš Deimena: Lietuvos prekės iš Nemuno per Giliją ir Kuršmares buvo plukdomos Deimena pro Labguvą į Prieglių.
 - susijęs iš Klaipėda: Klaipėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą.
 - susijęs iš Klaipėda: Žemaičiai, laikydami savo įtakoje pajūrio plotą, netrukus ėmė puldinėti Klaipėdą.
 - susijęs iš Lamata: Lamata buvo į šiaurę nuo Nemuno žemupio, tikriausiai tarp Skalvos ir Kuršo.
 - susijęs iš Nadruva: Nadruva plytėjo į rytus ir pietryčius nuo Sembos, iki Šešupės vidupio, Vištyčio ežero ir Geldapės upės.
 - susijęs iš Neidenburgas: Kęstutis per kitą žygį iš Neidenburgo parsigabeno 800 vyrų, kurie labiau troško mirti negu būti lietuvių nelaisvėje.
-- susijęs iš Notanga: Notanga šiaurės rytuose siekė Unzatrapio žemę prie Priegliaus ir Alnos santakos.
 - susijęs iš Rausvė: A. Mežinskis manė, kad Romovė galėjusi būti ir prie Rausvės.
-- susijęs iš Tepliava: Tepliava buvo Deimenos ir Priegliaus santakoje, o 1265 m. Ordinas čia pastatė savo pilį.
 - susijęs iš Unzatrapio žemė: Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.
-- susijęs iš Vysla: Brunonas išplaukė Vysla į jūrą ir priplaukė krantą Priegliaus žiotyse.
-- susijęs iš Vėluva: Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-58789|kuoras propugnaculum pilaitė]]: Prūsai abiejuose per Prieglių pastatyto tilto galuose įrengė tvirtus kuorus.
 ## Reikšmingi paminėjimai
 
@@ -170,6 +212,16 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8251527ba1629d03e2883b43b4a990da3bc2feea99f76dcff2c62c58cfcd2834; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prieglius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prieglius" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-003
@@ -193,6 +245,16 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 9254-9736; hash=5f2c44377ba69a6305b37fa4c00624f3fd9473aa0a49e60f0e6fd1848c95b370; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Deimena: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prieglius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Deimena: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prieglius" parinktas kaip owner_note_path. Targetas "Deimena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
 
 - c-004
@@ -210,6 +272,9 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 395043-395266; hash=106c61f44145b46f9d307aead9e54d6ef1ad46aeda86218de4c55082d07f98c1; match=exact
+  sprendimo_priezastis: auto
     - t-002
 
 - c-005
@@ -229,10 +294,32 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=14c709d8903f18c2c6d494b516f1feea206497e3f79263f593d72c14e15dd4b4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: apgule -> Vėluva: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_siege_local_target
+  ryšio_subjekto_parinkimas: Lietuviai: nearest_actor, group, gap=20
+  ryšio_targeto_parinkimas: Vėluva: nearest_after_predicate, place, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_siege_local_target". Subjektas "Lietuviai" parinktas kaip nearest_actor. Targetas "Vėluva" parinktas kaip nearest_after_predicate aplink predikatą "apgule". Patikimumą lėmė: target_after_predicate, same_sentence_locality.
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 395043-395266; hash=106c61f44145b46f9d307aead9e54d6ef1ad46aeda86218de4c55082d07f98c1; match=exact
+  sprendimo_priezastis: auto
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=780844459df274d4c685df68fbdbeeb36f113e2453bed254eb6cd7038e9e427b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kuorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prieglius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kuorai: mention_match, thing, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prieglius" parinktas kaip owner_note_path. Targetas "Kuorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/grupes/Notangai]] gyveno Prieglius
-- [[objektai/grupes/Sūduviai]] puole Prieglius
-- [[objektai/grupes/Sūduviai-jotvingiai]] puole Prieglius
+- [[objektai/grupes/Lietuviai]] apgule Prieglius

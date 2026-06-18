@@ -46,7 +46,7 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   global_id: t-82100
   teiginys: 'Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva; mentioned_place: Petrapilis; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva; mentioned_place: Petrapilis; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1581 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir paremtas citata.'
@@ -60,6 +60,9 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   sudarymo_pagrindimas: 'Pradinis teiginys buvo perteklinis; citata palaiko glaustesnę vieno sakinio formą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fd71ee642969fd563fd99478f2125d398f2723ba4d0d976af45fe05a13b6f9f4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-82102"></a>
 - t-004
@@ -68,6 +71,9 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis ir pašalintas šalutinis kontekstinis paaiškinimas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a2382d143e074f335d36115119d6179cec84b324746f16337fada0aa4788edc5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-182982"></a>
 - t-005
@@ -80,28 +86,38 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva; mentioned_place: Petrapilis; mentioned_place: Rusija'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fd71ee642969fd563fd99478f2125d398f2723ba4d0d976af45fe05a13b6f9f4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: tribunolas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tribunolas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Vyriausiasis Lietuvos tribunolas.md#claim-t-113374|Vyriausiasis Lietuvos tribunolas]]: 1785 m. kovo 14 d. Vyriausiasis Lietuvos tribunolas Vilniuje pavedė Pabaisko bažnyčios fundacijos privilegiją įrašyti į Tribunolo viešąsias knygas.
+- susijęs iš [[objektai/grupes/Vyriausiasis Lietuvos tribunolas.md#claim-t-113375|Vyriausiasis Lietuvos tribunolas]]: Steponui Batorui 1578 m. Lenkijoje įkūrus bajorijos renkamą tribunolą, netrukus toks tribunolas buvo įsteigtas ir Lietuvoje.
+- susijęs iš [[objektai/ivykiai/Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.).md#claim-t-66984|Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)]]: Vyriausiasis Lietuvos tribunolas buvo svarstytas keliuose Lietuvos seimuose ir galutinai įkurtas 1581 m.
+- susijęs iš [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose.md#claim-t-02047|Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]: Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m., o jo teisėjais buvo visų seimelių renkami bajorijos atstovai.
+- susijęs iš Stepono Batoro valdymas: 1581 m. Vilniuje iškilmingai įvesdintas Lietuvos Tribunolas išlaisvino karalių nuo varginančių pareigų.
+- susijęs iš Vyriausias Lietuvos Tribunolas XVI-XVIII amž: „Vyriausias Lietuvos Tribunolas XVI-XVIII amž.“ buvo paminėtas tarp gausių autoriaus raštų ir datuotas 1927 m.
+- susijęs iš Vilnius: 1581 m. Vilniuje įvesdintas Lietuvos Tribunolas miestui suteikė daugiau orumo ir naudos.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103038|Jurgis Radvila (vyskupas, XVI a.)]]: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103050|Jurgis Radvila (vyskupas, XVI a.)]]: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
 - susijęs iš [[objektai/autoriai/A. Janulaitis.md#claim-t-100104|A. Janulaitis]]: Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936).
 - susijęs iš [[objektai/autoriai/Aug. Janulaitis.md#claim-t-30563|Aug. Janulaitis]]: Aug. Janulaitis, surinkęs daug archyvinės medžiagos, parašė veikalą „Lietuvos bajorai ir jų seimeliai 1795-1863“.
 - susijęs iš [[objektai/autoriai/Ignacas Onacevičius.md#claim-t-81906|Ignacas Onacevičius]]: Profesorius Onacevičius 1823 m. Varšuvoje išleido Albertrandžio rankraščiais paremtą veikalą „Stepono Batoro valdymas“.
 - susijęs iš [[objektai/grupes/Lietuvos Karininkų Ramovė.md#claim-t-31288|Lietuvos Karininkų Ramovė]]: Lietuvos Karininkų Ramovės iniciatyva Janulaitis parašė plačią monografiją apie Kęstutį, bet ją išspausdinti sutrukdė 1940 m. įvykiai.
-- susijęs iš [[objektai/grupes/Vyriausiasis Lietuvos tribunolas.md#claim-t-113374|Vyriausiasis Lietuvos tribunolas]]: 1785 m. kovo 14 d. Vyriausiasis Lietuvos tribunolas Vilniuje pavedė Pabaisko bažnyčios fundacijos privilegiją įrašyti į Tribunolo viešąsias knygas.
-- susijęs iš [[objektai/grupes/Vyriausiasis Lietuvos tribunolas.md#claim-t-113375|Vyriausiasis Lietuvos tribunolas]]: Steponui Batorui 1578 m. Lenkijoje įkūrus bajorijos renkamą tribunolą, netrukus toks tribunolas buvo įsteigtas ir Lietuvoje.
-- susijęs iš [[objektai/ivykiai/Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.).md#claim-t-66984|Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)]]: Vyriausiasis Lietuvos tribunolas buvo svarstytas keliuose Lietuvos seimuose ir galutinai įkurtas 1581 m.
 - susijęs iš [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas.md#claim-t-183823|Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]: LDK Vyriausiasis Tribunolas priėmė fundacijos privilegiją ir pavedė ją žodis žodin įrašyti į viešųjų reikalų knygas.
-- susijęs iš [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose.md#claim-t-02047|Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]: Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m., o jo teisėjais buvo visų seimelių renkami bajorijos atstovai.
 - susijęs iš Lietuvos bajorai ir jų seimeliai 1795-1863: Janulaitis, surinkęs daug archyvinės medžiagos, 1936 m. parašė veikalą „Lietuvos bajorai ir jų seimeliai 1795-1863“.
 - susijęs iš Napoleono teisynas: Augustinas Janulaitis „Napoleono teisyną“ paskelbė 1930 m.
 - susijęs iš Napoleono teisynas: „Napoleono teisynas“ buvo išleistas 1930 m.
-- susijęs iš Stepono Batoro valdymas: 1581 m. Vilniuje iškilmingai įvesdintas Lietuvos Tribunolas išlaisvino karalių nuo varginančių pareigų.
 - susijęs iš Užnemunė po Prūsais 1795-1807: Augustino Janulaičio raštas „Užnemunė po Prūsais 1795-1807“ paminėtas tarp jo darbų su 1928 m. data.
 - susijęs iš Užnemunė po Prūsais 1795-1807: „Užnemunė po Prūsais 1795-1807“ išleista 1928 m.
 - susijęs iš Vilniaus universiteto fundacijos privilegijos ir popiežiaus bulė: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
-- susijęs iš Vyriausias Lietuvos Tribunolas XVI-XVIII amž: „Vyriausias Lietuvos Tribunolas XVI-XVIII amž.“ buvo paminėtas tarp gausių autoriaus raštų ir datuotas 1927 m.
 - susijęs iš Žydai Lietuvoje: „Žydai Lietuvoje“ yra vienas iš paminėtų Janulaičio raštų, išleistų 1923 m.
 - susijęs iš Gardinas: XVIII a. tribunolas rinkdavosi tik Vilniuje ir Gardine.
-- susijęs iš Vilnius: 1581 m. Vilniuje įvesdintas Lietuvos Tribunolas miestui suteikė daugiau orumo ir naudos.
 - susijęs iš Vilnius: 1544 m. Zigmantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir gavo valdžią Lietuvoje.
 - susijęs iš [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės.md#claim-t-86481|lotyniškos teismo ir dokumentų formulės]]: LDK Vyriausiasis Tribunolas priėmė Pabaisko bažnyčios fundacijos dokumentą ir pavedė jį įrašyti į Tribunolo viešąsias knygas.
 ## Reikšmingi paminėjimai
@@ -155,7 +171,13 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a2382d143e074f335d36115119d6179cec84b324746f16337fada0aa4788edc5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fd71ee642969fd563fd99478f2125d398f2723ba4d0d976af45fe05a13b6f9f4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-001
 
 - c-003
@@ -210,3 +232,13 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   statusas: verified
   pagrindžia:
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fd71ee642969fd563fd99478f2125d398f2723ba4d0d976af45fe05a13b6f9f4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: tribunolas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tribunolas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

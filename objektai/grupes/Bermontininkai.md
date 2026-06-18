@@ -32,6 +32,16 @@ amziai:
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Baltija; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 783508-784051; hash=ab04d2fef9fb23d53f926f122625f6607c92c4afa42bdb25ac97e02bb46ffd47; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bermontininkai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bermontininkai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-40867"></a>
 - t-002
@@ -44,35 +54,61 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Paliktas aiškiausiai su bermontininkais susijęs faktas apie sprendimą.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 785370-785747; hash=2a89bd37ae71eea84fe3f256e70f9de4c4c9dab2bdd75e5247907701f819b6c7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzeme -> Lietuva: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: Bermontininkai: owner_note_path, group, gap=15
+  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Bermontininkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
 
 <a id="claim-t-40868"></a>
 - t-003
   global_id: t-40868
   teiginys: 'Bermontininkai užėmė Šiaurės Lietuvą ir, palaipsniui judėdami į pietus, pasiekė Raseinius.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pataisyta skyryba, išlaikant citatos faktus.'
-  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Raseiniai'
+  susije_objektai: 'territory: Lietuva; mentioned_place: Lietuva; mentioned_place: Raseiniai; mentioned_place: Kaunas'
+  semantiniai_rysiai: '[[objektai/grupes/Bermontininkai|Bermontininkai]] užėmė Lietuva'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-169965|Ernestas Galvanauskas]]: Ernestas Galvanauskas ir Jonas Budrys nustebo, kad Lietuvos karininkai nenoriai rašėsi į Klaipėdos žygį, nelaikydami jo kova už tėvynę.
-- susijęs iš [[objektai/asmenys/Jonas Budrys (Polovinskas).md#claim-t-26447|Jonas Budrys (Polovinskas)]]: Žvalgybos karininkas Jonas Budrys (Polovinskas) buvo ruošiamo Klaipėdos žygio vadas.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bd1bcfaadfa47ba91daff6231d777d6255e4fef89e200531005bb6ef70c75404; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bermontininkai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bermontininkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Pavelas Bermontas-Avalovas.md#claim-t-19188|Pavelas Bermontas-Avalovas]]: Pavelas Bermontas-Avalovas vadovavo rusų ir vokiečių kariuomenei, vadintai bermontininkais.
-- susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49493|V. Grigaliūnas-Glovackis]]: V. Grigaliūnas-Glovackis vadovavo rezerve buvusiam 2-ajam pėstininkų pulkui.
 - susijęs iš [[objektai/asmenys/Virgoličius.md#claim-t-40509|Virgoličius]]: 1919 m. liepos 26 d. pulkininko Virgoličiaus vadovaujami bermontininkai įžengė į Kuršėnus.
 - susijęs iš [[objektai/daiktai/Baltijos kryžius.md#claim-t-40695|Baltijos kryžius]]: Baltijos kryžius buvo teikiamas pasižymėjusiems vokiečių bermontininkams.
 - susijęs iš [[objektai/daiktai/Bermondto-Avalovo kryžius.md#claim-t-40696|Bermondto-Avalovo kryžius]]: Bermondto-Avalovo kryžius buvo teikiamas pasižymėjusiems bermontininkams.
+- susijęs iš [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.).md#claim-t-66494|Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]: 1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai.
+- susijęs iš [[objektai/ivykiai/Lietuvos karo padėties paskelbimas ir sprendimas išvaryti bermontininkus iš Lietuvos (1919 m. spalio 9–16 d.).md#claim-t-41309|Lietuvos karo padėties paskelbimas ir sprendimas išvaryti bermontininkus iš Lietuvos (1919 m. spalio 9–16 d.)]]: 1919 m. spalio 9 d. Lietuvos vyriausybė paskelbė visoje šalyje karo padėtį, o spalio 16 d. priėmė sprendimą jėga išvaryti bermontininkus.
+- susijęs iš [[objektai/ivykiai/Lietuvos karo padėties paskelbimas ir sprendimas išvaryti bermontininkus iš Lietuvos (1919 m. spalio 9–16 d.).md#claim-t-41310|Lietuvos karo padėties paskelbimas ir sprendimas išvaryti bermontininkus iš Lietuvos (1919 m. spalio 9–16 d.)]]: Lietuvos konfliktas su bermontininkais labai pablogino santykius su Vokietija, nes didelę dalį Bermonto pajėgų sudarė vokiečių savanoriai.
+- susijęs iš [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.).md#claim-t-66849|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]: 1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.
+- susijęs iš [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.).md#claim-t-66850|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]: 1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.
+- susijęs iš Kuršėnai: 1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai.
+- susijęs iš Latvija: Lemiamų kovų su bolševikais metu Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai.
+- susijęs iš Šiaurės Lietuva: Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai.
+- susijęs iš Šiaurės Lietuva: Šiaurės Lietuva atsidūrė bermontininkų rankose, o judėdami į pietus bermontininkai pasiekė net Raseinius.
+- susijęs iš [[objektai/zodynas/karo padėtis.md#claim-t-42464|karo padėtis]]: 1919 m. spalio 9 d. Lietuvos vyriausybė paskelbė visoje šalyje karo padėtį, spalio 16 d. buvo priimtas sprendimas jėga išvaryti bermontininkus iš Lietuvos.
+- susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-169965|Ernestas Galvanauskas]]: Ernestas Galvanauskas ir Jonas Budrys nustebo, kad Lietuvos karininkai nenoriai rašėsi į Klaipėdos žygį, nelaikydami jo kova už tėvynę.
+- susijęs iš [[objektai/asmenys/Jonas Budrys (Polovinskas).md#claim-t-26447|Jonas Budrys (Polovinskas)]]: Žvalgybos karininkas Jonas Budrys (Polovinskas) buvo ruošiamo Klaipėdos žygio vadas.
+- susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49493|V. Grigaliūnas-Glovackis]]: V. Grigaliūnas-Glovackis vadovavo rezerve buvusiam 2-ajam pėstininkų pulkui.
 - susijęs iš [[objektai/daiktai/Ginklai ir ginkluotė.md#claim-t-183295|Ginklai ir ginkluotė]]: Iš bermontininkų paimtas karo grobis svariai papildė Lietuvos kariuomenės ginkluotę.
 - susijęs iš [[objektai/daiktai/Ginklai ir ginkluotė.md#claim-t-45486|Ginklai ir ginkluotė]]: Iš bermontininkų paimtas karo grobis svariai papildė Lietuvos kariuomenės ginkluotę.
 - susijęs iš [[objektai/daiktai/Šarvuotasis traukinys Gediminas.md#claim-t-78695|Šarvuotasis traukinys Gediminas]]: 1920 m. sausį Kauno geležinkelio dirbtuvėse pradėtas statyti pirmasis Lietuvos kariuomenės šarvuotasis traukinys „Gediminas“.
 - susijęs iš [[objektai/grupes/Lenkų karinė organizacija.md#claim-t-24839|Lenkų karinė organizacija]]: 1919 m. rugpjūtį lietuvių žvalgyba areštavo 200 Lenkų karinės organizacijos narių, planavusių perversmą.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-183160|Lietuvos kariuomenė]]: Kadriniai Lietuvos kariuomenės karininkai nenoriai rašėsi į Klaipėdos žygį, nes nelaikė jo kova už tėvynę.
 - susijęs iš [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.).md#claim-t-66493|Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]: 1919 m. liepos 26 d. ties Kuršėnais iš Latvijos į Lietuvos teritoriją įžengė stipri jungtinė vokiečių ir rusų kariuomenė.
-- susijęs iš [[objektai/ivykiai/Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.).md#claim-t-66494|Bermontininkų įsiveržimas į Lietuvą (1919 m. liepos 26 d.)]]: 1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai.
 - susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-26842|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
-- susijęs iš [[objektai/ivykiai/Lietuvos karo padėties paskelbimas ir sprendimas išvaryti bermontininkus iš Lietuvos (1919 m. spalio 9–16 d.).md#claim-t-41309|Lietuvos karo padėties paskelbimas ir sprendimas išvaryti bermontininkus iš Lietuvos (1919 m. spalio 9–16 d.)]]: 1919 m. spalio 9 d. Lietuvos vyriausybė paskelbė visoje šalyje karo padėtį, o spalio 16 d. priėmė sprendimą jėga išvaryti bermontininkus.
-- susijęs iš [[objektai/ivykiai/Lietuvos karo padėties paskelbimas ir sprendimas išvaryti bermontininkus iš Lietuvos (1919 m. spalio 9–16 d.).md#claim-t-41310|Lietuvos karo padėties paskelbimas ir sprendimas išvaryti bermontininkus iš Lietuvos (1919 m. spalio 9–16 d.)]]: Lietuvos konfliktas su bermontininkais labai pablogino santykius su Vokietija, nes didelę dalį Bermonto pajėgų sudarė vokiečių savanoriai.
 - susijęs iš [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.).md#claim-t-66848|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]: 1919 m. lapkričio 20 d. fronto vadas pulkininkas leitenantas Kazys Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi.
-- susijęs iš [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.).md#claim-t-66849|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]: 1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.
-- susijęs iš [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.).md#claim-t-66850|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]: 1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.
 - susijęs iš [[objektai/ivykiai/Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.).md#claim-t-23356|Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)]]: 1922 m. vasario 15 d. Steigiamasis Seimas priėmė pagrindinį Žemės reformos įstatymą.
 - susijęs iš [[objektai/ivykiai/Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.).md#claim-t-23357|Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)]]: Įstatymas numatė įvairių žemių paėmimą į Valstybinį žemės fondą.
 - susijęs iš [[objektai/ivykiai/Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.).md#claim-t-23358|Žemės reformos įstatymo priėmimas (1922 m. vasario 15 d.)]]: Per žemės reformą pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai valstiečiai, kaimo amatininkai bei kai kurios įstaigos.
@@ -80,17 +116,12 @@ amziai:
 - susijęs iš Steigiamojo seimo rinkimų įstatymas: Steigiamojo seimo rinkimų įstatymas buvo paskelbtas 1919 m. lapkričio 20 d.
 - susijęs iš Daugpilis: 1919-1920 m. Pirmoji Lietuvos Respublika Nepriklausomybės kovose vijo bolševikus iki Daugpilio.
 - susijęs iš Jieznas: Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio.
-- susijęs iš Kuršėnai: 1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai.
-- susijęs iš Latvija: Lemiamų kovų su bolševikais metu Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai.
 - susijęs iš Meškuičiai: Lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių.
 - susijęs iš Paryžius: Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą.
 - susijęs iš Raseiniai: Bermontininkai, užėmę Šiaurės Lietuvą, judėdami į pietus pasiekė Raseinius.
 - susijęs iš Šiaurės Lietuva: Bermontininkai užėmė Šiaurės Lietuvą ir judėdami į pietus pasiekė net Raseinius.
-- susijęs iš Šiaurės Lietuva: Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai.
-- susijęs iš Šiaurės Lietuva: Šiaurės Lietuva atsidūrė bermontininkų rankose, o judėdami į pietus bermontininkai pasiekė net Raseinius.
 - susijęs iš [[objektai/zodynas/Nepriklausomybės kovos.md#claim-t-42425|Nepriklausomybės kovos]]: 1919-1920 m. Nepriklausomybės kovose Pirmoji Lietuvos Respublika kariavo prieš bolševikus, stabdė juos prie Jiezno ir Kėdainių ir vijosi iki Daugpilio.
 - susijęs iš [[objektai/zodynas/Valstybinis žemės fondas.md#claim-t-77807|Valstybinis žemės fondas]]: Į Valstybinį žemės fondą buvo paimta valstybinė žemė, kai kurių dvarų ir virš 80 ha turėjusių privačių ar bažnytinių savininkų žemė.
-- susijęs iš [[objektai/zodynas/karo padėtis.md#claim-t-42464|karo padėtis]]: 1919 m. spalio 9 d. Lietuvos vyriausybė paskelbė visoje šalyje karo padėtį, spalio 16 d. buvo priimtas sprendimas jėga išvaryti bermontininkus iš Lietuvos.
 - susijęs iš [[objektai/zodynas/komendantūra.md#claim-t-03041|komendantūra]]: Bermontininkai nuginklavo ir išvaikė ten buvusias Lietuvos komendantūras, o paskui ėmė vieni šeimininkauti.
 - susijęs iš [[objektai/zodynas/komendantūra.md#claim-t-182953|komendantūra]]: Bermontininkai nuginklavo ir išvaikė buvusias Lietuvos komendantūras, o paskui ėmė vieni šeimininkauti.
 - susijęs iš [[objektai/zodynas/sukilimo inscenizacija.md#claim-t-183468|sukilimo inscenizacija]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
@@ -145,6 +176,16 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 783508-784051; hash=ab04d2fef9fb23d53f926f122625f6607c92c4afa42bdb25ac97e02bb46ffd47; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bermontininkai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bermontininkai" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -166,4 +207,27 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bd1bcfaadfa47ba91daff6231d777d6255e4fef89e200531005bb6ef70c75404; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bermontininkai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bermontininkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 785370-785747; hash=2a89bd37ae71eea84fe3f256e70f9de4c4c9dab2bdd75e5247907701f819b6c7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzeme -> Lietuva: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: Bermontininkai: owner_note_path, group, gap=15
+  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Bermontininkai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
+
+## Ryšiai
+- Bermontininkai uzeme [[objektai/vietos/Lietuva]]

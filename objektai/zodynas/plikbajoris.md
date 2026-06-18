@@ -26,6 +26,9 @@ tags:
   sudarymo_pagrindimas: 'Pašalintos OCR klaidos ir sakinys sutrumpintas.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1e39db8b062f7f703fa3a7f2940579e7f529692703ca85465c8596b9df9d6a8c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-72729"></a>
 - t-002
@@ -34,6 +37,9 @@ tags:
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir šaltiniui priskirtas vertinamasis teiginys.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=06407505620489f80d3b824e10e1c31374ce84006dc35931d99aa3e283667a14; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-72730"></a>
 - t-003
@@ -42,6 +48,9 @@ tags:
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalintos perteklinės detalės.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=06407505620489f80d3b824e10e1c31374ce84006dc35931d99aa3e283667a14; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-182971"></a>
 - t-004
@@ -53,6 +62,9 @@ tags:
   sudarymo_pagrindimas: 'Pašalinta kontekstinė frazė ir sutvarkyta ilga, gremėzdiška konstrukcija.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 811352-811827; hash=d604c55fd29bbec3fc0015b9558cdcbff59317cb4772461f3d3f94cf62f9fe97; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -87,7 +99,13 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=06407505620489f80d3b824e10e1c31374ce84006dc35931d99aa3e283667a14; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1e39db8b062f7f703fa3a7f2940579e7f529692703ca85465c8596b9df9d6a8c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
 
 - c-003
@@ -106,4 +124,10 @@ tags:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=06407505620489f80d3b824e10e1c31374ce84006dc35931d99aa3e283667a14; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 811352-811827; hash=d604c55fd29bbec3fc0015b9558cdcbff59317cb4772461f3d3f94cf62f9fe97; match=whitespace_regex
+  sprendimo_priezastis: auto

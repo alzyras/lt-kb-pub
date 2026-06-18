@@ -33,6 +33,9 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
   susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=529b3c8d536ffc8f6f160db966c3cf0e3421d84e263f546c929bee1bece1dd02; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-100292"></a>
 - t-002
@@ -41,25 +44,22 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
   sudarymo_pagrindimas: 'Citata remia aiškų teiginį apie statutą, pašalintas nutrūkęs tekstas.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Bogdanas Chmelnickis.md#claim-t-186099|Bogdanas Chmelnickis]]: 1648 m. Bogdano Chmelnickio vadovaujami sukilę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti savo valstybę.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173325|Žygimantas Senasis]]: 1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį atidavė sūnui Lietuvos valdžią.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173328|Žygimantas Senasis]]: 1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį perdavė Lietuvos valdžią sūnui Žygimantui Augustui.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=529b3c8d536ffc8f6f160db966c3cf0e3421d84e263f546c929bee1bece1dd02; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: statutas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): mention_match, event, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "statutas" parinktas kaip owner_note_path. Targetas "Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Didysis Lietuvos antspaudas.md#claim-t-19514|Didysis Lietuvos antspaudas]]: Po Liublino unijos LDK išlaikė atskirą iždą, kariuomenę, teismus ir Trečiojo Lietuvos Statuto įformintą teisinę sistemą.
-- susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120187|Karaimai]]: Karaimų etninė bendruomenė ir religija LDK buvo toleruojamos nuo XIV a. pabaigos.
-- susijęs iš [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas.md#claim-t-66320|Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]: 1923 m. sausio 24 d. Lietuvos Seimas patenkino VMLGK prašymą dėl pagalbos Klaipėdos kraštui.
-- susijęs iš [[objektai/grupes/Šlėktų luomas.md#claim-t-86777|Šlėktų luomas]]: Pirmasis Lietuvos Statutas tarnavo išimtinai šlėktų luomui, nes miestui buvo garantuojamos Magdeburgo teisės.
-- susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-23329|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: 1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.
-- susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-23331|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: 1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-184599|Liublino unija (1569 m.)]]: Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos ir pripažino karalių bei bendrą seimą jungtinės valstybės suverenu.
 - susijęs iš [[objektai/ivykiai/Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.).md#claim-t-23347|Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.)]]: 1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė Klaipėdos kraštą autonomine Lietuvos dalimi.
 - susijęs iš [[objektai/ivykiai/Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.).md#claim-t-23348|Memelio (Klaipėdos) Konvencijos ir Statuto paskelbimas (1924 m. gegužės 8 d.)]]: 1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas panaikino „Klaipėdos problemos“ teritorinį aspektą.
-- susijęs iš [[objektai/ivykiai/Varšuvos konfederacija.md#claim-t-77910|Varšuvos konfederacija]]: Lenkijoje daugiakonfesiškumo juridinis įforminimas įvyko 1573 m. Varšuvos konfederacijoje.
 - susijęs iš [[objektai/ivykiai/Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių.md#claim-t-183293|Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių (privilegija)]]: 1563 m. Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises ir tapo Antrojo bei Trečiojo Lietuvos Statutų teisine norma.
-- susijęs iš [[objektai/ivykiai/Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių.md#claim-t-20594|Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių (privilegija)]]: 1563 m. Žygimanto Augusto privilegija Lietuvoje sulygino visų krikščioniškų konfesijų teises.
-- susijęs iš [[objektai/paprociai/Bajoriškoji demokratija, seimavimai ir liberum veto praktika.md#claim-t-77932|Bajoriškoji demokratija, seimavimai ir liberum veto praktika]]: Prieš vykdami į bendrus seimus Lietuvos atstovai rengdavo seimavimus bendrai pozicijai aptarti.
 - susijęs iš [[objektai/paprociai/Klaipėdos krašto autonominis režimas.md#claim-t-67119|Klaipėdos krašto autonominis režimas (kraštas)]]: Klaipėdos krašto autonominis statutas apibrėžė vietinių organų kompetenciją, seimelio, direktorijos ir gubernatoriaus funkcijas.
-- susijęs iš [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija.md#claim-t-54262|LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]: Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.
-- susijęs iš [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija.md#claim-t-54263|LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]: Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.
 - susijęs iš [[objektai/paprociai/Lietuvos seimo posėdžiavimas tik senatoriams, prelatams ir kunigaikščiams.md#claim-t-87298|Lietuvos seimo posėdžiavimas tik senatoriams, prelatams ir kunigaikščiams]]: 1528 m. lapkričio 17 d. Lietuvos seime posėdžiavo tik senatoriai, prelatai ir kunigaikščiai, kai buvo paskelbtas pirmasis Lietuvos Statutas.
 - susijęs iš 1529 m. Lietuvos Statutas: 1529 m. parengtas Lietuvos Statutas sistemingumu ir renesansiniu įforminimu pralenkė to meto Europos teisės kodifikacijos lygį.
 - susijęs iš Lietuvos Statutai: Po prijungimo prie Rusijos Lietuvos Statutas liko galioti, o kraštas įgijo kultūrinę autonomiją.
@@ -67,6 +67,19 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
 - susijęs iš Memelio (Klaipėdos) Konvencija ir Statutas: 1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė Klaipėdos kraštą autonomine Lietuvos dalimi.
 - susijęs iš Pirmasis Lietuvos Statutas: Pirmasis Lietuvos Statutas buvo paskelbtas 1528 m. lapkričio 17 d. Lietuvos seime.
 - susijęs iš Trečiasis Lietuvos Statutas (1588 m.): Trečiasis Lietuvos Statutas 1588 m. įformino atskirą LDK teisinę sistemą.
+- susijęs iš [[objektai/asmenys/Bogdanas Chmelnickis.md#claim-t-186099|Bogdanas Chmelnickis]]: 1648 m. Bogdano Chmelnickio vadovaujami sukilę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti savo valstybę.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173325|Žygimantas Senasis]]: 1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį atidavė sūnui Lietuvos valdžią.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173328|Žygimantas Senasis]]: 1544 m. Brastos seime Žygimantas Senasis dar prieš mirtį perdavė Lietuvos valdžią sūnui Žygimantui Augustui.
+- susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120187|Karaimai]]: Karaimų etninė bendruomenė ir religija LDK buvo toleruojamos nuo XIV a. pabaigos.
+- susijęs iš [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas.md#claim-t-66320|Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]: 1923 m. sausio 24 d. Lietuvos Seimas patenkino VMLGK prašymą dėl pagalbos Klaipėdos kraštui.
+- susijęs iš [[objektai/grupes/Šlėktų luomas.md#claim-t-86777|Šlėktų luomas]]: Pirmasis Lietuvos Statutas tarnavo išimtinai šlėktų luomui, nes miestui buvo garantuojamos Magdeburgo teisės.
+- susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-23329|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: 1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.
+- susijęs iš [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.).md#claim-t-23331|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]: 1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.
+- susijęs iš [[objektai/ivykiai/Varšuvos konfederacija.md#claim-t-77910|Varšuvos konfederacija]]: Lenkijoje daugiakonfesiškumo juridinis įforminimas įvyko 1573 m. Varšuvos konfederacijoje.
+- susijęs iš [[objektai/ivykiai/Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių.md#claim-t-20594|Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių (privilegija)]]: 1563 m. Žygimanto Augusto privilegija Lietuvoje sulygino visų krikščioniškų konfesijų teises.
+- susijęs iš [[objektai/paprociai/Bajoriškoji demokratija, seimavimai ir liberum veto praktika.md#claim-t-77932|Bajoriškoji demokratija, seimavimai ir liberum veto praktika]]: Prieš vykdami į bendrus seimus Lietuvos atstovai rengdavo seimavimus bendrai pozicijai aptarti.
+- susijęs iš [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija.md#claim-t-54262|LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]: Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.
+- susijęs iš [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija.md#claim-t-54263|LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]: Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.
 - susijęs iš Brasta: 1544 m. Brastos seime Žygimantas dar prieš mirtį atidavė sūnui Lietuvos valdžią.
 - susijęs iš Krokuva: Seime Lietuva turėjo tik trečdalį vietų, nes buvo prilyginta vienai Lenkijos provincijai greta Didžiosios Lenkijos su Poznane ir Mažosios Lenkijos su Krokuva.
 - susijęs iš Ukraina: Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos.
@@ -95,4 +108,17 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=529b3c8d536ffc8f6f160db966c3cf0e3421d84e263f546c929bee1bece1dd02; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: statutas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.): mention_match, event, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "statutas" parinktas kaip owner_note_path. Targetas "Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=529b3c8d536ffc8f6f160db966c3cf0e3421d84e263f546c929bee1bece1dd02; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

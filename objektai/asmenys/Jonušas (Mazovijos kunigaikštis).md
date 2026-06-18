@@ -22,9 +22,20 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinį tekstą reikia išvalyti ir sutrumpinti.'
-  susije_objektai: 'mentioned_place: Kamenecas; mentioned_place: Livonija; mentioned_place: Poleksija; mentioned_place: Suražas; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Suražas; mentioned_place: Kamenecas; mentioned_place: Poleksija; mentioned_place: Suražas; mentioned_place: Livonija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)|Jonušas (Mazovijos kunigaikštis)]] užėmė Suražas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 470005-470434; hash=5f4b19354b367a3b29a6690de6d259c28a8a9eda0b15d10c9f0f11de745f6b1e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzeme -> Suražas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: Jonušas (Mazovijos kunigaikštis): owner_note_path, person, gap=78
+  ryšio_targeto_parinkimas: Suražas: nearest_after_predicate, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Jonušas (Mazovijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Suražas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
 
 <a id="claim-t-185987"></a>
 - t-002
@@ -34,9 +45,19 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys daugiausia apie Vytautą ir turi OCR triukšmo; citata palaiko aiškų faktą apie Jonušą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Zemovitas|Zemovitas]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Palenkė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zemovitas|Zemovitas]]; mentioned_place: Mazovija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Palenkė'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 524291-525174; hash=e3a393d9dda295d45dfc4cc4f8a01e83aba3f74e90cd8101bd85df22cc03c179; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mazovija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonušas (Mazovijos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonušas (Mazovijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-185988"></a>
 - t-003
@@ -46,10 +67,21 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį, enciklopedinį teiginį apie Jonušo veiksmą.'
-  susije_objektai: 'location: Piotrkovas; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_place: Mazovija; mentioned_place: Piotrkovas'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)|Jonušas (Mazovijos kunigaikštis)]] keliavo į Piotrkovas'
+  susije_objektai: 'location: Piotrkovas; territory: Mazovija; mentioned_place: Piotrkovas; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_place: Mazovija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)|Jonušas (Mazovijos kunigaikštis)]] buvo valdovas Mazovija; [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)|Jonušas (Mazovijos kunigaikštis)]] keliavo į Piotrkovas'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 957938-958350; hash=c398a3c0e424f81238fcb22d8560fa9c0fea964036ab721817e159fcc9a557d2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Mazovija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Jonušas (Mazovijos kunigaikštis): owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Mazovija: exact_title_context, place, gap=10
+  ryšio_slopinti_kandidatai: Piotrkovas: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Jonušas (Mazovijos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Mazovija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 48, "match_index": 59, "path": "objektai/vietos/Piotrkovas.md", "selected": false, "strategy": "candidate", "title": "Piotrkovas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -102,6 +134,16 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 470005-470434; hash=5f4b19354b367a3b29a6690de6d259c28a8a9eda0b15d10c9f0f11de745f6b1e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: uzeme -> Suražas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_actor; target_after_predicate; same_sentence_locality; multiple_competing_places
+  ryšio_sprendimo_taisykle: rule_capture_local_target
+  ryšio_subjekto_parinkimas: Jonušas (Mazovijos kunigaikštis): owner_note_path, person, gap=78
+  ryšio_targeto_parinkimas: Suražas: nearest_after_predicate, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_capture_local_target". Subjektas "Jonušas (Mazovijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Suražas" parinktas kaip nearest_after_predicate aplink predikatą "uzeme". Patikimumą lėmė: owner_before_predicate, single_candidate_actor, target_after_predicate, same_sentence_locality, multiple_competing_places.
     - t-002
 
 - c-003
@@ -120,7 +162,30 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 524291-525174; hash=e3a393d9dda295d45dfc4cc4f8a01e83aba3f74e90cd8101bd85df22cc03c179; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mazovija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonušas (Mazovijos kunigaikštis): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Mazovija: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonušas (Mazovijos kunigaikštis)" parinktas kaip owner_note_path. Targetas "Mazovija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 957938-958350; hash=c398a3c0e424f81238fcb22d8560fa9c0fea964036ab721817e159fcc9a557d2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Mazovija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Jonušas (Mazovijos kunigaikštis): owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Mazovija: exact_title_context, place, gap=10
+  ryšio_slopinti_kandidatai: Piotrkovas: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Jonušas (Mazovijos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Mazovija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": 48, "match_index": 59, "path": "objektai/vietos/Piotrkovas.md", "selected": false, "strategy": "candidate", "title": "Piotrkovas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 ## Ryšiai
+- Jonušas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Mazovija]]
 - Jonušas (Mazovijos kunigaikštis) keliavo_i [[objektai/vietos/Piotrkovas]]
+- Jonušas (Mazovijos kunigaikštis) uzeme [[objektai/vietos/Suražas]]

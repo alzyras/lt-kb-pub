@@ -25,6 +25,16 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]; mentioned_place: Kuršas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 437308-437464; hash=0331595582ed7c431aa9bd3ebc1dbadd4b5a0c0588b5b2392d6b04ed37f6551f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> husarai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: T. Lackis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: husarai: mention_match, thing, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "T. Lackis" parinktas kaip owner_note_path. Targetas "husarai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-40457"></a>
 - t-002
@@ -34,6 +44,16 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6582738959bc9081b3e12268129e2b4754e95582cd0d07e4c391350590e84252; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Švedai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: T. Lackis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Švedai: mention_match, group, gap=69
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "T. Lackis" parinktas kaip owner_note_path. Targetas "Švedai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -68,4 +88,24 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6582738959bc9081b3e12268129e2b4754e95582cd0d07e4c391350590e84252; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Švedai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: T. Lackis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Švedai: mention_match, group, gap=69
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "T. Lackis" parinktas kaip owner_note_path. Targetas "Švedai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 437308-437464; hash=0331595582ed7c431aa9bd3ebc1dbadd4b5a0c0588b5b2392d6b04ed37f6551f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> husarai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: T. Lackis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: husarai: mention_match, thing, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "T. Lackis" parinktas kaip owner_note_path. Targetas "husarai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

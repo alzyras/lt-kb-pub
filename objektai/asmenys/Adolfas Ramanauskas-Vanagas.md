@@ -36,6 +36,16 @@ periodo_grupes:
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie asmens suėmimą, kankinimą ir mirtį.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6b3e9a33444a8dfd2820a3912b4df974aff07fec658ee72056e750c00136d3ee; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dainava: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Adolfas Ramanauskas-Vanagas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dainava: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adolfas Ramanauskas-Vanagas" parinktas kaip owner_note_path. Targetas "Dainava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-63405"></a>
 - t-002
@@ -45,6 +55,16 @@ periodo_grupes:
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Perloja'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f3634b9da420f4076cb45129126878b3dc74dfe17ab498da929241ad5dbfcd24; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Perloja: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Adolfas Ramanauskas-Vanagas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Perloja: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adolfas Ramanauskas-Vanagas" parinktas kaip owner_note_path. Targetas "Perloja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Dainavos apygarda.md#claim-t-80653|Dainavos apygarda]]: Adolfas Ramanauskas-Vanagas vėliau tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
 - susijęs iš [[objektai/grupes/Lietuvos gynybos pajėgos.md#claim-t-41026|Lietuvos gynybos pajėgos]]: 1949 m. Adolfas Ramanauskas-Vanagas tapo Jono Žemaičio-Vytauto pavaduotoju ir vėliau LLKS gynybos pajėgų vadu.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-183675|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: 1945 m. gruodžio 15 d. 11 val. Adolfas Ramanauskas-Vanagas balta raketa paskelbė Merkinės puolimo pradžią.
@@ -104,4 +124,24 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f3634b9da420f4076cb45129126878b3dc74dfe17ab498da929241ad5dbfcd24; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Perloja: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Adolfas Ramanauskas-Vanagas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Perloja: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adolfas Ramanauskas-Vanagas" parinktas kaip owner_note_path. Targetas "Perloja" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6b3e9a33444a8dfd2820a3912b4df974aff07fec658ee72056e750c00136d3ee; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dainava: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Adolfas Ramanauskas-Vanagas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dainava: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Adolfas Ramanauskas-Vanagas" parinktas kaip owner_note_path. Targetas "Dainava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

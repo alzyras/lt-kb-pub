@@ -33,6 +33,9 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
   temporalinis_llm_pakomentavimas: 'Perrašyta taip, kad teiginys būtų apie viršaičius ir remtųsi citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 963309-963619; hash=21261998df4fc5c96cd9162b8e8f151096dbcb92795935ef74df314855600c53; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-182987"></a>
 - t-002
@@ -47,6 +50,9 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys daugiau kalba apie savivaldybes, o citata leidžia suformuluoti faktą apie viršaičius.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 963309-963619; hash=21261998df4fc5c96cd9162b8e8f151096dbcb92795935ef74df314855600c53; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -66,4 +72,10 @@ Valsčių savivaldybės buvo įkurtos jau 1861 m. baudžiavos panaikinimo įstat
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 963309-963619; hash=21261998df4fc5c96cd9162b8e8f151096dbcb92795935ef74df314855600c53; match=exact
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 963309-963619; hash=21261998df4fc5c96cd9162b8e8f151096dbcb92795935ef74df314855600c53; match=exact
+  sprendimo_priezastis: auto

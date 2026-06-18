@@ -23,18 +23,21 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi pasakojimo laiko formą; citata leidžia suformuluoti glaustą faktą apie Barkauską.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Baziliauskas.md#claim-t-80730|Baziliauskas]]: Būrininkas Baziliauskas bolševikų štabe nusmeigė kelis komisarus.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 762539-762773; hash=d6af51f4edca420bf2071546020c8805ef3be59d80292c813652e541c3fe2bee; match=exact
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Lukoševičius.md#claim-t-80739|Lukoševičius]]: Skyrininkas Lukoševičius nudūrė leitenantą Barkauską už gerklės griebusį komisarą.
+- susijęs iš [[objektai/grupes/Kosto Barkausko būrys.md#claim-t-40925|Kosto Barkausko būrys]]: Kosto Barkausko būrys veikė Žuvinto paliose ir Buktos (Žaliosios) miške kartu su kitais partizanų būriais.
+- susijęs iš Buktos (Žaliosios) miškas: Buktos (Žaliosios) miške veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko partizanų būriai.
+- susijęs iš Žuvinto palios: Žuvinto paliose ir Buktos miške veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko būriai.
+- susijęs iš [[objektai/asmenys/Baziliauskas.md#claim-t-80730|Baziliauskas]]: Būrininkas Baziliauskas bolševikų štabe nusmeigė kelis komisarus.
 - susijęs iš [[objektai/asmenys/Palačinskas.md#claim-t-80742|Palačinskas]]: Eilinis Palačinskas bolševikų štabe nudūrė vieną komisarą.
 - susijęs iš [[objektai/grupes/Edvardo Lajaus būrys.md#claim-t-40878|Edvardo Lajaus būrys]]: Edvardo Lajaus būrys veikė Žuvinto paliose ir Buktos, dar vadintame Žaliuoju, miške.
 - susijęs iš [[objektai/grupes/Gedimino būrys.md#claim-t-40883|Gedimino būrys]]: Gedimino būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.
 - susijęs iš [[objektai/grupes/Juozo Pandeikos būrys.md#claim-t-40904|Juozo Pandeikos būrys]]: Juozo Pandeikos būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.
 - susijęs iš [[objektai/grupes/Jurgio Lajaus būrys.md#claim-t-40905|Jurgio Lajaus būrys]]: Jurgio Lajaus būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.
 - susijęs iš [[objektai/grupes/Klarko būrys.md#claim-t-40923|Klarko būrys]]: Klarko būrys veikė Žuvinto paliose ir Buktos (Žaliosios) miške kartu su kitais partizanų būriais.
-- susijęs iš [[objektai/grupes/Kosto Barkausko būrys.md#claim-t-40925|Kosto Barkausko būrys]]: Kosto Barkausko būrys veikė Žuvinto paliose ir Buktos (Žaliosios) miške kartu su kitais partizanų būriais.
 - susijęs iš [[objektai/grupes/Žuvinto-Palių junginys.md#claim-t-41232|Žuvinto-Palių junginys]]: Sergijus Staniškis-Litas suvienijo Žuvinto paliose, Buktos miške ir prie Daukšių veikusius partizanų būrius į Žuvinto-Palių junginį ir jam vadovavo.
-- susijęs iš Buktos (Žaliosios) miškas: Buktos (Žaliosios) miške veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko partizanų būriai.
-- susijęs iš Žuvinto palios: Žuvinto paliose ir Buktos miške veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko būriai.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,3 +52,6 @@ Pirmoji grupė, vadovaujama leitenanto Barkausko, puls štabą, o antroji, vadov
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 762539-762773; hash=d6af51f4edca420bf2071546020c8805ef3be59d80292c813652e541c3fe2bee; match=exact
+  sprendimo_priezastis: auto

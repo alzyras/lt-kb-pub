@@ -32,6 +32,9 @@ Gerullis, J.: Zur Sprache der Sudauer-Jätwinger, Festschrift für Ad. Bezzenber
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f3811f282fd68c61ce76ea10dc2b69befb7b7d5ab78e4474309642a6af7ac66e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +50,6 @@ Gerullis, J.: Zur Sprache der Sudauer-Jätwinger, Festschrift für Ad. Bezzenber
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f3811f282fd68c61ce76ea10dc2b69befb7b7d5ab78e4474309642a6af7ac66e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

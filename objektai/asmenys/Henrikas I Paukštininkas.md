@@ -24,9 +24,19 @@ Vokietijos miestai, iki Ka­ rolio Didžiojo beveik nežinomi, vėliau, X amžiu
   global_id: t-87688
   teiginys: 'Valdant Henrikui I Paukštininkui, X a. Vokietijos miestai sustiprėjo tiek, kad sulaikydavo vengrų antpuolius.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Henriko I valdymo laikotarpį ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Pančiai|Pančiai]]; mentioned_place: Italija; mentioned_place: Prancūzija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Vokietija; mentioned_object: [[objektai/daiktai/Pančiai|Pančiai]]; mentioned_place: Italija; mentioned_place: Prancūzija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 32686-33480; hash=539d4f31cbb5cbcfe47e308fc6ab655c1f9c823cf3c1c79a77ff0b60ba027455; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vengrai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas I Paukštininkas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vengrai: mention_match, group, gap=83
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas I Paukštininkas" parinktas kaip owner_note_path. Targetas "Vengrai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -52,3 +62,13 @@ Vokietijos miestai, iki Ka­ rolio Didžiojo beveik nežinomi, vėliau, X amžiu
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 32686-33480; hash=539d4f31cbb5cbcfe47e308fc6ab655c1f9c823cf3c1c79a77ff0b60ba027455; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vengrai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas I Paukštininkas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vengrai: mention_match, group, gap=83
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas I Paukštininkas" parinktas kaip owner_note_path. Targetas "Vengrai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

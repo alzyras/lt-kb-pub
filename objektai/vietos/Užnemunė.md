@@ -41,7 +41,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   global_id: t-182735
   teiginys: 'Lietuvos Užnemunėje caro valdžia nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie mokyklų kūrimą Užnemunėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/posakiai/„lenkų suartinimo su rusais“|„lenkų suartinimo su rusais“]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„lenkų suartinimo su rusais“|„lenkų suartinimo su rusais“]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-003
 
@@ -50,7 +50,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   global_id: t-182736
   teiginys: 'Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.'
   sudarymo_pagrindimas: 'Teiginys perrašytas sklandžiau ir be netinkamo brūkšnio.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Lietuva; mentioned_place: Lietuvos Užnemunė; mentioned_place: Suvalkai; mentioned_place: Suvalkų gubernija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Suvalkai; mentioned_place: Suvalkų gubernija; mentioned_place: Lietuva; mentioned_place: Lietuvos Užnemunė'
   temporaliniai_duomenys: 'priklausymo laikotarpis: po 1867 m.; priklausymo laikotarpis: 1867 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Užnemunė priklausė Suvalkų gubernija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas sklandžiau ir be netinkamo brūkšnio.'
@@ -64,7 +64,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginio_tipas: 'faktas'
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Balstogė; mentioned_place: Plockas; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Prūsai; mentioned_place: Balstogė; mentioned_place: Plockas; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -76,21 +76,48 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys yra antraštinis fragmentas, o citata leidžia suformuluoti konkretų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Prūsija; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_place: Varšuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1807 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra antraštinis fragmentas, o citata leidžia suformuluoti konkretų faktą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 904786-905066; hash=b8cdfca602c516a2f71c685261fdeada066b7bfa90441073f9df70eda5ae9ab1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Užnemunė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užnemunė" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Napoleonas Bonapartas.md#claim-t-19169|Napoleonas Bonapartas]]: Napoleonas Bonapartas įkūrė Varšuvos kunigaikštystę, kuriai 1807–1814 m. priklausė Užnemunė.
+- susijęs iš [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas.md#claim-t-183279|Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]: Po 1795 m. spalio 24 d. konvencijos etninės lietuvių žemės atiteko Rusijai, Prūsija prisijungė Užnemunę, o pietvakarinis LDK kampas – Austrijai.
+- susijęs iš Kulikauskas P. Užnemunės piliakalniai I—XIII amžiuje: P. Kulikausko veikalas „Užnemunės piliakalniai I—XIII amžiuje“ išleistas Vilniuje 1982 m.
+- susijęs iš Peterburgo konvencija dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo (1795 m.): Po 1795 m. Peterburgo konvencijos LDK etninės lietuvių žemės atiteko Rusijai, Užnemunė Prūsijai, o pietvakarinis LDK kampas Austrijai.
+- susijęs iš Augustavo gubernija: 1863 m. Augustavo gubernijoje, į kurią įėjo lietuviškoji Užnemunė, įvyko 62 sukilėlių mūšiai su caro kariuomene.
+- susijęs iš Klaipėda: Vytautas vėliau pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir į Užnemunę.
+- susijęs iš Lenkijos karalystė: Lietuvių veikėjai siūlė nuo Lenkijos karalystės atskirti jos lietuviškąją dalį, tai yra Lietuvos Užnemunę.
+- susijęs iš Lietuvos Užnemunė: Caro valdžia Lietuvos Užnemunėje nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbą palikdama disciplinos statusu.
+- susijęs iš Lietuvos Užnemunė: Svarstant Lenkijos autonomiją Valstybės Dūmoje, lietuvių veikėjai siūlė nuo karalystės atskirti Lietuvos Užnemunę.
+- susijęs iš Lietuvos Užnemunė: Praėjus 20 metų po 1863 m. sukilimo, etninių lietuvių tautinį sąjūdį atnaujino inteligentai, kilę daugiausia iš Užnemunės krašto.
+- susijęs iš Lietuvos Užnemunė: Po 1863 m. sukilimo etninių lietuvių tautinį sąjūdį atnaujino inteligentai, daugiausia kilę iš Užnemunės krašto.
+- susijęs iš Lietuvos Užnemunė: Didžiojo Vilniaus seimo rezoliucijoje autonomijos teritorija apibrėžta kaip etnografinės lietuvių žemės, įskaitant Užnemunę arba Suvalkiją.
+- susijęs iš Lietuvos Užnemunė: Caro valdžia Lietuvos Užnemunėje nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbą palikdama disciplinos statusu.
+- susijęs iš Naujoji Prūsija: Prūsija prisijungė Užnemunę ir pavadino ją Naująja Prūsija.
+- susijęs iš Nemunas: Mezolito įrankių gausiai aptikta palei Nemuną, Nerį, Merkį, Ūlą ir Katrą, taip pat paežerėse nuo Lydos iki Alytaus ir Užnemunės durpynuose.
+- susijęs iš Nemunas: Vytautas vėliau pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir Užnemunę.
+- susijęs iš Varšuvos kunigaikštystė: 1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės.
+- susijęs iš Žemaitija: Po Žalgirio mūšio Vytautas pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir Užnemunę.
+- susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72705|mokytojų seminarija]]: 1872 m. Panevėžyje įsteigta mokytojų seminarija rengė mokytojus visai Lietuvai, išskyrus Užnemunę.
 - susijęs iš [[objektai/asmenys/Jonas Basanavičius.md#claim-t-78004|Jonas Basanavičius]]: Jonas Basanavičius buvo pirmasis 1883 m. Rytprūsiuose pradėto leisti lietuviško mėnraščio „Aušra“ redaktorius.
 - susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170080|Juozas Tūbelis]]: Juozui Tūbeliui radus rinką Didžiojoje Britanijoje, Lietuvos prekyba su šia šalimi užėmė pirmą vietą.
 - susijęs iš [[objektai/asmenys/Napoleonas Bonapartas.md#claim-t-19167|Napoleonas Bonapartas]]: Napoleonas Bonapartas 1806 m. įkūrė Varšuvos kunigaikštiją.
-- susijęs iš [[objektai/asmenys/Napoleonas Bonapartas.md#claim-t-19169|Napoleonas Bonapartas]]: Napoleonas Bonapartas įkūrė Varšuvos kunigaikštystę, kuriai 1807–1814 m. priklausė Užnemunė.
 - susijęs iš [[objektai/grupes/Bartai.md#claim-t-88533|Bartai]]: Bartai buvo viena iš vakarinių baltų, arba prūsų, genčių, žinomų Rytprūsiuose.
 - susijęs iš [[objektai/grupes/Estai.md#claim-t-65144|Estai]]: Rusijos imperijoje estai turėjo kultūrinių galimybių ir švietimo sąlygų, kurių siekė etniniai lietuviai.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179344|Lietuviai]]: Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175086|Sembai]]: Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių.
-- susijęs iš [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas.md#claim-t-183279|Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]: Po 1795 m. spalio 24 d. konvencijos etninės lietuvių žemės atiteko Rusijai, Prūsija prisijungė Užnemunę, o pietvakarinis LDK kampas – Austrijai.
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.).md#claim-t-66999|Vytauto žygis į Ordino žemes (1377 m.)]]: Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.
 - susijęs iš [[objektai/ivykiai/Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.).md#claim-t-34527|Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)]]: Žemaičių arba Medininkų vyskupija buvo įkurta 1417 m. spalio 24 d. kaip antroji Lietuvos vyskupija.
 - susijęs iš [[objektai/ivykiai/„Aušros“ leidimo pradžia.md#claim-t-183294|„Aušros“ leidimo pradžia]]: Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).
@@ -101,27 +128,13 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 - susijęs iš [[objektai/paprociai/Privatus lietuviškų mokyklų steigimas ir lietuviškas mokymas po 1905 m.md#claim-t-54327|Privatus lietuviškų mokyklų steigimas ir lietuviškas mokymas po 1905 m]]: Užnemunėje veikė privati moterų gimnazija, kurioje dėstyta lietuvių kalba.
 - susijęs iš [[objektai/paprociai/Rekrutų prievolė Rusijos kariuomenėje.md#claim-t-77948|Rekrutų prievolė Rusijos kariuomenėje]]: Po LDK branduolio žemių prijungimo prie Rusijos valstiečiams didžiausia blogybė buvo 25 metų rekrutų tarnyba Rusijos kariuomenėje.
 - susijęs iš [[objektai/posakiai/„lenkų suartinimo su rusais“.md#claim-t-183497|„lenkų suartinimo su rusais“]]: Lietuvos Užnemunėje švietimo politika siekė parengti lietuvius rusų aukštosios kultūros dalyviais ir suartinimo su rusų kultūra tarpininkais.
-- susijęs iš Kulikauskas P. Užnemunės piliakalniai I—XIII amžiuje: P. Kulikausko veikalas „Užnemunės piliakalniai I—XIII amžiuje“ išleistas Vilniuje 1982 m.
-- susijęs iš Peterburgo konvencija dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo (1795 m.): Po 1795 m. Peterburgo konvencijos LDK etninės lietuvių žemės atiteko Rusijai, Užnemunė Prūsijai, o pietvakarinis LDK kampas Austrijai.
 - susijęs iš Užsienio Lietuvių Spaudos Metraštis: „Užsienio Lietuvių Spaudos Metraštis“ rodyklėje nurodytas 17 puslapyje.
 - susijęs iš Augustavo gubernija: Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augustavo gubernijoje.
-- susijęs iš Augustavo gubernija: 1863 m. Augustavo gubernijoje, į kurią įėjo lietuviškoji Užnemunė, įvyko 62 sukilėlių mūšiai su caro kariuomene.
 - susijęs iš Augustavo gubernija: Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo gubernija, o nuo 1867 m. – Suvalkų gubernija.
 - susijęs iš Insterburgas: Tamova buvo aukščiau Insterburgo, ruože, kuriame Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos.
-- susijęs iš Klaipėda: Vytautas vėliau pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir į Užnemunę.
-- susijęs iš Lenkijos karalystė: Lietuvių veikėjai siūlė nuo Lenkijos karalystės atskirti jos lietuviškąją dalį, tai yra Lietuvos Užnemunę.
-- susijęs iš Lietuvos Užnemunė: Caro valdžia Lietuvos Užnemunėje nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbą palikdama disciplinos statusu.
-- susijęs iš Lietuvos Užnemunė: Svarstant Lenkijos autonomiją Valstybės Dūmoje, lietuvių veikėjai siūlė nuo karalystės atskirti Lietuvos Užnemunę.
-- susijęs iš Lietuvos Užnemunė: Praėjus 20 metų po 1863 m. sukilimo, etninių lietuvių tautinį sąjūdį atnaujino inteligentai, kilę daugiausia iš Užnemunės krašto.
-- susijęs iš Lietuvos Užnemunė: Po 1863 m. sukilimo etninių lietuvių tautinį sąjūdį atnaujino inteligentai, daugiausia kilę iš Užnemunės krašto.
-- susijęs iš Lietuvos Užnemunė: Didžiojo Vilniaus seimo rezoliucijoje autonomijos teritorija apibrėžta kaip etnografinės lietuvių žemės, įskaitant Užnemunę arba Suvalkiją.
-- susijęs iš Lietuvos Užnemunė: Caro valdžia Lietuvos Užnemunėje nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbą palikdama disciplinos statusu.
 - susijęs iš Maskva: Jonas Basanavičius, pirmasis mėnraščio redaktorius, buvo baigęs medicinos studijas Maskvoje.
 - susijęs iš Maskva: Kaip neprivaloma disciplina lietuvių kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos universitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams, turintiems atestate lietuvių kalbos pažymį.
 - susijęs iš Maskva: Jonas Basanavičius, pirmasis „Aušros“ redaktorius, buvo baigęs medicinos studijas Maskvoje.
-- susijęs iš Naujoji Prūsija: Prūsija prisijungė Užnemunę ir pavadino ją Naująja Prūsija.
-- susijęs iš Nemunas: Mezolito įrankių gausiai aptikta palei Nemuną, Nerį, Merkį, Ūlą ir Katrą, taip pat paežerėse nuo Lydos iki Alytaus ir Užnemunės durpynuose.
-- susijęs iš Nemunas: Vytautas vėliau pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir Užnemunę.
 - susijęs iš Nemunas: Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos, aukščiau Insterburgo.
 - susijęs iš Peterburgas: 1797 m. sausio 26 d. Peterburgo konvencija patvirtino trečiąjį Lenkijos ir Lietuvos valstybės padalijimą, panaikino valstybingumo likučius ir nubrėžė sienas.
 - susijęs iš Praha: Pirmuoju „Aušros“ redaktoriumi tapo tuo metu Prahoje gyvenęs Jonas Basanavičius.
@@ -131,7 +144,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 - susijęs iš Suvalkų kraštas: Užnemunėje, citatoje tapatinamoje su Suvalkų kraštu, kaimai XIX a. išsiskirstė vienkiemiais.
 - susijęs iš Tamova: Vytautas sunaikino vokiečių maisto atsargas nuo Nemuno iki Tamovos.
 - susijęs iš Uturiai: Uturiai buvo prie Betygalos.
-- susijęs iš Varšuvos kunigaikštystė: 1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės.
 - susijęs iš Varšuvos kunigaikštystė: 1807 m. Europos žemėlapyje atsirado pusiau nepriklausoma, Napoleono globojama Varšuvos kunigaikštystė.
 - susijęs iš Veiveriai: 1866 m. Veiveriuose įsteigta mokytojų seminarija rengė pradžios mokyklų mokytojus, joje dėstyta ir lietuvių kalba.
 - susijęs iš Vigrai: 1798 m. Prūsijos valdžia Vigriuose įsteigė atskirą, tiesiog popiežiui pavaldžią vyskupiją, 1818 m. perkeltą į Seinus.
@@ -139,13 +151,11 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 - susijęs iš Vilnius: Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir žygiuodamas iki Vilniaus degino kaimus bei plėšė žmonių turtą.
 - susijęs iš Šešupė: Padalijus Užnemunę, Ordinui atiteko dalis didžiųjų girių tiesia linija nuo Salyno į Šešupę.
 - susijęs iš Šešupė: Padalijus Užnemunę, ordinui atiteko dalis didžiųjų girių tiesia linija nuo Salyno iki Šešupės.
-- susijęs iš Žemaitija: Po Žalgirio mūšio Vytautas pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir Užnemunę.
 - susijęs iš [[objektai/zodynas/autokratinė monarchinė imperija.md#claim-t-45784|autokratinė monarchinė imperija]]: 1795–1915 m. Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.
 - susijęs iš [[objektai/zodynas/kirilika rusiškas raidynas lotyniškasis raidynas.md#claim-t-70177|kirilika rusiškas raidynas lotyniškasis raidynas]]: Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, o lietuvių kalbos mokyti kaip disciplinos iš kirilika parašytų vadovėlių.
 - susijęs iš [[objektai/zodynas/kirilika.md#claim-t-77784|kirilika]]: Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, o lietuvių kalbos mokyti kaip disciplinos iš kirilika parašytų vadovėlių.
 - susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72703|mokytojų seminarija]]: 1864 m. Molodečne įsteigta mokytojų seminarija negalėjo parengti pakankamai mokytojų Lietuvos ir baltarusių švietimo apygardoms.
 - susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72704|mokytojų seminarija]]: 1866 m. Veiveriuose įsteigta mokytojų seminarija rengė pradžios mokyklų mokytojus ir dėstė lietuvių kalbą.
-- susijęs iš [[objektai/zodynas/mokytojų seminarija.md#claim-t-72705|mokytojų seminarija]]: 1872 m. Panevėžyje įsteigta mokytojų seminarija rengė mokytojus visai Lietuvai, išskyrus Užnemunę.
 - susijęs iš [[objektai/zodynas/rekrutų prievolė rekrutai.md#claim-t-104194|rekrutų prievolė rekrutai]]: Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama).
 - susijęs iš [[objektai/zodynas/rekrutų prievolė rekrutai.md#claim-t-183461|rekrutų prievolė rekrutai]]: Valstiečiams rekrutų prievolė reiškė 25 metų tarnybą Rusijos kariuomenėje.
 - susijęs iš [[objektai/zodynas/rekrutų prievolė.md#claim-t-183460|rekrutų prievolė]]: Valstiečiams rekrutų prievolė reiškė 25 metų tarnybą Rusijos kariuomenėje.
@@ -183,6 +193,16 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 904786-905066; hash=b8cdfca602c516a2f71c685261fdeada066b7bfa90441073f9df70eda5ae9ab1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Užnemunė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užnemunė" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-003
@@ -239,4 +259,3 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 ## Ryšiai
 - Užnemunė priklause [[objektai/vietos/Augustavo gubernija]]
 - Užnemunė priklause [[objektai/vietos/Suvalkų gubernija]]
-- Užnemunė susije_su [[objektai/zodynas/autokratinė monarchinė imperija]]

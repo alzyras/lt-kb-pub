@@ -35,25 +35,55 @@ periodo_grupes:
   susije_objektai: 'mentioned_group: [[objektai/grupes/Katalikų Bažnyčia|Katalikų Bažnyčia]]; mentioned_person: [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas)|Focijus (Maskvos „visos Rusijos“ metropolitas)]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 296577-296786; hash=17a38e7ce449c3773fb3e2bfc4aeed73d2d89823bc529b2e4bea859998502343; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Focijus (Maskvos „visos Rusijos“ metropolitas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gregorijus Cemblakas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Focijus (Maskvos „visos Rusijos“ metropolitas): mention_match, person, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gregorijus Cemblakas" parinktas kaip owner_note_path. Targetas "Focijus (Maskvos „visos Rusijos“ metropolitas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-93284"></a>
 - t-002
   global_id: t-93284
   teiginys: 'Naugarduko susirinkimas paskyrė Gregorijų Cemblaką Kijevo metropolitu.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.)|Naugarduko susirinkimas (1415 m.)]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Cholmas; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Naugardukas; mentioned_place: Rusija; mentioned_place: Turovas'
+  susije_objektai: 'mentioned_place: Kijevas; mentioned_event: [[objektai/ivykiai/Naugarduko susirinkimas (1415 m.)|Naugarduko susirinkimas (1415 m.)]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Cholmas; mentioned_place: Konstantinopolis; mentioned_place: Naugardukas; mentioned_place: Rusija; mentioned_place: Turovas'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 301941-302336; hash=139dd24ea2a3d87a88744953a3aded8fe1e18d388bf2dd83a4b52867b642ed8a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gregorijus Cemblakas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gregorijus Cemblakas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-93285"></a>
 - t-003
   global_id: t-93285
   teiginys: 'Totorių puldinėjimų metu Gregorijus Cemblakas turėjo iš savo sostinės persikelti į Vilnių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kijevas; mentioned_place: Podolė; mentioned_place: Vilnius; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kijevas; mentioned_place: Podolė; mentioned_place: Vorskla'
   temporaliniai_duomenys: 'įvykio data: 1416 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 297049-297494; hash=ac37c34a4a7832e053b65693363223aa75cf04a09bab76f2679b444a2d5ba076; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kijevas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gregorijus Cemblakas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gregorijus Cemblakas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -85,6 +115,16 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 296577-296786; hash=17a38e7ce449c3773fb3e2bfc4aeed73d2d89823bc529b2e4bea859998502343; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Focijus (Maskvos „visos Rusijos“ metropolitas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gregorijus Cemblakas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Focijus (Maskvos „visos Rusijos“ metropolitas): mention_match, person, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gregorijus Cemblakas" parinktas kaip owner_note_path. Targetas "Focijus (Maskvos „visos Rusijos“ metropolitas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -103,4 +143,24 @@ periodo_grupes:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 297049-297494; hash=ac37c34a4a7832e053b65693363223aa75cf04a09bab76f2679b444a2d5ba076; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kijevas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gregorijus Cemblakas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kijevas: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gregorijus Cemblakas" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 301941-302336; hash=139dd24ea2a3d87a88744953a3aded8fe1e18d388bf2dd83a4b52867b642ed8a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gregorijus Cemblakas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gregorijus Cemblakas" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

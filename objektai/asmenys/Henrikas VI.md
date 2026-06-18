@@ -33,10 +33,19 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
 - t-001
   global_id: t-63621
   teiginys: 'Henrikas VI buvo Anglijos karalius, kurio pasiuntinys Gilbert de Lannoy keliavo į Krymą.'
-  susije_objektai: 'location: Krymas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gilbert de Lannoy|Gilbert de Lannoy]]; mentioned_person: [[objektai/asmenys/Henne|Henne]]; mentioned_place: Anglija; mentioned_place: Krymas'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas VI|Henrikas VI]] keliavo į Krymas'
+  susije_objektai: 'location: Krymas; mentioned_person: [[objektai/asmenys/Gilbert de Lannoy|Gilbert de Lannoy]]; mentioned_place: Anglija; mentioned_place: Krymas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Henne|Henne]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1379e5dda11da0ff2402c12a4008bd7ce5bb0d907f108e31c0eb403891e2ccfa; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Krymas: 0.88
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Gilbert de Lannoy: nearest_actor, person, gap=18
+  ryšio_targeto_parinkimas: Krymas: nearest_after_predicate, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Gilbert de Lannoy" parinktas kaip nearest_actor. Targetas "Krymas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 <a id="claim-t-63622"></a>
 - t-002
@@ -115,8 +124,25 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1379e5dda11da0ff2402c12a4008bd7ce5bb0d907f108e31c0eb403891e2ccfa; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Krymas: 0.88
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Gilbert de Lannoy: nearest_actor, person, gap=18
+  ryšio_targeto_parinkimas: Krymas: nearest_after_predicate, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Gilbert de Lannoy" parinktas kaip nearest_actor. Targetas "Krymas" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 112073-114173; hash=d887f1e43b930e90277dbb06614b87d8e98bbb7872c9e40d1d2c8ba001db7b4a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Romos karalius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas VI: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Romos karalius: mention_match, thing, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas VI" parinktas kaip owner_note_path. Targetas "Romos karalius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
-
-## Ryšiai
-- Henrikas VI keliavo_i [[objektai/vietos/Krymas]]

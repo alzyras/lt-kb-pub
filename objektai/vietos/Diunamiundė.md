@@ -32,6 +32,16 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
   susije_objektai: 'mentioned_place: Dauguva; mentioned_place: Ryga'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ee6a68625138f4f7f04b9eb32226c37e8d04e19e55838180810151b793e80d49; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Livonija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Diunamiundė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Diunamiundė" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-58539"></a>
 - t-002
@@ -44,9 +54,19 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veikėją ir Diunamiundės pilies įsigijimą.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Kristaus karių ordinas.md#claim-t-63011|Kristaus karių ordinas]]: Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 737759-738046; hash=b26305f296ff90411ba0ced6abc3f88692e1d2bb859733da33ee988ea190a0ed; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dauguva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Diunamiundė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dauguva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Diunamiundė" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Diunamiundės pilies nupirkimas (1305 m. liepos 26 d.).md#claim-t-62239|Diunamiundės pilies nupirkimas (1305 m. liepos 26 d.)]]: 1305 m. liepos 26 d. Livonijos teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį.
 - susijęs iš Diunamiundės metraštis: Dusburgietis galėjo žinoti Diunamiundės metraštį, susijusį su Seniausio Prūsijos metraščio tradicija.
+- susijęs iš [[objektai/grupes/Kristaus karių ordinas.md#claim-t-63011|Kristaus karių ordinas]]: Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.
 - susijęs iš Prūsijos žemės kronika (iki 1450 m.): „Prūsijos žemės kronika“ susijusi su Torunės analais, pratęsta iki 1450 m. ir sudaryta Chelmžos vyskupo aplinkoje.
 - susijęs iš Sembos kanauninko rinkinys: Sembos kanauninko rinkinio tyrinėjimai rodo, kad jame yra žinių iš neišlikusio Seniausio Prūsijos metraščio.
 ## Reikšmingi paminėjimai
@@ -81,4 +101,24 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 737759-738046; hash=b26305f296ff90411ba0ced6abc3f88692e1d2bb859733da33ee988ea190a0ed; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dauguva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Diunamiundė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Dauguva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Diunamiundė" parinktas kaip owner_note_path. Targetas "Dauguva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ee6a68625138f4f7f04b9eb32226c37e8d04e19e55838180810151b793e80d49; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Livonija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Diunamiundė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=58
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Diunamiundė" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

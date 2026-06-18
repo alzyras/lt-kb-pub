@@ -42,6 +42,16 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 60920-61320; hash=58347fb4d61091abe6ee0602794b71c3046bb4970fabcf3644c4832b8f67daf8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Duona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ubladė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Duona: mention_match, thing, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ubladė" parinktas kaip owner_note_path. Targetas "Duona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-08343"></a>
 - t-002
@@ -50,6 +60,9 @@ Nenurodyta
   teiginio_tipas: 'faktas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 61440-61643; hash=ef439a9f5ea55cafbdc2009f0c844168ac80194788d47aef1f19d6c04423da8e; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -77,4 +90,17 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 60920-61320; hash=58347fb4d61091abe6ee0602794b71c3046bb4970fabcf3644c4832b8f67daf8; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Duona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ubladė: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Duona: mention_match, thing, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ubladė" parinktas kaip owner_note_path. Targetas "Duona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 61440-61643; hash=ef439a9f5ea55cafbdc2009f0c844168ac80194788d47aef1f19d6c04423da8e; match=exact
+  sprendimo_priezastis: auto

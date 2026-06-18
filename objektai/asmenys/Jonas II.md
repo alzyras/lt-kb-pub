@@ -33,12 +33,22 @@ Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519
   global_id: t-87718
   teiginys: 'Jonas II, karaliaus Zigmanto I sūnus, 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. perkeltas į Poznanės vyskupiją ir mirė 1538 m.'
   sudarymo_pagrindimas: 'Pradinis teiginys gremėzdiškas; citata leidžia suformuluoti aiškesnį sakinį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Poznanė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Poznanė; mentioned_place: Vilnius; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Olyka'
   temporaliniai_duomenys: 'įvykio data: 1519 m.; įvykio data: 1536 m.; įvykio data: 1538 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys gremėzdiškas; citata leidžia suformuluoti aiškesnį sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1de2a6079e4f4c5375ca3ac5c6fbdcb772e69130fbf0d65c30e1231a9e42138d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Poznanė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonas II: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Poznanė: mention_match, place, gap=95
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas II" parinktas kaip owner_note_path. Targetas "Poznanė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Poznanė: Jonas II 1536 m. buvo perkeltas į Poznanės vyskupiją ir mirė 1538 m., sulaukęs 40 metų.
 - susijęs iš Poznanė: Jonas II 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. perkeltas į Poznanės vyskupiją, o 1538 m. mirė sulaukęs 40 metų.
 ## Reikšmingi paminėjimai
@@ -60,3 +70,13 @@ Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1de2a6079e4f4c5375ca3ac5c6fbdcb772e69130fbf0d65c30e1231a9e42138d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Poznanė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonas II: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Poznanė: mention_match, place, gap=95
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas II" parinktas kaip owner_note_path. Targetas "Poznanė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -27,12 +27,22 @@ Svėdasų valsčiuje, Šimonių girioje.
   global_id: t-38560
   teiginys: '1949 m. lapkričio 1–2 d. Svėdasų valsčiuje, Šimonių girioje, MGB vidaus kariuomenė vykdė karines-čekistines operacijas.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje trūko predikato, bet citata aiškiai nurodo operacijų vietą ir laiką.'
-  susije_objektai: 'mentioned_place: Kupiškis; mentioned_place: Svėdasai'
+  susije_objektai: 'mentioned_place: Svėdasai; mentioned_place: Kupiškis'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje trūko predikato, bet citata aiškiai nurodo operacijų vietą ir laiką.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1004148-1004362; hash=ced267a7ffc0123256a09e64a36b42cb6fcfa57107eb427152e76445d7e03d68; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Svėdasai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Svėdasų valsčius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Svėdasai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Svėdasų valsčius" parinktas kaip owner_note_path. Targetas "Svėdasai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -51,3 +61,13 @@ Svėdasų valsčiuje, Šimonių girioje.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1004148-1004362; hash=ced267a7ffc0123256a09e64a36b42cb6fcfa57107eb427152e76445d7e03d68; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Svėdasai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Svėdasų valsčius: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Svėdasai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Svėdasų valsčius" parinktas kaip owner_note_path. Targetas "Svėdasai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

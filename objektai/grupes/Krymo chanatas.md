@@ -32,23 +32,44 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
   global_id: t-05262
   teiginys: 'Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Krymo chanatu.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'territory: Maskva; mentioned_place: Dniepras; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Turkija; mentioned_place: Viena'
+  susije_objektai: 'territory: Maskva; mentioned_place: Krymas; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Turkija; mentioned_place: Viena'
   semantiniai_rysiai: '[[objektai/grupes/Krymo chanatas|Krymo chanatas]] susiję su Maskva'
   temporaliniai_duomenys: 'įvykio data: po 1478 m.; įvykio data: 1478 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Krymo chanatas susiję su Maskva“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=83eb2cdd1770f4d97b876cc2585d4c74dd26ec5447fe46f166bce50a8bce3ca8; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
+  ryšio_patikimumas: susije_su -> Maskva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Krymo chanatas: owner_after_title, group, gap=55
+  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Dniepras: candidate; Krymas: candidate; Lietuva: candidate; Turkija: candidate; Viena: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Krymo chanatas" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Dniepras.md", "selected": false, "strategy": "candidate", "title": "Dniepras", "type": "place"}, {"distance_to_predicate": 55, "match_index": 72, "path": "objektai/vietos/Krymas.md", "selected": false, "strategy": "candidate", "title": "Krymas", "type": "place"}, {"distance_to_predicate": 36, "match_index": 53, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 <a id="claim-t-05263"></a>
 - t-002
   global_id: t-05263
   teiginys: 'Nuo 1478 m. Krymo chanatas buvo Turkijos vasalas.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_place: Dniepras; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Turkija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Krymas; mentioned_place: Turkija; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: po 1478 m.; įvykio data: 1478 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=83eb2cdd1770f4d97b876cc2585d4c74dd26ec5447fe46f166bce50a8bce3ca8; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
+  ryšio_patikimumas: susije_su -> Krymas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krymo chanatas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymo chanatas" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187448"></a>
 - t-003
@@ -56,12 +77,22 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
   teiginys: 'Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Krymo totorių žygių kryptį ir mastą nuo 1502 m. Nepridėta autoriaus dėmesio kovoms interpretacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Naugardukas; mentioned_place: Podolė; mentioned_place: Pripetė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Naugardukas; mentioned_place: Pripetė; mentioned_place: Vilnius; mentioned_place: Podolė'
   temporaliniai_duomenys: 'įvykio data: iki 1502 m.; įvykio data: po 1502 m.; įvykio data: 1502 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Krymo totorių žygių kryptį ir mastą nuo 1502 m. Nepridėta autoriaus dėmesio kovoms interpretacija.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=51d203404f0c1f59bde4837dd7c95bd6cf189ce9d22fad2902c3fb870cbd98a3; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
+  ryšio_patikimumas: susije_su -> Krymas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krymo chanatas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymo chanatas" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187449"></a>
 - t-004
@@ -72,6 +103,16 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
   susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Solchatas'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=39d58346abbabd93cacf7101c272f2f75bbe7724ab209eb01bc23cc2e7dd29ba; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
+  ryšio_patikimumas: susije_su -> Krymas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krymo chanatas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymo chanatas" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187710"></a>
 - t-006
@@ -81,12 +122,22 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Perekopo pavadinimą Krymo chanato geografiniame kontekste. Nepridėta etimologijos ar miesto tvirtovės istorijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Perekopo orda|Perekopo orda]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Isteris; mentioned_place: Kaukazas; mentioned_place: Krymas; mentioned_place: Perekopas'
+  susije_objektai: 'mentioned_place: Krymas; mentioned_group: [[objektai/grupes/Perekopo orda|Perekopo orda]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Isteris; mentioned_place: Kaukazas; mentioned_place: Perekopas'
   temporaliniai_duomenys: 'įvykio data: 1515 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Perekopo pavadinimą Krymo chanato geografiniame kontekste. Nepridėta etimologijos ar miesto tvirtovės istorijos.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 564259-564807; hash=ed76e58ee137cac2b1d45d4de1c94ebcc4d708c0c8b758169ff7774b1fcc75fe; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krymas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krymo chanatas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymo chanatas" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-187704|Auksinė Orda]]: Aukso ordoje ulanais vadinosi chano giminės nariai iš tų linijų, kurių atstovams neteko sėdėti chanų soste.
 - susijęs iš [[objektai/zodynas/ulan.md#claim-t-187552|ulan]]: Ulanas buvo feodalinis titulas, kuriuo vadinosi žymiausi chanų giminės totorių feodalai, turėję ulusus ir teisę dalyvauti chanų rinkimuose.
 - susijęs iš [[objektai/zodynas/ulusas.md#claim-t-187531|ulusas]]: Ulusai buvo savos žemės valdos, kurias turėjo žymiausi chanų giminės totorių feodalai, vadinti ulanais.
@@ -126,7 +177,28 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=51d203404f0c1f59bde4837dd7c95bd6cf189ce9d22fad2902c3fb870cbd98a3; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
+  ryšio_patikimumas: susije_su -> Krymas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krymo chanatas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymo chanatas" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=83eb2cdd1770f4d97b876cc2585d4c74dd26ec5447fe46f166bce50a8bce3ca8; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
+  ryšio_patikimumas: susije_su -> Maskva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Krymo chanatas: owner_after_title, group, gap=55
+  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Dniepras: candidate; Krymas: candidate; Lietuva: candidate; Turkija: candidate; Viena: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Krymo chanatas" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Dniepras.md", "selected": false, "strategy": "candidate", "title": "Dniepras", "type": "place"}, {"distance_to_predicate": 55, "match_index": 72, "path": "objektai/vietos/Krymas.md", "selected": false, "strategy": "candidate", "title": "Krymas", "type": "place"}, {"distance_to_predicate": 36, "match_index": 53, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
     - t-002
 
 - c-003
@@ -140,7 +212,27 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=83eb2cdd1770f4d97b876cc2585d4c74dd26ec5447fe46f166bce50a8bce3ca8; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
+  ryšio_patikimumas: susije_su -> Krymas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krymo chanatas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymo chanatas" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=51d203404f0c1f59bde4837dd7c95bd6cf189ce9d22fad2902c3fb870cbd98a3; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
+  ryšio_patikimumas: susije_su -> Krymas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krymo chanatas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymo chanatas" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-004
@@ -160,7 +252,27 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=39d58346abbabd93cacf7101c272f2f75bbe7724ab209eb01bc23cc2e7dd29ba; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
+  ryšio_patikimumas: susije_su -> Krymas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krymo chanatas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymo chanatas" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 564259-564807; hash=ed76e58ee137cac2b1d45d4de1c94ebcc4d708c0c8b758169ff7774b1fcc75fe; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krymas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krymo chanatas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Krymas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krymo chanatas" parinktas kaip owner_note_path. Targetas "Krymas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Krymo chanatas susije_su [[objektai/vietos/Maskva]]

@@ -70,7 +70,7 @@ Nenurodyta
   global_id: t-171455
   teiginys: 'Pirmomis sausio įvykių dienomis mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo užduotį ginti rūmus ir jų išorinį perimetrą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir paremtas pateikta citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatinis ir paremtas pateikta citata.'
@@ -112,7 +112,7 @@ Nenurodyta
   global_id: t-171460
   teiginys: 'Aukščiausiosios Tarybos rūmų gynybai priskiriami trys principai: agresijos fiksavimas, karinė gynyba ir pilietinis nesmurtinis pasipriešinimas.'
   sudarymo_pagrindimas: 'Teiginys performuluotas kaip šaltinyje išskiriama interpretacija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
 
@@ -121,12 +121,22 @@ Nenurodyta
   global_id: t-171461
   teiginys: 'Artėjant 1991 m. rugpjūčio Maskvos pučui, Lietuvos kariai jau turėjo pirmąsias uniformas, o Aukščiausiosios Tarybos gynyba buvo geriau organizuota.'
   sudarymo_pagrindimas: 'Santrumpa išplėsta, o sakinys suformuluotas be OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Santrumpa išplėsta, o sakinys suformuluotas be OCR triukšmo.'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c67dca03993f06af1b200d6adba1e9e5bb61c846e8bb85bf76bc9fd63366f163; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos rūmai (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-171462"></a>
 - t-010
@@ -137,6 +147,16 @@ Nenurodyta
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=90d8d52ebf2bc9c3e3ed5f71affcb17f4a9cf44a349ceb5886644e47dac1274c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-171463"></a>
 - t-011
@@ -149,22 +169,42 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškesnį sakinį be nutrūkusių kabučių ir perteklinio fragmento.'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ac8b4ae54bc075aa369a6a91ffc5a2b99eb9d1f8900373fe210deeeb732c5522; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos rūmai (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-171464"></a>
 - t-012
   global_id: t-171464
   teiginys: 'Pirmomis sausio įvykių dienomis tik mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo aiškesnę užduotį ginti rūmus ir jų išorinį perimetrą.'
   sudarymo_pagrindimas: 'Santrumpa išplėsta, kad teiginys būtų aiškesnis viešai bazei.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Santrumpa išplėsta, kad teiginys būtų aiškesnis viešai bazei.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1056098-1056488; hash=9217b10884ca16bc904eb7f1defcfff84da4bfcb9e9af2699135824e2843375d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> SSRS: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event
+  ryšio_targeto_parinkimas: SSRS: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)" parinktas kaip owner_note_path. Targetas "SSRS" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Virginijus Česnulevičius.md#claim-t-79218|Virginijus Česnulevičius]]: Virginijus Česnulevičius 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.
-- susijęs iš [[objektai/asmenys/Vygantas Jocius.md#claim-t-39677|Vygantas Jocius]]: Parlamento gynėjas ir kūrėjas savanoris Vygantas Jocius 2010 m. pagamino demonstracinę butelio su padegamuoju skysčiu versiją.
 - susijęs iš [[objektai/asmenys/Česlovas Jezerskas.md#claim-t-79244|Česlovas Jezerskas]]: Česlovas Jezerskas 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.
 - susijęs iš [[objektai/autoriai/Švedas V.md#claim-t-39873|Švedas V]]: V. Švedas 1994 m. VPU parengė bakalauro darbą „Sausio 13-oji ir Aukščiausios Tarybos rūmų gynimas“.
+- susijęs iš [[objektai/asmenys/Vygantas Jocius.md#claim-t-39677|Vygantas Jocius]]: Parlamento gynėjas ir kūrėjas savanoris Vygantas Jocius 2010 m. pagamino demonstracinę butelio su padegamuoju skysčiu versiją.
 - susijęs iš [[objektai/grupes/Dariaus ir Girėno skraidymo klubas.md#claim-t-78164|Dariaus ir Girėno skraidymo klubas]]: Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo.
 - susijęs iš [[objektai/grupes/Dariaus ir Girėno skraidymo klubas.md#claim-t-78165|Dariaus ir Girėno skraidymo klubas]]: Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo.
 ## Reikšmingi paminėjimai
@@ -206,6 +246,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1056098-1056488; hash=9217b10884ca16bc904eb7f1defcfff84da4bfcb9e9af2699135824e2843375d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> SSRS: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event
+  ryšio_targeto_parinkimas: SSRS: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)" parinktas kaip owner_note_path. Targetas "SSRS" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-010
 
 - c-003
@@ -220,6 +270,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=90d8d52ebf2bc9c3e3ed5f71affcb17f4a9cf44a349ceb5886644e47dac1274c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
 
 - c-004
@@ -282,6 +342,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c67dca03993f06af1b200d6adba1e9e5bb61c846e8bb85bf76bc9fd63366f163; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos rūmai (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-007
@@ -357,4 +427,14 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-011
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ac8b4ae54bc075aa369a6a91ffc5a2b99eb9d1f8900373fe210deeeb732c5522; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aukščiausiosios Tarybos rūmai (institucija): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Aukščiausiosios Tarybos rūmai (institucija): mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)" parinktas kaip owner_note_path. Targetas "Aukščiausiosios Tarybos rūmai (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001

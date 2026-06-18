@@ -35,6 +35,9 @@ Dusburgietis teigia, kad mannhardt M.
   temporalinis_llm_pakomentavimas: 'Bibliografinė citata pagrindžia autoriaus darbą, pavadinimą, vietą ir metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a250c7b69313e6251138616c85b335fc2126dbba21e6a9181b0cd6ff43c569ef; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +52,6 @@ Dusburgietis teigia, kad mannhardt M.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a250c7b69313e6251138616c85b335fc2126dbba21e6a9181b0cd6ff43c569ef; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

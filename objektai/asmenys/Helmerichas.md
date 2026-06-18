@@ -31,19 +31,39 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   global_id: t-89794
   teiginys: 'Helmerichas buvo šeštasis Prūsijos žemės magistras, vadovavo trejus metus ir buvo palaidotas Kulmenzės bažnyčioje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Kulmenzė; mentioned_place: Kulmenzė; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Helmerichas|Helmerichas]] mirė Kulmenzė'
+  susije_objektai: 'burial_place: Kulmenzė; location: Kulmenzė; mentioned_place: Kulmenzė; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Helmerichas|Helmerichas]] buvo palaidotas Kulmenzė; [[objektai/asmenys/Helmerichas|Helmerichas]] mirė Kulmenzė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6880d217528626dcca2cfbeaa8f33c3ed4e17a2e043aab6d30b1a484d3ddad51; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_palaidotas -> Kulmenzė: 1.00
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_burial_local_place
+  ryšio_subjekto_parinkimas: Helmerichas: owner_note_path, person, gap=82
+  ryšio_targeto_parinkimas: Kulmenzė: nearest_after_predicate, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_burial_local_place". Subjektas "Helmerichas" parinktas kaip owner_note_path. Targetas "Kulmenzė" parinktas kaip nearest_after_predicate aplink predikatą "palaidotas". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89795"></a>
 - t-002
   global_id: t-89795
   teiginys: 'Helmerichas sutelkė savo pajėgas, nusekė paskui priešus iki Lubavos žemės ir surikiavęs kariuomenę juos užpuolė.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Helmericho veiksmus ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Lubava; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kulmas; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 413932-415254; hash=c1cd7468e87287d40614f6ac93ec5c6c75a746186eaf9a12134cfbb4b7a5d10e; match=word_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lubava: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Helmerichas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lubava: mention_match, place, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Helmerichas" parinktas kaip owner_note_path. Targetas "Lubava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-89796"></a>
 - t-003
@@ -53,6 +73,16 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 413932-415254; hash=c1cd7468e87287d40614f6ac93ec5c6c75a746186eaf9a12134cfbb4b7a5d10e; match=word_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herkus Mantas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Helmerichas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Herkus Mantas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Helmerichas" parinktas kaip owner_note_path. Targetas "Herkus Mantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89686|Ditrichas (Prūsijos žemės maršalas)]]: Lubavos žemėje prūsai nukovė Prūsijos žemės maršalą Ditrichą per mūšį su Helmericho kariuomene.
 - susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89688|Ditrichas (Prūsijos žemės maršalas)]]: Lubavos žemėje prūsai nukovė Prūsijos žemės maršalą Ditrichą, magistrą Helmerichą ir keturiasdešimt brolių.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175192|Herkus Mantas]]: Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir privertė magistrą Helmerichą jį vytis iki Lubavos žemės.
@@ -97,8 +127,39 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6880d217528626dcca2cfbeaa8f33c3ed4e17a2e043aab6d30b1a484d3ddad51; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_palaidotas -> Kulmenzė: 1.00
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_burial_local_place
+  ryšio_subjekto_parinkimas: Helmerichas: owner_note_path, person, gap=82
+  ryšio_targeto_parinkimas: Kulmenzė: nearest_after_predicate, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_burial_local_place". Subjektas "Helmerichas" parinktas kaip owner_note_path. Targetas "Kulmenzė" parinktas kaip nearest_after_predicate aplink predikatą "palaidotas". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 413932-415254; hash=c1cd7468e87287d40614f6ac93ec5c6c75a746186eaf9a12134cfbb4b7a5d10e; match=word_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herkus Mantas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Helmerichas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Herkus Mantas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Helmerichas" parinktas kaip owner_note_path. Targetas "Herkus Mantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 413932-415254; hash=c1cd7468e87287d40614f6ac93ec5c6c75a746186eaf9a12134cfbb4b7a5d10e; match=word_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lubava: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Helmerichas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lubava: mention_match, place, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Helmerichas" parinktas kaip owner_note_path. Targetas "Lubava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
+- Helmerichas buvo_palaidotas [[objektai/vietos/Kulmenzė]]
 - Helmerichas mire [[objektai/vietos/Kulmenzė]]

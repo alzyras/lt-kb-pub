@@ -30,11 +30,21 @@ Urbonas, O.
 - t-001
   global_id: t-30887
   teiginys: 'O. Urbonas parašė veikalą „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“, išleistą 1960 m. Brooklyne.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Zaskevičius, St|Zaskevičius, St]]; mentioned_event: [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dancigas'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]; mentioned_author: [[objektai/autoriai/Zaskevičius, St|Zaskevičius, St]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dancigas'
   temporaliniai_duomenys: 'mūšio data: 1960 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8f9e1aa24dfb43c0f0c53f0ab6efa2358dbd5c04624f94a45b71e0f1197b7773; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Tanenbergo mūšis 1410 m. liepos 15 d: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: O. Urbonas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Tanenbergo mūšis 1410 m. liepos 15 d: mention_match, event, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "O. Urbonas" parinktas kaip owner_note_path. Targetas "Tanenbergo mūšis 1410 m. liepos 15 d" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Urbonas, O.md#claim-t-31020|Urbonas, O]]: O. Urbonas 1960 m. Brukline paskelbė darbą „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“.
 ## Reikšmingi paminėjimai
 
@@ -54,3 +64,13 @@ Urbonas, O.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8f9e1aa24dfb43c0f0c53f0ab6efa2358dbd5c04624f94a45b71e0f1197b7773; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Tanenbergo mūšis 1410 m. liepos 15 d: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: O. Urbonas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Tanenbergo mūšis 1410 m. liepos 15 d: mention_match, event, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "O. Urbonas" parinktas kaip owner_note_path. Targetas "Tanenbergo mūšis 1410 m. liepos 15 d" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

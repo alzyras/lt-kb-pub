@@ -33,6 +33,16 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Skydai|Skydai]]; mentioned_place: Krokuva; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4ff67c66f3b92c94583165c64eb2b5c0c42da518e6b00763c02432ac07b37056; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kijevas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: V. T. Pašuto: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Kijevas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "V. T. Pašuto" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-31047"></a>
 - t-002
@@ -41,6 +51,16 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Kijevas; mentioned_place: Maskva'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cdafb3f435be29ab957ad6ce11e1f9a9fb8a44d347f716e9236c3aaa52f7b0e3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: V. T. Pašuto: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "V. T. Pašuto" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Pašuto, V. T. Očerki po istorii Galicko-Volynskoj Rusi: V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista 1950 m. Maskvoje.
 - susijęs iš V. T. Pašuto, Očerki po istorii Galicko-Volynskoj Rusi: V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista Maskvoje 1950 m.
 - susijęs iš V. T. Pašuto, Očerki po istorii Galicko-Volynskoj Rusi: V. T. Pašuto veikalas „Očerki po istorii Galicko-Volynskoj Rusi“ buvo išleistas 1950 m.
@@ -86,4 +106,24 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4ff67c66f3b92c94583165c64eb2b5c0c42da518e6b00763c02432ac07b37056; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kijevas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: V. T. Pašuto: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Kijevas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "V. T. Pašuto" parinktas kaip owner_note_path. Targetas "Kijevas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cdafb3f435be29ab957ad6ce11e1f9a9fb8a44d347f716e9236c3aaa52f7b0e3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: V. T. Pašuto: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "V. T. Pašuto" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

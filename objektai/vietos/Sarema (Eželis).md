@@ -23,6 +23,9 @@ XIII a. pradžioje lietuviai žiemą ledu perėję įlanką pasiekdavo Saremą, 
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2a1f0bb90bb5e60c6feb7e1fd1df32001edb95e0480bd01ee2d2b8ef2be70e4b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -41,3 +44,6 @@ XIII a. pradžioje lietuviai žiemą ledu perėję įlanką pasiekdavo Saremą, 
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2a1f0bb90bb5e60c6feb7e1fd1df32001edb95e0480bd01ee2d2b8ef2be70e4b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

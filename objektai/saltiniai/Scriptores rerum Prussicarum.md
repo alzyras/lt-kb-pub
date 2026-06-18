@@ -30,12 +30,22 @@ Dusburgietis teigia, kad nuorašus parengė ir 1861 m. „Scriptores rerum Pruss
   global_id: t-61290
   teiginys: 'M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė mokslinį kronikos leidimą lotynų kalba.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata apie 1861 m. leidimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_author: [[objektai/autoriai/M. Tepenas|M. Tepenas]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Berlynas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_author: [[objektai/autoriai/M. Tepenas|M. Tepenas]]; mentioned_place: Berlynas'
   temporaliniai_duomenys: 'įvykio data: 1861 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata apie 1861 m. leidimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6fc9c1e0e761856d71d369daf878816d3749fc74cc5d5918a439e0c417ee6a03; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lotynai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Scriptores rerum Prussicarum: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lotynai: mention_match, group, gap=74
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Scriptores rerum Prussicarum" parinktas kaip owner_note_path. Targetas "Lotynai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -57,3 +67,13 @@ Dusburgietis teigia, kad nuorašus parengė ir 1861 m. „Scriptores rerum Pruss
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6fc9c1e0e761856d71d369daf878816d3749fc74cc5d5918a439e0c417ee6a03; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lotynai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Scriptores rerum Prussicarum: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lotynai: mention_match, group, gap=74
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Scriptores rerum Prussicarum" parinktas kaip owner_note_path. Targetas "Lotynai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

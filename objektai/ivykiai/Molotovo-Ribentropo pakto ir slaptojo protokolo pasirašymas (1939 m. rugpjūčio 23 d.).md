@@ -44,12 +44,22 @@ Nenurodyta
   global_id: t-20426
   teiginys: '1939 m. rugpjūčio 23 d. Vokietija ir SSRS slaptuoju protokolu pasidalijo regioną įtakos sferomis.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia glaustą faktą apie slaptąjį protokolą.'
-  susije_objektai: 'mentioned_place: Estija; mentioned_place: Kaunas; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: SSRS; mentioned_place: Estija; mentioned_place: Kaunas; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia glaustą faktą apie slaptąjį protokolą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7ea4364c30dadf0ef69af66ede05bd77190b856df2581f5f3bcc3ba7ef2a4478; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> SSRS: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Molotovo-Ribentropo pakto ir slaptojo protokolo pasirašymas (1939 m. rugpjūčio 23 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: SSRS: mention_match, place, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Molotovo-Ribentropo pakto ir slaptojo protokolo pasirašymas (1939 m. rugpjūčio 23 d.)" parinktas kaip owner_note_path. Targetas "SSRS" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -71,3 +81,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7ea4364c30dadf0ef69af66ede05bd77190b856df2581f5f3bcc3ba7ef2a4478; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> SSRS: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Molotovo-Ribentropo pakto ir slaptojo protokolo pasirašymas (1939 m. rugpjūčio 23 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: SSRS: mention_match, place, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Molotovo-Ribentropo pakto ir slaptojo protokolo pasirašymas (1939 m. rugpjūčio 23 d.)" parinktas kaip owner_note_path. Targetas "SSRS" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -34,6 +34,9 @@ Schie­ mann, be kitko, išsp. Historische Darstellungen und archivalische Studi
   temporalinis_llm_pakomentavimas: 'Citata patvirtina autorių, pavadinimą ir išleidimo metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 250783-250948; hash=ba8f366accd968f4c8175335b285b63578427332a67ac14383911a8dc876fd75; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +52,6 @@ Schie­ mann, be kitko, išsp. Historische Darstellungen und archivalische Studi
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 250783-250948; hash=ba8f366accd968f4c8175335b285b63578427332a67ac14383911a8dc876fd75; match=exact
+  sprendimo_priezastis: auto

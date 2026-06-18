@@ -26,6 +26,16 @@ Lietuvos - 2-asis pėstininkų pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
   semantiniai_rysiai: 'Paneriai priklausė [[objektai/grupes/7-asis pėstininkų pulkas|7-asis pėstininkų pulkas]]; Lenkija priklausė [[objektai/grupes/7-asis pėstininkų pulkas|7-asis pėstininkų pulkas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 631766-632189; hash=417d3785be8b7480122c93134f919440c2dafd4a8f99f5de0bb651411b85f7b2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> 7-asis pėstininkų pulkas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_belonging_owner_after_predicate
+  ryšio_subjekto_parinkimas: Lenkija: source_before_predicate, place, gap=28
+  ryšio_targeto_parinkimas: 7-asis pėstininkų pulkas: owner_note_path, group, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_after_predicate". Subjektas "Lenkija" parinktas kaip source_before_predicate. Targetas "7-asis pėstininkų pulkas" parinktas kaip owner_note_path aplink predikatą "priklause". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -49,6 +59,16 @@ Lietuvos - 2-asis pėstininkų pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 631766-632189; hash=417d3785be8b7480122c93134f919440c2dafd4a8f99f5de0bb651411b85f7b2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: priklause -> 7-asis pėstininkų pulkas: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_belonging_owner_after_predicate
+  ryšio_subjekto_parinkimas: Lenkija: source_before_predicate, place, gap=28
+  ryšio_targeto_parinkimas: 7-asis pėstininkų pulkas: owner_note_path, group, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_belonging_owner_after_predicate". Subjektas "Lenkija" parinktas kaip source_before_predicate. Targetas "7-asis pėstininkų pulkas" parinktas kaip owner_note_path aplink predikatą "priklause". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/vietos/Lenkija]] priklause 7-asis pėstininkų pulkas

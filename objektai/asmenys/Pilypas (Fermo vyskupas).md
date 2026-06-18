@@ -23,10 +23,19 @@ Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, a
   global_id: t-60411
   teiginys: 'Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir citata paremia Pilypo pareigas bei atvykimą į Lenkiją.'
-  susije_objektai: 'location: Lenkija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Mstivojus|Mstivojus]]; mentioned_place: Lenkija; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Volynė'
-  semantiniai_rysiai: '[[objektai/asmenys/Pilypas (Fermo vyskupas)|Pilypas (Fermo vyskupas)]] keliavo į Lenkija'
+  susije_objektai: 'location: Lenkija; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Mstivojus|Mstivojus]]; mentioned_place: Lenkija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Volynė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=25a74c28a0cab15500d2da60bda900e771556d704aa1e4cc428673d37ee6d5ea; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Lenkija: 0.88
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Konradas: nearest_actor, person, gap=28
+  ryšio_targeto_parinkimas: Lenkija: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Konradas" parinktas kaip nearest_actor. Targetas "Lenkija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 ## Reikšmingi paminėjimai
 
@@ -49,6 +58,13 @@ Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, a
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Pilypas (Fermo vyskupas) keliavo_i [[objektai/vietos/Lenkija]]
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=25a74c28a0cab15500d2da60bda900e771556d704aa1e4cc428673d37ee6d5ea; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Lenkija: 0.88
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Konradas: nearest_actor, person, gap=28
+  ryšio_targeto_parinkimas: Lenkija: nearest_after_predicate, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Konradas" parinktas kaip nearest_actor. Targetas "Lenkija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.

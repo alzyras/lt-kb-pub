@@ -32,6 +32,9 @@ Dusburgietis teigia, kad mroczko T.
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas bibliografinis faktas apie nurodytą darbą ir atitinka citatą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 787310-787450; hash=e3a37ffeffcf20ac129e3b0bdd4c003d6c9b5f482edf4cf5dd17ddeb96766948; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +49,6 @@ Dusburgietis teigia, kad mroczko T.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 787310-787450; hash=e3a37ffeffcf20ac129e3b0bdd4c003d6c9b5f482edf4cf5dd17ddeb96766948; match=exact
+  sprendimo_priezastis: auto

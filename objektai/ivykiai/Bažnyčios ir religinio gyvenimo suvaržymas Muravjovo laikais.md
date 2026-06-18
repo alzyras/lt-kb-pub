@@ -42,6 +42,9 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 983372-983810; hash=54d89e974b6aac9690bbd1913dbc980d1e5798764d7e8829039058389c063e4b; match=exact
+  sprendimo_priezastis: auto
 <a id="claim-t-66489"></a>
 - t-002
   global_id: t-66489
@@ -50,6 +53,9 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 983811-984221; hash=9db9316ff2779eeb24d024eea3d5d5343fd1627aeb07f734afd92000cd98e128; match=exact
+  sprendimo_priezastis: auto
 <a id="claim-t-66490"></a>
 - t-003
   global_id: t-66490
@@ -58,6 +64,9 @@ Nenurodyta
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 984349-984695; hash=f50b98072cafed1dd7d77d1c450af8a3ad06f33afd4702c6e082b0a8f09732db; match=exact
+  sprendimo_priezastis: auto
 <a id="claim-t-66492"></a>
 - t-004
   global_id: t-66492
@@ -66,6 +75,9 @@ Nenurodyta
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 984837-985208; hash=9e6497df714ded0c29ca27acc776bd8484302dea92710b24fce53602ee0059ca; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -106,6 +118,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 983372-983810; hash=54d89e974b6aac9690bbd1913dbc980d1e5798764d7e8829039058389c063e4b; match=exact
+  sprendimo_priezastis: auto
     - t-002
 - c-003
   santrauka: 'Muravjovo laikais Lietuvos kaimuose ir pakelėse kryžius buvo uždrausta statyti be leidimo.'
@@ -123,6 +138,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 983811-984221; hash=9db9316ff2779eeb24d024eea3d5d5343fd1627aeb07f734afd92000cd98e128; match=exact
+  sprendimo_priezastis: auto
     - t-003
 - c-004
   santrauka: 'Muravjovo laikais Žemaičių vyskupui su įstaigomis buvo įsakyta persikelti iš Varnių į Kauną.'
@@ -140,4 +158,10 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 984349-984695; hash=f50b98072cafed1dd7d77d1c450af8a3ad06f33afd4702c6e082b0a8f09732db; match=exact
+  sprendimo_priezastis: auto
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 984837-985208; hash=9e6497df714ded0c29ca27acc776bd8484302dea92710b24fce53602ee0059ca; match=exact
+  sprendimo_priezastis: auto

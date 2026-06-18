@@ -34,7 +34,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   global_id: t-109066
   teiginys: 'Alytaus, Plungės ir Utenos gamyklose 50–70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos duomenis apie Alytaus gamyklas.'
-  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Plungė; mentioned_place: SSRS; mentioned_place: Utena'
+  susije_objektai: 'mentioned_place: Plungė; mentioned_place: Utena; mentioned_place: Kaimas; mentioned_place: SSRS'
   pagrindžia:
     - c-006
 
@@ -43,7 +43,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   global_id: t-109067
   teiginys: '1919 m. kovos su bolševikais vyko prie Alytaus, o kovo mėnesį iš rusų buvo atimti Jėznas, Butrimonys ir Krekenava.'
   sudarymo_pagrindimas: 'Pašalinti kontekstiniai fragmentai ir patikslintas karo kontekstas iš citatos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Butrimonys; mentioned_place: Kaunas; mentioned_place: Krekenava; mentioned_place: Lietuva; mentioned_place: Prienai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Butrimonys; mentioned_place: Krekenava; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Prienai'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinti kontekstiniai fragmentai ir patikslintas karo kontekstas iš citatos.'
@@ -55,7 +55,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   global_id: t-109068
   teiginys: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad iš pietų pultų Kauną.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie Alytaus vaidmenį bolševikų Kauno puolimo plane.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prienai'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prienai'
   pagrindžia:
     - c-008
 
@@ -64,7 +64,7 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   global_id: t-109069
   teiginys: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje ir iš pietų pulti Kauną.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prienai; mentioned_place: Žiežmariai'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prienai; mentioned_place: Žiežmariai'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -84,11 +84,21 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - t-007
   global_id: t-109073
   teiginys: 'Bolševikų pajėgos planavo persikelti per Nemuną Alytuje ir Prienuose, kad galėtų pulti Kauną iš pietų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prienai; mentioned_place: Žiežmariai'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Prienai; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Žiežmariai'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4edccd636a1618f643847d6a50553d2c95bd578c59eb2ca280a12eaec3040590; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Alytus: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alytus" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-109075"></a>
 - t-008
@@ -98,6 +108,16 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5a46a2fc7c2890f253cdf7b669eb742e55465f555844a92af598eb7a3d7d7668; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jieznas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Alytus: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jieznas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alytus" parinktas kaip owner_note_path. Targetas "Jieznas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-109076"></a>
 - t-009
@@ -119,8 +139,18 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
     - c-002
 - susijęs iš Subartonys: Viena kovotojų grupė nuvyko Subartonių miško link sulaikyti galimo pastiprinimo iš Alytaus.
 - susijęs iš Varėna: Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.
-- susijęs iš [[objektai/asmenys/Ibrahimas (Turkijos čiaušas).md#claim-t-87513|Ibrahimas (Turkijos čiaušas)]]: Turkijos imperatoriaus čiaušas Ibrahimas buvo atsiųstas pas karalių ir, atvykęs iš Maskvos, paliko Vilniuje tarnus, žirgus bei daiktus.
 - susijęs iš [[objektai/asmenys/Jonas Neifalta-Lakūnas.md#claim-t-79052|Jonas Neifalta-Lakūnas]]: Jonas Neifalta-Lakūnas iki okupacijos tarnavo Alytaus ulonų pulke ir turėjo puskarininkio laipsnį.
+- susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66777|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Druskininkų bataliono grupei nenutraukus ryšio linijų tarp Merkinės ir Druskininkų, sovietai susisiekė su Alytumi ir išsikvietė pagalbą.
+- susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-71780|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: 1945 m. rugpjūčio 18 d. Alytaus NKVD slaptame pranešime J. Bartašiūnui rašyta, kad operacijos metu nukauta 17 partizanų.
+- susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-71782|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: Alytaus NKVD 1945 m. rugpjūčio 18 d. slaptame pranešime J. Bartašiūnui rašyta, kad per operaciją nukauta 17 partizanų.
+- susijęs iš Daugai: Balińskis slaptą sandėrį lokalizavo girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus.
+- susijęs iš Nemunas: Mezolito įrankių gausiai aptikta palei Nemuną, Nerį, Merkį, Ūlą ir Katrą, taip pat paežerėse nuo Lydos iki Alytaus ir Užnemunės durpynuose.
+- susijęs iš Prienai: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.
+- susijęs iš Prienai: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.
+- susijęs iš Subartonys: Viena kovotojų grupė nuvyko Subartonių miško link sulaikyti galimo pastiprinimo iš Alytaus.
+- susijęs iš Varėna: Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.
+- susijęs iš Žiežmariai: 1919 m. vasario pradžioje bolševikų karinė vadovybė, sužinojusi, kad nuo Žiežmarių iki Alytaus nėra lietuvių ir vokiečių dalinių, ryžosi pulti Kauną iš pietų.
+- susijęs iš [[objektai/asmenys/Ibrahimas (Turkijos čiaušas).md#claim-t-87513|Ibrahimas (Turkijos čiaušas)]]: Turkijos imperatoriaus čiaušas Ibrahimas buvo atsiųstas pas karalių ir, atvykęs iš Maskvos, paliko Vilniuje tarnus, žirgus bei daiktus.
 - susijęs iš [[objektai/asmenys/Kristupas Radvila.md#claim-t-87403|Kristupas Radvila]]: 1586 m. atviras Lietuvos Ponų Tarybos laiškas Kristupui Radvilai įpareigojo Vilniuje parinkti namus čiaušui Ibrahimui.
 - susijęs iš [[objektai/daiktai/Lietuvos akmens amžiaus dirbiniai.md#claim-t-64958|Lietuvos akmens amžiaus dirbiniai]]: Mezolito stovyklavietėse Lietuvoje aptikta daug titnaginių ir kalninių įrankių.
 - susijęs iš [[objektai/daiktai/Mosin-Nagant šautuvas.md#claim-t-39209|Mosin-Nagant šautuvas]]: Po 1877-1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas.
@@ -129,17 +159,13 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - susijęs iš [[objektai/grupes/Nemunaičio apylinkių partizanų būrys.md#claim-t-41104|Nemunaičio apylinkių partizanų būrys]]: A. Ramanauskas 1945 m. balandį įstojo į Nemunaičio apylinkių partizanų būrį ir iš karto buvo išrinktas jo vadu.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-183675|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: 1945 m. gruodžio 15 d. 11 val. Adolfas Ramanauskas-Vanagas balta raketa paskelbė Merkinės puolimo pradžią.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66776|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Per Merkinės puolimą partizanai užėmė NKVD būstinę, paštą, valsčiaus ir milicijos įstaigas.
-- susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66777|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Druskininkų bataliono grupei nenutraukus ryšio linijų tarp Merkinės ir Druskininkų, sovietai susisiekė su Alytumi ir išsikvietė pagalbą.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66779|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: 1945 m. gruodžio 15 d. 11 val. A. Ramanauskas-Vanagas iššovė baltą raketą ir paskelbė atakos pradžią.
 - susijęs iš [[objektai/ivykiai/Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.).md#claim-t-37193|Pirmasis Vilniaus krašto okupavimas (1919 m. balandžio 19 d.)]]: 1919 m. balandžio pradžioje Lietuvos karinė vadovybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti Vilnių ir pirmiau nei lenkai jį užimti.
-- susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-71780|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: 1945 m. rugpjūčio 18 d. Alytaus NKVD slaptame pranešime J. Bartašiūnui rašyta, kad operacijos metu nukauta 17 partizanų.
 - susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-71781|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: Alytaus NKVD 1945 m. rugpjūčio 18 d. slaptame pranešime rašyta, kad per Žuvinto Palių operaciją nukauta 17 partizanų.
-- susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-71782|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: Alytaus NKVD 1945 m. rugpjūčio 18 d. slaptame pranešime J. Bartašiūnui rašyta, kad per operaciją nukauta 17 partizanų.
 - susijęs iš Atviras Lietuvos ponų tarybos laiškas dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje (1586 m. gruodžio 13 d.): 1586 m. gruodžio 13 d. Lietuvos ponų taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje ir nurodė pasirūpinti jo nakvyne bei saugumu.
 - susijęs iš Kalniškės mūšio dalyvio Petro Seredos-Stumbro pasakojimas (1990 m. gegužės 18 d.): Petras Sereda-Stumbras pasakojo, kad NKVD kariuomenė Kalniškės mišką apsupo iš vakaro Simno stribų prašymu.
 - susijęs iš Kalniškės mūšio dalyvio Petro Seredos-Stumbro pasakojimas (1990 m. gegužės 18 d.): Petras Sereda-Stumbras pasakojo, kad 1945 m. gegužės 16 d. Kalniškės miške apie 100 partizanų būrį apsupo NKVD kariuomenė.
 - susijęs iš Alovė: 1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD 220-uoju pasienio pulku.
-- susijęs iš Daugai: Balińskis slaptą sandėrį lokalizavo girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus.
 - susijęs iš Daugai: 1919 m. balandžio 3-8 d. Pietinė lietuvių grupė turėjo užimti Daugus ir Varėną, o tada pro Lentvarį pulti Vilnių.
 - susijęs iš Gardinas: 1586 metų gruodžio 13 dieną Gardine Lietuvos ponų taryba parengė laišką dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje.
 - susijęs iš Katra: Mezolito įrankių gausiai aptikta palei Katrą ir kitas Lietuvos upes.
@@ -148,19 +174,13 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 - susijęs iš Merkinė: Po 1945 m. gruodžio 15 d. Merkinės puolimo jame dalyvavę partizanų būriai pamažu atsitraukė iš Merkinės.
 - susijęs iš Merkinė: Po 1945 m. gruodžio 15 d. Merkinės puolimo partizanų būriai pamažu atsitraukė iš miestelio.
 - susijęs iš Merkys: Palei Merkį, Nemuną, Nerį, Ūlą ir Katrą gausiai aptikta mezolito įrankių.
-- susijęs iš Nemunas: Mezolito įrankių gausiai aptikta palei Nemuną, Nerį, Merkį, Ūlą ir Katrą, taip pat paežerėse nuo Lydos iki Alytaus ir Užnemunės durpynuose.
-- susijęs iš Prienai: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.
-- susijęs iš Prienai: Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.
 - susijęs iš Smalėnai: Rugsėjo 22 d. prie Smalėnų miestelio šarvuotasis traukinys „Gediminas“ susirėmė su lenkų artilerija ir rėmė Lietuvos pėstininkus.
-- susijęs iš Subartonys: Viena kovotojų grupė nuvyko Subartonių miško link sulaikyti galimo pastiprinimo iš Alytaus.
 - susijęs iš Varčios miškas: 1945 m. birželio 14 d. Varčios miške tarp Alovės ir Daugų partizanai susikovė su NKVD kariuomenės 220-uoju pasienio pulku.
-- susijęs iš Varėna: Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.
 - susijęs iš Vilnius: 1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje.
 - susijęs iš Vilnius: 1919 m. balandžio pradžioje Lietuvos karinė vadovybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti Vilnių ir pirmiau nei lenkai jį užimti.
 - susijęs iš Vysla: Svidrinės kultūros vardas siejamas su Svidrais prie Vyslos Lenkijoje.
 - susijęs iš Vysla: Lietuvoje buvo nemažai svidrinės kultūros židinių; jos vardas siejamas su Svidrais prie Vyslos Lenkijoje.
 - susijęs iš Šeštokai: Rugsėjo 10 d. šarvuotas traukinys „Gediminas“ iš Kauno per Varėną ir Alytų nuvyko į Šeštokus.
-- susijęs iš Žiežmariai: 1919 m. vasario pradžioje bolševikų karinė vadovybė, sužinojusi, kad nuo Žiežmarių iki Alytaus nėra lietuvių ir vokiečių dalinių, ryžosi pulti Kauną iš pietų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -253,6 +273,16 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   statusas: verified
   pagrindžia:
     - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4edccd636a1618f643847d6a50553d2c95bd578c59eb2ca280a12eaec3040590; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Alytus: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alytus" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-004
@@ -389,4 +419,14 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5a46a2fc7c2890f253cdf7b669eb742e55465f555844a92af598eb7a3d7d7668; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jieznas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Alytus: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Jieznas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Alytus" parinktas kaip owner_note_path. Targetas "Jieznas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003

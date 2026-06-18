@@ -32,12 +32,22 @@ Dusburgietis teigia, kad valdovas Henrikas, Varmės vyskupas, vėliau, 1279 vie�
   global_id: t-60310
   teiginys: '1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur kronikos metu jie tebestovėjo.'
   sudarymo_pagrindimas: 'Pašalintas šaltinio boilerplate ir puslapio triukšmas, sakinys sutrumpintas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Brunsbergas; mentioned_place: Varmė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Brunsbergas; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Varmė; mentioned_place: Viena'
   temporaliniai_duomenys: 'įkūrimo data: 1279 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas šaltinio boilerplate ir puslapio triukšmas, sakinys sutrumpintas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 434355-434731; hash=2c4bc083d6a697f0cd374b8a45750331b9d11072eaf6475c75d1a2c7e7089933; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Brunsbergas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas (Varmės vyskupas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Brunsbergas: mention_match, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas (Varmės vyskupas)" parinktas kaip owner_note_path. Targetas "Brunsbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -55,4 +65,24 @@ Dusburgietis teigia, kad valdovas Henrikas, Varmės vyskupas, vėliau, 1279 vie�
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 434355-434731; hash=2c4bc083d6a697f0cd374b8a45750331b9d11072eaf6475c75d1a2c7e7089933; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Brunsbergas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas (Varmės vyskupas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Brunsbergas: mention_match, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas (Varmės vyskupas)" parinktas kaip owner_note_path. Targetas "Brunsbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 434355-434731; hash=2c4bc083d6a697f0cd374b8a45750331b9d11072eaf6475c75d1a2c7e7089933; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Brunsbergas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Henrikas (Varmės vyskupas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Brunsbergas: mention_match, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Henrikas (Varmės vyskupas)" parinktas kaip owner_note_path. Targetas "Brunsbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

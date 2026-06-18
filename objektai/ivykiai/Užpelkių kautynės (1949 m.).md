@@ -44,12 +44,22 @@ Nenurodyta
   global_id: t-10308
   teiginys: '1949 m. rugpjūčio 13 d. Užpelkių miške sunaikintas Prisikėlimo apygardos štabas; žuvo LLKS tarybos prezidiumo nariai Petras Bartkus-Žadgaila, Bronius Liesis-Naktis, Vytautas Šniuolis-Svajūnas ir dar trys neatpažinti partizanai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie kautynių rezultatą ir žuvusiuosius.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Juozas Paliūnas-Rytas|Juozas Paliūnas-Rytas]]; mentioned_person: [[objektai/asmenys/Petras Bartkus-Žadgaila|Petras Bartkus-Žadgaila]]; mentioned_person: [[objektai/asmenys/Vytautas Šniuolis-Svajūnas|Vytautas Šniuolis-Svajūnas]]; mentioned_place: Užpelkiai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Petras Bartkus-Žadgaila|Petras Bartkus-Žadgaila]]; mentioned_person: [[objektai/asmenys/Vytautas Šniuolis-Svajūnas|Vytautas Šniuolis-Svajūnas]]; mentioned_place: Užpelkiai; mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Juozas Paliūnas-Rytas|Juozas Paliūnas-Rytas]]'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie kautynių rezultatą ir žuvusiuosius.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 999970-1000475; hash=6a581e3148eaaf41f576c1acac1d58d597fa5a26455a760d856b11b1ac16c51e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Petras Bartkus-Žadgaila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Užpelkių kautynės (1949 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Petras Bartkus-Žadgaila: mention_match, person, gap=93
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užpelkių kautynės (1949 m.)" parinktas kaip owner_note_path. Targetas "Petras Bartkus-Žadgaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -74,3 +84,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 999970-1000475; hash=6a581e3148eaaf41f576c1acac1d58d597fa5a26455a760d856b11b1ac16c51e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Petras Bartkus-Žadgaila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Užpelkių kautynės (1949 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Petras Bartkus-Žadgaila: mention_match, person, gap=93
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užpelkių kautynės (1949 m.)" parinktas kaip owner_note_path. Targetas "Petras Bartkus-Žadgaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

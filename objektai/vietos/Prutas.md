@@ -22,7 +22,7 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
   global_id: t-84558
   teiginys: 'Prie Pruto upės buvę kaimai buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.'
   sudarymo_pagrindimas: 'Ilgas dokumento fragmentas sutrumpintas iki aiškaus fakto apie Prutą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/inkorporuoti|inkorporuoti]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_place: Bełskas; mentioned_place: Losičiai; mentioned_place: Smolnėnai; mentioned_place: Teterinas; mentioned_place: Čirčinskas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/inkorporuoti|inkorporuoti]]; mentioned_place: Teterinas; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_place: Bełskas; mentioned_place: Losičiai; mentioned_place: Smolnėnai; mentioned_place: Čirčinskas'
   pagrindžia:
     - c-001
 
@@ -31,18 +31,28 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
   global_id: t-84559
   teiginys: 'Kaimai greta Pruto upės buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui.'
   sudarymo_pagrindimas: 'Teiginys tinkamai apibendrina citatos dalį apie kaimus prie Pruto.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/inkorporuoti|inkorporuoti]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_place: Bełskas; mentioned_place: Losičiai; mentioned_place: Smolnėnai; mentioned_place: Teterinas; mentioned_place: Čirčinskas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/inkorporuoti|inkorporuoti]]; mentioned_place: Teterinas; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_place: Bełskas; mentioned_place: Losičiai; mentioned_place: Smolnėnai; mentioned_place: Čirčinskas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 697537-699723; hash=b6886aad04f11d078128bf54b213ee003c0635dace8c679f52b691b3d8d0c546; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Teterinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prutas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Teterinas: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prutas" parinktas kaip owner_note_path. Targetas "Teterinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Kolomyja: Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nuo Lvovo.
+- susijęs iš Teterinas: Teterino dvarui buvo grąžinti ir užrašyti prie Pruto upės buvę kaimai, atimti iš Seislavo kunigaikštienės.
 - susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186763|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Redakcinėje pastaboje Moldavijos vaivados Stepono atvykimas į Kolomyją datuojamas 1485 m. rugsėjo 6-12 d.
 - susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186764|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Redakcinėje pastaboje Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje datuojama 1485 m. rugsėjo 15 d.
 - susijęs iš Horodiščė: Horodiščės dvaras ir Losičiai buvo dovanojami su visomis Horodiščės ir Losičių žemėmis bei kaimiečiais.
-- susijęs iš Kolomyja: Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nuo Lvovo.
 - susijęs iš Kolomyja: Moldavijos vaivada Steponas atvyko į Kolomyją tarp 1485 m. rugsėjo 6 ir 12 d.
 - susijęs iš Kolomyja: Lenkijos karalius Kazimieras 1485 m. rugpjūčio 24 d. atvyko į Kolomyją ir išbuvo ten iki rugsėjo 18 d.
 - susijęs iš Losičiai: Losičiai buvo dovanojami kartu su Horodiščės ir Losičių žemėmis bei visais kaimiečiais.
 - susijęs iš Smolnėnai: Smolnėnai buvo dovanojami su visomis Smolnėnų ir Čirčinsko žemėmis bei žmonėmis.
-- susijęs iš Teterinas: Teterino dvarui buvo grąžinti ir užrašyti prie Pruto upės buvę kaimai, atimti iš Seislavo kunigaikštienės.
 - susijęs iš Čirčinskas: Smolnėnų turtas buvo dovanojamas kartu su visomis Čirčinsko žemėmis ir Čirčinsko žmonėmis.
 - susijęs iš [[objektai/zodynas/inkorporuoti.md#claim-t-86581|inkorporuoti]]: Kaimai prie Teterino dvaro, išsidėstę greta Pruto upės, šiuo raštu inkorporuoti, grąžinti ir užrašyti Teterino dvarui.
 ## Reikšmingi paminėjimai
@@ -99,3 +109,13 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
   pagrindžia:
     - t-001
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 697537-699723; hash=b6886aad04f11d078128bf54b213ee003c0635dace8c679f52b691b3d8d0c546; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Teterinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Prutas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Teterinas: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Prutas" parinktas kaip owner_note_path. Targetas "Teterinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

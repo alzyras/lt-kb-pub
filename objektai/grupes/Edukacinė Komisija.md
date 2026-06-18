@@ -48,7 +48,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   global_id: t-107734
   teiginys: 'Targovicos konfederacija perskyrė nuo 1773 m. veikusią bendrą Edukacinę Komisiją į atskiras Lietuvos ir Lenkijos komisijas.'
   sudarymo_pagrindimas: 'Originalas prasideda skyrybos triukšmu ir reikia sutvarkyti sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Targovica; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Targovica; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: po 1773 m.; įvykio data: 1773 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Originalas prasideda skyrybos triukšmu ir reikia sutvarkyti sakinį.'
@@ -59,7 +59,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 - t-003
   global_id: t-107736
   teiginys: 'Edukacinė Komisija buvo laikoma pirmu Europoje atveju, kai švietimą perėmė valstybė.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Europa; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1579-1803; įvykio data: 1803 m.; įvykio data: 1862 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -91,7 +91,7 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   global_id: t-107739
   teiginys: 'Targovicos konfederacija bendrą Edukacinę Komisiją padalijo į atskiras Lietuvos ir Lenkijos komisijas.'
   sudarymo_pagrindimas: 'Originalas per ilgas, nutrūkstantis ir turi nereikalingo konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Targovica; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Targovica; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: po 1773 m.; įvykio data: 1773 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Originalas per ilgas, nutrūkstantis ir turi nereikalingo konteksto.'
@@ -115,6 +115,16 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a55b2d17160c8654563b3083a6da7d72b06d58c47cc064ff94cea5f0af3e8554; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Edukacinė Komisija: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Edukacinė Komisija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-107742"></a>
 - t-009
@@ -143,12 +153,22 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   global_id: t-107744
   teiginys: 'Edukacinė komisija įkurta 1773 m.; jos pirmininku tapo Vilniaus vyskupas Ignotas Masalskis.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas šaltiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Ignotas Masalskis|Ignotas Masalskis]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ignotas Masalskis|Ignotas Masalskis]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]'
   temporaliniai_duomenys: 'įvykio data: 1773 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir paremtas šaltiniu.'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c065d5325b3598938459a6d58bb5d76a4bb2c5b63c337b7e5ed0b57b0db8c209; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Edukacinė Komisija: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Edukacinė Komisija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-182888"></a>
 - t-012
@@ -158,15 +178,25 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Tai yra vertinimas, todėl reikia šaltinio atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Europa'
+  susije_objektai: 'mentioned_place: Europa; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]'
   pagrindžia:
     - c-010
-- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172110|Jėzuitų ordinas]]: 1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.
-- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172116|Jėzuitų ordinas]]: 1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169689|Lietuvos Didžioji Kunigaikštija]]: Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9d6fd7754c30d87b210010ed2d78413a082970bd3408aee46903c4dbc36ea55f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Edukacinė Komisija: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Edukacinė Komisija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Pijarų ordinas.md#claim-t-72601|Pijarų ordinas]]: Pijarų ordinas išlaikė ypač daug mokyklų, kurių Edukacinė Komisija neperėmė, bet prižiūrėjo jų mokymą.
 - susijęs iš [[objektai/ivykiai/Edukacinės komisijos įkūrimas.md#claim-t-183221|Edukacinės komisijos įkūrimas]]: Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.
 - susijęs iš [[objektai/ivykiai/Edukacinės komisijos įkūrimas.md#claim-t-66536|Edukacinės komisijos įkūrimas]]: 1773 m. įkurta Edukacinė komisija buvo pirmoji Europoje švietimo ministerijos tipo įstaiga.
+- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172110|Jėzuitų ordinas]]: 1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.
+- susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172116|Jėzuitų ordinas]]: 1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169689|Lietuvos Didžioji Kunigaikštija]]: Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas.
 - susijęs iš [[objektai/ivykiai/Jėzuitų ordino panaikinimas.md#claim-t-77883|Jėzuitų ordino panaikinimas]]: 1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą.
 - susijęs iš Pradinis švietimas Lietuvoje iki trečiojo padalinimo (1795 m.): „Pradinis švietimas Lietuvoje iki trečiojo padalinimo (1795 m.)“ 1971 m. paskelbtas „Lietuvių Tautos Praeities“ III tomo 1 numeryje.
 ## Reikšmingi paminėjimai
@@ -327,4 +357,24 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c065d5325b3598938459a6d58bb5d76a4bb2c5b63c337b7e5ed0b57b0db8c209; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilnius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Edukacinė Komisija: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Vilnius: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Edukacinė Komisija" parinktas kaip owner_note_path. Targetas "Vilnius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-012
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9d6fd7754c30d87b210010ed2d78413a082970bd3408aee46903c4dbc36ea55f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Edukacinė Komisija: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Edukacinė Komisija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

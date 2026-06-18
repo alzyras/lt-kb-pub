@@ -34,19 +34,29 @@ Dusburgietis teigia, kad „Lietuvos ir Jotvingių“ veiksmai prieš Volynę š
   global_id: t-58919
   teiginys: '1219 m. priešmindauginė Lietuva, susijungusi su Žemaitija, sudarė sutartį su Volyne, kilus pavojui Lietuvai.'
   sudarymo_pagrindimas: 'Teiginys pataisytas, kad neperteigtų spėjimo apie prūsų krašto gynimą kaip tikro fakto.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus II|Popiežius Honorijus II]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Volynė; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus II|Popiežius Honorijus II]]; mentioned_place: Prūsai; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1205 m.; įvykio data: 1210 m.; įvykio data: 1218 m.; įvykio data: 1219 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pataisytas, kad neperteigtų spėjimo apie prūsų krašto gynimą kaip tikro fakto.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Popiežius Honorijus II.md#claim-t-60415|Popiežius Honorijus II]]: Popiežius Honorijus II 1218 m. organizavo didelį kryžiaus žygį į Prūsiją.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a2622ff70973dead719138075bc19063621b1f917707da591693e54d375c5ed8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: priešmindauginė Lietuva: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "priešmindauginė Lietuva" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Živinbudas.md#claim-t-60477|Živinbudas]]: Živinbudo, kaip manoma, valdoma priešmindauginė Lietuva 1219 m. sudarė sutartį su Volyne.
-- susijęs iš [[objektai/grupes/Pamarėnai.md#claim-t-63189|Pamarėnai]]: 1218 m. popiežiaus Honorijaus II organizuotame kryžiaus žygyje į Prūsiją dalyvavo ir pamarėnai.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175134|Sūduviai-jotvingiai]]: Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose siejami su 1205 m., tai yra 1209–1210 m., įvykiais.
-- susijęs iš [[objektai/ivykiai/Kryžiaus žygis į Prūsiją (1218 m.).md#claim-t-62842|Kryžiaus žygis į Prūsiją (1218 m.)]]: 1218 m. popiežius Honorijus II organizavo didelį kryžiaus žygį į Prūsiją, kuriame dalyvavo vokiečiai, čekai, moravai, danai, lenkai ir pamarėnai.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir jotvingių puolimas Lenkijai (1219 m.).md#claim-t-62859|Lietuvos ir jotvingių puolimas Lenkijai (1219 m.)]]: 1219 m. Lietuvos ir jotvingių jėgos puolė Lenkiją, kuri priklausė antiprūsiškai kryžiaus žygio koalicijai.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir jotvingių veiksmai prieš Volynę (apie 1205 1209—1210 m.).md#claim-t-59656|Lietuvos ir jotvingių veiksmai prieš Volynę (apie 1205 1209—1210 m.)]]: Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose priskiriami 1205 m. įrašui, aiškinamam kaip 1209–1210 m. įvykiai.
+- susijęs iš [[objektai/asmenys/Popiežius Honorijus II.md#claim-t-60415|Popiežius Honorijus II]]: Popiežius Honorijus II 1218 m. organizavo didelį kryžiaus žygį į Prūsiją.
+- susijęs iš [[objektai/grupes/Pamarėnai.md#claim-t-63189|Pamarėnai]]: 1218 m. popiežiaus Honorijaus II organizuotame kryžiaus žygyje į Prūsiją dalyvavo ir pamarėnai.
+- susijęs iš [[objektai/ivykiai/Kryžiaus žygis į Prūsiją (1218 m.).md#claim-t-62842|Kryžiaus žygis į Prūsiją (1218 m.)]]: 1218 m. popiežius Honorijus II organizavo didelį kryžiaus žygį į Prūsiją, kuriame dalyvavo vokiečiai, čekai, moravai, danai, lenkai ir pamarėnai.
 - susijęs iš [[objektai/ivykiai/Lietuvos sutartis su Volyne (1219 m.).md#claim-t-62862|Lietuvos sutartis su Volyne (1219 m.)]]: 1219 m. Živinbudo valdoma priešmindauginė Lietuva sudarė sutartį su Volyne, kilus pavojui Lietuvai ir siekiant ginti prūsų kraštą.
 - susijęs iš Lietuva: 1219 m. priešmindauginė Lietuva, greičiausiai valdoma Živinbudo ir susijungusi su Žemaitija, sudarė sutartį su Volyne.
 - susijęs iš Volynė: 1219 m. priešmindauginė Lietuva sudarė sutartį su Volyne, kilus pavojui Lietuvai ir greičiausiai siekiant apginti prūsų kraštą.
@@ -68,3 +78,13 @@ Dusburgietis teigia, kad „Lietuvos ir Jotvingių“ veiksmai prieš Volynę š
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a2622ff70973dead719138075bc19063621b1f917707da591693e54d375c5ed8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: priešmindauginė Lietuva: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "priešmindauginė Lietuva" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

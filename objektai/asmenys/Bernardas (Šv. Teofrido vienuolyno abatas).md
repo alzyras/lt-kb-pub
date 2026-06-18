@@ -33,12 +33,22 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
   global_id: t-60250
   teiginys: 'Bernardas, Šv. Teofrido vienuolyno abatas, 1324 m. buvo popiežiaus Jono XXII pasiųstas į Livoniją kaip legatas.'
   sudarymo_pagrindimas: 'Pradinis teiginys nemini Bernardo ir turi antraštės bei OCR triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Benediktas|Benediktas]]; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Livonija; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Benediktas|Benediktas]]; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nemini Bernardo ir turi antraštės bei OCR triukšmo.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=31147ad856378d84d2e1aa7af46149bab7d1822555dcaed50cc31d48756e3044; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bernardas (Šv. Teofrido vienuolyno abatas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=89
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardas (Šv. Teofrido vienuolyno abatas)" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184674"></a>
 - t-002
@@ -48,9 +58,19 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas, o citata pagrindžia Bernardo pasiuntinio vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 363424-363792; hash=cffbebc8a5fa6b4d29cb6972c478995e0eee6741090d0b962da6a46ac69a48ff; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bernardas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bernardas (Šv. Teofrido vienuolyno abatas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bernardas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardas (Šv. Teofrido vienuolyno abatas)" parinktas kaip owner_note_path. Targetas "Bernardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -96,4 +116,24 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=31147ad856378d84d2e1aa7af46149bab7d1822555dcaed50cc31d48756e3044; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Livonija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bernardas (Šv. Teofrido vienuolyno abatas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place, gap=89
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardas (Šv. Teofrido vienuolyno abatas)" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 363424-363792; hash=cffbebc8a5fa6b4d29cb6972c478995e0eee6741090d0b962da6a46ac69a48ff; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bernardas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bernardas (Šv. Teofrido vienuolyno abatas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Bernardas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bernardas (Šv. Teofrido vienuolyno abatas)" parinktas kaip owner_note_path. Targetas "Bernardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

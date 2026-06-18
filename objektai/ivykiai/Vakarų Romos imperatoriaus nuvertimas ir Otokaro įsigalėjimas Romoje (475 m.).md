@@ -40,6 +40,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys buvo OCR triukšmingas ir negramatiškas; citata palaiko aiškų faktą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 86032-86812; hash=b0ced727e323e26a4f33e85cd0fbf003903319e91cf727159b038833bde33aa0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herulai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Herulai: mention_match, group, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.)" parinktas kaip owner_note_path. Targetas "Herulai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -76,3 +86,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 86032-86812; hash=b0ced727e323e26a4f33e85cd0fbf003903319e91cf727159b038833bde33aa0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herulai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Herulai: mention_match, group, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.)" parinktas kaip owner_note_path. Targetas "Herulai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -22,7 +22,7 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   global_id: t-89590
   teiginys: 'Krikščionys pavijo ir išžudė neginkluotą kariuomenę, o sūduviai ir kitos kaimyninės gentys įsibrovė į Galindą.'
   sudarymo_pagrindimas: 'Citata remia glaustesnį, gramatinį konteksto teiginį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Galinda'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Galinda; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]'
   pagrindžia:
     - c-001
 
@@ -31,9 +31,19 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   global_id: t-89591
   teiginys: 'Pabėgę belaisviai krikščionims pranešė, kad netikėlių kariuomenė neturėjo ginklų ir kitų gynimosi priemonių.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata remia aiškią faktinę mintį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Galinda'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Galinda'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 208929-209548; hash=0bd5c086339f22b767af62be776680bc4c073203289a53b66c5054be8066b6cd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Galinda: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Galinda: mention_match, place, gap=83
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis" parinktas kaip owner_note_path. Targetas "Galinda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -53,4 +63,14 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 208929-209548; hash=0bd5c086339f22b767af62be776680bc4c073203289a53b66c5054be8066b6cd; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Galinda: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Galinda: mention_match, place, gap=83
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis" parinktas kaip owner_note_path. Targetas "Galinda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001

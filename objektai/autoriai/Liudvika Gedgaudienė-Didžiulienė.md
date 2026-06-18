@@ -32,7 +32,7 @@ Liudvika Gedgaudienė-Didžiulienė šiame leidinyje minima kaip užrašų ir pr
 - t-002
   global_id: t-64707
   teiginys: 'Liudvika Gedgaudienė-Didžiulienė užrašuose mini į Salas atėjusius tris didelius Lietuvos kariuomenės pulkus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Varpai|Varpai]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Varpai|Varpai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
     - c-002

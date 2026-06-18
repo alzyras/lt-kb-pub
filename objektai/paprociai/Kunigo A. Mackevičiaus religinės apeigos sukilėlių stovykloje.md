@@ -58,7 +58,7 @@ Nenurodyta
   global_id: t-41430
   teiginys: 'Kunigas Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas.'
   sudarymo_pagrindimas: 'Perrašyta be inicialo ir paliktas aiškus sakinys apie apeigas stovykloje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
 
@@ -98,6 +98,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ee08045cfd6d4f61bf8bbeae1f0012eab7c76d403932ea3691c73570ffedb39b; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/06_extract_customs_notes.md
+  ryšio_patikimumas: susije_su -> kunigas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: kunigas: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kunigo A. Mackevičiaus religinės apeigos sukilėlių stovykloje" parinktas kaip owner_note_path. Targetas "kunigas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-003

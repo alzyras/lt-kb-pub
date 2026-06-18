@@ -25,6 +25,16 @@ Dusburgietis teigia, kad turi paprotį lažintis, jog vaišėse visi gers po lyg
   susije_objektai: 'mentioned_place: Prūsai'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=af0a239cb4ad1a21d940cb06583d78e7b7b726109b379699f1a3a47a5f095974; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: svečią būsią nepakankamai pamylėję, jeigu jis negersiąs iki apsvaigimo: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "svečią būsią nepakankamai pamylėję, jeigu jis negersiąs iki apsvaigimo" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -43,3 +53,13 @@ Dusburgietis teigia, kad turi paprotį lažintis, jog vaišėse visi gers po lyg
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=af0a239cb4ad1a21d940cb06583d78e7b7b726109b379699f1a3a47a5f095974; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: svečią būsią nepakankamai pamylėję, jeigu jis negersiąs iki apsvaigimo: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "svečią būsią nepakankamai pamylėję, jeigu jis negersiąs iki apsvaigimo" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

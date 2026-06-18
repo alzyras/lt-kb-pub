@@ -33,6 +33,16 @@ Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš 
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė nutrūkusi, o citata leidžia suformuoti pilną sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=96bde58f160f6a3d89e8dd2eccd55be7bde1997ed3bcb7f5d234af5e3cb62a79; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Alšėnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Švitrigailos 1432 m. rugsėjo 3 d. laiškas didžiajam magistrui iš Polocko: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Alšėnai: mention_match, place, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigailos 1432 m. rugsėjo 3 d. laiškas didžiajam magistrui iš Polocko" parinktas kaip owner_note_path. Targetas "Alšėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -61,3 +71,13 @@ Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=96bde58f160f6a3d89e8dd2eccd55be7bde1997ed3bcb7f5d234af5e3cb62a79; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Alšėnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Švitrigailos 1432 m. rugsėjo 3 d. laiškas didžiajam magistrui iš Polocko: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Alšėnai: mention_match, place, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigailos 1432 m. rugsėjo 3 d. laiškas didžiajam magistrui iš Polocko" parinktas kaip owner_note_path. Targetas "Alšėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

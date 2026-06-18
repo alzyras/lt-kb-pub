@@ -32,6 +32,9 @@ Dusburgietis teigia, kad schmid B.
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorių, pavadinimą, leidinį, metus ir sąsiuvinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 796753-796865; hash=9f1bdb54f58f9feb0463e03314c4932e02c9ccfa008de742d009c0deb97a76f5; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +49,6 @@ Dusburgietis teigia, kad schmid B.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 796753-796865; hash=9f1bdb54f58f9feb0463e03314c4932e02c9ccfa008de742d009c0deb97a76f5; match=exact
+  sprendimo_priezastis: auto

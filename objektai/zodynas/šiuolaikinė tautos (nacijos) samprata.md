@@ -26,6 +26,16 @@ pabaigoje Prancūzijos didžioji revoliucija pagimdė naują šiuolaikinę tauto
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Prancūzija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2853ca4e1b8c7d83a5b230a5ec6fb917b04ee21fcd120d83cd74b5c86cb250fa; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Motiejus Valančius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: šiuolaikinė tautos (nacijos) samprata: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Motiejus Valančius: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "šiuolaikinė tautos (nacijos) samprata" parinktas kaip owner_note_path. Targetas "Motiejus Valančius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -48,3 +58,13 @@ pabaigoje Prancūzijos didžioji revoliucija pagimdė naują šiuolaikinę tauto
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2853ca4e1b8c7d83a5b230a5ec6fb917b04ee21fcd120d83cd74b5c86cb250fa; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Motiejus Valančius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: šiuolaikinė tautos (nacijos) samprata: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Motiejus Valančius: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "šiuolaikinė tautos (nacijos) samprata" parinktas kaip owner_note_path. Targetas "Motiejus Valančius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

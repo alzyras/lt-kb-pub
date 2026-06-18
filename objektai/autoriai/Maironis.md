@@ -62,34 +62,35 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
   global_id: t-125059
   teiginys: 'Maironis buvo vienas lietuvių literatūros klasikų, tuo metu dar vaikščiojusių Kauno gatvėmis.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata pagrindžia faktą apie Maironį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45931|Adomas Mickevičius (poetas)]]: Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
-- susijęs iš [[objektai/asmenys/J. Kraševskis.md#claim-t-63666|J. Kraševskis]]: J. Kraševskio kūrybai priskiriama didelė reikšmė lietuvių tautinės savimonės plėtotei.
 - susijęs iš [[objektai/asmenys/Jonas Mačiulis-Maironis.md#claim-t-63724|Jonas Mačiulis-Maironis]]: Jono Mačiulio-Maironio lietuviškai rašyta poezija knygoje apibūdinta kaip romantiška, daininga, lyriška ir savotiškai kovinga.
 - susijęs iš [[objektai/asmenys/Jonas Mačiulis-Maironis.md#claim-t-63725|Jonas Mačiulis-Maironis]]: Poetas Maironis laikomas tautos Atgimimo dainiumi Lietuvos Respublikos ištakų kontekste.
-- susijęs iš [[objektai/asmenys/Julija Žymantienė-Žemaitė.md#claim-t-75893|Julija Žymantienė-Žemaitė]]: Julijos Žymantienės-Žemaitės sodri realistinė socialinė proza žadino lietuvių tautinę savimonę.
 - susijęs iš [[objektai/asmenys/Juozas Paliūnas-Rytas.md#claim-t-183746|Juozas Paliūnas-Rytas]]: Juozas Paliūnas-Rytas, Maironio rinktinės vadas, tapo Prisikėlimo apygardos vado pavaduotoju.
+- susijęs iš [[objektai/grupes/Maironio rinktinė.md#claim-t-41084|Maironio rinktinė]]: Prisikėlimo apygardoje atkurta P. Lukšio rinktinė netrukus buvo pervadinta Maironio rinktine.
+- susijęs iš [[objektai/grupes/Maironio rinktinė.md#claim-t-41085|Maironio rinktinė]]: Prisikėlimo apygardos reorganizacijos metu Maironio rinktinės vadas Juozas Paliūnas-Rytas tapo apygardos vado pavaduotoju.
+- susijęs iš [[objektai/grupes/P. Lukšio rinktinė.md#claim-t-41107|P. Lukšio rinktinė]]: Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta į Maironio rinktinę.
+- susijęs iš [[objektai/grupes/Prisikėlimo apygarda.md#claim-t-41117|Prisikėlimo apygarda]]: Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta Maironio rinktine.
+- susijęs iš [[objektai/ivykiai/Maironio knygų „Pavasario balsai“ ir „Jaunoji Lietuva“ išleidimas.md#claim-t-26400|Maironio knygų „Pavasario balsai“ ir „Jaunoji Lietuva“ išleidimas]]: 1895 m. išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis.
+- susijęs iš Kovos keliu žengiant: Dainų ir eilėraščių rinkinį „Kovos keliu žengiant“ 1949 m. leido Prisikėlimo apygardos Maironio rinktinės štabas.
+- susijęs iš [[objektai/zodynas/tautinis krikštas.md#claim-t-101610|tautinis krikštas (krikštas)]]: Lietuvių tautiniam krikštui didelę reikšmę turėjo lenkų romantikų kūryba ir lietuviškai rašyta Maironio poezija.
+- susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45931|Adomas Mickevičius (poetas)]]: Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
+- susijęs iš [[objektai/asmenys/J. Kraševskis.md#claim-t-63666|J. Kraševskis]]: J. Kraševskio kūrybai priskiriama didelė reikšmė lietuvių tautinės savimonės plėtotei.
+- susijęs iš [[objektai/asmenys/Julija Žymantienė-Žemaitė.md#claim-t-75893|Julija Žymantienė-Žemaitė]]: Julijos Žymantienės-Žemaitės sodri realistinė socialinė proza žadino lietuvių tautinę savimonę.
 - susijęs iš [[objektai/asmenys/Juozas Paliūnas-Rytas.md#claim-t-40238|Juozas Paliūnas-Rytas]]: Maironio rinktinės vadas Juozas Paliūnas-Rytas per reorganizaciją tapo Prisikėlimo apygardos vado pavaduotoju.
 - susijęs iš [[objektai/asmenys/Povilas Morkūnas-Rimantas.md#claim-t-183759|Povilas Morkūnas-Rimantas]]: Per Prisikėlimo apygardos reorganizaciją jos vadu tapo Povilas Morkūnas-Rimantas.
 - susijęs iš [[objektai/asmenys/Povilas Morkūnas-Rimantas.md#claim-t-40398|Povilas Morkūnas-Rimantas]]: Povilas Morkūnas-Rimantas per Prisikėlimo apygardos reorganizaciją tapo jos vadu.
 - susijęs iš [[objektai/asmenys/Vincas Kudirka.md#claim-t-78011|Vincas Kudirka]]: Vinco Kudirkos poezija ir satyriniai apsakymai, pašiepiantys caro valdininkus, žadino lietuvių tautinę savimonę.
 - susijęs iš [[objektai/autoriai/A. Mickevičius.md#claim-t-19368|A. Mickevičius]]: A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei.
-- susijęs iš [[objektai/grupes/Maironio rinktinė.md#claim-t-41084|Maironio rinktinė]]: Prisikėlimo apygardoje atkurta P. Lukšio rinktinė netrukus buvo pervadinta Maironio rinktine.
-- susijęs iš [[objektai/grupes/Maironio rinktinė.md#claim-t-41085|Maironio rinktinė]]: Prisikėlimo apygardos reorganizacijos metu Maironio rinktinės vadas Juozas Paliūnas-Rytas tapo apygardos vado pavaduotoju.
-- susijęs iš [[objektai/grupes/P. Lukšio rinktinė.md#claim-t-41107|P. Lukšio rinktinė]]: Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta į Maironio rinktinę.
 - susijęs iš [[objektai/grupes/P. Lukšio rinktinė.md#claim-t-41108|P. Lukšio rinktinė]]: 1952 m. J. Paliūnas-Rytas vėl tapo P. Lukšio rinktinės vadu ir tais pačiais metais, po išdavystės apsuptas bolševikų, nusišovė.
 - susijęs iš [[objektai/grupes/Prisikėlimo apygarda.md#claim-t-41115|Prisikėlimo apygarda]]: 1949 m. rugpjūčio 13 d. Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.
-- susijęs iš [[objektai/grupes/Prisikėlimo apygarda.md#claim-t-41117|Prisikėlimo apygarda]]: Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta Maironio rinktine.
-- susijęs iš [[objektai/ivykiai/Maironio knygų „Pavasario balsai“ ir „Jaunoji Lietuva“ išleidimas.md#claim-t-26400|Maironio knygų „Pavasario balsai“ ir „Jaunoji Lietuva“ išleidimas]]: 1895 m. išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis.
 - susijęs iš [[objektai/ivykiai/Užpelkių kautynės (1949 m.).md#claim-t-10308|Užpelkių kautynės (1949 m.)]]: 1949 m. rugpjūčio 13 d. Užpelkių miške sunaikintas Prisikėlimo apygardos štabas; žuvo LLKS tarybos prezidiumo nariai Petras Bartkus-Žadgaila, Bronius Liesis-Naktis, Vytautas Šniuolis-Svajūnas ir dar trys neatpažinti partizanai.
 - susijęs iš [[objektai/ivykiai/Užpelkių kautynės.md#claim-t-39139|Užpelkių kautynės]]: 1949 m. rugpjūčio 13 d. Radviliškio rajono Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.
 - susijęs iš [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną.md#claim-t-75398|Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]: Lietuvių tautinę savimonę žadino Vinco Kudirkos poezija, satyriniai apsakymai ir Žemaitės realistinė socialinė proza.
 - susijęs iš [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną.md#claim-t-75401|Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]: Maironio lietuviškai rašyta poezija turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
 - susijęs iš [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną.md#claim-t-75402|Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]: Maironio lietuviškai rašyta poezija turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
 - susijęs iš Jaunoji Lietuva: 1895 m. buvo išleistos Maironio knygos „Pavasario balsai“ ir „Jaunoji Lietuva“, o jo eilėraščiai virto liaudies dainomis.
-- susijęs iš Kovos keliu žengiant: Dainų ir eilėraščių rinkinį „Kovos keliu žengiant“ 1949 m. leido Prisikėlimo apygardos Maironio rinktinės štabas.
 - susijęs iš Partizanų šuvių aidas: „Partizanų šuvių aidas“ 1956 m. Nr. 1 (20) buvo Prisikėlimo apygardos partizanų leidinys.
 - susijęs iš Pavasario balsai: Maironio poezijos knyga „Pavasario balsai“ išleista 1895 m., o jo eilėraščiai virto liaudies dainomis.
 - susijęs iš Ariogala: 1950 m. liepos 22 d. prie Ariogalos ir Vilkijos rajonų ribos MGB 208-ojo pulko kareiviai puolė partizanų bunkerį Daugėliškių miške.
@@ -97,7 +98,6 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
 - susijęs iš Lesčiai: 1950 m. liepos 22 d. Lesčių kaimo rajone, Daugėliškių miške, MGB 208-ojo pulko kareiviai puolė partizanų bunkerį.
 - susijęs iš Vilkija: 1950 m. liepos 22 d. Daugėliškių miške ties Ariogalos ir Vilkijos rajonų riba MGB 208-ojo pulko kareiviai puolė partizanų bunkerį.
 - susijęs iš [[objektai/zodynas/tautinis krikštas.md#claim-t-101609|tautinis krikštas (krikštas)]]: Lenkų romantikų kūryba prisidėjo prie lietuvių tautinės savimonės plėtotės ir lietuviškai kalbančio kaimo tautinio krikšto.
-- susijęs iš [[objektai/zodynas/tautinis krikštas.md#claim-t-101610|tautinis krikštas (krikštas)]]: Lietuvių tautiniam krikštui didelę reikšmę turėjo lenkų romantikų kūryba ir lietuviškai rašyta Maironio poezija.
 ## Reikšmingi paminėjimai
 
 - c-001

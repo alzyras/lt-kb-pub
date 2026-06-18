@@ -27,12 +27,22 @@ Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augu
   global_id: t-30883
   teiginys: 'O. Maksimaitienė pateikė duomenų apie 1863 m. sukilėlių kovinius veiksmus Augustavo gubernijoje ir jų antspaudus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatoje pateiktais duomenimis.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/L. Mulevičius|L. Mulevičius]]; mentioned_author: [[objektai/autoriai/V. Černeckis|V. Černeckis]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Augustavas; mentioned_place: Baltarusija; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/V. Černeckis|V. Černeckis]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Augustavas; mentioned_author: [[objektai/autoriai/L. Mulevičius|L. Mulevičius]]; mentioned_place: Baltarusija; mentioned_place: Kaunas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1831 m.; įvykio data: 1861-1913; įvykio data: 1863 m.; įvykio data: apie 1863 m.; įvykio data: 1913 m.; įvykio data: 1965 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citatoje pateiktais duomenimis.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=849ea7dc88cd51b7fb00d9647ab495439001825c1f4a5692a8f51f37ce72056c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antspaudai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: O. Maksimaitienė: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Antspaudai: mention_match, thing, gap=102
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "O. Maksimaitienė" parinktas kaip owner_note_path. Targetas "Antspaudai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/E. Griškūnaitė.md#claim-t-30592|E. Griškūnaitė]]: E. Griškūnaitė rašė apie 1905 m. sukilimą Lietuvoje.
 - susijęs iš [[objektai/autoriai/L. Mulevičius.md#claim-t-30781|L. Mulevičius]]: L. Mulevičius rašė apie to laiko žemėvaldos klausimus.
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179545|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: L. Bičkauskas-Gentvila 1958 m. rašė apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje.
@@ -59,3 +69,13 @@ Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augu
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=849ea7dc88cd51b7fb00d9647ab495439001825c1f4a5692a8f51f37ce72056c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antspaudai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: O. Maksimaitienė: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Antspaudai: mention_match, thing, gap=102
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "O. Maksimaitienė" parinktas kaip owner_note_path. Targetas "Antspaudai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

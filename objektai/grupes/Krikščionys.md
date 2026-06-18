@@ -37,6 +37,16 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 131568-132226; hash=36882709618c65c76385ef0f9cbf40242857a97a9a99fd61d99c7b7f7daa67f7; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
+  ryšio_patikimumas: susije_su -> Kalnėnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krikščionys: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kalnėnai: mention_match, group, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krikščionys" parinktas kaip owner_note_path. Targetas "Kalnėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184482"></a>
 - t-003
@@ -49,6 +59,16 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Nalšia'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 176435-176825; hash=3e6b9a23cac269399d12bc21b98f2d6fe901f7d93c85200a69bf3e0efb57f37c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krikščionys: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krikščionys" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184483"></a>
 - t-004
@@ -61,6 +81,16 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_place: Vokietija; mentioned_place: Vroclavas'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 179696-180157; hash=284f18498338e0bdfe9889d20036f1648580ec282b6e5502b7ba66d06d5b4c7e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krikščionys: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krikščionys" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184484"></a>
 - t-005
@@ -73,6 +103,49 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Livonija'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 356002-356629; hash=245bcd8fcc602bb3aa987ac40c42b63b213bfb9ea96aeafb67c195c9ee107d82; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fridrichas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krikščionys: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Fridrichas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krikščionys" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Lenkų krikščionys demokratai.md#claim-t-74516|Lenkų krikščionys demokratai]]: Lenkų krikščionys demokratai vyskupijoje rėmėsi lenkų nacionalizmo doktrina ir stiprino lenkų kalbos pozicijas.
+- susijęs iš [[objektai/grupes/Lenkų krikščionys demokratai.md#claim-t-74517|Lenkų krikščionys demokratai]]: Vilniaus vyskupijoje lenkų krikščionys demokratai vadovavosi lenkų nacionalizmo doktrina ir stiprino lenkų kalbos pozicijas.
+- susijęs iš [[objektai/grupes/Lietuvių krikščionys demokratai.md#claim-t-74627|Lietuvių krikščionys demokratai]]: Krikščionims demokratams padėjo demonstruotas lojalumas caro valdžiai, todėl caro administracija jų veiklai didesnių kliūčių nekėlė.
+- susijęs iš [[objektai/grupes/Lietuvių tautininkų sąjunga.md#claim-t-44997|Lietuvių tautininkų sąjunga]]: Tautininkai ir krikščionys demokratai gruodžio įvykius teisino skelbdami, kad išgelbėjo Lietuvą nuo komunistų perversmo.
+- susijęs iš [[objektai/grupes/Lietuvos demokratų partija.md#claim-t-74647|Lietuvos demokratų partija]]: Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu, buvo liberali krikščionių demokratų konkurentė lietuvių tautiniame sąjūdyje.
+- susijęs iš [[objektai/grupes/Lietuvos krikščionių demokratų partija.md#claim-t-74744|Lietuvos krikščionių demokratų partija]]: Po Klaipėdos atplėšimo krikščionys demokratai sąlyginai sugrįžo į valdžią ir Jono Černiaus vyriausybėje gavo dvi ministrų vietas.
+- susijęs iš [[objektai/grupes/Lietuvos krikščionių demokratų partija.md#claim-t-74745|Lietuvos krikščionių demokratų partija]]: Krikščionys demokratai ir liaudininkai pareikalavo vietoj Antano Merkio ministru pirmininku paskirti krikščionims demokratams artimą Stasį Raštikį.
+- susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101468|Lietuvos valstiečių liaudininkų sąjunga]]: Krikščionys demokratai ir liaudininkai reikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį.
+- susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101473|Lietuvos valstiečių liaudininkų sąjunga]]: 1940 m. birželio 15-osios naktį liaudininkai ir krikščionys demokratai pareikalavo vietoje Antano Merkio premjeru skirti Stasį Raštikį.
+- susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-71724|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demokratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruodžio 1 d. komunistų pučas Estijoje rodė esant tokią galimybę).
+- susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66519|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Prūsai prie Pagansčių kaimo netikėtai užpuolė krikščionis iš dviejų pusių, nukovė dvylika brolių ir penkis šimtus vyrų.
+- susijęs iš [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas.md#claim-t-91904|Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]: Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.
+- susijęs iš [[objektai/ivykiai/Jono Černiaus „vieningo darbo“ vyriausybės sudarymas po Klaipėdos praradimo (1939 m.).md#claim-t-20212|Jono Černiaus „vieningo darbo“ vyriausybės sudarymas po Klaipėdos praradimo (1939 m.)]]: Jono Černiaus „vieningo darbo“ vyriausybėje krikščionys demokratai ir liaudininkai gavo po dvi ministrų vietas.
+- susijęs iš [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės.md#claim-t-91906|Krikščionių pergalingas mūšis prie Zirgūnos upės]]: Prie Zirgūnos upės Hermano vadovaujami krikščionys sumušė prūsų kariuomenę, o mūšyje krito daugiau nei penki tūkstančiai prūsų.
+- susijęs iš [[objektai/ivykiai/Lietuvos pasiuntinių derybos Rygoje (1298 m.).md#claim-t-31447|Lietuvos pasiuntinių derybos Rygoje (1298 m.)]]: 1298 m. į Rygą atvykę Lietuvos pasiuntiniai pareiškė, kad lietuviai nori jungtis su krikščionimis ir krikštytis.
+- susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-183956|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.
+- susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-66829|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.
+- susijęs iš [[objektai/ivykiai/Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas.md#claim-t-185536|Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas]]: Prūsams pasirodžius iš užnugario, prasidėjo žiaurus mūšis, kuriame krikščionys galiausiai buvo sumušti.
+- susijęs iš [[objektai/ivykiai/Tripolio miesto sugriovimas (1288 m.).md#claim-t-62514|Tripolio miesto sugriovimas (1288 m.)]]: Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o ten gyvenę krikščionys paimti į nelaisvę arba nužudyti.
+- susijęs iš [[objektai/paprociai/Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma.md#claim-t-87141|Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma]]: Gediminas aiškino, kad kariauja su krikščionimis ne dėl katalikų tikėjimo naikinimo, o dėl patiriamų skriaudų.
+- susijęs iš [[objektai/paprociai/Žydų prekybos ribojimas pilyse iki pusrytės.md#claim-t-07827|Žydų prekybos ribojimas pilyse iki pusrytės]]: Smulkesnėje prekyboje pilyse dar vertėsi krikščionys, o žydai negalėjo pirkti į pilį įvežamų prekių iki didžiosios pusrytės ar iki pietų.
+- susijęs iš [[objektai/posakiai/Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo.md#claim-t-54760|Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo]]: Lietuviškame vertime pažadas suformuluotas kaip taika, apie kokią krikščionys niekados nė negalvojo.
+- susijęs iš [[objektai/posakiai/Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo.md#claim-t-54761|Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo]]: Formulė „talem pacem ordinabimus“ žadėjo nustatyti tokią taiką, kokios krikščionys nebuvo patyrę.
+- susijęs iš Ispanija: 1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo.
+- susijęs iš Jeruzalė: Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią.
+- susijęs iš Nemunas: Per šešerius metus lietuviai, gyvenę Nemuno pakrantėje nuo Neries upės iki Lamatos žemės, buvo priversti laikytis taikos su krikščionimis.
+- susijęs iš Pagansčiai: Prie Pagansčių kaimo prūsai užpuolė krikščionis ir nukovė dvylika brolių bei penkis šimtus vyrų.
+- susijęs iš Tripolis: Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o miesto krikščionys paimti į nelaisvę arba nužudyti.
+- susijęs iš [[objektai/zodynas/Geyseler.md#claim-t-58901|Geyseler]]: Geyseler buvo vokiškas rykštėmis besiplakusių krikščionių saviplakių pavadinimas.
+- susijęs iš [[objektai/zodynas/Pusrytės.md#claim-t-07749|pusrytės]]: Iki didžiosios pusrytės arba pietų žydams pilyje nebuvo leidžiama pirkti prekių pirmiau už krikščionis.
+- susijęs iš [[objektai/zodynas/dykra.md#claim-t-89545|dykra]]: Karalius nužygiavo į Bartos žemės dykras, į Vaplaukio lauką, ir ten gyrėsi supančiotiems krikščionių belaisviams.
+- susijęs iš [[objektai/zodynas/stabmeldžiai.md#claim-t-185393|stabmeldžiai]]: Į aukštąsias ir viešąsias pareigybes neturėjo būti skiriami stabmeldžiai ir popiežiui nepaklusę krikščionys.
+- susijęs iš [[objektai/zodynas/vokiečių ateivių valstybė.md#claim-t-70405|vokiečių ateivių valstybė]]: Livonijoje ateiviai krikščionys įkūrė apsaugos organizaciją, paprastai vadintą kalavijuočių ordinu.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77969|A. Smetona]]: 1940 m. birželio 15 d. vyriausybės posėdyje A. Smetonos siūlymą priešintis ginklu palaikė tik du ministrai.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77999|A. Voldemaras]]: A. Smetona ir A. Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
 - susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169957|Antanas Merkys]]: Krikščionys demokratai ir liaudininkai pareikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį.
@@ -107,16 +180,7 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172091|Dominikonų ordinas]]: Gediminas ketino kviesti dorus dominikonų ir pranciškonų vienuolius, bet nepageidavo vienuolynus plėšikų prieglobsčiu paverčiančių vienuolių.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112512|Domininkonų ordinas]]: Dominikonų ordino broliai turėjo laisvę krikštyti, sakyti pamokslus ir atlikti kitas šventąsias apeigas.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112520|Domininkonų ordinas]]: Gediminas teigė norįs kviesti dorus dominikonų ir pranciškonų ordino vienuolius, bet nepageidaująs plėšikaujančių vienuolių.
-- susijęs iš [[objektai/grupes/Lenkų krikščionys demokratai.md#claim-t-74516|Lenkų krikščionys demokratai]]: Lenkų krikščionys demokratai vyskupijoje rėmėsi lenkų nacionalizmo doktrina ir stiprino lenkų kalbos pozicijas.
-- susijęs iš [[objektai/grupes/Lenkų krikščionys demokratai.md#claim-t-74517|Lenkų krikščionys demokratai]]: Vilniaus vyskupijoje lenkų krikščionys demokratai vadovavosi lenkų nacionalizmo doktrina ir stiprino lenkų kalbos pozicijas.
-- susijęs iš [[objektai/grupes/Lietuvių krikščionys demokratai.md#claim-t-74627|Lietuvių krikščionys demokratai]]: Krikščionims demokratams padėjo demonstruotas lojalumas caro valdžiai, todėl caro administracija jų veiklai didesnių kliūčių nekėlė.
-- susijęs iš [[objektai/grupes/Lietuvių tautininkų sąjunga.md#claim-t-44997|Lietuvių tautininkų sąjunga]]: Tautininkai ir krikščionys demokratai gruodžio įvykius teisino skelbdami, kad išgelbėjo Lietuvą nuo komunistų perversmo.
-- susijęs iš [[objektai/grupes/Lietuvos demokratų partija.md#claim-t-74647|Lietuvos demokratų partija]]: Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu, buvo liberali krikščionių demokratų konkurentė lietuvių tautiniame sąjūdyje.
 - susijęs iš [[objektai/grupes/Lietuvos komunistų partija.md#claim-t-78374|Lietuvos komunistų partija]]: Po 1926 m. gruodžio perversmo keturi Lietuvos komunistų partijos vadovai buvo nuteisti mirties bausme ir po dešimties dienų sušaudyti.
-- susijęs iš [[objektai/grupes/Lietuvos krikščionių demokratų partija.md#claim-t-74744|Lietuvos krikščionių demokratų partija]]: Po Klaipėdos atplėšimo krikščionys demokratai sąlyginai sugrįžo į valdžią ir Jono Černiaus vyriausybėje gavo dvi ministrų vietas.
-- susijęs iš [[objektai/grupes/Lietuvos krikščionių demokratų partija.md#claim-t-74745|Lietuvos krikščionių demokratų partija]]: Krikščionys demokratai ir liaudininkai pareikalavo vietoj Antano Merkio ministru pirmininku paskirti krikščionims demokratams artimą Stasį Raštikį.
-- susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101468|Lietuvos valstiečių liaudininkų sąjunga]]: Krikščionys demokratai ir liaudininkai reikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį.
-- susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101473|Lietuvos valstiečių liaudininkų sąjunga]]: 1940 m. birželio 15-osios naktį liaudininkai ir krikščionys demokratai pareikalavo vietoje Antano Merkio premjeru skirti Stasį Raštikį.
 - susijęs iš [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga.md#claim-t-101476|Lietuvos valstiečių liaudininkų sąjunga]]: Po Klaipėdos atplėšimo liaudininkai Jono Černiaus „vieningo darbo“ vyriausybėje gavo dvi ministrų vietas.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-183890|Notangai]]: 1317 m. žiemą brolis Henrikas su broliais ir Sembos bei Notangos kariais žygiavo prieš Vaikių valsčių.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78400|Notangai]]: 1317 m. žiemą brolis Henrikas su broliais ir Sembos bei Notangos kariais žygiavo prieš Vaikių valsčių.
@@ -129,27 +193,16 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš [[objektai/grupes/Tautininkų grupuotė apie „Viltį“.md#claim-t-183186|Tautininkų grupuotė apie „Viltį“]]: Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
 - susijęs iš [[objektai/grupes/Tautininkų grupuotė apie „Viltį“.md#claim-t-20038|Tautininkų grupuotė apie „Viltį“]]: Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
 - susijęs iš [[objektai/grupes/Žuvėdai.md#claim-t-66404|Žuvėdai]]: Žuvėdai 1700 m. išvertė Gintės žinyčią, ieškodami joje paslėptų lobių.
-- susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-71724|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demokratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruodžio 1 d. komunistų pučas Estijoje rodė esant tokią galimybę).
-- susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66519|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Prūsai prie Pagansčių kaimo netikėtai užpuolė krikščionis iš dviejų pusių, nukovė dvylika brolių ir penkis šimtus vyrų.
-- susijęs iš [[objektai/ivykiai/Galindų žygis be ginklų ir Galindos žemės nusiaubimas.md#claim-t-91904|Galindų žygis be ginklų ir Galindos žemės nusiaubimas]]: Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.
-- susijęs iš [[objektai/ivykiai/Jono Černiaus „vieningo darbo“ vyriausybės sudarymas po Klaipėdos praradimo (1939 m.).md#claim-t-20212|Jono Černiaus „vieningo darbo“ vyriausybės sudarymas po Klaipėdos praradimo (1939 m.)]]: Jono Černiaus „vieningo darbo“ vyriausybėje krikščionys demokratai ir liaudininkai gavo po dvi ministrų vietas.
 - susijęs iš [[objektai/ivykiai/Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas).md#claim-t-183926|Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)]]: Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį.
 - susijęs iš [[objektai/ivykiai/Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas).md#claim-t-66575|Junigedos pilies statyba ir Medrabos pilies sunaikinimas (1291 m. per Velykas)]]: Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį.
 - susijęs iš [[objektai/ivykiai/Keturių LKP vadovų sušaudymas po 1926 m. perversmo.md#claim-t-20219|Keturių LKP vadovų sušaudymas po 1926 m. perversmo]]: Po 1926 m. perversmo keturi LKP vadovai buvo nuteisti mirties bausme ir sušaudyti praėjus dešimčiai dienų nuo perversmo pradžios.
-- susijęs iš [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės.md#claim-t-91906|Krikščionių pergalingas mūšis prie Zirgūnos upės]]: Prie Zirgūnos upės Hermano vadovaujami krikščionys sumušė prūsų kariuomenę, o mūšyje krito daugiau nei penki tūkstančiai prūsų.
-- susijęs iš [[objektai/ivykiai/Lietuvos pasiuntinių derybos Rygoje (1298 m.).md#claim-t-31447|Lietuvos pasiuntinių derybos Rygoje (1298 m.)]]: 1298 m. į Rygą atvykę Lietuvos pasiuntiniai pareiškė, kad lietuviai nori jungtis su krikščionimis ir krikštytis.
 - susijęs iš [[objektai/ivykiai/Martyno iš Golino kova su 20 prūsų plėšikų.md#claim-t-183943|Martyno iš Golino kova su 20 prūsų plėšikų]]: Po kovos pririštas sargybinis išsilaisvino, rado sunkiai sužeistą Martyną iš Golino ir nuvežė jį į Rudino pilį.
 - susijęs iš [[objektai/ivykiai/Martyno iš Golino kova su 20 prūsų plėšikų.md#claim-t-62392|Martyno iš Golino kova su 20 prūsų plėšikų]]: Po kovos pririštas sargybinis išsilaisvino, rado sunkiai sužeistą Martyną iš Golino ir nuvežė jį į Rudino pilį.
 - susijęs iš [[objektai/ivykiai/Naujas Sventopelko karas ir susidūrimas prie Renzeno.md#claim-t-59381|Naujas Sventopelko karas ir susidūrimas prie Renzeno]]: Per susidūrimą prūsai nužudė naująjį maršalą Berleviną, visus brolius ir 400 vyrų, išskyrus 10 pabėgusiųjų.
-- susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-183956|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.
-- susijęs iš [[objektai/ivykiai/Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.).md#claim-t-66829|Pirmasis prūsų atsimetimas ir Sventopelko sukeltas Prūsijos žemių nusiaubimas (1242 m.)]]: Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys.
-- susijęs iš [[objektai/ivykiai/Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas.md#claim-t-185536|Prūsų pergalė prieš kryžiuočių stovyklą ir Hirtshalso sudeginimas]]: Prūsams pasirodžius iš užnugario, prasidėjo žiaurus mūšis, kuriame krikščionys galiausiai buvo sumušti.
 - susijęs iš [[objektai/ivykiai/Treniotos nužudymas (1264 m.).md#claim-t-28870|Treniotos nužudymas (1264 m.)]]: 1264 m. buvę Mindaugo dvariškiai arklininkai nužudė Treniotą, veikiausiai su Vaišvilko žinia ir pritarimu.
-- susijęs iš [[objektai/ivykiai/Tripolio miesto sugriovimas (1288 m.).md#claim-t-62514|Tripolio miesto sugriovimas (1288 m.)]]: Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o ten gyvenę krikščionys paimti į nelaisvę arba nužudyti.
 - susijęs iš [[objektai/ivykiai/Žygimanto Kęstutaičio nužudymas per Verbų sekmadienį (1440 m.).md#claim-t-185685|Žygimanto Kęstutaičio nužudymas per Verbų sekmadienį (1440 m.)]]: Sąmokslininkai sutarė nužudyti Žygimantą Kęstutaitį Verbų sekmadienį.
 - susijęs iš [[objektai/ivykiai/Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema).md#claim-t-183976|Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)]]: 1317 m. žiemą žygis prieš Vaikių valsčių nutrūko, kai audra išblaškė daugiau nei penkis šimtus kariuomenės arklių.
 - susijęs iš [[objektai/ivykiai/Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema).md#claim-t-62960|Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)]]: 1317 m. žiemą žygis prieš Vaikių valsčių nutrūko, kai audra išblaškė daugiau nei penkis šimtus kariuomenės arklių.
-- susijęs iš [[objektai/paprociai/Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma.md#claim-t-87141|Gedimino krikščionių dvasininkų kvietimas ir religinio pakantumo norma]]: Gediminas aiškino, kad kariauja su krikščionimis ne dėl katalikų tikėjimo naikinimo, o dėl patiriamų skriaudų.
 - susijęs iš [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose.md#claim-t-75369|Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]: Būsimų tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kartu su krikščionimis demokratais kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
 - susijęs iš [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose.md#claim-t-75371|Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]: Krikščionys demokratai ir būsimi tautininkai kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
 - susijęs iš [[objektai/paprociai/Lietuvos krikšto apeigos.md#claim-t-93041|Lietuvos krikšto apeigos]]: 1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.
@@ -157,10 +210,7 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš [[objektai/paprociai/Viešoji krikščionių atgaila ir saviplaka.md#claim-t-62724|Viešoji krikščionių atgaila ir saviplaka]]: Popiežiaus Inocento laikais beveik visi krikščionys turėjo viešai atgailauti ir plakėsi rykštėmis.
 - susijęs iš [[objektai/paprociai/Šermenų kėlimas rūmuose mirus valdovo žmonai.md#claim-t-185927|Šermenų kėlimas rūmuose mirus valdovo žmonai]]: Mirus Mindaugo žmonai, į rūmus buvo pakviesta Daumanto žmona sutvarkyti šeimynos moterų ir iškelti mirusiajai šermenis.
 - susijęs iš [[objektai/paprociai/Šventųjų šaltinių ir lieknų neprileidimas.md#claim-t-07824|Šventųjų šaltinių ir lieknų neprileidimas]]: Žemaičiai neleisdavo krikščionims artintis prie savo šventųjų šaltinių ir lieknų, nes bijojo, kad jie juos suterš ar sumaitos.
-- susijęs iš [[objektai/paprociai/Žydų prekybos ribojimas pilyse iki pusrytės.md#claim-t-07827|Žydų prekybos ribojimas pilyse iki pusrytės]]: Smulkesnėje prekyboje pilyse dar vertėsi krikščionys, o žydai negalėjo pirkti į pilį įvežamų prekių iki didžiosios pusrytės ar iki pietų.
 - susijęs iš [[objektai/posakiai/Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis.md#claim-t-89590|Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis]]: Krikščionys pavijo ir išžudė neginkluotą kariuomenę, o sūduviai ir kitos kaimyninės gentys įsibrovė į Galindą.
-- susijęs iš [[objektai/posakiai/Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo.md#claim-t-54760|Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo]]: Lietuviškame vertime pažadas suformuluotas kaip taika, apie kokią krikščionys niekados nė negalvojo.
-- susijęs iš [[objektai/posakiai/Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo.md#claim-t-54761|Nustatysime tokią tarpusavio taiką, apie kokią krikščionys niekados nė negalvojo]]: Formulė „talem pacem ordinabimus“ žadėjo nustatyti tokią taiką, kokios krikščionys nebuvo patyrę.
 - susijęs iš [[objektai/posakiai/Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat sa.md#claim-t-28749|Tegul krikščionys (lotyniškieji) Dievą garbina pagal savo apeigas, tegul rusai (rutheni) jam tarnauja pagal savo paprotį, lenkai taip pat sa]]: Gediminas popiežiaus legato pasiuntiniams pareiškė, kad skirtingų apeigų žmonės Dievą garbina savaip, bet visi turi vieną Dievą.
 - susijęs iš [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo.md#claim-t-89597|ne teisingumo ieškoki, bet pasigailėjimo]]: Henrikas iš Lichtenšteino Sventopelkui pareiškė, kad šis turįs ieškoti ne teisingumo, bet pasigailėjimo.
 - susijęs iš [[objektai/posakiai/ne teisingumo ieškoki, bet pasigailėjimo.md#claim-t-89598|ne teisingumo ieškoki, bet pasigailėjimo]]: Sventopelkui prašant grąžinti įkaitu duotą sūnų, Henrikas iš Lichtenšteino atsakė: „ne teisingumo ieškoki, bet pasigailėjimo“.
@@ -172,37 +222,27 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 - susijęs iš Regesta Lithuaniae: Regesta Lithuaniae p. 147 siejama su 1294 m. puolimu, kurį Dusburgietis datavo 1292 m.
 - susijęs iš Varpas: 1902 m. Lietuvos demokratų partija susikūrė „Varpą“ leidusios organizacijos pagrindu.
 - susijęs iš Viltis: Apie Antano Smetonos redaguotą „Vilties“ žurnalą susitelkusi būsimų tautininkų grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
-- susijęs iš Ispanija: 1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo.
-- susijęs iš Jeruzalė: Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią.
 - susijęs iš Junigeda: Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junigedos vardu.
 - susijęs iš Junigeda: Paaiškinimuose Junigedos, arba Veliuonos, pilis siejama su rytiniu Veliuonos piliakalniu, vadinamu Gedimino kapu.
 - susijęs iš Junigeda: Junigeda minima kaip valsčius ir pilis, vėlesnėse kronikose tapatinta su Veliuona.
 - susijęs iš Medraba: Brolis Bertoldas su tūkstančiu Sembos vyrų užpuolė Medrabos pilį, ją sudegino, o žmones išžudė arba paėmė į nelaisvę.
 - susijęs iš Medraba: Brolis Bertoldas su tūkstančiu Sembos vyrų užpuolė Medrabos pilį, ją sudegino, o žmones išžudė arba paėmė į nelaisvę.
 - susijęs iš Nalšia: Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, žmona, kuri buvo karalienės sesuo.
-- susijęs iš Nemunas: Per šešerius metus lietuviai, gyvenę Nemuno pakrantėje nuo Neries upės iki Lamatos žemės, buvo priversti laikytis taikos su krikščionimis.
-- susijęs iš Pagansčiai: Prie Pagansčių kaimo prūsai užpuolė krikščionis ir nukovė dvylika brolių bei penkis šimtus vyrų.
 - susijęs iš Rudinas: Sargybinis rado sužeistą Martyną kovos vietoje ir nuvežė jį į Rudino pilį.
 - susijęs iš Severskas: Mykolas su skitais įsiveržė į Severską, sumušė jam kelią pastojusias jėgas ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.
-- susijęs iš Tripolis: Popiežiaus Mikalojaus IV antraisiais metais Tripolis buvo sugriautas, o miesto krikščionys paimti į nelaisvę arba nužudyti.
 - susijęs iš Vaikiai: 1317 m. žiemą maršalas Henrikas su broliais bei Sembos ir Notangos kariais nužygiavo prieš Vaikių valsčių.
 - susijęs iš Vaikių valsčius: 1317 m. žiemą maršalas Henrikas su broliais bei Sembos ir Notangos kariais nužygiavo prieš Vaikių valsčių.
 - susijęs iš Vilniaus vyskupija: Vilniaus vyskupijos bažnyčiose kova už lietuvių kalbos teises neretai virsdavo lenkų ir lietuvių muštynėmis.
 - susijęs iš Vilnius: Vilnius liko šalies sostine ir nuolatine aukščiausiojo Lietuvos valdovo buveine.
 - susijęs iš Zirgūna: Prūsų raiteliai ir pėstininkai įsirengė stovyklą ant Zirgūnos upės kranto, o broliai su kariuomene apsistojo priešais.
-- susijęs iš [[objektai/zodynas/Geyseler.md#claim-t-58901|Geyseler]]: Geyseler buvo vokiškas rykštėmis besiplakusių krikščionių saviplakių pavadinimas.
-- susijęs iš [[objektai/zodynas/Pusrytės.md#claim-t-07749|pusrytės]]: Iki didžiosios pusrytės arba pietų žydams pilyje nebuvo leidžiama pirkti prekių pirmiau už krikščionis.
 - susijęs iš [[objektai/zodynas/Pusrytės.md#claim-t-07750|pusrytės]]: Pusrytės žymėjo laiką, iki kurio žydams pilyje neleista pirkti prekių.
 - susijęs iš [[objektai/zodynas/Vieningo darbo vyriausybė.md#claim-t-22033|Vieningo darbo vyriausybė]]: Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos partijos gavo po dvi ministrų vietas.
-- susijęs iš [[objektai/zodynas/dykra.md#claim-t-89545|dykra]]: Karalius nužygiavo į Bartos žemės dykras, į Vaplaukio lauką, ir ten gyrėsi supančiotiems krikščionių belaisviams.
 - susijęs iš [[objektai/zodynas/koniuši.md#claim-t-99983|koniuši]]: Ivinskio spėjimu, buvę Mindaugo dvariškiai arklininkai, koniuši, 1264 m. nužudė Treniotą su Vaišvilko žinia ir pritarimu.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70221|maldininkai / maldininko įžadai]]: Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę.
 - susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58830|maldininkai]]: Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-184009|papilys]]: Prūsai prie Pagansčių kaimo sumušė krikščionis, o po to sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58777|papilys]]: Prūsai sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį, dalį žmonių paimdami į nelaisvę, o kitus išžudydami.
-- susijęs iš [[objektai/zodynas/stabmeldžiai.md#claim-t-185393|stabmeldžiai]]: Į aukštąsias ir viešąsias pareigybes neturėjo būti skiriami stabmeldžiai ir popiežiui nepaklusę krikščionys.
 - susijęs iš [[objektai/zodynas/tautų apsisprendimo teisė tautų apsisprendimo principas.md#claim-t-101614|tautų apsisprendimo teisė tautų apsisprendimo principas]]: Radikalioji ir konservatyvioji lietuvių politinės visuomenės grupuotės pritarė tautų apsisprendimo principui.
-- susijęs iš [[objektai/zodynas/vokiečių ateivių valstybė.md#claim-t-70405|vokiečių ateivių valstybė]]: Livonijoje ateiviai krikščionys įkūrė apsaugos organizaciją, paprastai vadintą kalavijuočių ordinu.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -258,6 +298,16 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 131568-132226; hash=36882709618c65c76385ef0f9cbf40242857a97a9a99fd61d99c7b7f7daa67f7; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/10_extract_groups_notes.md
+  ryšio_patikimumas: susije_su -> Kalnėnai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krikščionys: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kalnėnai: mention_match, group, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krikščionys" parinktas kaip owner_note_path. Targetas "Kalnėnai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -281,6 +331,16 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 176435-176825; hash=3e6b9a23cac269399d12bc21b98f2d6fe901f7d93c85200a69bf3e0efb57f37c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krikščionys: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krikščionys" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
 
 - c-005
@@ -299,4 +359,24 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 179696-180157; hash=284f18498338e0bdfe9889d20036f1648580ec282b6e5502b7ba66d06d5b4c7e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krikščionys: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krikščionys" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 356002-356629; hash=245bcd8fcc602bb3aa987ac40c42b63b213bfb9ea96aeafb67c195c9ee107d82; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Fridrichas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Krikščionys: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Fridrichas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Krikščionys" parinktas kaip owner_note_path. Targetas "Fridrichas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

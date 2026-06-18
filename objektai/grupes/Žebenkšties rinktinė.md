@@ -34,6 +34,16 @@ Tuo tikslu maždaug 60 Žebenkšties rinktinės kovotojų, vadovaujamų LLA kari
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia tikslesnį sakinį su data.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 976504-976934; hash=1360e20e5376e7d55dbda8aa299baa9b7fa94334008bb9d2bc78850631b01d06; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kelmė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žebenkšties rinktinė: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kelmė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žebenkšties rinktinė" parinktas kaip owner_note_path. Targetas "Kelmė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -54,3 +64,13 @@ Tuo tikslu maždaug 60 Žebenkšties rinktinės kovotojų, vadovaujamų LLA kari
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 976504-976934; hash=1360e20e5376e7d55dbda8aa299baa9b7fa94334008bb9d2bc78850631b01d06; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kelmė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žebenkšties rinktinė: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kelmė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žebenkšties rinktinė" parinktas kaip owner_note_path. Targetas "Kelmė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

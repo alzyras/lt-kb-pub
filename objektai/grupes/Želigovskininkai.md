@@ -34,19 +34,29 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Išplėsta inicialu pažymėta pavardė ir sakinys paliktas pilnas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c5d2642d0d0eed549857023b07273e59b961476640123be204b4c1f3cf422155; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Želigovskininkai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Želigovskininkai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179180|Lenkai]]: Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, Tautų Sąjunga pasirodė bejėgė, o Lietuvai teko stabdyti želigovskininkų judėjimą.
+- susijęs iš Apylaukė: Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke ugnimi išblaškė želigovskininkų kavalerijos padalinius.
+- susijęs iš Apylaukė: Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke išblaškė prasiveržusius želigovskininkų kavalerijos padalinius.
+- susijęs iš Gineičiai: Lapkričio 21 d. šarvuotas traukinys „Gediminas“ ties Gineičiais ir Apylauke išblaškė želigovskininkų kavalerijos padalinius.
+- susijęs iš Gineičiai: Lapkričio 21 d. šarvuotas traukinys „Gediminas“ ties Gineičiais ir Apylauke išblaškė želigovskininkų kavalerijos padalinius.
 - susijęs iš [[objektai/asmenys/L. Želigovskis.md#claim-t-183558|L. Želigovskis]]: 1920 m. spalio 9 d. L. Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.
 - susijęs iš [[objektai/daiktai/Artilerija.md#claim-t-187516|Artilerija]]: Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius.
 - susijęs iš [[objektai/daiktai/Šarvuotasis traukinys Gediminas.md#claim-t-78691|Šarvuotasis traukinys Gediminas]]: 1920 m. spalio 10 d. „Gediminas“ grįžo į Kauną, kur buvo įrengti nauji kulkosvaidžių vagonai ir patobulinti mūšiuose naudoti vagonai.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179169|Lenkai]]: Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, o Lietuvai teko stabdyti tolesnį jo dalinių judėjimą į Lietuvos teritoriją.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179180|Lenkai]]: Lucjano Żeligowskio akciją sveikino Vilniaus lenkų minios, Tautų Sąjunga pasirodė bejėgė, o Lietuvai teko stabdyti želigovskininkų judėjimą.
 - susijęs iš [[objektai/paprociai/Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse.md#claim-t-09589|Fronto kasdienybė: naktinis budėjimas ir dienos miegas slėptuvėse]]: Po želigovskininkų puolimo pirmose linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse.
-- susijęs iš Apylaukė: Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke ugnimi išblaškė želigovskininkų kavalerijos padalinius.
-- susijęs iš Apylaukė: Lapkričio 21 d. atnaujintas šarvuotasis traukinys „Gediminas“ ties Gineičiais ir Apylauke išblaškė prasiveržusius želigovskininkų kavalerijos padalinius.
 - susijęs iš Giedraičiai: 1920 m. lapkritį Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.
 - susijęs iš Giedraičiai: Viena svarbiausių lenkų puolimo krypčių buvo Ukmergės link pro Giedraičius su galutiniu tikslu pulti Kauną iš šiaurės rytų.
 - susijęs iš Giedraičiai: 1920 m. lapkritį Lietuvos kariuomenė sustabdė lenkų dalinius mūšiuose prie Širvintų ir Giedraičių.
-- susijęs iš Gineičiai: Lapkričio 21 d. šarvuotas traukinys „Gediminas“ ties Gineičiais ir Apylauke išblaškė želigovskininkų kavalerijos padalinius.
-- susijęs iš Gineičiai: Lapkričio 21 d. šarvuotas traukinys „Gediminas“ ties Gineičiais ir Apylauke išblaškė želigovskininkų kavalerijos padalinius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,3 +79,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c5d2642d0d0eed549857023b07273e59b961476640123be204b4c1f3cf422155; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Želigovskininkai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Želigovskininkai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

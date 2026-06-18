@@ -29,7 +29,7 @@ Mato patarimas yra pėsčio puolimo ir atsitraukimo vilčių atsisakymo formulė
   global_id: t-09674
   teiginys: 'Matas pasiūlė kryžiuočiams palikti žirgus užnugaryje ir pulti priešus pėsčiomis.'
   sudarymo_pagrindimas: 'Reikia konkrečiau įvardyti, kas pasiūlė ir ką siūlė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Danijos karaliaus kariai iš Revelio|Danijos karaliaus kariai iš Revelio]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Prūsija; mentioned_place: Revelis'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_group: [[objektai/grupes/Danijos karaliaus kariai iš Revelio|Danijos karaliaus kariai iš Revelio]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Prūsija; mentioned_place: Revelis'
   pagrindžia:
     - c-001
 
@@ -38,7 +38,7 @@ Mato patarimas yra pėsčio puolimo ir atsitraukimo vilčių atsisakymo formulė
   global_id: t-09675
   teiginys: '„Palikime savo žirgus toli užpakalyje“ reiškė sumanymą atimti kariams viltį trauktis ir priversti juos nevengti mūšio.'
   sudarymo_pagrindimas: 'Perrašyta kaip savarankiškas faktinis sakinys apie posakį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Danijos karaliaus kariai iš Revelio|Danijos karaliaus kariai iš Revelio]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Prūsija; mentioned_place: Revelis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Danijos karaliaus kariai iš Revelio|Danijos karaliaus kariai iš Revelio]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Prūsija; mentioned_place: Revelis'
   pagrindžia:
     - c-001
 

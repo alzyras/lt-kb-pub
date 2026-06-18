@@ -56,6 +56,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Ponų taryba|Ponų taryba]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=61846cf55de9e75c030958e3009b8cc915ed2c78792e188693752aeb326bf61c; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: ponai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ponai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-186927"></a>
 - t-002
@@ -66,6 +76,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Ponų taryba|Ponų taryba]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=61846cf55de9e75c030958e3009b8cc915ed2c78792e188693752aeb326bf61c; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Ponų taryba (institucija): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: ponai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Ponų taryba (institucija): mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ponai" parinktas kaip owner_note_path. Targetas "Ponų taryba (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186928"></a>
 - t-003
@@ -76,13 +96,17 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Kentauras|Kentauras]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Asianas Abrahimovičius.md#claim-t-87628|Asianas Abrahimovičius]]: Asianas Abrahimovičius buvo paskirtas vertėju Turkijos imperatoriaus čiaušui Ibrahimui, kuriam leista kurį laiką gyventi Vilniuje.
-- susijęs iš [[objektai/asmenys/Ibrahimas (Turkijos čiaušas).md#claim-t-87512|Ibrahimas (Turkijos čiaušas)]]: Turkijos čiaušas Ibrahimas su dvidešimt dviem tarnais turėjo būti aprūpintas nakvyne Vilniaus mieste.
-- susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-79163|Stanislovas Kiška]]: Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu.
-- susijęs iš [[objektai/asmenys/Vilhelmas Habsburgas.md#claim-t-64244|Vilhelmas Habsburgas]]: Austrijos Vilhelmas Habsburgas 1378 m. buvo sužieduotas su penkerių metų Jadvyga.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f6fb2558bb23cb040a6b087509865ff429bbc811341a5ec2a2109cd760cee1e2; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: ponai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ponai" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Ziemovitas III.md#claim-t-30474|Ziemovitas III]]: Jogaila geruoju susitarė su Mozūrijos Ziemovitu III po to, kai mažlenkių ponai jėga išvarė Vilhelmą.
-- susijęs iš [[objektai/asmenys/imperatorius Zigmantas.md#claim-t-64434|imperatorius Zigmantas]]: Imperatorius Zigmantas gavo Jogailos sutikimo dėl Vytauto karūnacijos atšaukimo laišką ir jo nuorašą nusiuntė Vytautui.
-- susijęs iš [[objektai/grupes/Atskiri Lietuvos seimai.md#claim-t-72026|Atskiri Lietuvos seimai]]: Pats karalius ne kartą sušaukdavo atskirus seimus, nepaisydamas unijos akto nuostatų.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179139|Lenkai]]: Jadvyga ir lenkų ponai nepalankiai žiūrėjo į didėjantį Vytauto savarankiškumą.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179179|Lenkai]]: Jadvyga ir lenkų ponai nepalankiai vertino Vytauto pastangas būti nepriklausomam.
 - susijęs iš [[objektai/grupes/Lenkų ponų taryba.md#claim-t-01377|Lenkų ponų taryba (institucija)]]: 1430 m. lenkų ponai Krokuvoje privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo.
@@ -92,9 +116,22 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187735|Ponų taryba (institucija)]]: Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-72612|Ponų taryba (institucija)]]: Lietuvos ponų taryboje buvę kunigaikščiai ilgai reikalavo vietos senate, bet dėl Lietuvos ponų pasipriešinimo į jį nepateko.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-72615|Ponų taryba (institucija)]]: Lenkų ponų taryba Radome garantavo, kad Vytautui nebus atimta Lietuvos didžioji kunigaikštija.
-- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186633|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras, pats vadovaudamas Lietuvos pajėgoms, atsiėmė Smolenską.
 - susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186634|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimiero Tarybos ponai su kariuomene tris savaites stovėjo prie Smolensko, bet miesto neįveikė.
 - susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186635|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimiero Tarybos ponai prie Smolensko neįveikė miesto, sudegino priemiesčius bei vienuolynus ir išsivedė belaisvių.
+- susijęs iš Atviras Lietuvos ponų tarybos laiškas dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje (1586 m. gruodžio 13 d.): 1586 m. gruodžio 13 d. Lietuvos ponų taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje ir nurodė pasirūpinti jo nakvyne bei saugumu.
+- susijęs iš Lietuvos ponų tarybos laiškas Kristupui Radvilai apie Stepono Batoro mirtį (1586 m. gruodžio 13 d.): Po Stepono Batoro mirties Lietuvos ponų taryba prašė Kristupo Radvilos atvykti prie mirusio valdovo kūno arba skubiai atsiųsti savo nuomonę.
+- susijęs iš Lietuvos ponų tarybos laiškas Kristupui Radvilai apie Stepono Batoro mirtį (1586 m. gruodžio 13 d.): Lietuvos ponų tarybos laiškas Kristupui Radvilai buvo sutvirtintas aštuoniais antspaudais.
+- susijęs iš Būgas: Būgas žymėjo ribą, už kurios Tarybos ponai ir kariuomenė atsisakė žygiuoti be Aleksandro sumanymo paaiškinimo.
+- susijęs iš Gardinas: 1586 metų gruodžio 13 dieną Gardine Lietuvos ponų taryba parengė laišką dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje.
+- susijęs iš Livonijos kraštas (kraštas): Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų.
+- susijęs iš Vilnius: Vilniuje ponai prisistatė daugybę rūmų, o miestas tapo vienu gražiausių Rytų Europos miestų.
+- susijęs iš [[objektai/asmenys/Asianas Abrahimovičius.md#claim-t-87628|Asianas Abrahimovičius]]: Asianas Abrahimovičius buvo paskirtas vertėju Turkijos imperatoriaus čiaušui Ibrahimui, kuriam leista kurį laiką gyventi Vilniuje.
+- susijęs iš [[objektai/asmenys/Ibrahimas (Turkijos čiaušas).md#claim-t-87512|Ibrahimas (Turkijos čiaušas)]]: Turkijos čiaušas Ibrahimas su dvidešimt dviem tarnais turėjo būti aprūpintas nakvyne Vilniaus mieste.
+- susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-79163|Stanislovas Kiška]]: Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu.
+- susijęs iš [[objektai/asmenys/Vilhelmas Habsburgas.md#claim-t-64244|Vilhelmas Habsburgas]]: Austrijos Vilhelmas Habsburgas 1378 m. buvo sužieduotas su penkerių metų Jadvyga.
+- susijęs iš [[objektai/asmenys/imperatorius Zigmantas.md#claim-t-64434|imperatorius Zigmantas]]: Imperatorius Zigmantas gavo Jogailos sutikimo dėl Vytauto karūnacijos atšaukimo laišką ir jo nuorašą nusiuntė Vytautui.
+- susijęs iš [[objektai/grupes/Atskiri Lietuvos seimai.md#claim-t-72026|Atskiri Lietuvos seimai]]: Pats karalius ne kartą sušaukdavo atskirus seimus, nepaisydamas unijos akto nuostatų.
+- susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186633|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras, pats vadovaudamas Lietuvos pajėgoms, atsiėmė Smolenską.
 - susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186636|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras tą patį rudenį atsiėmė Smolenską, o Jurgis Lengvenaitis pabėgo į Didįjį Naugardą.
 - susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186637|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras vėl perdavė Smolensko valdymą Andriui Sakavičiui ir išvyko į Vilnių.
 - susijęs iš [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską.md#claim-t-186638|Kazimiero žygis atsiimti Smolenską]]: Lietuvos metraščio pasakojime Kazimieras tą patį rudenį sutelkė Lietuvos pajėgas, pats vadovavo žygiui prie Smolensko ir miestą atsiėmė.
@@ -106,20 +143,13 @@ Nenurodyta
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl erezijos, jurisdikcijos ir prievolių suteikimas (1542 m.).md#claim-t-86977|Žygimanto Senojo privilegijos Vilniaus vyskupui dėl erezijos, jurisdikcijos ir prievolių suteikimas (1542 m.)]]: 1542 m. Žygimanto Senojo privilegija suteikė Vilniaus vyskupui Povilui ir jo įpėdiniams pasaulietinės valdžios paramą bažnytinėms bausmėms vykdyti.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos Vilniaus vyskupui dėl jurisdikcijos ir prievolių suteikimas (1542 m.).md#claim-t-86978|Žygimanto Senojo privilegijos Vilniaus vyskupui dėl jurisdikcijos ir prievolių suteikimas (1542 m.)]]: 1542 m. Žygimanto Senojo privilegija suteikė Vilniaus vyskupui Povilui ir jo įpėdiniams pasaulietinės valdžios paramą bažnytinėms bausmėms vykdyti.
 - susijęs iš [[objektai/paprociai/Vilniaus vyskupo bažnytinių cenzūrų vykdymas pasitelkiant pasaulietinę valdžią.md#claim-t-87311|Vilniaus vyskupo bažnytinių cenzūrų vykdymas pasitelkiant pasaulietinę valdžią]]: Vilniaus vyskupui Povilui ir jo įpėdiniams suteikta pasaulietinė valdžia prieš ilgiau kaip metus bažnytinių cenzūrų vengusius asmenis.
-- susijęs iš Atviras Lietuvos ponų tarybos laiškas dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje (1586 m. gruodžio 13 d.): 1586 m. gruodžio 13 d. Lietuvos ponų taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje ir nurodė pasirūpinti jo nakvyne bei saugumu.
-- susijęs iš Lietuvos ponų tarybos laiškas Kristupui Radvilai apie Stepono Batoro mirtį (1586 m. gruodžio 13 d.): Po Stepono Batoro mirties Lietuvos ponų taryba prašė Kristupo Radvilos atvykti prie mirusio valdovo kūno arba skubiai atsiųsti savo nuomonę.
-- susijęs iš Lietuvos ponų tarybos laiškas Kristupui Radvilai apie Stepono Batoro mirtį (1586 m. gruodžio 13 d.): Lietuvos ponų tarybos laiškas Kristupui Radvilai buvo sutvirtintas aštuoniais antspaudais.
-- susijęs iš Būgas: Būgas žymėjo ribą, už kurios Tarybos ponai ir kariuomenė atsisakė žygiuoti be Aleksandro sumanymo paaiškinimo.
-- susijęs iš Gardinas: 1586 metų gruodžio 13 dieną Gardine Lietuvos ponų taryba parengė laišką dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje.
 - susijęs iš Kijevas: Po Mykolo mirties Lietuvos ponai Lietuvos valdovu siūlė Kijevo kunigaikštį Simaną.
 - susijęs iš Kijevas: 1461 m. Lietuvos ponai kandidatu į Lietuvos valdovus siūlė Kijevo kunigaikštį Simaną.
 - susijęs iš Krokuva: Žygimanto Augusto laikais geriausi amatininkai iš Krokuvos apsigyveno Vilniuje ir prisidėjo prie cechų organizavimo.
 - susijęs iš Krokuva: Jogailai siekiant ponų tarybos sutikimo dėl Vytauto karūnacijos, į Krokuvą buvo išsiųsti su Jogaila į Vilnių atvykę Lenkijos ponai.
 - susijęs iš Krokuva: Su Jogaila į Vilnių atvykę lenkų ponai buvo išsiųsti į Krokuvą, bet Vytautas jų susitarimo nebesulaukė.
 - susijęs iš Krokuva: Aleksandras 1501 m. lapkričio 29 d. išvyko iš Melniko į Krokuvą, kur gruodžio 12 d. buvo vainikuotas Lenkijos karaliumi.
-- susijęs iš Livonijos kraštas (kraštas): Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų.
 - susijęs iš Vilnius: 1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje.
-- susijęs iš Vilnius: Vilniuje ponai prisistatė daugybę rūmų, o miestas tapo vienu gražiausių Rytų Europos miestų.
 - susijęs iš [[objektai/zodynas/bažnytinės cenzūros ir pasaulietinė valdžia.md#claim-t-86517|bažnytinės cenzūros ir pasaulietinė valdžia]]: Vilniaus vyskupui Povilui ir jo įpėdiniams suteikta pasaulietinė valdžia asmenims, ilgiau kaip metus vengiantiems bažnytinių cenzūrų.
 - susijęs iš [[objektai/zodynas/regestrai regestriniai kazokai.md#claim-t-74035|regestrai regestriniai kazokai]]: Nugalėti kazokai iš dalies patekdavo į regestrus, o kiti turėdavo dirbti žemę arba bėgdavo į Sičę.
 ## Reikšmingi paminėjimai
@@ -143,6 +173,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=61846cf55de9e75c030958e3009b8cc915ed2c78792e188693752aeb326bf61c; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Ponų taryba (institucija): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: ponai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Ponų taryba (institucija): mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ponai" parinktas kaip owner_note_path. Targetas "Ponų taryba (institucija)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-002
@@ -165,4 +205,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=61846cf55de9e75c030958e3009b8cc915ed2c78792e188693752aeb326bf61c; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: ponai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ponai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f6fb2558bb23cb040a6b087509865ff429bbc811341a5ec2a2109cd760cee1e2; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/08_extract_vocabulary_notes.md
+  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: ponai: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "ponai" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

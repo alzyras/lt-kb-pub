@@ -51,7 +51,7 @@ Nenurodyta
   global_id: t-09550
   teiginys: 'XV a. pabaigoje - XVI a. pradžioje Lietuvoje ir Lenkijoje susiformavo ilgam tradicine tapusi kovinė rikiuotė.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/lengvoji raitija|lengvoji raitija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/lengvoji raitija|lengvoji raitija]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

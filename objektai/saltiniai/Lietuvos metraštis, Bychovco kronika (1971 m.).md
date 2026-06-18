@@ -38,9 +38,19 @@ amziai:
   teiginys: 'Leidinio įvade nurodoma, kad pavadinimas „Lietuvos metraštis, arba Bychovco kronika“ nėra autentiškas rankraščio pavadinimas, o vardas „Bychovco kronika“ prigijo XIX a. pagal Aleksandrą Bychovcą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys aiškiai atribuoja pavadinimo kilmės aiškinimą leidinio įvadui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Gardinas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 954-1211; hash=b48a020189f8104ddbe352d41b582611d4810486550093cdce0f8c0f25f29b71; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
+  ryšio_patikimumas: susije_su -> K. Korsakas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos metraštis, Bychovco kronika (1971 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: K. Korsakas: mention_match, author, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos metraštis, Bychovco kronika (1971 m.)" parinktas kaip owner_note_path. Targetas "K. Korsakas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186430"></a>
 - t-002
@@ -48,12 +58,22 @@ amziai:
   teiginys: '1971 m. Vilniuje išleistas leidinys pavadintas „Lietuvos metraštis, Bychovco kronika“, o vertimą, įvadą ir paaiškinimus parašė Rimantas Jasas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys gramatiškas, aiškus ir tiesiogiai paremtas antraštiniu puslapiu.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Venclova|A. Venclova]]; mentioned_author: [[objektai/autoriai/K. Korsakas|K. Korsakas]]; mentioned_author: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Korsakas|K. Korsakas]]; mentioned_author: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/A. Venclova|A. Venclova]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys gramatiškas, aiškus ir tiesiogiai paremtas antraštiniu puslapiu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1771-2307; hash=b4cb6d7f204afdf65b2f5213753f81aa08ee1bbe9d9cc1d95a726bf082dbdce7; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos metraštis, Bychovco kronika (1971 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos metraštis, Bychovco kronika (1971 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -95,4 +115,24 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1771-2307; hash=b4cb6d7f204afdf65b2f5213753f81aa08ee1bbe9d9cc1d95a726bf082dbdce7; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos metraštis, Bychovco kronika (1971 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos metraštis, Bychovco kronika (1971 m.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 954-1211; hash=b48a020189f8104ddbe352d41b582611d4810486550093cdce0f8c0f25f29b71; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/01_extract_sources_notes.md
+  ryšio_patikimumas: susije_su -> K. Korsakas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lietuvos metraštis, Bychovco kronika (1971 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: K. Korsakas: mention_match, author, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lietuvos metraštis, Bychovco kronika (1971 m.)" parinktas kaip owner_note_path. Targetas "K. Korsakas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

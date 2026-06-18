@@ -33,9 +33,19 @@ Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino 
   global_id: t-86490
   teiginys: 'Ordino maršalas Engelhardas Rabė vadovavo žygiui, nes didysis magistras Konradas Ciolneris sirgo sunkia liga.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet reikia pašalinti OCR triukšmą ir perteklinį kontekstą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Engelhardas Rabė|Engelhardas Rabė]]; mentioned_person: [[objektai/asmenys/Rabė|Rabė]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Engelhardas Rabė|Engelhardas Rabė]]; mentioned_person: [[objektai/asmenys/Rabė|Rabė]]; mentioned_author: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 260147-260926; hash=5d4ac1f7a24fb9fabafc1e3e804089fd38bb12a626f019a0587b6ba074b8989e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Engelhardas Rabė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ordino maršalas didysis maršalas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Engelhardas Rabė: mention_match, person, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ordino maršalas didysis maršalas" parinktas kaip owner_note_path. Targetas "Engelhardas Rabė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-86491"></a>
 - t-002
@@ -48,6 +58,16 @@ Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino 
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e5316db19e32837747e12d8e33575926b941d405cd32c9a7ea26214ced3e91a7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konradas Valenrodas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ordino maršalas didysis maršalas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Konradas Valenrodas: mention_match, person, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ordino maršalas didysis maršalas" parinktas kaip owner_note_path. Targetas "Konradas Valenrodas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -117,4 +137,24 @@ Galop ta galinga kariauna išsiruošė į žygį vedama vyriausiojo vado Ordino 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e5316db19e32837747e12d8e33575926b941d405cd32c9a7ea26214ced3e91a7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konradas Valenrodas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ordino maršalas didysis maršalas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Konradas Valenrodas: mention_match, person, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ordino maršalas didysis maršalas" parinktas kaip owner_note_path. Targetas "Konradas Valenrodas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 260147-260926; hash=5d4ac1f7a24fb9fabafc1e3e804089fd38bb12a626f019a0587b6ba074b8989e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Engelhardas Rabė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ordino maršalas didysis maršalas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Engelhardas Rabė: mention_match, person, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ordino maršalas didysis maršalas" parinktas kaip owner_note_path. Targetas "Engelhardas Rabė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

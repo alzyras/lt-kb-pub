@@ -28,12 +28,22 @@ Visuomenėje virė diskusijos dėl tų, kurie uoliai talkino naciams ir sovietam
   global_id: t-21988
   teiginys: 'Atkūrus nepriklausomybę desovietizacijos ir liustracijos klausimai Lietuvoje buvo sprendžiami lėtai.'
   sudarymo_pagrindimas: 'Citata pagrindžia lėtą klausimų sprendimą, o pradinis sakinys pernelyg apkrautas šalutinėmis temomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok|atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok]]; mentioned_place: Lietuva; mentioned_place: Sibiras'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/posakiai/atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok|atėjus okupantui nepulk jam padėti, netarnauk, nekolaboruok]]; mentioned_place: Sibiras'
   temporaliniai_duomenys: 'įvykio data: 1940-1990; įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia lėtą klausimų sprendimą, o pradinis sakinys pernelyg apkrautas šalutinėmis temomis.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0773ef2de895ad08267db97658149dee94f19b13f6371f8373d5954f0ae4dbfc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Desovietizacija ir liustracija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Desovietizacija ir liustracija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -58,3 +68,13 @@ Visuomenėje virė diskusijos dėl tų, kurie uoliai talkino naciams ir sovietam
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0773ef2de895ad08267db97658149dee94f19b13f6371f8373d5954f0ae4dbfc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Desovietizacija ir liustracija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=43
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Desovietizacija ir liustracija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

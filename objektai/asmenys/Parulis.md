@@ -35,6 +35,16 @@ Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė V
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 389451-389682; hash=2794aa7e41d6afe22ff302233ee64ecb74d62ad0088458f94e42791a8bd459e3; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Namas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Parulis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Parulis" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Mauricijus.md#claim-t-87776|Mauricijus]]: 1632 m. Mauricijus ir Uršulė už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai.
 - susijęs iš [[objektai/asmenys/Uršulė.md#claim-t-87930|Uršulė]]: 1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai.
 - susijęs iš Parulio mūras: 1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą iš magistrato ir perdavė jį Akademijos kolegijai.
@@ -53,3 +63,13 @@ Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė V
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 389451-389682; hash=2794aa7e41d6afe22ff302233ee64ecb74d62ad0088458f94e42791a8bd459e3; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Namas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Parulis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Namas: mention_match, thing, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Parulis" parinktas kaip owner_note_path. Targetas "Namas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -37,6 +37,16 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   temporalinis_llm_pakomentavimas: 'Pašalinta kontekstinė frazė ir paliktas aiškus faktas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c051e0d1a61c06e0dd683f9b0e582c5e0bffd9800d0b6f6b77706333332e542e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: III Seimas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "III Seimas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-74135"></a>
 - t-002
@@ -61,12 +71,22 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir gramatiškas faktinis sakinys apie III Seimą.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0ffdfcc140ab7d14a02afb821896d16f1ea59bcb29e10a930d5a6add79de2274; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> seimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: III Seimas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: seimas: mention_match, thing, gap=4
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "III Seimas" parinktas kaip owner_note_path. Targetas "seimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77965|A. Smetona]]: 1927 m. balandžio 12 d. A. Smetona paleido III Seimą ir taip pašalino krikščionis demokratus iš valdžios.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75728|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1927 m. balandžio 12 d. Antanas Smetona prezidento aktu paleido III Seimą ir nustūmė krikščionis demokratus nuo valdžios.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75749|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1927 m. paleidęs III Seimą, Antanas Smetona nuo valdžios nustūmė stipriausią šalies politinę jėgą – krikščionis demokratus.
 - susijęs iš [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas Lietuvoje.md#claim-t-71725|1926 m. gruodžio 17 d. perversmas Lietuvoje]]: Po 1926 m. gruodžio 17 d. perversmo III Seimas gruodžio 19 d. nauju Lietuvos prezidentu išrinko tautininkų lyderį Antaną Smetoną.
 - susijęs iš [[objektai/ivykiai/III Seimo paleidimas (1927 m. balandžio 12 d.).md#claim-t-20199|III Seimo paleidimas (1927 m. balandžio 12 d.)]]: 1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai nepaskelbti.
 - susijęs iš Prezidento aktas dėl III Seimo paleidimo (1927 m.): 1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o naujų rinkimų neskelbimas teisintas rengiamu plebiscitu.
+- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75749|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1927 m. paleidęs III Seimą, Antanas Smetona nuo valdžios nustūmė stipriausią šalies politinę jėgą – krikščionis demokratus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -106,6 +126,16 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c051e0d1a61c06e0dd683f9b0e582c5e0bffd9800d0b6f6b77706333332e542e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: III Seimas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "III Seimas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-003
@@ -127,3 +157,13 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   statusas: verified
   pagrindžia:
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0ffdfcc140ab7d14a02afb821896d16f1ea59bcb29e10a930d5a6add79de2274; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> seimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: III Seimas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: seimas: mention_match, thing, gap=4
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "III Seimas" parinktas kaip owner_note_path. Targetas "seimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

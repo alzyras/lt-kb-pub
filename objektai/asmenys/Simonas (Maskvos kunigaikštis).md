@@ -24,10 +24,20 @@ sieną, pabėgo ir pasislėpė pas didįRus., 1.168, ir K a r a m z i n: M cmopi
   global_id: t-87851
   teiginys: 'Maskvos kunigaikštis Simonas buvo valdovas, pas kurį pabėgęs Jaunutis pasislėpė ir priėmė graikų apeigų tikėjimą.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie Simoną be OCR triukšmo.'
-  susije_objektai: 'territory: Maskva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Maskva'
+  susije_objektai: 'territory: Maskva; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Maskva'
   semantiniai_rysiai: '[[objektai/asmenys/Simonas (Maskvos kunigaikštis)|Simonas (Maskvos kunigaikštis)]] buvo valdovas Maskva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 80235-80768; hash=15785067535bb6981b8ba206516a159e3290c7e45a6f00f9184b781133a401c3; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Simonas (Maskvos kunigaikštis): owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Simonas (Maskvos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -49,6 +59,16 @@ sieną, pabėgo ir pasislėpė pas didįRus., 1.168, ir K a r a m z i n: M cmopi
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 80235-80768; hash=15785067535bb6981b8ba206516a159e3290c7e45a6f00f9184b781133a401c3; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Simonas (Maskvos kunigaikštis): owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Simonas (Maskvos kunigaikštis)" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 ## Ryšiai
 - Simonas (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Maskva]]

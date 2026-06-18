@@ -24,6 +24,9 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo šį veikalą ir puslapį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4edfb583d5cbc225a64e8f49f25b1e30e8ee5f2d6dec0598fec83ec000086ea5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -48,4 +51,10 @@ Dusburgietis teigia, kad 14 Mažiulis V. Dusburgietis teigia, kad 19 Mažiulis V
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4edfb583d5cbc225a64e8f49f25b1e30e8ee5f2d6dec0598fec83ec000086ea5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 14861-14907; hash=9b28115e63b6e3ae132de7f7088fc7c8746f6a1a6638804c8ae60a0673b1cc73; match=exact
+  sprendimo_priezastis: auto

@@ -35,6 +35,16 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4368a7b3eecd1b2e80fbde660775fab781b8fe00c363e860854a904009b7cd7b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rytų kraštas (Ostlandas): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga): mention_match, event, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rytų kraštas (Ostlandas)" parinktas kaip owner_note_path. Targetas "Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -54,3 +64,13 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4368a7b3eecd1b2e80fbde660775fab781b8fe00c363e860854a904009b7cd7b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rytų kraštas (Ostlandas): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga): mention_match, event, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rytų kraštas (Ostlandas)" parinktas kaip owner_note_path. Targetas "Rytų krašto (Ostlando) reicho komisariato sudarymas ir civilinio okupacinio valdymo įvedimas (1941 m. liepos pabaiga)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

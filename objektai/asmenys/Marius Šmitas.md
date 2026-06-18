@@ -32,6 +32,9 @@ p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šm
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3eb70c49dfe2d02b701f243aeb29c56b95810d6e6230f2ce018ab8160ebf4987; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-40328"></a>
 - t-002
@@ -43,6 +46,9 @@ p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šm
   temporalinis_llm_pakomentavimas: 'Citata yra nuotraukos antraštės fragmentas, todėl teiginį reikia suformuluoti kaip pilną sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3eb70c49dfe2d02b701f243aeb29c56b95810d6e6230f2ce018ab8160ebf4987; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -57,4 +63,10 @@ p. 261, Marius Šmitas su medžiokliniu šautuvu 1991 m, KAM. p. 261, Marius Šm
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3eb70c49dfe2d02b701f243aeb29c56b95810d6e6230f2ce018ab8160ebf4987; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3eb70c49dfe2d02b701f243aeb29c56b95810d6e6230f2ce018ab8160ebf4987; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

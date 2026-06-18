@@ -33,7 +33,7 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
   global_id: t-181355
   teiginys: 'Ambasadorių konferencija patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją, pagal kurią Vilnius liko Lenkijos pusėje.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako demarkacijos linijos sprendimą ir Vilniaus padėtį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Ambasadorių Konferencija|Ambasadorių Konferencija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Ryga; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Ambasadorių Konferencija|Ambasadorių Konferencija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1921 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako demarkacijos linijos sprendimą ir Vilniaus padėtį.'
@@ -48,8 +48,8 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
   susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-- susijęs iš Grabova: Lietuvos vyriausybės siūlyta laikinoji demarkacijos linija turėjo eiti per Grabovą, Augustavą ir Stabiną.
 - susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108562|administracinė linija demarkacijos linija]]: 1920 m. spalio 7 d. Suvalkų susitarime nustatyta kariuomenių demarkacijos linija paliko Vilnių Lietuvos pusėje.
+- susijęs iš Grabova: Lietuvos vyriausybės siūlyta laikinoji demarkacijos linija turėjo eiti per Grabovą, Augustavą ir Stabiną.
 ## Reikšmingi paminėjimai
 
 - c-001

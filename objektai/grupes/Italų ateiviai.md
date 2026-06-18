@@ -25,6 +25,16 @@ Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_place: Italija; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 92671-93394; hash=a409e3aa27a0c724fcd842acd75aeb8859f435c1bea93912382d680d4ae54135; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herbas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Italų ateiviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Herbas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Italų ateiviai" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -58,3 +68,13 @@ Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 92671-93394; hash=a409e3aa27a0c724fcd842acd75aeb8859f435c1bea93912382d680d4ae54135; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herbas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Italų ateiviai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Herbas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Italų ateiviai" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

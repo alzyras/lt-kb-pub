@@ -36,23 +36,39 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
   susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 40947-41435; hash=adb33939b156052cb069ae3fc0f122d2100fd6021e4b9cea224adc9cefda1f3e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vengrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Steponas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vengrija: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steponas" parinktas kaip owner_note_path. Targetas "Vengrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64125"></a>
 - t-002
   global_id: t-64125
   teiginys: 'Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vengrija; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_place: Vengrija; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1000 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Martynas Paleckis.md#claim-t-87407|Martynas Paleckis]]: Karalius Steponas patvirtino Martyno Paleckio, jo žmonos ir miesto sutartį dėl stiklo liejyklos ir stiklo supirkimo.
-- susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185425|Langobardai]]: 703 m. galų nugalėti langobardai sudarė su romėnais palankią taiką.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 99028-99442; hash=f1cb0dcd83f3d1475b71752264543c54fd5f87edb10aff123687c1d61e991e4c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Steponas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steponas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui.md#claim-t-186657|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad per Bukovinos įvykius Moldavijos vaivada Steponas paėmė į nelaisvę Lenkijos Karalystės didįjį maršalą Točinskį.
 - susijęs iš [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui.md#claim-t-186658|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad karaliui Olbrachtui perėjus miškus ir Bukoviną, Moldavijos vaivada Steponas su savo žmonėmis pasuko atgal.
-- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186652|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Olbrachtas pasitraukė nuo Sučiavos ir žygiavo gilyn į Moldaviją.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186653|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Lietuvos metraštis pasakoja, kad Moldavijos vaivada Steponas pasiuntė pasiuntinius pas Olbrachtą ir sudarė su juo taiką.
-- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186654|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato, kad miesto nepaims.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186655|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Lietuvos metraštis teigia, kad Moldavijos vaivada Steponas su Olbrachtu sudarė taiką, sutiko duoti vasalo ištikimybės priesaiką ir surašė raštus.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186656|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Sučiavos gynėjai paragino Olbrachtą kautis su Steponu lauke.
 - susijęs iš [[objektai/ivykiai/Moldavijos ir osmanų žygis į Lenkiją.md#claim-t-186665|Moldavijos ir osmanų žygis į Lenkiją]]: Moldavijos vaivada Steponas ir turkų sultono didysis paša Malkočas vasarą bei rudenį kariavo Lenkijoje nuo Kameneco iki Lvovo ir Tarnovo.
@@ -64,26 +80,30 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 - susijęs iš Stepono laiškas Ivanui apie taiką su Aleksandru: Iš Stepono laiško Maskvos valdovui paaiškėjo, kad Steponas ketino amžinai laikytis taikos su Aleksandru.
 - susijęs iš Vyskupo seminarijos įsteigimo iš Vozgėliškių dvaro raštas (1582 m.): 1582 m. rašte prašoma, kad karalius Steponas priimtų Vilniaus seminariją į savo globą ir gynybą.
 - susijęs iš Bukovina: Lietuvos metraštis pasakoja, kad Olbrachto kariuomenė buvo Bukovinoje, kai ją užpuolė Moldavijos vaivada Steponas.
+- susijęs iš Bukovina: Lietuvos metraštis pasakoja, kad Bukovinos miškuose ir bukynuose Steponas užpuolė Olbrachtą ir jo kariuomenę.
+- susijęs iš Moldavija: Lietuvos metraštis pasakoja, kad Olbrachtui įsiveržus į Moldaviją vaivada Steponas sustiprino Sučiavą ir pasitraukė į kalnų tarpeklius.
+- susijęs iš Putna: Prie Putnos Steponas apsistojo su visa kariuomene kaip tvirtovėje.
+- susijęs iš Putna: Putna buvo kalnuose esantis Stepono mėgstamas vienuolynas, kuriame jis apsistojo su visa kariuomene.
+- susijęs iš Sučiava: Sučiavos pilis šiame pasakojime įvardijama kaip Moldavijos vaivados Stepono sostinė.
+- susijęs iš [[objektai/zodynas/miestiečių luomas.md#claim-t-86439|miestiečių luomas]]: Du paskutiniai Jogailaičiai miestiečių luomą paaukštino iki tikrųjų piliečių, o karalius Steponas jį stipriai palaikė.
+- susijęs iš [[objektai/asmenys/Martynas Paleckis.md#claim-t-87407|Martynas Paleckis]]: Karalius Steponas patvirtino Martyno Paleckio, jo žmonos ir miesto sutartį dėl stiklo liejyklos ir stiklo supirkimo.
+- susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185425|Langobardai]]: 703 m. galų nugalėti langobardai sudarė su romėnais palankią taiką.
+- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186652|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Olbrachtas pasitraukė nuo Sučiavos ir žygiavo gilyn į Moldaviją.
+- susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186654|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato, kad miesto nepaims.
 - susijęs iš Bukovina: Lietuvos metraštyje Bukovina vaizduojama kaip akmeninga, uolėta ir sunkiai pereinama vietovė Lenkijos sienos link.
 - susijęs iš Bukovina: Po sutarties su Moldavijos vaivada Olbrachtas traukė per Bukoviną ir kalnus Lenkijos sienos link.
-- susijęs iš Bukovina: Lietuvos metraštis pasakoja, kad Bukovinos miškuose ir bukynuose Steponas užpuolė Olbrachtą ir jo kariuomenę.
 - susijęs iš Kamenecas: Moldavijos vaivada Steponas su turkų paša Malkoču kariavo Lenkijos žemėje nuo Kameneco iki Lvovo ir net Tarnovo.
 - susijęs iš Kolomyja: Moldavijos vaivados Stepono vasalinė priesaika įvyko Kolomyjoje 1485 m. rugsėjo 15 d.
 - susijęs iš Kolomyja: Moldavijos vaivada Steponas atvyko į Kolomyją tarp 1485 m. rugsėjo 6 ir 12 d.
 - susijęs iš Lvovas: Moldavijos vaivada Steponas ir turkų sultono paša Malkočas kariavo Lenkijos žemėje nuo Kameneco iki Lvovo, Tarnovo ir Krokuvos apylinkių.
-- susijęs iš Moldavija: Lietuvos metraštis pasakoja, kad Olbrachtui įsiveržus į Moldaviją vaivada Steponas sustiprino Sučiavą ir pasitraukė į kalnų tarpeklius.
-- susijęs iš Putna: Prie Putnos Steponas apsistojo su visa kariuomene kaip tvirtovėje.
-- susijęs iš Putna: Putna buvo kalnuose esantis Stepono mėgstamas vienuolynas, kuriame jis apsistojo su visa kariuomene.
 - susijęs iš Sniatinas: Sniatinas lokalizuojamas į rytus nuo Kolomyjos.
 - susijęs iš Sučiava: Karalius Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato miesto nepaimsiąs ir nuo jo pasitraukė.
 - susijęs iš Sučiava: Moldavijos vaivada Steponas sustiprino savo sostinę Sučiavos pilį ir kitus miestus, palikdamas juose įgulas.
-- susijęs iš Sučiava: Sučiavos pilis šiame pasakojime įvardijama kaip Moldavijos vaivados Stepono sostinė.
 - susijęs iš Sučiava: Olbrachtas pasitraukė nuo Sučiavos miesto.
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
 - susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco per Lvovą iki Tamovo.
 - susijęs iš [[objektai/zodynas/konversija christianizacija europeizacija.md#claim-t-22198|konversija christianizacija europeizacija]]: Vytauto bažnytinė politika siekė Lietuvos konversijos ir „švento valdovo“ įvaizdžio.
-- susijęs iš [[objektai/zodynas/miestiečių luomas.md#claim-t-86439|miestiečių luomas]]: Du paskutiniai Jogailaičiai miestiečių luomą paaukštino iki tikrųjų piliečių, o karalius Steponas jį stipriai palaikė.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -116,4 +136,24 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 99028-99442; hash=f1cb0dcd83f3d1475b71752264543c54fd5f87edb10aff123687c1d61e991e4c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Steponas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steponas" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 40947-41435; hash=adb33939b156052cb069ae3fc0f122d2100fd6021e4b9cea224adc9cefda1f3e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vengrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Steponas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vengrija: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steponas" parinktas kaip owner_note_path. Targetas "Vengrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

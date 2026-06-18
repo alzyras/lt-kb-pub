@@ -57,9 +57,19 @@ Nenurodyta
   global_id: t-109758
   teiginys: 'Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.'
   sudarymo_pagrindimas: 'Perrašyta, kad sakinys tiesiogiai apibūdintų Medininkų pilį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Voluinė'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1025066-1025263; hash=9f61118b6fad207bd972324193167e5e7aadcbd31598d32566c62fb60d572ba2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų pilis (pilis): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-109759"></a>
 - t-002
@@ -74,7 +84,7 @@ Nenurodyta
 - t-003
   global_id: t-109760
   teiginys: 'Medininkų pilį sudarė keli mediniai pastatai, apjuosti aukšta siena ir grioviu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/uolektis|uolektis]]; mentioned_place: Medininkai'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_object: [[objektai/zodynas/uolektis|uolektis]]'
   pagrindžia:
     - c-005
 
@@ -83,18 +93,38 @@ Nenurodyta
   global_id: t-109761
   teiginys: 'Šventasis Kazimieras dažnai viešėdavo Medininkų pilyje, stovėjusioje prie Ašmenos kelio per keturias mylias nuo Vilniaus.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Medininkų pilies vietą ir Kazimiero viešėjimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventasis Kazimieras|Šventasis Kazimieras]]; mentioned_place: Ašmena; mentioned_place: Medininkai; mentioned_place: Vengrija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Ašmena; mentioned_place: Medininkai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Šventasis Kazimieras|Šventasis Kazimieras]]; mentioned_place: Vengrija'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=68da95f6d083a739df45ed502c610a799631b31c8934d94352e6a37b21cc9019; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ašmena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų pilis (pilis): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=66
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-109762"></a>
 - t-005
   global_id: t-109762
   teiginys: 'Šventasis Kazimieras dažnai viešėdavęs Medininkų pilyje, buvusioje per keturias mylias nuo Vilniaus prie Ašmenos kelio.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventasis Kazimieras|Šventasis Kazimieras]]; mentioned_place: Ašmena; mentioned_place: Medininkai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Ašmena; mentioned_place: Medininkai; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Šventasis Kazimieras|Šventasis Kazimieras]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c37e44e6bcdd30b2b1bf6651979efabd0b93602fdfe213e47dbb8f7e05a924dd; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų pilis (pilis): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -149,6 +179,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1025066-1025263; hash=9f61118b6fad207bd972324193167e5e7aadcbd31598d32566c62fb60d572ba2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų pilis (pilis): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-004
@@ -173,6 +213,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c37e44e6bcdd30b2b1bf6651979efabd0b93602fdfe213e47dbb8f7e05a924dd; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų pilis (pilis): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-005
@@ -191,4 +241,14 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=68da95f6d083a739df45ed502c610a799631b31c8934d94352e6a37b21cc9019; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ašmena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Medininkų pilis (pilis): owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ašmena: mention_match, place, gap=66
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Medininkų pilis (pilis)" parinktas kaip owner_note_path. Targetas "Ašmena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003

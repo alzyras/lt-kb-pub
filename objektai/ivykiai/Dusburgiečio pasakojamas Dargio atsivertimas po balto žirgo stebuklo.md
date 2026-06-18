@@ -39,9 +39,19 @@ Nenurodyta
   teiginys: 'Dusburgiečio pasakojime prūsas Dargis po ketvirto balto žirgo bandymo įtikėjo ir tapo uoliu tikėjimo šalininku.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Tai pasakojimas apie stebuklą, todėl palikta šaltinio atribucija ir pašalintas nutrūkęs fragmentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_person: [[objektai/asmenys/Dargis|Dargis]]; mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/asmenys/Dargis|Dargis]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Semba; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 236954-237811; hash=bc693f677ae292a6e1748a9d0389f29e6ee2509416eee9dcda1b602e93591be1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -66,3 +76,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 236954-237811; hash=bc693f677ae292a6e1748a9d0389f29e6ee2509416eee9dcda1b602e93591be1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dusburgiečio pasakojamas Dargio atsivertimas po balto žirgo stebuklo" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

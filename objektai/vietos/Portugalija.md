@@ -40,18 +40,28 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
   global_id: t-47100
   teiginys: 'Portugalija ir Ispanija neteko lyderių pozicijų, nes iš Lotynų Amerikos plukdomas auksas neskatino vietos miestų ir ekonomikos plėtros.'
   sudarymo_pagrindimas: 'Klausimas perrašytas į faktinį teiginį pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Europa; mentioned_place: Ispanija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Ispanija; mentioned_place: Europa; mentioned_place: Viena'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 127520-127919; hash=ff1954409d26296a9e9e4e35aa78f1a381bbdc52b2b82af59e4b7c89580ea535; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ispanija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Portugalija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ispanija: mention_match, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Portugalija" parinktas kaip owner_note_path. Targetas "Ispanija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77979|A. Smetona]]: 1940 m. birželį iš Lietuvos išvykęs A. Smetona per Vokietiją, Šveicariją ir Portugaliją pasiekė JAV.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75723|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.
-- susijęs iš [[objektai/ivykiai/Nenugalimosios armados nesėkmė.md#claim-t-77905|Nenugalimosios armados nesėkmė]]: 1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį; po audros sutrukdyto išsilaipinimo Anglijoje Ispanija žygio nekartojo.
-- susijęs iš Anglija: 1588 m. Nenugalimosios armados išsilaipinimui Anglijoje sutrukdė audra, todėl Ispanija šio žygio nekartojo.
 - susijęs iš Ispanija: Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekonomikos.
-- susijęs iš Ispanija: XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė.
-- susijęs iš Ispanija: 1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį, o Ispanija žygio į Angliją nebekartojo.
 - susijęs iš Lotynų Amerika: Iš Lotynų Amerikos plukdomas auksas prisidėjo prie Ispanijos ir Portugalijos lyderystės praradimo, nes neskatino plėtoti jų miestų ir ekonomikos.
 - susijęs iš Vokietija: 1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją išvyko į JAV.
+- susijęs iš [[objektai/ivykiai/Nenugalimosios armados nesėkmė.md#claim-t-77905|Nenugalimosios armados nesėkmė]]: 1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį; po audros sutrukdyto išsilaipinimo Anglijoje Ispanija žygio nekartojo.
+- susijęs iš Anglija: 1588 m. Nenugalimosios armados išsilaipinimui Anglijoje sutrukdė audra, todėl Ispanija šio žygio nekartojo.
+- susijęs iš Ispanija: XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė.
+- susijęs iš Ispanija: 1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį, o Ispanija žygio į Angliją nebekartojo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -86,3 +96,13 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 127520-127919; hash=ff1954409d26296a9e9e4e35aa78f1a381bbdc52b2b82af59e4b7c89580ea535; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ispanija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Portugalija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ispanija: mention_match, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Portugalija" parinktas kaip owner_note_path. Targetas "Ispanija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

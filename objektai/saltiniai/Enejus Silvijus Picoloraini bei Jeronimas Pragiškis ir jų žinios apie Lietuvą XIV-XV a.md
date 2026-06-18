@@ -33,6 +33,16 @@ Janulaičio „Enejus Silvijus Picoloraini bei Jeroni­ mas Pragiškis ir jų ž
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus bibliografinis sakinys, pagrįstas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=29409790897835ad6c24e02cc8128fb63a17de3efab7a25d2b5a9ee84140c9ce; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Enejus Silvijus Picoloraini bei Jeronimas Pragiškis ir jų žinios apie Lietuvą XIV-XV a: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=128
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Enejus Silvijus Picoloraini bei Jeronimas Pragiškis ir jų žinios apie Lietuvą XIV-XV a" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -48,3 +58,13 @@ Janulaičio „Enejus Silvijus Picoloraini bei Jeroni­ mas Pragiškis ir jų ž
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=29409790897835ad6c24e02cc8128fb63a17de3efab7a25d2b5a9ee84140c9ce; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Enejus Silvijus Picoloraini bei Jeronimas Pragiškis ir jų žinios apie Lietuvą XIV-XV a: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=128
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Enejus Silvijus Picoloraini bei Jeronimas Pragiškis ir jų žinios apie Lietuvą XIV-XV a" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

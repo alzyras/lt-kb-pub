@@ -30,12 +30,22 @@ amziai:
   global_id: t-88512
   teiginys: '1432 m. sausio 5 d. laiške didžiajam magistrui Švitrigaila rašė, kad karalius išlaisvino Rampoldą ir Goštautą.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie laiško turinį, o pradinė formuluotė nebaigta ir su OCR klaidomis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie laiško turinį, o pradinė formuluotė nebaigta ir su OCR klaidomis.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 436404-437184; hash=550f2b3f17183a04f347d81a56070bb9d29e6e0de9a73479f8c55447acc78175; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Švitrigaila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Švitrigailos 1432 m. sausio 5 d. laiškas didžiajam magistrui: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Švitrigaila: mention_match, person, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigailos 1432 m. sausio 5 d. laiškas didžiajam magistrui" parinktas kaip owner_note_path. Targetas "Švitrigaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -68,3 +78,13 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 436404-437184; hash=550f2b3f17183a04f347d81a56070bb9d29e6e0de9a73479f8c55447acc78175; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Švitrigaila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Švitrigailos 1432 m. sausio 5 d. laiškas didžiajam magistrui: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Švitrigaila: mention_match, person, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Švitrigailos 1432 m. sausio 5 d. laiškas didžiajam magistrui" parinktas kaip owner_note_path. Targetas "Švitrigaila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

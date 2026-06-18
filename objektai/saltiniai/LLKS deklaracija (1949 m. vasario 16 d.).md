@@ -42,7 +42,7 @@ amziai:
   global_id: t-108555
   teiginys: 'Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos valdymo principai.'
   sudarymo_pagrindimas: 'Teiginys glaustai apibendrina deklaracijos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Jonas Žemaitis-Vytautas|Jonas Žemaitis-Vytautas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Jonas Žemaitis-Vytautas|Jonas Žemaitis-Vytautas]]; mentioned_place: Kaunas; mentioned_place: Prancūzija'
   temporaliniai_duomenys: 'įvykio data: 1929 m.; įvykio data: 1936-1938; įvykio data: 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai apibendrina deklaracijos turinį.'
@@ -64,7 +64,7 @@ amziai:
   global_id: t-108558
   teiginys: '1949 m. vasarį partizanų apygardų atstovų suvažiavimas suvienijo antisovietinio pasipriešinimo kovotojus į Lietuvos laisvės kovos sąjūdį.'
   sudarymo_pagrindimas: 'remove page/header OCR noise from claim only'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Jonas Žemaitis-Vytautas|Jonas Žemaitis-Vytautas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Jonas Žemaitis-Vytautas|Jonas Žemaitis-Vytautas]]; mentioned_place: Kaunas; mentioned_place: Prancūzija'
   temporaliniai_duomenys: 'įvykio data: 1929 m.; įvykio data: 1936-1938; įvykio data: 1938 m.; įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'remove page/header OCR noise from claim only'

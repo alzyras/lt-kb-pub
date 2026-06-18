@@ -34,9 +34,9 @@ periodo_grupes: []
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/posakiai/„Kurgi, sakau, pasaulyje yra tauta...“.md#claim-t-26647|„Kurgi, sakau, pasaulyje yra tauta...“]]: Mikalojus Daukša tėvų žemę, papročius ir kalbą vadino trimis tautai savais ir tarsi įgimtais dalykais.
 - susijęs iš [[objektai/posakiai/„Kurgi, sakau, pasaulyje yra tauta...“.md#claim-t-67311|„Kurgi, sakau, pasaulyje yra tauta...“]]: Posakiu „Kurgi, sakau, pasaulyje yra tauta...“ Mikalojus Daukša pabrėžė tėvų žemę, papročius ir kalbą kaip savus tautos dalykus.
 - susijęs iš M. Daukšos Postilė: 1599 m. Mikalojus Daukša išleido „Postilę“, kurios pratarmėje ragino Lietuvos visuomenę kurti raštiją lietuvių kalba.
+- susijęs iš [[objektai/posakiai/„Kurgi, sakau, pasaulyje yra tauta...“.md#claim-t-26647|„Kurgi, sakau, pasaulyje yra tauta...“]]: Mikalojus Daukša tėvų žemę, papročius ir kalbą vadino trimis tautai savais ir tarsi įgimtais dalykais.
 ## Reikšmingi paminėjimai
 
 - c-001

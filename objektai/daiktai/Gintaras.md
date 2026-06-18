@@ -41,6 +41,17 @@ Nenurodyta
   teiginio_tipas: 'faktas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 225965-226449; hash=486e9acf8a970ac5e15e91d624b941a5604a5de6768acbb7a58744bbd752a40a; match=exact
+  sprendimo_priezastis: auto
+- susijęs iš [[objektai/autoriai/Kassiodoras.md#claim-t-30755|Kassiodoras]]: Kassiodoras, ostgotų karaliaus Teodoriko aukštas valdininkas, savo raštuose pateikė Teodoriko padėkos laišką aisčiams už gintaro dovanas.
+- susijęs iš [[objektai/autoriai/Plinius C. Secundus.md#claim-t-64820|Plinius C. Secundus]]: Plinijus Vyresnysis pateikė žinių apie Nerono laikais surengtą žygį, iš kurio romėnų raitelis parvežė daug gintaro.
+- susijęs iš [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale).md#claim-t-63356|Tacitas (romėnų rašytojas, I amžiaus gale)]]: Tacitas veikale „Germania“ aisčiams paskyrė skyrelį ir trumpai aprašė jų gyvenimą, tikybą bei gintarą.
+- susijęs iš [[objektai/daiktai/Gintaro ir stiklo karoliai.md#claim-t-71563|Gintaro ir stiklo karoliai]]: Buvo mėgiami gintaro ir stiklo karoliai.
+- susijęs iš [[objektai/daiktai/Šernų amuletai.md#claim-t-47838|Šernų amuletai]]: Anot Tacito, prie Svebų jūros gyvenę Aestii garbino dievų motiną, nešiojo šernų amuletus, augino javus ir rinko gintarą.
+- susijęs iš [[objektai/grupes/Gintaro rinktinė.md#claim-t-38953|Gintaro rinktinė]]: Plauginių kautynių stovykloje buvo 20 Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio būrių partizanų.
+- susijęs iš Naturalis historiae libri XXXVII: Plinijus Senesnysis 77 m. po Kr. veikale „Naturalis historiae libri XXXVII“ plačiai rašė apie gintaro prekybą, kilmę ir fizines savybes.
+- susijęs iš Variae: Kassiodoro „Variae“ V, 12 pateiktas Teodoriko padėkos laiško aisčiams už gintaro dovanas tekstas.
 - susijęs iš [[objektai/asmenys/Algirdas Julius Greimas.md#claim-t-78043|Algirdas Julius Greimas]]: Algirdas Julius Greimas buvo semiotikas, žinomas Prancūzijoje.
 - susijęs iš [[objektai/asmenys/Chaim Soutin.md#claim-t-63525|Chaim Soutin]]: Chaim Soutin buvo Vakaruose garsus dailininkas, siejamas su Lietuvos emigrantais arba jų šeimomis.
 - susijęs iš [[objektai/asmenys/Jascha Heifetz.md#claim-t-26445|Jascha Heifetz]]: Jascha Heifetzas buvo 1901 m. Vilniuje gimęs ir smuiko mokęsis virtuozas.
@@ -48,17 +59,9 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Victor David Brenner.md#claim-t-76028|Victor David Brenner]]: Victor David Brenner, Šiaulių kilmės skulptorius, buvo JAV vieno cento autorius.
 - susijęs iš [[objektai/asmenys/Victor David Brenner.md#claim-t-76029|Victor David Brenner]]: Victor David Brenner buvo iš Šiaulių kilęs skulptorius ir JAV vieno cento autorius.
 - susijęs iš [[objektai/asmenys/Violeta Urmana.md#claim-t-78073|Violeta Urmana]]: Violeta Urmana buvo pristatyta kaip visose Europos scenose žinoma atlikėja.
-- susijęs iš [[objektai/autoriai/Kassiodoras.md#claim-t-30755|Kassiodoras]]: Kassiodoras, ostgotų karaliaus Teodoriko aukštas valdininkas, savo raštuose pateikė Teodoriko padėkos laišką aisčiams už gintaro dovanas.
-- susijęs iš [[objektai/autoriai/Plinius C. Secundus.md#claim-t-64820|Plinius C. Secundus]]: Plinijus Vyresnysis pateikė žinių apie Nerono laikais surengtą žygį, iš kurio romėnų raitelis parvežė daug gintaro.
-- susijęs iš [[objektai/autoriai/Tacitas (romėnų rašytojas, I amžiaus gale).md#claim-t-63356|Tacitas (romėnų rašytojas, I amžiaus gale)]]: Tacitas veikale „Germania“ aisčiams paskyrė skyrelį ir trumpai aprašė jų gyvenimą, tikybą bei gintarą.
 - susijęs iš [[objektai/daiktai/Geležiniai ginklai ir įrankiai.md#claim-t-47811|Geležiniai ginklai ir įrankiai]]: Iš geležies buvo gaminami ginklai, tokie kaip ietys ir kirviai, bei įrankiai, tokie kaip dalgiai, pjautuvai, peiliai ir ylos.
-- susijęs iš [[objektai/daiktai/Gintaro ir stiklo karoliai.md#claim-t-71563|Gintaro ir stiklo karoliai]]: Buvo mėgiami gintaro ir stiklo karoliai.
 - susijęs iš [[objektai/daiktai/JAV vieno cento moneta.md#claim-t-64932|JAV vieno cento moneta]]: JAV vieno cento monetos autoriumi įvardijamas iš Šiaulių kilęs skulptorius Victor David Brenneris.
-- susijęs iš [[objektai/daiktai/Šernų amuletai.md#claim-t-47838|Šernų amuletai]]: Anot Tacito, prie Svebų jūros gyvenę Aestii garbino dievų motiną, nešiojo šernų amuletus, augino javus ir rinko gintarą.
-- susijęs iš [[objektai/grupes/Gintaro rinktinė.md#claim-t-38953|Gintaro rinktinė]]: Plauginių kautynių stovykloje buvo 20 Gintaro rinktinės Alfonso Pakarklio ir Antano Antanaičio būrių partizanų.
 - susijęs iš [[objektai/posakiai/„idealiąją Lietuvą“.md#claim-t-75613|„idealiąją Lietuvą“]]: „Idealiosios Lietuvos“ vaizdinyje Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR.
-- susijęs iš Naturalis historiae libri XXXVII: Plinijus Senesnysis 77 m. po Kr. veikale „Naturalis historiae libri XXXVII“ plačiai rašė apie gintaro prekybą, kilmę ir fizines savybes.
-- susijęs iš Variae: Kassiodoro „Variae“ V, 12 pateiktas Teodoriko padėkos laiško aisčiams už gintaro dovanas tekstas.
 - susijęs iš Dniepras: Plinijus du kartus minėjo neurus, pas kuriuos prasideda Dniepras, dar vadintas Borysthenu.
 - susijęs iš Dniepras: Dniepras, dar vadintas Borysthenu, buvo minimas kaip prasidedantis pas neurus.
 - susijęs iš Kaunas: Emmanuelis Levinas gimė Kaune ir baigė gimnaziją.
@@ -78,3 +81,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 225965-226449; hash=486e9acf8a970ac5e15e91d624b941a5604a5de6768acbb7a58744bbd752a40a; match=exact
+  sprendimo_priezastis: auto

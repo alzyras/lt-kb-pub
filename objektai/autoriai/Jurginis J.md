@@ -33,7 +33,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   global_id: t-64663
   teiginys: 'J. Jurginio darbas „Legendos“ minimas bibliografijoje apie Romovę arba Romuvą.'
   sudarymo_pagrindimas: 'Rewrite failed deterministic gates: weak_person_mention'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Romuva'
+  susije_objektai: 'mentioned_place: Romuva; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
 
@@ -45,6 +45,16 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 218342-218802; hash=e0ef744f1c54e006bdd6c68cf32a7e399ad6288a7cd32a95bda36d9492612764; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Romuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jurginis J: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Romuva: mention_match, place, gap=71
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurginis J" parinktas kaip owner_note_path. Targetas "Romuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Lietuvos TSR istorija: „Lietuvos TSR istorijoje“ neaiškiai minima, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno skyrė Persantės upė.
 ## Reikšmingi paminėjimai
 
@@ -94,4 +104,14 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 218342-218802; hash=e0ef744f1c54e006bdd6c68cf32a7e399ad6288a7cd32a95bda36d9492612764; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Romuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jurginis J: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Romuva: mention_match, place, gap=71
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurginis J" parinktas kaip owner_note_path. Targetas "Romuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002

@@ -24,6 +24,16 @@ tags:
   susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Talmantas|J. Talmantas]]; mentioned_place: Venecija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 734292-734435; hash=0ebdfdef4e08fdac827ab3e61962b53b475c9791582dd81fcb388853804c6e3e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> J. Talmantas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Venecijos pirklys: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: J. Talmantas: mention_match, author, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Venecijos pirklys" parinktas kaip owner_note_path. Targetas "J. Talmantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -38,3 +48,13 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 734292-734435; hash=0ebdfdef4e08fdac827ab3e61962b53b475c9791582dd81fcb388853804c6e3e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> J. Talmantas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Venecijos pirklys: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: J. Talmantas: mention_match, author, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Venecijos pirklys" parinktas kaip owner_note_path. Targetas "J. Talmantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

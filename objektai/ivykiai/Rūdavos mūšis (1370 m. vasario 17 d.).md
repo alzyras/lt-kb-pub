@@ -49,28 +49,58 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 45920-46330; hash=ee02e8678f1d741fcf9bea7949d9a5016a1d3961ebc50c3e9ee8e52b0720ba68; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: dalyvavo_musyje -> Rūdavos mūšis: 0.98
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_event_participation
+  ryšio_subjekto_parinkimas: Lietuviai: participant_match, group, gap=80
+  ryšio_targeto_parinkimas: Rūdavos mūšis: event_owner_or_first_target, event, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_event_participation". Subjektas "Lietuviai" parinktas kaip participant_match. Targetas "Rūdavos mūšis" parinktas kaip event_owner_or_first_target aplink predikatą "dalyvavo_musyje". Patikimumą lėmė: single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-66862"></a>
 - t-002
   global_id: t-66862
   teiginys: 'Rūdavos mūšis 1370 m. vasario 17 d. prie Rudavos, netoli Karaliaučiaus, baigėsi dideliu lietuvių pralaimėjimu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatoje pateiktą datą, vietą bei baigtį.'
-  susije_objektai: 'event: [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)|Rūdavos mūšis (1370 m. vasario 17 d.)]]; mentioned_event: [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)|Rūdavos mūšis (1370 m. vasario 17 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_place: Rudava'
+  susije_objektai: 'event: [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)|Rūdavos mūšis (1370 m. vasario 17 d.)]]; mentioned_event: [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)|Rūdavos mūšis (1370 m. vasario 17 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Rudava; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]'
   semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)|Rūdavos mūšis (1370 m. vasario 17 d.)]]'
   temporaliniai_duomenys: 'mūšio data: 1370 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Rūdavos mūšis (1370 m. vasario 17 d.)“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatoje pateiktą datą, vietą bei baigtį.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 46442-46694; hash=d808a20451771d8257ec08ecc11f508b3bd95bdd7571643366deed443db6f32b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdavos mūšis (1370 m. vasario 17 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdavos mūšis (1370 m. vasario 17 d.)" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-66863"></a>
 - t-003
   global_id: t-66863
   teiginys: 'Rūdavos mūšyje dalyvavęs jaunas Vytautas dar neturėjo vadovaujamos reikšmės ir buvo Kęstučio pratinamas prie karo.'
   sudarymo_pagrindimas: 'Pateikta citata nepalaiko pralaimėjimo fakto, bet palaiko kitą rimtą faktą apie Rūdavos mūšį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 46442-46694; hash=d808a20451771d8257ec08ecc11f508b3bd95bdd7571643366deed443db6f32b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdavos mūšis (1370 m. vasario 17 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdavos mūšis (1370 m. vasario 17 d.)" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-66864"></a>
 - t-004
@@ -79,6 +109,16 @@ Nenurodyta
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 46442-46694; hash=d808a20451771d8257ec08ecc11f508b3bd95bdd7571643366deed443db6f32b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdavos mūšis (1370 m. vasario 17 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdavos mūšis (1370 m. vasario 17 d.)" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -111,7 +151,27 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 46442-46694; hash=d808a20451771d8257ec08ecc11f508b3bd95bdd7571643366deed443db6f32b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kęstutis (vakarų pasienio valdovas, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdavos mūšis (1370 m. vasario 17 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kęstutis (vakarų pasienio valdovas, XIV–XV a.): mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdavos mūšis (1370 m. vasario 17 d.)" parinktas kaip owner_note_path. Targetas "Kęstutis (vakarų pasienio valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 46442-46694; hash=d808a20451771d8257ec08ecc11f508b3bd95bdd7571643366deed443db6f32b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vytautas (Lietuvos valdovas, XIV–XV a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Rūdavos mūšis (1370 m. vasario 17 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Vytautas (Lietuvos valdovas, XIV–XV a.): mention_match, person, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Rūdavos mūšis (1370 m. vasario 17 d.)" parinktas kaip owner_note_path. Targetas "Vytautas (Lietuvos valdovas, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] dalyvavo_musyje Rūdavos mūšis (1370 m. vasario 17 d.)

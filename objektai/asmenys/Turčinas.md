@@ -22,9 +22,19 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   global_id: t-87586
   teiginys: 'Turčinas Lukove keisdamas lietuviškas monetas į lenkiškas prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir atitinka citatos faktą apie Turčino veiksmą.'
-  susije_objektai: 'mentioned_place: Brasta; mentioned_place: Lukovas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lukovas; mentioned_place: Brasta; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 826515-826812; hash=4a457daf820706a3b5a6be02b7d42f511c30c12000de917b7a4fabe0a93b13fe; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lukovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Turčinas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lukovas: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Turčinas" parinktas kaip owner_note_path. Targetas "Lukovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87587"></a>
 - t-002
@@ -34,6 +44,16 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   susije_objektai: 'mentioned_place: Leipcigas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 828730-828941; hash=2a686b73dc8cf2694af52503322d92c5e6130ad3851d14bba4f49a2109a26ed8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Leipcigas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Turčinas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Leipcigas: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Turčinas" parinktas kaip owner_note_path. Targetas "Leipcigas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Slupskis.md#claim-t-87853|Slupskis]]: Slupskis Brastoje davė 38 lietuviškus grašius palūkanų nuo filipkų.
 - susijęs iš Brasta: Brastoje Slupskis sumokėjo 38 lietuviškus grašius palūkanų nuo filipkų.
 - susijęs iš Leipcigas: Rugpjūčio 5 d. Turčinas nuvežė pinigus karališkajai didenybei į Leipcigą ir keitė lietuviškas monetas į lenkiškas.
@@ -67,4 +87,24 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 826515-826812; hash=4a457daf820706a3b5a6be02b7d42f511c30c12000de917b7a4fabe0a93b13fe; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lukovas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Turčinas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lukovas: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Turčinas" parinktas kaip owner_note_path. Targetas "Lukovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 828730-828941; hash=2a686b73dc8cf2694af52503322d92c5e6130ad3851d14bba4f49a2109a26ed8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Leipcigas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Turčinas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Leipcigas: mention_match, place, gap=54
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Turčinas" parinktas kaip owner_note_path. Targetas "Leipcigas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

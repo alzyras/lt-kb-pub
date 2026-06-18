@@ -24,6 +24,9 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
   sudarymo_pagrindimas: 'Citata pagrindžia Lauro veiksmus; pašalinti nutrūkę ir pertekliniai fragmentai.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 250407-251301; hash=771db1745284aeb16a2dc4967beeb1e04094b73e21ad15dc2bd0d7730211177f; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-186008"></a>
 - t-002
@@ -35,6 +38,10 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
   sudarymo_pagrindimas: 'Citata pagrindžia veiksmų seką ir rezultatą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 251765-252504; hash=448e6b21e3bc039472940763e17c62af8588defa14394deefb85e310c2a2fe24; match=exact
+  sprendimo_priezastis: auto
+- susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184678|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, vedė Lauro seserį, tikėdamasis per giminystę su valdovais sumažinti lietuvių užpuldinėjimus.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184678|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, vedė Lauro seserį, tikėdamasis per giminystę su valdovais sumažinti lietuvių užpuldinėjimus.
 - susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184628|maršalas]]: Vytenis, suaugęs Traidenio šeimoje, tapo rūmų pareigūnu, kurį paprastai vadino maršalu.
 ## Reikšmingi paminėjimai
@@ -91,4 +98,13 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 250407-251301; hash=771db1745284aeb16a2dc4967beeb1e04094b73e21ad15dc2bd0d7730211177f; match=exact
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 251765-252504; hash=448e6b21e3bc039472940763e17c62af8588defa14394deefb85e310c2a2fe24; match=exact
+  sprendimo_priezastis: auto
+
+## Ryšiai
+- [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]] vede Lauras

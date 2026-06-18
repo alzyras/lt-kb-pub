@@ -43,7 +43,7 @@ periodo_grupes:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/„Pienocentro“ pastatas Kaune|„Pienocentro“ pastatas Kaune]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_person: [[objektai/asmenys/V. Landsbergis-Žemkalnis|V. Landsbergis-Žemkalnis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Niujorkas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_object: [[objektai/daiktai/„Pienocentro“ pastatas Kaune|„Pienocentro“ pastatas Kaune]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_person: [[objektai/asmenys/V. Landsbergis-Žemkalnis|V. Landsbergis-Žemkalnis]]; mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1933 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
@@ -65,15 +65,15 @@ periodo_grupes:
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Steponas Darius.md#claim-t-78013|Steponas Darius]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
-- susijęs iš [[objektai/daiktai/„Lituanica“ lėktuvas.md#claim-t-25181|„Lituanica“ lėktuvas]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ skrido tiesiogiai iš Niujorko į Lietuvą.
 - susijęs iš [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.).md#claim-t-183273|S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
 - susijęs iš [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.).md#claim-t-183274|S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]: Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.
 - susijęs iš [[objektai/ivykiai/S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.).md#claim-t-66866|S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)]]: Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.
 - susijęs iš [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas.md#claim-t-77933|Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
 - susijęs iš [[objektai/paprociai/Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas.md#claim-t-77934|Dariaus ir Girėno didvyrių kultas ir jaunimo aviacijos idealas]]: Dariaus ir Girėno skrydis sudomino jaunimą aviacija, aviacijos ir sklandymo sportu.
+- susijęs iš S. Dariaus ir S. Girėno laiškas prieš skrydį: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
+- susijęs iš [[objektai/daiktai/„Lituanica“ lėktuvas.md#claim-t-25181|„Lituanica“ lėktuvas]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ skrido tiesiogiai iš Niujorko į Lietuvą.
 - susijęs iš [[objektai/posakiai/„paskirti save Tėvynės garbei“.md#claim-t-183500|„paskirti save Tėvynės garbei“]]: Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.
 - susijęs iš [[objektai/posakiai/„paskirti save Tėvynės garbei“.md#claim-t-20932|„paskirti save Tėvynės garbei“]]: Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.
-- susijęs iš S. Dariaus ir S. Girėno laiškas prieš skrydį: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.
 ## Reikšmingi paminėjimai
 
 - c-001

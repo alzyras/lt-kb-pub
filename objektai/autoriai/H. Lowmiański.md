@@ -30,34 +30,64 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   global_id: t-05941
   teiginys: 'H. Lowmiański 1931–1932 m. Vilniuje išleido dviejų tomų veikalą „Studja nad początkami społeczeństwa i państwa litewskiego“.'
   sudarymo_pagrindimas: 'Citata leidžia pridėti leidimo vietą, metus ir tomų skaičių.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/I. Lappo|I. Lappo]]; mentioned_place: Petrapilis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/I. Lappo|I. Lappo]]; mentioned_place: Vilnius; mentioned_place: Petrapilis'
   temporaliniai_duomenys: 'įvykio data: 1931-1932; įvykio data: 1932 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia pridėti leidimo vietą, metus ir tomų skaičių.'
   pagrindžia:
     - c-001
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=18b0480c8fd5542ca8b9c1ae09034d08b28f19af9888d5731c489ffcb0286f8a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> I. Lappo: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: H. Lowmiański: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: I. Lappo: mention_match, author, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "H. Lowmiański" parinktas kaip owner_note_path. Targetas "I. Lappo" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-05942"></a>
 - t-002
   global_id: t-05942
   teiginys: 'H. Lowmiański darė išvadą, kad 58 000 km² latvių gyvenamame plote buvo apie 145 000 gyventojų.'
   sudarymo_pagrindimas: 'Reikia faktinio sakinio apie autorių, ne citavimo konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1000 m.; įvykio data: apie 1000 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Reikia faktinio sakinio apie autorių, ne citavimo konteksto.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4c654109534ad8761564a580cc865bf2390763bb6c37123e36b17570fdbc2bac; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: H. Lowmiański: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "H. Lowmiański" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-05943"></a>
 - t-003
   global_id: t-05943
   teiginys: 'H. Lowmiański išgarsėjo dviejų tomų veikalu apie Lietuvos visuomenės ir valstybės pradžią.'
   sudarymo_pagrindimas: 'Pašalintas santykinis laikas ir pataisyta vardo forma.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e7f0381bf6e0f10eb6925b89702196271fd962363383b00168ee02b8ea4cdff5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Latviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: H. Lowmiański: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Latviai: mention_match, group, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "H. Lowmiański" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/zodynas/apostazija.md#claim-t-05588|apostazija]]: Mindaugo apostazijos klausimas šaltinyje pateikiamas kaip viena pagrindinių problemų.
 - susijęs iš [[objektai/zodynas/apostazija.md#claim-t-05589|apostazija]]: Pagrindinės kronikos įsakmiai pažymi Mindaugo apostaziją.
 - susijęs iš [[objektai/zodynas/apostazija.md#claim-t-05591|apostazija]]: Mindaugo apostazijos klausimas siejamas su ginču, ar Mindaugas po Žemaičių laimėjimo prie Durbės atsimetė nuo krikščionybės.
@@ -89,6 +119,16 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=18b0480c8fd5542ca8b9c1ae09034d08b28f19af9888d5731c489ffcb0286f8a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> I. Lappo: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: H. Lowmiański: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: I. Lappo: mention_match, author, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "H. Lowmiański" parinktas kaip owner_note_path. Targetas "I. Lappo" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -105,6 +145,16 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=18b0480c8fd5542ca8b9c1ae09034d08b28f19af9888d5731c489ffcb0286f8a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> I. Lappo: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: H. Lowmiański: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: I. Lappo: mention_match, author, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "H. Lowmiański" parinktas kaip owner_note_path. Targetas "I. Lappo" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -121,4 +171,24 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e7f0381bf6e0f10eb6925b89702196271fd962363383b00168ee02b8ea4cdff5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Latviai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: H. Lowmiański: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Latviai: mention_match, group, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "H. Lowmiański" parinktas kaip owner_note_path. Targetas "Latviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4c654109534ad8761564a580cc865bf2390763bb6c37123e36b17570fdbc2bac; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: H. Lowmiański: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "H. Lowmiański" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

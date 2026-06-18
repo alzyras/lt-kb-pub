@@ -34,6 +34,16 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Necelas|Necelas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3bd3ce41c4ed0db0e022bd26580e4602a6d7040336ec7bcf79d96317f006c8b0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Necelas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Renkielis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Necelas: mention_match, person, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Renkielis" parinktas kaip owner_note_path. Targetas "Necelas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-87569"></a>
 - t-002
@@ -43,6 +53,16 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Necelas|Necelas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3bd3ce41c4ed0db0e022bd26580e4602a6d7040336ec7bcf79d96317f006c8b0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Necelas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Renkielis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Necelas: mention_match, person, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Renkielis" parinktas kaip owner_note_path. Targetas "Necelas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Necelas.md#claim-t-87805|Necelas]]: Necelas buvo vaistininkas ir puikus gydytojas, miręs netrukus prieš Renkieliui perimant vaistinę.
 - susijęs iš [[objektai/paprociai/Vaistininkų gydytojavimas ir vaistinės pajamų didinimas gydymu.md#claim-t-87286|Vaistininkų gydytojavimas ir vaistinės pajamų didinimas gydymu]]: Vaistininkai didindavo vaistinės pajamas eidami ir gydytojo pareigas bei patys gydydami.
 - susijęs iš [[objektai/zodynas/farmacinės lotyniškos sąvokos vaistinės kronikoje.md#claim-t-86524|farmacinės lotyniškos sąvokos vaistinės kronikoje]]: Vaistininkai, ruošdami preparatus pagal pareigas ir gydydami žmones, didindavo vaistinės pajamas.
@@ -78,4 +98,24 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3bd3ce41c4ed0db0e022bd26580e4602a6d7040336ec7bcf79d96317f006c8b0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Necelas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Renkielis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Necelas: mention_match, person, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Renkielis" parinktas kaip owner_note_path. Targetas "Necelas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3bd3ce41c4ed0db0e022bd26580e4602a6d7040336ec7bcf79d96317f006c8b0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Necelas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Renkielis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Necelas: mention_match, person, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Renkielis" parinktas kaip owner_note_path. Targetas "Necelas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

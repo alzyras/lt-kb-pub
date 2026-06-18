@@ -23,6 +23,9 @@ Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyb
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ccdffeac314cffe07d8fdbe7dd448f34539e0378bd00c548d52629a2247496e8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš Skomanto ežeras: Zioka Skomackas Skomantai Skomanto ež.
 - susijęs iš Skomanto sodyba: Skomanto sodyba rodyklėje siejama su pavadinimu Skomantburg.
 ## Reikšmingi paminėjimai
@@ -45,3 +48,6 @@ Dusburgietis teigia, kad skomętno) Skomanto kalnas (Skomentberg) Skomanto sodyb
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ccdffeac314cffe07d8fdbe7dd448f34539e0378bd00c548d52629a2247496e8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

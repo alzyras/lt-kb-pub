@@ -29,17 +29,30 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
   global_id: t-40411
   teiginys: 'S. Nastopkos vadovaujama 1-oji pėstininkų divizija įžengė į bolševikų paliktą Vilnių.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/1-oji pėstininkų divizija|1-oji pėstininkų divizija]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/1-oji pėstininkų divizija|1-oji pėstininkų divizija]]; mentioned_place: Vilnius; mentioned_place: Kaunas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 768351-768562; hash=70925cc55258a877279c0f6e29860e9e29024c0d6ed7422d64d43bc487d05739; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: S. Nastopka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=67
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "S. Nastopka" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-40412"></a>
 - t-002
   global_id: t-40412
   teiginys: 'S. Nastopkos vadovaujamos 11-osios brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Daugpilis; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Lietuva; mentioned_place: Daugpilis'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ddb607bfa7e376fd6c0fc12f22c2c40fb43a2a772739346ee6a7982354f6342b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-40413"></a>
 - t-003
@@ -51,6 +64,16 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
   temporalinis_llm_pakomentavimas: 'Teiginį verta perrašyti taip, kad pagrindinis faktas būtų apie S. Nastopką, o ne apie K. Ladygą.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 804008-804233; hash=7d58367045af6a1715b93b1951bce1f7b1566f3326590a6dbb539be21aa8486c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> 1-oji pėstininkų divizija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: S. Nastopka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: 1-oji pėstininkų divizija: mention_match, group, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "S. Nastopka" parinktas kaip owner_note_path. Targetas "1-oji pėstininkų divizija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/1-oji pėstininkų divizija.md#claim-t-40819|1-oji pėstininkų divizija]]: Spalio 21 d. lenkų kavalerijos prasiveržimas Širvintų apylinkėse palietė I diviziją: į nelaisvę pateko S. Nastopka su beveik visu jos štabu.
 ## Reikšmingi paminėjimai
 
@@ -84,6 +107,9 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ddb607bfa7e376fd6c0fc12f22c2c40fb43a2a772739346ee6a7982354f6342b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-001
 
 - c-003
@@ -103,4 +129,24 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 768351-768562; hash=70925cc55258a877279c0f6e29860e9e29024c0d6ed7422d64d43bc487d05739; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: S. Nastopka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=67
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "S. Nastopka" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 804008-804233; hash=7d58367045af6a1715b93b1951bce1f7b1566f3326590a6dbb539be21aa8486c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> 1-oji pėstininkų divizija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: S. Nastopka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: 1-oji pėstininkų divizija: mention_match, group, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "S. Nastopka" parinktas kaip owner_note_path. Targetas "1-oji pėstininkų divizija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

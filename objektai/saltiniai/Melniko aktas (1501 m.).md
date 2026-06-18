@@ -26,6 +26,9 @@ Lenkai reikalavo derybų pagrindu laikyti 1501 m. Melniko ir 1564 m. Varšuvos r
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1c1cb586d615a8d52e397e486454227fc6f28e98b6464c05933b0c501a6bdbee; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 <a id="claim-t-67485"></a>
 - t-002
   global_id: t-67485
@@ -34,6 +37,9 @@ Lenkai reikalavo derybų pagrindu laikyti 1501 m. Melniko ir 1564 m. Varšuvos r
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=55391b81389ae6e9e0afca6680eceb3dcb043131ebd85574764b0d33c4efcdcc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 <a id="claim-t-67486"></a>
 - t-003
   global_id: t-67486
@@ -42,6 +48,9 @@ Lenkai reikalavo derybų pagrindu laikyti 1501 m. Melniko ir 1564 m. Varšuvos r
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 464487-464745; hash=fc9e9835d02ad29ec60947a7d78b12ff3d2400b39059fe9302fea22a52de6eca; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -84,6 +93,9 @@ Lenkai reikalavo derybų pagrindu laikyti 1501 m. Melniko ir 1564 m. Varšuvos r
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=1c1cb586d615a8d52e397e486454227fc6f28e98b6464c05933b0c501a6bdbee; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
 - c-003
   santrauka: 'Lenkai reikalavo derybų pagrindu laikyti 1501 m. Melniko ir 1564 m. Varšuvos receso aktus.'
@@ -99,4 +111,10 @@ Lenkai reikalavo derybų pagrindu laikyti 1501 m. Melniko ir 1564 m. Varšuvos r
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=55391b81389ae6e9e0afca6680eceb3dcb043131ebd85574764b0d33c4efcdcc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 464487-464745; hash=fc9e9835d02ad29ec60947a7d78b12ff3d2400b39059fe9302fea22a52de6eca; match=exact
+  sprendimo_priezastis: auto

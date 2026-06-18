@@ -38,6 +38,16 @@ Augustinas Rotundas Milesijus (Mieleskis), abiejų teisių daktaras, išrinktas 
   temporalinis_llm_pakomentavimas: 'Perrašyta sklandžiau, išlaikant tik citatoje nurodytus faktus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6f44e259c6ead047659116feb93b3fb986c287d34ac9466a2c8f191c39183f15; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Augustinas Rotundas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Augustinas Rotundas Milesijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Augustinas Rotundas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Augustinas Rotundas Milesijus" parinktas kaip owner_note_path. Targetas "Augustinas Rotundas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Stanislovas Sabina.md#claim-t-87458|Stanislovas Sabina]]: Stanislovas Sabina buvo medicinos daktaras ir 1584 m. ėjo Vilniaus vaito pareigas.
 ## Reikšmingi paminėjimai
 
@@ -57,3 +67,13 @@ Augustinas Rotundas Milesijus (Mieleskis), abiejų teisių daktaras, išrinktas 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6f44e259c6ead047659116feb93b3fb986c287d34ac9466a2c8f191c39183f15; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Augustinas Rotundas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Augustinas Rotundas Milesijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Augustinas Rotundas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Augustinas Rotundas Milesijus" parinktas kaip owner_note_path. Targetas "Augustinas Rotundas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

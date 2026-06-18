@@ -36,13 +36,23 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra fragmentas; citata pagrindžia pilną sakinį apie mūšio rezultatą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8f86e6d16931e5e7f7b2bfe92c34ea20e90af4af3130184619f595dd6988a085; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonas Karolis Chodkevičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Karolis Chodkevičius" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Kuoknesę, o 1608 m. rudenį Jonas Karolis Chodkevičius ją išvadavo.
+- susijęs iš Maskva: 1617–1618 m. žygyje į Maskvą Jonas Karolis Chodkevičius pasiekė laimėjimų, tačiau Maskvos užimti nepavyko.
 - susijęs iš Salaspilio mūšis: Apie 1619 m. Pieterio Snayerso paveiksle „Salaspilio mūšis“ Lietuvos husarai vaizduojami naikinantys švedų pėstininkų batalioną.
 - susijęs iš Daugavgryva: 1609 m. kovą Jonas Karolis Chodkevičius nesėkmingai puolė Daugavgryvą, mėgindamas pralaužti Rygos blokadą.
 - susijęs iš Daugavgryva: 1609 m. kovą Jonas Karolis Chodkevičius puolė Daugavgryvą, siekdamas pralaužti Rygos blokadą, bet švedų įgula atsilaikė.
-- susijęs iš Kuoknesė: Švedijos kariuomenė per trumpą laiką užėmė Kuoknesę, o 1608 m. rudenį Jonas Karolis Chodkevičius ją išvadavo.
 - susijęs iš Kuoknesė: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
 - susijęs iš Livonija: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
-- susijęs iš Maskva: 1617–1618 m. žygyje į Maskvą Jonas Karolis Chodkevičius pasiekė laimėjimų, tačiau Maskvos užimti nepavyko.
 - susijęs iš Maskva: Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene gindamas Smolenską.
 - susijęs iš Piarnu: Piarnu užėmimas užtikrino lietuviams saugų užnugarį ir leido tęsti veiksmus Rygos miesto blokadai panaikinti.
 - susijęs iš Piarnu: 1609 m. kovo 14 d. Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė pasiekė Piarnu, bet netikėtas antpuolis nepavyko.
@@ -70,6 +80,16 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8f86e6d16931e5e7f7b2bfe92c34ea20e90af4af3130184619f595dd6988a085; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Chodkevičiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jonas Karolis Chodkevičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Chodkevičiai: mention_match, group, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jonas Karolis Chodkevičius" parinktas kaip owner_note_path. Targetas "Chodkevičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Jonas Karolis Chodkevičius kariavo_pries [[objektai/grupes/Chodkevičiai]]

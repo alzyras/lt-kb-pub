@@ -40,8 +40,8 @@ amziai:
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Kalnėnai.md#claim-t-65268|Kalnėnai]]: Seniausia kalnėnų uždanga laikytos neišžengiamos girios, o vėliau tarpgiriai buvo kamšomi pilimis nuo neprietelių.
 - susijęs iš Žemaičių jūra: Žemaičių jūra siejama su žuvėdų karėmis ir prekybos plėtra.
+- susijęs iš [[objektai/grupes/Kalnėnai.md#claim-t-65268|Kalnėnai]]: Seniausia kalnėnų uždanga laikytos neišžengiamos girios, o vėliau tarpgiriai buvo kamšomi pilimis nuo neprietelių.
 ## Reikšmingi paminėjimai
 
 - c-001

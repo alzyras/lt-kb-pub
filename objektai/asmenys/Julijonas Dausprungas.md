@@ -22,9 +22,19 @@ Kojelavičiaus perpasakotoje tradicijoje Julijonas Dausprungas įvardijamas kaip
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Tai legendinė tradicija, todėl būtina atribucija ir išvalytas sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kentauras|Kentauras]]; mentioned_place: Italija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kentauras|Kentauras]]; mentioned_place: Viena; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_place: Italija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 92671-93394; hash=a409e3aa27a0c724fcd842acd75aeb8859f435c1bea93912382d680d4ae54135; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herbas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Julijonas Dausprungas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=86
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julijonas Dausprungas" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -58,3 +68,13 @@ Kojelavičiaus perpasakotoje tradicijoje Julijonas Dausprungas įvardijamas kaip
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 92671-93394; hash=a409e3aa27a0c724fcd842acd75aeb8859f435c1bea93912382d680d4ae54135; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herbas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Julijonas Dausprungas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Herbas: mention_match, thing, gap=86
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Julijonas Dausprungas" parinktas kaip owner_note_path. Targetas "Herbas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

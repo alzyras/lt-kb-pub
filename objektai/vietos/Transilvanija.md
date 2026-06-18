@@ -34,12 +34,24 @@ Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O 
   global_id: t-26325
   teiginys: 'Transilvanijos kunigaikštis Steponas Batoras, tapęs Lenkijos ir Lietuvos valdovu, Livonijos kare pasiekė lemiamų pergalių prieš Maskvą.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir sutvarkytas nutrūkęs sakinys.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Livonija; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Liublinas'
   temporaliniai_duomenys: 'įvykio data: 1576-1586; įvykio data: 1586 m.; įvykio data: 1609-1611; įvykio data: 1611 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir sutvarkytas nutrūkęs sakinys.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9c6afa83b8e77850220626a1b59eea32b3799d8e7b90cf3196a80b1618c008d8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Transilvanija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Transilvanija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš Regesta historico-diplomatica Ordinis Mariae Theutonicorum: Regesta historico-diplomatica Ordinis Nr. 4 siejamas su 1211 m. Andriaus II kryžiuočiams suteikta vieta Transilvanijos Burcos žemėje.
+- susijęs iš Burcos žemė: Burcos žemė Transilvanijoje.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82175|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis buvo suteikęs privilegiją Vilniaus miesto auksakalių cechui.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113993|Steponas Batoras]]: Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare prieš Maskvą buvo pasiektos lemiamos pergalės.
 - susijęs iš [[objektai/asmenys/Steponas Genseris.md#claim-t-87461|Steponas Genseris]]: Auksakalys Steponas Genseris buvo pašauktas į teismą Vilniaus miesto auksakalių cecho reikalavimu.
@@ -49,9 +61,7 @@ Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O 
 - susijęs iš [[objektai/grupes/Vokietijos kunigaikščiai.md#claim-t-31373|Vokietijos kunigaikščiai]]: Vokietijos kunigaikščiai galėjo paremti ordiną.
 - susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-169844|Liublino unija (1569 m.)]]: Po Liublino unijos Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.
 - susijęs iš Liublino unijos aktas (1569 m.): LDK atstovai priėmė Liublino unijos kompromisą, nors lenkai ir Žygimantas Augustas spaudė naikinti Lietuvos valstybingumą ir atplėšti teritorijų.
-- susijęs iš Regesta historico-diplomatica Ordinis Mariae Theutonicorum: Regesta historico-diplomatica Ordinis Nr. 4 siejamas su 1211 m. Andriaus II kryžiuočiams suteikta vieta Transilvanijos Burcos žemėje.
 - susijęs iš Stepono Batoro teismo šaukimas Steponui Genseriui dėl Vilniaus auksakalių cecho skundo: Steponas Genseris Vilniaus auksakalių cecho reikalavimu buvo raštiškai pakviestas į valdovo teismą.
-- susijęs iš Burcos žemė: Burcos žemė Transilvanijoje.
 - susijęs iš Maskva: Stepono Batoro valdymo metais Livonijos kare pasiektos lemiamos pergalės prieš Maskvą.
 - susijęs iš Traupeinas: Traupeinas rodyklėje siejamas su vardais Tranpere, Traupeien, vėlesniu Troopen ir dabartiniais Tropais.
 ## Reikšmingi paminėjimai
@@ -72,3 +82,13 @@ Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9c6afa83b8e77850220626a1b59eea32b3799d8e7b90cf3196a80b1618c008d8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Transilvanija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Transilvanija" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

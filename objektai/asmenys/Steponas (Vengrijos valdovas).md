@@ -36,18 +36,39 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
   semantiniai_rysiai: '[[objektai/asmenys/Steponas (Vengrijos valdovas)|Steponas (Vengrijos valdovas)]] buvo valdovas Vengrija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 40947-41435; hash=adb33939b156052cb069ae3fc0f122d2100fd6021e4b9cea224adc9cefda1f3e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vengrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Steponas (Vengrijos valdovas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vengrija: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steponas (Vengrijos valdovas)" parinktas kaip owner_note_path. Targetas "Vengrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-19265"></a>
 - t-002
   global_id: t-19265
   teiginys: 'Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.'
   sudarymo_pagrindimas: 'Reikia glaustesnės enciklopedinės formos ir datos santrumpos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vengrija; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_place: Vengrija; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1000 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia glaustesnės enciklopedinės formos ir datos santrumpos.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=829dda2c7bf26f29ea247b1afb46ceaf87112a1f7c2770df117aaad895e546cc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Vengrija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Steponas (Vengrijos valdovas): owner_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Vengrija: exact_title_context, place, gap=10
+  ryšio_slopinti_kandidatai: Europa: candidate; Lietuva: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Steponas (Vengrijos valdovas)" parinktas kaip owner_after_title. Targetas "Vengrija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Europa.md", "selected": false, "strategy": "candidate", "title": "Europa", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -85,6 +106,17 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=829dda2c7bf26f29ea247b1afb46ceaf87112a1f7c2770df117aaad895e546cc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Vengrija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Steponas (Vengrijos valdovas): owner_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Vengrija: exact_title_context, place, gap=10
+  ryšio_slopinti_kandidatai: Europa: candidate; Lietuva: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Steponas (Vengrijos valdovas)" parinktas kaip owner_after_title. Targetas "Vengrija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Europa.md", "selected": false, "strategy": "candidate", "title": "Europa", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
     - t-001
 
 - c-003
@@ -104,7 +136,28 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 40947-41435; hash=adb33939b156052cb069ae3fc0f122d2100fd6021e4b9cea224adc9cefda1f3e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vengrija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Steponas (Vengrijos valdovas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Vengrija: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Steponas (Vengrijos valdovas)" parinktas kaip owner_note_path. Targetas "Vengrija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 91967-92638; hash=f01f4dc9406c6b0e4630e8769d98d60bc7bb3b309aa8e3edc2d0920cdfded09d; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Vengrija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Steponas (Vengrijos valdovas): owner_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Vengrija: exact_title_context, place, gap=10
+  ryšio_slopinti_kandidatai: Lietuva: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Steponas (Vengrijos valdovas)" parinktas kaip owner_after_title. Targetas "Vengrija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 ## Ryšiai
 - Steponas (Vengrijos valdovas) buvo_valdovas [[objektai/vietos/Vengrija]]

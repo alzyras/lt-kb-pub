@@ -25,6 +25,16 @@ Jurgis Valavičius su kitais sužeistais pulkų vadais prasiskynė kelią per gi
   susije_objektai: 'mentioned_group: [[objektai/grupes/Valavičiai|Valavičiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 990933-991721; hash=efe4ccf27201a389df6a5dcadf643951e2d80132d402a7baecbd08380b17341c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Valavičiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jurgis Valavičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Valavičiai: mention_match, group, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurgis Valavičius" parinktas kaip owner_note_path. Targetas "Valavičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -57,3 +67,13 @@ Jurgis Valavičius su kitais sužeistais pulkų vadais prasiskynė kelią per gi
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 990933-991721; hash=efe4ccf27201a389df6a5dcadf643951e2d80132d402a7baecbd08380b17341c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Valavičiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Jurgis Valavičius: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Valavičiai: mention_match, group, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Jurgis Valavičius" parinktas kaip owner_note_path. Targetas "Valavičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-09538
   teiginys: 'Didesnė ginkluotės dalis galėjo būti valstybės saugoma, prieš operacijas išduodama kariams, o po jų grąžinama.'
   sudarymo_pagrindimas: 'Citata leidžia įtraukti ir grąžinimo aspektą, svarbų užrašo objektui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]'
   pagrindžia:
     - c-001
 
@@ -50,7 +50,7 @@ Nenurodyta
 - t-002
   global_id: t-09539
   teiginys: 'Po operacijų išduota ginkluotė turėjo būti grąžinama.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]'
   pagrindžia:
     - c-001
 

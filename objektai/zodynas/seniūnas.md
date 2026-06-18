@@ -75,33 +75,36 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai perteikia pastabą apie seniūnų funkcijas iki 1413 m. Nepridėtos atskiros pirmųjų vaivadų ir seniūnų pavardės.'
   pagrindžia:
     - c-003
+- susijęs iš [[objektai/asmenys/Hanulas, arba Hanka.md#claim-t-87511|Hanulas, arba Hanka]]: Hanulas autentiškame 1385 m. Vladislovo Jogailos laiške vadinamas Hanka, Vilniaus seniūnu.
+- susijęs iš [[objektai/asmenys/Kinsgaila.md#claim-t-30330|Kinsgaila]]: Kinsgaila buvo Ukmergės seniūnas ir vienas iš sąjungininkų pusės vadų.
+- susijęs iš [[objektai/asmenys/Kęsgaila.md#claim-t-35195|Kęsgaila]]: Kęsgaila buvo Žemaičių seniūnas.
+- susijęs iš [[objektai/asmenys/Mykolas Skirgaila.md#claim-t-87802|Mykolas Skirgaila]]: Mykolas Skirgaila buvo Žemaičių seniūnas, sutartyje paminėtas tarp Lietuvos didikų.
+- susijęs iš [[objektai/asmenys/Nikodemas Janavičius iš Čechanovičių.md#claim-t-87806|Nikodemas Janavičius iš Čechanovičių]]: Nikodemas Janavičius iš Čechanovičių buvo Melniko seniūnas ir stalininkas.
+- susijęs iš [[objektai/asmenys/Sungaila.md#claim-t-30386|Sungaila]]: Sungaila buvo Kauno seniūnas ir vienas iš Žalgirio kautynių vadų.
+- susijęs iš [[objektai/autoriai/Jurginis J.md#claim-t-64667|Jurginis J]]: J. Jurginis siejo krivio vardą su vėlesniu bendruomenės seniūno arba vado pavadinimu.
+- susijęs iš [[objektai/grupes/Goštautų giminė.md#claim-t-187758|Goštautų giminė]]: Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vilniaus seniūnu minimas Andrius Goštautas.
+- susijęs iš [[objektai/zodynas/Pilininkas capitaneus seniūnas.md#claim-t-86567|Pilininkas capitaneus seniūnas]]: 1385 metų Vladislovo Jogailos laiške Hanka pavadintas Vilniaus seniūnu, lotyniškai Hanko Capitaneus Vilnensis.
+- susijęs iš [[objektai/zodynas/krivis krivė krivaitis.md#claim-t-58817|krivis krivė krivaitis]]: Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas.
+- susijęs iš [[objektai/zodynas/pataurininkas.md#claim-t-86636|pataurininkas]]: 1501 metais Gardine tarp dalyvavusių pareigūnų minimas LDK pataurininkas ir Belsko seniūnas Mikalojus Mikolajevičius.
 - susijęs iš [[objektai/asmenys/Albertas Manvydas.md#claim-t-183723|Albertas Manvydas]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Albertas Manvydas.md#claim-t-39992|Albertas Manvydas]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
-- susijęs iš [[objektai/asmenys/Hanulas, arba Hanka.md#claim-t-87511|Hanulas, arba Hanka]]: Hanulas autentiškame 1385 m. Vladislovo Jogailos laiške vadinamas Hanka, Vilniaus seniūnu.
 - susijęs iš [[objektai/asmenys/Jonas Trizna.md#claim-t-186115|Jonas Trizna]]: Jonas Trizna su kitais karvedžiais patrankų ugnimi ir išpuoliais privertė priešą atsisakyti pilies puolimo.
 - susijęs iš [[objektai/asmenys/Jonas Švitrigaila.md#claim-t-87734|Jonas Švitrigaila]]: Jonas Švitrigaila buvo Trakų kaštelionas, priskirtas Lietuvos didikams.
 - susijęs iš [[objektai/asmenys/Jurga (pasienio seniūnas).md#claim-t-186222|Jurga (pasienio seniūnas)]]: Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo skitų antpuolių.
-- susijęs iš [[objektai/asmenys/Kinsgaila.md#claim-t-30330|Kinsgaila]]: Kinsgaila buvo Ukmergės seniūnas ir vienas iš sąjungininkų pusės vadų.
 - susijęs iš [[objektai/asmenys/Kristupas Pacas.md#claim-t-79092|Kristupas Pacas]]: Kristupas Pacas buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus.
-- susijęs iš [[objektai/asmenys/Kęsgaila.md#claim-t-35195|Kęsgaila]]: Kęsgaila buvo Žemaičių seniūnas.
 - susijęs iš [[objektai/asmenys/M. Vaina.md#claim-t-39781|M. Vaina]]: Breslaujos seniūnas M. Vaina buvo nužudytas kartu su M. P. Sapiega ir rotmistru Kurovičiumi.
 - susijęs iš [[objektai/asmenys/Mechmet Girėjus.md#claim-t-186148|Mechmet Girėjus]]: Mechmet Girėjus nusiaubė Lietuvą, nužygiavo iki Minsko, sudegino miestą ir grįžo su dideliu grobiu.
 - susijęs iš [[objektai/asmenys/Mikalojus (Medininkų vyskupas nominatas).md#claim-t-87780|Mikalojus (Medininkų vyskupas nominatas)]]: Mikalojus sutartyje buvo nurodytas kaip Medininkų, arba Žemaitijos, vyskupas nominatas tarp kunigaikščių ir prelatų.
 - susijęs iš [[objektai/asmenys/Motiejus (Vilniaus vyskupas).md#claim-t-87448|Motiejus (Vilniaus vyskupas)]]: Vilniaus vyskupas Motiejus buvo nurodytas tarp kunigaikščių ir prelatų sutartyje, kurią leista laiduoti Vilniui.
 - susijęs iš [[objektai/asmenys/Mykolas Pacas.md#claim-t-79142|Mykolas Pacas]]: Mykolas Pacas buvo vienas bajorų konfederacijos vadų, kovojusių prieš švedus ir jų sąjungininkus.
-- susijęs iš [[objektai/asmenys/Mykolas Skirgaila.md#claim-t-87802|Mykolas Skirgaila]]: Mykolas Skirgaila buvo Žemaičių seniūnas, sutartyje paminėtas tarp Lietuvos didikų.
 - susijęs iš [[objektai/asmenys/N. Küchmeisteris.md#claim-t-30366|N. Küchmeisteris]]: Žemaičių seniūnas N. Küchmeisteris buvo tarp žymiųjų belaisvių.
-- susijęs iš [[objektai/asmenys/Nikodemas Janavičius iš Čechanovičių.md#claim-t-87806|Nikodemas Janavičius iš Čechanovičių]]: Nikodemas Janavičius iš Čechanovičių buvo Melniko seniūnas ir stalininkas.
 - susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-183761|Simonas Lengvenis (valdovas, XIV a.)]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-82663|Simonas Lengvenis (valdovas, XIV a.)]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Spūdas.md#claim-t-186252|Spūdas]]: Pūtvės pilies seniūnas Spūdas išdavė pilį ir su tėvu, vaikais bei visa šeimyna pasidavė kryžiuočiams.
 - susijęs iš [[objektai/asmenys/Stanislovas Goštautas.md#claim-t-87477|Stanislovas Goštautas]]: 1494 m. balandžio 18 d. Maskvoje Žemaičių seniūnas Stanislovas Goštautas pasirašė amžinos taikos sutartį su caru.
-- susijęs iš [[objektai/asmenys/Sungaila.md#claim-t-30386|Sungaila]]: Sungaila buvo Kauno seniūnas ir vienas iš Žalgirio kautynių vadų.
 - susijęs iš [[objektai/asmenys/Vaitiekus Taboras.md#claim-t-184852|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]: Po Vilniaus vyskupo Andriaus mirties jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras.
 - susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-114097|Žygimantas Kaributaitis]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Žygimantas Kaributaitis.md#claim-t-183772|Žygimantas Kaributaitis]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
-- susijęs iš [[objektai/autoriai/Jurginis J.md#claim-t-64667|Jurginis J]]: J. Jurginis siejo krivio vardą su vėlesniu bendruomenės seniūno arba vado pavadinimu.
-- susijęs iš [[objektai/grupes/Goštautų giminė.md#claim-t-187758|Goštautų giminė]]: Pirmasis Goštautų giminės atstovas tarp Vilniaus viršininkų buvo 1387 m. Vilniaus seniūnu minimas Andrius Goštautas.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187735|Ponų taryba (institucija)]]: Ponų taryba Brastoje pakėlė karalaitį Kazimierą Lietuvos didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija.md#claim-t-66538|Gedimino sąjunga su Lenkija]]: 1326 m. Gediminas pasiuntė Lokietkai 1200 Dovydo vadovaujamų vyrų kovai prieš Brandenburgo markgrafą.
 - susijęs iš [[objektai/ivykiai/Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.).md#claim-t-100025|Gedimino taika su Lenkija ir Aldonos vedybos (1325 m.)]]: Zenonas Ivinskis vertino, kad iš Gedimino ir Lokietkos sąjungos daugiausia naudos turėjo Lenkija, nes jos lietuviai nebepuldinėjo.
@@ -126,10 +129,7 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 - susijęs iš Voložinas: Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius.
 - susijęs iš Voluinė: Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose, o kita - Nesvyžiuje ir Olykoje Voluinėje.
 - susijęs iš Žemaitija: Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą.
-- susijęs iš [[objektai/zodynas/Pilininkas capitaneus seniūnas.md#claim-t-86567|Pilininkas capitaneus seniūnas]]: 1385 metų Vladislovo Jogailos laiške Hanka pavadintas Vilniaus seniūnu, lotyniškai Hanko Capitaneus Vilnensis.
 - susijęs iš [[objektai/zodynas/etmonas.md#claim-t-187522|etmonas]]: Lietuvos metraštyje Žemaičių seniūnas ir LDK etmonas čeką Joną Cerniną su svetimšaliais pasiuntė į Polocką kaip įgulą.
-- susijęs iš [[objektai/zodynas/krivis krivė krivaitis.md#claim-t-58817|krivis krivė krivaitis]]: Vėliau kriviu galėjo būti vadinamas ir bendruomenės seniūnas arba vadas.
-- susijęs iš [[objektai/zodynas/pataurininkas.md#claim-t-86636|pataurininkas]]: 1501 metais Gardine tarp dalyvavusių pareigūnų minimas LDK pataurininkas ir Belsko seniūnas Mikalojus Mikolajevičius.
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70312|rotmistras]]: Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai.
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185342|skitai]]: Priešas, neįveikęs pilies, apiplėšė apylinkę ir patraukė į Skitiją.
 ## Reikšmingi paminėjimai

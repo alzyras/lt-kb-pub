@@ -113,24 +113,24 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/asmenys/M. Dejevas.md#claim-t-40313|M. Dejevas]]: Plk. M. Dejevas vadovavo B. Knorringo į Paupį pasiųstiems batalionams.
 - susijęs iš [[objektai/asmenys/V. Grigas.md#claim-t-80744|V. Grigas]]: Grigo vadovaujama lengvosios artilerijos 1-oji baterija (4 patrankos).
-- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173236|Vladislovas Jogaila]]: Pagal Vladislovo Jogailos potvarkį Vilniaus sargyba ir policija laikinai priklausė pilies tarnybai.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173324|Žygimantas Senasis]]: 1522 m. Žygimantas Senasis įsakė grąžinti Vilniaus miesto sargybą ir policiją magistratui.
 - susijęs iš [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka.md#claim-t-183681|1916 m. modelio 77 mm vokiška patranka]]: Lietuvos kariuomenės artileristai buvo prie 1916 m. modelio 77 mm vokiškos patrankos.
 - susijęs iš [[objektai/daiktai/1916 m. modelio 77 mm vokiška patranka.md#claim-t-39233|1916 m. modelio 77 mm vokiška patranka]]: Lietuvos kariuomenės artileristai buvo užfiksuoti prie 1916 m. modelio 77 mm vokiškos patrankos.
 - susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86987|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Vertingiausi ginklai turėjo vardus: keturios didžiosios akmenų patrankos vadinosi Elgeta, Vytautas, Boba ir Augustas.
 - susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86989|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Vilniaus miestiečiai gynybai turėjo turėti šarvus, muškietą ir ragotinę, o miesto taryba prižiūrėjo patrankas ir arkebuzas.
 - susijęs iš [[objektai/daiktai/Patranka Hidra.md#claim-t-39187|Patranka Hidra]]: Patrankos „Hidra“ laibgalis dekoruotas Hidra, o drūtgalis - karūna, Vyčiu, Gediminaičių stulpais ir 1564 m. Žygimanto Augusto įrašu.
+- susijęs iš [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas.md#claim-t-87301|Patrankų vardų ir lotyniškų įrašų suteikimas]]: Vertingiausios patrankos turėjo vardus, o ant kiekvieno pabūklo paprastai būdavo dvi lotyniškos eilutės apie jo žygdarbius.
+- susijęs iš 1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: 1565 m. rankraštyje minima, kad vertingiausi ginklai turėjo vardus, o dvi etmono patrankos vadintos Žygimantu Senuoju ir Žygimantu Augustu.
+- susijęs iš MORTYROS IR PATRANKOS TRAJEKTORIJOS: Iliustracijos „Mortyros ir patrankos trajektorijos“ dailininkas buvo Andžej Geglis.
+- susijęs iš [[objektai/asmenys/M. Dejevas.md#claim-t-40313|M. Dejevas]]: Plk. M. Dejevas vadovavo B. Knorringo į Paupį pasiųstiems batalionams.
+- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173236|Vladislovas Jogaila]]: Pagal Vladislovo Jogailos potvarkį Vilniaus sargyba ir policija laikinai priklausė pilies tarnybai.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173324|Žygimantas Senasis]]: 1522 m. Žygimantas Senasis įsakė grąžinti Vilniaus miesto sargybą ir policiją magistratui.
 - susijęs iš [[objektai/daiktai/Vilniaus miestiečių gynybinė ginkluotė.md#claim-t-87127|Vilniaus miestiečių gynybinė ginkluotė]]: Vilniaus magistratas turėjo išlaikyti 24 įprastai ginkluotus sargybinius, kad miesto tvarka būtų prižiūrima dieną ir naktį.
 - susijęs iš [[objektai/daiktai/Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija.md#claim-t-87010|Žygimanto Augusto Vilniuje pagaminti ginklai ir amunicija]]: Golembiovskio aprašyme keturios didžiosios akmenų patrankos vadintos Elgeta, Vytautu, Boba ir Augustu.
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172819|Vilniaus magistratas]]: Karaliaus Žygimanto 1522 m. įsakymu miesto sargyba ir policija buvo sugrąžinta Vilniaus magistratui.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172825|Vilniaus miestiečių luomas]]: Gaisro atveju kiekvienas Vilniaus miestietis privalėjo skubėti prie ugnies, o burmistrai turėjo vadovauti gesinimui.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55086|Vilniaus miestiečių luomas]]: Vilniaus miestiečiai gaisro atveju privalėjo skubėti prie ugnies, o miesto gynybai turėti šarvus, muškietą ir ragotinę.
 - susijęs iš [[objektai/ivykiai/Vilniaus gynyba (1794 m. liepos 19–20 d.).md#claim-t-80676|Vilniaus gynyba (1794 m. liepos 19–20 d.)]]: 1794 m. liepos 19 d. B. Knorringo vadovaujamas Rusijos kariuomenės korpusas, padalytas į tris kolonas, pasiekė Vilnių.
-- susijęs iš [[objektai/paprociai/Patrankų vardų ir lotyniškų įrašų suteikimas.md#claim-t-87301|Patrankų vardų ir lotyniškų įrašų suteikimas]]: Vertingiausios patrankos turėjo vardus, o ant kiekvieno pabūklo paprastai būdavo dvi lotyniškos eilutės apie jo žygdarbius.
-- susijęs iš 1565 metų 39 lapų rankraštis apie Vilniuje pagamintus ginklus ir sprogmenis: 1565 m. rankraštyje minima, kad vertingiausi ginklai turėjo vardus, o dvi etmono patrankos vadintos Žygimantu Senuoju ir Žygimantu Augustu.
-- susijęs iš MORTYROS IR PATRANKOS TRAJEKTORIJOS: Iliustracijos „Mortyros ir patrankos trajektorijos“ dailininkas buvo Andžej Geglis.
 - susijęs iš Gedimino pilies kalnas (pilis): Velykų naktį patrankos šūvis, pasak kai kurių šaltinių, driokstelėjo nuo Gedimino pilies kalno ir davė puolimo signalą.
 - susijęs iš Paupys: 1794 m. liepos 19 d. dalis rusų pajėgų prasiveržė ir užėmė Paupį bei Užupį.
 - susijęs iš Trakų pilis (pilis): Ordino patrankos buvo išmėgintos imant Trakų pilį, o 1384 m. Jogaila jas panaudojo prieš Ordiną prie Marienverderio.

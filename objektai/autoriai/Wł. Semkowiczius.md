@@ -25,8 +25,18 @@ Semkowiczius, kuris su lenkų Bažnyčios istoriku J.
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Kutrzeba|Kutrzeba]]; mentioned_author: [[objektai/autoriai/St. Kutrzeba|St. Kutrzeba]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179526|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: Wł. Semkowiczius išleido Vilniaus vyskupijos šaltinių tomą ir Lenkijos bei Lietuvos unijos aktus.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 235548-235840; hash=312308472a3eeabf4d1c508489e60dba6c9845f7b7678663c7c3237d4afa10bf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kutrzeba: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Wł. Semkowiczius: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Kutrzeba: mention_match, author, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Wł. Semkowiczius" parinktas kaip owner_note_path. Targetas "Kutrzeba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Akta unii Polski z Litwą 1385-1791: „Akta unii Polski z Litwą 1385-1791“ išleido St. Kutrzeba ir Wł. Semkowiczius Krokuvoje 1932 m.
+- susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179526|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: Wł. Semkowiczius išleido Vilniaus vyskupijos šaltinių tomą ir Lenkijos bei Lietuvos unijos aktus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,3 +52,13 @@ Semkowiczius, kuris su lenkų Bažnyčios istoriku J.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 235548-235840; hash=312308472a3eeabf4d1c508489e60dba6c9845f7b7678663c7c3237d4afa10bf; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kutrzeba: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Wł. Semkowiczius: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Kutrzeba: mention_match, author, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Wł. Semkowiczius" parinktas kaip owner_note_path. Targetas "Kutrzeba" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -32,7 +32,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   global_id: t-79083
   teiginys: 'Mozūrijos kunigaikštis Konradas 1226–1228 m. pakvietė Ordiną ir padovanojo jam Kulmo žemę.'
   sudarymo_pagrindimas: 'Sakinys sutvarkytas, kad aiškiai įvardytų asmenį, veiksmą ir citatoje pateiktą laiką.'
-  susije_objektai: 'territory: Mozūrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_place: Kulmas; mentioned_place: Mozūrija; mentioned_place: Prūsija; mentioned_place: Torunė'
+  susije_objektai: 'territory: Mozūrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_place: Kulmas; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Mozūrija; mentioned_place: Prūsija; mentioned_place: Torunė'
   semantiniai_rysiai: '[[objektai/asmenys/Konradas|Konradas]] buvo valdovas Mozūrija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1226-1228; valdymo laikotarpis: 1228 m.; valdymo laikotarpis: 1231 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui.'
@@ -47,18 +47,15 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir sutvarkytas citata pagrįstas faktas.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Albertas fon Hagenas.md#claim-t-186092|Albertas fon Hagenas]]: Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį bei miestą, manydamas, kad jie liko be gynėjų.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=445daff2d5b04f6e40fd1283072c80aaaf3b6e13c5f2f9d5571037f2efced5ab; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+- susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59861|Fridrichas II]]: Fridricho II sūnus Konradas 1251 m. užpuolė Apulijos karalystę ir Neapolį, sugriovė Neapolio sienas ir kitais metais mirė nunuodytas.
+- susijęs iš [[objektai/asmenys/Konradas (Skalvių pilies gynėjas).md#claim-t-60478|Konradas (Skalvių pilies gynėjas)]]: Brolis Konradas su Albrechtu iš Hageno ir ginklanešiais apgynė Skalvių pilį nuo lietuvių karaliaus karių.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60004|Albrechtas iš Hageno]]: Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.
-- susijęs iš [[objektai/asmenys/Bansas.md#claim-t-60089|Bansas]]: Bansas, Pabečių valsčiaus kamerarijus, buvo kaltinamas sukurstęs prūsus atsimesti nuo krikščionybės.
-- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59837|Ditrichas (Sembos fogtas)]]: Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.
-- susijęs iš [[objektai/asmenys/Ditrichas iš Bernheimo.md#claim-t-59908|Ditrichas iš Bernheimo]]: Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją.
-- susijęs iš [[objektai/asmenys/Ditrichas iš Gaterslebeno.md#claim-t-60265|Ditrichas iš Gaterslebeno]]: Ditrichas iš Gaterslebeno buvo aštuntasis Prūsijos žemės magistras ir nuo 1271 m. vadovavo šešerius metus.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Gruningeno.md#claim-t-60266|Ditrichas iš Gruningeno]]: Ditrichas iš Gruningeno kartu su Hartmanu iš Heldrungeno buvo Teneburgo pilyje, kur Konradas ieškojo ramybės.
 - susijęs iš [[objektai/asmenys/Ernestas (Livonijos žemės magistras).md#claim-t-89708|Ernestas (Livonijos žemės magistras)]]: Livonijos žemės magistrą Ernestą nukovė netikėliai prieš Konrado iš Foichtvangeno paskyrimą 1279 m.
 - susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59861|Fridrichas II]]: Fridricho II sūnus Konradas 1251 m. užpuolė Apulijos karalystę ir Neapolį, sugriovė Neapolio sienas ir kitais metais mirė nunuodytas.
-- susijęs iš [[objektai/asmenys/Helvigas fon Goldbachas.md#claim-t-186208|Helvigas fon Goldbachas]]: Žemaičiai per sėkmingus išpuolius prieš kryžiuočius paėmė į nelaisvę Christburgo komtūrą Helvigą fon Goldbachą.
-- susijęs iš [[objektai/asmenys/Henrikas iš Berkos.md#claim-t-60311|Henrikas iš Berkos]]: Henrikas iš Berkos iš Tiuringijos buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
-- susijęs iš [[objektai/asmenys/Hermanas Balkas.md#claim-t-89816|Hermanas Balkas]]: 1230 m. didysis magistras Hermanas iš Zalcos pasiuntė Hermaną Balką eiti magistro pareigų Prūsijoje.
 - susijęs iš [[objektai/asmenys/Hermanas Balkas.md#claim-t-89817|Hermanas Balkas]]: Hermanas Balkas buvo Hermano iš Zalcos atsiųstas eiti magistro pareigas po brolio Konrado prašymo atsiųsti daugiau brolių ir ginklanešių.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59930|Konradas (Mazovijos kunigaikštis)]]: Konradas sumanė pasikviesti Teutonų namų ordino brolius ginti savo žemės, tikėjimo ir tikinčiųjų, nes Kristaus kariai nesulaukė sėkmės.
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59934|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijos vyskupas Kristijonas ragino prūsus priimti krikščionybę.
@@ -89,10 +86,27 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89921|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis buvo Konrado iš Tirbergo Jaunesniojo tikrasis brolis.
 - susijęs iš [[objektai/asmenys/Konradas iš Tuteleno.md#claim-t-60367|Konradas iš Tuteleno]]: Konradas iš Tuteleno, buvęs šventosios Elžbietos kamerarijus, buvo paskirtas pagalbininku Hermanui Balkui.
 - susijęs iš [[objektai/asmenys/Konradas von Jungingen.md#claim-t-30336|Konradas von Jungingen]]: Konradas von Jungingenas 1394 m. vasarą su gausiais svečiais suruošė didelį žygį į Lietuvą.
+- susijęs iš [[objektai/asmenys/Pilypas (Fermo vyskupas).md#claim-t-60411|Pilypas (Fermo vyskupas)]]: Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų.
+- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175119|Sūduviai-jotvingiai]]: Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių.
+- susijęs iš [[objektai/ivykiai/Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.).md#claim-t-62238|Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.)]]: 1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais.
+- susijęs iš [[objektai/ivykiai/Konrado dovanos prūsų pasiuntiniams siekiant malšinti antpuolius.md#claim-t-62328|Konrado dovanos prūsų pasiuntiniams siekiant malšinti antpuolius]]: Kunigaikštis Konradas prūsų pasiuntiniams davė žirgų ir ryškiaspalvių drabužių, tačiau dovanos jų antpuolių nesušvelnino.
+- susijęs iš [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru.md#claim-t-66631|Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]: Po metų Konradas iš Foichtvangeno atsisakė pareigų Prūsijoje ir liko tik Livonijos žemės magistru.
+- susijęs iš [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.).md#claim-t-185716|Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]: Į Prūsiją atvykus Reino krašto didikams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
+- susijęs iš [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.).md#claim-t-185717|Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]: Atvykus Reino krašto pagalbininkams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
+- susijęs iš [[objektai/ivykiai/Mėrūniškių valsčiaus nusiaubimas.md#claim-t-183947|Mėrūniškių valsčiaus nusiaubimas]]: Mėrūniškių valsčių magistras Konradas smarkiai nusiaubė degindamas ir plėšdamas, nukovęs arba paėmęs į nelaisvę 600 vyrų ir moterų.
+- susijęs iš Henriko iš Hohenlohės pranešimas: Hohenlohės reliacijoje teigiama, kad Konradas dovanojo Ordinui Kulmo ir Lubavos žemes bei būsimas iš pagonių atkovotas žemes.
+- susijęs iš Mozūrai: Mozūrų kunigaikštis Konradas įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.
+- susijęs iš [[objektai/asmenys/Albertas fon Hagenas.md#claim-t-186092|Albertas fon Hagenas]]: Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį bei miestą, manydamas, kad jie liko be gynėjų.
+- susijęs iš [[objektai/asmenys/Bansas.md#claim-t-60089|Bansas]]: Bansas, Pabečių valsčiaus kamerarijus, buvo kaltinamas sukurstęs prūsus atsimesti nuo krikščionybės.
+- susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59837|Ditrichas (Sembos fogtas)]]: Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.
+- susijęs iš [[objektai/asmenys/Ditrichas iš Bernheimo.md#claim-t-59908|Ditrichas iš Bernheimo]]: Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją.
+- susijęs iš [[objektai/asmenys/Ditrichas iš Gaterslebeno.md#claim-t-60265|Ditrichas iš Gaterslebeno]]: Ditrichas iš Gaterslebeno buvo aštuntasis Prūsijos žemės magistras ir nuo 1271 m. vadovavo šešerius metus.
+- susijęs iš [[objektai/asmenys/Helvigas fon Goldbachas.md#claim-t-186208|Helvigas fon Goldbachas]]: Žemaičiai per sėkmingus išpuolius prieš kryžiuočius paėmė į nelaisvę Christburgo komtūrą Helvigą fon Goldbachą.
+- susijęs iš [[objektai/asmenys/Henrikas iš Berkos.md#claim-t-60311|Henrikas iš Berkos]]: Henrikas iš Berkos iš Tiuringijos buvo paskirtas Ditricho iš Bernheimo pagalbininku su ginklanešiais ir daugybe žirgų.
+- susijęs iš [[objektai/asmenys/Hermanas Balkas.md#claim-t-89816|Hermanas Balkas]]: 1230 m. didysis magistras Hermanas iš Zalcos pasiuntė Hermaną Balką eiti magistro pareigų Prūsijoje.
 - susijęs iš [[objektai/asmenys/Kristijonas.md#claim-t-93432|Kristijonas]]: 1230 m. Mozūrų kunigaikštis Konradas ir prūsų vyskupas Kristijonas pasikvietė Kryžiuočių ordiną gintis nuo prūsų puolimų.
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59894|Mstivojus]]: Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas valdė prieš brolių valią.
 - susijęs iš [[objektai/asmenys/Petras (Krokuvos vaivada).md#claim-t-186155|Petras (Krokuvos vaivada)]]: Petras, Krokuvos vaivada, buvo paskirtas vadovauti puolimui, per kurį plėšiant ir siaubiant smogta Švarnui.
-- susijęs iš [[objektai/asmenys/Pilypas (Fermo vyskupas).md#claim-t-60411|Pilypas (Fermo vyskupas)]]: Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų.
 - susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79219|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79220|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-184897|Švitrigaila]]: Konradui du mėnesius nesėkmingai puolus Vilnių, Švitrigaila nutarė miesto puolime griebtis apgaulės.
@@ -102,22 +116,15 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178860|Kryžiuočių ordinas]]: Hermanas iš Zalcos, Teutonų ordino didysis magistras, 1230 m. atsiuntė Hermaną Balką eiti magistro pareigų.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179023|Kryžiuočių ordinas]]: 1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais.
 - susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65933|Nadruviai]]: Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, o šis nusiaubė Retavos valsčių.
-- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175119|Sūduviai-jotvingiai]]: Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175120|Sūduviai-jotvingiai]]: Prie Vinso miško brolių kariuomenę pasivijo 3000 rinktinių sūduvių vyrų, bet broliai juos užpuolė ir privertė trauktis.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89238|Sūduviai]]: Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89241|Sūduviai]]: Prie Vinso miško brolių kariuomenę pasivijo 3000 rinktinių sūduvių vyrų, bet broliai juos užpuolė ir privertė trauktis.
 - susijęs iš [[objektai/ivykiai/Bisenės pilies užkariavimas.md#claim-t-66499|Bisenės pilies užkariavimas]]: Konradas iš Tirbergo su didele kariuomene perėjo užšalusį Nemuną, puolė Bisenės pilį, įsiveržė į ją ir sudegino.
-- susijęs iš [[objektai/ivykiai/Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.).md#claim-t-62238|Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.)]]: 1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais.
 - susijęs iš [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje.md#claim-t-91913|Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]: Konrado iš Tirbergo pasiųstas Sembos fogtas Ditrichas su kariuomene Retavos valsčiuje užėmė ir sudegino dvi pilis.
 - susijęs iš [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema).md#claim-t-183929|Karšuvos žemės nusiaubimas (1303 m. žiema)]]: 1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.
 - susijęs iš [[objektai/ivykiai/Karšuvos žemės nusiaubimas (1303 m. žiema).md#claim-t-62821|Karšuvos žemės nusiaubimas (1303 m. žiema)]]: 1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.
-- susijęs iš [[objektai/ivykiai/Konrado dovanos prūsų pasiuntiniams siekiant malšinti antpuolius.md#claim-t-62328|Konrado dovanos prūsų pasiuntiniams siekiant malšinti antpuolius]]: Kunigaikštis Konradas prūsų pasiuntiniams davė žirgų ir ryškiaspalvių drabužių, tačiau dovanos jų antpuolių nesušvelnino.
-- susijęs iš [[objektai/ivykiai/Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru.md#claim-t-66631|Konrado iš Foichtvangeno paskyrimas Prūsijos ir Livonijos magistru]]: Po metų Konradas iš Foichtvangeno atsisakė pareigų Prūsijoje ir liko tik Livonijos žemės magistru.
-- susijęs iš [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.).md#claim-t-185716|Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]: Į Prūsiją atvykus Reino krašto didikams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
-- susijęs iš [[objektai/ivykiai/Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.).md#claim-t-185717|Konrado žygis į Gardino kraštą ir Eberhardo fon Firneburgo Aukaimio pilies užėmimas (1303-1304 m.)]]: Atvykus Reino krašto pagalbininkams, magistras Konradas dviem žygio voromis įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
 - susijęs iš [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas.md#claim-t-66640|Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]: Kunigaikštis Kristaus karių ordinui perdavė Dobrynės pilį ir žemės plotą Kujavijoje, vadintą Sedlcais.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus.md#claim-t-01678|Kryžiuočių ordino atsikraustymas į Prūsus]]: Kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir rūpintis vietinių bei aplinkinių krikščionių apsauga.
-- susijęs iš [[objektai/ivykiai/Mėrūniškių valsčiaus nusiaubimas.md#claim-t-183947|Mėrūniškių valsčiaus nusiaubimas]]: Mėrūniškių valsčių magistras Konradas smarkiai nusiaubė degindamas ir plėšdamas, nukovęs arba paėmęs į nelaisvę 600 vyrų ir moterų.
 - susijęs iš [[objektai/ivykiai/Mėrūniškių valsčiaus nusiaubimas.md#claim-t-62402|Mėrūniškių valsčiaus nusiaubimas]]: Magistras Konradas su raitija įsiveržė į Sūduvos Mėrūniškių valsčių ir nukovė 18 žymių šio valsčiaus viešpačių.
 - susijęs iš [[objektai/ivykiai/Pakimos valsčiaus nusiaubimas.md#claim-t-183952|Pakimos valsčiaus nusiaubimas]]: Konradas iš Tirbergo Jaunesnysis po Pakimos nusiaubimo su kariuomene vakare perėjo užšalusį Nagutino ežerą.
 - susijęs iš [[objektai/ivykiai/Pakimos valsčiaus nusiaubimas.md#claim-t-62425|Pakimos valsčiaus nusiaubimas]]: Konradas iš Tirbergo Jaunesnysis įsiveržė į Sūduvos žemės Pakimos valsčių, jį nusiaubė, sudegino ir apiplėšė.
@@ -128,7 +135,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - susijęs iš [[objektai/paprociai/Viešoji krikščionių atgaila ir saviplaka.md#claim-t-62725|Viešoji krikščionių atgaila ir saviplaka]]: Brolis Konradas viešai atgailavo Friclare: ėjo basas ir plika galva, puolė prieš bažnyčios duris ir leido žmonėms jį plakti.
 - susijęs iš [[objektai/posakiai/Pusę darbo padaro tasai, kas netrunka jo imtis.md#claim-t-59158|Pusę darbo padaro tasai, kas netrunka jo imtis]]: Posakis „Pusę darbo padaro tasai, kas netrunka jo imtis“ kronikoje pateikiamas kaip poeto žodžiai, kuriuos prisiminęs Lenkijos kunigaikštis pastatė pilį prie Torunės.
 - susijęs iš Didžiųjų magistrų jaunesnioji kronika: Didžiųjų magistrų jaunesniojoje kronikoje rašoma, kad pagonys pasiuntė lietuvius Prerochą ir Corantą.
-- susijęs iš Henriko iš Hohenlohės pranešimas: Hohenlohės reliacijoje teigiama, kad Konradas dovanojo Ordinui Kulmo ir Lubavos žemes bei būsimas iš pagonių atkovotas žemes.
 - susijęs iš Pasakojimas apie Teutonų ordino pradžią: „Pasakojime apie Vokiečių ordino pradžią“ nurodoma, kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę.
 - susijęs iš Volynės metraštis: Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“.
 - susijęs iš Dubysa: Dubysos žiočių saloje 1382 m. spalio 31 d. po šešių dienų derybų buvo surašytos trys sutartys.
@@ -144,7 +150,6 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 - susijęs iš Kulmas: Mozūrų kunigaikštis Konradas vyskupą Kristijoną įkurdino Mozūrams priklausiusio Kulmo žemės pakraštyje.
 - susijęs iš Kulmija: 1230 m. Mozūrijos kunigaikštis Konradas kryžiuočiams užrašė Kulmiją.
 - susijęs iš Lietuva: Riterių magistras Konradas su savo ir svetimšalių kariuomene pavasario pabaigoje patraukė į Lietuvą.
-- susijęs iš Mozūrai: Mozūrų kunigaikštis Konradas įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.
 - susijęs iš Mėrūniškis: Ordino magistras Konradas su raitija įsiveržė į Mėrūniškio valsčių, jį nusiaubė ir nukovė arba paėmė į nelaisvę 600 žmonių.
 - susijęs iš Mėrūniškis: Ordino magistras Konradas su raitija įsiveržė į Mėrūniškio valsčių, jį nusiaubė ir nukovė arba paėmė į nelaisvę 600 žmonių.
 - susijęs iš Nadruva: Magistras Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, kur Retavos valsčius buvo nusiaubtas plėšiant ir deginant.
@@ -196,6 +201,12 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=445daff2d5b04f6e40fd1283072c80aaaf3b6e13c5f2f9d5571037f2efced5ab; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Ryšiai
 - Konradas buvo_valdovas [[objektai/vietos/Mozūrija]]
+- [[objektai/asmenys/Fridrichas II]] buvo_sunus Konradas
+- [[objektai/asmenys/Konradas (Skalvių pilies gynėjas)]] buvo_brolis Konradas
+- Konradas keliavo_i [[objektai/vietos/Lenkija]]

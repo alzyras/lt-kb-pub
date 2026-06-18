@@ -27,6 +27,16 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
   susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kafa; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 212360-212895; hash=afa0cb36755fc24b63c383b25b606a8af1ddb99b232879430fc4f5280a771d7d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kafa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Musat-chanas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kafa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Musat-chanas" parinktas kaip owner_note_path. Targetas "Kafa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-183755"></a>
 - t-002
@@ -39,6 +49,16 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
   susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kafa; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 212360-212895; hash=afa0cb36755fc24b63c383b25b606a8af1ddb99b232879430fc4f5280a771d7d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kafa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Musat-chanas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kafa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Musat-chanas" parinktas kaip owner_note_path. Targetas "Kafa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -67,4 +87,24 @@ Kafos apylinkės buvo pavestos valdyti į Lietuvos pusę perėjusiam totorių ca
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 212360-212895; hash=afa0cb36755fc24b63c383b25b606a8af1ddb99b232879430fc4f5280a771d7d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kafa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Musat-chanas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kafa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Musat-chanas" parinktas kaip owner_note_path. Targetas "Kafa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 212360-212895; hash=afa0cb36755fc24b63c383b25b606a8af1ddb99b232879430fc4f5280a771d7d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kafa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Musat-chanas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kafa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Musat-chanas" parinktas kaip owner_note_path. Targetas "Kafa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

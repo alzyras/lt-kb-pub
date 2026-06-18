@@ -30,12 +30,22 @@ Dokumento preambulėje, be kitų nuostatų, buvo priminti ankstesni Lenkijos ir 
   global_id: t-20946
   teiginys: '1994 m. Lietuvos ir Lenkijos sutarties preambulėje abi valstybės patvirtino dabartinių teritorijų „su sostinėmis Vilniumi ir Varšuva“ vientisumą.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako sutarties preambulėje patvirtintą teritorijų vientisumą.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Varšuva; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1994 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako sutarties preambulėje patvirtintą teritorijų vientisumą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 526095-526881; hash=bb5e0f577555938fc046bd8da1e67a5fdd31c7cd6546bdb06197e9a3464265c1; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: „su sostinėmis Vilniumi ir Varšuva vientisumą[as] dabar ir ateityje“: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„su sostinėmis Vilniumi ir Varšuva vientisumą[as] dabar ir ateityje“" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183507"></a>
 - t-002
@@ -45,12 +55,22 @@ Dokumento preambulėje, be kitų nuostatų, buvo priminti ankstesni Lenkijos ir 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai paremtas citata apie 1994 m. sutartį.'
-  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Varšuva; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1994 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai paremtas citata apie 1994 m. sutartį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 526095-526881; hash=bb5e0f577555938fc046bd8da1e67a5fdd31c7cd6546bdb06197e9a3464265c1; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: „su sostinėmis Vilniumi ir Varšuva vientisumą[as] dabar ir ateityje“: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„su sostinėmis Vilniumi ir Varšuva vientisumą[as] dabar ir ateityje“" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir Lenkijos draugiškų santykių ir gero kaimyninio bendradarbiavimo sutarties pasirašymas (1994 m. balandžio 26 d.).md#claim-t-75143|Lietuvos ir Lenkijos draugiškų santykių ir gero kaimyninio bendradarbiavimo sutarties pasirašymas (1994 m. balandžio 26 d.)]]: Lietuvos ir Lenkijos sutarties preambulėje pasmerktas smurtas abiejų tautų santykiuose ir patvirtintas dabartinių teritorijų vientisumas.
 - susijęs iš Lietuvos ir Lenkijos draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartis: Lietuvos ir Lenkijos sutarties preambulėje pasmerktas smurtas tarpusavio santykiuose ir patvirtintas abiejų šalių teritorijų vientisumas.
 ## Reikšmingi paminėjimai
@@ -76,4 +96,24 @@ Dokumento preambulėje, be kitų nuostatų, buvo priminti ankstesni Lenkijos ir 
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 526095-526881; hash=bb5e0f577555938fc046bd8da1e67a5fdd31c7cd6546bdb06197e9a3464265c1; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: „su sostinėmis Vilniumi ir Varšuva vientisumą[as] dabar ir ateityje“: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„su sostinėmis Vilniumi ir Varšuva vientisumą[as] dabar ir ateityje“" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 526095-526881; hash=bb5e0f577555938fc046bd8da1e67a5fdd31c7cd6546bdb06197e9a3464265c1; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: „su sostinėmis Vilniumi ir Varšuva vientisumą[as] dabar ir ateityje“: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "„su sostinėmis Vilniumi ir Varšuva vientisumą[as] dabar ir ateityje“" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

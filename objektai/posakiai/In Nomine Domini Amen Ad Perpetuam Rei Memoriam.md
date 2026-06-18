@@ -24,6 +24,9 @@ Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensi
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs lotyniškas fragmentas ir paliktas citatoje esantis vertimas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 488057-488732; hash=647dd5498c9bab3d855fc422e9d9fd5eaf3a87791b2e99d4d25ed8e395fe4cb2; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -53,3 +56,6 @@ Quum Nobis Exposuisset Venerabilis Valentinus a Pilzno Vilnensis, et Luceoriensi
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 488057-488732; hash=647dd5498c9bab3d855fc422e9d9fd5eaf3a87791b2e99d4d25ed8e395fe4cb2; match=whitespace_regex
+  sprendimo_priezastis: auto

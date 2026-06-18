@@ -45,6 +45,9 @@ Jį valdė Vilniaus generalgubernatorius.
   sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina generalgubernatoriaus instituciją ir yra paremtas citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 184680-184966; hash=843beb63e5a7e86e69ce470158bd62811ec0492ad6eb8d2d8180320b7b0a175f; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 <a id="claim-t-182947"></a>
 - t-003
@@ -57,15 +60,25 @@ Jį valdė Vilniaus generalgubernatorius.
   susije_objektai: 'mentioned_place: Anglija; mentioned_place: Prancūzija; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 892510-892740; hash=040772d0c5091146b71d3726b4cb22263d7aecd6fdd26ed8a383ee5cf35e0bdc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: generalgubernatorius: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "generalgubernatorius" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Michailas Muravjovas-Korikas.md#claim-t-87779|Michailas Muravjovas-Korikas]]: Michailas Muravjovas-Korikas po 1863 m. sukilimo buvo naujai paskirtas Vilniaus generalgubernatorius ir vykdė represijas krašte.
+- susijęs iš [[objektai/asmenys/V. Nazimovas.md#claim-t-40489|V. Nazimovas]]: Šiaurės Vakarų krašto generalgubernatorius V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį ir sunaikinti sukilėlius.
+- susijęs iš [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m.md#claim-t-54215|Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]: Rusinimo politikos 1864–1904 m. ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą.
 - susijęs iš [[objektai/asmenys/Ivanas Kornilovas.md#claim-t-18931|Ivanas Kornilovas]]: Ivanas Kornilovas Muravjovo kvietimu prisidėjo prie rusinimo politikos ir buvo paskirtas Vilniaus švietimo apygardos globėju.
 - susijęs iš [[objektai/asmenys/Konstantinas Kalinauskas.md#claim-t-63838|Konstantinas Kalinauskas]]: Michailo Muravjovo įsakymu Konstantinas Kalinauskas buvo pakartas kartu su kitais sukilėliais.
 - susijęs iš [[objektai/asmenys/M. Muravjovas.md#claim-t-78025|M. Muravjovas]]: Vilniaus generalgubernatorius M. Muravjovas rusinimo politikai vykdyti pasikvietė Ivaną Kornilovą.
-- susijęs iš [[objektai/asmenys/Michailas Muravjovas-Korikas.md#claim-t-87779|Michailas Muravjovas-Korikas]]: Michailas Muravjovas-Korikas po 1863 m. sukilimo buvo naujai paskirtas Vilniaus generalgubernatorius ir vykdė represijas krašte.
 - susijęs iš [[objektai/asmenys/Michailas Muravjovas.md#claim-t-71340|Michailas Muravjovas]]: Naujasis generalgubernatorius Michailas Muravjovas, pramintas „Koriku“, siekdamas įbauginti Lietuvos gyventojus, įsakė karti sukilėlius.
 - susijęs iš [[objektai/asmenys/T. Dalevskis.md#claim-t-40451|T. Dalevskis]]: T. Dalevskiui buvo įvykdyta egzekucija kartu su B. Kolyška, Z. Sierakausku, K. Kalinausku, A. Mackevičiumi ir kitais.
-- susijęs iš [[objektai/asmenys/V. Nazimovas.md#claim-t-40489|V. Nazimovas]]: Šiaurės Vakarų krašto generalgubernatorius V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį ir sunaikinti sukilėlius.
 - susijęs iš [[objektai/ivykiai/Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.).md#claim-t-01595|Blaivybės brolijų ir susibūrimų uždraudimas (1863 m.)]]: Vilniaus generalgubernatorius ir Kauno gubernatorius draudė blaivybės brolijas, nes tuo metu buvo uždraustos visos draugijos.
-- susijęs iš [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m.md#claim-t-54215|Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]: Rusinimo politikos 1864–1904 m. ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą.
 - susijęs iš Baltvyžių girios: Baltvyžių giriose Sviatopolkas Mirskis ir Veriovkinas per medžioklę sutarė prikalbėti carą atšaukti spaudos draudimą.
 - susijęs iš [[objektai/zodynas/rusinimas rusinimo politika.md#claim-t-22286|rusinimas rusinimo politika]]: Rusinimo politikos programa siekė silpninti vietos dvarininkiją ir viešajame gyvenime įtvirtinti rusų kalbą.
 - susijęs iš [[objektai/zodynas/rusinimas.md#claim-t-22289|rusinimas]]: Rusinimo politikos programa siekė silpninti vietos dvarininkiją ir viešajame gyvenime įtvirtinti rusų kalbą.
@@ -98,6 +111,16 @@ Jį valdė Vilniaus generalgubernatorius.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 892510-892740; hash=040772d0c5091146b71d3726b4cb22263d7aecd6fdd26ed8a383ee5cf35e0bdc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Anglija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: generalgubernatorius: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Anglija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "generalgubernatorius" parinktas kaip owner_note_path. Targetas "Anglija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-003
@@ -116,6 +139,9 @@ Jį valdė Vilniaus generalgubernatorius.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 184680-184966; hash=843beb63e5a7e86e69ce470158bd62811ec0492ad6eb8d2d8180320b7b0a175f; match=whitespace_regex
+  sprendimo_priezastis: auto
     - t-001
 
 - c-004

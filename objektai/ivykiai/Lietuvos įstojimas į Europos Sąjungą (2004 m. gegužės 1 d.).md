@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-75222
   teiginys: 'Lietuvai tapus ES nare, šalyje įsigaliojo Sąjungos nuostatos valstybių narių gyventojams.'
   sudarymo_pagrindimas: 'Reikia pašalinti neaiškų įvardį ir pataisyti stilių.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Europa'
   pagrindžia:
     - c-001
 

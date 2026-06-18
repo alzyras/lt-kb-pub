@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-66929
   teiginys: 'Jakaterina II globojo Lenkijos ir Lietuvos reformų priešininkus, o su Rusijos pagalba buvo suorganizuota Targovicos konfederacija.'
   sudarymo_pagrindimas: 'Originalas nutrūkęs ir per ilgas, todėl perrašytas į vientisą sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Targovica'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_place: Targovica; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1791 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Originalas nutrūkęs ir per ilgas, todėl perrašytas į vientisą sakinį.'
@@ -61,7 +61,7 @@ Nenurodyta
 - t-002
   global_id: t-66931
   teiginys: 'Rusija suorganizavo reformų priešininkų Targovicos konfederaciją ir parėmė ją savo kariuomene.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Rusija; mentioned_place: Targovica'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Targovicos konfederacija|Targovicos konfederacija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Targovica; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 

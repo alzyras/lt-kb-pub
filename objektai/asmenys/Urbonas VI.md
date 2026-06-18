@@ -32,26 +32,56 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
   global_id: t-82773
   teiginys: 'Popiežius Urbonas VI per pasiuntinį Dobrogostą paskelbė bulę, kuria Vilniaus bažnyčia pripažinta katedra.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį apie Urbono VI bulę ir jos paskelbimą per pasiuntinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Poznanė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Poznanė'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f3cd1212a1577dbc011194da100393eaf56cfaf0039e88fff331a984c88415d4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrogostas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Urbonas VI: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dobrogostas: mention_match, person, gap=66
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Urbonas VI" parinktas kaip owner_note_path. Targetas "Dobrogostas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-82774"></a>
 - t-002
   global_id: t-82774
   teiginys: 'Urbonas VI per pasiuntinį Dobrogostą patvirtino Vilniaus katedrą ir vyskupą Andrių Vilniaus vyskupijoje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_place: Poznanė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_place: Vilnius; mentioned_place: Poznanė'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=863b07ac0aeba3cc230c8ea15a7b2f2a1d898d55d8d6126a6ec3c9d88137ac65; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrogostas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Urbonas VI: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dobrogostas: mention_match, person, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Urbonas VI" parinktas kaip owner_note_path. Targetas "Dobrogostas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-82775"></a>
 - t-003
   global_id: t-82775
   teiginys: 'Popiežius Urbonas VI išgyrė apsikrikštijusius lietuvius ir įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas pateikta citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_place: Lietuva; mentioned_place: Gniezno; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 255520-256164; hash=702e4679605b534bac0abe583c310f402380f1c9f653f3664bcb309a9ad50ef1; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrogostas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Urbonas VI: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dobrogostas: mention_match, person, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Urbonas VI" parinktas kaip owner_note_path. Targetas "Dobrogostas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Dobrogostas.md#claim-t-82256|Dobrogostas]]: Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą tvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją.
 - susijęs iš [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas.md#claim-t-176181|Vilniaus vyskupystės įkūrimas]]: Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją.
 - susijęs iš [[objektai/zodynas/brevė.md#claim-t-34291|brevė]]: Popiežius Urbonas VI 1388 m. balandžio 8 d. breve išgyrė apsikrikštijusius lietuvius ir įgaliojo Dobrogostą tvarkyti Bažnyčios reikalus Lietuvoje.
@@ -92,6 +122,16 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 255520-256164; hash=702e4679605b534bac0abe583c310f402380f1c9f653f3664bcb309a9ad50ef1; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrogostas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Urbonas VI: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dobrogostas: mention_match, person, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Urbonas VI" parinktas kaip owner_note_path. Targetas "Dobrogostas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -112,4 +152,24 @@ Joje popiežius Urbonas VI išgyrė apsikrikštiju­ sius lietuvius, o vysk.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f3cd1212a1577dbc011194da100393eaf56cfaf0039e88fff331a984c88415d4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrogostas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Urbonas VI: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dobrogostas: mention_match, person, gap=66
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Urbonas VI" parinktas kaip owner_note_path. Targetas "Dobrogostas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=863b07ac0aeba3cc230c8ea15a7b2f2a1d898d55d8d6126a6ec3c9d88137ac65; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dobrogostas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Urbonas VI: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dobrogostas: mention_match, person, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Urbonas VI" parinktas kaip owner_note_path. Targetas "Dobrogostas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

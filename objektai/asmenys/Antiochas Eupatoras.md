@@ -25,6 +25,16 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
   semantiniai_rysiai: '[[objektai/asmenys/Antiochas Eupatoras|Antiochas Eupatoras]] kariavo prieš [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c4acf23847fa4e16ed003e88ca582ef0197c72731862f23846f04ec5d550028a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: kariavo_pries -> Judas Makabėjus: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_combat_counterparty
+  ryšio_subjekto_parinkimas: Antiochas Eupatoras: owner_note_path, person, gap=10
+  ryšio_targeto_parinkimas: Judas Makabėjus: counterparty_iteration, person, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Antiochas Eupatoras" parinktas kaip owner_note_path. Targetas "Judas Makabėjus" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
 
 ## Reikšmingi paminėjimai
 
@@ -45,6 +55,16 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c4acf23847fa4e16ed003e88ca582ef0197c72731862f23846f04ec5d550028a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: kariavo_pries -> Judas Makabėjus: 0.91
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_combat_counterparty
+  ryšio_subjekto_parinkimas: Antiochas Eupatoras: owner_note_path, person, gap=10
+  ryšio_targeto_parinkimas: Judas Makabėjus: counterparty_iteration, person, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_combat_counterparty". Subjektas "Antiochas Eupatoras" parinktas kaip owner_note_path. Targetas "Judas Makabėjus" parinktas kaip counterparty_iteration aplink predikatą "kariavo". Patikimumą lėmė: single_candidate_target, same_sentence_locality, multiple_competing_people.
 
 ## Ryšiai
 - Antiochas Eupatoras kariavo_pries [[objektai/asmenys/Judas Makabėjus]]

@@ -52,6 +52,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Citata leidžia teiginį padaryti konkretesnį ir aiškiau susietą su sukilimo eiga.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 488226-488604; hash=001dc95090dd46b5092f0dd7fe265e89982e2531d63f090e9e67e47c98a0424b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kazokai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.): owner_note_path, event
+  ryšio_targeto_parinkimas: Kazokai: mention_match, group, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-39100"></a>
 - t-002
@@ -61,6 +71,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Lietuva; mentioned_place: Lojevas; mentioned_place: Ovručas; mentioned_place: Ukraina'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 489218-489707; hash=a3a3c51ab385c8035ad3d39214d586c21e2080e70a59c29aeac5fe32a57152fc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kazokai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kazokai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -104,4 +124,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 488226-488604; hash=001dc95090dd46b5092f0dd7fe265e89982e2531d63f090e9e67e47c98a0424b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kazokai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.): owner_note_path, event
+  ryšio_targeto_parinkimas: Kazokai: mention_match, group, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 489218-489707; hash=a3a3c51ab385c8035ad3d39214d586c21e2080e70a59c29aeac5fe32a57152fc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kazokai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kazokai: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bogdano Chmelnickio vadovaujamas Ukrainos kazokų sukilimas (1648–1651 m.)" parinktas kaip owner_note_path. Targetas "Kazokai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -26,6 +26,9 @@ Lietuvos sritinės kunigaikštystės buvo laikomos ne kunigaikščio nuosava val
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 338897-339263; hash=f1a0698502856251ed16b9969b7eed07d08dd2cd212fbf16c3724f8fe4942d7b; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -45,3 +48,6 @@ Lietuvos sritinės kunigaikštystės buvo laikomos ne kunigaikščio nuosava val
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 338897-339263; hash=f1a0698502856251ed16b9969b7eed07d08dd2cd212fbf16c3724f8fe4942d7b; match=exact
+  sprendimo_priezastis: auto

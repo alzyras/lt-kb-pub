@@ -40,6 +40,16 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
   temporalinis_llm_pakomentavimas: 'Teiginys yra enciklopedinis ir paremtas citatoje nurodyta M. Pretorijaus nuomone.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 211294-211746; hash=cbfb83ee1455ad1a82454d2ad3d64c9f9bffc37bea5ea53977f4b5fc7b8831c0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Prätorius, Deliciae: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Prätorius, Deliciae" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60954"></a>
 - t-002
@@ -49,18 +59,38 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
   susije_objektai: 'mentioned_place: Auksinė; mentioned_place: Norkyčiai'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 213213-213945; hash=d006a349602890be76a51b98a4a4ccc35d3665ce4b52501f816461d7dcbd71be; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Prätorius, Deliciae: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Prätorius, Deliciae" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60955"></a>
 - t-003
   global_id: t-60955
   teiginys: 'M. Prätoriaus „Deliciae“ nurodoma, kad Pisos dešinysis intakas Golba prie Narpiškių kaimo buvęs šventas.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, o pradinis teiginys nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Gumbinė; mentioned_place: Kaimas; mentioned_place: Stalupėnai'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Gumbinė; mentioned_place: Stalupėnai'
   temporaliniai_duomenys: 'įvykio data: 1595 m.; įvykio data: 1915 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą, o pradinis teiginys nutrūkęs.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 216923-217178; hash=1c44c873bbb22021b3e97025511e37ddeb25ef24926646e918cd97fe6b30164d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Auksinė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Prätorius, Deliciae: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Auksinė: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Prätorius, Deliciae" parinktas kaip owner_note_path. Targetas "Auksinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -97,6 +127,16 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 211294-211746; hash=cbfb83ee1455ad1a82454d2ad3d64c9f9bffc37bea5ea53977f4b5fc7b8831c0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Prätorius, Deliciae: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Baltai: mention_match, group, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Prätorius, Deliciae" parinktas kaip owner_note_path. Targetas "Baltai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -111,4 +151,24 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 216923-217178; hash=1c44c873bbb22021b3e97025511e37ddeb25ef24926646e918cd97fe6b30164d; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Auksinė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Prätorius, Deliciae: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Auksinė: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Prätorius, Deliciae" parinktas kaip owner_note_path. Targetas "Auksinė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 213213-213945; hash=d006a349602890be76a51b98a4a4ccc35d3665ce4b52501f816461d7dcbd71be; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: M. Prätorius, Deliciae: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "M. Prätorius, Deliciae" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

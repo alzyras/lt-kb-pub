@@ -34,6 +34,16 @@ Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežia
   susije_objektai: 'mentioned_group: [[objektai/grupes/Cistersų ordinas|Cistersų ordinas]]; mentioned_group: [[objektai/grupes/Švento Jono ligoninės ordinas|Švento Jono ligoninės ordinas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a4d51aef125870c983d6fe12c2d31fb4efde0dbc1f3b9ab56787c3df928f5d14; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Cistersų ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kartūzų ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Cistersų ordinas: mention_match, group, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kartūzų ordinas" parinktas kaip owner_note_path. Targetas "Cistersų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Kluniečių ordinas.md#claim-t-63010|Kluniečių ordinas]]: Kluniečių ordinas datuojamas 900 Viešpaties metais, popiežiaus Adrijono III laikais.
 ## Reikšmingi paminėjimai
 
@@ -49,3 +59,13 @@ Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežia
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a4d51aef125870c983d6fe12c2d31fb4efde0dbc1f3b9ab56787c3df928f5d14; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Cistersų ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kartūzų ordinas: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Cistersų ordinas: mention_match, group, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kartūzų ordinas" parinktas kaip owner_note_path. Targetas "Cistersų ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

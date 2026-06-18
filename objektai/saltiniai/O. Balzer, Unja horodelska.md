@@ -35,6 +35,9 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį faktą apie leidinio metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1006815-1006873; hash=139a5c68784158a8426d12d221e610c428b1c490be8dd36d24045731ef00771f; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +50,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1006815-1006873; hash=139a5c68784158a8426d12d221e610c428b1c490be8dd36d24045731ef00771f; match=exact
+  sprendimo_priezastis: auto

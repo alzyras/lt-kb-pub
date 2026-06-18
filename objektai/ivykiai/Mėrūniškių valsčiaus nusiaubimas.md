@@ -41,6 +41,16 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 514148-514656; hash=ecf3dfabea8c58a5228d9ca66fe68ff72a5c557789257367cd6da354a0e6cfb0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konradas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mėrūniškių valsčiaus nusiaubimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mėrūniškių valsčiaus nusiaubimas" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-183947"></a>
 - t-002
@@ -53,6 +63,16 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 514148-514656; hash=ecf3dfabea8c58a5228d9ca66fe68ff72a5c557789257367cd6da354a0e6cfb0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konradas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mėrūniškių valsčiaus nusiaubimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mėrūniškių valsčiaus nusiaubimas" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -76,4 +96,24 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 514148-514656; hash=ecf3dfabea8c58a5228d9ca66fe68ff72a5c557789257367cd6da354a0e6cfb0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konradas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mėrūniškių valsčiaus nusiaubimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=39
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mėrūniškių valsčiaus nusiaubimas" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 514148-514656; hash=ecf3dfabea8c58a5228d9ca66fe68ff72a5c557789257367cd6da354a0e6cfb0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konradas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mėrūniškių valsčiaus nusiaubimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Konradas: mention_match, person, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mėrūniškių valsčiaus nusiaubimas" parinktas kaip owner_note_path. Targetas "Konradas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

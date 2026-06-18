@@ -25,6 +25,9 @@ Mindaugas užsidarė pilyje-vorutoje. Voruta šiame gabale vaizduojama kaip gyny
   susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0624c443f50ca788e8d5a912e7749b87b3f9c6857546bca7c8173bd6e0de89d3; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
 
 <a id="claim-t-187397"></a>
 - t-003
@@ -34,6 +37,9 @@ Mindaugas užsidarė pilyje-vorutoje. Voruta šiame gabale vaizduojama kaip gyny
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0624c443f50ca788e8d5a912e7749b87b3f9c6857546bca7c8173bd6e0de89d3; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
 
 <a id="claim-t-187688"></a>
 - t-005
@@ -44,9 +50,12 @@ Mindaugas užsidarė pilyje-vorutoje. Voruta šiame gabale vaizduojama kaip gyny
   patikimumo_saltinis: 'ai'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-187709|Jotvingiai]]: Lietuvos metraštyje Mindaugo svainis po Mindaugo pasitraukimo į Vorutos pilį naktį išvaikė rusus ir jotvingius.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0624c443f50ca788e8d5a912e7749b87b3f9c6857546bca7c8173bd6e0de89d3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis.md#claim-t-187497|Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]: Mindaugas, pasak metraščio, nesiryžo kautis atvirame lauke ir užsidarė Vorutos pilyje.
 - susijęs iš [[objektai/ivykiai/Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis.md#claim-t-187500|Tautvilos ir sąjungininkų žygis prieš Mindaugą bei Vorutos apgultis]]: Lietuvos metraštis pasakoja, kad prie Vorutos Mindaugo kariai su arbaletais išjojo prieš vokiečius, o rusai, polovcai ir jotvingiai vaikėsi po lauką.
+- susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-187709|Jotvingiai]]: Lietuvos metraštyje Mindaugo svainis po Mindaugo pasitraukimo į Vorutos pilį naktį išvaikė rusus ir jotvingius.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,7 +73,36 @@ Mindaugas užsidarė pilyje-vorutoje. Voruta šiame gabale vaizduojama kaip gyny
   statusas: verified
   pagrindžia:
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0624c443f50ca788e8d5a912e7749b87b3f9c6857546bca7c8173bd6e0de89d3; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0624c443f50ca788e8d5a912e7749b87b3f9c6857546bca7c8173bd6e0de89d3; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0624c443f50ca788e8d5a912e7749b87b3f9c6857546bca7c8173bd6e0de89d3; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Voruta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voruta" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0624c443f50ca788e8d5a912e7749b87b3f9c6857546bca7c8173bd6e0de89d3; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Voruta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=19
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Voruta" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0624c443f50ca788e8d5a912e7749b87b3f9c6857546bca7c8173bd6e0de89d3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

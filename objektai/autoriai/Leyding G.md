@@ -36,6 +36,9 @@ Dusburgietis teigia, kad see, lyginame su 1401 m. dokumentų Colmen/Kaelmen (GAO
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkretų autoriaus žodyne pateiktų vardų faktą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 183751-184024; hash=a9ecaf2dded8da44eeb89b312699a84d73e7e894035f8110e0a01bc185631289; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -52,3 +55,6 @@ Dusburgietis teigia, kad see, lyginame su 1401 m. dokumentų Colmen/Kaelmen (GAO
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 183751-184024; hash=a9ecaf2dded8da44eeb89b312699a84d73e7e894035f8110e0a01bc185631289; match=exact
+  sprendimo_priezastis: auto

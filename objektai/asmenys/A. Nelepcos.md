@@ -24,6 +24,16 @@ Nelepcos vadovaujama maždaug 30 karių grupė puolė Pacų rūmus, kuriuose buv
   susije_objektai: 'mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/muškietininkai|muškietininkai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 614590-614858; hash=709993e215ab00ec179bebe5b46df95687610eb29806fb14dc54c7d68ad7197e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pacai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Nelepcos: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Pacai: mention_match, group, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Nelepcos" parinktas kaip owner_note_path. Targetas "Pacai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Nikolajus Arsenjevas.md#claim-t-40372|Nikolajus Arsenjevas]]: Nikolajus Arsenjevas buvo rusų Vilniaus įgulos vadas, kurį sukilėliai paėmė į nelaisvę Pacų rūmuose.
 - susijęs iš [[objektai/ivykiai/Vilniaus išvadavimas (1794 m. balandžio 22–23 d.).md#claim-t-41380|Vilniaus išvadavimas (1794 m. balandžio 22–23 d.)]]: Per Vilniaus išvadavimą A. Nelepcos vadovaujama apie 30 karių grupė puolė Pacų rūmus.
 ## Reikšmingi paminėjimai
@@ -45,3 +55,13 @@ Nelepcos vadovaujama maždaug 30 karių grupė puolė Pacų rūmus, kuriuose buv
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 614590-614858; hash=709993e215ab00ec179bebe5b46df95687610eb29806fb14dc54c7d68ad7197e; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pacai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: A. Nelepcos: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Pacai: mention_match, group, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "A. Nelepcos" parinktas kaip owner_note_path. Targetas "Pacai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

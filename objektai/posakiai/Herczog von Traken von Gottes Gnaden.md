@@ -32,6 +32,9 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir sakinys perrašytas kaip aiškus faktas apie posakio vartojimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5dad9ce253bbe5e3b9caf7cfd00417ae300012aebc45f2bc1a3745db35e42b50; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +52,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5dad9ce253bbe5e3b9caf7cfd00417ae300012aebc45f2bc1a3745db35e42b50; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

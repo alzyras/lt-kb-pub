@@ -30,12 +30,22 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
   global_id: t-58596
   teiginys: '1283 m. Teutonų ordino broliai įkūrė Mevės pilį prie Vyslos, perkėlę Poterbergo pilį iš Kulmo žemės.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo Mevės pilies įkūrimą, datą ir vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Poterbergas; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Poterbergas; mentioned_place: Vysla; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Pomeranija'
   temporaliniai_duomenys: 'įkūrimo data: 1283 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai nurodo Mevės pilies įkūrimą, datą ir vietą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 532868-533443; hash=139dcf981f92d70aff39a4ccf263d0b7b47479e4325d529e5bc37c32526a1ec1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mevė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mevė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-58597"></a>
 - t-002
@@ -48,6 +58,16 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
   temporalinis_llm_pakomentavimas: 'Citata palaiko vietovardžio tapatinimą ir vietą prie Vyslos.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 534605-534744; hash=957acbbbd9726aab0199e1c25bf171aedca4ec0d096fe78caadc4b333daee663; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vysla: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mevė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vysla: mention_match, place, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mevė" parinktas kaip owner_note_path. Targetas "Vysla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -83,4 +103,24 @@ Dusburgietis teigia, kad išklausęs abiejų šalių įrodymų, tas pats legatas
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 534605-534744; hash=957acbbbd9726aab0199e1c25bf171aedca4ec0d096fe78caadc4b333daee663; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vysla: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mevė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vysla: mention_match, place, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mevė" parinktas kaip owner_note_path. Targetas "Vysla" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 532868-533443; hash=139dcf981f92d70aff39a4ccf263d0b7b47479e4325d529e5bc37c32526a1ec1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mevė: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mevė" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

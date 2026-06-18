@@ -53,6 +53,16 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Bieliūnienės sudarytojos vaidmenį.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7984e6f876620572edcd9d190f1aab76904e4f6876a8465b2ab2f9bc54906630; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aldona Gediminaitė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aldona Bieliūnienė: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Aldona Gediminaitė: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aldona Bieliūnienė" parinktas kaip owner_note_path. Targetas "Aldona Gediminaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Lietuva žemėlapiuose = Lithuania on the map: „Lietuva žemėlapiuose = Lithuania on the map“ buvo 1999 m. Vilniuje vykusios parodos katalogas.
 - susijęs iš Lietuva žemėlapiuose = Lithuania on the map: Aldona Bieliūnienė ir kiti parengė 1999 m. Vilniuje išleistą parodos katalogą „Lietuva žemėlapiuose = Lithuania on the map“.
 - susijęs iš Lietuva žemėlapiuose = Lithuania on the map: „Lietuva žemėlapiuose = Lithuania on the map“ buvo 1999 m. Vilniuje vykusios parodos katalogas.
@@ -99,4 +109,24 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7984e6f876620572edcd9d190f1aab76904e4f6876a8465b2ab2f9bc54906630; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aldona Gediminaitė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aldona Bieliūnienė: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Aldona Gediminaitė: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aldona Bieliūnienė" parinktas kaip owner_note_path. Targetas "Aldona Gediminaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 551193-551402; hash=19ac337f498848cb2aa15b179662a59fb095fd2a729d09cfb087b26e12faf4cd; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Aldona Gediminaitė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Aldona Bieliūnienė: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Aldona Gediminaitė: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Aldona Bieliūnienė" parinktas kaip owner_note_path. Targetas "Aldona Gediminaitė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

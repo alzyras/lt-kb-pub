@@ -27,7 +27,7 @@ Vartojamos formos: `batvinių`, `batvinėliai`.
 - t-001
   global_id: t-69980
   teiginys: '`Batviniai` šiame tekste yra mėgstamas senovės lietuvių valgis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
 

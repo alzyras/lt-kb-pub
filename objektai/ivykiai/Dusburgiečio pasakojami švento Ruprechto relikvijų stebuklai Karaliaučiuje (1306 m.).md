@@ -50,6 +50,9 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Pašalinta antraštinė ir perteklinė formuluotė; išlaikyta stebuklo pasakojimo atribucija.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=056ac7780abab532c97cf3ee44ec8a913d9dfc5c6659d701a5a4b1ee15ad7874; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -71,3 +74,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=056ac7780abab532c97cf3ee44ec8a913d9dfc5c6659d701a5a4b1ee15ad7874; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

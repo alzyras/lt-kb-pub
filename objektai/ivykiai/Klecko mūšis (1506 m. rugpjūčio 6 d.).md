@@ -45,7 +45,7 @@ Nenurodyta
 - t-001
   global_id: t-171466
   teiginys: 'Po mūšio lietuviai paėmė arba nukovė daugybę totorių ir paėmė daug belaisvių bei grobio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]'
   pagrindžia:
     - c-003
 
@@ -54,7 +54,7 @@ Nenurodyta
   global_id: t-171467
   teiginys: 'Klecko mūšyje kunigaikštis Mykolas su kairiuoju sparnu perėjo upę, smogė totorių pulkams ir perskėlė juos į dvi dalis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -71,7 +71,7 @@ Nenurodyta
 - t-004
   global_id: t-171470
   teiginys: '1506 m. rugpjūčio 6 d. Lietuvos kariuomenė prie Klecko perėjo upę, išvydo totorių pulkus ir pradėjo mūšį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -90,12 +90,22 @@ Nenurodyta
   global_id: t-171472
   teiginys: 'Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai.'
   sudarymo_pagrindimas: 'Teiginys dubliuoja paremtą ir gramatiškai tinkamą faktą.'
-  susije_objektai: 'event: [[objektai/ivykiai/Klecko mūšis|Klecko mūšis]]; mentioned_event: [[objektai/ivykiai/Klecko mūšis|Klecko mūšis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'event: [[objektai/ivykiai/Klecko mūšis|Klecko mūšis]]; mentioned_event: [[objektai/ivykiai/Klecko mūšis|Klecko mūšis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija'
   temporaliniai_duomenys: 'mūšio data: 1500-1503; mūšio data: 1503 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Klecko mūšis (mūšis, XVI a.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Totoriai dalyvavo mūšyje Klecko mūšis (mūšis, XVI a.)“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys dubliuoja paremtą ir gramatiškai tinkamą faktą.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 320543-320890; hash=727e1f9e59fdc5a3f5a4ead0e9ec3d4a1b7c2cb891cfd131c6d04a1633ce225b; match=exact
+  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
+  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Klecko mūšis (1506 m. rugpjūčio 6 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klecko mūšis (1506 m. rugpjūčio 6 d.)" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -161,6 +171,16 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 320897-321314; hash=1fc401953c4285fa1d9c464b432d1563a39d3583990ea2d5d51eae01d8554d67; match=exact
+  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
+  ryšio_patikimumas: susije_su -> Mykolas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Klecko mūšis (1506 m. rugpjūčio 6 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Mykolas: mention_match, person, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klecko mūšis (1506 m. rugpjūčio 6 d.)" parinktas kaip owner_note_path. Targetas "Mykolas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-005
@@ -187,5 +207,15 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 320543-320890; hash=727e1f9e59fdc5a3f5a4ead0e9ec3d4a1b7c2cb891cfd131c6d04a1633ce225b; match=exact
+  sprendimo_priezastis: final::darbas/prompts/05_quality_control/01_normalize_tags.md
+  ryšio_patikimumas: susije_su -> Totoriai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Klecko mūšis (1506 m. rugpjūčio 6 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Totoriai: mention_match, group, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Klecko mūšis (1506 m. rugpjūčio 6 d.)" parinktas kaip owner_note_path. Targetas "Totoriai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
     - t-003

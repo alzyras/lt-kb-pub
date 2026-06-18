@@ -55,6 +55,16 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   temporalinis_llm_pakomentavimas: 'Citata palaiko Ewaldo veikalo ryšį su šio puolimo aprašymu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 429018-429136; hash=5c0e5073704d802e75497d495cf397c2dca142bbaf63e2112c5029f41d63f827; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herkus Mantas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ewald A. L., Die Eroberung: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Herkus Mantas: mention_match, person, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ewald A. L., Die Eroberung" parinktas kaip owner_note_path. Targetas "Herkus Mantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60873"></a>
 - t-003
@@ -106,6 +116,16 @@ Dusburgietis teigia, kad bagrationovskas) (Sch-K; GAO, p. 40; Ewald A. Dusburgie
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 429018-429136; hash=5c0e5073704d802e75497d495cf397c2dca142bbaf63e2112c5029f41d63f827; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Herkus Mantas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ewald A. L., Die Eroberung: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Herkus Mantas: mention_match, person, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ewald A. L., Die Eroberung" parinktas kaip owner_note_path. Targetas "Herkus Mantas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-003

@@ -24,7 +24,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   global_id: t-60010
   teiginys: 'Magistro siųstas Druzigeris pabėgo, kai pamatė daugybę nukautųjų prie grobio gurguolės.'
   sudarymo_pagrindimas: 'Pašalintas perteklinis autorinis vertinimas ir išlaikytas citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_person: [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
   pagrindžia:
     - c-003
 
@@ -33,14 +33,24 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   global_id: t-60012
   teiginys: 'Stalininkas Druzigeris Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo mūšyje.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra per ilgas, nutrūkęs ir turi šaltinio fragmentų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_place: Torunė; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_place: Kulmas; mentioned_place: Lenkija'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9d1a05711f48b8a36fb4230f67ac2b334ceb1de5747c0a3d545dad507660e7fc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> gurguolė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Druzigeris: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: gurguolė: mention_match, thing, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druzigeris" parinktas kaip owner_note_path. Targetas "gurguolė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/zodynas/stalininkas.md#claim-t-58869|stalininkas]]: Stalininkas Druzigeris pabėgo iš mūšio ir Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo.
 - susijęs iš [[objektai/asmenys/Henrikas iš Lichtenšteino.md#claim-t-60025|Henrikas iš Lichtenšteino]]: Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90026|Sventopelkas]]: Šiame gabale Sventopelkas siejamas su taikos atnaujinimu, nauju jos sulaužymu ir Santyro pilies pastatymu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
 - susijęs iš Pomeranija: 1246 m. magistras ir broliai su sąjungininkais įsiveržė į Pomeraniją ir devynias dienas bei naktis ją niokojo.
-- susijęs iš [[objektai/zodynas/stalininkas.md#claim-t-58869|stalininkas]]: Stalininkas Druzigeris pabėgo iš mūšio ir Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -90,4 +100,14 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9d1a05711f48b8a36fb4230f67ac2b334ceb1de5747c0a3d545dad507660e7fc; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> gurguolė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Druzigeris: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: gurguolė: mention_match, thing, gap=60
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Druzigeris" parinktas kaip owner_note_path. Targetas "gurguolė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001

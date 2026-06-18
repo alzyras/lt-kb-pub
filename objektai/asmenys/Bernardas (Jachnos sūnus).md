@@ -33,12 +33,23 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
   global_id: t-87632
   teiginys: '1491 m. dokumente Jachnos sūnus Bernardas vadinamas magistru Bernardu, pono Jachnos sūnumi.'
   sudarymo_pagrindimas: 'Citata patvirtina dokumentinį Bernardo paminėjimą, o pradinė formuluotė susimaišiusi su nesusijusiu bernardinų ordino tekstu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/neofitai|neofitai]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'family: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_object: [[objektai/zodynas/neofitai|neofitai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Bernardas (Jachnos sūnus)|Bernardas (Jachnos sūnus)]] buvo sūnus [[objektai/asmenys/Bernardas|Bernardas]]'
   temporaliniai_duomenys: 'įvykio data: 1491 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patvirtina dokumentinį Bernardo paminėjimą, o pradinė formuluotė susimaišiusi su nesusijusiu bernardinų ordino tekstu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 458419-459050; hash=c5c73177b67e6c0b9b753108470373d170e06c31658b6e1013135d6760a275a8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_sunus -> Bernardas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_family_local_relative
+  ryšio_subjekto_parinkimas: Bernardas (Jachnos sūnus): owner_note_path, person, gap=6
+  ryšio_targeto_parinkimas: Bernardas: nearest_family_person, person, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Bernardas (Jachnos sūnus)" parinktas kaip owner_note_path. Targetas "Bernardas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 ## Reikšmingi paminėjimai
 
@@ -69,3 +80,16 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 458419-459050; hash=c5c73177b67e6c0b9b753108470373d170e06c31658b6e1013135d6760a275a8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_sunus -> Bernardas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_family_local_relative
+  ryšio_subjekto_parinkimas: Bernardas (Jachnos sūnus): owner_note_path, person, gap=6
+  ryšio_targeto_parinkimas: Bernardas: nearest_family_person, person, gap=6
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Bernardas (Jachnos sūnus)" parinktas kaip owner_note_path. Targetas "Bernardas" parinktas kaip nearest_family_person aplink predikatą "buvo_sunus". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+
+## Ryšiai
+- Bernardas (Jachnos sūnus) buvo_sunus [[objektai/asmenys/Bernardas]]

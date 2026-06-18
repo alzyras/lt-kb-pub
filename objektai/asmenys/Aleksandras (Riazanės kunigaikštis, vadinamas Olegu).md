@@ -26,6 +26,17 @@ Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laida
   semantiniai_rysiai: '[[objektai/asmenys/Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)|Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)]] buvo valdovas Riazanė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 593084-593779; hash=2531200d3a3d2a49f78da8d5d769a9f610a65b7396b6754f648d88fd83393869; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Riazanė: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Aleksandras (Riazanės kunigaikštis, vadinamas Olegu): owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Riazanė: exact_title_context, place, gap=9
+  ryšio_slopinti_kandidatai: Lietuva: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)" parinktas kaip owner_after_title. Targetas "Riazanė" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -59,6 +70,17 @@ Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laida
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 593084-593779; hash=2531200d3a3d2a49f78da8d5d769a9f610a65b7396b6754f648d88fd83393869; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Riazanė: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Aleksandras (Riazanės kunigaikštis, vadinamas Olegu): owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Riazanė: exact_title_context, place, gap=9
+  ryšio_slopinti_kandidatai: Lietuva: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)" parinktas kaip owner_after_title. Targetas "Riazanė" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Lietuva.md", "selected": false, "strategy": "candidate", "title": "Lietuva", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 ## Ryšiai
 - Aleksandras (Riazanės kunigaikštis, vadinamas Olegu) buvo_valdovas [[objektai/vietos/Riazanė]]

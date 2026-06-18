@@ -34,6 +34,9 @@ Dusburgietis teigia, kad kołzebue A.
   temporalinis_llm_pakomentavimas: 'Citata nurodo autorių, veikalo tomą, leidimo vietą ir metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 779569-779629; hash=ff3ddfab71614780032b3fbe70380d4c9c53ed5d10966ce37b08e20a073205d3; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +50,6 @@ Dusburgietis teigia, kad kołzebue A.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 779569-779629; hash=ff3ddfab71614780032b3fbe70380d4c9c53ed5d10966ce37b08e20a073205d3; match=exact
+  sprendimo_priezastis: auto

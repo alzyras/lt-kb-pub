@@ -28,7 +28,7 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
 - t-001
   global_id: t-182705
   teiginys: 'Vaidotas 1381 m., būdamas apie šešiolikos metų, pabėgo iš senelio Kęstučio globos į Prūsus ir vyko pas ciesorių priimti krikšto.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis IV|Karolis IV]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vaidotas|Vaidotas]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaidotas|Vaidotas]]; mentioned_place: Prūsai; mentioned_person: [[objektai/asmenys/Karolis IV|Karolis IV]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   temporaliniai_duomenys: 'įvykio data: 1381 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -39,7 +39,8 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
   global_id: t-182707
   teiginys: 'Vaidotas buvo Butauto sūnus.'
   sudarymo_pagrindimas: 'Teiginys yra trumpas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Butautas|Butautas]]; mentioned_person: [[objektai/asmenys/Karolis IV|Karolis IV]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vaidotas|Vaidotas]]; mentioned_place: Prūsai'
+  susije_objektai: 'family: [[objektai/asmenys/Butautas|Butautas]]; mentioned_person: [[objektai/asmenys/Butautas|Butautas]]; mentioned_person: [[objektai/asmenys/Vaidotas|Vaidotas]]; mentioned_person: [[objektai/asmenys/Karolis IV|Karolis IV]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/asmenys/Vaidotas (Butauto sūnus)|Vaidotas (Butauto sūnus)]] buvo sūnus [[objektai/asmenys/Butautas|Butautas]]'
   temporaliniai_duomenys: 'įvykio data: 1381 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, faktinis ir tiesiogiai paremtas citata.'
@@ -64,3 +65,7 @@ Vaidotas šiame įraše atskirtas kaip Butauto sūnus, 1381 m. pabėgęs iš Kę
   pagrindžia:
     - t-002
     - t-001
+
+## Ryšiai
+- Vaidotas (Butauto sūnus) buvo_sunus [[objektai/asmenys/Butautas]]
+- Vaidotas (Butauto sūnus) buvo_sunus [[objektai/asmenys/Vaidotas]]

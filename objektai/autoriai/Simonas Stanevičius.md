@@ -32,7 +32,7 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   global_id: t-169894
   teiginys: 'Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“, laikomu kone tautinio kultūrinio sąjūdžio himnu ar manifestu.'
   sudarymo_pagrindimas: 'Pašalintas perteklinis ir neaiškus fragmentas, paliktas šaltinio remiamas faktas apie Stanevičių.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Šlovė žemaičių“|„Šlovė žemaičių“]]; mentioned_person: [[objektai/asmenys/Simonas Daukantas|Simonas Daukantas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_object: [[objektai/posakiai/„Šlovė žemaičių“|„Šlovė žemaičių“]]; mentioned_person: [[objektai/asmenys/Simonas Daukantas|Simonas Daukantas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1822 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas perteklinis ir neaiškus fragmentas, paliktas šaltinio remiamas faktas apie Stanevičių.'
@@ -50,12 +50,12 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+- susijęs iš [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba.md#claim-t-67138|Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]: Lietuvių kalba buvo išleistas novatoriškas elementorius, o Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“.
 - susijęs iš [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis.md#claim-t-183126|Etninių lietuvių tautinis kultūrinis sąjūdis]]: Simono Daukanto ir Simono Stanevičiaus aplinkos inteligentai laikomi etninių lietuvių tautinio kultūrinio sąjūdžio pradininkais.
 - susijęs iš [[objektai/grupes/Etninių lietuvių tautinis kultūrinis sąjūdis.md#claim-t-65147|Etninių lietuvių tautinis kultūrinis sąjūdis]]: Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai plėtojo aukštąją kultūrą lietuvių ir žemaičių kalba.
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113352|Vilniaus universitetas]]: Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją kultūrą lietuvių ir žemaičių kalba.
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113360|Vilniaus universitetas]]: Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai siekė plėtoti aukštąją kultūrą lietuvių kalba.
 - susijęs iš [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba.md#claim-t-183321|Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]: Vilniaus universiteto aplinkoje susibūrę Simonas Daukantas, Simonas Stanevičius ir kiti žemaičių inteligentai plėtojo aukštąją kultūrą lietuvių kalba.
-- susijęs iš [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba.md#claim-t-67138|Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]: Lietuvių kalba buvo išleistas novatoriškas elementorius, o Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“.
 - susijęs iš [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba.md#claim-t-67139|Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]: Vilniaus universiteto aplinkoje susibūrę žemaičių inteligentai susitarė plėtoti aukštąją kultūrą lietuvių kalba ir rūpintis liaudies švietimu gimtąja kalba.
 - susijęs iš [[objektai/paprociai/Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba.md#claim-t-67140|Lietuvių aukštosios kultūros kūrimas ir liaudies švietimas gimtąja kalba]]: Vilniaus universiteto aplinkoje susibūrę inteligentai siekė plėtoti aukštąją kultūrą lietuvių kalba ir rūpintis liaudies švietimu gimtąja kalba.
 - susijęs iš [[objektai/posakiai/„Šlovė žemaičių“.md#claim-t-77862|„Šlovė žemaičių“]]: Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“, vadinamu kone žemaičių sąjūdžio himnu ar poetiniu manifestu.

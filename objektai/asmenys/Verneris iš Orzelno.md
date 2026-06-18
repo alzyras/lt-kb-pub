@@ -54,6 +54,16 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   temporalinis_llm_pakomentavimas: 'Pašalintas boilerplate ir panaudota konkretesnė citatos informacija.'
   pagrindžia:
     - c-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 28592-28859; hash=546cf9e2e645553f2d96f1af2cef5c5358b621f668d82b9f8929b965cc89f099; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64223"></a>
 - t-003
@@ -62,24 +72,54 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   susije_objektai: 'mentioned_object: [[objektai/posakiai/Pradžioje buvo žodis|Pradžioje buvo žodis]]'
   pagrindžia:
     - c-011
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 38097-38462; hash=c614130146a209a596163d4c599d5e26b095ef390c5549b32e611306f41f6827; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-64224"></a>
 - t-004
   global_id: t-64224
   teiginys: 'Verneriui iš Orzelno kronikos reikėjo Ordinui keltiems priekaištams atremti ir vidaus reformai įgyvendinti.'
   sudarymo_pagrindimas: 'Perrašyta į glaustesnį sakinį su aiškiai įvardytu asmeniu.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=182ba1c7e5df95c68ffb2b0b8ccd3c12b274150f59b6640ced5e91f6c5ff9204; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64226"></a>
 - t-006
   global_id: t-64226
   teiginys: 'Petras iš Dusburgo dedikacijoje Vernerį iš Orzelno vadino Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistru.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie dedikacijos formuluotę; reikia pašalinti antraštes ir fragmentiškumą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/posakiai/apreikšti dievo darbus yra šlovinga|apreikšti dievo darbus yra šlovinga]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Jeruzalė; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Jeruzalė; mentioned_object: [[objektai/posakiai/apreikšti dievo darbus yra šlovinga|apreikšti dievo darbus yra šlovinga]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=83c22156ac4d441a0a4f36ec757fbb0422cbdc723d94ebc9f61d07ea6dbaea57; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pradžioje buvo žodis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Pradžioje buvo žodis: mention_match, thing, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Pradžioje buvo žodis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64227"></a>
 - t-007
@@ -89,6 +129,16 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   susije_objektai: 'mentioned_object: [[objektai/posakiai/Pradžioje buvo žodis|Pradžioje buvo žodis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-011
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=456c0a95c80db3982f7bce4e6b69b6229c7762b1aaaa37109266ac4d2d3b1eb2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64228"></a>
 - t-008
@@ -101,18 +151,32 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 38356-38524; hash=2981ca5d49bb4c1568c3abfd208dc75aeac2a9f728fe49f76d4f69ea894af3e6; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-64229"></a>
 - t-009
   global_id: t-64229
   teiginys: '1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų sakinį; reikia pašalinti antraštę ir emocinę kronikos formuluotę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Endorfo|Jonas iš Endorfo]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
+  susije_objektai: 'family: [[objektai/asmenys/Jonas iš Endorfo|Jonas iš Endorfo]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas iš Endorfo|Jonas iš Endorfo]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
+  semantiniai_rysiai: '[[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]] buvo brolis [[objektai/asmenys/Jonas iš Endorfo|Jonas iš Endorfo]]'
   temporaliniai_duomenys: 'įvykio data: 1330 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų sakinį; reikia pašalinti antraštę ir emocinę kronikos formuluotę.'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=182ba1c7e5df95c68ffb2b0b8ccd3c12b274150f59b6640ced5e91f6c5ff9204; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64230"></a>
 - t-010
@@ -124,18 +188,38 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   temporalinis_llm_pakomentavimas: 'Reikia išplėsti neaiškų „veikalas“ ir pašalinti atribucijos boilerplate.'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 47231-47741; hash=06ff33229b6a80b20c6c337810534c36269e91d248632dcf79a7d7af75b116b4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64231"></a>
 - t-011
   global_id: t-64231
   teiginys: '1329 m. Verneris su 200 brolių ir 18 tūkstančių karių patraukė į Lietuvą ir apsupo Medvėgalio pilį.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet įvestyje yra fragmentiška pabaiga ir perteklinė atribucija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Medvėgalis; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Silezija; mentioned_place: Vokietija; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Medvėgalis; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Anglija; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Silezija; mentioned_place: Vokietija; mentioned_place: Čekija'
   temporaliniai_duomenys: 'įvykio data: 1329 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pagrįstas, bet įvestyje yra fragmentiška pabaiga ir perteklinė atribucija.'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 67730-67876; hash=c225a198157f4390955a4fb5c3d69284c20caf27f302c63381b53c99120ce556; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> globėjas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: globėjas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "globėjas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-64232"></a>
 - t-012
@@ -148,6 +232,16 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   temporalinis_llm_pakomentavimas: 'Patikslintas asmuo ir Ordino pavadinimas.'
   pagrindžia:
     - c-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=21e8961d4f9c397e49314f97f9bb7228a7cd8b77d426a463f4b86909b379b851; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-64234"></a>
 - t-014
@@ -160,6 +254,16 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti nereikalingą „Dusburgietis teigia“ pradžią.'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=83c22156ac4d441a0a4f36ec757fbb0422cbdc723d94ebc9f61d07ea6dbaea57; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pradžioje buvo žodis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Pradžioje buvo žodis: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Pradžioje buvo žodis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-64235"></a>
 - t-015
@@ -172,30 +276,40 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų faktą, bet pradinį teiginį gadina antraštė ir nutrūkusi pabaiga.'
   pagrindžia:
     - c-012
-- susijęs iš [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis).md#claim-t-60015|Fridrichas (Švabijos kunigaikštis)]]: Fridrichas, Švabijos kunigaikštis, patarė Bremeno ir Liubeko miestiečiams padovanoti ligoninę Henrikui Valpotui.
-- susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60141|Henrikas Valpotas]]: Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 748286-749102; hash=913c88e83f64e549c3127e0e697c56d51fa26de24366e97aab273871a6409530; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181463|Petras Dusburgietis]]: Dedikacijoje Petras iš Dusburgo tiesiogiai įvardija save tų pačių įžadų kunigu ir kronikos siuntėju Verneriui iš Orzelno.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181469|Petras Dusburgietis]]: Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a.
-- susijęs iš [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje.md#claim-t-89436|Teutonų namų ligoninė Jeruzalėje]]: Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui ir jo broliams.
 - susijęs iš [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje.md#claim-t-89437|Teutonų namų ligoninė Jeruzalėje]]: Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui su gautomis išmaldomis ir gėrybėmis.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178874|Kryžiuočių ordinas]]: XIV a. pradžioje Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.
 - susijęs iš [[objektai/ivykiai/Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.).md#claim-t-62430|Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.)]]: Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a.
 - susijęs iš [[objektai/ivykiai/Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.).md#claim-t-62431|Petro iš Dusburgo kronikos užbaigimas ir įteikimas magistrui (1326 m.)]]: 1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją magistrui Verneriui iš Orzelno.
+- susijęs iš [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis.md#claim-t-175142|Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]: Didysis magistras Verneris papildė Ordino statutą prierašais apie pamaldumą, maldas, brolių poreikių ribojimą ir bendruomenės drausmę.
+- susijęs iš [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis.md#claim-t-175143|Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]: Vernerio prierašai turėjo būti skaitomi visuose Ordino namuose keturis kartus per metus.
+- susijęs iš Liubekas: Bremeno ir Liubeko miestiečiai, pirmieji Teutonų ordino steigėjai, padovanojo Henrikui Valpotui Akono ligoninę su jos išmaldomis ir gėrybėmis.
+- susijęs iš [[objektai/zodynas/suma.md#claim-t-58926|suma]]: Didysis magistras Verneris nutarė, kad kunigai po sumos kasdien turi skaityti evangeliją „Pradžioje buvo žodis“.
+- susijęs iš [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis).md#claim-t-60015|Fridrichas (Švabijos kunigaikštis)]]: Fridrichas, Švabijos kunigaikštis, patarė Bremeno ir Liubeko miestiečiams padovanoti ligoninę Henrikui Valpotui.
+- susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60141|Henrikas Valpotas]]: Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.
+- susijęs iš [[objektai/daiktai/Teutonų namų ligoninė Jeruzalėje.md#claim-t-89436|Teutonų namų ligoninė Jeruzalėje]]: Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui ir jo broliams.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178874|Kryžiuočių ordinas]]: XIV a. pradžioje Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis argumentacijos.
 - susijęs iš [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.).md#claim-t-62908|Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]: Didžiajam magistrui Verneriui kronikos reikėjo Ordino priekaištams atremti ir vidaus reformai įgyvendinti.
 - susijęs iš [[objektai/ivykiai/Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.).md#claim-t-62909|Reformų šalininkų pergalė Kryžiuočių ordino vidinėje kovoje (1324 m.)]]: 1324 m. Kryžiuočių ordino vidinę kovą laikinai laimėjo reformų šalininkai.
 - susijęs iš [[objektai/paprociai/Kasdienis evangelijos „Pradžioje buvo žodis“ skaitymas po sumos ir klūpojimas.md#claim-t-62127|Kasdienis evangelijos „Pradžioje buvo žodis“ skaitymas po sumos ir klūpojimas]]: Didysis magistras Verneris nustatė, kad kunigai kasdien po sumos skaitytų evangeliją „Pradžioje buvo žodis“.
-- susijęs iš [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis.md#claim-t-175142|Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]: Didysis magistras Verneris papildė Ordino statutą prierašais apie pamaldumą, maldas, brolių poreikių ribojimą ir bendruomenės drausmę.
-- susijęs iš [[objektai/paprociai/Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis.md#claim-t-175143|Vernerio Ordino drausmės ir pamaldumo prierašų laikymasis]]: Vernerio prierašai turėjo būti skaitomi visuose Ordino namuose keturis kartus per metus.
 - susijęs iš [[objektai/posakiai/Pradžioje buvo žodis.md#claim-t-59152|Pradžioje buvo žodis]]: Didysis magistras Verneris generalinėje kapituloje nutarė, kad kunigai kasdien po sumos skaitytų evangeliją „Pradžioje buvo žodis“.
 - susijęs iš Evangelija „Pradžioje buvo žodis“: Didysis magistras Verneris generalinėje kapituloje nutarė, kad kunigai kasdien po sumos skaitytų evangeliją „Pradžioje buvo žodis“.
 - susijęs iš Akonas: Henrikas Valpotas mirė lapkričio pradžioje ir buvo palaidotas Akone.
 - susijęs iš Akonas: Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus pastatydino bažnyčią, ligoninę ir kitus namus.
 - susijęs iš Akonas: Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus nupirko sklypą bažnyčiai ir ligoninei.
 - susijęs iš Bremenas: Bremeno ir Liubeko miestiečiai, laikomi pirmaisiais ordino steigėjais, padovanojo Henrikui Valpotui ligoninę Akone.
-- susijęs iš Liubekas: Bremeno ir Liubeko miestiečiai, pirmieji Teutonų ordino steigėjai, padovanojo Henrikui Valpotui Akono ligoninę su jos išmaldomis ir gėrybėmis.
 - susijęs iš Medvėgalis: 1329 m. brolis Verneris su kariuomene apsupo Medvėgalio pilį, kuri po ilgų kovų pasidavė krikščionių tikėjimui.
 - susijęs iš Medvėgalis: 1329 m. brolis Verneris su kariuomene apsupo Medvėgalio pilį, kuri po ilgų kovų pasidavė krikščionių tikėjimui.
-- susijęs iš [[objektai/zodynas/suma.md#claim-t-58926|suma]]: Didysis magistras Verneris nutarė, kad kunigai po sumos kasdien turi skaityti evangeliją „Pradžioje buvo žodis“.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -223,6 +337,9 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 38356-38524; hash=2981ca5d49bb4c1568c3abfd208dc75aeac2a9f728fe49f76d4f69ea894af3e6; match=exact
+  sprendimo_priezastis: auto
     - t-013
 
 - c-003
@@ -239,7 +356,27 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 678316-678608; hash=d80a5ae60315364e0fb13137b59991b498765864cbde84599d9a1a6693231d43; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Marienburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Marienburgas: mention_match, place, gap=40
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Marienburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 47231-47741; hash=06ff33229b6a80b20c6c337810534c36269e91d248632dcf79a7d7af75b116b4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-004
@@ -253,6 +390,16 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=182ba1c7e5df95c68ffb2b0b8ccd3c12b274150f59b6640ced5e91f6c5ff9204; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-005
@@ -279,6 +426,16 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   statusas: verified
   pagrindžia:
     - t-011
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 67730-67876; hash=c225a198157f4390955a4fb5c3d69284c20caf27f302c63381b53c99120ce556; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> globėjas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: globėjas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "globėjas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-017
 
 - c-006
@@ -298,6 +455,16 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=21e8961d4f9c397e49314f97f9bb7228a7cd8b77d426a463f4b86909b379b851; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
 
 - c-007
@@ -321,7 +488,27 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=182ba1c7e5df95c68ffb2b0b8ccd3c12b274150f59b6640ced5e91f6c5ff9204; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=83c22156ac4d441a0a4f36ec757fbb0422cbdc723d94ebc9f61d07ea6dbaea57; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pradžioje buvo žodis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Pradžioje buvo žodis: mention_match, thing, gap=64
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Pradžioje buvo žodis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-016
 
 - c-008
@@ -335,6 +522,16 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=00cd6160844e4c13b89fa0c92096a44d6f5d5b858d2c57d48363ae876bd0a6f5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_brolis -> Jonas iš Endorfo: 0.89
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_family_local_relative
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=13
+  ryšio_targeto_parinkimas: Jonas iš Endorfo: nearest_family_person, person, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Jonas iš Endorfo" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_people.
     - t-010
 
 - c-009
@@ -351,6 +548,16 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 47231-47741; hash=06ff33229b6a80b20c6c337810534c36269e91d248632dcf79a7d7af75b116b4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-014
 
 - c-010
@@ -370,7 +577,27 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=83c22156ac4d441a0a4f36ec757fbb0422cbdc723d94ebc9f61d07ea6dbaea57; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pradžioje buvo žodis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Pradžioje buvo žodis: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Pradžioje buvo žodis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 28592-28859; hash=546cf9e2e645553f2d96f1af2cef5c5358b621f668d82b9f8929b965cc89f099; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-012
 
 - c-011
@@ -393,7 +620,27 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=21e8961d4f9c397e49314f97f9bb7228a7cd8b77d426a463f4b86909b379b851; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=456c0a95c80db3982f7bce4e6b69b6229c7762b1aaaa37109266ac4d2d3b1eb2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dusburgas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dusburgas: mention_match, author, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Dusburgas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-012
@@ -409,4 +656,27 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 38097-38462; hash=c614130146a209a596163d4c599d5e26b095ef390c5549b32e611306f41f6827; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-015
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 748286-749102; hash=913c88e83f64e549c3127e0e697c56d51fa26de24366e97aab273871a6409530; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.) buvo_brolis [[objektai/asmenys/Jonas iš Endorfo]]

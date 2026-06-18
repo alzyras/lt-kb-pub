@@ -35,6 +35,9 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
   sudarymo_pagrindimas: 'Citata palaiko tikslesnį teiginį apie privatizaciją kaip išvalstybinimo būdą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=42245cf0510d346f24e05b51ba3915f9f07cddeaf761e7e52ee58bb8e6003976; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -67,3 +70,6 @@ Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių tapo priva�
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=42245cf0510d346f24e05b51ba3915f9f07cddeaf761e7e52ee58bb8e6003976; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

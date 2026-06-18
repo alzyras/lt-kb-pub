@@ -52,6 +52,9 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys, paremtas katalogine antrašte.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=93da01dbd3b7d877d8511bf3519ca56f2264c728f893cbae1e8909940367093d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -65,3 +68,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=93da01dbd3b7d877d8511bf3519ca56f2264c728f893cbae1e8909940367093d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

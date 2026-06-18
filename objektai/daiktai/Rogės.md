@@ -42,6 +42,9 @@ Nenurodyta
   teiginio_tipas: 'faktas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 70662-70887; hash=b3b7870ed51e26bc74586b1a6c4ba0750c4a2952d039950b80a8605e5ba7140f; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
 
 <a id="claim-t-186847"></a>
 - t-002
@@ -90,4 +93,7 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 70662-70887; hash=b3b7870ed51e26bc74586b1a6c4ba0750c4a2952d039950b80a8605e5ba7140f; match=exact
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
     - t-002

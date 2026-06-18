@@ -25,11 +25,21 @@ Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais 
   susije_objektai: 'mentioned_object: [[objektai/posakiai/Pradžioje buvo žodis|Pradžioje buvo žodis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=83c22156ac4d441a0a4f36ec757fbb0422cbdc723d94ebc9f61d07ea6dbaea57; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pradžioje buvo žodis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: suma: owner_note_path, thing
+  ryšio_targeto_parinkimas: Pradžioje buvo žodis: mention_match, thing, gap=91
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "suma" parinktas kaip owner_note_path. Targetas "Pradžioje buvo žodis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/paprociai/Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais.md#claim-t-87137|Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais]]: 1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus, suma siekė 164 zl. 36 gr.
 - susijęs iš [[objektai/asmenys/Antanas Buračas.md#claim-t-18810|Antanas Buračas]]: Antanas Buračas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
 - susijęs iš [[objektai/asmenys/Eduardas Vilkas.md#claim-t-18880|Eduardas Vilkas]]: Eduardas Vilkas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
 - susijęs iš [[objektai/asmenys/Kazimiera Prunskienė.md#claim-t-19050|Kazimiera Prunskienė]]: Kazimiera Prunskienė viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
 - susijęs iš [[objektai/asmenys/Kazimieras Antanavičius.md#claim-t-19053|Kazimieras Antanavičius]]: Kazimieras Antanavičius viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
-- susijęs iš [[objektai/paprociai/Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais.md#claim-t-87137|Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais]]: 1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus, suma siekė 164 zl. 36 gr.
 - susijęs iš [[objektai/paprociai/Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais.md#claim-t-87138|Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais]]: Turčinas Lukove prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių, keisdamas lietuviškas monetas į lenkiškas.
 - susijęs iš [[objektai/paprociai/Valerijono bursos studentų maitinimas ir maldos už fundatorių.md#claim-t-87231|Valerijono bursos studentų maitinimas ir maldos už fundatorių]]: 1579 m. kovo 6 d. Vilniaus vyskupas Valerijonas Protasevičius užrašė Akademijai tris mūrinius namus studentų maitinimui ir maldoms už fundatorių.
 - susijęs iš 1579 m. kovo 6 d. Valerijono Protasevičiaus fundacijos užrašymas Akademijai ir Collegio: 1579 m. kovo 6 d. Vilniaus vyskupas Valerijonas Protasevičius fundacijos teise užrašė Akademijai ir Collegio tris mūrinius namus.
@@ -62,3 +72,13 @@ Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=83c22156ac4d441a0a4f36ec757fbb0422cbdc723d94ebc9f61d07ea6dbaea57; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pradžioje buvo žodis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: suma: owner_note_path, thing
+  ryšio_targeto_parinkimas: Pradžioje buvo žodis: mention_match, thing, gap=91
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "suma" parinktas kaip owner_note_path. Targetas "Pradžioje buvo žodis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -29,12 +29,22 @@ Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766
   global_id: t-87840
   teiginys: 'Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.'
   sudarymo_pagrindimas: 'Citata konkrečiai mini observatorijos įkūrimą, todėl teiginį verta patikslinti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Oginskiai|Oginskiai]]; mentioned_object: [[objektai/daiktai/Akademijos observatorijos prietaisai|Akademijos observatorijos prietaisai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Akademijos aikštė; mentioned_place: Mstislavlis; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Oginskiai|Oginskiai]]; mentioned_object: [[objektai/daiktai/Akademijos observatorijos prietaisai|Akademijos observatorijos prietaisai]]; mentioned_place: Akademijos aikštė; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Mstislavlis; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1766 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata konkrečiai mini observatorijos įkūrimą, todėl teiginį verta patikslinti.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2594e217468a6141142f105f39c6d698d5b0d52aef1e691628c545e280661b35; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Akademijos aikštė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Puzinienė iš Oginskių: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Akademijos aikštė: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Puzinienė iš Oginskių" parinktas kaip owner_note_path. Targetas "Akademijos aikštė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/daiktai/Akademijos observatorijos prietaisai.md#claim-t-55026|Akademijos observatorijos prietaisai]]: 1766 m. Puzinienė iš Oginskių užrašė 6 000 raudonųjų auksinų Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams.
 - susijęs iš [[objektai/daiktai/Akademijos observatorijos prietaisai.md#claim-t-81838|Akademijos observatorijos prietaisai]]: Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
 - susijęs iš Akademijos aikštė: Prie Akademijos aikštės tėvas Riokuras finansavo vieną klasių eilę, o įvairūs jėzuitai apstatydino kitą klasių ir viešų susirinkimų salės eilę.
@@ -61,3 +71,13 @@ Jos Šviesybė ponia Puzinienė iš Oginskių Mstislavlio kaš­ telioniene 1766
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2594e217468a6141142f105f39c6d698d5b0d52aef1e691628c545e280661b35; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Akademijos aikštė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Puzinienė iš Oginskių: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Akademijos aikštė: mention_match, place, gap=30
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Puzinienė iš Oginskių" parinktas kaip owner_note_path. Targetas "Akademijos aikštė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

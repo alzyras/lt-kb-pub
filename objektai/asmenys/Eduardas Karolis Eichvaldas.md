@@ -25,6 +25,16 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Andrius Sniadeckis|Andrius Sniadeckis]]; mentioned_person: [[objektai/asmenys/Joachimas Lelevelis|Joachimas Lelevelis]]; mentioned_person: [[objektai/asmenys/Johanas Pėteris Frankas|Johanas Pėteris Frankas]]; mentioned_person: [[objektai/asmenys/Jonas Sniadeckis|Jonas Sniadeckis]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ba5b58edce9bf6ba541499b482f71920557d61cc11a0188709300951b67fa86; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Andrius Sniadeckis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Eduardas Karolis Eichvaldas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Andrius Sniadeckis: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eduardas Karolis Eichvaldas" parinktas kaip owner_note_path. Targetas "Andrius Sniadeckis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -52,3 +62,13 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ba5b58edce9bf6ba541499b482f71920557d61cc11a0188709300951b67fa86; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Andrius Sniadeckis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Eduardas Karolis Eichvaldas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Andrius Sniadeckis: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eduardas Karolis Eichvaldas" parinktas kaip owner_note_path. Targetas "Andrius Sniadeckis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

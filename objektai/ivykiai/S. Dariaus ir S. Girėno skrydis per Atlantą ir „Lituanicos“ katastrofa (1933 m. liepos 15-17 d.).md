@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-66866
   teiginys: 'Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.'
   sudarymo_pagrindimas: 'Reikia išplėsti neaiškią nuorodą į lakūnus ir sutrumpinti sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stasys Girėnas|Stasys Girėnas]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stasys Girėnas|Stasys Girėnas]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_place: Lietuva; mentioned_place: Kaunas'
   pagrindžia:
     - c-001
 
@@ -56,12 +56,22 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako skrydžio dalyvius, laiką, priemonę ir maršrutą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/„Pienocentro“ pastatas Kaune|„Pienocentro“ pastatas Kaune]]; mentioned_person: [[objektai/asmenys/Stasys Girėnas|Stasys Girėnas]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_person: [[objektai/asmenys/V. Landsbergis-Žemkalnis|V. Landsbergis-Žemkalnis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Niujorkas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stasys Girėnas|Stasys Girėnas]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_object: [[objektai/daiktai/„Pienocentro“ pastatas Kaune|„Pienocentro“ pastatas Kaune]]; mentioned_person: [[objektai/asmenys/V. Landsbergis-Žemkalnis|V. Landsbergis-Žemkalnis]]; mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1933 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako skrydžio dalyvius, laiką, priemonę ir maršrutą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=14fba2f8a5f15793888fc35ce59ec9ee86a32b096302ba519da8653d751cd983; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -113,4 +123,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=14fba2f8a5f15793888fc35ce59ec9ee86a32b096302ba519da8653d751cd983; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 350855-351179; hash=73f71ce0ac44d4707fc191f56d44e74897923a5e8fbc762cc816209cb975271d; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=96
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "S. Dariaus ir S. Girėno skrydis per Atlantą ir „Lituanicos“ katastrofa (1933 m. liepos 15-17 d.)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

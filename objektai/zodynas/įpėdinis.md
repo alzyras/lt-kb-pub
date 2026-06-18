@@ -35,20 +35,31 @@ Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dė
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo pasakojimo apie Vytauto ir Jogailos susitarimą šaltinio ribotumą. Papildomos pastabos apie Horodlo uniją ir datavimą nepridėtos.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 487620-488576; hash=b074a94f0c00567f876d9d78c1553a0e72bc7d19a0aa397b4e0e30f8967024a7; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: įpėdinis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "įpėdinis" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Giliginas.md#claim-t-186041|Giliginas]]: Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
+- susijęs iš [[objektai/asmenys/Romuntas.md#claim-t-186160|Romuntas]]: Romuntas buvo Giliginio sūnus ir sosto įpėdinis.
+- susijęs iš [[objektai/asmenys/Saladinas.md#claim-t-82654|Saladinas]]: Saladinas citatoje vadinamas Tochtamišo sūnumi ir ištikimu Lietuvos sąjungininku, po kurio mirties įpėdinis Kerimberdėjus nepakluso Vytautui.
+- susijęs iš [[objektai/asmenys/Teofilis (arkivyskupas).md#claim-t-97511|Teofilis (arkivyskupas)]]: Po arkivyskupo Teofilio mirties apie 1330 m. Naugarduko arkivyskupija žlugo, nes nebuvo paskirtas naujas įpėdinis.
+- susijęs iš [[objektai/ivykiai/1503 m. LDK ir Maskvos paliaubų sudarymas ir patvirtinimas priesaikomis.md#claim-t-186802|1503 m. LDK ir Maskvos paliaubų sudarymas ir patvirtinimas priesaikomis]]: Maskvos didysis kunigaikštis Ivanas III Vasiljevičius ir jo įpėdinis Vasilijus paliaubas prisiekė 1503 m. balandžio 2 d.
 - susijęs iš [[objektai/asmenys/Andrius fon Vestfalenas.md#claim-t-186179|Andrius fon Vestfalenas]]: Livonijos magistro Otono įpėdinis Andrius fon Vestfalenas tęsė karą, buvo lietuvių sumuštas ir žuvo.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176360|Gediminas]]: Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184706|Germantas]]: Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.
-- susijęs iš [[objektai/asmenys/Giliginas.md#claim-t-186041|Giliginas]]: Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103038|Jurgis Radvila (vyskupas, XVI a.)]]: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103050|Jurgis Radvila (vyskupas, XVI a.)]]: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82506|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką.
 - susijęs iš [[objektai/asmenys/Kerimberdėjus.md#claim-t-87533|Kerimberdėjus]]: Po sultono Saladino mirties Kerimberdėjus atsisakė paklusti Vytautui, todėl Vytautas chanu paskelbė Betsabutą.
 - susijęs iš [[objektai/asmenys/Liudolfas.md#claim-t-186141|Liudolfas]]: Liudolfas, grįžęs iš žygio ir išvydęs nuniokotą Prūsiją, prarado protą ir netrukus mirė.
 - susijęs iš [[objektai/asmenys/Otonas.md#claim-t-184812|Otonas]]: Livonijos magistras Otonas žuvo prie Eželio ant ledo kovodamas su žemaičiais ir lietuviais.
-- susijęs iš [[objektai/asmenys/Romuntas.md#claim-t-186160|Romuntas]]: Romuntas buvo Giliginio sūnus ir sosto įpėdinis.
-- susijęs iš [[objektai/asmenys/Saladinas.md#claim-t-82654|Saladinas]]: Saladinas citatoje vadinamas Tochtamišo sūnumi ir ištikimu Lietuvos sąjungininku, po kurio mirties įpėdinis Kerimberdėjus nepakluso Vytautui.
 - susijęs iš [[objektai/asmenys/Saladinas.md#claim-t-82655|Saladinas]]: Saladinas, Tochtamyšo sūnus, buvo sultonas ir ištikimas Lietuvos sąjungininkas.
-- susijęs iš [[objektai/asmenys/Teofilis (arkivyskupas).md#claim-t-97511|Teofilis (arkivyskupas)]]: Po arkivyskupo Teofilio mirties apie 1330 m. Naugarduko arkivyskupija žlugo, nes nebuvo paskirtas naujas įpėdinis.
 - susijęs iš [[objektai/asmenys/Tochtamišas.md#claim-t-111436|Tochtamišas]]: 1419 m. Vytautas Vilniaus pilyje didžiosios ordos chanu paskelbė Tochtamišo giminaitį Betsabutą.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114009|Valerijonas Protasevičius (vyskupas)]]: Valerijonas Protasevičius įsteigė neturtingiems studentams Valerijono bursą ir padovanojo jai tris mūrinius namus.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114018|Valerijonas Protasevičius (vyskupas)]]: Valerijonas Protasevičius fundavo ir aprūpino jėzuitų kolegiją, kurią karalius pakėlė iki universiteto laipsnio.
@@ -61,7 +72,6 @@ Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dė
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171411|Totoriai]]: Vytautas Vilniuje ne kartą skelbdavo totorių kunigaikščius chanais arba carais.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171414|Totoriai]]: Vytautas po pergalių prieš totorius savo sostinėje ne kartą skelbdavo totorių kunigaikštį chanu arba caru.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-184597|Žemaičiai]]: Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovėsi su Livonijos magistru Otonu.
-- susijęs iš [[objektai/ivykiai/1503 m. LDK ir Maskvos paliaubų sudarymas ir patvirtinimas priesaikomis.md#claim-t-186802|1503 m. LDK ir Maskvos paliaubų sudarymas ir patvirtinimas priesaikomis]]: Maskvos didysis kunigaikštis Ivanas III Vasiljevičius ir jo įpėdinis Vasilijus paliaubas prisiekė 1503 m. balandžio 2 d.
 - susijęs iš [[objektai/ivykiai/1503 m. LDK ir Maskvos paliaubų sudarymas ir patvirtinimas priesaikomis.md#claim-t-186803|1503 m. LDK ir Maskvos paliaubų sudarymas ir patvirtinimas priesaikomis]]: LDK ir Maskvos paliaubų aktas buvo surašytas 1503 m. kovo 28 d.
 - susijęs iš [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu.md#claim-t-185712|Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]: Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.
 - susijęs iš [[objektai/ivykiai/Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną.md#claim-t-185842|Žemaičių ir lietuvių pergalė prie Eželio prieš Livonijos magistrą Otoną]]: Prie Eželio žemaičiai ir lietuviai ant ledo kovojo su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.
@@ -105,3 +115,13 @@ Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dė
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 487620-488576; hash=b074a94f0c00567f876d9d78c1553a0e72bc7d19a0aa397b4e0e30f8967024a7; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jogaila (kunigaikštis, XIV–XV a.): 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: įpėdinis: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Jogaila (kunigaikštis, XIV–XV a.): mention_match, person, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "įpėdinis" parinktas kaip owner_note_path. Targetas "Jogaila (kunigaikštis, XIV–XV a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -27,6 +27,16 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
   susije_objektai: 'mentioned_place: Višogrudas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 147457-148032; hash=dc0bca4c5cb4e747c5851f38ce66aeb5e066be4a4547e4a67fb819e7f1cbd91c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vežimai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pakartoto Įstatymo knyga: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Vežimai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pakartoto Įstatymo knyga" parinktas kaip owner_note_path. Targetas "Vežimai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-60997"></a>
 - t-002
@@ -36,6 +46,16 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=98dec75c7f6983061523725113159e5b5a82946e947a62399e7f563968e40284; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Višogrudas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pakartoto Įstatymo knyga: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Višogrudas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pakartoto Įstatymo knyga" parinktas kaip owner_note_path. Targetas "Višogrudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -70,4 +90,24 @@ Dusburgietis teigia, kad stiprindamas jų kilnias širdis, jis guodė juos šiai
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 147457-148032; hash=dc0bca4c5cb4e747c5851f38ce66aeb5e066be4a4547e4a67fb819e7f1cbd91c; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vežimai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pakartoto Įstatymo knyga: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Vežimai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pakartoto Įstatymo knyga" parinktas kaip owner_note_path. Targetas "Vežimai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=98dec75c7f6983061523725113159e5b5a82946e947a62399e7f563968e40284; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Višogrudas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pakartoto Įstatymo knyga: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Višogrudas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pakartoto Įstatymo knyga" parinktas kaip owner_note_path. Targetas "Višogrudas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -44,9 +44,19 @@ Nenurodyta
   global_id: t-10213
   teiginys: 'Po Giedraičių kautynių atkirsta lenkų kavalerijos brigada lapkričio 24 d. ties Labanoru perėjo fronto liniją.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Giedraičiai; mentioned_place: Labanoras; mentioned_place: Lietuva; mentioned_place: Ukmergė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Giedraičiai; mentioned_place: Labanoras; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 868528-868967; hash=57de510eb5e146d2cafe86d9debb2d20f4e87b4d41ef2ab67819adc1bdff7630; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Giedraičiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Giedraičių kautynės (1920 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Giedraičiai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Giedraičių kautynės (1920 m.)" parinktas kaip owner_note_path. Targetas "Giedraičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Giedraičių kautynės.md#claim-t-41271|Giedraičių kautynės]]: Prie Giedraičių lietuvių nuostoliai siekė 15 žuvusių karių ir kelis karininkus, apie 60 sužeistųjų ir apie 70 dingusių be žinios.
 ## Reikšmingi paminėjimai
 
@@ -76,3 +86,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 868528-868967; hash=57de510eb5e146d2cafe86d9debb2d20f4e87b4d41ef2ab67819adc1bdff7630; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Giedraičiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Giedraičių kautynės (1920 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Giedraičiai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Giedraičių kautynės (1920 m.)" parinktas kaip owner_note_path. Targetas "Giedraičiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

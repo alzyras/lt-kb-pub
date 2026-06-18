@@ -34,7 +34,7 @@ amziai:
   global_id: t-182798
   teiginys: 'Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūpino gausių išrašų apie Vilnių.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo Pranciškaus Malevskio veiksmą ir jo ryšį su Lietuvos Metrika.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Pranciškus Malevskis|Pranciškus Malevskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_author: [[objektai/autoriai/Pranciškus Malevskis|Pranciškus Malevskis]]'
   pagrindžia:
     - c-003
 
@@ -55,7 +55,7 @@ amziai:
   global_id: t-182801
   teiginys: 'Vilniaus monetų kalykla, prižiūrima Ulriko Hozijaus, teikė nemaža pajamų karaliaus iždui.'
   sudarymo_pagrindimas: 'Perrašyta į glaustesnį faktinį sakinį, pašalinant perteklinę nuorodą į ataskaitą.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -67,7 +67,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas apibrėžiamasis sakinys ir tiksliai atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: iki 1794 m.; įvykio data: 1794 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas apibrėžiamasis sakinys ir tiksliai atitinka citatą.'

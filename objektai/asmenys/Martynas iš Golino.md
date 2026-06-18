@@ -23,6 +23,16 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Rudinas; mentioned_place: Viena'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 80709-81237; hash=a95cd039932a81f4a50e1148758c2752c639b92d8e95aa95ea06dcd5b821102a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rudinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rudinas: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Rudinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63906"></a>
 - t-002
@@ -32,6 +42,16 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Sūduva; mentioned_place: Viena'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 295270-295676; hash=e801784407c6e5a0f2ecbcb11969e9b6fc3cb774d6189c25fee7f0f92b4bdfb7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63907"></a>
 - t-003
@@ -40,15 +60,35 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 295322-295872; hash=5ea82c0dd998d8f3d0ddc08a54badffb68273c68838fa2d4412e25851dc9fc39; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalavijas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-63908"></a>
 - t-004
   global_id: t-63908
   teiginys: 'Martynas iš Golino pateko tarp belaisvių, kuriuos prūsai išsivarė po persekiojimo ir grobio surinkimo.'
   sudarymo_pagrindimas: 'Citata pagrindžia Martyno patekimą į nelaisvę, bet pradinis teiginys per silpnas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 453201-453708; hash=f8acab3fad02187076e145bb0150159d839fe68ab0a8795c7e8c7c6bc8d60f02; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rudinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rudinas: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Rudinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63909"></a>
 - t-005
@@ -58,41 +98,92 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Rudinas; mentioned_place: Viena'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 454157-454491; hash=6d38a445f865bb4c41677c41c54bdbc20b8a1e1fb3c3e0550a86622cfae528d6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63910"></a>
 - t-006
   global_id: t-63910
   teiginys: 'Martynas iš Golino šiame šaltinyje dalyvauja žvalgyboje su vienu Rudino broliu ir išsigelbsti iš nelaisvės.'
-  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Rudinas'
+  susije_objektai: 'mentioned_place: Rudinas; mentioned_place: Prūsai'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 515608-516275; hash=022b22cc1e283e9f8f1f21db98d94916e002c002d35d04708db1cc312c7558d2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63911"></a>
 - t-007
   global_id: t-63911
   teiginys: 'Martynas iš Golino prie Bugo upės užpuolė prekių laivo upeivius, juos išžudė ir laivą nuplukdė į Torunę.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata paremia glaustą enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_place: Torunė; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 516836-517214; hash=2829adb66da6c49f7f1a6ee65d408b6a536a10c01cf1b42f66613676536a142f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63912"></a>
 - t-008
   global_id: t-63912
   teiginys: 'Martynas iš Golino žygiuodavo su Rudino ir vėliau Karaliaučiaus broliais.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mata|Mata]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Rudinas'
+  susije_objektai: 'mentioned_place: Rudinas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mata|Mata]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 80709-81237; hash=a95cd039932a81f4a50e1148758c2752c639b92d8e95aa95ea06dcd5b821102a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rudinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rudinas: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Rudinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63913"></a>
 - t-009
   global_id: t-63913
   teiginys: 'Karaliaučiaus komtūras paskyrė Martyną iš Golino į Pelužio būrį, traukusį keršyti lietuvių kunigaikščiui.'
   sudarymo_pagrindimas: 'Citata aiškiai nurodo Martyno paskyrimą į Pelužio vadovaujamą žygį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'appointee: [[objektai/asmenys/Pelužis|Pelužis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]; mentioned_place: Lietuva; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Semba; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]] paskyrė [[objektai/asmenys/Pelužis|Pelužis]]'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 295322-295872; hash=5ea82c0dd998d8f3d0ddc08a54badffb68273c68838fa2d4412e25851dc9fc39; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalavijas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-63914"></a>
 - t-010
@@ -102,15 +193,35 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Rudinas'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=311806f53e34681d65f02b4b9e25276fabb8a4d6fc4d20c7ed213aaa985f7aa2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalavijas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-63915"></a>
 - t-011
   global_id: t-63915
   teiginys: 'Martynas iš Golino žygiuodavo su Rudino broliais, o vėliau su Karaliaučiaus broliais.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi nereikalingą šaltinio įvadą ir nuorodų triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mata|Mata]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Rudinas'
+  susije_objektai: 'mentioned_place: Rudinas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mata|Mata]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 453201-453708; hash=f8acab3fad02187076e145bb0150159d839fe68ab0a8795c7e8c7c6bc8d60f02; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=94
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63916"></a>
 - t-012
@@ -120,23 +231,53 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Kaimas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Sūduva; mentioned_place: Viena'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 454157-454491; hash=6d38a445f865bb4c41677c41c54bdbc20b8a1e1fb3c3e0550a86622cfae528d6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63917"></a>
 - t-013
   global_id: t-63917
   teiginys: 'Dusburgietis Martyną iš Golino rodo kaip vieną svarbiausių krikščionių plėšikautojų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Kaimas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Sūduva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Viena; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Kaimas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Sūduva'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 515608-516275; hash=022b22cc1e283e9f8f1f21db98d94916e002c002d35d04708db1cc312c7558d2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-63918"></a>
 - t-014
   global_id: t-63918
   teiginys: 'Martynas iš Golino su 4 vokiečiais ir 11 prūsų užgrobė vieną Sūduvos kaimą, žudydamas arba išsivarydamas žmones į nelaisvę.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda nereikalinga atribucija ir įvardžiu „tas“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Kaimas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Sūduva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kaimas; mentioned_place: Prūsai; mentioned_place: Sūduva; mentioned_place: Viena; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Pagudė'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 515608-516275; hash=022b22cc1e283e9f8f1f21db98d94916e002c002d35d04708db1cc312c7558d2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=69
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63919"></a>
 - t-015
@@ -146,6 +287,16 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 516836-517214; hash=2829adb66da6c49f7f1a6ee65d408b6a536a10c01cf1b42f66613676536a142f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=81
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-63920"></a>
 - t-016
@@ -155,6 +306,16 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]'
   pagrindžia:
     - c-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ba45d03c3b0e39ae0e473f12aad8f5a48d27a959b0a1cf2468e5bb38f3db587; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: paskyre -> Pelužis: 0.86
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=8
+  ryšio_targeto_parinkimas: Pelužis: nearest_after_predicate, person, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Pelužis" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_people.
 
 <a id="claim-t-63921"></a>
 - t-017
@@ -164,6 +325,16 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Sūduva; mentioned_place: Viena'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=70277ebe7439ab0c91199fd4384b25292d1781524320352587876e5da8545dd2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Torunė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Torunė: mention_match, place, gap=97
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Torunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184111"></a>
 - t-018
@@ -176,26 +347,26 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Sūduva; mentioned_place: Viena'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 516836-517214; hash=2829adb66da6c49f7f1a6ee65d408b6a536a10c01cf1b42f66613676536a142f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184439|Martynas V]]: Popiežius Martynas V 1417 m. gegužės 13 d. paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai.
+- susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184444|Martynas V]]: Popiežius Martynas V 1417 m. gegužės 13 d. paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai.
 - susijęs iš [[objektai/asmenys/Abraomas Kulvietis.md#claim-t-181560|Abraomas Kulvietis]]: 1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines pažiūras ir savo mokykloje išlavino 60 mokinių.
-- susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-18765|Albertas Vijūkas-Kojalavičius]]: Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių įtakos sklaidos Lietuvoje.
-- susijęs iš [[objektai/asmenys/Andrius Kopernikas.md#claim-t-87483|Andrius Kopernikas]]: Andrius Kopernikas 1514 m. buvo Varmės kanauninkas, kuriam rašė Lenkijos karalius Žygimantas.
-- susijęs iš [[objektai/asmenys/Cvinglis.md#claim-t-87646|Cvinglis]]: Martyno Liuterio ir Cvinglio mokslas Vilniuje buvo giliai įsišaknijęs ir remiamas Mikalojaus Radvilos Juodojo.
-- susijęs iš [[objektai/asmenys/Horacijus.md#claim-t-25555|Horacijus]]: Europos universitetuose Horacijus buvo įprastas skaitomas autorius, vietoje kurio skaityta Motiejaus Kazimiero Sarbievijaus poezija.
-- susijęs iš [[objektai/asmenys/Ignotas Masalskis.md#claim-t-75845|Ignotas Masalskis]]: 1769 m. Martynas Knakfusas tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti jo rūmus Verkiuose.
-- susijęs iš [[objektai/asmenys/Jonas Marija.md#claim-t-87726|Jonas Marija]]: Jonas Marija buvo architektas ir raižytojas, savo meno kūriniais papuošęs Vilnių.
-- susijęs iš [[objektai/asmenys/Jonas XXIII.md#claim-t-176496|Jonas XXIII]]: Jonas XXIII atėmė Vokiečių ordinui teises ir privilegijas, kuriomis jis teisino savo užpuolimus.
 - susijęs iš [[objektai/asmenys/Jonas iš Endorfo.md#claim-t-60345|Jonas iš Endorfo]]: 1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis ėjo iš bažnyčios.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63803|Kazimieras (Kujavijos kunigaikštis)]]: Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagalbą, kai lenkai išsigando Sventopelko raitelių.
-- susijęs iš [[objektai/asmenys/Klemensas V.md#claim-t-59927|Klemensas V]]: Po Klemenso V vainikavimo prie Liono sugriuvusi mūro siena pražudė daug žmonių, o pats popiežius nukentėjo.
-- susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89922|Konradas, vardu Divelis]]: Petras Dusburgietis Konradą, vardu Divelį, mini tarp krikščionių plėšikautojų, kurių žygius vadino nuostabiais ir nepaprastais.
-- susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89923|Konradas, vardu Divelis]]: Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.
-- susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89924|Konradas, vardu Divelis]]: Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.
 - susijęs iš [[objektai/asmenys/Kudaras iš Sūduvos.md#claim-t-60372|Kudaras iš Sūduvos]]: Kudaras iš Sūduvos Dusburgiečio kronikoje minimas tarp krikščionių plėšikautojų, garsėjusių žygiais.
 - susijęs iš [[objektai/asmenys/Martynas Knakfusas.md#claim-t-26454|Martynas Knakfusas (vyskupas, XVIII–XIX a.)]]: Martynas Knakfusas 1769 m. tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti vyskupo rūmus Verkiuose.
 - susijęs iš [[objektai/asmenys/Martynas Liuteris.md#claim-t-82553|Martynas Liuteris]]: Martyno Liuterio ir Cvinglio mokslą Vilniuje stipriai palaikė Vilniaus vaivada Mikalojus Radvila Juodasis.
 - susijęs iš [[objektai/asmenys/Martynas Liuteris.md#claim-t-82555|Martynas Liuteris]]: Martyno Liuterio ir Cvinglio mokslas Vilniuje buvo įsišaknijęs ir palaikomas vaivados Mikalojaus Radvilos Juodojo.
 - susijęs iš [[objektai/asmenys/Martynas Mažvydas.md#claim-t-19125|Martynas Mažvydas]]: Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa pateikė pirmą lietuvišką knygą ir pradėjo lietuviakalbės raštijos tradiciją.
-- susijęs iš [[objektai/asmenys/Martynas Mažvydas.md#claim-t-19126|Martynas Mažvydas]]: 1547 m. išleistas Martyno Mažvydo „Katekizmas“ laikomas Abraomo Kulviečio ir Stanislovo Rapolionio programos dalimi.
 - susijęs iš [[objektai/asmenys/Martynas Mažvydas.md#claim-t-19127|Martynas Mažvydas]]: Martynas Mažvydas siejamas su 1547 m. Karaliaučiuje išspausdintu „Katekizmu“, pirmąja knyga lietuvių kalba.
 - susijęs iš [[objektai/asmenys/Martynas Ostrovskis.md#claim-t-87773|Martynas Ostrovskis]]: Martynas Ostrovskis buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių ir papuošusių miestą savo kūriniais.
 - susijęs iš [[objektai/asmenys/Martynas Paleckis.md#claim-t-87405|Martynas Paleckis]]: 1547 m. gegužės 22 d. privilegija Martynui Paleckiui steigti fabriką skyrė sklypą prie Vilniaus už Vilijos upės.
@@ -218,32 +389,18 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - susijęs iš [[objektai/asmenys/Martynas Volodkovičius.md#claim-t-186066|Martynas Volodkovičius]]: Karalius pasiuntė Martyną Volodkovičių pas Maskvos valdovą, kai sužinojo, kad šis galvoja apie karą.
 - susijęs iš [[objektai/asmenys/Martynas iš Krušvicos.md#claim-t-60384|Martynas iš Krušvicos]]: Martynas iš Krušvicos buvo riteris ir vėliavininkas, kuris kartu su kunigaikščiu Kazimieru nepabėgo pamatęs Sventopelko raitelius.
 - susijęs iš [[objektai/asmenys/Martynas iš Opavos.md#claim-t-60385|Martynas iš Opavos (arkivyskupas, XIII a.)]]: Martynas iš Opavos, čekų vienuolis, 1278 m. buvo paskirtas Gnezno arkivyskupu, bet mirė ten nenuvykęs.
-- susijęs iš [[objektai/asmenys/Mata.md#claim-t-60055|Mata]]: Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113880|Mikalojus Radvila Juodasis]]: Vilniaus vaivada Mikalojus Radvila Juodasis stipriai palaikė Vilniuje įsišaknijusį Martyno Liuterio ir Cvinglio mokslą.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186354|Mikalojus Radvila]]: Lietuvos maršalka Mikalojus Radvila užtarė Martyną Paleckį, gavusį iš karaliaus žemės sklypą ir leidimą steigti stiklo fabriką.
 - susijęs iš [[objektai/asmenys/Motiejus Kazimieras Sarbievijus.md#claim-t-19157|Motiejus Kazimieras Sarbievijus]]: Motiejaus Kazimiero Sarbievijaus poezija 1646 m. buvo išversta iš lotynų į anglų kalbą ir skaitoma Europos universitetuose.
 - susijęs iš [[objektai/asmenys/Nakaimas iš Pagudės.md#claim-t-60392|Nakaimas iš Pagudės]]: Nakaimas iš Pagudės minimas tarp krikščionių plėšikautojų, kurių žygius Dusburgietis vadino nuostabiais ir nepaprastais.
-- susijęs iš [[objektai/asmenys/Pelužis.md#claim-t-184818|Pelužis]]: Pelužio būrys buvo papildytas keliais miklesniais jo dvariškiais ir dvidešimčia kryžiuočių riterių.
-- susijęs iš [[objektai/asmenys/Pelužis.md#claim-t-90002|Pelužis]]: Pelužis su Karaliaučiaus komtūro paskirtais vyrais užpuolė savo viešpaties sodybą ir nužudė 70 kunigaikščių.
 - susijęs iš [[objektai/asmenys/Pelužis.md#claim-t-90003|Pelužis]]: Pelužio prašymu Karaliaučiaus komtūras jam paskyrė Martyną iš Golino, Konradą Velnią, Stavimėlą ir 20 kitų vyrų.
-- susijęs iš [[objektai/asmenys/Pelužis.md#claim-t-90004|Pelužis]]: Lietuvis Pelužis, įžeistas savo viešpaties kunigaikščio, atvyko pas Sembos žemės brolius ir siekė atkeršyti už patirtas skriaudas.
-- susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173216|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: 1539 m. Vilniaus vyskupas Povilas valdė Vilniaus dieceziją, kai Abraomas Kulvietis mieste skleidė Liuterio religines pažiūras.
 - susijęs iš [[objektai/asmenys/Ptolomėjus iš Lukos.md#claim-t-60421|Ptolomėjus iš Lukos]]: Ptolomėjus iš Lukos buvo Tomo Akviniečio mokinys ir popiežiaus bibliotekininkas, parašęs bažnyčios istoriją „Analai“.
 - susijęs iš [[objektai/asmenys/Raina Sluščianka.md#claim-t-87842|Raina Sluščianka]]: Raina Sluščianka buvo Martyno Paleckio žmona ir sutarties su miestu dėl stiklo liejyklos bei stiklo supirkimo dalyvė.
-- susijęs iš [[objektai/asmenys/St. Ciolką.md#claim-t-34827|St. Ciolką]]: St. Ciolka buvo Vytauto proteguojamas kandidatas į Poznanės vyskupus.
-- susijęs iš [[objektai/asmenys/Stanislovas Rapolionis.md#claim-t-19244|Stanislovas Rapolionis]]: Stanislovas Rapolionis kartu su Abraomu Kulviečiu tapo vienu pirmųjų 1544 m. įkurto Karaliaučiaus universiteto profesorių.
 - susijęs iš [[objektai/asmenys/Stanislovas Ratka.md#claim-t-87862|Stanislovas Ratka]]: Stanislovas Ratka buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių iš Poznanės.
-- susijęs iš [[objektai/asmenys/Stanislovas Skopas.md#claim-t-87581|Stanislovas Skopas]]: Stanislovas Skopas Pabaisko parapijoje turėjo gėrybių, nuo kurių anksčiau buvo mokama dešimtinė.
 - susijęs iš [[objektai/asmenys/Stavimėlas.md#claim-t-60439|Stavimėlas]]: Karaliaučiaus komtūras paskyrė Stavimėlą į Pelužio būrį, išvykusį ginklu atkeršyti už Pelužio patirtas skriaudas.
 - susijęs iš [[objektai/asmenys/Vaitiekus Chelminskis.md#claim-t-87872|Vaitiekus Chelminskis]]: Vaitiekus Chelminskis iš Inovroclavo buvo vienas iš trijų lenkų tapytojų, pakviestų į Vilnių.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64229|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173247|Vladislovas Jogaila]]: Vladislovas Jogaila Vilniuje įsakė statyti Šv. Martyno ir Šv. Jono bažnyčias.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176714|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.
-- susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-87380|Zigmantas (Romos imperatorius)]]: Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu.
-- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176873|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis 1420 m. Breslavo sprendimu priskyrė Ordinui ir Žemaitiją.
-- susijęs iš [[objektai/asmenys/Štaubemelis.md#claim-t-60475|Štaubemelis]]: Štaubemelis minimas tarp krikščionių plėšikautojų, kurių žygius Dusburgietis vadino nuostabiais ir nepaprastais.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173329|Žygimantas Senasis]]: 1514 m. raštas Varmės kanauninkui Andriui Kopernikui buvo siejamas su Lenkijos karaliumi Žygimantu Senuoju.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173340|Žygimantas Senasis]]: Vilniaus vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kad Abraomas Kulvietis stotų prieš dvasinį teismą.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172913|M. Strijkovskis Stryjkowski]]: Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172915|M. Strijkovskis Stryjkowski]]: Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.
 - susijęs iš [[objektai/autoriai/M. Strijkovskis Stryjkowski.md#claim-t-172918|M. Strijkovskis Stryjkowski]]: Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta.
@@ -268,27 +425,11 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - susijęs iš [[objektai/autoriai/Martynas Smigleckis.md#claim-t-105594|Martynas Smigleckis]]: Martyno Smigleckio „Logika“ (1618 m.) pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai.
 - susijęs iš [[objektai/autoriai/Martynas Smigleckis.md#claim-t-105595|Martynas Smigleckis]]: Martynas Smigleckis buvo knygos „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ autorius.
 - susijęs iš [[objektai/autoriai/Martynas Smigleckis.md#claim-t-105596|Martynas Smigleckis]]: Martynas Smigleckis teigė, kad neteisinga respublikoje neleisti privačios prekybos dėl didesnio prekių ištekliaus mieste.
-- susijęs iš [[objektai/daiktai/1547 m. Paleckio privilegijos Lietuvos Didžiosios Kunigaikštystės antspaudas.md#claim-t-87106|1547 m. Paleckio privilegijos Lietuvos Didžiosios Kunigaikštystės antspaudas]]: 1547 m. gegužės 22 d. Paleckiui duota privilegija turėjo prikabintą Lietuvos Didžiosios Kunigaikštystės antspaudą.
 - susijęs iš [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje.md#claim-t-55042|Martyno Paleckio stiklo gaminiai Vilniuje]]: Martynui Paleckiui ir jo palikuonims suteikta teisė supirkti į Vilnių iš Lenkijos vežamą stiklą, išskyrus Venecijos stiklą.
 - susijęs iš [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje.md#claim-t-55044|Martyno Paleckio stiklo gaminiai Vilniuje]]: Už karaliaus dovanotą žemę Martynas Paleckis kasmet turėjo pristatyti į karališkuosius Vilniaus rūmus po 200 didžiųjų ir mažesniųjų Kurovo stiklinių.
 - susijęs iš [[objektai/daiktai/Martyno Paleckio stiklo gaminiai Vilniuje.md#claim-t-81855|Martyno Paleckio stiklo gaminiai Vilniuje]]: Martynas Paleckis Vilniuje gavo žemės sklypą, leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą.
-- susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-183981|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
-- susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-59705|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
-- susijęs iš [[objektai/daiktai/Skydas.md#claim-t-111285|Skydas]]: Martynas, priešams miegant, vieną po kito išvogė jų skydus, kalavijus ir ietis.
-- susijęs iš [[objektai/grupes/Husitai.md#claim-t-172096|Husitai]]: Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.
-- susijęs iš [[objektai/grupes/Husitai.md#claim-t-172097|Husitai]]: Vytautas popiežiui rašė norįs be kraujo praliejimo atversti husitus ir prašė sustabdyti kryžiaus karus bei ekskomuniką.
-- susijęs iš [[objektai/grupes/Husitai.md#claim-t-172100|Husitai]]: Popiežius draudė Vytautui siųsti Kaributą ir grasė paskelbti Lietuvai kryžiaus žygį, jei jis nenutrauks ryšių su husitais.
-- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116735|Katalikų Bažnyčia]]: 1417 m. gegužės 13 d. popiežius Martynas V pavedė Vytautui ir Jogailai kurti bažnyčias, globoti kunigiją ir ginti tikėjimą Lietuvoje ir Rusijoje.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
 - susijęs iš [[objektai/grupes/Lenkijos bajorai.md#claim-t-86800|Lenkijos bajorai]]: Lenkijos bajorai Varkoje nutarė siųsti pasiuntinius pas Švitrigailą reikalauti išlaisvinti karalių.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179407|Livonijos ordinas]]: Konstancijos susirinkimas paskyrė Vytautą Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo šias vyskupijas.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179416|Livonijos ordinas]]: Konstancijos susirinkimas paskyrė Vytautą Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo šias vyskupijas.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176096|Vilniaus kapitula]]: Kapitula ragino vyskupą imtis priemonių, kai sostinėje pasklido kitatikystė.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176099|Vilniaus kapitula]]: Vilniaus kapitula, sužinojusi apie sostinėje plintančią kitatikystę, ragino vyskupą imtis priemonių.
-- susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113357|Vilniaus universitetas]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų.
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113366|Vilniaus universitetas]]: Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
-- susijęs iš [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.).md#claim-t-50801|Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]: Vytautas susitarė su Ordinu dėl pagal taiką nustatytų sienų, suteikė laisvę prekybai ir užmezgė draugiškus santykius.
-- susijęs iš [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.).md#claim-t-66511|Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]: 1246 m. Sventopelkas su didesne kariuomene persekiojo atsitraukiančius brolius, bet mūšyje prarado 1500 vyrų.
 - susijęs iš [[objektai/ivykiai/Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.).md#claim-t-183931|Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.)]]: Per nelaimę prie Liono nukentėjo popiežius Klemensas V, o nuo jo galvos nulėkė vainikas, iš kurio iškrito ir pradingo rubinas.
 - susijęs iš [[objektai/ivykiai/Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.).md#claim-t-62322|Klemenso V vainikavimo procesijos nelaimė prie Liono (1305 m. po lapkričio 18 d.)]]: Po Klemenso V vainikavimo prie Liono išgriuvusi mūro siena nuslėgė daug žmonių, tarp jų ir popiežiaus arklį vedusį Britanijos kunigaikštį.
 - susijęs iš [[objektai/ivykiai/Martyno Paleckio stiklo liejyklos privilegijos suteikimas Vilniuje (1547 m. gegužės 22 d.).md#claim-t-86957|Martyno Paleckio stiklo liejyklos privilegijos suteikimas Vilniuje (1547 m. gegužės 22 d.)]]: Martynas Paleckis Vilniuje gavo leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą.
@@ -301,49 +442,22 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - susijęs iš [[objektai/ivykiai/Martyno iš Golino vakarinis antpuolis Sūduvos kaime.md#claim-t-62394|Martyno iš Golino vakarinis antpuolis Sūduvos kaime]]: Martynas iš Golino su būreliu vyrų vakare užpuolė Sūduvos kaimą, išžudė žmones, pagrobė turtą ir išsivarė moteris bei vaikus į nelaisvę.
 - susijęs iš [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas.md#claim-t-62873|Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]: Martynas iš Golino su 4 vokiečiais ir 11 prūsų užgrobė Sūduvos kaimą, išžudydamas arba į nelaisvę išsivesdamas žmones.
 - susijęs iš [[objektai/ivykiai/Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas.md#claim-t-62874|Martyno iš Golino žygis į Sūduvos kaimą, bendražygių žūtis ir kerštas]]: Po bendražygių žūties Martynas iš Golino sušaukė išsklaidytus vyrus, atgavo ginklus ir užpuolęs sūduvius juos išžudė.
-- susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66780|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Prieš Merkinės puolimą 1945 m. gruodžio 5 d. prie Mardasavo NKVD dalinio užklupti žuvo keturi Marcinkonių bataliono partizanai.
-- susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66781|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: 1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas ir trys jo kovos draugai.
-- susijęs iš [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių.md#claim-t-89386|Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]: Pelužis su Karaliaučiaus komtūro paskirtais bendrais patraukė keršyti už patirtas skriaudas.
-- susijęs iš [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių.md#claim-t-89387|Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]: Pelužio būrys vestuvėse užpuolė kunigaikščio sodybą ir nužudė 70 kunigaikščių su namų šeimininku.
-- susijęs iš [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių.md#claim-t-89388|Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]: Pelužis, įžeistas savo viešpaties, atvyko pas Sembos žemės brolius keršyti už patirtas skriaudas.
-- susijęs iš [[objektai/ivykiai/Pirmosios lietuviškos knygos išspausdinimas.md#claim-t-20457|Pirmosios lietuviškos knygos išspausdinimas]]: 1547 m. Karaliaučiuje išspausdintas Martyno Mažvydo „Katekizmas“ buvo pirmoji knyga lietuvių kalba, skirta lietuviams ir Lietuvai.
-- susijęs iš [[objektai/ivykiai/Reformacijos pradžia Lietuvoje.md#claim-t-20461|Reformacijos pradžia Lietuvoje]]: 1517 m. Martynas Liuteris pradėjo reformaciją, laikomą viena reikšmingiausių Naujųjų amžių apraiškų.
 - susijęs iš [[objektai/ivykiai/Rudino brolių susidūrimas su trimis ir penkiais prūsais.md#claim-t-59596|Rudino brolių susidūrimas su trimis ir penkiais prūsais]]: Vienas Rudino brolis ir Martynas iš Golino, pasiklydę dykrose, susidūrė su prūsais, juos įveikė ir grįžo į Rudino pilį.
 - susijęs iš [[objektai/ivykiai/Sicilijos prancūzų žudynės (1281 m.).md#claim-t-62476|Sicilijos prancūzų žudynės (1281 m.)]]: 1281 m. Sicilijos karalystėje palermiečiai išžudė ten gyvenusius prancūzus, tiek vyrus, tiek moteris.
 - susijęs iš [[objektai/ivykiai/Slaptos derybos dėl Lietuvos karalystės paskelbimo ir popiežiaus Martyno V priešinimasis.md#claim-t-185643|Slaptos derybos dėl Lietuvos karalystės paskelbimo ir popiežiaus Martyno V priešinimasis]]: Popiežius Martynas V įspėjo Kulmo vyskupą neapvainikuoti Vytauto karaliaus vainiku ir nepakelti jo į Lietuvos karalius.
-- susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45450|Vilniaus universiteto įkūrimas (1579 m.)]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
-- susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45451|Vilniaus universiteto įkūrimas (1579 m.)]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
-- susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas.md#claim-t-71774|Vilniaus universiteto įkūrimas]]: Yra ir kitas senojo Vilniaus universiteto istorinės reikšmės aspektas.
-- susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas.md#claim-t-71778|Vilniaus universiteto įkūrimas]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
 - susijęs iš [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas.md#claim-t-176177|Vilniaus vyskupystės įkūrimas]]: Kuriant Vilniaus vyskupystę buvo padėti pamatai Vilniaus katedrai ir šv. Martyno bei šv. Jono bažnyčioms.
-- susijęs iš [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.).md#claim-t-179459|Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]: Jogaila apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Jogailos paskyrimas popiežiaus Martyno V vikariais Lietuvai ir Rusijai (1417 m. gegužės 13 d.).md#claim-t-34561|Vytauto ir Jogailos paskyrimas popiežiaus Martyno V vikariais Lietuvai ir Rusijai (1417 m. gegužės 13 d.)]]: 1417 m. gegužės 13 d. popiežius Martynas V paskyrė Vytautą ir Jogailą savo vikarais pasauliniuose dalykuose Lietuvai ir Rusijai.
-- susijęs iš [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.).md#claim-t-05325|Vytauto karūnacijos byla (1429–1430 m.)]]: Kai imperatorius pranešė parengęs du vainikus, lenkams pavyko įtikinti popiežių Martyną V sulaikyti Vytauto vainikavimą.
-- susijęs iš [[objektai/ivykiai/Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.).md#claim-t-34527|Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)]]: Žemaičių arba Medininkų vyskupija buvo įkurta 1417 m. spalio 24 d. kaip antroji Lietuvos vyskupija.
-- susijęs iš [[objektai/paprociai/Bažnyčių steigimas buvusiose pagonių kulto vietose.md#claim-t-87202|Bažnyčių steigimas buvusiose pagonių kulto vietose]]: Vilniaus Šv. Stanislovo katedra, Šv. Martyno ir Šv. Jono bažnyčios laikytos įkurtomis buvusiose pagonių apeigų vietose.
-- susijęs iš [[objektai/paprociai/Bažnyčių steigimas buvusiose pagonių kulto vietose.md#claim-t-87203|Bažnyčių steigimas buvusiose pagonių kulto vietose]]: Krikščionių bažnyčias buvo raginama steigti ten, kur anksčiau stovėjo pagonių šventyklos ar šventos giraitės.
 - susijęs iš [[objektai/paprociai/Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą.md#claim-t-54245|Jėzuitiškas mokymas ir katalikybės sklaida per Vilniaus universitetą]]: Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
-- susijęs iš [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos.md#claim-t-183989|Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]: Martynas nukovė dešimt vyrų pirtyje, pagrobė arklių, gyvulių ir kitų daiktų, o moteris bei vaikus išsivarė į nelaisvę.
-- susijęs iš [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos.md#claim-t-59739|Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]: Martynas su bendrais prie Bugo užpuolė prekių laivą, išžudė upeivius, nuplukdė grobį į Torunę ir pasidalijo pinigus.
-- susijęs iš [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos.md#claim-t-59740|Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]: Martynas nukovė dešimt vyrų pirtyje, pagrobė arklių, gyvulių ir kitų daiktų, o moteris bei vaikus išsivarė į nelaisvę.
-- susijęs iš [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos.md#claim-t-59741|Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]: Martynas iš Golino su keturiais vokiečiais ir vienuolika prūsų užgrobė kaimą Sūduvos žemėje.
 - susijęs iš [[objektai/paprociai/Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje.md#claim-t-77953|Spaustuvių steigimas ir konfesinis knygų spausdinimas Lietuvoje]]: Pranciškus Skorina, pirmasis Lietuvos spaustuvininkas, 1517–1519 m. Prahoje išspausdino „Rusėnų Bibliją“, o 1522 m. įkūrė spaustuvę Vilniuje.
-- susijęs iš [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui.md#claim-t-87148|Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]: 1430 m. Vytautas sukvietė į Trakus ir Vilnių šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.
-- susijęs iš [[objektai/paprociai/Vestuvių puotos girtavimas iki užmigimo.md#claim-t-62723|Vestuvių puotos girtavimas iki užmigimo]]: Lietuvos kilmingieji per vestuves nusigėrė ir sugulė ilsėtis, o užpuolikai tada nužudė 70 kunigaikščių su šeimininku.
-- susijęs iš [[objektai/posakiai/krikščioniškieji plėšikautojai.md#claim-t-59119|krikščioniškieji plėšikautojai]]: „Krikščioniškieji plėšikautojai“, veikę Ordino labui, galėjo pateikti nemaža žinių apie Lietuvos ir Prūsijos kraštus.
-- susijęs iš [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią.md#claim-t-34408|vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]: Vytautas manė, kad Kaributo siuntimas buvo vienintelis kelias atvesti husitus atgal į katalikų Bažnyčią.
 - susijęs iš 1547 m. Žygimanto Augusto privilegija Martynui Paleckiui dėl stiklo liejyklos: Žygimantas Augustas suteikė Martynui Paleckiui ir jo palikuonims išimtinę teisę supirkti į Vilnių iš Lenkijos vežamą stiklą, išskyrus Venecijos stiklą.
 - susijęs iš 1547 m. Žygimanto Augusto privilegija Martynui Paleckiui dėl stiklo liejyklos: Už karaliaus dovanotą žemę Martynas Paleckis turėjo kasmet pristatyti į Vilniaus karališkuosius rūmus po 200 didžiųjų ir mažesniųjų Kurovo stiklinių.
 - susijęs iš 1547 m. Žygimanto Augusto privilegija Martynui Paleckiui dėl stiklo liejyklos: 1547 m. Martynas Paleckis gavo žemės sklypą už Vilijos ir leidimą steigti stiklo liejyklą bei Vilniuje pardavinėti lenkišką stiklą.
 - susijęs iš 1547 m. Žygimanto Augusto privilegija Martynui Paleckiui dėl stiklo liejyklos: Martynui Paleckiui suteikta stiklo liejyklos privilegija buvo rašyta slavų kalba ir duota 1547 m. gegužės 22 d.
 - susijęs iš Anonimo, vad. Martyno Galio, kronika: XII a. pradžioje surašytoje Anonimo, vadinamo Martynu Galiu, kronikoje iš baltų buvo žinomas tik prūsų vardas.
-- susijęs iš Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą: Martyno Smigleckio veikalo „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ 7-asis leidimas 1640 m. išleistas Krokuvoje.
 - susijęs iš Karaliaus Aleksandro testamentas (1506 m.): Aleksandro testamentas buvo duotas Lydos pilyje 1506 m. Šv. Jokūbo apaštalo šventės išvakarėse.
 - susijęs iš Lietuvos metraštis (Bychovco kronika): Lietuvių kilmės iš romėnų teorija pateko į Lietuvos metraščius, tarp jų ir Bychovco kroniką.
 - susijęs iš Martyno Mažvydo Katekizmas: Martyno Mažvydo „Katekizmas“ yra pirmoji lietuviška knyga.
 - susijęs iš Martyno Mažvydo Katekizmas: Martyno Mažvydo „Katekizmas“ citatoje įvardijamas kaip pirmoji lietuviška knyga.
-- susijęs iš Martyno Mažvydo Katekizmas: 1547 m. Karaliaučiuje išspausdintas Martyno Mažvydo „Katekizmas“ buvo pirmoji knyga lietuvių kalba.
-- susijęs iš Martyno Mažvydo Katekizmas: 1547 m. išleistas Martyno Mažvydo „Katekizmas“ laikomas Abraomo Kulviečio ir Stanislovo Rapolionio kultūrinės programos dalimi.
 - susijęs iš Martyno Smigleckio Logika: Martyno Smigleckio „Logika“ (1618 m.) pasiekė protestantiškąją Angliją, ja rėmėsi Sorbonos ir Oksfordo daktarai.
 - susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Martynas iš Opavos parašė popiežių ir imperatorių istoriją, baigiamą XIII a. aštuntojo dešimtmečio įvykiais.
 - susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Martyno iš Opavos istorijoje pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona – kūnu.
@@ -358,16 +472,91 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - susijęs iš Stepono Batoro patvirtinta sutartis tarp Martyno Paleckio ir Vilniaus miesto dėl stiklo liejyklos: 1583 metų Varšuvos seime Vilniaus miestas ir Martynas Paleckis sudarė sutartį dėl stiklo liejyklos ir stiklo supirkimo teisių.
 - susijęs iš Vytauto laiškai popiežiui Martynui V: Vėlesniame laiške popiežiui Martynui V Vytautas teigė nenutraukiantis ryšių su Bažnyčia ir prašė sustabdyti kryžiaus karus.
 - susijęs iš Vytauto laiškai popiežiui Martynui V: Vytautas laiške popiežiui Martynui V teigė, kad Kaributo siuntimas yra kelias husitams grąžinti į katalikų Bažnyčią.
+- susijęs iš Anglija: Vilniaus universiteto profesorių veikalai pasiekė Angliją, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. išversta į anglų kalbą.
+- susijęs iš Brasta: Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.
+- susijęs iš Gnievkove: 1419 m. gegužę Gnievkove vykęs suvažiavimas, kuriame dalyvavo Martyno V legatas Baltramiejus Capri, baigėsi nesėkmingai.
+- susijęs iš Oksfordas: Oksfordo daktarai rėmėsi Martyno Smigleckio „Logika“ (1618 m.), vienu iš Vilniaus universiteto profesorių veikalų, pasiekusių protestantiškąją Angliją.
+- susijęs iš Roma: Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą.
+- susijęs iš Vilniaus katedra: Vilniaus katedrai pamatai buvo padėti kartu su Šv. Martyno ir Šv. Jono bažnyčiomis.
+- susijęs iš Vilniaus universitetas: Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
+- susijęs iš Vilnius: 1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines idėjas ir savo mokykloje išlavino šešiasdešimt mokinių.
+- susijęs iš Vilnius: Vilniuje buvo įsteigtas pirmasis stiklo fabrikas, kurį steigti leidimą gavo karaliaus dvariškis Martynas Paleckis.
+- susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-18765|Albertas Vijūkas-Kojalavičius]]: Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių įtakos sklaidos Lietuvoje.
+- susijęs iš [[objektai/asmenys/Andrius Kopernikas.md#claim-t-87483|Andrius Kopernikas]]: Andrius Kopernikas 1514 m. buvo Varmės kanauninkas, kuriam rašė Lenkijos karalius Žygimantas.
+- susijęs iš [[objektai/asmenys/Cvinglis.md#claim-t-87646|Cvinglis]]: Martyno Liuterio ir Cvinglio mokslas Vilniuje buvo giliai įsišaknijęs ir remiamas Mikalojaus Radvilos Juodojo.
+- susijęs iš [[objektai/asmenys/Horacijus.md#claim-t-25555|Horacijus]]: Europos universitetuose Horacijus buvo įprastas skaitomas autorius, vietoje kurio skaityta Motiejaus Kazimiero Sarbievijaus poezija.
+- susijęs iš [[objektai/asmenys/Ignotas Masalskis.md#claim-t-75845|Ignotas Masalskis]]: 1769 m. Martynas Knakfusas tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti jo rūmus Verkiuose.
+- susijęs iš [[objektai/asmenys/Jonas Marija.md#claim-t-87726|Jonas Marija]]: Jonas Marija buvo architektas ir raižytojas, savo meno kūriniais papuošęs Vilnių.
+- susijęs iš [[objektai/asmenys/Jonas XXIII.md#claim-t-176496|Jonas XXIII]]: Jonas XXIII atėmė Vokiečių ordinui teises ir privilegijas, kuriomis jis teisino savo užpuolimus.
+- susijęs iš [[objektai/asmenys/Klemensas V.md#claim-t-59927|Klemensas V]]: Po Klemenso V vainikavimo prie Liono sugriuvusi mūro siena pražudė daug žmonių, o pats popiežius nukentėjo.
+- susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89922|Konradas, vardu Divelis]]: Petras Dusburgietis Konradą, vardu Divelį, mini tarp krikščionių plėšikautojų, kurių žygius vadino nuostabiais ir nepaprastais.
+- susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89923|Konradas, vardu Divelis]]: Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.
+- susijęs iš [[objektai/asmenys/Konradas, vardu Divelis.md#claim-t-89924|Konradas, vardu Divelis]]: Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje.
+- susijęs iš [[objektai/asmenys/Martynas Mažvydas.md#claim-t-19126|Martynas Mažvydas]]: 1547 m. išleistas Martyno Mažvydo „Katekizmas“ laikomas Abraomo Kulviečio ir Stanislovo Rapolionio programos dalimi.
+- susijęs iš [[objektai/asmenys/Mata.md#claim-t-60055|Mata]]: Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.
+- susijęs iš [[objektai/asmenys/Pelužis.md#claim-t-184818|Pelužis]]: Pelužio būrys buvo papildytas keliais miklesniais jo dvariškiais ir dvidešimčia kryžiuočių riterių.
+- susijęs iš [[objektai/asmenys/Pelužis.md#claim-t-90002|Pelužis]]: Pelužis su Karaliaučiaus komtūro paskirtais vyrais užpuolė savo viešpaties sodybą ir nužudė 70 kunigaikščių.
+- susijęs iš [[objektai/asmenys/Pelužis.md#claim-t-90004|Pelužis]]: Lietuvis Pelužis, įžeistas savo viešpaties kunigaikščio, atvyko pas Sembos žemės brolius ir siekė atkeršyti už patirtas skriaudas.
+- susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173216|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: 1539 m. Vilniaus vyskupas Povilas valdė Vilniaus dieceziją, kai Abraomas Kulvietis mieste skleidė Liuterio religines pažiūras.
+- susijęs iš [[objektai/asmenys/St. Ciolką.md#claim-t-34827|St. Ciolką]]: St. Ciolka buvo Vytauto proteguojamas kandidatas į Poznanės vyskupus.
+- susijęs iš [[objektai/asmenys/Stanislovas Rapolionis.md#claim-t-19244|Stanislovas Rapolionis]]: Stanislovas Rapolionis kartu su Abraomu Kulviečiu tapo vienu pirmųjų 1544 m. įkurto Karaliaučiaus universiteto profesorių.
+- susijęs iš [[objektai/asmenys/Stanislovas Skopas.md#claim-t-87581|Stanislovas Skopas]]: Stanislovas Skopas Pabaisko parapijoje turėjo gėrybių, nuo kurių anksčiau buvo mokama dešimtinė.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176714|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1430 m. Vytautas ketino karūnuotis Lietuvos karaliumi, dalyvaujant sušauktiems kunigaikščiams ir pasiuntiniams.
+- susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-87380|Zigmantas (Romos imperatorius)]]: Popiežius Martynas V paragino imperatorių Zigmantą rūpintis Jogailos išlaisvinimu.
+- susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176873|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis 1420 m. Breslavo sprendimu priskyrė Ordinui ir Žemaitiją.
+- susijęs iš [[objektai/asmenys/Štaubemelis.md#claim-t-60475|Štaubemelis]]: Štaubemelis minimas tarp krikščionių plėšikautojų, kurių žygius Dusburgietis vadino nuostabiais ir nepaprastais.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173329|Žygimantas Senasis]]: 1514 m. raštas Varmės kanauninkui Andriui Kopernikui buvo siejamas su Lenkijos karaliumi Žygimantu Senuoju.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173340|Žygimantas Senasis]]: Vilniaus vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kad Abraomas Kulvietis stotų prieš dvasinį teismą.
+- susijęs iš [[objektai/daiktai/1547 m. Paleckio privilegijos Lietuvos Didžiosios Kunigaikštystės antspaudas.md#claim-t-87106|1547 m. Paleckio privilegijos Lietuvos Didžiosios Kunigaikštystės antspaudas]]: 1547 m. gegužės 22 d. Paleckiui duota privilegija turėjo prikabintą Lietuvos Didžiosios Kunigaikštystės antspaudą.
+- susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-183981|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
+- susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-59705|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
+- susijęs iš [[objektai/daiktai/Skydas.md#claim-t-111285|Skydas]]: Martynas, priešams miegant, vieną po kito išvogė jų skydus, kalavijus ir ietis.
+- susijęs iš [[objektai/grupes/Husitai.md#claim-t-172096|Husitai]]: Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.
+- susijęs iš [[objektai/grupes/Husitai.md#claim-t-172097|Husitai]]: Vytautas popiežiui rašė norįs be kraujo praliejimo atversti husitus ir prašė sustabdyti kryžiaus karus bei ekskomuniką.
+- susijęs iš [[objektai/grupes/Husitai.md#claim-t-172100|Husitai]]: Popiežius draudė Vytautui siųsti Kaributą ir grasė paskelbti Lietuvai kryžiaus žygį, jei jis nenutrauks ryšių su husitais.
+- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116735|Katalikų Bažnyčia]]: 1417 m. gegužės 13 d. popiežius Martynas V pavedė Vytautui ir Jogailai kurti bažnyčias, globoti kunigiją ir ginti tikėjimą Lietuvoje ir Rusijoje.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179039|Kryžiuočių ordinas]]: 1246 m. mūšyje Sventopelkas įsakė tūkstančiui rinktinių karių pulti Kryžiuočių ordino brolius pėsčiomis ir ietimis galabyti jų arklius.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179407|Livonijos ordinas]]: Konstancijos susirinkimas paskyrė Vytautą Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo šias vyskupijas.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179416|Livonijos ordinas]]: Konstancijos susirinkimas paskyrė Vytautą Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo šias vyskupijas.
+- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176096|Vilniaus kapitula]]: Kapitula ragino vyskupą imtis priemonių, kai sostinėje pasklido kitatikystė.
+- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176099|Vilniaus kapitula]]: Vilniaus kapitula, sužinojusi apie sostinėje plintančią kitatikystę, ragino vyskupą imtis priemonių.
+- susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113357|Vilniaus universitetas]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų.
+- susijęs iš [[objektai/ivykiai/Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.).md#claim-t-50801|Bendras karas su Vokiečių Ordinu, Melno taika ir Žemaičių sutvarkymas (1422 m.)]]: Vytautas susitarė su Ordinu dėl pagal taiką nustatytų sienų, suteikė laisvę prekybai ir užmezgė draugiškus santykius.
+- susijęs iš [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.).md#claim-t-66511|Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]: 1246 m. Sventopelkas su didesne kariuomene persekiojo atsitraukiančius brolius, bet mūšyje prarado 1500 vyrų.
+- susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66780|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Prieš Merkinės puolimą 1945 m. gruodžio 5 d. prie Mardasavo NKVD dalinio užklupti žuvo keturi Marcinkonių bataliono partizanai.
+- susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66781|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: 1945 m. gruodžio 5 d. prie Mardasavo žuvo Marcinkonių bataliono vadas Lionginas Švalkus-Šernas ir trys jo kovos draugai.
+- susijęs iš [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių.md#claim-t-89386|Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]: Pelužis su Karaliaučiaus komtūro paskirtais bendrais patraukė keršyti už patirtas skriaudas.
+- susijęs iš [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių.md#claim-t-89387|Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]: Pelužio būrys vestuvėse užpuolė kunigaikščio sodybą ir nužudė 70 kunigaikščių su namų šeimininku.
+- susijęs iš [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių.md#claim-t-89388|Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]: Pelužis, įžeistas savo viešpaties, atvyko pas Sembos žemės brolius keršyti už patirtas skriaudas.
+- susijęs iš [[objektai/ivykiai/Pirmosios lietuviškos knygos išspausdinimas.md#claim-t-20457|Pirmosios lietuviškos knygos išspausdinimas]]: 1547 m. Karaliaučiuje išspausdintas Martyno Mažvydo „Katekizmas“ buvo pirmoji knyga lietuvių kalba, skirta lietuviams ir Lietuvai.
+- susijęs iš [[objektai/ivykiai/Reformacijos pradžia Lietuvoje.md#claim-t-20461|Reformacijos pradžia Lietuvoje]]: 1517 m. Martynas Liuteris pradėjo reformaciją, laikomą viena reikšmingiausių Naujųjų amžių apraiškų.
+- susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45450|Vilniaus universiteto įkūrimas (1579 m.)]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
+- susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas (1579 m.).md#claim-t-45451|Vilniaus universiteto įkūrimas (1579 m.)]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
+- susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas.md#claim-t-71774|Vilniaus universiteto įkūrimas]]: Yra ir kitas senojo Vilniaus universiteto istorinės reikšmės aspektas.
+- susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas.md#claim-t-71778|Vilniaus universiteto įkūrimas]]: Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų; už jį senesni buvo tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
+- susijęs iš [[objektai/ivykiai/Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.).md#claim-t-179459|Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)]]: Jogaila apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą.
+- susijęs iš [[objektai/ivykiai/Vytauto karūnacijos byla (1429–1430 m.).md#claim-t-05325|Vytauto karūnacijos byla (1429–1430 m.)]]: Kai imperatorius pranešė parengęs du vainikus, lenkams pavyko įtikinti popiežių Martyną V sulaikyti Vytauto vainikavimą.
+- susijęs iš [[objektai/ivykiai/Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.).md#claim-t-34527|Žemaičių vyskupijos įkūrimas (1417 m. spalio 24 d.)]]: Žemaičių arba Medininkų vyskupija buvo įkurta 1417 m. spalio 24 d. kaip antroji Lietuvos vyskupija.
+- susijęs iš [[objektai/paprociai/Bažnyčių steigimas buvusiose pagonių kulto vietose.md#claim-t-87202|Bažnyčių steigimas buvusiose pagonių kulto vietose]]: Vilniaus Šv. Stanislovo katedra, Šv. Martyno ir Šv. Jono bažnyčios laikytos įkurtomis buvusiose pagonių apeigų vietose.
+- susijęs iš [[objektai/paprociai/Bažnyčių steigimas buvusiose pagonių kulto vietose.md#claim-t-87203|Bažnyčių steigimas buvusiose pagonių kulto vietose]]: Krikščionių bažnyčias buvo raginama steigti ten, kur anksčiau stovėjo pagonių šventyklos ar šventos giraitės.
+- susijęs iš [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos.md#claim-t-183989|Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]: Martynas nukovė dešimt vyrų pirtyje, pagrobė arklių, gyvulių ir kitų daiktų, o moteris bei vaikus išsivarė į nelaisvę.
+- susijęs iš [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos.md#claim-t-59739|Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]: Martynas su bendrais prie Bugo užpuolė prekių laivą, išžudė upeivius, nuplukdė grobį į Torunę ir pasidalijo pinigus.
+- susijęs iš [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos.md#claim-t-59740|Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]: Martynas nukovė dešimt vyrų pirtyje, pagrobė arklių, gyvulių ir kitų daiktų, o moteris bei vaikus išsivarė į nelaisvę.
+- susijęs iš [[objektai/paprociai/Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos.md#claim-t-59741|Krikščionių plėšikautojų reidai, grobio gabenimas ir dalybos]]: Martynas iš Golino su keturiais vokiečiais ir vienuolika prūsų užgrobė kaimą Sūduvos žemėje.
+- susijęs iš [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui.md#claim-t-87148|Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]: 1430 m. Vytautas sukvietė į Trakus ir Vilnių šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.
+- susijęs iš [[objektai/paprociai/Vestuvių puotos girtavimas iki užmigimo.md#claim-t-62723|Vestuvių puotos girtavimas iki užmigimo]]: Lietuvos kilmingieji per vestuves nusigėrė ir sugulė ilsėtis, o užpuolikai tada nužudė 70 kunigaikščių su šeimininku.
+- susijęs iš [[objektai/posakiai/krikščioniškieji plėšikautojai.md#claim-t-59119|krikščioniškieji plėšikautojai]]: „Krikščioniškieji plėšikautojai“, veikę Ordino labui, galėjo pateikti nemaža žinių apie Lietuvos ir Prūsijos kraštus.
+- susijęs iš [[objektai/posakiai/vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią.md#claim-t-34408|vienintelis kelias, kuriuo galima atvesti husitus atgal į katalikų Bažnyčią]]: Vytautas manė, kad Kaributo siuntimas buvo vienintelis kelias atvesti husitus atgal į katalikų Bažnyčią.
+- susijęs iš Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą: Martyno Smigleckio veikalo „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ 7-asis leidimas 1640 m. išleistas Krokuvoje.
+- susijęs iš Martyno Mažvydo Katekizmas: 1547 m. Karaliaučiuje išspausdintas Martyno Mažvydo „Katekizmas“ buvo pirmoji knyga lietuvių kalba.
+- susijęs iš Martyno Mažvydo Katekizmas: 1547 m. išleistas Martyno Mažvydo „Katekizmas“ laikomas Abraomo Kulviečio ir Stanislovo Rapolionio kultūrinės programos dalimi.
 - susijęs iš Vytauto laiškai į Romą dėl husitų: Vytautas į Romą pasiuntė laiškus, kuriuose pasižadėjo visa savo galybe pulti husitus.
 - susijęs iš Žygimanto Senojo laiškas Andriui Kopernikui dėl Varmės kapitulos (1514 m. gegužės 6 d.): Žygimantas Senasis 1514 m. rašte Varmės kanauninkui Andriui Kopernikui aptarė Varmės vyskupo rinkimo tvarką.
 - susijęs iš „Wiadomość o funduszu i dochodach Szpitala i Probostwa Św. Trójcy w Wilnie będącego“: „Wiadomość o funduszu i dochodach Szpitala i Probostwa Św. Trójcy w Wilnie będącego“ buvo duota 1789 m. rugsėjo 21 d.
-- susijęs iš Anglija: Vilniaus universiteto profesorių veikalai pasiekė Angliją, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. išversta į anglų kalbą.
 - susijęs iš Bobruiskas: Bobruiske atsirado jėzuitų kolegija, įkurta Triznos fundacijos pagrindu.
 - susijęs iš Brasta: Brastoje jėzuitų kolegija atsirado vicekanclerio Leono Kazimiero Sapiegos fundacijos pagrindu.
-- susijęs iš Brasta: Brastoje iš žydo buvo paimti 96 raudonieji auksinai po 56 lenkiškus grašius už sidabro užstatą karaliaus reikalams.
 - susijęs iš Gardinas: Gardine atsirado jėzuitų kolegija, funduota Smolensko vyskupo Isaikovskio ir kitų rėmėjų.
 - susijęs iš Gedimino kalnas: Jogailos pastatyta Šv. Martyno bažnyčia Aukštutinėje pilyje ant Gedimino kalno išbuvo iki XV amžiaus.
-- susijęs iš Gnievkove: 1419 m. gegužę Gnievkove vykęs suvažiavimas, kuriame dalyvavo Martyno V legatas Baltramiejus Capri, baigėsi nesėkmingai.
 - susijęs iš Inovroclavas: Vienas iš trijų į Vilnių pakviestų lenkų tapytojų buvo Vaitiekus Chelminskis iš Inovroclavo.
 - susijęs iš Karaliaučius: 1547 m. Martyno Mažvydo „Katekizmas“ buvo išspausdintas Karaliaučiuje ir skirtas lietuviams bei Lietuvai.
 - susijęs iš Karaliaučius: Lietuvių prekių kelias į Dancigą ėjo pro Klaipėdą ir Karaliaučių, o kailiai buvo parduodami Karaliaučiaus pirkliams.
@@ -384,24 +573,18 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - susijęs iš Naugardukas: Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): 1547 m. privilegijoje fabrikui skirtas sklypas apibūdintas kaip esantis už Vilijos upės prie Vilniaus miesto.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Nuo 1556 m. Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos tapo reformos šalininkų prieglobsčiu ir mokykla.
-- susijęs iš Oksfordas: Oksfordo daktarai rėmėsi Martyno Smigleckio „Logika“ (1618 m.), vienu iš Vilniaus universiteto profesorių veikalų, pasiekusių protestantiškąją Angliją.
 - susijęs iš Paleckio stiklo liejykla prie Vilijos: Martynas Paleckis gavo sklypą už Vilijos ir leidimą steigti stiklo liejyklą prie Vilniaus.
 - susijęs iš Pašiaušė: Pašiaušėje veikusi jėzuitų kolegija atsirado bajoro Beinarto fundacijos pagrindu.
 - susijęs iš Prūsija: Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa Prūsijoje pradėjo lietuviakalbės raštijos tradiciją.
 - susijęs iš Prūsija: Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa Prūsijoje pradėjo lietuviakalbės raštijos tradiciją.
 - susijęs iš Prūsija: Petro iš Dusburgo kronikos IV dalies paaiškinimai Prūsijos įvykius gretino su visuotinės istorijos faktais.
 - susijęs iš Prūsija: 1629 m. Altmarko paliaubomis švedams šešeriems metams buvo palikti kai kurie Prūsijos uostai, tarp jų Klaipėda.
-- susijęs iš Roma: Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą.
 - susijęs iš Rudinas: Sargybinis rado sužeistą Martyną kovos vietoje ir nuvežė jį į Rudino pilį.
 - susijęs iš Smolenskas: Smolenske atsirado jėzuitų kolegija, funduota klebono Lempickio ir kitų rėmėjų.
 - susijęs iš Varka: Lenkijos bajorai Varkoje nusprendė reikalauti paleisti karalių, o nesėkmės atveju rengti žygį į Lietuvą.
 - susijęs iš Vidurio Europa: Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų.
 - susijęs iš Vilija: Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 metų tapo reformacijos šalininkų prieglobsčiu ir mokykla.
 - susijęs iš Vilija: 1547 m. Paleckio liejyklai skirtas sklypas buvo prie Vilniaus miesto, už Vilijos upės.
-- susijęs iš Vilniaus katedra: Vilniaus katedrai pamatai buvo padėti kartu su Šv. Martyno ir Šv. Jono bažnyčiomis.
-- susijęs iš Vilniaus universitetas: Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.
-- susijęs iš Vilnius: 1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines idėjas ir savo mokykloje išlavino šešiasdešimt mokinių.
-- susijęs iš Vilnius: Vilniuje buvo įsteigtas pirmasis stiklo fabrikas, kurį steigti leidimą gavo karaliaus dvariškis Martynas Paleckis.
 - susijęs iš Vilnius: Žygimanto Augusto laikais į Vilnių atvyko Krokuvos amatininkai, prisidėję prie miesto cechų organizavimo.
 - susijęs iš Vilnius: Tą pačią vasarą į Vilnių pas Aleksandrą atvyko jo motina Elžbieta, brolis Fridrichas ir seserys Barbora bei Elžbieta, o metraštis pabrėžia džiaugsmingą jų priėmimą.
 - susijęs iš Vitebskas: Vitebske atsirado jėzuitų kolegija, įkurta Smolensko vaivados A. Gansiausko fundacija.
@@ -439,6 +622,16 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   statusas: verified
   pagrindžia:
     - t-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 80709-81237; hash=a95cd039932a81f4a50e1148758c2752c639b92d8e95aa95ea06dcd5b821102a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rudinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rudinas: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Rudinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-011
 
 - c-002
@@ -454,6 +647,16 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 453201-453708; hash=f8acab3fad02187076e145bb0150159d839fe68ab0a8795c7e8c7c6bc8d60f02; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=94
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-003
@@ -471,7 +674,27 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: saltinio_vaizdinys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 453201-453708; hash=f8acab3fad02187076e145bb0150159d839fe68ab0a8795c7e8c7c6bc8d60f02; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rudinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rudinas: mention_match, place, gap=65
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Rudinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 295322-295872; hash=5ea82c0dd998d8f3d0ddc08a54badffb68273c68838fa2d4412e25851dc9fc39; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalavijas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-015
 
 - c-004
@@ -487,7 +710,27 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 516836-517214; hash=2829adb66da6c49f7f1a6ee65d408b6a536a10c01cf1b42f66613676536a142f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=81
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 515608-516275; hash=022b22cc1e283e9f8f1f21db98d94916e002c002d35d04708db1cc312c7558d2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-010
 
 - c-005
@@ -505,8 +748,38 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=311806f53e34681d65f02b4b9e25276fabb8a4d6fc4d20c7ed213aaa985f7aa2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalavijas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-013
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 515608-516275; hash=022b22cc1e283e9f8f1f21db98d94916e002c002d35d04708db1cc312c7558d2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-014
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 515608-516275; hash=022b22cc1e283e9f8f1f21db98d94916e002c002d35d04708db1cc312c7558d2; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=69
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-012
 
 - c-006
@@ -525,6 +798,16 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 454157-454491; hash=6d38a445f865bb4c41677c41c54bdbc20b8a1e1fb3c3e0550a86622cfae528d6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=55
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-007
@@ -545,8 +828,38 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 516836-517214; hash=2829adb66da6c49f7f1a6ee65d408b6a536a10c01cf1b42f66613676536a142f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 295270-295676; hash=e801784407c6e5a0f2ecbcb11969e9b6fc3cb774d6189c25fee7f0f92b4bdfb7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-018
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 516836-517214; hash=2829adb66da6c49f7f1a6ee65d408b6a536a10c01cf1b42f66613676536a142f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=27
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-017
 
 - c-008
@@ -568,6 +881,16 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=70277ebe7439ab0c91199fd4384b25292d1781524320352587876e5da8545dd2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Torunė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Torunė: mention_match, place, gap=97
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Torunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
 
 - c-009
@@ -583,7 +906,27 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 295322-295872; hash=5ea82c0dd998d8f3d0ddc08a54badffb68273c68838fa2d4412e25851dc9fc39; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalavijas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 454157-454491; hash=6d38a445f865bb4c41677c41c54bdbc20b8a1e1fb3c3e0550a86622cfae528d6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=38
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-010
@@ -601,4 +944,28 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 80709-81237; hash=a95cd039932a81f4a50e1148758c2752c639b92d8e95aa95ea06dcd5b821102a; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Rudinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Rudinas: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Rudinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-016
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6ba45d03c3b0e39ae0e473f12aad8f5a48d27a959b0a1cf2468e5bb38f3db587; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: paskyre -> Pelužis: 0.86
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_appointment_local_appointee
+  ryšio_subjekto_parinkimas: Martynas iš Golino: owner_note_path, person, gap=8
+  ryšio_targeto_parinkimas: Pelužis: nearest_after_predicate, person, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_appointment_local_appointee". Subjektas "Martynas iš Golino" parinktas kaip owner_note_path. Targetas "Pelužis" parinktas kaip nearest_after_predicate aplink predikatą "paskyre". Patikimumą lėmė: target_after_predicate, same_sentence_locality, multiple_competing_people.
+
+## Ryšiai
+- [[objektai/asmenys/Martynas V]] paskyre Martynas iš Golino
+- Martynas iš Golino paskyre [[objektai/asmenys/Pelužis]]

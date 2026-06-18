@@ -36,19 +36,44 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a03e2071d997acc6324addf61b26b8aeeb94da7aa507b1547aac8898588629f9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tomas Venclova: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=121
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tomas Venclova" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-19286"></a>
 - t-002
   global_id: t-19286
   teiginys: '1960 m. Tomas Venclova su Aleksandru Štromu ir Pranu Morkumi užmezgė ryšius su Maskvos disidentais ir teikė jiems informaciją iš Lietuvos.'
   sudarymo_pagrindimas: 'Teiginys nutrūkęs, bet citata leidžia suformuluoti aiškų faktą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.)|Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Pranas Morkus|Pranas Morkus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Pranas Morkus|Pranas Morkus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_event: [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.)|Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1948 m.; įvykio data: 1960 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys nutrūkęs, bet citata leidžia suformuluoti aiškų faktą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0a51f0586dbbe34a8c751de9d526c517ca0d70cbf6b01be5dda582ff2e332a2e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tomas Venclova: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tomas Venclova" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Aleksandras Štromas.md#claim-t-18780|Aleksandras Štromas]]: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais ir padėjo leisti žurnalą „Sintaksis“.
+- susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74674|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus.
+- susijęs iš [[objektai/grupes/Lietuvos disidentai.md#claim-t-74671|Lietuvos disidentai]]: Lietuvos disidentinio judėjimo pradžia laikoma 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.
+- susijęs iš [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.).md#claim-t-75097|Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais, padėjo leisti „Sintaksis“ ir teikė informaciją iš Lietuvos.
+- susijęs iš Sintaksis: Žurnalui „Sintaksis“ informaciją iš Lietuvos teikė lietuvių disidentai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus.
+- susijęs iš [[objektai/zodynas/disidentai disidentinis judėjimas kitaminčiai.md#claim-t-104184|disidentai disidentinis judėjimas kitaminčiai]]: Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.
 - susijęs iš [[objektai/asmenys/Andrejus Sacharovas.md#claim-t-75688|Andrejus Sacharovas]]: Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus.
 - susijęs iš [[objektai/asmenys/Eitanas Finkelšteinas.md#claim-t-18883|Eitanas Finkelšteinas]]: Fizikas Eitanas Finkelšteinas priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
 - susijęs iš [[objektai/asmenys/Jurijus Orlovas.md#claim-t-19034|Jurijus Orlovas]]: Jurijus Orlovas vadovavo 1976 m. gegužės 12 d. įkurtai pirmajai Maskvos Helsinkio grupei.
@@ -56,18 +81,13 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
 - susijęs iš [[objektai/asmenys/Ona Lukauskaitė-Poškienė.md#claim-t-19182|Ona Lukauskaitė-Poškienė]]: Ona Lukauskaitė-Poškienė buvo poetė, buvusi kalinė ir Vilniuje įsikūrusios Helsinkio grupės narė.
 - susijęs iš [[objektai/asmenys/Viktoras Petkus.md#claim-t-19313|Viktoras Petkus]]: Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įsikūrusiai Helsinkio grupei.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74673|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupės nariai palaikė ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
-- susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74674|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74677|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupė priklausė SSRS Helsinkio grupių tinklui, stebėjusiam Helsinkio Baigiamojo akto įgyvendinimą.
-- susijęs iš [[objektai/grupes/Lietuvos disidentai.md#claim-t-74671|Lietuvos disidentai]]: Lietuvos disidentinio judėjimo pradžia laikoma 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.
-- susijęs iš [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.).md#claim-t-75097|Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais, padėjo leisti „Sintaksis“ ir teikė informaciją iš Lietuvos.
 - susijęs iš [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo).md#claim-t-75140|Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]: 1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, panaši į Maskvos Helsinkio grupę.
 - susijęs iš [[objektai/ivykiai/Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo).md#claim-t-75141|Lietuvos Helsinkio grupės įkūrimas Vilniuje (1976 m. ruduo)]]: 1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, panaši į SSRS kurtas Helsinkio Baigiamojo akto stebėsenos grupes.
 - susijęs iš Helsinkio Baigiamasis aktas: Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus.
-- susijęs iš Sintaksis: Žurnalui „Sintaksis“ informaciją iš Lietuvos teikė lietuvių disidentai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus.
 - susijęs iš Maskva: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė santykius su Maskvos disidentais ir teikė informaciją iš Lietuvos.
 - susijęs iš Maskva: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.
 - susijęs iš Vilnius: 1976 m. rudenį Vilniuje įsikūrė Helsinkio grupė, panaši į gegužės 12 d. įkurtą Maskvos Helsinkio grupę.
-- susijęs iš [[objektai/zodynas/disidentai disidentinis judėjimas kitaminčiai.md#claim-t-104184|disidentai disidentinis judėjimas kitaminčiai]]: Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.
 - susijęs iš [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda.md#claim-t-23534|pogrindis pogrindiniai leidiniai nelegali spauda]]: Iki 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų apie sovietų valdžios politiką Lietuvoje.
 ## Reikšmingi paminėjimai
 
@@ -106,4 +126,24 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0a51f0586dbbe34a8c751de9d526c517ca0d70cbf6b01be5dda582ff2e332a2e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tomas Venclova: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tomas Venclova" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a03e2071d997acc6324addf61b26b8aeeb94da7aa507b1547aac8898588629f9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tomas Venclova: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=121
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tomas Venclova" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

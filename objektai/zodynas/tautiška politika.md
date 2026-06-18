@@ -31,6 +31,9 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
   sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis ir pašalintas citatos fragmentiškumas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0f2e7cb3873db9e8111093c3185c5b6877b0c004bb5b5d93e13f077f5f468208; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-72768"></a>
 - t-002
@@ -43,6 +46,16 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
   temporalinis_llm_pakomentavimas: 'Perrašyta į aiškų faktinį sakinį be vertinamojo formulavimo.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e2a32bf20b799d49d9bf0d688c96efcc9e4ae29a404db079c19ae4aede371977; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: tautiška politika: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tautiška politika" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -76,4 +89,17 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0f2e7cb3873db9e8111093c3185c5b6877b0c004bb5b5d93e13f077f5f468208; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e2a32bf20b799d49d9bf0d688c96efcc9e4ae29a404db079c19ae4aede371977; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžiuočių ordinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: tautiška politika: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kryžiuočių ordinas: mention_match, group, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "tautiška politika" parinktas kaip owner_note_path. Targetas "Kryžiuočių ordinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

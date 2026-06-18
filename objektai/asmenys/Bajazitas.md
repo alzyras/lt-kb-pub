@@ -37,6 +37,16 @@ Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (p
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, aiškus ir tiesiogiai paremtas citata apie Bajazito kariuomenės pergalę.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=786ca48a7325e5cbc1b1844f8166afcf490bdda7fa55d207f346e66a5d06235a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bajazitas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajazitas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184671"></a>
 - t-002
@@ -48,6 +58,9 @@ Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (p
   sudarymo_pagrindimas: 'Tai autoriaus apibendrinimas, todėl palikta šaltinio atribucija.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 905498-905841; hash=d80fc2d6b55db00a74f0044124b24e675b3dc41c93e17be2ae0268398d8b03a7; match=exact
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/ivykiai/Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.).md#claim-t-185693|Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)]]: 1485 m. Bajazitas pradėjo karą prieš Valachijos valdovą Steponą ir užėmė kelis Dakijos miestus.
 - susijęs iš [[objektai/ivykiai/Popiežiaus ir imperatoriaus mėginimas per Liudviką įtraukti skitus į karą su turkais (1465 m.).md#claim-t-185532|Popiežiaus ir imperatoriaus mėginimas per Liudviką įtraukti skitus į karą su turkais (1465 m.)]]: Po Bajazito sutriuškinimo skitų vardas, pasak Kojelavičiaus, turkams kėlė didžiausią siaubą.
 - susijęs iš Kijevo Rusia: Kojelavičius artimesne tiesai laikė nuomonę, kad Vytautas pradėjo karą su skitais rūpindamasis apginti Rusią.
@@ -90,4 +103,20 @@ Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (p
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=786ca48a7325e5cbc1b1844f8166afcf490bdda7fa55d207f346e66a5d06235a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Bajazitas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Bajazitas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 905498-905841; hash=d80fc2d6b55db00a74f0044124b24e675b3dc41c93e17be2ae0268398d8b03a7; match=exact
+  sprendimo_priezastis: auto
+
+## Ryšiai
+- Bajazitas uzeme [[objektai/vietos/Dakija]]

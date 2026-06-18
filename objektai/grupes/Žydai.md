@@ -45,6 +45,16 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   temporalinis_llm_pakomentavimas: 'Pašalintas kontekstinis fragmentas ir suformuotas pilnas sakinys.'
   pagrindžia:
     - c-015
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 18721-18955; hash=92f818ff2fa4243ee1d3183ccec2398b971884640360644861f6e52eb81fa9b4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117382"></a>
 - t-002
@@ -53,15 +63,35 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e715861eb2e6946d4af812a2c9a58be14ef5bc2ca35c58d9dae1afaaa65481ff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jekaterina II: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Jekaterina II: mention_match, person, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Jekaterina II" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-117384"></a>
 - t-003
   global_id: t-117384
   teiginys: 'Žydai Lietuvoje nuo seno nebuvo naujiena, nes galėjo laisvai atvykti per Lenkijos sieną arba iš rytų.'
   sudarymo_pagrindimas: 'Teiginys palaikomas, bet reikia pašalinti OCR triukšmą ir padaryti sakinį sklandų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6fcfcadaa1e514f37968a56d0fcbc7f8c3b942df6e30e1b0f87d9fcfdf4ecfa4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117386"></a>
 - t-004
@@ -74,13 +104,23 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, o pradiniame sakinyje yra OCR triukšmo ir perteklinis jungtukas.'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 154857-155292; hash=be82db3d3cb1e1d8b7706d192656220990c259309d6de5b76b9632342c9484bc; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jidiš: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Jidiš: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Jidiš" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117387"></a>
 - t-005
   global_id: t-117387
   teiginys: 'Lietuvoje žydai galėjo tenkinti nacionalinius kultūrinius poreikius, bet su lietuviais gyveno atskirus, daugiausia darbo ryšiais susijusius gyvenimus.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir pašalintas perteklinis kontekstas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1923 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir pašalintas perteklinis kontekstas.'
@@ -104,13 +144,23 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Litvakai|Litvakai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3daa778277fa42d66e501b764997d917779d19367ad8c56bb78b57d2ff1b46b7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117390"></a>
 - t-008
   global_id: t-117390
   teiginys: 'Vytauto laikais žydai organizuotai persikėlė iš Lenkijos į Lietuvą.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo kontekstinis fragmentas, o citata paremia aiškų faktą apie žydus.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Europa'
   pagrindžia:
     - c-001
 
@@ -119,9 +169,19 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   global_id: t-117391
   teiginys: 'Žydai Lietuvoje nuo seno galėjo atvykti tiek per Lenkijos sieną, tiek iš rytų pusės.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a1259bc024ddc31d3d7d111874b49a094789f3a28d78fafa3cc4e11f4ab9850d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117392"></a>
 - t-010
@@ -134,6 +194,16 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytas žydų pasipriešinimo formas.'
   pagrindžia:
     - c-011
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 336625-337473; hash=a5f750f284791f823c1fffeb796d599746bca888298a158d96d834dcbf7c38f8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117393"></a>
 - t-011
@@ -149,12 +219,22 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   global_id: t-117394
   teiginys: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.'
   sudarymo_pagrindimas: 'Teiginys yra tikslus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: po 1791 m.; įvykio data: 1791 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus ir paremtas citata.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4209f10648cdb93f41fa736f4abb14595c621eb143c096bf6422a47e785b34de; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jidiš: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Jidiš: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Jidiš" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117395"></a>
 - t-013
@@ -167,18 +247,38 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   temporalinis_llm_pakomentavimas: 'Teiginys tinkamas, bet reikia išvalyti OCR triukšmą.'
   pagrindžia:
     - c-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 323783-324546; hash=36608a505aa8fadf1d68ff2ef849937f8eb2fec351eb77d5eccf256a520d64ef; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-117396"></a>
 - t-014
   global_id: t-117396
   teiginys: 'Žydai parėmė Lietuvos nepriklausomybę, dalyvavo Lietuvos Tarybos veikloje ir kaip savanoriai stojo į nepriklausomybės kovas.'
   sudarymo_pagrindimas: 'Reikia glaustesnės ir sklandesnės enciklopedinės formuluotės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/S. Rozenbaumas|S. Rozenbaumas]]; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/S. Rozenbaumas|S. Rozenbaumas]]; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Paryžius; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia glaustesnės ir sklandesnės enciklopedinės formuluotės.'
   pagrindžia:
     - c-014
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c34346953b6b23b76f2a020a6d5d531ec9ecde388ee1304ddba299f66104f179; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117397"></a>
 - t-015
@@ -195,12 +295,22 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   global_id: t-117399
   teiginys: '1923 m. pirmojo Lietuvos gyventojų surašymo duomenimis, žydai sudarė 7 proc. Lietuvos gyventojų be Vilniaus ir Klaipėdos kraštų.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir paremtas surašymo duomenimis citatoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1923 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir paremtas surašymo duomenimis citatoje.'
   pagrindžia:
     - c-013
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e715861eb2e6946d4af812a2c9a58be14ef5bc2ca35c58d9dae1afaaa65481ff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117400"></a>
 - t-017
@@ -210,6 +320,16 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-012
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6fcfcadaa1e514f37968a56d0fcbc7f8c3b942df6e30e1b0f87d9fcfdf4ecfa4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117401"></a>
 - t-018
@@ -222,6 +342,16 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citatoje nurodytais ūkio faktais.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=525d474d0753a49af92d8bb2d41f2884b914f51f00046504b5c4c1f9cae7aa12; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-117402"></a>
 - t-019
@@ -231,6 +361,16 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 340945-341713; hash=dce0a81ddf8099cded657f081605a447af9aebf811a4703ee29fd477e2571a48; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117403"></a>
 - t-020
@@ -243,6 +383,16 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie žydų gyvenimo ribojimą Rusijos imperijoje.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 342263-342958; hash=66fd69a9c9ff223d7d928d11ab001cc013e2d439af3f254d0956406bc0357407; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117404"></a>
 - t-021
@@ -255,6 +405,16 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   temporalinis_llm_pakomentavimas: 'Pašalinta neaiški nuoroda „šios erdvės“ ir išlaikyta citatos paremta mintis.'
   pagrindžia:
     - c-015
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 401668-402223; hash=f019c7a6062d4cfc210ba16c7307894432a0df0d4dd8fe9118b36d25bb661350; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-117405"></a>
 - t-022
@@ -273,7 +433,133 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„mūsų žydeliai“|„mūsų žydeliai“]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-016
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c6725741d0addeecab36b57c62f303fc9da05ba2a1045ce1eac11d495783c19a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=102
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77976|A. Smetona]]: A. Smetona agresyvesniems jaunalietuviams pareiškė, kad žydų apribojimų nereikia ir „vietos visiems užteks“.
+- susijęs iš [[objektai/asmenys/Boleslovas Maldingasis.md#claim-t-35039|Boleslovas Maldingasis]]: Boleslovo Maldingojo 1264 m. privilegijos buvo vienas iš pavyzdžių privilegijoms, pagal kurias žydai Lietuvoje gyveno ilgus šimtmečius.
+- susijęs iš [[objektai/asmenys/Boleslovas Pamaldusis.md#claim-t-87638|Boleslovas Pamaldusis]]: Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje.
+- susijęs iš [[objektai/asmenys/Jonas Kristupas Glaubicas.md#claim-t-23203|Jonas Kristupas Glaubicas]]: Jonas Kristupas Glaubicas kūrė liuteronams, katalikams, graikams katalikams, stačiatikiams ir žydams.
+- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184412|Kazimieras Didysis]]: Kazimieras Didysis į savo naujai pastatydintus miestus pritraukė daug pasiturinčių žydų tautybės žmonių.
+- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184418|Kazimieras Didysis]]: Kazimieras Didysis į naujai statomus miestus pritraukė daug pasiturinčių žydų tautybės žmonių.
+- susijęs iš [[objektai/asmenys/Pilypas Frizijus.md#claim-t-87562|Pilypas Frizijus]]: 1631 m. kunigas Pilypas Frizijus prie Vilniaus kapitulos 4000 auksinų pridėjo 1500 savų ir 5500 auksinų perdavė Vilniaus kahalo žydams.
+- susijęs iš [[objektai/asmenys/Simonas Rozenbaumas.md#claim-t-64057|Simonas Rozenbaumas]]: Simonas Rozenbaumas buvo Lietuvos delegacijos narys žydas, kurio argumentais lietuviai rėmėsi derybose su Sovietų Rusija.
+- susijęs iš [[objektai/asmenys/Simonas Rozenbaumas.md#claim-t-64058|Simonas Rozenbaumas]]: Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras.
+- susijęs iš [[objektai/asmenys/Vaitiekus (Lucko vyskupas).md#claim-t-87931|Vaitiekus (Lucko vyskupas)]]: 1507 m. Melnike Vaitiekus dalyvavo patvirtinant Trakų žydų privilegijas kaip Lucko vyskupas.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176630|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto tolerancijos įvaizdis sietas su totorių pakvietimu į Lietuvą ir žydams suteiktomis privilegijomis.
+- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173322|Žygimantas Senasis]]: 1507 m. Melnike Žygimantas Senasis patvirtino 1388 m. Vytauto privilegiją Trakų žydams.
+- susijęs iš [[objektai/autoriai/Benjaminas iš Tudelio.md#claim-t-54999|Benjaminas iš Tudelio]]: Benjaminas iš Tudelio apibūdintas kaip žydų kilmės keliauninkas.
+- susijęs iš [[objektai/autoriai/Dieckmann Ch.md#claim-t-26471|Dieckmann Ch]]: Ch. Dieckmannas ir S. Sužiedėlis parašė veikalą apie Lietuvos žydų persekiojimą ir masines žudynes 1941 m. vasarą ir rudenį.
+- susijęs iš [[objektai/autoriai/Liekis Š.md#claim-t-17675|Liekis Š]]: Š. Liekis parašė veikalą „A State within a State?“ apie žydų autonomiją Lietuvoje 1918–1925 m.
+- susijęs iš [[objektai/autoriai/Sužiedėlis S.md#claim-t-26479|Sužiedėlis S]]: S. Sužiedėlis kartu su Ch. Dieckmannu parašė leidinį apie Lietuvos žydų persekiojimą ir masines žudynes 1941 m. vasarą ir rudenį.
+- susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75431|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.
+- susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75432|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.
+- susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75434|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.
+- susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75436|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.
+- susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75437|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.
+- susijęs iš [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje.md#claim-t-81859|Užstato daiktai Trakų žydų privilegijoje]]: Trakų žydų privilegijoje leista užstatu priimti įvairius atneštus daiktus, išskyrus kruvinas skaras, šlapius drabužius ir bažnytinius rykus.
+- susijęs iš [[objektai/grupes/Baltarusiai.md#claim-t-65082|Baltarusiai]]: Kraštiečių demokratų srovė autonominę Lietuvą LDK ribose įsivaizdavo kaip daugiakultūrį lietuvių, lenkų, baltarusių ir iš dalies žydų darinį.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179170|Lenkai]]: Lietuva rūpinosi internuotų lenkų karių apgyvendinimu ir maitinimu bei 12 000 Lenkijos žydų pabėgėlių išlaikymu.
+- susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-13467|Lietuvių aktyvistų frontas]]: LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje.
+- susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-24554|Lietuvių aktyvistų frontas]]: LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169690|Lietuvos Didžioji Kunigaikštija]]: Istorinėje Lietuvoje gyvenę žydai šalį vadino „Lite“, o save – „litvakais“.
+- susijęs iš [[objektai/grupes/Lietuvos žydų taryba (Vaad).md#claim-t-74811|Lietuvos žydų taryba (Vaad)]]: 1920 m. sudaryta Lietuvos žydų taryba (Vaad) turėjo spręsti socialinius ir kultūrinius Lietuvos žydų reikalus.
+- susijęs iš [[objektai/grupes/Litvakai.md#claim-t-183170|Litvakai]]: Vilniaus Gaono autoritetui priskiriama įtaka litvakų reputacijai kaip griežtos religinės tradicijos ir pagarbaus požiūrio į mokslą žydų.
+- susijęs iš [[objektai/grupes/Litvakai.md#claim-t-45104|Litvakai]]: Vilniaus Gaono autoritetas galėjo lemti, kad litvakai imti laikyti iškiliais žydais, išsiskyrusiais religine tradicija, racionalumu ir pagarba išsimokslinimui.
+- susijęs iš [[objektai/grupes/Litvakai.md#claim-t-45106|Litvakai]]: Litvakas reiškė žydą iš istorinės Lietuvos, tačiau šiuo vardu imta vadinti ir savita gyvensena pasižymėjusius žydus.
+- susijęs iš [[objektai/grupes/MOPR.md#claim-t-19938|MOPR]]: MOPR buvo iš Maskvos diriguojama tarptautinė organizacija revoliucionieriams remti, kurioje daugumą sudarė žydai.
+- susijęs iš [[objektai/grupes/SD Einsatzgruppen.md#claim-t-19997|SD Einsatzgruppen]]: 1941 m. birželį SD Einsatzgruppen organizavo terorą, per kurį pasienyje buvo šaudomi žydai Gargžduose, Kretingoje, Palangoje ir kitur.
+- susijęs iš [[objektai/grupes/Tilžės gestapo būrys.md#claim-t-20049|Tilžės gestapo būrys]]: Tilžės gestapo būrys 1941 m. birželio 24–27 d. Gargžduose, Kretingoje ir Palangoje sušaudė 526 žydus.
+- susijęs iš [[objektai/grupes/Trakų žydai.md#claim-t-86716|Trakų žydai]]: Trakų žydai Žygimanto Senojo akivaizdoje prašė patvirtinti Vytauto privilegijoje jiems suteiktas teises ir laisves.
+- susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-55106|Vilniaus žydų kahalas]]: Vilniaus kahalo žydams buvo perduota 5 500 auksinų suma.
+- susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-81751|Vilniaus žydų kahalas]]: 1631 m. Vilniaus kahalo žydams buvo perduota 5500 auksinų suma, nuo kurios kahalas iki 1763 m. mokėjo 8 procentus Valerijono konvikto gyventojams.
+- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117317|Vokiečiai]]: Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų bendruomenės.
+- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-183197|Vokiečiai]]: Valdovams kviečiant pirklius ir amatininkus iš svetur, Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų.
+- susijęs iš [[objektai/grupes/Žydų Hapoelio klubas.md#claim-t-75087|Žydų Hapoelio klubas]]: 1935 m. Žydų Hapoelio klubo jaunieji sportininkai žygiavo Kauno centrine gatve.
+- susijęs iš [[objektai/grupes/Žydų Hapoelio klubas.md#claim-t-75088|Žydų Hapoelio klubas]]: 1935 m. Žydų Hapoelio klubo jaunieji sportininkai žygiavo Kauno centrine gatve.
+- susijęs iš [[objektai/ivykiai/Jekaterinos II sėslumo ribos nustatymas (1791 m.).md#claim-t-20210|Jekaterinos II sėslumo ribos nustatymas (1791 m.)]]: Jekaterina II 1791 m. nubrėžė sėslumo ribą, išvardydama gubernijas, kuriose galėjo gyventi žydai.
+- susijęs iš [[objektai/ivykiai/Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos.md#claim-t-75126|Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos]]: Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus.
+- susijęs iš [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas.md#claim-t-75231|Lietuvos žydų sunaikinimas - Holokaustas]]: 1943 m. naciai naikino Lietuvos miestų getus ir vežė Lietuvos žydus į koncentracijos stovyklas Estijoje, Latvijoje ir Lenkijoje.
+- susijęs iš [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas.md#claim-t-75233|Lietuvos žydų sunaikinimas - Holokaustas]]: Apie 50 tūkst. žydų buvo laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose.
+- susijęs iš [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas.md#claim-t-75234|Lietuvos žydų sunaikinimas - Holokaustas]]: Lietuvos žydų sunaikinimas dėl nacių rasinės genocidinės politikos laikomas kruviniausiu Lietuvos XX a. istorijos puslapiu ir didele tragedija.
+- susijęs iš [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas.md#claim-t-75235|Lietuvos žydų sunaikinimas - Holokaustas]]: Lietuvos žydų Holokaustas buvo viena iš didžiulių Lietuvos patirtų netekčių.
+- susijęs iš [[objektai/ivykiai/Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.).md#claim-t-20390|Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.)]]: 1920 m. sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus.
+- susijęs iš [[objektai/ivykiai/Nacių Vokietijos okupacija Lietuvoje (1941-1944 m.).md#claim-t-20429|Nacių Vokietijos okupacija Lietuvoje (1941-1944 m.)]]: 1941–1944 m. Lietuvoje vyko nacių Vokietijos okupacija ir žydų Holokaustas.
+- susijęs iš [[objektai/ivykiai/Vytauto Reivyčio įsakymas sulaikyti visus žydus ir getų sudarymas (1941 m. rugpjūčio 16 d.).md#claim-t-20566|Vytauto Reivyčio įsakymas sulaikyti visus žydus ir getų sudarymas (1941 m. rugpjūčio 16 d.)]]: 1941 m. rugpjūčio 16 d. Vytautas Reivytis slaptu raštu Nr. 3 įsakė sulaikyti visus žydus ir sutelkti juos numatytose vietose.
+- susijęs iš [[objektai/ivykiai/Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis).md#claim-t-20591|Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis)]]: 1918 m. gruodį Jokūbas Vygodskis tapo ministru be portfelio žydų reikalams, o S. Rozenbaumas – užsienio reikalų viceministru.
+- susijęs iš [[objektai/ivykiai/Žydų ministro be portfelio posto panaikinimas (1923 m.).md#claim-t-20592|Žydų ministro be portfelio posto panaikinimas (1923 m.)]]: 1923 m. buvo panaikintas žydų ministro be portfelio postas Lietuvos vyriausybėje.
+- susijęs iš [[objektai/ivykiai/Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.).md#claim-t-77913|Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.)]]: 1941 m. liepos 4 ir 6 d. TDA bataliono kuopa, nacių komanduojama kaip zonderkomanda, dalyvavo apie 3 000 žydų žudynėse Kauno VII forte.
+- susijęs iš [[objektai/paprociai/Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“.md#claim-t-54238|Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]: Istorinėje Lietuvoje gyvenę žydai šalį vadino „Lite“, o save – „litvakais“.
+- susijęs iš [[objektai/paprociai/Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“.md#claim-t-54239|Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]: Istorinės Lietuvos žydai šią šalį vadino „Lite“, o save – „litvakais“.
+- susijęs iš [[objektai/paprociai/Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas.md#claim-t-77937|Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas]]: Klaipėdos krašto vokiečių nacių organizacijos varė antivalstybinę propagandą, ruošėsi sukilimui ir krašto prijungimui prie Vokietijos, terorizavo lietuvių susirinkimus ir puldinėjo žydus.
+- susijęs iš [[objektai/paprociai/Žydų gelbėjimas ir slėpimas rizikuojant gyvybe.md#claim-t-20826|Žydų gelbėjimas ir slėpimas rizikuojant gyvybe]]: Dalis lietuvių visuomenės rizikuodama gyvybe bandė padėti žydams ir juos gelbėti.
+- susijęs iš [[objektai/paprociai/Žydų gelbėjimas ir slėpimas rizikuojant gyvybe.md#claim-t-20827|Žydų gelbėjimas ir slėpimas rizikuojant gyvybe]]: Už žydų gelbėjimą Pasaulio teisuoliais pripažinti 830 lietuvių, o jų sąrašas papildomas.
+- susijęs iš [[objektai/paprociai/Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje.md#claim-t-54377|Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje]]: Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.
+- susijęs iš [[objektai/paprociai/Žydų ir lietuvių ūkinės priklausomybės ir kalbinio bendravimo modelis.md#claim-t-77964|Žydų ir lietuvių ūkinės priklausomybės ir kalbinio bendravimo modelis]]: Lietuvoje lietuvių valstiečiai ir žydų pirkliai buvo ūkiškai priklausomi vieni nuo kitų.
+- susijęs iš [[objektai/paprociai/Žydų kelionių, laidotuvių lydėjimo, kapinių ir mokyklos apsauga.md#claim-t-87294|Žydų kelionių, laidotuvių lydėjimo, kapinių ir mokyklos apsauga]]: Krikščionis, padaręs žalą žydų kapinėse ar jas užpuolęs, turėjo būti nubaustas pagal žemės paprotį ir netekti turto iždo naudai.
+- susijęs iš [[objektai/paprociai/Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime.md#claim-t-77944|Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime]]: 1920 m. Lietuvos žydų kahalų atstovų konferencijoje sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus.
+- susijęs iš [[objektai/paprociai/Žydų prekybos ribojimas pilyse iki pusrytės.md#claim-t-07827|Žydų prekybos ribojimas pilyse iki pusrytės]]: Smulkesnėje prekyboje pilyse dar vertėsi krikščionys, o žydai negalėjo pirkti į pilį įvežamų prekių iki didžiosios pusrytės ar iki pietų.
+- susijęs iš [[objektai/posakiai/Tikiu dievą tėvą, visagalį.md#claim-t-59161|Tikiu dievą tėvą, visagalį]]: Brolis Henrikas ištarė „Tikiu dievą tėvą, visagalį“ ir kitus Apaštalų tikėjimo išpažinimo žodžius, kai buvo raginamas išpažinti žydų tikėjimą.
+- susijęs iš [[objektai/posakiai/Vardan Viešpaties Amen Amžinai dalykų atminčiai.md#claim-t-86852|Vardan Viešpaties Amen Amžinai dalykų atminčiai]]: Formulė „Vardan Viešpaties Amen Amžinai dalykų atminčiai“ siejama su Žygimanto Senojo raštu, patvirtinusiu Trakų žydų privilegiją.
+- susijęs iš [[objektai/posakiai/Viešpaties vardu Amen.md#claim-t-86878|Viešpaties vardu Amen]]: Formule „Viešpaties vardu Amen“ prasideda Žygimanto Senojo raštas, kuriuo patvirtinta Trakų žydų privilegija.
+- susijęs iš [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“.md#claim-t-26648|„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]: XVII–XVIII a. Vilniaus kaip „Lietuvos Jeruzalės“ idėja siejama su jo lyginimu su Krokuvos, Liublino ir Lvovo žydų kultūros centrais.
+- susijęs iš [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“.md#claim-t-67312|„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]: XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“, nes tapo žydų gyvenimo pastovumo ir kultūros klestėjimo simboliu.
+- susijęs iš [[objektai/posakiai/„žydšaudžiais“.md#claim-t-20974|„žydšaudžiais“]]: Liaudyje nacių kolaborantai paniekinamai vadinti „žydšaudžiais“, nes žydų naikinimas kėlė didelį visuomenės pasipiktinimą.
+- susijęs iš Apaštalų tikėjimo išpažinimas: Brolis Henrikas regėjime ištarė Apaštalų tikėjimo išpažinimą, atsakydamas į raginimą priimti žydų tikėjimą.
+- susijęs iš Boleslovo Pamaldžiojo privilegija žydams: 1408 m. Lucke visiems Lietuvos žydams suteiktos laisvės rėmėsi XIII a. Boleslovo Pamaldžiojo privilegijos pavyzdžiu.
+- susijęs iš Trakų žydų privilegija (1388 m.; patvirtinta 1507 m.): Trakų žydai prašė patvirtinti jiems priklausiusias teises, laisves ir kitus dalykus, nurodytus Vytauto privilegijoje.
+- susijęs iš Trakų žydų privilegija (1388 m.; patvirtinta 1507 m.): 1388 m. Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Žygimantas Senasis ją patvirtino Melnyke.
+- susijęs iš Trakų žydų privilegija: Trakų žydai dar 1388 m. atskirai gavo privilegiją, kurioje išsamiai apibūdinta jų elgsena krikščionių atžvilgiu.
+- susijęs iš Verslas: Ketvirtajame dešimtmetyje verslininkai laikraštyje „Verslas“ agresyviai puldinėjo žydų prekybininkus ir kėlė šūkį „Lietuva lietuviams“.
+- susijęs iš Vytauto Reivyčio slaptas raštas Nr. 3: 1941 m. rugpjūčio 16 d. Vytautas Reivytis slaptu raštu Nr. 3 įsakė sulaikyti visus žydus ir sutelkti juos tam numatytose vietose.
+- susijęs iš Vytauto privilegija Lietuvos žydams: Vytauto privilegija Lietuvos žydams vėliau buvo paskelbta Pirmojo Lietuvos Statuto pradžioje.
+- susijęs iš Žydų padėties nuostatai: Lietuvos laikinoji vyriausybė Žydų padėties nuostatais ir VII forto konclageriu demonstravo antisemitizmą, siekdama nuolaidų iš nacių Vokietijos.
+- susijęs iš Žydų padėties nuostatai: LV sudarė Žydų padėties nuostatus kaip deklaruojamo antisemitizmo priemonę ir siekė nuolaidų iš nacių Vokietijos.
+- susijęs iš Bagdadas: Bagdadas minimas tarp pasaulinių žydų kultūros centrų, su kuriais lyginamas XVIII–XIX a. sandūros Vilnius.
+- susijęs iš Gargždai: 1941 m. birželio 24 d. Tilžės gestapo būrys Gargžduose sušaudė 201 žydą vyrą.
+- susijęs iš Kaunas: 1941 m. liepą Heinrichas Himmleris perdavė Kaune veikusiai einzatsgrupei A nurodymą žudyti ne tik žydų vyrus, bet ir moteris bei vaikus.
+- susijęs iš Kauno IX fortas: Kauno IX forte sušaudyta apie 6–8 tūkst. žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos.
+- susijęs iš Kauno getas: Kauno getas buvo tarp getų, kuriuose apie 50 tūkst. žydų laikinai palikti ir išnaudoti kaip pigi darbo jėga.
+- susijęs iš Lenkija: Lenkijoje žydų ir armėnų vaidmuo buvo ryškesnis nei LDK, bet joje nebuvo tokių ryškių totorių ir karaimų bendruomenių.
+- susijęs iš Luckas: 1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams.
+- susijęs iš Luckas: 1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams.
+- susijęs iš Paryžius: Paryžiaus taikos konferencijoje lietuviai žydams žadėjo plačią kultūrinę autonomiją.
+- susijęs iš Pietų Afrikos Sąjunga: Pietų Afrikos Sąjunga buvo viena iš krypčių, į kurias per 20 metų vyko apie 30 proc. iš Lietuvos emigravusių žydų.
+- susijęs iš Pietų Afrikos Sąjunga: Pietų Afrikos Sąjunga buvo viena iš krypčių, į kurias per 20 metų vyko apie 30 proc. iš Lietuvos emigravusių žydų.
+- susijęs iš Rusija: Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.
+- susijęs iš Salonikai: XVIII–XIX a. sandūroje Salonikai minimi tarp pirmojo žydų pasaulinių kultūros centrų dešimtuko miestų.
+- susijęs iš Stambulas: XVIII–XIX a. sandūros Stambulas minimas tarp svarbiausių žydų pasaulinių kultūros centrų.
+- susijęs iš Trakai: 1507 m. Melnike patvirtinta Trakų žydų privilegija, jų teisės, laisvės ir kitos privilegijoje aprašytos priklausomybės.
+- susijęs iš Trakai: Trakų žydai prašė patvirtinti Aleksandro, arba Vytauto, suteiktas teises, laisves ir privilegijas.
+- susijęs iš Tunisas: Tunisas minimas tarp miestų, su kuriais lyginamas XVIII–XIX a. sandūros Vilnius kaip vienas svarbiausių žydų kultūros centrų.
+- susijęs iš Vilnius: XVIII a. Vilnius tapo žydų gyvenimo pastovumo ir kultūros klestėjimo simboliu ir buvo pavadintas Lietuvos Jeruzale.
+- susijęs iš Vilnius: XVI–XVIII a. Vilnius buvo Europos sostinė, kurioje sugyveno dešimt konfesijų, o žydų pasaulyje jis vadintas Vilniaus Gaono miestu ir Šiaurės Jeruzale.
+- susijęs iš Vilnius: 1941 m. liepą Heinrichas Himmleris perdavė Vilniuje veikusiai einzatsgrupei B nurodymą žudyti ne tik žydų vyrus, bet ir moteris bei vaikus.
+- susijęs iš „Lietūkio“ garažas: 1941 m. birželio 27 d. „Lietūkio“ garaže vyko žydų žudynės.
+- susijęs iš [[objektai/zodynas/Antisemitizmas.md#claim-t-75540|Antisemitizmas]]: Šimtmečius Lietuvoje aršaus antisemitizmo nebuvo dėl abipusės lietuvių valstiečių ir žydų pirklių ekonominės priklausomybės.
+- susijęs iš [[objektai/zodynas/Antisemitizmas.md#claim-t-75541|Antisemitizmas]]: Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.
+- susijęs iš [[objektai/zodynas/Antisemitizmas.md#claim-t-75542|Antisemitizmas]]: Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o Paryžiaus taikos konferencijoje žydams žadėjo plačią kultūrinę autonomiją.
+- susijęs iš [[objektai/zodynas/Filosemitas.md#claim-t-77795|Filosemitas]]: Filosemitu vadintas Antanas Smetona stabdė raginimus apriboti žydus ir pareiškė, kad Lietuvoje vietos užteks visiems.
+- susijęs iš [[objektai/zodynas/Pusrytės.md#claim-t-07749|pusrytės]]: Iki didžiosios pusrytės arba pietų žydams pilyje nebuvo leidžiama pirkti prekių pirmiau už krikščionis.
+- susijęs iš [[objektai/zodynas/Pusrytės.md#claim-t-07750|pusrytės]]: Pusrytės žymėjo laiką, iki kurio žydams pilyje neleista pirkti prekių.
+- susijęs iš [[objektai/zodynas/Restitucija.md#claim-t-22021|Restitucija]]: Įtvirtindama demokratines vertybes Lietuva siekė vykdyti religinio turto restituciją ir grąžinti žydų kultūros vertybes.
+- susijęs iš [[objektai/zodynas/akcijos.md#claim-t-183393|akcijos]]: Akcijose prieš žydus Lietuvoje naciai panaudojo Andrejaus Vlasovo armijos dalinius ir ukrainiečių bei latvių policijos batalionus.
+- susijęs iš [[objektai/zodynas/akcijos.md#claim-t-70076|akcijos]]: Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armijos dalinius, ukrainiečių, latvių policijos batalionus.
+- susijęs iš [[objektai/zodynas/akcijos.md#claim-t-70077|akcijos]]: Vadinamųjų akcijų metu buvo žudomi ir didžiųjų getų žydai.
+- susijęs iš [[objektai/zodynas/autonomija autonominis statusas.md#claim-t-70093|autonomija autonominis statusas]]: Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms tautinėms mažumoms.
+- susijęs iš [[objektai/zodynas/getas.md#claim-t-22151|getas]]: 1943 m. naciai naikino miestų getus, degino nužudytųjų kūnus ir išvežė apie 14,5 tūkst. Lietuvos žydų į konclagerius bei stovyklas.
+- susijęs iš [[objektai/zodynas/ješiva.md#claim-t-23436|ješiva]]: Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba.
+- susijęs iš [[objektai/zodynas/ješiva.md#claim-t-26964|ješiva]]: Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba.
+- susijęs iš [[objektai/zodynas/krajovcai kraštiečiai.md#claim-t-23528|krajovcai kraštiečiai]]: Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.
+- susijęs iš [[objektai/zodynas/krajovcai.md#claim-t-23529|krajovcai]]: Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.
+- susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-183486|zonderkomanda]]: Viena Tautinės darbo apsaugos bataliono kuopa buvo padaryta zonderkomanda ir liepos 4 bei 6 dienomis dalyvavo 3 000 žydų žudynėse Kauno VII forte.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77978|A. Smetona]]: A. Smetona laikėsi nuostatos, kad tautinės mažumos turi mylėti Lietuvą ir gerbti lietuvių tautą už joms suteiktas kultūrines teises.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77980|A. Smetona]]: 1927 m. vasarą ir rudenį A. Smetona keliavo po Lietuvos miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45928|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
@@ -287,8 +573,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75760|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. lapkričio 2 d. A. Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75779|Augustinas Voldemaras]]: Augustinas Voldemaras vadovavo Lietuvos delegacijai prie Paryžiaus taikos konferencijos.
 - susijęs iš [[objektai/asmenys/Boleslovas Droviusis.md#claim-t-87637|Boleslovas Droviusis]]: Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir 1257 m. suteiktas teutonų teises buvo skolinga Boleslovui Droviajam.
-- susijęs iš [[objektai/asmenys/Boleslovas Maldingasis.md#claim-t-35039|Boleslovas Maldingasis]]: Boleslovo Maldingojo 1264 m. privilegijos buvo vienas iš pavyzdžių privilegijoms, pagal kurias žydai Lietuvoje gyveno ilgus šimtmečius.
-- susijęs iš [[objektai/asmenys/Boleslovas Pamaldusis.md#claim-t-87638|Boleslovas Pamaldusis]]: Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje.
 - susijęs iš [[objektai/asmenys/Dominykas Semaško.md#claim-t-63539|Dominykas Semaško]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
 - susijęs iš [[objektai/asmenys/Dominykas Semaško.md#claim-t-63540|Dominykas Semaško]]: Dominyko Semaškos argumentais Lietuvos delegacija rėmėsi derybose su Sovietų Rusija dėl didesnės teritorijos Rytuose.
 - susijęs iš [[objektai/asmenys/Eustachijus Kotovičius.md#claim-t-87663|Eustachijus Kotovičius]]: Vilniaus kanauninkas Eustachijus Kotovičius 1677 m. už 750 auksinų nusipirko mūrinį namą Bernardinų gatvėje.
@@ -297,52 +581,34 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų.md#claim-t-23197|Isaakas ben Abrahamas iš Trakų]]: Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės ir gyveno 1525–1586 m.
 - susijęs iš [[objektai/asmenys/Jakob Levi.md#claim-t-87697|Jakob Levi]]: Vilnietis Jakob Levi 1427 m. rašė hebrajiškas knygas ir turėjo teologijos daktaro Moreno vardą.
 - susijęs iš [[objektai/asmenys/Jonas Kristupas Glaubicas.md#claim-t-23202|Jonas Kristupas Glaubicas]]: Jonas Kristupas Glaubicas buvo iš vokiškų žemių atvykęs liuteronas ir produktyviausias XVIII a. architektas Vilniuje bei LDK.
-- susijęs iš [[objektai/asmenys/Jonas Kristupas Glaubicas.md#claim-t-23203|Jonas Kristupas Glaubicas]]: Jonas Kristupas Glaubicas kūrė liuteronams, katalikams, graikams katalikams, stačiatikiams ir žydams.
 - susijęs iš [[objektai/asmenys/Jonas Kristupas Glaubicas.md#claim-t-24543|Jonas Kristupas Glaubicas]]: Jonas Kristupas Glaubicas buvo iš vokiškų žemių atvykęs liuteronas ir produktyviausias XVIII a. architektas Vilniuje bei LDK.
 - susijęs iš [[objektai/asmenys/Jonas Mačiulis-Maironis.md#claim-t-63723|Jonas Mačiulis-Maironis]]: Jonas Mačiulis-Maironis tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis.
 - susijęs iš [[objektai/asmenys/Julius Slovackis.md#claim-t-19011|Julius Slovackis]]: Julius Slovackis buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
 - susijęs iš [[objektai/asmenys/Juozas Tumas-Vaižgantas.md#claim-t-63766|Juozas Tumas-Vaižgantas]]: Juozas Tumas-Vaižgantas tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis.
 - susijęs iš [[objektai/asmenys/Juraha.md#claim-t-87530|Juraha]]: Akademijos rektorius Juraha 1756 m. Valerijono mūrinį namą priskyrė prie kolegijos.
-- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184412|Kazimieras Didysis]]: Kazimieras Didysis į savo naujai pastatydintus miestus pritraukė daug pasiturinčių žydų tautybės žmonių.
-- susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184418|Kazimieras Didysis]]: Kazimieras Didysis į naujai statomus miestus pritraukė daug pasiturinčių žydų tautybės žmonių.
 - susijęs iš [[objektai/asmenys/Lešekas Juodasis.md#claim-t-87765|Lešekas Juodasis]]: Lešekas Juodasis Krokuvai suteikė svarbias privilegijas ir sustiprino miestą geriausiomis mūro sienomis.
 - susijęs iš [[objektai/asmenys/Mykolas Sleževičius.md#claim-t-75989|Mykolas Sleževičius]]: Mykolas Sleževičius žadėjo dalyti lenkų dvarininkų žemę bežemiams ir mažažemiams, todėl dauguma gyventojų parėmė vyriausybę.
 - susijęs iš [[objektai/asmenys/Mykolas Sleževičius.md#claim-t-75990|Mykolas Sleževičius]]: Mykolas Sleževičius nepriklausomybės kovose konsolidavo centrinę administraciją ir kvietė tautines mažumas priešintis įsiveržėliams.
 - susijęs iš [[objektai/asmenys/Oskaras Milašius.md#claim-t-64020|Oskaras Milašius]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
 - susijęs iš [[objektai/asmenys/Otokaras (Čekijos karalius).md#claim-t-35259|Otokaras (Čekijos karalius)]]: Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje.
 - susijęs iš [[objektai/asmenys/Paulius Bochenas.md#claim-t-87817|Paulius Bochenas]]: 1677 m. Paulius Bochenas pardavė mūrinį namą Bernardinų gatvėje Eustachijui Kotovičiui už 750 auksinų.
-- susijęs iš [[objektai/asmenys/Pilypas Frizijus.md#claim-t-87562|Pilypas Frizijus]]: 1631 m. kunigas Pilypas Frizijus prie Vilniaus kapitulos 4000 auksinų pridėjo 1500 savų ir 5500 auksinų perdavė Vilniaus kahalo žydams.
 - susijęs iš [[objektai/asmenys/S. Rozenbaumas.md#claim-t-78079|S. Rozenbaumas]]: 1918 m. gruodį S. Rozenbaumas tapo Lietuvos užsienio reikalų viceministru.
 - susijęs iš [[objektai/asmenys/Simonas Rozenbaumas.md#claim-t-183569|Simonas Rozenbaumas]]: 1918 m. gruodį Simonas Rozenbaumas tapo Lietuvos užsienio reikalų viceministru.
-- susijęs iš [[objektai/asmenys/Simonas Rozenbaumas.md#claim-t-64057|Simonas Rozenbaumas]]: Simonas Rozenbaumas buvo Lietuvos delegacijos narys žydas, kurio argumentais lietuviai rėmėsi derybose su Sovietų Rusija.
-- susijęs iš [[objektai/asmenys/Simonas Rozenbaumas.md#claim-t-64058|Simonas Rozenbaumas]]: Rozenbaumas tapo Lietuvos vyriausybės nariais atitinkamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų viceministras.
 - susijęs iš [[objektai/asmenys/Simonas Rozenbaumas.md#claim-t-64059|Simonas Rozenbaumas]]: Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz).
 - susijęs iš [[objektai/asmenys/Stanislovas Jendžejevskis.md#claim-t-186255|Stanislovas Jendžejevskis]]: Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančios santarvės su Ivanu laiškais ir tarpininkais.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113989|Steponas Batoras]]: Steponas Batoras įsakė Vilniaus vaivadai Radvilai skatinti vilniečius mokėti nustatytus muitus.
-- susijęs iš [[objektai/asmenys/Vaitiekus (Lucko vyskupas).md#claim-t-87931|Vaitiekus (Lucko vyskupas)]]: 1507 m. Melnike Vaitiekus dalyvavo patvirtinant Trakų žydų privilegijas kaip Lucko vyskupas.
 - susijęs iš [[objektai/asmenys/Vaitiekus Janavičius.md#claim-t-87874|Vaitiekus Janavičius]]: Vaitiekus Janavičius 1507 m. Melnike buvo paminėtas kaip karališkasis rūmininkas ir Kauno seniūnas.
 - susijęs iš [[objektai/asmenys/Vaitiekus Narutavičius.md#claim-t-87875|Vaitiekus Narutavičius]]: Vaitiekus Narutavičius 1507 m. Melnike dalyvavo kaip rūmų maršalka ir Josvainių seniūnas.
 - susijęs iš [[objektai/asmenys/Vaižgantas.md#claim-t-78080|Vaižgantas]]: Vaižgantas buvo vienas iš lietuvių literatūros klasikų, minėtų kaip dar vaikščiojusių Kauno gatvėmis.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176630|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytauto tolerancijos įvaizdis sietas su totorių pakvietimu į Lietuvą ir žydams suteiktomis privilegijomis.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176715|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Lietuvos Didžiojoje Kunigaikštystėje apgyvendino musulmonų totorių ir karaimų bendruomenes.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176739|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas LDK apgyvendino musulmonų totorių ir karaimų bendruomenes.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173322|Žygimantas Senasis]]: 1507 m. Melnike Žygimantas Senasis patvirtino 1388 m. Vytauto privilegiją Trakų žydams.
-- susijęs iš [[objektai/autoriai/Benjaminas iš Tudelio.md#claim-t-54999|Benjaminas iš Tudelio]]: Benjaminas iš Tudelio apibūdintas kaip žydų kilmės keliauninkas.
 - susijęs iš [[objektai/autoriai/Benjaminas iš Tudelio.md#claim-t-55000|Benjaminas iš Tudelio]]: Benjaminas iš Tudelio tvirtino, kad 1160 m. į Aleksandrijos uostą užsukdavo ir Krokuvos pirklių laivai.
 - susijęs iš [[objektai/autoriai/Benjaminas iš Tudelio.md#claim-t-81885|Benjaminas iš Tudelio]]: Benjaminas iš Tudelio teigė, kad 1160 m. į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.
-- susijęs iš [[objektai/autoriai/Dieckmann Ch.md#claim-t-26471|Dieckmann Ch]]: Ch. Dieckmannas ir S. Sužiedėlis parašė veikalą apie Lietuvos žydų persekiojimą ir masines žudynes 1941 m. vasarą ir rudenį.
 - susijęs iš [[objektai/autoriai/Juozas Tumas (Vaižgantas).md#claim-t-19412|Juozas Tumas (Vaižgantas)]]: Vaižgantas buvo vienas iš lietuvių literatūros klasikų, tarpukariu dar gyvenusių Kaune.
 - susijęs iš [[objektai/autoriai/Kuršaitis (redaktorius, 1849–1880 m.).md#claim-t-11076|Kuršaitis (redaktorius, 1849–1880 m.)]]: Prof. Kuršaitis 1849–1880 m. su valdžios parama leido laikraštį „Keleivis“.
-- susijęs iš [[objektai/autoriai/Liekis Š.md#claim-t-17675|Liekis Š]]: Š. Liekis parašė veikalą „A State within a State?“ apie žydų autonomiją Lietuvoje 1918–1925 m.
 - susijęs iš [[objektai/autoriai/Maironis.md#claim-t-125059|Maironis]]: Maironis buvo vienas lietuvių literatūros klasikų, tuo metu dar vaikščiojusių Kauno gatvėmis.
-- susijęs iš [[objektai/autoriai/Sužiedėlis S.md#claim-t-26479|Sužiedėlis S]]: S. Sužiedėlis kartu su Ch. Dieckmannu parašė leidinį apie Lietuvos žydų persekiojimą ir masines žudynes 1941 m. vasarą ir rudenį.
 - susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75429|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Tai kartu paaiškina ir Vilniaus Gaono autoritetą.
 - susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75430|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Didžiausiu Vilniaus Gaono nuopelnu laikytas Babilono Talmudo redagavimas ir komentavimas.
-- susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75431|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.
-- susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75432|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.
-- susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75434|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.
-- susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75436|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.
-- susijęs iš [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas.md#claim-t-75437|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]: Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.
 - susijęs iš [[objektai/daiktai/Ginklai ir ginkluotė.md#claim-t-45484|Ginklai ir ginkluotė]]: 1920 m. rugsėjį Mykolas Sleževičius Seime ragino sveikus gyventojus griebtis ginklo prieš lenkų puolimą.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92962|Herbai]]: Herbyne „Stemmata Polonica“ užfiksuotas XVI a. vidurio LDK herbas Vytis.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92964|Herbai]]: LDK herbas Vytis XVI a. viduryje buvo pavaizduotas herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.
@@ -355,7 +621,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš [[objektai/daiktai/Mūro sienos.md#claim-t-87058|Mūro sienos]]: Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam.
 - susijęs iš [[objektai/daiktai/Redalektais vadinamos Mozės knygos.md#claim-t-87117|Redalektais vadinamos Mozės knygos]]: Žydams buvo leidžiama prisiekti redalektais vadinamomis Mozės knygomis tik didelėse arba valdovo asmens iškeltose bylose.
 - susijęs iš [[objektai/daiktai/Sutikimo vartai.md#claim-t-23305|Sutikimo vartai]]: 1927 m. vasarą ir rudenį Antaną Smetoną miesteliuose iškilmingai sutikdavo prie gėlėmis ir vainikais išdabintų sutikimo vartų.
-- susijęs iš [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje.md#claim-t-81859|Užstato daiktai Trakų žydų privilegijoje]]: Trakų žydų privilegijoje leista užstatu priimti įvairius atneštus daiktus, išskyrus kruvinas skaras, šlapius drabužius ir bažnytinius rykus.
 - susijęs iš [[objektai/daiktai/Vytauto paminklai.md#claim-t-19615|Vytauto paminklai]]: Vytauto Didžiojo mirties 500-ųjų metinių minėjimo metu Lietuvoje jam buvo statomi paminklai.
 - susijęs iš [[objektai/daiktai/Vytauto paveikslas.md#claim-t-65005|Vytauto paveikslas]]: Vytauto paveikslas buvo nešiotas po Lietuvą, o šias apeigas lydėjo renginiai Lietuvos miestuose ir miesteliuose.
 - susijęs iš [[objektai/daiktai/Vytauto paveikslas.md#claim-t-65007|Vytauto paveikslas]]: Vytauto Didžiojo kulto kūrimo momentas: 1930 m. Pasvalyje ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą kunigaikščio paveikslas Vytauto Didžiojo karo muziejus, atidarytas 1935 m.
@@ -367,7 +632,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169562|Bajorai]]: Bajorai prarado savo valstybę, bet gavo rusų bajorų teises ir tapo privilegijuotais imperijos valdiniais.
 - susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169567|Bajorai]]: Bajorai prarado savo valstybę, bet gavo rusų bajorų teises ir tapo privilegijuotais imperijos valdiniais.
 - susijęs iš [[objektai/grupes/Baltarusiai.md#claim-t-183123|Baltarusiai]]: Kraštiečių demokratų srovė siūlė, kad autonominėje Lietuvoje LDK ribose lietuvių, lenkų ir baltarusių kalbos turėtų valstybinį statusą.
-- susijęs iš [[objektai/grupes/Baltarusiai.md#claim-t-65082|Baltarusiai]]: Kraštiečių demokratų srovė autonominę Lietuvą LDK ribose įsivaizdavo kaip daugiakultūrį lietuvių, lenkų, baltarusių ir iš dalies žydų darinį.
 - susijęs iš [[objektai/grupes/Chasidai.md#claim-t-169573|Chasidai]]: Chasidai siūlė reformuoti ortodoksinį rabinizmą, sureikšminti individą ir nuoširdų tikėjimą bei sušvelninti buitį normuojančius įstatymus.
 - susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-74113|Europos Sąjunga]]: Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikūrusios Lietuvos užsienio politikos tikslas.
 - susijęs iš [[objektai/grupes/Gediminaičiai.md#claim-t-19691|Gediminaičiai]]: Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis.
@@ -383,11 +647,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš [[objektai/grupes/Laikinoji vyriausybė.md#claim-t-19773|Laikinoji vyriausybė]]: 1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per užimtą radiją paskelbė apie Laikinąją vyriausybę.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179143|Lenkai]]: Negalėdami dėl prastų tarpvalstybinių santykių vykdyti platesnės politinės veiklos, Lietuvos lenkai daug jėgų skyrė kultūrinei veiklai.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179154|Lenkai]]: Lenkai sudarė apie 3,2 proc. Lietuvos gyventojų ir savo kultūrinį gyvenimą telkė apie lenkiškas mokyklas.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179170|Lenkai]]: Lietuva rūpinosi internuotų lenkų karių apgyvendinimu ir maitinimu bei 12 000 Lenkijos žydų pabėgėlių išlaikymu.
-- susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-13467|Lietuvių aktyvistų frontas]]: LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje.
-- susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-24554|Lietuvių aktyvistų frontas]]: LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).
 - susijęs iš [[objektai/grupes/Lietuvių policijos savisaugos batalionai.md#claim-t-19814|Lietuvių policijos savisaugos batalionai]]: Lietuvių savisaugos policijos grupės, tarp jų policijos batalionai, buvo įtrauktos į žudynių parengimą, aukų konvojavimą ir šaudymą.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169690|Lietuvos Didžioji Kunigaikštija]]: Istorinėje Lietuvoje gyvenę žydai šalį vadino „Lite“, o save – „litvakais“.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169698|Lietuvos Didžioji Kunigaikštija]]: Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Kunigaikštija.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74675|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupė susikūrė 1976 m.
 - susijęs iš [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos.md#claim-t-74635|Lietuvos delegacija prie Paryžiaus taikos konferencijos]]: Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes Lietuva nebuvo juridinė 1919 m. prasidėjusios konferencijos dalyvė.
@@ -396,51 +656,29 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš [[objektai/grupes/Lietuvos delegacija prie Paryžiaus taikos konferencijos.md#claim-t-74639|Lietuvos delegacija prie Paryžiaus taikos konferencijos]]: Lietuvos delegacija prie Paryžiaus taikos konferencijos buvo instruktuota siekti išėjimo į jūrą per Klaipėdą arba Liepoją.
 - susijęs iš [[objektai/grupes/Lietuvos partizanai.md#claim-t-74760|Lietuvos partizanai]]: Lietuvos partizanų pasipriešinimas SSRS truko visą dešimtmetį po Antrojo pasaulinio karo, 1945–1953 m.
 - susijęs iš [[objektai/grupes/Lietuvos senatoriai.md#claim-t-86761|Lietuvos senatoriai]]: 1576 m. Lietuvos senatoriai sutiko, kad Žygimanto Augusto nustatyti muitai būtų renkami krašto sienų gynybos išlaidoms.
-- susijęs iš [[objektai/grupes/Lietuvos žydų taryba (Vaad).md#claim-t-74811|Lietuvos žydų taryba (Vaad)]]: 1920 m. sudaryta Lietuvos žydų taryba (Vaad) turėjo spręsti socialinius ir kultūrinius Lietuvos žydų reikalus.
-- susijęs iš [[objektai/grupes/Litvakai.md#claim-t-183170|Litvakai]]: Vilniaus Gaono autoritetui priskiriama įtaka litvakų reputacijai kaip griežtos religinės tradicijos ir pagarbaus požiūrio į mokslą žydų.
 - susijęs iš [[objektai/grupes/Litvakai.md#claim-t-45103|Litvakai]]: Holokausto metu buvo sunaikinta pasaulinę šlovę Lietuvai suteikusi litvakų bendruomenė, nors jos gyvosios šaknys išliko Lietuvoje, JAV ir Izraelyje.
-- susijęs iš [[objektai/grupes/Litvakai.md#claim-t-45104|Litvakai]]: Vilniaus Gaono autoritetas galėjo lemti, kad litvakai imti laikyti iškiliais žydais, išsiskyrusiais religine tradicija, racionalumu ir pagarba išsimokslinimui.
-- susijęs iš [[objektai/grupes/Litvakai.md#claim-t-45106|Litvakai]]: Litvakas reiškė žydą iš istorinės Lietuvos, tačiau šiuo vardu imta vadinti ir savita gyvensena pasižymėjusius žydus.
-- susijęs iš [[objektai/grupes/MOPR.md#claim-t-19938|MOPR]]: MOPR buvo iš Maskvos diriguojama tarptautinė organizacija revoliucionieriams remti, kurioje daugumą sudarė žydai.
 - susijęs iš [[objektai/grupes/Miestelėnų luomas.md#claim-t-184222|Miestelėnų luomas]]: Vytautas sudarė miestelėnų luomą, gyvenusį iš visuomenės produktų apyvartos ir stiprinusį prekybos bei ekonominio gyvenimo galimybes.
 - susijęs iš [[objektai/grupes/Miestelėnų luomas.md#claim-t-34346|Miestelėnų luomas]]: Vytautas sudarė miestelėnų luomą, gyvenusį iš visuomenės produktų cirkuliacijos.
 - susijęs iš [[objektai/grupes/NKVD.md#claim-t-71677|NKVD]]: Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais.
 - susijęs iš [[objektai/grupes/Nacių Vokietija.md#claim-t-74878|Nacių Vokietija]]: Nacių Vokietijos vyriausybė uždraudė lietuviams karo atveju be jos įstaigų sutikimo sudaryti Lietuvos vyriausybę ar skelbti atsišaukimą.
 - susijęs iš [[objektai/grupes/Raudonoji armija.md#claim-t-78432|Raudonoji armija]]: Po 1939 m. rudens Raudonosios armijos įgulos Lietuvoje veikė jaunimo politines nuostatas.
-- susijęs iš [[objektai/grupes/SD Einsatzgruppen.md#claim-t-19997|SD Einsatzgruppen]]: 1941 m. birželį SD Einsatzgruppen organizavo terorą, per kurį pasienyje buvo šaudomi žydai Gargžduose, Kretingoje, Palangoje ir kitur.
 - susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74926|Sovietų Sąjunga]]: Sovietų Sąjungos vykdytos deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių po 1940 m. okupacijos ir 1944 m. reokupacijos.
 - susijęs iš [[objektai/grupes/Tautinės darbo apsaugos batalionas.md#claim-t-183187|Tautinės darbo apsaugos batalionas]]: Birželio 28 d. prie Kauno karo komendantūros iš savanorių buvo suformuotas Tautinės darbo apsaugos batalionas.
-- susijęs iš [[objektai/grupes/Tilžės gestapo būrys.md#claim-t-20049|Tilžės gestapo būrys]]: Tilžės gestapo būrys 1941 m. birželio 24–27 d. Gargžduose, Kretingoje ir Palangoje sušaudė 526 žydus.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171428|Totoriai]]: Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.
-- susijęs iš [[objektai/grupes/Trakų žydai.md#claim-t-86716|Trakų žydai]]: Trakų žydai Žygimanto Senojo akivaizdoje prašė patvirtinti Vytauto privilegijoje jiems suteiktas teises ir laisves.
 - susijęs iš [[objektai/grupes/Vilniaus baroko architektūros mokykla.md#claim-t-20068|Vilniaus baroko architektūros mokykla]]: Abiejų Tautų Respublika išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architektūros mokyklą.
 - susijęs iš [[objektai/grupes/Vilniaus romantizmo mokykla.md#claim-t-75020|Vilniaus romantizmo mokykla]]: Vilniaus romantizmo mokyklos didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis.
 - susijęs iš [[objektai/grupes/Vilniaus romantizmo mokykla.md#claim-t-75021|Vilniaus romantizmo mokykla]]: Vilniaus romantizmo mokyklos didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis.
-- susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-55106|Vilniaus žydų kahalas]]: Vilniaus kahalo žydams buvo perduota 5 500 auksinų suma.
-- susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-81751|Vilniaus žydų kahalas]]: 1631 m. Vilniaus kahalo žydams buvo perduota 5500 auksinų suma, nuo kurios kahalas iki 1763 m. mokėjo 8 procentus Valerijono konvikto gyventojams.
-- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117317|Vokiečiai]]: Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų bendruomenės.
-- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-183197|Vokiečiai]]: Valdovams kviečiant pirklius ir amatininkus iš svetur, Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų.
 - susijęs iš [[objektai/grupes/Ypatingasis SD būrys Vilniuje.md#claim-t-20093|Ypatingasis SD būrys Vilniuje]]: Ypatingasis SD būrys Vilniuje (Paneriuose) buvo iš lietuvių sudaryta speciali zonderkomanda, vykdžiusi šaudymus.
-- susijęs iš [[objektai/grupes/Žydų Hapoelio klubas.md#claim-t-75087|Žydų Hapoelio klubas]]: 1935 m. Žydų Hapoelio klubo jaunieji sportininkai žygiavo Kauno centrine gatve.
-- susijęs iš [[objektai/grupes/Žydų Hapoelio klubas.md#claim-t-75088|Žydų Hapoelio klubas]]: 1935 m. Žydų Hapoelio klubo jaunieji sportininkai žygiavo Kauno centrine gatve.
 - susijęs iš [[objektai/ivykiai/1941 m. Birželio sukilimas.md#claim-t-45327|1941 m. Birželio sukilimas (sukilimas)]]: 1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per radiją paskelbė atkuriamą laisvą ir nepriklausomą Lietuvos valstybę.
 - susijęs iš [[objektai/ivykiai/1944 m. emigracija į Vakarus.md#claim-t-26389|1944 m. emigracija į Vakarus]]: 1944 m. emigracija į Vakarus buvo minima tarp didžiųjų Lietuvos netekčių kartu su Holokaustu ir sovietinėmis deportacijomis.
 - susijęs iš [[objektai/ivykiai/Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.).md#claim-t-75089|Abiejų Tautų Respublikos padalijimai ir sunaikinimas (XVIII a. pabaiga-1795 m.)]]: Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija.
 - susijęs iš [[objektai/ivykiai/Baltijos šalių vyriausybių vadovų kreipimasis į Europos ekonominę bendriją (1990 m. gruodžio 14 d.).md#claim-t-20170|Baltijos šalių vyriausybių vadovų kreipimasis į Europos ekonominę bendriją (1990 m. gruodžio 14 d.)]]: 1990 m. gruodžio 14 d. Baltijos šalių vyriausybių vadovai pirmą kartą kreipėsi į EEB, prašydami paramą teikti tiesiogiai, o ne per Sovietų Sąjungą.
 - susijęs iš [[objektai/ivykiai/Jekaterinos II sėslumo ribos nustatymas (1791 m.).md#claim-t-183226|Jekaterinos II sėslumo ribos nustatymas (1791 m.)]]: Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo sėslumo ribos, sutapusios su buvusios LDK arba ATR rytine riba.
-- susijęs iš [[objektai/ivykiai/Jekaterinos II sėslumo ribos nustatymas (1791 m.).md#claim-t-20210|Jekaterinos II sėslumo ribos nustatymas (1791 m.)]]: Jekaterina II 1791 m. nubrėžė sėslumo ribą, išvardydama gubernijas, kuriose galėjo gyventi žydai.
 - susijęs iš [[objektai/ivykiai/Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos.md#claim-t-75125|Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos]]: Po 1905 m. revoliucijos Rusijoje atsirado Valstybės Tarybos ir Valstybės Dūmos parlamentas, bet vykdomoji valdžia liko caro rankose.
-- susijęs iš [[objektai/ivykiai/Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos.md#claim-t-75126|Lietuvių dalyvavimas Valstybės Dūmos rinkimuose po 1905 m. revoliucijos]]: Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus.
 - susijęs iš [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.).md#claim-t-75180|Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]: 1944–1953 m. Lietuvoje vyko Sovietų Sąjungos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija.
 - susijęs iš [[objektai/ivykiai/Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.).md#claim-t-75185|Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)]]: Po Antrojo pasaulinio karo Lietuvos partizanų pasipriešinimas SSRS truko ištisą dešimtmetį, 1945–1953 m.
-- susijęs iš [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas.md#claim-t-75231|Lietuvos žydų sunaikinimas - Holokaustas]]: 1943 m. naciai naikino Lietuvos miestų getus ir vežė Lietuvos žydus į koncentracijos stovyklas Estijoje, Latvijoje ir Lenkijoje.
 - susijęs iš [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas.md#claim-t-75232|Lietuvos žydų sunaikinimas - Holokaustas]]: Nacių „kovos su judobolševizmu“ propaganda susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis.
-- susijęs iš [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas.md#claim-t-75233|Lietuvos žydų sunaikinimas - Holokaustas]]: Apie 50 tūkst. žydų buvo laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose.
-- susijęs iš [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas.md#claim-t-75234|Lietuvos žydų sunaikinimas - Holokaustas]]: Lietuvos žydų sunaikinimas dėl nacių rasinės genocidinės politikos laikomas kruviniausiu Lietuvos XX a. istorijos puslapiu ir didele tragedija.
-- susijęs iš [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas.md#claim-t-75235|Lietuvos žydų sunaikinimas - Holokaustas]]: Lietuvos žydų Holokaustas buvo viena iš didžiulių Lietuvos patirtų netekčių.
 - susijęs iš [[objektai/ivykiai/Lietuvos žydų sunaikinimas - Holokaustas.md#claim-t-75236|Lietuvos žydų sunaikinimas - Holokaustas]]: 1943 m. naciai naikino Lietuvos miestų getus, kasė ir degino nužudytųjų kūnus.
-- susijęs iš [[objektai/ivykiai/Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.).md#claim-t-20390|Lietuvos žydų tarybos (Vaad) sudarymas (1920 m.)]]: 1920 m. sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus.
-- susijęs iš [[objektai/ivykiai/Nacių Vokietijos okupacija Lietuvoje (1941-1944 m.).md#claim-t-20429|Nacių Vokietijos okupacija Lietuvoje (1941-1944 m.)]]: 1941–1944 m. Lietuvoje vyko nacių Vokietijos okupacija ir žydų Holokaustas.
 - susijęs iš [[objektai/ivykiai/Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.).md#claim-t-23353|Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.)]]: 1923 m. rugsėjo 17 d. įvyko pirmasis Lietuvos gyventojų surašymas.
 - susijęs iš [[objektai/ivykiai/Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.).md#claim-t-23354|Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.)]]: Surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas.
 - susijęs iš [[objektai/ivykiai/Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.).md#claim-t-23355|Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.)]]: 1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas.
@@ -452,19 +690,12 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš [[objektai/ivykiai/Sovietų Sąjungos masinės deportacijos į Sibirą.md#claim-t-26386|Sovietų Sąjungos masinės deportacijos į Sibirą]]: 1944–1953 m. Lietuvoje vyko Sovietų Sąjungos organizuotos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija.
 - susijęs iš [[objektai/ivykiai/Vilijampolės ir „Lietūkio“ garažo pogromai (1941 m. birželio 26-27 d.).md#claim-t-20531|Vilijampolės ir „Lietūkio“ garažo pogromai (1941 m. birželio 26-27 d.)]]: 1941 m. birželio 26 d. Vilijampolėje ir birželio 27 d. Kauno „Lietūkio“ garaže įvyko SD inspiruoti žiaurūs pogromai.
 - susijęs iš [[objektai/ivykiai/Vokietijos ir Sovietų Sąjungos karo pradžia ir Lietuvos užėmimas (1941 m. birželio 22-25 d.).md#claim-t-20557|Vokietijos ir Sovietų Sąjungos karo pradžia ir Lietuvos užėmimas (1941 m. birželio 22-25 d.)]]: 1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui, Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos politinius kalinius paskubomis išgabeno iš Lietuvos.
-- susijęs iš [[objektai/ivykiai/Vytauto Reivyčio įsakymas sulaikyti visus žydus ir getų sudarymas (1941 m. rugpjūčio 16 d.).md#claim-t-20566|Vytauto Reivyčio įsakymas sulaikyti visus žydus ir getų sudarymas (1941 m. rugpjūčio 16 d.)]]: 1941 m. rugpjūčio 16 d. Vytautas Reivytis slaptu raštu Nr. 3 įsakė sulaikyti visus žydus ir sutelkti juos numatytose vietose.
 - susijęs iš [[objektai/ivykiai/Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.).md#claim-t-66989|Vytauto mirties 500 metų jubiliejaus minėjimas (1930 m.)]]: Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.
-- susijęs iš [[objektai/ivykiai/Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis).md#claim-t-20591|Žydų atstovų įėjimas į Lietuvos vyriausybę (1918 m. gruodis)]]: 1918 m. gruodį Jokūbas Vygodskis tapo ministru be portfelio žydų reikalams, o S. Rozenbaumas – užsienio reikalų viceministru.
-- susijęs iš [[objektai/ivykiai/Žydų ministro be portfelio posto panaikinimas (1923 m.).md#claim-t-20592|Žydų ministro be portfelio posto panaikinimas (1923 m.)]]: 1923 m. buvo panaikintas žydų ministro be portfelio postas Lietuvos vyriausybėje.
-- susijęs iš [[objektai/ivykiai/Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.).md#claim-t-77913|Žydų žudynės Kauno VII forte (1941 m. liepos 4 ir 6 d.)]]: 1941 m. liepos 4 ir 6 d. TDA bataliono kuopa, nacių komanduojama kaip zonderkomanda, dalyvavo apie 3 000 žydų žudynėse Kauno VII forte.
 - susijęs iš [[objektai/paprociai/Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos.md#claim-t-54209|Abiejų Tautų Respublikos religinės tolerancijos, bajoriškosios demokratijos ir teisinės tradicijos]]: Abiejų Tautų Respublika sukūrė religinės tolerancijos, bajoriškosios demokratijos ir teisinę tradiciją, davusią Lietuvos Statutus ir 1791 m. konstituciją.
 - susijęs iš [[objektai/paprociai/Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios.md#claim-t-87264|Bursos ir neturtingų studentų išlaikymas, maitinimas ir fundatoriaus atminimo mišios]]: 1579 m. Valerijonas Protasevičius Akademijai užrašė tris mūrinius namus, kad keli neturtingi studentai gautų maistą ir melstųsi už fundatorių.
-- susijęs iš [[objektai/paprociai/Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“.md#claim-t-54238|Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]: Istorinėje Lietuvoje gyvenę žydai šalį vadino „Lite“, o save – „litvakais“.
-- susijęs iš [[objektai/paprociai/Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“.md#claim-t-54239|Istorinės Lietuvos žydų savivardystė „Lite“ ir „litvakai“]]: Istorinės Lietuvos žydai šią šalį vadino „Lite“, o save – „litvakais“.
 - susijęs iš [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje.md#claim-t-87209|Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]: Karaimai buvo įsikūrę Trakuose ir nedidelėje Vilniaus dalyje, tačiau Vytauto privilegija jiems negaliojo.
 - susijęs iš [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje.md#claim-t-87210|Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]: Balińskis karaimų atvykimą į Lietuvą siejo su Vytauto laikais, nes Vytautas priimdavo ir priglobdavo ateivius iš rytų kraštų.
 - susijęs iš [[objektai/paprociai/Karinė savanorystė ir žemės pažadas valstybės gynimui.md#claim-t-20810|Karinė savanorystė ir žemės pažadas valstybės gynimui]]: M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus dalijamos lenkų dvarininkų žemės.
-- susijęs iš [[objektai/paprociai/Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas.md#claim-t-77937|Klaipėdos nacių antivalstybinė propaganda, susirinkimų terorizavimas ir žydų puldinėjimas]]: Klaipėdos krašto vokiečių nacių organizacijos varė antivalstybinę propagandą, ruošėsi sukilimui ir krašto prijungimui prie Vokietijos, terorizavo lietuvių susirinkimus ir puldinėjo žydus.
 - susijęs iš [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena.md#claim-t-183324|Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]: Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.
 - susijęs iš [[objektai/paprociai/Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena.md#claim-t-54307|Litvakų rabininės tradicijos gynimas, Talmudo studijos ir savita gyvensena]]: Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.
 - susijęs iš [[objektai/paprociai/Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos.md#claim-t-20818|Prezidento A. Smetonos iškilmingos kelionės po miestelius ir sutikimo vartų ceremonijos]]: 1927 m. vasarą ir rudenį A. Smetona keliavo po miestelius su oficialia palyda ir buvo iškilmingai sutinkamas prie puošnių sutikimo vartų.
@@ -472,24 +703,12 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš [[objektai/paprociai/Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika.md#claim-t-20824|Vytauto Didžiojo kulto kūrimo ir jubiliejinių apeigų praktika]]: Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.
 - susijęs iš [[objektai/paprociai/Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos.md#claim-t-77942|Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos]]: Žydai Lietuvoje gyveno atskirą bendruomeninį gyvenimą, menkai integravosi į lietuvių visuomenę, o sionistinis judėjimas skatino keltis į Palestiną.
 - susijęs iš [[objektai/paprociai/Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos.md#claim-t-77943|Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos]]: Žydai Lietuvoje išlaikė atskirą kultūrinį gyvenimą, o jų mokyklose pamokos vyko hebrajų arba jidiš kalba.
-- susijęs iš [[objektai/paprociai/Žydų gelbėjimas ir slėpimas rizikuojant gyvybe.md#claim-t-20826|Žydų gelbėjimas ir slėpimas rizikuojant gyvybe]]: Dalis lietuvių visuomenės rizikuodama gyvybe bandė padėti žydams ir juos gelbėti.
-- susijęs iš [[objektai/paprociai/Žydų gelbėjimas ir slėpimas rizikuojant gyvybe.md#claim-t-20827|Žydų gelbėjimas ir slėpimas rizikuojant gyvybe]]: Už žydų gelbėjimą Pasaulio teisuoliais pripažinti 830 lietuvių, o jų sąrašas papildomas.
-- susijęs iš [[objektai/paprociai/Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje.md#claim-t-54377|Žydų gyvenimo ribojimas sėslumo riba Rusijos imperijoje]]: Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.
 - susijęs iš [[objektai/paprociai/Žydų ir krikščionių bylų liudijimo bei priesaikos tvarka.md#claim-t-87293|Žydų ir krikščionių bylų liudijimo bei priesaikos tvarka]]: Bylose dėl žydo pinigų, turto ar kriminalinio kaltinimo krikščionis prieš žydą galėjo liudyti tik kartu su krikščioniu ir žydu.
-- susijęs iš [[objektai/paprociai/Žydų ir lietuvių ūkinės priklausomybės ir kalbinio bendravimo modelis.md#claim-t-77964|Žydų ir lietuvių ūkinės priklausomybės ir kalbinio bendravimo modelis]]: Lietuvoje lietuvių valstiečiai ir žydų pirkliai buvo ūkiškai priklausomi vieni nuo kitų.
-- susijęs iš [[objektai/paprociai/Žydų kelionių, laidotuvių lydėjimo, kapinių ir mokyklos apsauga.md#claim-t-87294|Žydų kelionių, laidotuvių lydėjimo, kapinių ir mokyklos apsauga]]: Krikščionis, padaręs žalą žydų kapinėse ar jas užpuolęs, turėjo būti nubaustas pagal žemės paprotį ir netekti turto iždo naudai.
-- susijęs iš [[objektai/paprociai/Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime.md#claim-t-77944|Žydų kultūrinė autonomija, kahalų atstovavimas ir jidiš vartojimas Lietuvos Seime]]: 1920 m. Lietuvos žydų kahalų atstovų konferencijoje sudaryta 34 narių Lietuvos žydų taryba turėjo spręsti socialinius ir kultūrinius žydų reikalus.
-- susijęs iš [[objektai/paprociai/Žydų prekybos ribojimas pilyse iki pusrytės.md#claim-t-07827|Žydų prekybos ribojimas pilyse iki pusrytės]]: Smulkesnėje prekyboje pilyse dar vertėsi krikščionys, o žydai negalėjo pirkti į pilį įvežamų prekių iki didžiosios pusrytės ar iki pietų.
 - susijęs iš [[objektai/paprociai/Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka.md#claim-t-87172|Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka]]: Žydai turėjo būti teisiami tik mokyklose arba įprastose žydų teismo vietose, išskyrus valdovo ar seniūno šaukimą jų akivaizdon.
 - susijęs iš [[objektai/paprociai/Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka.md#claim-t-87173|Žydų savivaldos, teismo ir priesaikos prie mokyklos tvarka]]: Jei žydas per gaisrą, vagystę ar prievartą prarasdavo užstatus, krikščioniui jį pašaukus į teismą jis turėjo išsiteisinti asmenine priesaika.
-- susijęs iš [[objektai/posakiai/Tikiu dievą tėvą, visagalį.md#claim-t-59161|Tikiu dievą tėvą, visagalį]]: Brolis Henrikas ištarė „Tikiu dievą tėvą, visagalį“ ir kitus Apaštalų tikėjimo išpažinimo žodžius, kai buvo raginamas išpažinti žydų tikėjimą.
-- susijęs iš [[objektai/posakiai/Vardan Viešpaties Amen Amžinai dalykų atminčiai.md#claim-t-86852|Vardan Viešpaties Amen Amžinai dalykų atminčiai]]: Formulė „Vardan Viešpaties Amen Amžinai dalykų atminčiai“ siejama su Žygimanto Senojo raštu, patvirtinusiu Trakų žydų privilegiją.
-- susijęs iš [[objektai/posakiai/Viešpaties vardu Amen.md#claim-t-86878|Viešpaties vardu Amen]]: Formule „Viešpaties vardu Amen“ prasideda Žygimanto Senojo raštas, kuriuo patvirtinta Trakų žydų privilegija.
 - susijęs iš [[objektai/posakiai/„Lietuva lietuviams“.md#claim-t-183498|„Lietuva lietuviams“]]: Ketvirtajame dešimtmetyje laikraštyje „Verslas“ verslininkai atvirai kėlė šūkį „Lietuva lietuviams“.
 - susijęs iš [[objektai/posakiai/„Lietuva lietuviams“.md#claim-t-20850|„Lietuva lietuviams“]]: Ketvirtajame dešimtmetyje laikraštyje „Verslas“ verslininkai puldinėjo žydų prekybininkus ir atvirai kėlė šūkį „Lietuva lietuviams“.
-- susijęs iš [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“.md#claim-t-26648|„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]: XVII–XVIII a. Vilniaus kaip „Lietuvos Jeruzalės“ idėja siejama su jo lyginimu su Krokuvos, Liublino ir Lvovo žydų kultūros centrais.
 - susijęs iš [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“.md#claim-t-26900|„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]: XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“ (Jerušalaim de Lite).
-- susijęs iš [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“.md#claim-t-67312|„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]: XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“, nes tapo žydų gyvenimo pastovumo ir kultūros klestėjimo simboliu.
 - susijęs iš [[objektai/posakiai/„Susidariusi laikinoji... atstatanti laisvą ir nepriklausomą Lietuvos valstybę“.md#claim-t-20872|„Susidariusi laikinoji... atstatanti laisvą ir nepriklausomą Lietuvos valstybę“]]: 1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per radiją paskelbė apie nepriklausomos Lietuvos valstybės atkūrimą.
 - susijęs iš [[objektai/posakiai/„buvo baisu šaudyti, bet maniau, kad tai reikalinga Lietuvos nepriklausomybei“.md#claim-t-20887|„buvo baisu šaudyti, bet maniau, kad tai reikalinga Lietuvos nepriklausomybei“]]: Vienas budelis sakė manęs, kad šaudymas buvo reikalingas Lietuvos nepriklausomybei, nes okupantai tai įsakė ir skatino.
 - susijęs iš [[objektai/posakiai/„duona, tolerancija, demokratija, konstitucija, barokas“.md#claim-t-20890|„duona, tolerancija, demokratija, konstitucija, barokas“]]: Abiejų Tautų Respublikos XVII–XVIII a. įnašas į Europos ir pasaulio civilizaciją apibendrintas formule „duona, tolerancija, demokratija, konstitucija, barokas“.
@@ -500,14 +719,11 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš [[objektai/posakiai/„teritoriniai patriotai“.md#claim-t-20953|„teritoriniai patriotai“]]: A. Smetona teigė, kad tautinės mažumos turi būti Lietuvos „teritoriniai patriotai“.
 - susijęs iš [[objektai/posakiai/„vietos visiems užteks“.md#claim-t-20960|„vietos visiems užteks“]]: Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“.
 - susijęs iš [[objektai/posakiai/„viešpataujanti“ „ponų tauta“.md#claim-t-20961|„viešpataujanti“ „ponų tauta“]]: Naciai manė, kad dėl rasinio ir kultūrinio pranašumo vokiečių tauta turi būti „viešpataujanti“ arba „ponų tauta“.
-- susijęs iš [[objektai/posakiai/„žydšaudžiais“.md#claim-t-20974|„žydšaudžiais“]]: Liaudyje nacių kolaborantai paniekinamai vadinti „žydšaudžiais“, nes žydų naikinimas kėlė didelį visuomenės pasipiktinimą.
 - susijęs iš 1918–1940 m. Lietuvos žemėlapis: „1918–1940 m. Lietuvos žemėlapis“ nurodytas tarp Mokslo ir enciklopedijų leidybos centro fondų medžiagos.
 - susijęs iš 1920 m. liepos 12 d. taika su Sovietų Rusija: Lietuviai sutiko įrašyti Adolfo Jofės prašytą nuostatą, kad Lietuva ir Sovietų Rusija niekuomet nebuvo karo padėtyje.
 - susijęs iš 1920 m. liepos 12 d. taika su Sovietų Rusija: Lietuviai sutiko įrašyti Adolfo Jofės prašytą nuostatą, kad Lietuva ir Sovietų Rusija niekuomet nebuvo karo padėtyje.
 - susijęs iš Abiejų Tautų tarpusavio įžadas: Turinyje „Gegužės trečiosios konstitucija ir Abiejų Tautų tarpusavio įžadas“ nurodytas 91 puslapyje.
-- susijęs iš Apaštalų tikėjimo išpažinimas: Brolis Henrikas regėjime ištarė Apaštalų tikėjimo išpažinimą, atsakydamas į raginimą priimti žydų tikėjimą.
 - susijęs iš Babilono Talmudas: Vilniaus Gaonas redagavo ir komentavo Babilono Talmudą; tai citatoje įvardijama kaip didžiausias jo nuopelnas.
-- susijęs iš Boleslovo Pamaldžiojo privilegija žydams: 1408 m. Lucke visiems Lietuvos žydams suteiktos laisvės rėmėsi XIII a. Boleslovo Pamaldžiojo privilegijos pavyzdžiu.
 - susijęs iš LAF radijo pranešimas dėl Lietuvos valstybės atkūrimo (1941 m. birželio 23 d.): 1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis per radiją paskelbė apie laisvos ir nepriklausomos Lietuvos valstybės atkūrimą.
 - susijęs iš Lietuvos Metrika (XIV knyga): 1529 m. Lietuvos Metrikos XIV knyga liudijo, kad Vilnius mokėjo 1500 kapų grašių krikščionių mokesčio.
 - susijęs iš Lietuvos diplomatija nuo 1990 m. kovo 11: Leidinį „Lietuvos diplomatija nuo 1990 m. kovo 11“ 2001 m. Vilniuje išleido Lietuvos užsienio reikalų ministerija.
@@ -517,69 +733,41 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš Pirmasis Lietuvos gyventojų surašymas (1923 m.): 1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, Lietuvoje buvo 2 028 971 gyventojas be Vilniaus ir Klaipėdos kraštų.
 - susijęs iš Pirmasis Lietuvos gyventojų surašymas (1923 m.): 1923 m. pirmojo Lietuvos gyventojų surašymo duomenimis, kaime gyveno 84 proc. Lietuvos gyventojų, o lietuviai sudarė 91 proc. kaimo gyventojų.
 - susijęs iš Stemmata Polonica: XVI a. vidurio herbyne „Stemmata Polonica“, saugomame Paryžiuje, pavaizduotas LDK herbas Vytis.
-- susijęs iš Trakų žydų privilegija (1388 m.; patvirtinta 1507 m.): Trakų žydai prašė patvirtinti jiems priklausiusias teises, laisves ir kitus dalykus, nurodytus Vytauto privilegijoje.
-- susijęs iš Trakų žydų privilegija (1388 m.; patvirtinta 1507 m.): 1388 m. Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Žygimantas Senasis ją patvirtino Melnyke.
-- susijęs iš Trakų žydų privilegija: Trakų žydai dar 1388 m. atskirai gavo privilegiją, kurioje išsamiai apibūdinta jų elgsena krikščionių atžvilgiu.
-- susijęs iš Verslas: Ketvirtajame dešimtmetyje verslininkai laikraštyje „Verslas“ agresyviai puldinėjo žydų prekybininkus ir kėlė šūkį „Lietuva lietuviams“.
-- susijęs iš Vytauto Reivyčio slaptas raštas Nr. 3: 1941 m. rugpjūčio 16 d. Vytautas Reivytis slaptu raštu Nr. 3 įsakė sulaikyti visus žydus ir sutelkti juos tam numatytose vietose.
-- susijęs iš Vytauto privilegija Lietuvos žydams: Vytauto privilegija Lietuvos žydams vėliau buvo paskelbta Pirmojo Lietuvos Statuto pradžioje.
-- susijęs iš Žydų padėties nuostatai: Lietuvos laikinoji vyriausybė Žydų padėties nuostatais ir VII forto konclageriu demonstravo antisemitizmą, siekdama nuolaidų iš nacių Vokietijos.
-- susijęs iš Žydų padėties nuostatai: LV sudarė Žydų padėties nuostatus kaip deklaruojamo antisemitizmo priemonę ir siekė nuolaidų iš nacių Vokietijos.
 - susijęs iš Altajaus kraštas (kraštas): Tremtinių išvežimas į Altajaus krašto vietoves, kur dalis jų mirė arba žuvo, vertinamas kaip nusikaltimas žmoniškumui.
 - susijęs iš Amsterdamas: Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais per Gdanską į Amsterdamą.
 - susijęs iš Amsterdamas: Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais per Gdanską į Amsterdamą.
-- susijęs iš Bagdadas: Bagdadas minimas tarp pasaulinių žydų kultūros centrų, su kuriais lyginamas XVIII–XIX a. sandūros Vilnius.
 - susijęs iš Bernardinų gatvė: 1677 m. Paulius Bochenas Bernardinų gatvėje buvusį mūrinį namą pardavė Eustachijui Kotovičiui už 750 auksinų.
 - susijęs iš Galvės ežeras: Ivinskis Galvės ežero salos pilį minėjo kaip žymiausią Vytauto garbės ir pasididžiavimo statinį.
 - susijęs iš Galvės ežero salos pilis (pilis): 1414 m. Galvės ežero salos pilyje apsilankė Burgundijos riteris Ghillebert de Lannoy.
 - susijęs iš Galvės ežero salos pilis (pilis): Ivinskis Galvės ežero salos pilį vadino žymiausiu Vytauto garbės ir pasididžiavimo statiniu.
-- susijęs iš Gargždai: 1941 m. birželio 24 d. Tilžės gestapo būrys Gargžduose sušaudė 201 žydą vyrą.
 - susijęs iš Gdanskas: Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
 - susijęs iš Gdanskas: Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą.
-- susijęs iš Kaunas: 1941 m. liepą Heinrichas Himmleris perdavė Kaune veikusiai einzatsgrupei A nurodymą žudyti ne tik žydų vyrus, bet ir moteris bei vaikus.
 - susijęs iš Kaunas: 1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis užimtame Kaune per radiją paskelbė apie Lietuvos valstybės atkūrimą.
 - susijęs iš Kaunas: 1941 m. birželio 23 d. užėmus Kauno radiją, LAF atstovas Leonas Prapuolenis paskelbė apie Lietuvos valstybės atkūrimą.
-- susijęs iš Kauno IX fortas: Kauno IX forte sušaudyta apie 6–8 tūkst. žydų, atvežtų iš Austrijos, Vokietijos, Čekoslovakijos ir Prancūzijos.
 - susijęs iš Kauno VII fortas: TDA bataliono kuopa, paversta zonderkomanda, liepos 4 ir 6 d. nacių vadovaujama dalyvavo 3 000 žydų žudynėse Kauno VII forte.
 - susijęs iš Kauno VII fortas: TDA bataliono kuopa, paversta zonderkomanda, liepos 4 ir 6 d. nacių vadovaujama dalyvavo 3 000 žydų žudynėse Kauno VII forte.
-- susijęs iš Kauno getas: Kauno getas buvo tarp getų, kuriuose apie 50 tūkst. žydų laikinai palikti ir išnaudoti kaip pigi darbo jėga.
 - susijęs iš Klaipėda: Klaipėdos integravimą sunkino tai, kad Klaipėdos krašto direktorija labiau klausė Vokietijos nurodymų.
 - susijęs iš Klaipėda: Vilniaus ir Klaipėdos problemos laikytos dviem svarbiausiomis Lietuvos užsienio politikos problemomis.
 - susijęs iš Klaipėdos kraštas: Klaipėdos krašto integravimą sunkino tai, kad vokiškoji krašto direktorija labiau klausė Vokietijos nurodymų.
 - susijęs iš Knišinas: 1576 m. valdžią perėmęs karalius Steponas Batoras nuvyko į Knišiną.
 - susijęs iš Krokuva: 1257 m. Krokuva iš Boleslovo Droviojo gavo pirmąją municipalinę tvarką ir teutonų teises.
 - susijęs iš Krokuva: Benjaminas iš Tudelio teigė, kad 1160 m. į Aleksandrijos uostą užsukdavo ir Krokuvos pirklių laivai.
-- susijęs iš Lenkija: Lenkijoje žydų ir armėnų vaidmuo buvo ryškesnis nei LDK, bet joje nebuvo tokių ryškių totorių ir karaimų bendruomenių.
 - susijęs iš Lenkija: Lenkijoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių kaip LDK.
 - susijęs iš Lenkijos karalystė: Žygimantas Senasis dokumente tituluojamas išrinktu Lenkijos Karalystės karaliumi.
 - susijęs iš Liepoja: Lietuvos delegacija buvo instruktuota siekti išėjimo į jūrą per Klaipėdą arba Liepoją.
 - susijęs iš Lietuva: 1923 m. rugsėjo 17 d. pirmojo Lietuvos gyventojų surašymo duomenimis, Lietuvoje be Vilniaus ir Klaipėdos kraštų buvo 2 028 971 gyventojas.
 - susijęs iš Lietuva: 1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui, Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos politinius kalinius paskubomis išgabeno iš Lietuvos.
-- susijęs iš Luckas: 1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams.
-- susijęs iš Luckas: 1388 m. Lucke Vytautas suteikė privilegiją Trakų žydams.
 - susijęs iš Maskva: Vokietijai greitai užėmus Lietuvą, sovietai vos spėjo išgabenti LSSR vyriausybę į Maskvą.
 - susijęs iš Maskva: Vokietijai greitai užėmus Lietuvą, sovietai vos spėjo išgabenti LSSR vyriausybę į Maskvą.
 - susijęs iš Paneriai: Paneriuose veikęs Ypatingasis SD būrys buvo viena iš dviejų lietuvių zonderkomandų, daugiausia vykdžiusių šaudymus.
-- susijęs iš Paryžius: Paryžiaus taikos konferencijoje lietuviai žydams žadėjo plačią kultūrinę autonomiją.
-- susijęs iš Pietų Afrikos Sąjunga: Pietų Afrikos Sąjunga buvo viena iš krypčių, į kurias per 20 metų vyko apie 30 proc. iš Lietuvos emigravusių žydų.
-- susijęs iš Pietų Afrikos Sąjunga: Pietų Afrikos Sąjunga buvo viena iš krypčių, į kurias per 20 metų vyko apie 30 proc. iš Lietuvos emigravusių žydų.
 - susijęs iš Rusija: Rusija pasisavino iš LDK erdvių kilusius pirties ir „horilkos“ arba „vodkos“ fenomenus.
-- susijęs iš Rusija: Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.
-- susijęs iš Salonikai: XVIII–XIX a. sandūroje Salonikai minimi tarp pirmojo žydų pasaulinių kultūros centrų dešimtuko miestų.
 - susijęs iš Sibiras: Sovietų Sąjunga vykdė masines deportacijas iš Lietuvos į Sibirą.
-- susijęs iš Stambulas: XVIII–XIX a. sandūros Stambulas minimas tarp svarbiausių žydų pasaulinių kultūros centrų.
-- susijęs iš Trakai: 1507 m. Melnike patvirtinta Trakų žydų privilegija, jų teisės, laisvės ir kitos privilegijoje aprašytos priklausomybės.
-- susijęs iš Trakai: Trakų žydai prašė patvirtinti Aleksandro, arba Vytauto, suteiktas teises, laisves ir privilegijas.
-- susijęs iš Tunisas: Tunisas minimas tarp miestų, su kuriais lyginamas XVIII–XIX a. sandūros Vilnius kaip vienas svarbiausių žydų kultūros centrų.
 - susijęs iš Vilijampolė: 1941 m. birželio 26 d. Vilijampolėje lietuvių talkininkai dalyvavo SD inspiruotuose žiauriuose pogromuose.
 - susijęs iš Vilniaus getas: Apie 50 tūkst. žydų buvo laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose ir išnaudoti kaip pigi darbo jėga.
 - susijęs iš Vilniaus kraštas: Lietuvai atgauto Vilniaus ir Vilniaus krašto integracija reikalavo daug lėšų, nes karo metu kraštas buvo nualintas, o modernios pramonės įmonės išvežtos į SSRS.
-- susijęs iš Vilnius: XVIII a. Vilnius tapo žydų gyvenimo pastovumo ir kultūros klestėjimo simboliu ir buvo pavadintas Lietuvos Jeruzale.
 - susijęs iš Vilnius: Vytautas tarpukario Lietuvoje įkūnijo tautinį ir politinį idealą, nes laikytas Lietuvos vaduotoju iš priklausomybės nuo lenkų ir palaidotas Vilniuje.
 - susijęs iš Vilnius: XVI–XVIII a. Vilnius tapo Europos sostine ant dviejų pasaulių ribos, kurioje sugyveno dešimt konfesijų.
 - susijęs iš Vilnius: Vilniaus ir Klaipėdos problemos buvo laikomos svarbiausiomis Lietuvos užsienio politikos problemomis.
-- susijęs iš Vilnius: XVI–XVIII a. Vilnius buvo Europos sostinė, kurioje sugyveno dešimt konfesijų, o žydų pasaulyje jis vadintas Vilniaus Gaono miestu ir Šiaurės Jeruzale.
-- susijęs iš Vilnius: 1941 m. liepą Heinrichas Himmleris perdavė Vilniuje veikusiai einzatsgrupei B nurodymą žudyti ne tik žydų vyrus, bet ir moteris bei vaikus.
 - susijęs iš Vyskupų gatvė: 1677 m. Paulius Bochenas 750 auksinų skyrė namui Vyskupų gatvėje remontuoti.
 - susijęs iš Vytauto Didžiojo karo muziejus: Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną.
 - susijęs iš Šiaulių getas: Apie 50 tūkst. žydų buvo laikinai palikta Vilniaus, Kauno, Šiaulių ir mažesniuose getuose kaip pigi darbo jėga.
@@ -589,41 +777,24 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš Žuvintas: Žirgupė Žydai Žuvintas, ež.
 - susijęs iš Žuvintas: , p. Žirgupė Žydai Žuvintas, ež.
 - susijęs iš „Lietūkio“ garažas: 1941 m. birželio 27 d. Kauno „Lietūkio“ garaže lietuviai dalyvavo SD inspiruotame žiauriame pogrome.
-- susijęs iš „Lietūkio“ garažas: 1941 m. birželio 27 d. „Lietūkio“ garaže vyko žydų žudynės.
-- susijęs iš [[objektai/zodynas/Antisemitizmas.md#claim-t-75540|Antisemitizmas]]: Šimtmečius Lietuvoje aršaus antisemitizmo nebuvo dėl abipusės lietuvių valstiečių ir žydų pirklių ekonominės priklausomybės.
-- susijęs iš [[objektai/zodynas/Antisemitizmas.md#claim-t-75541|Antisemitizmas]]: Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.
-- susijęs iš [[objektai/zodynas/Antisemitizmas.md#claim-t-75542|Antisemitizmas]]: Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o Paryžiaus taikos konferencijoje žydams žadėjo plačią kultūrinę autonomiją.
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-183400|Bajorų respublika liberum veto]]: Lenkijoje ir Lietuvoje visuomenės agrarinis pobūdis ir miestų silpnumas lėmė Bajorų respublikos susiformavimą.
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-21976|Bajorų respublika liberum veto]]: Liberum veto teisė reikalavo Seimo sprendimus priimti vienu balsu ir trukdė stiprinti bei centralizuoti valstybę.
-- susijęs iš [[objektai/zodynas/Filosemitas.md#claim-t-77795|Filosemitas]]: Filosemitu vadintas Antanas Smetona stabdė raginimus apriboti žydus ir pareiškė, kad Lietuvoje vietos užteks visiems.
 - susijęs iš [[objektai/zodynas/Jidiš.md#claim-t-26336|Jidiš]]: Žydų atstovai Lietuvos Seime galėjo kalbėti jidiš, nes gerai nemokėjo lietuvių kalbos; Europoje tai buvo precedento neturintis atvejis.
 - susijęs iš [[objektai/zodynas/Kahalai.md#claim-t-21993|Kahalai]]: 1920 m. nacionalinėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų konferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo spręsti visus socialinius ir kultūrinius žydų reikalus.
 - susijęs iš [[objektai/zodynas/Lite litvakai.md#claim-t-183445|Lite litvakai]]: Kai kurių vertinimu, kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK erdvės kilę žydai litvakai.
 - susijęs iš [[objektai/zodynas/Lite litvakai.md#claim-t-22004|Lite litvakai]]: Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.
-- susijęs iš [[objektai/zodynas/Pusrytės.md#claim-t-07749|pusrytės]]: Iki didžiosios pusrytės arba pietų žydams pilyje nebuvo leidžiama pirkti prekių pirmiau už krikščionis.
-- susijęs iš [[objektai/zodynas/Pusrytės.md#claim-t-07750|pusrytės]]: Pusrytės žymėjo laiką, iki kurio žydams pilyje neleista pirkti prekių.
-- susijęs iš [[objektai/zodynas/Restitucija.md#claim-t-22021|Restitucija]]: Įtvirtindama demokratines vertybes Lietuva siekė vykdyti religinio turto restituciją ir grąžinti žydų kultūros vertybes.
 - susijęs iš [[objektai/zodynas/administracinė linija demarkacijos linija.md#claim-t-108567|administracinė linija demarkacijos linija]]: Apie 1937 m. giminės iš Lietuvos ir Lenkijos pusių susitikdavo prie administracinės linijos.
 - susijęs iš [[objektai/zodynas/administracinė linija.md#claim-t-45778|administracinė linija]]: Apie 1937 m., kai keliai tarp Lietuvos ir Lenkijos buvo uždaryti, giminės iš abiejų pusių susitikdavo prie administracinės linijos.
 - susijęs iš [[objektai/zodynas/administracinė linija.md#claim-t-45779|administracinė linija]]: Apie 1937 m. giminės iš Lietuvos ir Lenkijos pusių susitikdavo prie administracinės linijos.
 - susijęs iš [[objektai/zodynas/agentai smogikai.md#claim-t-22046|agentai smogikai]]: Daug civilių aukų būta vietovėse, kur veikė sovietų smogikai arba partizanų būriai piktnaudžiavo alkoholiu.
-- susijęs iš [[objektai/zodynas/akcijos.md#claim-t-183393|akcijos]]: Akcijose prieš žydus Lietuvoje naciai panaudojo Andrejaus Vlasovo armijos dalinius ir ukrainiečių bei latvių policijos batalionus.
-- susijęs iš [[objektai/zodynas/akcijos.md#claim-t-70076|akcijos]]: Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armijos dalinius, ukrainiečių, latvių policijos batalionus.
-- susijęs iš [[objektai/zodynas/akcijos.md#claim-t-70077|akcijos]]: Vadinamųjų akcijų metu buvo žudomi ir didžiųjų getų žydai.
-- susijęs iš [[objektai/zodynas/autonomija autonominis statusas.md#claim-t-70093|autonomija autonominis statusas]]: Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms tautinėms mažumoms.
 - susijęs iš [[objektai/zodynas/bajoriškoji demokratija luominė monarchija.md#claim-t-22069|bajoriškoji demokratija luominė monarchija]]: Abiejų Tautų Respublika sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją.
 - susijęs iš [[objektai/zodynas/bajoriškoji demokratija.md#claim-t-25330|bajoriškoji demokratija]]: Abiejų Tautų Respublika aprūpino Vakarus javais ir sukūrė religinės tolerancijos bei bajoriškosios demokratijos tradiciją.
 - susijęs iš [[objektai/zodynas/einzatsgrupės Einzatsgruppen.md#claim-t-183419|einzatsgrupės Einzatsgruppen]]: Pirmą nacių okupacijos savaitę atvykusios SD Einzatsgruppen pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių.
 - susijęs iš [[objektai/zodynas/einzatsgrupės Einzatsgruppen.md#claim-t-22130|einzatsgrupės Einzatsgruppen]]: Pirmą nacių okupacijos savaitę SD einzatsgrupės pradėjo „valymo operacijas“, per kurias sunaikinti keli tūkstančiai žmonių.
 - susijęs iš [[objektai/zodynas/einzatsgrupės Einzatsgruppen.md#claim-t-22131|einzatsgrupės Einzatsgruppen]]: Einzatsgrupės terorą organizavo taip, kad pirmieji pogromai ir „apsivalymo“ akcijos atrodytų vykdomi vietinių gyventojų.
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101580|etnografinės ribos etnografinis principas]]: Delegacija derybose dėl sienų turėjo remtis etnografiniu principu ir daryti būtiniausias ekonomines korektyvas.
-- susijęs iš [[objektai/zodynas/getas.md#claim-t-22151|getas]]: 1943 m. naciai naikino miestų getus, degino nužudytųjų kūnus ir išvežė apie 14,5 tūkst. Lietuvos žydų į konclagerius bei stovyklas.
-- susijęs iš [[objektai/zodynas/ješiva.md#claim-t-23436|ješiva]]: Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba.
-- susijęs iš [[objektai/zodynas/ješiva.md#claim-t-26964|ješiva]]: Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba.
 - susijęs iš [[objektai/zodynas/kahalai sėslumo riba.md#claim-t-22176|kahalai sėslumo riba]]: 1920 m. nacionalinėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų konferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo spręsti visus socialinius ir kultūrinius žydų reikalus.
 - susijęs iš [[objektai/zodynas/kahalai sėslumo riba.md#claim-t-22177|kahalai sėslumo riba]]: Žydams buvo įvesta sėslumo riba, draudusi keltis į abi Rusijos sostines, tačiau ji netaikyta kvalifikuotiems ir išsilavinusiems žydams.
-- susijęs iš [[objektai/zodynas/krajovcai kraštiečiai.md#claim-t-23528|krajovcai kraštiečiai]]: Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.
-- susijęs iš [[objektai/zodynas/krajovcai.md#claim-t-23529|krajovcai]]: Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.
 - susijęs iš [[objektai/zodynas/kultūrinė autonomija.md#claim-t-169916|kultūrinė autonomija]]: Paryžiaus taikos konferencijoje lietuviai žydams prižadėjo plačiausią kultūrinę autonomiją.
 - susijęs iš [[objektai/zodynas/litvakai Lite litviš.md#claim-t-26551|litvakai Lite litviš]]: Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.
 - susijęs iš [[objektai/zodynas/luomas.md#claim-t-169923|luomas]]: Vytautas skatino prekybą ir intensyvesnį ūkinį gyvenimą, sudarydamas žydų ir miestelėnų luomą.
@@ -635,7 +806,6 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš [[objektai/zodynas/valymo operacijos.md#claim-t-183485|valymo operacijos]]: Pirmą nacių okupacijos savaitę per SD operatyvinių būrių pradėtas „valymo operacijas“ buvo sunaikinti keli tūkstančiai žmonių.
 - susijęs iš [[objektai/zodynas/valymo operacijos.md#claim-t-22338|valymo operacijos]]: Pirmą nacių okupacijos savaitę keli tūkstančiai gyventojų buvo sunaikinti per SD Einsatzgruppen pradėtas „valymo operacijas“.
 - susijęs iš [[objektai/zodynas/zemstvos.md#claim-t-77810|zemstvos]]: Lietuvoje nebuvo įsteigtos zemstvos, Rusijoje nuo 1864 m. veikusios vietos savivaldos institucijos.
-- susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-183486|zonderkomanda]]: Viena Tautinės darbo apsaugos bataliono kuopa buvo padaryta zonderkomanda ir liepos 4 bei 6 dienomis dalyvavo 3 000 žydų žudynėse Kauno VII forte.
 - susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-70414|zonderkomanda]]: Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys.
 - susijęs iš [[objektai/zodynas/žydšaudžiai.md#claim-t-22356|žydšaudžiai]]: Žydų naikinimas kėlė didelį visuomenės pasipiktinimą, nacių kolaborantai visuomenėje neteko gero vardo, pasmerkimai ir priekaištai jiems buvo sakomi bažnyčiose, liaudyje jie paniekinamai vadinti „žydšaudžiais“.
 ## Reikšmingi paminėjimai
@@ -698,6 +868,16 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=525d474d0753a49af92d8bb2d41f2884b914f51f00046504b5c4c1f9cae7aa12; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=84
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-004
@@ -716,7 +896,27 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e715861eb2e6946d4af812a2c9a58be14ef5bc2ca35c58d9dae1afaaa65481ff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jekaterina II: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Jekaterina II: mention_match, person, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Jekaterina II" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-012
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4209f10648cdb93f41fa736f4abb14595c621eb143c096bf6422a47e785b34de; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jidiš: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Jidiš: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Jidiš" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-020
 
 - c-005
@@ -741,7 +941,27 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 342263-342958; hash=66fd69a9c9ff223d7d928d11ab001cc013e2d439af3f254d0956406bc0357407; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=22
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 154857-155292; hash=be82db3d3cb1e1d8b7706d192656220990c259309d6de5b76b9632342c9484bc; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jidiš: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Jidiš: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Jidiš" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-015
 
 - c-006
@@ -776,6 +996,16 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 340945-341713; hash=dce0a81ddf8099cded657f081605a447af9aebf811a4703ee29fd477e2571a48; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-007
 
 - c-008
@@ -797,6 +1027,16 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3daa778277fa42d66e501b764997d917779d19367ad8c56bb78b57d2ff1b46b7; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-006
 
 - c-009
@@ -821,6 +1061,16 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   statusas: verified
   pagrindžia:
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6fcfcadaa1e514f37968a56d0fcbc7f8c3b942df6e30e1b0f87d9fcfdf4ecfa4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group, gap=56
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-009
 
 - c-010
@@ -838,6 +1088,16 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a1259bc024ddc31d3d7d111874b49a094789f3a28d78fafa3cc4e11f4ab9850d; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-013
 
 - c-011
@@ -859,6 +1119,16 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 323783-324546; hash=36608a505aa8fadf1d68ff2ef849937f8eb2fec351eb77d5eccf256a520d64ef; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-010
 
 - c-012
@@ -872,6 +1142,16 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 336625-337473; hash=a5f750f284791f823c1fffeb796d599746bca888298a158d96d834dcbf7c38f8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lenkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-017
 
 - c-013
@@ -885,7 +1165,27 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6fcfcadaa1e514f37968a56d0fcbc7f8c3b942df6e30e1b0f87d9fcfdf4ecfa4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-016
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e715861eb2e6946d4af812a2c9a58be14ef5bc2ca35c58d9dae1afaaa65481ff; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Abiejų Tautų Respublika: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Abiejų Tautų Respublika: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Abiejų Tautų Respublika" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-022
 
 - c-014
@@ -927,7 +1227,27 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c34346953b6b23b76f2a020a6d5d531ec9ecde388ee1304ddba299f66104f179; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-021
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 401668-402223; hash=f019c7a6062d4cfc210ba16c7307894432a0df0d4dd8fe9118b36d25bb661350; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-016
@@ -951,6 +1271,16 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 18721-18955; hash=92f818ff2fa4243ee1d3183ccec2398b971884640360644861f6e52eb81fa9b4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-023
 
 - c-017
@@ -968,6 +1298,16 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c6725741d0addeecab36b57c62f303fc9da05ba2a1045ce1eac11d495783c19a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=102
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-011
 
 - c-018
@@ -1010,3 +1350,13 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   statusas: verified
   pagrindžia:
     - t-024
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 323783-324546; hash=36608a505aa8fadf1d68ff2ef849937f8eb2fec351eb77d5eccf256a520d64ef; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žydai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lenkija: mention_match, place, gap=73
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žydai" parinktas kaip owner_note_path. Targetas "Lenkija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

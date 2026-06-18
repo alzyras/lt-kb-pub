@@ -64,7 +64,7 @@ Nenurodyta
   global_id: t-168695
   teiginys: 'Iškilus unijos klausimui, Lenkijoje atsirado publicistiškos rašliavos, kurioje Lietuva buvo žeminama kaip nedėkinga ir maištaujanti valstybė.'
   sudarymo_pagrindimas: 'Teiginys susietas su rašliava ir išvalytas nuo perteklinio konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-002
 

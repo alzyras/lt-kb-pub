@@ -32,6 +32,9 @@ Dusburgietis teigia, kad vaičiulaitis A.
   sudarymo_pagrindimas: 'Citata pateikia aiškią A. Vaičiulaičio publikacijos nuorodą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 818929-819040; hash=abd82636e646373f462ee616d8fdaebc06158aec6efe573ee14b403d1399ce37; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +49,6 @@ Dusburgietis teigia, kad vaičiulaitis A.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 818929-819040; hash=abd82636e646373f462ee616d8fdaebc06158aec6efe573ee14b403d1399ce37; match=exact
+  sprendimo_priezastis: auto

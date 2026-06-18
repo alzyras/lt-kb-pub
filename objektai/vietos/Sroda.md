@@ -25,6 +25,16 @@ Keliaudamas iš Poznanės į Srodą karalius vos nežuvo, kai audros žaibas nut
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Poznanė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 694014-694349; hash=74fb40bf41e16c63779bbbd7bd78f73becdca72935b3eaaeae81d9776a5026ca; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Poznanė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sroda: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Poznanė: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sroda" parinktas kaip owner_note_path. Targetas "Poznanė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Poznanė: Keliaudamas iš Poznanės į Srodą karalius vos nežuvo per audrą.
 ## Reikšmingi paminėjimai
 
@@ -45,3 +55,13 @@ Keliaudamas iš Poznanės į Srodą karalius vos nežuvo, kai audros žaibas nut
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 694014-694349; hash=74fb40bf41e16c63779bbbd7bd78f73becdca72935b3eaaeae81d9776a5026ca; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Poznanė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sroda: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Poznanė: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sroda" parinktas kaip owner_note_path. Targetas "Poznanė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

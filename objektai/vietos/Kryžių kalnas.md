@@ -37,6 +37,16 @@ Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir
   temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį teiginį apie simbolinę Kryžių kalno reikšmę.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 469014-469616; hash=073e0ac6b3b092e06ed029b07caf01db7b210ca1d57e7c0889e0a2c5816a2c05; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryžių kalnas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžių kalnas" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-183612"></a>
 - t-002
@@ -52,14 +62,24 @@ Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys nėra pakankamai susietas su note objektu.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 469014-469616; hash=073e0ac6b3b092e06ed029b07caf01db7b210ca1d57e7c0889e0a2c5816a2c05; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryžių kalnas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžių kalnas" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Jonas Paulius II.md#claim-t-71297|Jonas Paulius II]]: Popiežius Jonas Paulius II 1993 m. aplankė Kryžių kalną, pramintą lietuviška Golgota.
 - susijęs iš [[objektai/daiktai/Kryžių kalno kryžiai.md#claim-t-77918|Kryžių kalno kryžiai]]: Priklausomybės dešimtmečiais Kryžių kalno kryžiai tapo stiprybės ir vilties simboliu.
-- susijęs iš [[objektai/daiktai/Nelegaliai išspausdinta religinė literatūra.md#claim-t-23463|Nelegaliai išspausdinta religinė literatūra]]: Religinėse manifestacijose maldininkai įsigydavo nelegaliai išspausdintų maldaknygių, katekizmų ir Šventojo Rašto leidinių.
-- susijęs iš [[objektai/daiktai/Religinės relikvijos.md#claim-t-23464|Religinės relikvijos]]: Religinėse manifestacijose maldininkai įsigydavo draustų religinių relikvijų ir nelegaliai išspausdintos religinės literatūros.
 - susijęs iš [[objektai/ivykiai/Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau).md#claim-t-183229|Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau)]]: Valdžiai draudžiant statyti kryžius, 1961 m. Kryžių kalne buvo sunaikinti 2 179 kryžiai, bet žmonės naktimis statė vis daugiau naujų kryžių.
 - susijęs iš [[objektai/ivykiai/Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau).md#claim-t-20233|Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau)]]: Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.
-- susijęs iš [[objektai/paprociai/Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas.md#claim-t-23363|Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas]]: Nepaisydami valdžios draudimų, į religines manifestacijas suvažiuodavo dešimtys tūkstančių maldininkų, įsigydavusių draustų relikvijų ir nelegalios religinės literatūros.
 - susijęs iš [[objektai/paprociai/Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika.md#claim-t-20811|Kryžių statymas Kryžių kalne kaip tikėjimo laisvės pasipriešinimo praktika]]: Kryžių kalnas tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.
+- susijęs iš [[objektai/daiktai/Nelegaliai išspausdinta religinė literatūra.md#claim-t-23463|Nelegaliai išspausdinta religinė literatūra]]: Religinėse manifestacijose maldininkai įsigydavo nelegaliai išspausdintų maldaknygių, katekizmų ir Šventojo Rašto leidinių.
+- susijęs iš [[objektai/daiktai/Religinės relikvijos.md#claim-t-23464|Religinės relikvijos]]: Religinėse manifestacijose maldininkai įsigydavo draustų religinių relikvijų ir nelegaliai išspausdintos religinės literatūros.
+- susijęs iš [[objektai/paprociai/Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas.md#claim-t-23363|Draudimų nepaisančios religinės manifestacijos ir draustos religinės literatūros įsigijimas]]: Nepaisydami valdžios draudimų, į religines manifestacijas suvažiuodavo dešimtys tūkstančių maldininkų, įsigydavusių draustų relikvijų ir nelegalios religinės literatūros.
 - susijęs iš [[objektai/posakiai/lietuviška Golgota.md#claim-t-183490|lietuviška Golgota]]: Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.
 - susijęs iš [[objektai/posakiai/lietuviška Golgota.md#claim-t-20835|lietuviška Golgota]]: Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.
 - susijęs iš [[objektai/zodynas/pogrindis pogrindiniai leidiniai nelegali spauda.md#claim-t-23535|pogrindis pogrindiniai leidiniai nelegali spauda]]: Maldininkai religinėse manifestacijose įsigydavo draustų relikvijų ir nelegaliai išspausdintos religinės literatūros.
@@ -83,4 +103,24 @@ Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 469014-469616; hash=073e0ac6b3b092e06ed029b07caf01db7b210ca1d57e7c0889e0a2c5816a2c05; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryžių kalnas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžių kalnas" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 469014-469616; hash=073e0ac6b3b092e06ed029b07caf01db7b210ca1d57e7c0889e0a2c5816a2c05; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kryžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kryžių kalnas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kryžius: mention_match, thing, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kryžių kalnas" parinktas kaip owner_note_path. Targetas "Kryžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

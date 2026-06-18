@@ -26,6 +26,17 @@ Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir 
   semantiniai_rysiai: '[[objektai/asmenys/Dimitrijus|Dimitrijus]] buvo valdovas Maskva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 384307-384960; hash=2ed149d0dda348a319f3a71392887044b8802056a7af4df1144080ce9a0baf60; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Dimitrijus: owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Europa: candidate; Krymas: candidate; Polockas: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Dimitrijus" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Europa.md", "selected": false, "strategy": "candidate", "title": "Europa", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Krymas.md", "selected": false, "strategy": "candidate", "title": "Krymas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Polockas.md", "selected": false, "strategy": "candidate", "title": "Polockas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 <a id="claim-t-186106"></a>
 - t-002
@@ -38,6 +49,16 @@ Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir 
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Akademijos teatro įranga|Akademijos teatro įranga]]; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/zodynas/viečė|viečė]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 390502-391028; hash=9897c5ea7ef771ffce0ecccac4beb80d8130b3c296f28b2cbd28ff7c5be5cafc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Akademijos teatro įranga: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dimitrijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Akademijos teatro įranga: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dimitrijus" parinktas kaip owner_note_path. Targetas "Akademijos teatro įranga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas.md#claim-t-187467|Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]: Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
 - susijęs iš [[objektai/ivykiai/Trečioji Smolensko apgultis ir nesėkmingas Dimitrijaus bandymas.md#claim-t-185651|Trečioji Smolensko apgultis ir nesėkmingas Dimitrijaus bandymas]]: Po trečio nesėkmingo bandymo užimti Smolenską Dimitrijus nuniokojo miesto apylinkės kaimus.
 - susijęs iš Algirdo ir Dimitrijaus taikos sutartis: Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.
@@ -95,7 +116,28 @@ Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 384307-384960; hash=2ed149d0dda348a319f3a71392887044b8802056a7af4df1144080ce9a0baf60; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Maskva: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Dimitrijus: owner_after_title, person, gap=13
+  ryšio_targeto_parinkimas: Maskva: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Europa: candidate; Krymas: candidate; Polockas: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Dimitrijus" parinktas kaip owner_after_title. Targetas "Maskva" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Europa.md", "selected": false, "strategy": "candidate", "title": "Europa", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Krymas.md", "selected": false, "strategy": "candidate", "title": "Krymas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Polockas.md", "selected": false, "strategy": "candidate", "title": "Polockas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 390502-391028; hash=9897c5ea7ef771ffce0ecccac4beb80d8130b3c296f28b2cbd28ff7c5be5cafc; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Akademijos teatro įranga: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Dimitrijus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Akademijos teatro įranga: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Dimitrijus" parinktas kaip owner_note_path. Targetas "Akademijos teatro įranga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Ryšiai
 - Dimitrijus buvo_valdovas [[objektai/vietos/Maskva]]

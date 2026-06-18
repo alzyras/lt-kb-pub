@@ -31,6 +31,16 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Plockis|Plockis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Liublinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2bbc96ee6e62bee734214199f58f7198537d85ea2c699ad142be9ea55c7bb389; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Leipcigas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leipcigas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-83728"></a>
 - t-002
@@ -40,6 +50,16 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Varšuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2a686b73dc8cf2694af52503322d92c5e6130ad3851d14bba4f49a2109a26ed8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Turčinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Leipcigas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Turčinas: mention_match, person, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leipcigas" parinktas kaip owner_note_path. Targetas "Turčinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-83729"></a>
 - t-003
@@ -49,20 +69,38 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Turčinas|Turčinas]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=829bfe1c430da76110c9bd593519d73b17c56542c4514ef0b7545d8a8b63b5a1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Liublinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Leipcigas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Liublinas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leipcigas" parinktas kaip owner_note_path. Targetas "Liublinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-83730"></a>
 - t-004
   global_id: t-83730
   teiginys: 'Pavlikas turėjo laiku pasiųsti pinigus Mlodyčiui į Leipcigą ir ponui Plockiui skolai sumokėti.'
   sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie pinigų siuntimą į Leipcigą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mlodyčius|Mlodyčius]]; mentioned_person: [[objektai/asmenys/Plockis|Plockis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Liublinas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Plockis|Plockis]]; mentioned_person: [[objektai/asmenys/Mlodyčius|Mlodyčius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Liublinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=829bfe1c430da76110c9bd593519d73b17c56542c4514ef0b7545d8a8b63b5a1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Plockis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Leipcigas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Plockis: mention_match, person, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leipcigas" parinktas kaip owner_note_path. Targetas "Plockis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101689|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige.
 - susijęs iš [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis.md#claim-t-101691|Mikalojus Konstantinas Čiurlionis (dailininkas)]]: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
 - susijęs iš [[objektai/asmenys/Mlodyčius.md#claim-t-87919|Mlodyčius]]: Mlodyčiui į Leipcigą turėjo būti laiku pasiųsti pinigai skolai sumokėti iš lietuviškų monetų, jas keičiant į lenkiškas.
-- susijęs iš [[objektai/asmenys/Pavlikas.md#claim-t-87819|Pavlikas]]: Stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad būtų sumokėta skola Plockiui.
-- susijęs iš [[objektai/asmenys/Plockis.md#claim-t-87834|Plockis]]: Ponui Plockiui turėjo būti sumokėta skola iš lietuviškų monetų, jas keičiant į lenkiškas.
 - susijęs iš [[objektai/asmenys/Turčinas.md#claim-t-87587|Turčinas]]: Rugpjūčio 5 d. per Turčiną karališkajai didenybei buvo nuvežti pinigai į Leipcigą.
 - susijęs iš [[objektai/autoriai/S. F. Platonov.md#claim-t-30968|S. F. Platonov]]: S. F. Platonovo „Geschichte Russlands vom Beginn bis zur Jetztzeit“ 1927 m. buvo išleista Leipcige.
 - susijęs iš Gerullis G. Die altpreussischen Ortsnamen: G. Gerullio veikalas „Die altpreussischen Ortsnamen“ išleistas Berlyne ir Leipcige 1922 m.
@@ -77,6 +115,8 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
 - susijęs iš Liublinas: Vasarį stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad pinigai būtų išsiųsti į Leipcigą.
 - susijęs iš Varšuva: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
 - susijęs iš Varšuva: Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.
+- susijęs iš [[objektai/asmenys/Pavlikas.md#claim-t-87819|Pavlikas]]: Stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad būtų sumokėta skola Plockiui.
+- susijęs iš [[objektai/asmenys/Plockis.md#claim-t-87834|Plockis]]: Ponui Plockiui turėjo būti sumokėta skola iš lietuviškų monetų, jas keičiant į lenkiškas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -115,7 +155,27 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2a686b73dc8cf2694af52503322d92c5e6130ad3851d14bba4f49a2109a26ed8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Turčinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Leipcigas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Turčinas: mention_match, person, gap=49
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leipcigas" parinktas kaip owner_note_path. Targetas "Turčinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2bbc96ee6e62bee734214199f58f7198537d85ea2c699ad142be9ea55c7bb389; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Leipcigas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leipcigas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
 
 - c-003
@@ -130,4 +190,24 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=829bfe1c430da76110c9bd593519d73b17c56542c4514ef0b7545d8a8b63b5a1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Plockis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Leipcigas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Plockis: mention_match, person, gap=18
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leipcigas" parinktas kaip owner_note_path. Targetas "Plockis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=829bfe1c430da76110c9bd593519d73b17c56542c4514ef0b7545d8a8b63b5a1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Liublinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Leipcigas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Liublinas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Leipcigas" parinktas kaip owner_note_path. Targetas "Liublinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

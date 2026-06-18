@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-41392
   teiginys: 'Šklovo mūšio dieną kunigaikštis Čerkaskis su maždaug 40 000 karių nuo Smolensko žygiavo užimti Oršą ir Kopysę.'
   sudarymo_pagrindimas: 'Perrašyta aiškiau susiejant faktą su Šklovo mūšiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Kopysė; mentioned_place: Smolenskas; mentioned_place: Šklovas'
+  susije_objektai: 'mentioned_place: Kopysė; mentioned_place: Smolenskas; mentioned_place: Šklovas; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1654 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta aiškiau susiejant faktą su Šklovo mūšiu.'
@@ -60,7 +60,7 @@ Nenurodyta
   global_id: t-41393
   teiginys: 'Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Lietuva; mentioned_place: Šklovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Šklovas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1654 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'

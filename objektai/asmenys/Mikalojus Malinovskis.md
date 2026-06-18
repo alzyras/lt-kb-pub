@@ -27,17 +27,37 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
   susije_objektai: 'mentioned_place: Kardinalija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=333807ead7f82a4531ac2ef95ccf518930d66d7adae431365bde5bf58e80e0ac; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nesvyžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Malinovskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Nesvyžius: mention_match, place, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Malinovskis" parinktas kaip owner_note_path. Targetas "Nesvyžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-87554"></a>
 - t-002
   global_id: t-87554
   teiginys: 'Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti Radvilų Nesvyžiaus archyvu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir sutampa su citatos informacija.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Vilnius; mentioned_place: Ščorsai'
+  susije_objektai: 'mentioned_place: Nesvyžius; mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Ščorsai'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Adomas Chreptavičius.md#claim-t-87606|Adomas Chreptavičius]]: Grafas Adomas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bibliotekos turtus.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 521049-521800; hash=4d76e57700f28e79f4136e55dd9cdab0312537f6c868a75808aa2c7043d29fd6; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kardinalija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Malinovskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kardinalija: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Malinovskis" parinktas kaip owner_note_path. Targetas "Kardinalija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš Radvilų archyvas Kardinalijoje: Radvilų archyve Kardinalijoje buvo saugomi vertingi istorijos šaltiniai, prie kurių prieigą palengvino Mikalojus Malinovskis.
+- susijęs iš [[objektai/asmenys/Adomas Chreptavičius.md#claim-t-87606|Adomas Chreptavičius]]: Grafas Adomas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bibliotekos turtus.
 - susijęs iš Ščorsai: Grafas Adomas Chreptavičius tyrinėtojui atvėrė Ščorsų bibliotekos turtus.
 ## Reikšmingi paminėjimai
 
@@ -86,4 +106,24 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=333807ead7f82a4531ac2ef95ccf518930d66d7adae431365bde5bf58e80e0ac; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nesvyžius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Malinovskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Nesvyžius: mention_match, place, gap=59
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Malinovskis" parinktas kaip owner_note_path. Targetas "Nesvyžius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 521049-521800; hash=4d76e57700f28e79f4136e55dd9cdab0312537f6c868a75808aa2c7043d29fd6; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kardinalija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mikalojus Malinovskis: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Kardinalija: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mikalojus Malinovskis" parinktas kaip owner_note_path. Targetas "Kardinalija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

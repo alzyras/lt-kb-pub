@@ -23,6 +23,9 @@ Gerai man vienas inteligentas sakė, kai ketinau važiuoti į Ameriką: geriau, 
   sudarymo_pagrindimas: 'Pataisyta citatos forma ir pašalinta laiško pabaigos nuotrupa.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=06d6e4d0850e936ae1c98cd627e661009331b666cab6062bfac0bcf883670293; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -39,3 +42,6 @@ Gerai man vienas inteligentas sakė, kai ketinau važiuoti į Ameriką: geriau, 
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=06d6e4d0850e936ae1c98cd627e661009331b666cab6062bfac0bcf883670293; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

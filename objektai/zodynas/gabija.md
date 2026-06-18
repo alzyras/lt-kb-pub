@@ -24,6 +24,16 @@ Tai vadinamoji šventoji namų ugnelė, arba gabija.
   susije_objektai: 'mentioned_place: Šventoji'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 84283-84493; hash=1a8a5c961aa89e4975e5f0ce2ade9c38b04e38c753de82d7dc666654896df812; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Šventoji: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: gabija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Šventoji: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "gabija" parinktas kaip owner_note_path. Targetas "Šventoji" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė.md#claim-t-10816|Aisčių ugnies kultas ir šventoji namų ugnelė]]: Namų židinyje nuolat kūrenama šventoji namų ugnelė buvo vadinama gabija.
 - susijęs iš [[objektai/paprociai/Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje.md#claim-t-54485|Amžinosios ugnies saugojimas ir Perkūno garbinimas Šventaragio slėnyje]]: Šventaragio slėnyje iki krikščioniškojo tikėjimo įvedimo degė Gabija vadinta amžinoji ugnis Perkūno garbei.
 - susijęs iš Šventaragio slėnis: Šventaragio slėnyje, kur dabar stovi katedra, iki krikščionybės įvedimo degė amžinoji ugnis Gabija Perkūno garbei.
@@ -42,3 +52,13 @@ Tai vadinamoji šventoji namų ugnelė, arba gabija.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 84283-84493; hash=1a8a5c961aa89e4975e5f0ce2ade9c38b04e38c753de82d7dc666654896df812; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Šventoji: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: gabija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Šventoji: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "gabija" parinktas kaip owner_note_path. Targetas "Šventoji" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

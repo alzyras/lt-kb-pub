@@ -40,6 +40,16 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_person: [[objektai/asmenys/Trobius|Trobius]]; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Žemaitija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 222578-223114; hash=24f7d0a031b9a02e4b0c031fb89e8800d4a0fa09219a2f41e76a15fea2f51aaa; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalavijas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -65,3 +75,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 222578-223114; hash=24f7d0a031b9a02e4b0c031fb89e8800d4a0fa09219a2f41e76a15fea2f51aaa; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kalavijas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Kalavijas: mention_match, thing, gap=36
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą" parinktas kaip owner_note_path. Targetas "Kalavijas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

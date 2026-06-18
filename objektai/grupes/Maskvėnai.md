@@ -25,7 +25,7 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir tiesiogiai pagrįstas citatos tekstu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sologubas|Sologubas]]; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_place: Smolenskas; mentioned_person: [[objektai/asmenys/Sologubas|Sologubas]]'
   pagrindžia:
     - c-001
 
@@ -37,9 +37,19 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie maskvėnų poziciją derybose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_object: [[objektai/zodynas/legatai|legatai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 996862-997240; hash=6224c856ae298712c0bbba9065301fb81ea4cfe5ccb05837dac036c574b3e535; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Maskvėnai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvėnai" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184572"></a>
 - t-003
@@ -49,9 +59,19 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išlaikyta citatos paremta esmė ir pataisyti OCR iškraipymai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1154673-1155396; hash=58fd396f2afbd060f754260a9afbcb43e2e201188958b592c69ea9dfa5a31bc7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Maskvėnai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=93
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvėnai" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-184574"></a>
 - t-004
@@ -61,49 +81,96 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą maskvėnų žygio mastą ir rezultatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Viljandis'
+  susije_objektai: 'mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Viljandis; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1243866-1244360; hash=6b2a4547e638657c9b556de3c91e65bc095064a743e7c3d10e1c6ad540ef5545; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Maskvėnai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvėnai" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Eustachijus Valavičius.md#claim-t-184697|Eustachijus Valavičius]]: Maršalas Eustachijus Valavičius dalyvavo derybose su maskvėnų pasiuntiniais.
+- susijęs iš [[objektai/asmenys/Fiodoras Ovčina.md#claim-t-186039|Fiodoras Ovčina]]: Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivadinęs caro globėju, užgrobė valdžią.
+- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184753|Kazimieras Jogailaitis]]: Karalius Kazimieras Jogailaitis, mėgdamas ramybę, vengė karo su maskvėnais ir teisinosi paliaubomis su Vasiljevičiumi.
+- susijęs iš [[objektai/asmenys/Mengli Girėjus.md#claim-t-185938|Mengli Girėjus]]: Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus.
+- susijęs iš [[objektai/asmenys/Mikalojus Naruševičius.md#claim-t-186151|Mikalojus Naruševičius]]: Iždininkas Mikalojus Naruševičius dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.
+- susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186350|Mikalojus Radvila]]: Vilniaus vaivada Mikalojus Radvila dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.
+- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184800|Mykolas Glinskis]]: Mykolas Glinskis visą naktį drąsino maskvėnų vadus, žadėdamas lengvą pergalę prieš menkas karaliaus pajėgas.
+- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184802|Mykolas Glinskis]]: Vasilijus manė, kad Mykolas Glinskis galėtų padėti maskvėnams užimti pilį, kurios pats Vasilijus neįstengė paimti.
+- susijęs iš [[objektai/asmenys/Petras Semaška.md#claim-t-186247|Petras Semaška]]: Petras Semaška buvo tarp didikų, kurie karaliaus paliepimu atlydėjo maskvėnų legatą į Liubliną.
+- susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-184831|Stanislovas Kiška]]: Stanislovas Kiška Kazimiero įsakymu su turimomis jėgomis turėjo sustabdyti maskvėnų antpuolius.
+- susijęs iš [[objektai/asmenys/Teodoras Vodka.md#claim-t-186260|Teodoras Vodka]]: Teodoras Vodka buvo tarp didikų, kurie karaliaus įsakymu su didele pagarba atlydėjo maskvėnų legatą į Liublino seimą.
+- susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-172959|Mykolas Lietuvis]]: Mykolo Lietuvio svarstymai apie valstybės tvarką siejami su veikalu „Apie totorių, lietuvių ir maskvėnų papročius“.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179222|Lietuviai]]: Lietuviai, rusai, maskvėnai ir totoriai, įsigiję dominijos nuosavybę, turėjo prisiimti ankstesnių savininkų prievoles.
+- susijęs iš [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio.md#claim-t-41259|B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)]]: Po Ulos sutriuškinimo maskvėnai prarado iniciatyvą kare, o naujo didelio jų puolimo grėsmė išnyko.
+- susijęs iš [[objektai/ivykiai/Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos.md#claim-t-185561|Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos]]: Keli tūkstančiai raitelių apie vidudienį perėjo Dneprą ir netikėtai užpuolė besitvirtinančių maskvėnų stovyklą.
+- susijęs iš [[objektai/ivykiai/Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos.md#claim-t-185562|Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos]]: Glinskis visą naktį drąsino maskvėnų vadus, žadėdamas lengvą pergalę, bet apie vidurnaktį maskvėnai paliko stovyklą ir gurguoles.
+- susijęs iš [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas.md#claim-t-185700|Gardino taikos derybos su maskvėnais ir jų žlugimas]]: Gardino derybose su maskvėnais Lietuvos senatoriai buvo paskirti vieni pasiuntiniams priimti, kiti valstybės reikalams aptarti.
+- susijęs iš [[objektai/ivykiai/Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas.md#claim-t-185584|Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas]]: Taikos pasiuntiniams nieko nepasiekus, maskvėnai atnaujino karą nelaukdami paliaubų pabaigos.
+- susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186641|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraštis lietuvių pergalę prieš juos vijusius maskvėnus aiškina Dievo pagalba ir pasakoja apie belaisvių nuvarymą į Smolenską.
+- susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186642|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime maskvėnai su totoriais atėjo ir nusiaubė Viazmos žemę.
+- susijęs iš [[objektai/ivykiai/Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.).md#claim-t-185616|Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.)]]: Tverėje kilus maištui, teisėtas kunigaikštis buvo išvytas, o Tverė susivienijo su maskvėnais.
+- susijęs iš [[objektai/ivykiai/Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.).md#claim-t-185617|Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.)]]: Kojelavičiaus vertinimu, maskvėnų stiprėjimas kėlė pavojų lietuviams, tačiau karalius Kazimieras vengė karo.
+- susijęs iš [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas.md#claim-t-185751|Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]: Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
+- susijęs iš [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.).md#claim-t-09884|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]: Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.
+- susijęs iš [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.).md#claim-t-09885|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]: Per Ulos (Čašnikų) mūšį Lietuvos didysis etmonas sutelkė smūgį prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų kilo sumaištis.
+- susijęs iš [[objektai/ivykiai/Vasilijaus taikos prašymas ir taika su maskvėnais.md#claim-t-185781|Vasilijaus taikos prašymas ir taika su maskvėnais]]: Paskelbus taikos su maskvėnais sąlygas, dalis žmonių reiškė nepasitenkinimą paskutiniuoju susitarimo straipsniu.
+- susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.).md#claim-t-185668|Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)]]: Švitrigaila prie Okos susijungė su skitų ir maskvėnų kariuomene ir užkirto Vytautui kelią į Vasilijaus valdas.
+- susijęs iš [[objektai/ivykiai/Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas.md#claim-t-185544|Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas]]: Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, grafo Leonardo ir Zigmanto Herberšteino pasiuntinybes.
+- susijęs iš [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas.md#claim-t-185869|Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]: Karalius senatoriams atskyrė pareigas: vieni turėjo sutikti, priimti ir vaišinti maskvėnų pasiuntinius, o kiti derėtis dėl valstybės reikalų.
+- susijęs iš [[objektai/paprociai/Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas.md#claim-t-185885|Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas]]: Konstantinas su maždaug 3500 karių patraukė link priešo, išgirdęs belaisvių pasakojimus apie padidėjusias maskvėnų jėgas.
+- susijęs iš [[objektai/paprociai/Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas.md#claim-t-185886|Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas]]: Kojelavičius maskvėnų tvirtinimus apie padidėjusias pajėgas laikė įprastu būdu dėtis stipresniems, nei jie buvo iš tikrųjų.
+- susijęs iš [[objektai/posakiai/„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“.md#claim-t-39068|„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“]]: Algirdas priekaištavo Konstantinopolio patriarchui, kad promaskvietiškas metropolitas maskvėnus laimina kraujo praliejimui.
+- susijęs iš 1579 m. Niurnbergo leidinys apie Polocko atsiėmimą: 1579 m. Niurnberge išleistas leidinys nušvietė Lietuvos pergalę prieš maskvėnus tais pačiais metais atsiimant Polocką.
+- susijęs iš Livonijos ir Lietuvos sąjungos bei globos sutartis: Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su maskvėnais susitars be lietuvių karinės ir piniginės pagalbos.
+- susijęs iš Maskvėnų metraščiai: Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, imperatoriaus Karolio V atstovą grafą Leonardą ir karaliaus Ferdinando atstovą Zigmantą Herberšteiną.
+- susijęs iš Dievo Kūno koplyčia: Dievo Kūno koplyčios ankstyvieji dokumentai buvo prarasti 1660 m. maskvėnų užėmimo ir 1737 m. gaisro metu.
+- susijęs iš Dnepras: Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų.
+- susijęs iš Dorpatas: Apiplėšę Dorpatą, maskvėnai išsivarė į nelaisvę Dorpato vyskupą ir visą dvasininkų kolegiją.
+- susijęs iš Halė: Imperatorius Maksimilijonas netoli Halės jėga atėmė maskvėnų belaisvius iš karaliaus žygūnų ir grąžino juos į Maskvą.
+- susijęs iš Lukomlys: Mykolas Radvila Rudasis buvo Lukomlyje, apie 100 km nuo Polocko, kai žvalgai jį informavo apie maskvėnų pajėgas.
+- susijęs iš Maskva: Maskvoje maskvėnai reikalavo, kad legatai laišku paklaustų karaliaus nuomonės dėl titulų ginčo.
+- susijęs iš Putivlis: Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius.
+- susijęs iš Putivlis: Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius.
+- susijęs iš Putivlis: Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius.
+- susijęs iš Putivlis: Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius.
+- susijęs iš Rohačevas: Rohačevas nurodytas Aleksandro 1492 m. rugsėjo 27 d. instrukcijoje kaip maskvėnų užimtas LDK rytų pasienio miestas.
+- susijęs iš Tverė: Tverė, atsikračiusi teisėto kunigaikščio valdžios, susivienijo su maskvėnais.
+- susijęs iš Tykioji Sosna: Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.
+- susijęs iš Tykioji Sosna: Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89626|Aleksandras]]: Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.
 - susijęs iš [[objektai/asmenys/Andrejus Kurbskis.md#claim-t-186030|Andrejus Kurbskis]]: Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurbskį su visais palydovais.
 - susijęs iš [[objektai/asmenys/Andrejus Kurbskis.md#claim-t-186031|Andrejus Kurbskis]]: Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Lietuvos pusės kunigaikščius su šeimomis ir tėvonijomis.
 - susijęs iš [[objektai/asmenys/Anisijus Gornostajus.md#claim-t-186181|Anisijus Gornostajus]]: Maršalas Anisijus Gornostajus Lietuvos senate atkakliai prieštaravo Ivano titulavimui Maskvos kunigaikštystės caru.
-- susijęs iš [[objektai/asmenys/Eustachijus Valavičius.md#claim-t-184697|Eustachijus Valavičius]]: Maršalas Eustachijus Valavičius dalyvavo derybose su maskvėnų pasiuntiniais.
 - susijęs iš [[objektai/asmenys/Ferdinandas.md#claim-t-186108|Ferdinandas]]: Maskvėnų metraščiai mini Zigmantą Herberšteiną kaip karaliaus Ferdinando atstovą taikos reikaluose.
-- susijęs iš [[objektai/asmenys/Fiodoras Ovčina.md#claim-t-186039|Fiodoras Ovčina]]: Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivadinęs caro globėju, užgrobė valdžią.
 - susijęs iš [[objektai/asmenys/Fiodoras Ovčina.md#claim-t-186040|Fiodoras Ovčina]]: Fiodoras Ovčina klastingomis kalbomis sukurstė karą prieš Lietuvą.
 - susijęs iš [[objektai/asmenys/Ivanas (Maskvos valdovas).md#claim-t-185948|Ivanas (Maskvos valdovas)]]: Karalius žadėjo atiduoti Andrejų tik tada, jei Ivanas grąžintų kunigaikščius su jų šeimomis ir tėvonijomis.
 - susijęs iš [[objektai/asmenys/Ivanas Vasiljevičius.md#claim-t-184713|Ivanas Vasiljevičius]]: Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose.
 - susijęs iš [[objektai/asmenys/Jurgis Tiškevičius.md#claim-t-186051|Jurgis Tiškevičius]]: Jurgis Tiškevičius nuvežė į Maskvą karaliaus laišką ir sveikindamas Ivaną pavadino jį Astrachanės caru.
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184753|Kazimieras Jogailaitis]]: Karalius Kazimieras Jogailaitis, mėgdamas ramybę, vengė karo su maskvėnais ir teisinosi paliaubomis su Vasiljevičiumi.
 - susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-184758|Konstantinas Ostrogiškis]]: Konstantinas Ostrogiškis įsakė lietuvių vėliavoms apsimestinai trauktis, tikėdamasis išardyti priešo raitelių rikiuotę.
 - susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-184759|Konstantinas Ostrogiškis]]: Po pergalės Konstantinas Ostrogiškis suskaičiavo belaisvius ir išsiuntė karaliui 380 žymiausių bajorų su laišku apie pergalę.
 - susijęs iš [[objektai/asmenys/Kristupas iš Viljandžio.md#claim-t-186229|Kristupas iš Viljandžio]]: Kristupas iš Viljandžio, krašto maršalas, buvo vienas iš dviejų riterių išrinktų vyrų, savo parašais patvirtinusių susitarimo raštus.
 - susijęs iš [[objektai/asmenys/Laurynas Zaremba.md#claim-t-186138|Laurynas Zaremba]]: Laurynas Zaremba slapta sukurstė daugelį lietuvių didikų paremti karalių ir prisidėti prie Žygimanto šalininkų.
 - susijęs iš [[objektai/asmenys/Martynas Volodkovičius.md#claim-t-186066|Martynas Volodkovičius]]: Karalius pasiuntė Martyną Volodkovičių pas Maskvos valdovą, kai sužinojo, kad šis galvoja apie karą.
-- susijęs iš [[objektai/asmenys/Mengli Girėjus.md#claim-t-185938|Mengli Girėjus]]: Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus.
-- susijęs iš [[objektai/asmenys/Mikalojus Naruševičius.md#claim-t-186151|Mikalojus Naruševičius]]: Iždininkas Mikalojus Naruševičius dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113890|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis, žvalgų informuotas apie P. Šuiskio žygį, įsakė nedelsiant užkirsti kelią jo kariuomenei.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113891|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis žvalgų buvo greitai informuotas, kad P. Šuiskis sausio 23 d. su kariuomene pajudėjo iš Polocko.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113892|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis žvalgų buvo greitai informuotas apie P. Šuiskio žygį iš Polocko ir tuo metu buvo Lukomlyje.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113895|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis galėjo turėti tik nuo 4 iki 6 tūkstančių raitelių.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186350|Mikalojus Radvila]]: Vilniaus vaivada Mikalojus Radvila dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184799|Mykolas Glinskis]]: Didžioji dauguma Smolensko žemės bajorų atvirai linko į Mykolą Glinskį.
-- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184800|Mykolas Glinskis]]: Mykolas Glinskis visą naktį drąsino maskvėnų vadus, žadėdamas lengvą pergalę prieš menkas karaliaus pajėgas.
-- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184802|Mykolas Glinskis]]: Vasilijus manė, kad Mykolas Glinskis galėtų padėti maskvėnams užimti pilį, kurios pats Vasilijus neįstengė paimti.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82630|Mykolas Glinskis]]: Mykolas Glinskis kartu su Stanislovu Kiška buvo paskirtas vienu vyriausiųjų kariuomenės vadų.
-- susijęs iš [[objektai/asmenys/Petras Semaška.md#claim-t-186247|Petras Semaška]]: Petras Semaška buvo tarp didikų, kurie karaliaus paliepimu atlydėjo maskvėnų legatą į Liubliną.
 - susijęs iš [[objektai/asmenys/Petras Šuiskis.md#claim-t-40392|Petras Šuiskis]]: Kunigaikštis Petras Šuiskis su savo kariuomene iš Polocko pajudėjo sausio 23 d.
 - susijęs iš [[objektai/asmenys/Stanislovas Jendžejevskis.md#claim-t-186255|Stanislovas Jendžejevskis]]: Augustas išsiuntė Stanislovą Jendžejevskį į Maskvą palaikyti braškančios santarvės su Ivanu laiškais ir tarpininkais.
-- susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-184831|Stanislovas Kiška]]: Stanislovas Kiška Kazimiero įsakymu su turimomis jėgomis turėjo sustabdyti maskvėnų antpuolius.
 - susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-79162|Stanislovas Kiška]]: LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanislovą Kišką ir dvaro maršalką Mykolą Glinskį.
-- susijęs iš [[objektai/asmenys/Teodoras Vodka.md#claim-t-186260|Teodoras Vodka]]: Teodoras Vodka buvo tarp didikų, kurie karaliaus įsakymu su didele pagarba atlydėjo maskvėnų legatą į Liublino seimą.
 - susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185994|Vasilijus (Maskvos kunigaikštis)]]: Vasilijus nurodė paleisti nelaisvėje buvusius lietuvius, bet sulaikė Mikalojų Glebavičių.
 - susijęs iš [[objektai/asmenys/Zigmantas Vaza.md#claim-t-82988|Zigmantas Vaza]]: 1632 m. maskvėnai pasinaudojo Zigmanto Vazos mirtimi ir įsiveržė į Lietuvos teritoriją, siekdami atgauti Smolenską.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-184915|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantui Kęstutaičiui atvykus iš Seversko į Lietuvą, prie jo neraginami rinkosi didikai ir bajorai.
 - susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184908|Žygimantas]]: Žygimantas paprašė leisti į Maskvą grįžti pirkliams ir žygūnams, sulaikytiems po karališkųjų teisėjų suėmimo.
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-172957|Mykolas Lietuvis]]: Mykolas Lietuvis savo svarstymuose Vytauto laikų papročių rigorizmą ir asketizmą priešpriešino savo meto visuomenės išglebimui, girtuoklystei ir netvarkai.
-- susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-172959|Mykolas Lietuvis]]: Mykolo Lietuvio svarstymai apie valstybės tvarką siejami su veikalu „Apie totorių, lietuvių ir maskvėnų papročius“.
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-172963|Mykolas Lietuvis]]: Mykolas Lietuvis siūlė atsisakyti rusėnų kalbos ir pereiti prie lotynų kalbos.
 - susijęs iš [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai.md#claim-t-40733|Kristupo Mikalojaus Radvilos Perkūno šarvai]]: Kristupo Mikalojaus Radvilos Perkūno šarvai datuojami XVI-XVII a.
 - susijęs iš [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos.md#claim-t-186823|Kryžiuočių kariuomenės dalių vėliavos]]: 1411 m. rudenį Vavelio katedroje buvo pakabinta 51 kryžiuočių ir jų talkininkų vėliava, paimta 1409–1411 m. kare.
@@ -111,7 +178,6 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-184485|Krymo totoriai]]: Krymo skitų antpuoliai turėjo būti atremiami, tačiau turkų pusiasalis neturėjo būti liečiamas.
 - susijęs iš [[objektai/grupes/Kuršo kunigaikštystė.md#claim-t-71646|Kuršo kunigaikštystė]]: Po Liublino unijos Kuršo kunigaikštystė buvo pripažinta bendra Lenkijos ir LDK valda.
 - susijęs iš [[objektai/grupes/Kuršo kunigaikštystė.md#claim-t-71647|Kuršo kunigaikštystė]]: Po Liublino unijos Livonijos ir Kuršo kunigaikštystės buvo pripažintos bendromis Lenkijos ir LDK valdomis.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179222|Lietuviai]]: Lietuviai, rusai, maskvėnai ir totoriai, įsigiję dominijos nuosavybę, turėjo prisiimti ankstesnių savininkų prievoles.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-187725|Lietuvos kariuomenė]]: Per 1406-1408 m. LDK ir Maskvos karą LDK kariuomenė buvo užėmusi Odojevą ir Vorotynską.
 - susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78383|Livonijos kunigaikštystė]]: Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis.
 - susijęs iš [[objektai/grupes/Livonijos kunigaikštystė.md#claim-t-78385|Livonijos kunigaikštystė]]: Steponas Batoras ir Mikalojus Radvila Rudasis laikė būtina atkirsti Livonijos teritoriją nuo Rusijos ir perkelti karo veiksmus.
@@ -122,84 +188,48 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171398|Totoriai]]: Didžiojoje Kunigaikštystėje gyvenę totoriai, įsigiję nuosavybę, atsisakydavo mokėti dešimtinę ir kitas duokles dvasininkams.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171419|Totoriai]]: Didžiojoje Kunigaikštystėje gyvenę rusai ir totoriai, įsigiję nuosavybę, atsisakydavo mokėti dešimtinę, pelno mokestį ir kitas duokles dvasininkams.
 - susijęs iš [[objektai/ivykiai/Antroji Smolensko apgultis ir gudrus sienų plyšių užtaisymas.md#claim-t-185690|Antroji Smolensko apgultis ir gudrus sienų plyšių užtaisymas]]: Antrosios Smolensko apgulties metu priešas pabūklais sugriovė didelę gynybinės sienos dalį.
-- susijęs iš [[objektai/ivykiai/B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio.md#claim-t-41259|B. Serebriano kariuomenės sutriuškinimas po Ulos mūšio (mūšis, XVI a.)]]: Po Ulos sutriuškinimo maskvėnai prarado iniciatyvą kare, o naujo didelio jų puolimo grėsmė išnyko.
-- susijęs iš [[objektai/ivykiai/Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos.md#claim-t-185561|Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos]]: Keli tūkstančiai raitelių apie vidudienį perėjo Dneprą ir netikėtai užpuolė besitvirtinančių maskvėnų stovyklą.
-- susijęs iš [[objektai/ivykiai/Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos.md#claim-t-185562|Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos]]: Glinskis visą naktį drąsino maskvėnų vadus, žadėdamas lengvą pergalę, bet apie vidurnaktį maskvėnai paliko stovyklą ir gurguoles.
 - susijęs iš [[objektai/ivykiai/Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos.md#claim-t-185563|Dnepro perėjimas ir maskvėnų pabėgimas iš stovyklos]]: Paaiškėjus, kad maskvėnai pabėgo, kareiviai apiplėšė jų stovyklą, o karalius, didikų patartas, atsisakė juos persekioti.
-- susijęs iš [[objektai/ivykiai/Gardino taikos derybos su maskvėnais ir jų žlugimas.md#claim-t-185700|Gardino taikos derybos su maskvėnais ir jų žlugimas]]: Gardino derybose su maskvėnais Lietuvos senatoriai buvo paskirti vieni pasiuntiniams priimti, kiti valstybės reikalams aptarti.
-- susijęs iš [[objektai/ivykiai/Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas.md#claim-t-185584|Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas]]: Taikos pasiuntiniams nieko nepasiekus, maskvėnai atnaujino karą nelaukdami paliaubų pabaigos.
 - susijęs iš [[objektai/ivykiai/Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia.md#claim-t-186774|Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia]]: 1493 m. pavasarį Lietuvos Didžiosios Kunigaikštystės ir Maskvos karo veiksmai nutrūko.
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186639|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime 6953 metais nutrūko Kazimiero taika su Maskvos didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186640|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime Kazimieras tą pačią žiemą pasiuntė savo vaivadas, kunigaikščius ir ponus su kariuomene pulti Maskvos žemės.
-- susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186641|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraštis lietuvių pergalę prieš juos vijusius maskvėnus aiškina Dievo pagalba ir pasakoja apie belaisvių nuvarymą į Smolenską.
-- susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186642|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime maskvėnai su totoriais atėjo ir nusiaubė Viazmos žemę.
 - susijęs iš [[objektai/ivykiai/Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę.md#claim-t-186643|Kazimiero karo su maskvėnais pradžia ir žygis į Maskvos žemę]]: Lietuvos metraščio pasakojime Kazimiero kariuomenė nusiaubė Kozelską, Vereją, Možaiską ir Kalugą per žygį į Maskvos žemę.
 - susijęs iš [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.).md#claim-t-186731|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]: Bychovco kronikos epizodas 1971 m. komentare aiškinamas kaip glaustas pasakojimas apie 1406–1408 m. LDK ir Maskvos Didžiosios Kunigaikštystės karus.
 - susijęs iš [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.).md#claim-t-186732|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]: Komentaro autoriaus manymu, Bychovco kronikoje turimas galvoje Vytauto vadovaujamos LDK kariuomenės žygis 1408 m. rudenį.
 - susijęs iš [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.).md#claim-t-186733|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]: Komentaras karo priežastimi laiko Vytauto siekį plėsti įtaką Pskove ir Didžiajame Naugarde bei ten pasodinti savo vietininkus.
 - susijęs iš [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.).md#claim-t-186734|LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]: 1406–1408 m. LDK ir Maskvos karų veiksmai vyko LDK rytų pasienyje, Ugros ir Okos upių ruože.
-- susijęs iš [[objektai/ivykiai/Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.).md#claim-t-185616|Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.)]]: Tverėje kilus maištui, teisėtas kunigaikštis buvo išvytas, o Tverė susivienijo su maskvėnais.
-- susijęs iš [[objektai/ivykiai/Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.).md#claim-t-185617|Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.)]]: Kojelavičiaus vertinimu, maskvėnų stiprėjimas kėlė pavojų lietuviams, tačiau karalius Kazimieras vengė karo.
 - susijęs iš [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas.md#claim-t-185750|Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]: Ivanas netikėtai įsiveržė į Livoniją su kariuomene, kurią buvo sakęsis telkiąs karui prieš skitus ir švedus.
-- susijęs iš [[objektai/ivykiai/Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas.md#claim-t-185751|Maskvos valdovo įsiveržimas į Livoniją ir Viljandžio bei Dorpato užėmimas]]: Maskvėnai su 120 tūkstančių vyrų kariuomene netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.
 - susijęs iš [[objektai/ivykiai/Maskvėnų paliaubų pažeidimai prie Usviatų ir Stanislovo Paco atsakomasis žygis.md#claim-t-185619|Maskvėnų paliaubų pažeidimai prie Usviatų ir Stanislovo Paco atsakomasis žygis]]: Maskvėnai prie Usviatų, Dauguvos ir Ūlos statė įtvirtinimus, plėšė kaimynines žemes ir nesėkmingai bandė užimti Voronečą.
 - susijęs iš [[objektai/ivykiai/Oršos mūšis (1514 m.).md#claim-t-54178|Oršos mūšis (1514 m.)]]: Po Oršos mūšio propagandos kampanija padėjo Žygimantui spręsti tarptautinius klausimus, o žymesni belaisviai buvo siunčiami į Europos valdovų dvarus.
 - susijęs iš [[objektai/ivykiai/Pirmoji Smolensko apgultis ir maskvėnų atsitraukimas.md#claim-t-185637|Pirmoji Smolensko apgultis ir maskvėnų atsitraukimas]]: Vasaros pabaigoje Ivano sūnus Dimitrijus Žilka su stipria kariuomene perėjo sieną ir apsupo Smolenską.
 - susijęs iš [[objektai/ivykiai/Pirmoji Smolensko apgultis ir maskvėnų atsitraukimas.md#claim-t-185638|Pirmoji Smolensko apgultis ir maskvėnų atsitraukimas]]: Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo įeiti į miestą, bet pilies neužėmė.
 - susijęs iš [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.).md#claim-t-09883|Smolensko apgultis (1632–1634 m.)]]: 1632 m. maskvėnai įsiveržė į Lietuvos teritoriją siekdami atgauti Smolenską, o Michailo Šejino vadovaujama rusų kariuomenė lapkričio 14 d. apgulė miestą.
-- susijęs iš [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.).md#claim-t-09884|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]: Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.
-- susijęs iš [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.).md#claim-t-09885|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]: Per Ulos (Čašnikų) mūšį Lietuvos didysis etmonas sutelkė smūgį prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų kilo sumaištis.
 - susijęs iš [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.).md#claim-t-09886|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]: Mūšio pabaigoje maskvėnai buvo triuškinami, dalis jų skendo bandydami perplaukti Ulos upę.
-- susijęs iš [[objektai/ivykiai/Vasilijaus taikos prašymas ir taika su maskvėnais.md#claim-t-185781|Vasilijaus taikos prašymas ir taika su maskvėnais]]: Paskelbus taikos su maskvėnais sąlygas, dalis žmonių reiškė nepasitenkinimą paskutiniuoju susitarimo straipsniu.
 - susijęs iš [[objektai/ivykiai/Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.).md#claim-t-185784|Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.)]]: 1509 m. Vilniaus seime nutarta teisti Glinskio šalininkus, o žymiausieji iš jų buvo įkalinti Trakuose.
-- susijęs iš [[objektai/ivykiai/Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.).md#claim-t-185668|Vytauto žygis į Maskvos valdas ir taika su Vasilijumi (1407 m.)]]: Švitrigaila prie Okos susijungė su skitų ir maskvėnų kariuomene ir užkirto Vytautui kelią į Vasilijaus valdas.
-- susijęs iš [[objektai/ivykiai/Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas.md#claim-t-185544|Šešerių metų paliaubos su Maskva ir Maskvos valdovo titulo pripažinimas]]: Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, grafo Leonardo ir Zigmanto Herberšteino pasiuntinybes.
 - susijęs iš [[objektai/paprociai/Bažnytinių dešimtinių ir duoklių prievolių tęstinumas perleidžiant valdas.md#claim-t-87154|Bažnytinių dešimtinių ir duoklių prievolių tęstinumas perleidžiant valdas]]: Įsigiję valdas rusai ir totoriai turėjo mokėti tas pačias dešimtines, pelno mokestį ir duokles, kurias mokėjo ankstesni savininkai.
-- susijęs iš [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas.md#claim-t-185869|Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]: Karalius senatoriams atskyrė pareigas: vieni turėjo sutikti, priimti ir vaišinti maskvėnų pasiuntinius, o kiti derėtis dėl valstybės reikalų.
 - susijęs iš [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas.md#claim-t-75365|Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]: Mykolas Lietuvis apie 1550 m. Vytauto laikų papročių griežtumą ir asketizmą priešpriešino savo meto išglebimui ir netvarkai.
 - susijęs iš [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas.md#claim-t-75367|Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]: Mykolas Lietuvis Vytauto laikų papročių griežtumą ir asketizmą priešino savo meto visuomenės išglebimui ir netvarkai.
 - susijęs iš [[objektai/paprociai/Padėkos pamaldos už karinę pergalę.md#claim-t-185879|Padėkos pamaldos už karinę pergalę]]: Po pergalės Ostrogiškis stovykloje surengė kareiviškas pamaldas, padėkojo Dievui ir išsiuntė karaliui 380 žymiausių belaisvių bajorų.
 - susijęs iš [[objektai/paprociai/Padėkos pamaldos už karinę pergalę.md#claim-t-185880|Padėkos pamaldos už karinę pergalę]]: Po pergalės karalius ir karalienė Vilniuje per iškilmingas mišias padėkojo Dievui.
-- susijęs iš [[objektai/paprociai/Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas.md#claim-t-185885|Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas]]: Konstantinas su maždaug 3500 karių patraukė link priešo, išgirdęs belaisvių pasakojimus apie padidėjusias maskvėnų jėgas.
-- susijęs iš [[objektai/paprociai/Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas.md#claim-t-185886|Priešo galios perdėjimas kaip maskvėnų karo apgaulės būdas]]: Kojelavičius maskvėnų tvirtinimus apie padidėjusias pajėgas laikė įprastu būdu dėtis stipresniems, nei jie buvo iš tikrųjų.
 - susijęs iš [[objektai/paprociai/Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius.md#claim-t-185854|Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius]]: Maskvos kunigaikštis Vasilijus per tarpininką siūlė taiką, žadėjo siųsti įgaliotus legatus, o didikai paragino karalių taikai pritarti.
-- susijęs iš [[objektai/posakiai/„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“.md#claim-t-39068|„pagal Tavo palaiminimą jy [promaskvietiškas] metropolitas juos [maskvénus] laimina kraujo praliejimui iki šiol“]]: Algirdas priekaištavo Konstantinopolio patriarchui, kad promaskvietiškas metropolitas maskvėnus laimina kraujo praliejimui.
-- susijęs iš 1579 m. Niurnbergo leidinys apie Polocko atsiėmimą: 1579 m. Niurnberge išleistas leidinys nušvietė Lietuvos pergalę prieš maskvėnus tais pačiais metais atsiimant Polocką.
 - susijęs iš Aleksandro raštiškas pasižadėjimas dėl Elenos tikėjimo: Aleksandro pasiuntinius į Lietuvą palydėjo keturi didikai, turėję pagal Ivano nurodymus užbaigti derybas dėl Elenos vestuvių.
 - susijęs iš Dievo Kūno arkibrolijos steigimo bulė: 1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę, kuria įsteigta Dievo Kūno arkibrolija.
 - susijęs iš Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę: 1523 m. išleista Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ Vytauto laikus rodė kaip idealą.
 - susijęs iš Jadvygos laiškas Vytautui: 1398 m. karalienė Jadvyga laišku prašė Vytauto mokėti činšą, priklausantį jai iš Lietuvos.
 - susijęs iš Lietuvos senato atsakomasis laiškas Jakovui Zachariničiui dėl pasiuntinybės ir taikos: Jakovui Zachariničiui Ivano vardu pareiškus skundą, Lietuvos senatas atsakė laišku dėl pasiuntinių vykimo į Maskvą ir taikos.
-- susijęs iš Livonijos ir Lietuvos sąjungos bei globos sutartis: Sutartyje numatyta, kad Livonija be užmokesčio atgaus pilis ir žemes, jei su maskvėnais susitars be lietuvių karinės ir piniginės pagalbos.
-- susijęs iš Maskvėnų metraščiai: Maskvėnų metraščiai mini popiežiaus Klemenso legatą Joną Frentijulijų, imperatoriaus Karolio V atstovą grafą Leonardą ir karaliaus Ferdinando atstovą Zigmantą Herberšteiną.
 - susijęs iš Pasvalio ilgalaikis taikos susitarimas tarp Žygimanto Augusto ir Livonijos magistro: Pasvalio susitarime numatyta, kad Maskvai užpuolus Livoniją ar Lietuvą abi šalys kovos kartu ir atskirai nesudarys paliaubų ar taikos.
-- susijęs iš Dievo Kūno koplyčia: Dievo Kūno koplyčios ankstyvieji dokumentai buvo prarasti 1660 m. maskvėnų užėmimo ir 1737 m. gaisro metu.
-- susijęs iš Dnepras: Netoli Dnepro atsitraukiantį Glinskį pasitiko šešiasdešimt tūkstančių maskvėnų.
 - susijęs iš Dorpatas: Į Livoniją patraukę su 120 tūkstančių vyrų, maskvėnai netrukus užėmė Dorpatą ir Viljandį.
-- susijęs iš Dorpatas: Apiplėšę Dorpatą, maskvėnai išsivarė į nelaisvę Dorpato vyskupą ir visą dvasininkų kolegiją.
 - susijęs iš Dubrovna: Čeliadninas atitraukė jėgas už Dnepro ir apsistojo prie Kropivnos upės, tarp Oršos ir Dubrovnos.
 - susijęs iš Dubrovna: 1562 m. maskvėnai nusiaubė Oršos, Vitebsko, Kopilino, Šklovo ir Dubrovnos apylinkes.
-- susijęs iš Halė: Imperatorius Maksimilijonas netoli Halės jėga atėmė maskvėnų belaisvius iš karaliaus žygūnų ir grąžino juos į Maskvą.
 - susijęs iš Kropivnos upė: Čeliadninas atitraukė visas jėgas už upės ir apsistojo Kropivnos upės pakrantėse tarp Oršos ir Dubrovnos.
 - susijęs iš Kropivnos upė: Po Konstantino manevro daug maskvėnų prigėrė Kropivnos pelkėse ir pačioje upėje.
 - susijęs iš Lietuva: Ivanas nesutiko sustabdyti karo veiksmų, kol bus gautas karaliaus atsakymas, o jo kariuomenė telkėsi netoli Lietuvos sienų.
 - susijęs iš Livonija: Numalšinęs Livoniją, Žygimantas Augustas pasiuntė pasiuntinius derėtis dėl taikos su Maskva.
-- susijęs iš Lukomlys: Mykolas Radvila Rudasis buvo Lukomlyje, apie 100 km nuo Polocko, kai žvalgai jį informavo apie maskvėnų pajėgas.
-- susijęs iš Maskva: Maskvoje maskvėnai reikalavo, kad legatai laišku paklaustų karaliaus nuomonės dėl titulų ginčo.
 - susijęs iš Minskas: Maskvėnams apsupus Smolenską, Aleksandras įsikūrė Minske, kad iš arti vadovautų kariuomenei kilus karui.
 - susijęs iš Mosalskas: Mosalskas minimas Aleksandro 1492.IX.27 instrukcijoje tarp papildomai nurodytų vietų.
 - susijęs iš Mosalskas: Mosalskas lokalizuojamas apie 100 km į vakarus nuo Kalugos.
-- susijęs iš Putivlis: Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius.
-- susijęs iš Putivlis: Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius.
-- susijęs iš Putivlis: Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius.
-- susijęs iš Putivlis: Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius.
 - susijęs iš Rohačevas: Rohačevas lokalizuojamas prie Chlepenio į pietus nuo Rževo.
-- susijęs iš Rohačevas: Rohačevas nurodytas Aleksandro 1492 m. rugsėjo 27 d. instrukcijoje kaip maskvėnų užimtas LDK rytų pasienio miestas.
 - susijęs iš Seversko žemė: Gardine vykstant taikos deryboms, iš Seversko žemės įsiveržusi kariuomenė nusiaubė kunigaikščių Ostrogiškių valdas.
 - susijęs iš Starodubas: Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo.
-- susijęs iš Tverė: Tverė, atsikračiusi teisėto kunigaikščio valdžios, susivienijo su maskvėnais.
-- susijęs iš Tykioji Sosna: Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.
-- susijęs iš Tykioji Sosna: Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.
 - susijęs iš Viazma: Šaltinio pastaboje Viazmos užėmimas siejamas su vėlesniu laiku, 1493 m. žiema iki vasario vidurio.
 - susijęs iš Vilnius: Maskvos pasiuntinybė pareikalavo, kad po Lietuvą išmėtyti maskvėnų belaisviai būtų suvaryti į Vilnių ir geriau laikomi.
 - susijęs iš Vilnius: Sugrįžęs iš Maskvos Jesmanas Vilniuje rado karalių ir karalienę.
@@ -278,6 +308,16 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 996862-997240; hash=6224c856ae298712c0bbba9065301fb81ea4cfe5ccb05837dac036c574b3e535; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Smolenskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Maskvėnai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Smolenskas: mention_match, place, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvėnai" parinktas kaip owner_note_path. Targetas "Smolenskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-004
@@ -296,4 +336,27 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1154673-1155396; hash=58fd396f2afbd060f754260a9afbcb43e2e201188958b592c69ea9dfa5a31bc7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Maskvėnai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=93
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvėnai" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1243866-1244360; hash=6b2a4547e638657c9b556de3c91e65bc095064a743e7c3d10e1c6ad540ef5545; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Maskvėnai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Maskvėnai" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+
+## Ryšiai
+- Maskvėnai uzeme [[objektai/vietos/Viljandis]]

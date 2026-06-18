@@ -36,15 +36,35 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   susije_objektai: 'mentioned_place: Kaimas'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 560616-561064; hash=e4b4db77d05ff1115a09789cf87ae78a967d24863bae624e5bb5ea2158c654a6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jurbarkas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Jurbarkas: mention_match, place, gap=99
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII" parinktas kaip owner_note_path. Targetas "Jurbarkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60863"></a>
 - t-002
   global_id: t-60863
   teiginys: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą.'
   sudarymo_pagrindimas: 'Citata leidžia teigti, kad šaltinis naudojamas Paštuvos pilies lokalizacijai pagrįsti.'
-  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Kulautuva; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Paštuvos valsčius; mentioned_place: Vilkija'
+  susije_objektai: 'mentioned_place: Paštuvos valsčius; mentioned_place: Kaimas; mentioned_place: Kulautuva; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Vilkija'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 566746-567092; hash=06a605c0641c3b09de5eac96693f9c02db34c7f4b7f281ddd425461ea8db4336; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Junigeda: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Junigeda: mention_match, place, gap=79
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII" parinktas kaip owner_note_path. Targetas "Junigeda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60864"></a>
 - t-003
@@ -54,24 +74,54 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   susije_objektai: 'mentioned_place: Nemunas'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 570064-570450; hash=36d2a04a148b052ad1ff929215022eff758f49f93f99930f57d6263f3f26f972; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Paštuvos valsčius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Paštuvos valsčius: mention_match, place, gap=75
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII" parinktas kaip owner_note_path. Targetas "Paštuvos valsčius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60865"></a>
 - t-004
   global_id: t-60865
   teiginys: 'Zajączkowskio veikalas nurodomas tarp šaltinių, Kolainių pilį siejančių su Kalnėnais į vakarus nuo Jurbarko.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų teiginį apie šaltinio naudojimą Kolainių pilies lokalizacijai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Jurbarkas; mentioned_place: Kolainiai; mentioned_place: Kolainių pilis; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_place: Jurbarkas; mentioned_place: Kolainiai; mentioned_place: Kolainių pilis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Ragainė'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 581566-581817; hash=4c15e972ff74a1c3e2339af1aee86eca8bdf714eb06964e2c6671afd8e6dbf96; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pieštvė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Pieštvė: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII" parinktas kaip owner_note_path. Targetas "Pieštvė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60866"></a>
 - t-005
   global_id: t-60866
   teiginys: 'Zajączkowskio veikalas nurodomas tarp šaltinių, Pieštvės pilį lokalizuojančių Seredžiaus vakariniame pakraštyje prie Pieštvės upelio.'
   sudarymo_pagrindimas: 'Pirminis teiginys buvo fragmentiškas, bet citata palaiko lokalizacijos teiginį.'
-  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Pieštvė'
+  susije_objektai: 'mentioned_place: Pieštvė; mentioned_place: Nemunas'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 619847-620104; hash=32d753d577711f31cfe4e367bc1847856c4f1c3056a9d60a1d78b9d8734517d3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pagraudė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Pagraudė: mention_match, place, gap=98
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII" parinktas kaip owner_note_path. Targetas "Pagraudė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60867"></a>
 - t-006
@@ -84,24 +134,54 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   temporalinis_llm_pakomentavimas: 'Citata patvirtina, kad šaltinis minimas prie Kalsheimo lauko lokalizacijos.'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 629551-629777; hash=c7d66a88aa3e4db5e227f3502026fa30ab3f606e262cdcc13f0758774eff93b1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Veliuona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Veliuona: mention_match, place, gap=111
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII" parinktas kaip owner_note_path. Targetas "Veliuona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60868"></a>
 - t-007
   global_id: t-60868
   teiginys: 'Zajączkowskio veikalas nurodomas tarp šaltinių, patikimiau lokalizuojančių minimą vietą buvusioje Pagraudės teritorijoje prie Graumenos.'
   sudarymo_pagrindimas: 'Citata palaiko atsargų teiginį apie lokalizacijos bandymą, tačiau pirminis tekstas buvo fragmentas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pagraudė'
+  susije_objektai: 'mentioned_place: Pagraudė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 629965-630307; hash=b44fe576d781f1b51c4ebe87374edc967265524851645a072c6c8d501bf129c0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=119
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-60869"></a>
 - t-008
   global_id: t-60869
   teiginys: 'S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima aiškinant, kad Junigedos valsčiaus centras buvo Veliuona.'
   sudarymo_pagrindimas: 'Citata sieja šaltinį su Junigedos ir Veliuonos lokalizacijos aiškinimu.'
-  susije_objektai: 'mentioned_place: Junigeda; mentioned_place: Nemunas; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_place: Junigeda; mentioned_place: Veliuona; mentioned_place: Nemunas'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 644844-645085; hash=616586a4c5a0554e82d6999ae231fb3d1a384f8b6fbb21cf7b58138478c5c1e9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nemunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Nemunas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -132,6 +212,16 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 629965-630307; hash=b44fe576d781f1b51c4ebe87374edc967265524851645a072c6c8d501bf129c0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Kaimas: mention_match, place, gap=119
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII" parinktas kaip owner_note_path. Targetas "Kaimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-003
@@ -145,6 +235,16 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 644844-645085; hash=616586a4c5a0554e82d6999ae231fb3d1a384f8b6fbb21cf7b58138478c5c1e9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nemunas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Nemunas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII" parinktas kaip owner_note_path. Targetas "Nemunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-005
 
 - c-004
@@ -158,6 +258,16 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 619847-620104; hash=32d753d577711f31cfe4e367bc1847856c4f1c3056a9d60a1d78b9d8734517d3; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pagraudė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Pagraudė: mention_match, place, gap=98
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII" parinktas kaip owner_note_path. Targetas "Pagraudė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-005
@@ -172,6 +282,16 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 570064-570450; hash=36d2a04a148b052ad1ff929215022eff758f49f93f99930f57d6263f3f26f972; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Paštuvos valsčius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Paštuvos valsčius: mention_match, place, gap=75
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII" parinktas kaip owner_note_path. Targetas "Paštuvos valsčius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-006
@@ -188,6 +308,16 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 560616-561064; hash=e4b4db77d05ff1115a09789cf87ae78a967d24863bae624e5bb5ea2158c654a6; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jurbarkas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Jurbarkas: mention_match, place, gap=99
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII" parinktas kaip owner_note_path. Targetas "Jurbarkas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-007
@@ -203,6 +333,16 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 581566-581817; hash=4c15e972ff74a1c3e2339af1aee86eca8bdf714eb06964e2c6671afd8e6dbf96; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pieštvė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Pieštvė: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII" parinktas kaip owner_note_path. Targetas "Pieštvė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-008
@@ -216,4 +356,24 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 566746-567092; hash=06a605c0641c3b09de5eac96693f9c02db34c7f4b7f281ddd425461ea8db4336; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Junigeda: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Junigeda: mention_match, place, gap=79
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII" parinktas kaip owner_note_path. Targetas "Junigeda" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 629551-629777; hash=c7d66a88aa3e4db5e227f3502026fa30ab3f606e262cdcc13f0758774eff93b1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Veliuona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Veliuona: mention_match, place, gap=111
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Zajączkowski S. Studya nad dziejami Żmudzi wieku XIII" parinktas kaip owner_note_path. Targetas "Veliuona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

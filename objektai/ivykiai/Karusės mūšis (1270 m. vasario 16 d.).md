@@ -42,7 +42,7 @@ Nenurodyta
 - t-001
   global_id: t-66606
   teiginys: 'Karusės mūšyje žuvo Livonijos magistras Ottonas Luterbergas ir 52 Ordino broliai.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Luterbergas|Luterbergas]]; mentioned_person: [[objektai/asmenys/Ottonas Luterbergas|Ottonas Luterbergas]]; mentioned_place: Livonija; mentioned_place: Talinas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Luterbergas|Luterbergas]]; mentioned_person: [[objektai/asmenys/Ottonas Luterbergas|Ottonas Luterbergas]]; mentioned_place: Livonija; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Talinas'
   pagrindžia:
     - c-003
 

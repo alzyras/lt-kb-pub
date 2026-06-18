@@ -39,7 +39,7 @@ Nenurodyta
   teiginys: 'Magistras ir broliai įsiveržė į Pagudę, ją nusiaubė, užkariavo Heilsbergo pilį ir paėmė arba išžudė jos žmones.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ir turi perteklinę atribuciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Heilsbergas; mentioned_place: Pagudė; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Heilsbergas; mentioned_place: Pagudė; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -49,9 +49,19 @@ Nenurodyta
   teiginys: 'Užkariavus Heilsbergo pilį, kuri buvo pagudėnų rankose, nuo to laiko Prūsijos žemėje įsiviešpatavo taika.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Heilsbergas; mentioned_place: Pagudė; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_place: Heilsbergas; mentioned_place: Pagudė; mentioned_place: Prūsija; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f85875ef3d58f51df3f03f46c5af8b719e8e993ef8de46eef2c8f33005ed3509; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Heilsbergas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas (pilis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Heilsbergas: mention_match, place, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas (pilis)" parinktas kaip owner_note_path. Targetas "Heilsbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -74,4 +84,14 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f85875ef3d58f51df3f03f46c5af8b719e8e993ef8de46eef2c8f33005ed3509; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Heilsbergas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas (pilis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Heilsbergas: mention_match, place, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Žygis į Pagudę, Heilsbergo pilies užėmimas ir taikos atkūrimas (pilis)" parinktas kaip owner_note_path. Targetas "Heilsbergas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001

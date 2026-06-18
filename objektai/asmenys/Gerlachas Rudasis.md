@@ -31,10 +31,20 @@ Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis
   global_id: t-60289
   teiginys: 'Gerlachas Rudasis atvyko iš Livonijos ir pranešė, kad magistras Folkvinas, daug brolių bei maldininkų krito kovoje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Gerlacho Rudojo pranešimą.'
-  susije_objektai: 'location: Livonija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija'
+  susije_objektai: 'location: Livonija; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]'
   semantiniai_rysiai: '[[objektai/asmenys/Gerlachas Rudasis|Gerlachas Rudasis]] keliavo į Livonija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=486639483f116cce39153be786c7bdffe320ad622485eb47baf7e5f294a8b629; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Livonija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Gerlachas Rudasis: owner_note_path, person, gap=18
+  ryšio_targeto_parinkimas: Livonija: nearest_after_predicate, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Gerlachas Rudasis" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70229|maldininkai / maldininko įžadai]]: Brolis Gerlachas Rudasis pranešė, kad Livonijoje kovoje žuvo magistras Folkvinas, daug brolių, maldininkų ir kitų žmonių.
 ## Reikšmingi paminėjimai
 
@@ -54,6 +64,16 @@ Dusburgietis teigia, kad kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=486639483f116cce39153be786c7bdffe320ad622485eb47baf7e5f294a8b629; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Livonija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Gerlachas Rudasis: owner_note_path, person, gap=18
+  ryšio_targeto_parinkimas: Livonija: nearest_after_predicate, place, gap=10
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Gerlachas Rudasis" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - Gerlachas Rudasis keliavo_i [[objektai/vietos/Livonija]]

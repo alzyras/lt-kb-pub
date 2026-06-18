@@ -40,9 +40,19 @@ Nenurodyta
   global_id: t-91921
   teiginys: 'Prie Baigos broliai pastatė prie upės į pilį panašiai sutvirtintą malūną, kurį prūsai netrukus užėmė, gynėjus išžudė ir sudegino.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra OCR fragmentas; citata pagrindžia aiškų sakinį apie malūno pastatymą ir sunaikinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_place: Aistmarios; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_place: Aistmarios; mentioned_place: Varmė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 263547-265223; hash=238b0f500b92dcb6f5e461a3a1806fc82f4f4bc8f0915517049f6583571acf14; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baiga: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=5
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -78,3 +88,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 263547-265223; hash=238b0f500b92dcb6f5e461a3a1806fc82f4f4bc8f0915517049f6583571acf14; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baiga: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Baiga: mention_match, place, gap=5
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Įtvirtinto malūno prie Baigos pastatymas ir sunaikinimas" parinktas kaip owner_note_path. Targetas "Baiga" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -40,7 +40,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   global_id: t-172866
   teiginys: 'J. Dlugošas pateikė Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po pasiuntinio vizito Jogailos stovykloje.'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau ir pašalintas perteklinis kontekstas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
 
@@ -49,7 +49,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   global_id: t-172867
   teiginys: 'J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje rikiavo lietuvių kariuomenę pulkais ir daliniais.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Dlugošo aprašytą veiksmą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]'
   pagrindžia:
     - c-003
 
@@ -57,7 +57,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 - t-004
   global_id: t-172868
   teiginys: 'Petro Dusburgiečio leidinio įvade J. Dlugošas pristatomas kaip autorius, savo Lenkijos istorijos „Analuose, arba kronikose“ panaudojęs Mikalojaus iš Jerošino vertimą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_author: [[objektai/autoriai/Jerošinas|Jerošinas]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Jerošinas|Jerošinas]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_place: Lenkija; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]'
   temporaliniai_duomenys: 'įvykio data: 1464 m.; įvykio data: 1480 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -70,14 +70,27 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Prūsija'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 218062-218298; hash=1e815c474f1bda4f78f2aa8b5f8887f277d0be56f679538290e1533e6b956e50; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dlugošas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Dlugošas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Dlugošas" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-172870"></a>
 - t-006
   global_id: t-172870
   teiginys: 'J. Dlugošas tvirtino, kad Vilniaus Žemutinės pilies dvejus vartus padegė kažkurie iš apgultųjų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_place: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1081190-1081591; hash=765d0f0c4e99a189bcd599ec64430b8d01a9117f73be8c173e514c1311ae932b; match=exact
+  sprendimo_priezastis: auto
 
 <a id="claim-t-172873"></a>
 - t-007
@@ -96,14 +109,34 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Strėlės|Strėlės]]; mentioned_place: Lietuva; mentioned_place: Veliuona; mentioned_place: Vilnius'
   pagrindžia:
     - c-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6550f9856b874214fd4cf220087b8d7c5b823db1de50b23cf4dbe1ec0a65070a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dlugošas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Dlugošas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Dlugošas" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-172875"></a>
 - t-009
   global_id: t-172875
   teiginys: 'J. Dlugošas nurodė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vilnius; mentioned_place: Lietuva'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 275560-276087; hash=8394eab6189bc56104f6471a8d997f541132005a663bfccffd4d89c94681bfff; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dlugošas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Dlugošas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Dlugošas" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-172876"></a>
 - t-010
@@ -111,13 +144,23 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   teiginys: 'Šiame leidinyje J. Dlugošo raštai naudojami aprašant Vytauto kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 277882-278354; hash=25ff96df4502a96887268eb192ffb46b154ead82fcb49582df5976ef9ad4a8f8; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dlugošas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Dlugošas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Dlugošas" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-172878"></a>
 - t-012
   global_id: t-172878
   teiginys: 'J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje lietuvių kariuomenę paskirstė raitelių pulkais ir daliniais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]'
   pagrindžia:
     - c-003
 
@@ -129,24 +172,34 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tinkamai priskiria poziciją Dlugošui ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Luckas; mentioned_place: Skitija; mentioned_place: Valachija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Luckas; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Skitija; mentioned_place: Valachija'
   pagrindžia:
     - c-011
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8bd432e102fc52deb5e3d9fe57b1782dfb4c2879d5c015f08023483cee2a8f25; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Strėlės: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Dlugošas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Strėlės: mention_match, thing, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Dlugošas" parinktas kaip owner_note_path. Targetas "Strėlės" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Dobeslavas Skoračevskis.md#claim-t-80710|Dobeslavas Skoračevskis]]: Dobeslavas Skoračevskis buvo Ordino pasiuntinys, atvykęs pas Jogailą į stovyklą derėtis dėl taikos.
 - susijęs iš [[objektai/autoriai/J. Dlugošas Długosz.md#claim-t-87984|J. Dlugošas Długosz]]: J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.
 - susijęs iš [[objektai/autoriai/J. Dlugošas Długosz.md#claim-t-87985|J. Dlugošas Długosz]]: J. Dlugošas rašė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.
-- susijęs iš [[objektai/daiktai/Karūna.md#claim-t-186818|Karūna]]: Komentare nurodoma, kad šiame šaltinyje teigiama, kad karališkieji vainikai Vytautui ir Julijonai buvo nukalti Niurnbergo auksakalių; Šiame gabale vainikai apibūdinami kaip iš Vokietijos gabenti karūnacijos daiktai.
-- susijęs iš [[objektai/daiktai/Kristaus Kančios relikvija.md#claim-t-186861|Kristaus Kančios relikvija]]: Komentare nurodoma, kad J. Dlugošas pasakojo legendą apie Algirdo ir Kęstučio pagrobtą šventojo kryžiaus relikviją.
 - susijęs iš [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto.md#claim-t-186707|1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]: Komentare nurodoma, kad tarp lietuvių kunigaikščių J. Dlugošas mini ir Jogailą su Vytautu.
-- susijęs iš [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto.md#claim-t-186708|1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]: Leidimo komentaras nurodo, kad Jonas iš Carnkovo ir J. Dlugošas mini Kęstučio, Liubarto ir Jurgio Narimantaičio kariuomenės žygį pro Zavichostą 1376 m. lapkričio 2 d.
 - susijęs iš [[objektai/ivykiai/Ač-Girėjaus valdžios atstatymas Kryme.md#claim-t-186758|Ač-Girėjaus valdžios atstatymas Kryme]]: 1971 m. leidinio pastaba Ač-Girėjaus valdžios atstatymą Kryme sieja su antruoju jo valdžios atkūrimu 1449 m. rugpjūtį.
 - susijęs iš [[objektai/ivykiai/Ač-Girėjaus valdžios atstatymas Kryme.md#claim-t-186759|Ač-Girėjaus valdžios atstatymas Kryme]]: Bychovco kronika Radvilos Astikaičio vaidmenį Ač-Girėjaus grįžime į Krymą vaizduoja kitaip negu J. Dlugošas.
-- susijęs iš [[objektai/ivykiai/Suchtos sąmokslas prieš Kazimierą.md#claim-t-186755|Suchtos sąmokslas prieš Kazimierą]]: J. Dlugošo komentatoriai, redakcinės pastabos teigimu, Suchtos sąmokslą datuoja pirmaisiais keturiais 1453 m. mėnesiais.
-- susijęs iš [[objektai/ivykiai/Suchtos sąmokslas prieš Kazimierą.md#claim-t-186757|Suchtos sąmokslas prieš Kazimierą]]: Redakcinė pastaba nurodo, kad J. Dlugošas antrąkart mini Suchtos sąmokslą perteikdamas Zbignevo Olesnickio kalbą 1453 m. Parčevo seime.
 - susijęs iš J. Dlugošo Analai, arba kronikos: J. Dlugošas buvo susipažinęs su Mikalojaus iš Jerošino eiliuotu vertimu ir panaudojo jį savo Lenkijos istorijos „Analuose, arba kronikose“.
 - susijęs iš J. Dlugošo Analai, arba kronikos: J. Dlugošas „Analuose, arba kronikose“, rašytuose 1455-1480 m., panaudojo Mikalojaus iš Jerošino eiliuotą vertimą.
 - susijęs iš J. Dlugošo Analai, arba kronikos: J. Dlugošas Mazovijos nusiaubimą ir Plocko sudeginimą siejo su 1222 m., nors tie įvykiai galėtų būti 1224 ar 1225 m.
 - susijęs iš Joannis Dlugosii Opera omnia: Joannis Dlugosii Opera omnia leidinys, parengtas Aleksandro Przezdzieckio, 1877 m. išleistas Krokuvoje.
+- susijęs iš [[objektai/daiktai/Karūna.md#claim-t-186818|Karūna]]: Komentare nurodoma, kad šiame šaltinyje teigiama, kad karališkieji vainikai Vytautui ir Julijonai buvo nukalti Niurnbergo auksakalių; Šiame gabale vainikai apibūdinami kaip iš Vokietijos gabenti karūnacijos daiktai.
+- susijęs iš [[objektai/daiktai/Kristaus Kančios relikvija.md#claim-t-186861|Kristaus Kančios relikvija]]: Komentare nurodoma, kad J. Dlugošas pasakojo legendą apie Algirdo ir Kęstučio pagrobtą šventojo kryžiaus relikviją.
+- susijęs iš [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto.md#claim-t-186708|1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]: Leidimo komentaras nurodo, kad Jonas iš Carnkovo ir J. Dlugošas mini Kęstučio, Liubarto ir Jurgio Narimantaičio kariuomenės žygį pro Zavichostą 1376 m. lapkričio 2 d.
+- susijęs iš [[objektai/ivykiai/Suchtos sąmokslas prieš Kazimierą.md#claim-t-186755|Suchtos sąmokslas prieš Kazimierą]]: J. Dlugošo komentatoriai, redakcinės pastabos teigimu, Suchtos sąmokslą datuoja pirmaisiais keturiais 1453 m. mėnesiais.
+- susijęs iš [[objektai/ivykiai/Suchtos sąmokslas prieš Kazimierą.md#claim-t-186757|Suchtos sąmokslas prieš Kazimierą]]: Redakcinė pastaba nurodo, kad J. Dlugošas antrąkart mini Suchtos sąmokslą perteikdamas Zbignevo Olesnickio kalbą 1453 m. Parčevo seime.
 - susijęs iš Sanas: Sanas apibūdinamas kaip į Vislą iš dešinės įtekanti upė, esanti apie 15 km aukščiau Zavichosto.
 - susijęs iš Sanas: Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe.
 - susijęs iš Upytė: Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą.
@@ -204,6 +257,16 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 277882-278354; hash=25ff96df4502a96887268eb192ffb46b154ead82fcb49582df5976ef9ad4a8f8; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dlugošas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Dlugošas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Dlugošas" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
     - t-012
 
@@ -264,6 +327,16 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 218062-218298; hash=1e815c474f1bda4f78f2aa8b5f8887f277d0be56f679538290e1533e6b956e50; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dlugošas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Dlugošas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Dlugošas" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-007
@@ -332,6 +405,16 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 275560-276087; hash=8394eab6189bc56104f6471a8d997f541132005a663bfccffd4d89c94681bfff; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dlugošas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Dlugošas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Dlugošas" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
 
 - c-010
@@ -351,7 +434,20 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1081190-1081591; hash=765d0f0c4e99a189bcd599ec64430b8d01a9117f73be8c173e514c1311ae932b; match=exact
+  sprendimo_priezastis: auto
     - t-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6550f9856b874214fd4cf220087b8d7c5b823db1de50b23cf4dbe1ec0a65070a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dlugošas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Dlugošas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Dlugošas" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-011
 
 - c-011
@@ -381,4 +477,24 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7ba1fd7d48bb03f842104b48a3df73e4c47a6ad087f7499c8aefbcdd306de0d8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dlugošas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Dlugošas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Dlugošas: mention_match, person, gap=3
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Dlugošas" parinktas kaip owner_note_path. Targetas "Dlugošas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-013
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8bd432e102fc52deb5e3d9fe57b1782dfb4c2879d5c015f08023483cee2a8f25; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Strėlės: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: J. Dlugošas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Strėlės: mention_match, thing, gap=57
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "J. Dlugošas" parinktas kaip owner_note_path. Targetas "Strėlės" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

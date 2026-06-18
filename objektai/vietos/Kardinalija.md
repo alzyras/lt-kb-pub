@@ -35,6 +35,16 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 46996-47821; hash=a1ba9649bfa692f32e53720b9a789eb9add28c5038640d586f02a300d64142a0; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kardinalija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kardinalija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-85933"></a>
 - t-002
@@ -44,15 +54,35 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 598651-599068; hash=84527005db5714f5baaf0b8d7c1644ac5773bc012695e7e068354e4b59f2d085; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Radvilos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kardinalija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Radvilos: mention_match, group, gap=76
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kardinalija" parinktas kaip owner_note_path. Targetas "Radvilos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-85934"></a>
 - t-003
   global_id: t-85934
   teiginys: 'Kardinalija buvo vienas didžiausių Vilniaus namų, statytas kardinolo Jurgio Radvilos lėšomis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai nusako Kardinalijos statybą bei fundatorių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 599744-600328; hash=7ab31b7db07a970b8e8e95b718e0db00e235674815651cfece00ccf977eca975; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kristupas Radvila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kardinalija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kristupas Radvila: mention_match, person, gap=95
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kardinalija" parinktas kaip owner_note_path. Targetas "Kristupas Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-85935"></a>
 - t-004
@@ -62,29 +92,39 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 600811-601259; hash=c557976345a50901923b387cd1319430d3fd61dce6e3154d80a0640b62b9c464; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Goštautai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kardinalija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Goštautai: mention_match, group, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kardinalija" parinktas kaip owner_note_path. Targetas "Goštautai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Albrechtas Radvila.md#claim-t-87613|Albrechtas Radvila]]: Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103037|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo mūrinį Goštautų namą priešais Šv. Jono bažnyčią.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103040|Jurgis Radvila (vyskupas, XVI a.)]]: Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103042|Jurgis Radvila (vyskupas, XVI a.)]]: Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103046|Jurgis Radvila (vyskupas, XVI a.)]]: Kunigaikščio ir Vilniaus vyskupo kardinolo Jurgio Radvilos lėšomis pastatyta Kardinalija iškilo tarp senų mūrinių namų ir medinių dvarų.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103047|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgio Radvilos lėšomis Vilniuje buvo pastatytas vienas didžiausių miesto namų, vadintas Kardinalija.
-- susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82569|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Mikalojus Kristupas Radvila-Našlaitėlis, Lietuvos Didžiosios Kunigaikštystės rūmų maršalka, tapo Filipovo namų savininku.
-- susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82574|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Mikalojus Kristupas Radvila-Našlaitėlis, LDK rūmų maršalka, tapo Filipovo namų prie Didžiosios gatvės savininku.
 - susijęs iš [[objektai/asmenys/Mikalojus Malinovskis.md#claim-t-87553|Mikalojus Malinovskis]]: Mikalojus Malinovskis sutvarkė Radvilų archyvą Kardinalijoje pagal gerai parengtą schemą ir tuo metu buvo Radvilų reikalų prokuratorius.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113878|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo po 20 kapų lietuviškų grašių.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113881|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis nuo 1541 metų iš kapitulos nuomojo Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.
-- susijęs iš [[objektai/daiktai/Kardinalijos namų kompleksas.md#claim-t-87000|Kardinalijos namų kompleksas]]: Jurgis Radvila su broliu paveldėjo mūrinį Goštautų namą priešais Šv. Jono bažnyčią.
 - susijęs iš [[objektai/daiktai/Kardinalijos namų kompleksas.md#claim-t-87001|Kardinalijos namų kompleksas]]: Apie 1601 metus Goštautų ir Filipovo namai Albrechto Radvilos laikais buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.
 - susijęs iš [[objektai/daiktai/Kardinalijos namų kompleksas.md#claim-t-87002|Kardinalijos namų kompleksas]]: Kardinalija buvo vienas didžiausių Vilniaus namų, iškilęs Jurgio Radvilos lėšomis tarp senų mūrinių namų ir medinių dvarų.
-- susijęs iš [[objektai/grupes/Radvilų giminė.md#claim-t-172762|Radvilų giminė]]: Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo 20 kapų lietuviškų grašių.
 - susijęs iš [[objektai/grupes/Radvilų giminė.md#claim-t-172765|Radvilų giminė]]: 1493 m. Aleksandro Jogailaičio dovanojimo akto originalas buvo Radvilų archyve Kardinalijoje.
 - susijęs iš [[objektai/grupes/Radvilų giminė.md#claim-t-172766|Radvilų giminė]]: Radvilų archyve Kardinalijoje buvo saugomi du autentiški Stepono Batoro laiškai, rašyti Radviloms dėl Vilniaus muitų.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176071|Vilniaus kapitula]]: Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.
-- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176102|Vilniaus kapitula]]: Mikalojus Radvila Juodasis nuo 1541 m. iš Vilniaus kapitulos nuomojo Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.
-- susijęs iš [[objektai/paprociai/Kardinalijos koplyčios pamaldų laikymas.md#claim-t-87295|Kardinalijos koplyčios pamaldų laikymas]]: Kardinolas Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią, kurioje ilgai buvo laikomos pamaldos.
 - susijęs iš Radvilų archyvas Kardinalijoje: Radvilų archyve Kardinalijoje buvęs 1493 m. aktas buvo surašytas gryna slavų kalba ir puikiai išsilaikęs.
 - susijęs iš Radvilų archyvas Kardinalijoje: Radvilų archyve Kardinalijoje buvo saugomi vertingi istorijos šaltiniai, prie kurių prieigą palengvino Mikalojus Malinovskis.
 - susijęs iš Filipovo namai: Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir pavadinti Kardinalija.
+- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103037|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo mūrinį Goštautų namą priešais Šv. Jono bažnyčią.
+- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103040|Jurgis Radvila (vyskupas, XVI a.)]]: Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.
+- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103042|Jurgis Radvila (vyskupas, XVI a.)]]: Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.
+- susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82569|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Mikalojus Kristupas Radvila-Našlaitėlis, Lietuvos Didžiosios Kunigaikštystės rūmų maršalka, tapo Filipovo namų savininku.
+- susijęs iš [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis.md#claim-t-82574|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]: Mikalojus Kristupas Radvila-Našlaitėlis, LDK rūmų maršalka, tapo Filipovo namų prie Didžiosios gatvės savininku.
+- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113878|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo po 20 kapų lietuviškų grašių.
+- susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113881|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis nuo 1541 metų iš kapitulos nuomojo Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.
+- susijęs iš [[objektai/daiktai/Kardinalijos namų kompleksas.md#claim-t-87000|Kardinalijos namų kompleksas]]: Jurgis Radvila su broliu paveldėjo mūrinį Goštautų namą priešais Šv. Jono bažnyčią.
+- susijęs iš [[objektai/grupes/Radvilų giminė.md#claim-t-172762|Radvilų giminė]]: Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo 20 kapų lietuviškų grašių.
+- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176071|Vilniaus kapitula]]: Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.
+- susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176102|Vilniaus kapitula]]: Mikalojus Radvila Juodasis nuo 1541 m. iš Vilniaus kapitulos nuomojo Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių.
+- susijęs iš [[objektai/paprociai/Kardinalijos koplyčios pamaldų laikymas.md#claim-t-87295|Kardinalijos koplyčios pamaldų laikymas]]: Kardinolas Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią, kurioje ilgai buvo laikomos pamaldos.
 - susijęs iš Filipovo namai: Mikalojus Kristupas Radvila tapo Filipovo namų, sudarytų iš kelių medinių moliu aplipdytų pastatų, savininku.
 - susijęs iš Goštautų mūras: Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo Goštautų vardu vadintą mūrinį namą.
 - susijęs iš Goštautų mūras: Kardinolas Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią, kurioje ilgai buvo laikomos pamaldos.
@@ -138,6 +178,16 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 599744-600328; hash=7ab31b7db07a970b8e8e95b718e0db00e235674815651cfece00ccf977eca975; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kristupas Radvila: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kardinalija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kristupas Radvila: mention_match, person, gap=95
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kardinalija" parinktas kaip owner_note_path. Targetas "Kristupas Radvila" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -162,6 +212,16 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 46996-47821; hash=a1ba9649bfa692f32e53720b9a789eb9add28c5038640d586f02a300d64142a0; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kardinalija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kardinalija" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
 
 - c-004
@@ -185,4 +245,24 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 600811-601259; hash=c557976345a50901923b387cd1319430d3fd61dce6e3154d80a0640b62b9c464; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Goštautai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kardinalija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Goštautai: mention_match, group, gap=77
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kardinalija" parinktas kaip owner_note_path. Targetas "Goštautai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 598651-599068; hash=84527005db5714f5baaf0b8d7c1644ac5773bc012695e7e068354e4b59f2d085; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Radvilos: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kardinalija: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Radvilos: mention_match, group, gap=76
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kardinalija" parinktas kaip owner_note_path. Targetas "Radvilos" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

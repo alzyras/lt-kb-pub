@@ -22,9 +22,19 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
   global_id: t-40977
   teiginys: 'Vilniaus puolime balandžio 23 d. dalyvavo 50 LDK tribunolo vengrų vėliavos dalinio karių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir citata tiesiogiai patvirtina dalinio karių dalyvavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/7-ojo fuzilierių regimento|7-ojo fuzilierių regimento]]; mentioned_group: [[objektai/grupes/LDK 4-ojo pėstininkų regimento|LDK 4-ojo pėstininkų regimento]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/LDK 4-ojo pėstininkų regimento|LDK 4-ojo pėstininkų regimento]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_group: [[objektai/grupes/7-ojo fuzilierių regimento|7-ojo fuzilierių regimento]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fd10ce61330b232c4644c56fcad1b3e593515f80d7e871f741a1ba0f469844be; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> LDK 4-ojo pėstininkų regimento: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: LDK tribunolo vengrų vėliavos dalinys: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: LDK 4-ojo pėstininkų regimento: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "LDK tribunolo vengrų vėliavos dalinys" parinktas kaip owner_note_path. Targetas "LDK 4-ojo pėstininkų regimento" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -48,3 +58,13 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=fd10ce61330b232c4644c56fcad1b3e593515f80d7e871f741a1ba0f469844be; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> LDK 4-ojo pėstininkų regimento: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: LDK tribunolo vengrų vėliavos dalinys: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: LDK 4-ojo pėstininkų regimento: mention_match, group, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "LDK tribunolo vengrų vėliavos dalinys" parinktas kaip owner_note_path. Targetas "LDK 4-ojo pėstininkų regimento" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

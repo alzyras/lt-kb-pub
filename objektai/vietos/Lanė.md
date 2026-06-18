@@ -33,6 +33,9 @@ Lanė prasideda apie 15 km į šiaurės rytus nuo Klecko. Lanė teka pro Klecką
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatos geografine informacija.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b2b95afae3debf8371383db5eaaca983acb54e0ca4e2c6b9961572e74477790e; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
 
 <a id="claim-t-187249"></a>
 - t-002
@@ -45,6 +48,9 @@ Lanė prasideda apie 15 km į šiaurės rytus nuo Klecko. Lanė teka pro Klecką
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytą Lanės slėnio plotį ties Klecku. Papildomos geografinės informacijos nepridėta.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b2b95afae3debf8371383db5eaaca983acb54e0ca4e2c6b9961572e74477790e; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
 
 <a id="claim-t-187250"></a>
 - t-003
@@ -57,6 +63,9 @@ Lanė prasideda apie 15 km į šiaurės rytus nuo Klecko. Lanė teka pro Klecką
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Lanės tekėjimo kryptį ties Klecku. Citata tiesiogiai nurodo šią vietos ypatybę.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b2b95afae3debf8371383db5eaaca983acb54e0ca4e2c6b9961572e74477790e; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
 - susijęs iš Cepra: Cepra įteka į Lanės upę iš kairės apie 10 km į pietryčius nuo Klecko.
 - susijęs iš Cepra: Cepra teka maždaug už 8 km į rytus nuo Klecko.
 ## Reikšmingi paminėjimai
@@ -75,5 +84,14 @@ Lanė prasideda apie 15 km į šiaurės rytus nuo Klecko. Lanė teka pro Klecką
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b2b95afae3debf8371383db5eaaca983acb54e0ca4e2c6b9961572e74477790e; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b2b95afae3debf8371383db5eaaca983acb54e0ca4e2c6b9961572e74477790e; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b2b95afae3debf8371383db5eaaca983acb54e0ca4e2c6b9961572e74477790e; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/09_extract_places_notes.md

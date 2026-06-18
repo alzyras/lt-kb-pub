@@ -25,7 +25,18 @@ Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose L I E
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: SSRS'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=051460fa20884ab1c24a08404836b1155f9286f913507a68bf5f05826e4bcb6b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> SSRS: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Romai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: SSRS: mention_match, place, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romai" parinktas kaip owner_note_path. Targetas "SSRS" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Filotiejus.md#claim-t-30614|Filotiejus]]: Eleazaro vienuolyno vienuolis Filotiejus laiške Vosyliui III rašė apie Maskvą kaip trečiąją Romą.
+- susijęs iš [[objektai/zodynas/pagonybė.md#claim-t-101594|pagonybė]]: Lietuvos pagonybės vertinimai buvo ginčytini dėl romantinio aukso amžiaus mito ir skurdžios istorijos šaltinių informacijos priešpriešos.
 - susijęs iš [[objektai/daiktai/Bizantijos imperatorių herbas.md#claim-t-47802|Bizantijos imperatorių herbas]]: Jonas III, laikydamas save žlugusios Bizantijos paveldėtoju, pasisavino jos dvigalvį erelį ir imperatoriaus dvaro ceremonialą.
 - susijęs iš [[objektai/daiktai/Bizantijos imperatorių herbas.md#claim-t-47803|Bizantijos imperatorių herbas]]: Jonas III, laikydamas save žlugusios Bizantijos imperijos paveldėtoju, pasisavino jos dvigalvį erelį ir dvaro ceremonialą.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112510|Domininkonų ordinas]]: 1323 m. gegužės 26 d. laiškai buvo pasiųsti Saksų provincijos domininkonams, pranciškonams ir Hanzos miestams.
@@ -41,7 +52,6 @@ Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose L I E
 - susijęs iš Stralsundas: Gegužės 26 d. vienas iš laiškų buvo pasiųstas Hanzos miestams, tarp jų Stralsundui.
 - susijęs iš Štetinas: Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų ir Štetinui.
 - susijęs iš [[objektai/zodynas/pagonybė.md#claim-t-101593|pagonybė]]: Lietuvos pagonybės vertinimus apsunkino XIX a. pagoniškos epochos aukso amžiaus mitas ir skurdi istorijos šaltinių informacija.
-- susijęs iš [[objektai/zodynas/pagonybė.md#claim-t-101594|pagonybė]]: Lietuvos pagonybės vertinimai buvo ginčytini dėl romantinio aukso amžiaus mito ir skurdžios istorijos šaltinių informacijos priešpriešos.
 - susijęs iš [[objektai/zodynas/pagonybė.md#claim-t-101595|pagonybė]]: Lietuvos pagonybės vertinimus apsunkino XIX a. pagoniškos epochos aukso amžiaus mitas ir skurdi istorijos šaltinių informacija.
 - susijęs iš [[objektai/zodynas/pagonybė.md#claim-t-101596|pagonybė]]: Lietuvos pagonybės vertinimus apsunkino XIX a. pagoniškos epochos aukso amžiaus mitas ir skurdi istorijos šaltinių informacija.
 ## Reikšmingi paminėjimai
@@ -61,3 +71,13 @@ Dar prieš SSRS užpuolimą vokiečių vadovybė nusprendė užkariautuose L I E
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=051460fa20884ab1c24a08404836b1155f9286f913507a68bf5f05826e4bcb6b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> SSRS: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Romai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: SSRS: mention_match, place, gap=78
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romai" parinktas kaip owner_note_path. Targetas "SSRS" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

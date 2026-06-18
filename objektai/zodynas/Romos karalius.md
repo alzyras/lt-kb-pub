@@ -25,6 +25,16 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Krokuvos profesoriai|Krokuvos profesoriai]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0e265d97c96e772de19dcea8fca668142e60a034c6e159f8f95bccb6172ccfa2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Romos karalius: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romos karalius" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-36752"></a>
 - t-002
@@ -33,23 +43,33 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Krokuvos profesoriai|Krokuvos profesoriai]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63418|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1307 m. Albrechtas į Čekijos sostą pakėlė savo sūnų.
-- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63420|Albrechtas (Romos karalius)]]: Romos karalius Albrechtas pakėlė savo sūnų į Čekijos sostą, kai po Vaclovo ir jo sūnaus mirties sostas liko be įpėdinių.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e1f611adc6cb88c457a83c22dc97dbc9567afd982046fdfe7536f1bd882f0775; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Romos karalius: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romos karalius" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Benediktas XI.md#claim-t-60246|Benediktas XI]]: 1303 m. valdė popiežius Benediktas XI, brolių pamokslininkų ordino vienuolis, ir Romos karalius Albrechtas.
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-184084|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63622|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Inocentas V.md#claim-t-60334|Inocentas V]]: 1275 m. popiežiumi buvo Inocentas V, anksčiau vadintas pamokslininkų ordino broliu Petru iš Tarantezo.
-- susijęs iš [[objektai/asmenys/Otokaras.md#claim-t-184117|Otokaras]]: Romos karalius Rudolfas kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė savo sūnui Albrechtui.
-- susijęs iš [[objektai/asmenys/Otokaras.md#claim-t-60399|Otokaras]]: Romos karalius Rudolfas kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė savo sūnui Albrechtui.
-- susijęs iš [[objektai/asmenys/Vaclovas (Čekijos karalius).md#claim-t-60454|Vaclovas (Čekijos karalius)]]: 1307 m. mirė Čekijos karalius Vaclovas, o Čekijos sostas atiteko svetimiesiems.
-- susijęs iš [[objektai/daiktai/Geležinis vainikas.md#claim-t-59684|Geležinis vainikas]]: 1311 m. sausio 6 d. prie Milano Romos karalius Henrikas buvo vainikuotas geležiniu vainiku.
-- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112518|Domininkonų ordinas]]: 1303 m. valdęs popiežius Benediktas XI buvo Brolių pamokslininkų ordino vienuolis.
 - susijęs iš [[objektai/grupes/Krokuvos profesoriai.md#claim-t-35615|Krokuvos profesoriai]]: Krokuvos profesoriai rašte įrodinėjo, kad Romos karalius Zigmantas neturi teisės suteikti karūnos.
 - susijęs iš [[objektai/grupes/Vienos universiteto profesoriai.md#claim-t-34352|Vienos universiteto profesoriai]]: Zigmanto pakviesti Vienos universiteto profesoriai aiškino, kad popiežiaus patvirtintas Romos karalius gali karūnuoti kitus.
 - susijęs iš [[objektai/ivykiai/Čekijos sosto perėjimas po Vaclovo mirties (1307 m.).md#claim-t-62540|Čekijos sosto perėjimas po Vaclovo mirties (1307 m.)]]: 1307 m. mirus Čekijos karaliui Vaclovui ir nužudžius jo sūnų, Čekijos sostas atiteko svetimiesiems.
 - susijęs iš Krokuvos profesorių raštas dėl Vytauto karūnacijos: Krokuvos profesoriai rašte teigė, kad Romos karalius Zigmantas neturėjo teisės suteikti karūnos, nes nebuvo gavęs popiežiaus suteikto ciesoriaus titulo.
 - susijęs iš Krokuvos profesorių raštas dėl Vytauto karūnacijos: Krokuvos profesoriai rašte teigė, kad karūnuoti gali tik popiežius, o Romos karalius Zigmantas tokios teisės neturi.
 - susijęs iš Buda: 1307 m. mirus Čekijos karaliui Vaclovui, jo sūnus buvo vainikuotas karaliumi Budoje.
+- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63418|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1307 m. Albrechtas į Čekijos sostą pakėlė savo sūnų.
+- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63420|Albrechtas (Romos karalius)]]: Romos karalius Albrechtas pakėlė savo sūnų į Čekijos sostą, kai po Vaclovo ir jo sūnaus mirties sostas liko be įpėdinių.
+- susijęs iš [[objektai/asmenys/Inocentas V.md#claim-t-60334|Inocentas V]]: 1275 m. popiežiumi buvo Inocentas V, anksčiau vadintas pamokslininkų ordino broliu Petru iš Tarantezo.
+- susijęs iš [[objektai/asmenys/Otokaras.md#claim-t-184117|Otokaras]]: Romos karalius Rudolfas kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė savo sūnui Albrechtui.
+- susijęs iš [[objektai/asmenys/Otokaras.md#claim-t-60399|Otokaras]]: Romos karalius Rudolfas kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė savo sūnui Albrechtui.
+- susijęs iš [[objektai/asmenys/Vaclovas (Čekijos karalius).md#claim-t-60454|Vaclovas (Čekijos karalius)]]: 1307 m. mirė Čekijos karalius Vaclovas, o Čekijos sostas atiteko svetimiesiems.
+- susijęs iš [[objektai/daiktai/Geležinis vainikas.md#claim-t-59684|Geležinis vainikas]]: 1311 m. sausio 6 d. prie Milano Romos karalius Henrikas buvo vainikuotas geležiniu vainiku.
+- susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112518|Domininkonų ordinas]]: 1303 m. valdęs popiežius Benediktas XI buvo Brolių pamokslininkų ordino vienuolis.
 - susijęs iš Milanas: 1311 m. sausio 6 d. Romos karalius Henrikas prie Milano buvo vainikuotas geležiniu vainiku.
 ## Reikšmingi paminėjimai
 
@@ -86,4 +106,24 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0e265d97c96e772de19dcea8fca668142e60a034c6e159f8f95bccb6172ccfa2; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Romos karalius: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romos karalius" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e1f611adc6cb88c457a83c22dc97dbc9567afd982046fdfe7536f1bd882f0775; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krokuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Romos karalius: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Krokuva: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Romos karalius" parinktas kaip owner_note_path. Targetas "Krokuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -30,6 +30,9 @@ Wittram : Baltische Geschichte 1180-1918 (WiBG).
   teiginys: 'R. Wittramo „Baltische Geschichte 1180-1918“ bibliografijoje žymėta santrumpa WiBG.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9e76f197be6861c8485e5c707bace7e37d40faba9162b7d66359a02d0fb4a7d5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -45,3 +48,6 @@ Wittram : Baltische Geschichte 1180-1918 (WiBG).
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9e76f197be6861c8485e5c707bace7e37d40faba9162b7d66359a02d0fb4a7d5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

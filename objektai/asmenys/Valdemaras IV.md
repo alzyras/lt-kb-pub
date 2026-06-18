@@ -22,9 +22,19 @@ Iš danų karaliaus Valdemaro IV-jo nupirkus Estiją, Livonijoje ordinas rubeži
 - t-001
   global_id: t-30406
   teiginys: 'Iš Danijos karaliaus Valdemaro IV Ordinas nupirko Estiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_place: Estija; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_place: Estija; mentioned_group: [[objektai/grupes/Suomiai|Suomiai]]; mentioned_place: Livonija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6f4b28702cdec0205ea2513b61f9522f73ad7e62fb25bbbf6a1c70b73f477b19; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Estija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valdemaras IV: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Estija: mention_match, place, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valdemaras IV" parinktas kaip owner_note_path. Targetas "Estija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -42,3 +52,13 @@ Iš danų karaliaus Valdemaro IV-jo nupirkus Estiją, Livonijoje ordinas rubeži
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6f4b28702cdec0205ea2513b61f9522f73ad7e62fb25bbbf6a1c70b73f477b19; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Estija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valdemaras IV: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Estija: mention_match, place, gap=29
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valdemaras IV" parinktas kaip owner_note_path. Targetas "Estija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

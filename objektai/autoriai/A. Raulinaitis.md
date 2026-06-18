@@ -35,6 +35,9 @@ Raulinaitis (Pedag.
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys apie Raulinaičio publikaciją.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6bc9df40682335dadddfefb15df99cd6399c59b3cb200d44304ec63bdb54ef63; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +52,6 @@ Raulinaitis (Pedag.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6bc9df40682335dadddfefb15df99cd6399c59b3cb200d44304ec63bdb54ef63; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

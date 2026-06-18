@@ -31,6 +31,16 @@ p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L.
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=28c095b09752dc4632aaa1151b2dc0c0f38af14d46032e02e7b71e186a154cf9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Salaspilio (Kircholmo) mūšis (1605 m.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karolomachija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Salaspilio (Kircholmo) mūšis (1605 m.): mention_match, event, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolomachija" parinktas kaip owner_note_path. Targetas "Salaspilio (Kircholmo) mūšis (1605 m.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -43,3 +53,13 @@ p. 107, „SALASPILIO MUSIS KAROLOMACHIJOJE“, Bojeris L.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=28c095b09752dc4632aaa1151b2dc0c0f38af14d46032e02e7b71e186a154cf9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Salaspilio (Kircholmo) mūšis (1605 m.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Karolomachija: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Salaspilio (Kircholmo) mūšis (1605 m.): mention_match, event, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Karolomachija" parinktas kaip owner_note_path. Targetas "Salaspilio (Kircholmo) mūšis (1605 m.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

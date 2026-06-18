@@ -24,6 +24,9 @@ Dusburgietis teigia, kad dzežgonis) Žalgirio mūšio laukas (dab.
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=aa6ef2c7eec28585474d7bf70210423674493e3b3774926ef453b833794a34a9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -41,3 +44,6 @@ Dusburgietis teigia, kad dzežgonis) Žalgirio mūšio laukas (dab.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=aa6ef2c7eec28585474d7bf70210423674493e3b3774926ef453b833794a34a9; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

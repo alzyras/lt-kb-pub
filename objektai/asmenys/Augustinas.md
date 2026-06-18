@@ -23,23 +23,26 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
   sudarymo_pagrindimas: 'Kadangi kalbama apie sapno pasakojimą, būtina šaltinio naratyvo atribucija.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 249654-249879; hash=b4c2b7fc6660bb9c4d74b57fd09792e8c0a4bb4028d894b94598180b584011d7; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+- susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-60271|Egidijus (arkivyskupas, XIV a.)]]: Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.
+- susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114003|Valerijonas Protasevičius (vyskupas)]]: Vilniaus vyskupas Valerijonas Protasevičius paprieštaravo, kad į sutartį būtų įtraukta sąlyga dėl Augustino tikėjimo laisvo išpažinimo.
+- susijęs iš [[objektai/autoriai/Lindenblattas Joannes von der Pusilie.md#claim-t-88028|Lindenblattas Joannes von der Pusilie]]: Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.
+- susijęs iš [[objektai/autoriai/Lindenblattas Johannes Lindenblatt.md#claim-t-87977|Lindenblattas Johannes Lindenblatt]]: Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.
+- susijęs iš [[objektai/zodynas/Augsburgo Augustino tikėjimas.md#claim-t-86514|Augsburgo Augustino tikėjimas]]: Gotardas Ketleris siekė, kad perduodamų apskričių žmonėms būtų leista laisvai išpažinti Augustino tikėjimą.
 - susijęs iš [[objektai/asmenys/Bonifacas VIII.md#claim-t-184047|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]: Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu.
 - susijęs iš [[objektai/asmenys/Bonifacas VIII.md#claim-t-59901|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]: Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu.
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-184059|Egidijus (arkivyskupas, XIV a.)]]: Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
-- susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-60271|Egidijus (arkivyskupas, XIV a.)]]: Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.
 - susijęs iš [[objektai/asmenys/Gotardas Ketleris.md#claim-t-87504|Gotardas Ketleris]]: Maskvos ginklų sutriuškintas Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas.
-- susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114003|Valerijonas Protasevičius (vyskupas)]]: Vilniaus vyskupas Valerijonas Protasevičius paprieštaravo, kad į sutartį būtų įtraukta sąlyga dėl Augustino tikėjimo laisvo išpažinimo.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114008|Valerijonas Protasevičius (vyskupas)]]: Valerijonas Protasevičius paprieštaravo, kad religijos laisvės sąlyga būtų įtraukta į sutartį.
 - susijęs iš [[objektai/asmenys/Vladimiras Dubeneckis.md#claim-t-78074|Vladimiras Dubeneckis]]: Vladimiras Dubeneckis buvo 1935 m. atidaryto Vytauto Didžiojo karo muziejaus architektas.
-- susijęs iš [[objektai/autoriai/Lindenblattas Joannes von der Pusilie.md#claim-t-88028|Lindenblattas Joannes von der Pusilie]]: Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.
-- susijęs iš [[objektai/autoriai/Lindenblattas Johannes Lindenblatt.md#claim-t-87977|Lindenblattas Johannes Lindenblatt]]: Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.
 - susijęs iš [[objektai/daiktai/Vytauto paveikslas.md#claim-t-65004|Vytauto paveikslas]]: 1930 m. Pasvalyje ypatinga ceremonija buvo pagerbtas po Lietuvą keliavęs Vytauto Didžiojo paveikslas.
 - susijęs iš [[objektai/grupes/Augsburgo tikėjimo išpažinėjai Livonijoje.md#claim-t-86752|Augsburgo tikėjimo išpažinėjai Livonijoje]]: Ketlerio perduodamų Livonijos apskričių žmonėms buvo siūlyta leisti laisvai naudotis apeigomis, papročiais ir religija, išpažįstančia Augsburgo tikėjimą.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175540|Kalavijuočių ordinas]]: Maskvos ginklų sutriuškintas Livonijos magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175542|Kalavijuočių ordinas]]: Gotardas Ketleris, Teutonų ordino Livonijoje magistras, patikėjo save, ordiną ir valdas valdovui, prašydamas gynybos.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179356|Livonijos ordinas]]: Maskvos ginklų sutriuškintas Livonijos ordino magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas.
 - susijęs iš Paryžius: Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
-- susijęs iš [[objektai/zodynas/Augsburgo Augustino tikėjimas.md#claim-t-86514|Augsburgo Augustino tikėjimas]]: Gotardas Ketleris siekė, kad perduodamų apskričių žmonėms būtų leista laisvai išpažinti Augustino tikėjimą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,3 +57,6 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 249654-249879; hash=b4c2b7fc6660bb9c4d74b57fd09792e8c0a4bb4028d894b94598180b584011d7; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto

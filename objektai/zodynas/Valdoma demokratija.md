@@ -21,9 +21,19 @@ Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrą
   global_id: t-22030
   teiginys: 'Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia sugriuvusios SSRS teritorijoje.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys ir tiesiogiai remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/„valdomos demokratijos“|„valdomos demokratijos“]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„valdomos demokratijos“|„valdomos demokratijos“]]; mentioned_place: SSRS; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=95c0bc56e927c65258c6f49db4bc6368cb18b0c5be1cda99afff15fd689a90cb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> SSRS: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valdoma demokratija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: SSRS: mention_match, place, gap=119
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valdoma demokratija" parinktas kaip owner_note_path. Targetas "SSRS" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -42,3 +52,13 @@ Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrą
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=95c0bc56e927c65258c6f49db4bc6368cb18b0c5be1cda99afff15fd689a90cb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> SSRS: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Valdoma demokratija: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: SSRS: mention_match, place, gap=119
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Valdoma demokratija" parinktas kaip owner_note_path. Targetas "SSRS" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

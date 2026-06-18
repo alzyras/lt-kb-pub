@@ -50,12 +50,22 @@ Nenurodyta
   global_id: t-87166
   teiginys: 'Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose.'
   sudarymo_pagrindimas: 'Citata pagrindžia totorių įkurdinimo vietas; pašalintas vertinamasis ir fragmentiškas tekstas.'
-  susije_objektai: 'location: Nemėžis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Nemėžis; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'location: Nemėžis; mentioned_place: Ašmena; mentioned_place: Naugardukas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Lietuva; mentioned_place: Nemėžis; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia totorių įkurdinimo vietas; pašalintas vertinamasis ir fragmentiškas tekstas.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 312500-315646; hash=8c2b1061c6c09d2689ab31ce919730dad9b4774f7ee08f4e228f8ba7608bc040; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Azovas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Azovas: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves" parinktas kaip owner_note_path. Targetas "Azovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-87168"></a>
 - t-002
@@ -198,3 +208,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 312500-315646; hash=8c2b1061c6c09d2689ab31ce919730dad9b4774f7ee08f4e228f8ba7608bc040; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Azovas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Azovas: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves" parinktas kaip owner_note_path. Targetas "Azovas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

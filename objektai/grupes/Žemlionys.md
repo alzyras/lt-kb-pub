@@ -31,11 +31,11 @@ amziai:
     - c-001
     - c-002
     - c-003
+- susijęs iš [[objektai/zodynas/Perveiza.md#claim-t-07730|perveiza]]: Perveizos metu netinkamai pasirengęs arba neatvykęs žemlionis buvo išbraukiamas iš reistro ir vėl turėjo mokėti duoklę.
+- susijęs iš [[objektai/zodynas/Žemlionis.md#claim-t-70424|žemlionis]]: Žemlionys karo metu išsirinkdavo narsų ir kantrų vyrą, kuris tapdavo karvedžiu arba atmonu.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-08356|Vėliavos]]: Prie karūžojo buvo laikoma karės vėliava tos apykartos.
 - susijęs iš [[objektai/grupes/Lietuvos Vyčių Sąjunga.md#claim-t-01397|Lietuvos Vyčių Sąjunga]]: Lietuvos Vyčių Sąjunga telkė katalikų jaunimą, turėjo apie 100 kuopų ir leido laikraštį „Vytis“.
-- susijęs iš [[objektai/zodynas/Perveiza.md#claim-t-07730|perveiza]]: Perveizos metu netinkamai pasirengęs arba neatvykęs žemlionis buvo išbraukiamas iš reistro ir vėl turėjo mokėti duoklę.
 - susijęs iš [[objektai/zodynas/Perveiza.md#claim-t-07731|perveiza]]: `Perveiza` šiame tekste reiškia karių ir jų ginklų bei arklių peržiūrą.
-- susijęs iš [[objektai/zodynas/Žemlionis.md#claim-t-70424|žemlionis]]: Žemlionys karo metu išsirinkdavo narsų ir kantrų vyrą, kuris tapdavo karvedžiu arba atmonu.
 ## Reikšmingi paminėjimai
 
 - c-001

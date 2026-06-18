@@ -38,7 +38,7 @@ Nenurodyta
 - t-001
   global_id: t-09849
   teiginys: 'Lietuviai, remiami maždaug 50 vokiečių kareivių, apėjo bolševikų dešinįjį sparną, paėmė 18 raudonarmiečių į nelaisvę, o bolševikai vakare paliko Kėdainių apylinkes ir traukėsi į Šėtą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kaimas; mentioned_place: Kolupiai; mentioned_place: Kėdainiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kėdainiai; mentioned_place: Kaimas; mentioned_place: Kolupiai'
   pagrindžia:
     - c-007
 
@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-09850
   teiginys: 'Kėdainių gynyba tapo pirmuoju Kėdainių įgulos savanorių kovos krikštu.'
   sudarymo_pagrindimas: 'Pašalintas šaltinio boilerplate ir paliktas citatos paremtas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kėdainiai'
+  susije_objektai: 'mentioned_place: Kėdainiai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]'
   pagrindžia:
     - c-002
 
@@ -56,7 +56,7 @@ Nenurodyta
   global_id: t-09851
   teiginys: 'Vasario 8-osios rytą Kėdainių gynėjai sudarė 17 žmonių žvalgybos patrulį, kuriam vadovavo V. Vainauskas, o padėjėju paskirtas P. Lukšys.'
   sudarymo_pagrindimas: 'Perrašyta tiksliau pagal citatos formuluotę.'
-  susije_objektai: 'event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kėdainiai'
+  susije_objektai: 'event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_place: Kėdainiai; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   semantiniai_rysiai: '[[objektai/grupes/Rytas|Rytas]] dalyvavo mūšyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]'
   pagrindžia:
     - c-003
@@ -87,7 +87,7 @@ Nenurodyta
   global_id: t-09854
   teiginys: 'Kėdainių-Šėtos kautynėse P. Lukšys žuvo, kai į žvalgus pasipylė ugnis iš Taučiūnų dvaro.'
   sudarymo_pagrindimas: 'Teiginys susietas su įvykiu ir pašalinta perteklinė aplinkybė.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Taučiūnai'
+  susije_objektai: 'mentioned_place: Taučiūnai; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 
@@ -96,7 +96,7 @@ Nenurodyta
   global_id: t-09855
   teiginys: 'Kėdainių gynybai vadovavę J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių šautuvų ugnimi sustabdė bolševikų puolimą.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir jungia kelis faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_person: [[objektai/asmenys/J. Mikoliūnas|J. Mikoliūnas]]; mentioned_person: [[objektai/asmenys/K. Dragunevičius|K. Dragunevičius]]; mentioned_place: Kėdainiai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_person: [[objektai/asmenys/J. Mikoliūnas|J. Mikoliūnas]]; mentioned_person: [[objektai/asmenys/K. Dragunevičius|K. Dragunevičius]]; mentioned_place: Kėdainiai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/J. Mikoliūnas.md#claim-t-40159|J. Mikoliūnas]]: J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių, šautuvų ugnimi sustabdė priešo puolimą prie Kėdainių-Šėtos vieškelio.

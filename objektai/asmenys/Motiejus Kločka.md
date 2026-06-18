@@ -22,9 +22,19 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia faktą apie Kločkos vaidmenį pasiuntinybėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/žirgininkas|žirgininkas]]; mentioned_place: Maskva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/žirgininkas|žirgininkas]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1169827-1170523; hash=d86528c969e5b88933ddc1e433810e4d601e06a74d0d91514572bcc68ae94107; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Motiejus Kločka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus Kločka" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186071"></a>
 - t-002
@@ -37,6 +47,16 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
   susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1176729-1177165; hash=8cc80223134b8e770af541f8d93bfd4d05447abb9921eb450862a1cb8b2d9f83; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> maršalas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Motiejus Kločka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: maršalas: mention_match, thing, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus Kločka" parinktas kaip owner_note_path. Targetas "maršalas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Aleksandras Bokevičius.md#claim-t-186093|Aleksandras Bokevičius]]: Aleksandras Bokevičius buvo pasiųstas pranešti Vasilijui, kad netrukus atvyks legatai.
 ## Reikšmingi paminėjimai
 
@@ -86,4 +106,24 @@ Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilij
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1169827-1170523; hash=d86528c969e5b88933ddc1e433810e4d601e06a74d0d91514572bcc68ae94107; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maskva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Motiejus Kločka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maskva: mention_match, place, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus Kločka" parinktas kaip owner_note_path. Targetas "Maskva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1176729-1177165; hash=8cc80223134b8e770af541f8d93bfd4d05447abb9921eb450862a1cb8b2d9f83; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> maršalas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Motiejus Kločka: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: maršalas: mention_match, thing, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Motiejus Kločka" parinktas kaip owner_note_path. Targetas "maršalas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

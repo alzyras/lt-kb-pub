@@ -29,12 +29,22 @@ Tačiau apgaulė greitai išaiškėjo, jau Varmės vyskupas Eberhardas 1325 meta
   global_id: t-88147
   teiginys: '1325 m. Varmės vyskupas Eberhardas rašė, kad teiginiai apie lietuvių norą atsiversti į krikščionybę buvo melagingi.'
   sudarymo_pagrindimas: 'Pradinė formuluotė per ilga, fragmentiška ir kopijuoja lotynišką šaltinio tekstą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_place: Varmė; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
   temporaliniai_duomenys: 'įvykio data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė per ilga, fragmentiška ir kopijuoja lotynišką šaltinio tekstą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8834f0cc4cafab3f071ae7f5222b232348b9e15de38c5051dc1af858f35f1def; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Eberhardas (Varmės vyskupas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Eberhardo Varmės vyskupo diploma (1325 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Eberhardas (Varmės vyskupas): mention_match, person, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eberhardo Varmės vyskupo diploma (1325 m.)" parinktas kaip owner_note_path. Targetas "Eberhardas (Varmės vyskupas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -70,3 +80,13 @@ Tačiau apgaulė greitai išaiškėjo, jau Varmės vyskupas Eberhardas 1325 meta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8834f0cc4cafab3f071ae7f5222b232348b9e15de38c5051dc1af858f35f1def; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Eberhardas (Varmės vyskupas): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Eberhardo Varmės vyskupo diploma (1325 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Eberhardas (Varmės vyskupas): mention_match, person, gap=16
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eberhardo Varmės vyskupo diploma (1325 m.)" parinktas kaip owner_note_path. Targetas "Eberhardas (Varmės vyskupas)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

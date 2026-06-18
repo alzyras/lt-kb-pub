@@ -22,9 +22,19 @@ Lukošius Moravecas prie Slučės upės su dviem šimtais pėstininkų užpuolė
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Sluckas; mentioned_place: Slučė'
+  susije_objektai: 'mentioned_place: Slučė; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1078524-1079094; hash=b55f3c9b319261f631f750d641110e2caf27bbc5d96fc7309fcaf8dfd953f65b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Slučė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lukošius Moravecas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Slučė: mention_match, place, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lukošius Moravecas" parinktas kaip owner_note_path. Targetas "Slučė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Skitų sumušimas Volynėje ir prie Slučės.md#claim-t-185769|Skitų sumušimas Volynėje ir prie Slučės]]: Lukošius Moravecas su dviem šimtais pėstininkų prie Slučės upės užpuolė siaubėjus ir juos sumušė.
 ## Reikšmingi paminėjimai
 
@@ -49,3 +59,13 @@ Lukošius Moravecas prie Slučės upės su dviem šimtais pėstininkų užpuolė
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1078524-1079094; hash=b55f3c9b319261f631f750d641110e2caf27bbc5d96fc7309fcaf8dfd953f65b; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Slučė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lukošius Moravecas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Slučė: mention_match, place, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lukošius Moravecas" parinktas kaip owner_note_path. Targetas "Slučė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

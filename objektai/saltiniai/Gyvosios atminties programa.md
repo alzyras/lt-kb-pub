@@ -23,6 +23,9 @@ p. 223, „MŪŠIO LIUDININKES ATSIMINIMAI“, LGGRT centras, „Gyvosios atmint
   teiginys: 'LGGRT centro „Gyvosios atminties programa“ pateikė mūšio liudininkės atsiminimus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d98b5a0211c5582540b5a20a4019938c77e003b53c13ef01e3c9e9d6209fb3ce; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -37,3 +40,6 @@ p. 223, „MŪŠIO LIUDININKES ATSIMINIMAI“, LGGRT centras, „Gyvosios atmint
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=d98b5a0211c5582540b5a20a4019938c77e003b53c13ef01e3c9e9d6209fb3ce; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

@@ -76,14 +76,8 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir sakinys suformuluotas taisyklingai.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46003|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Tyzenhauzo reformos buvo vienas iš svarbiausių XVIII a.
-- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46008|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos buvo vienas svarbiausių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.
-- susijęs iš [[objektai/asmenys/Anzelmas.md#claim-t-60084|Anzelmas (vyskupas, XIII a.)]]: Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184728|Jogaila (kunigaikštis, XIV–XV a.)]]: Norėdamas palengvinti maisto stokos kamuojamos Lietuvos dalią, Jogaila įsakė į Lietuvą gabenti dvidešimt laivų grūdų.
 - susijęs iš [[objektai/asmenys/Skabeika.md#claim-t-186161|Skabeika]]: Skabeika neleido ginkluotiems vyrams tą vakarą išlipti iš šieno prikrautų vežimų.
 - susijęs iš [[objektai/asmenys/Vincentas iš Šamotulų.md#claim-t-186089|Vincentas iš Šamotulų]]: Vincentas iš Šamotulų, atsidūręs dvigubame pavojuje, įsakė suversti vežimus po ledu ir atlaisvinti kelią kitiems būriams.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05221|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas kautynių metu tvarkė pulkus, davinėjo įsakymus, jodinėjo keisdamas žirgus ir atstatinėjo pralaužtas vietas.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176720|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas kautynių metu tvarkė pulkus, davinėjo įsakymus ir pralaužtas vietas atstatinėjo arba keitė naujais daliniais.
 - susijęs iš [[objektai/daiktai/Dengtos rogės ir vežimai su atsargomis.md#claim-t-87074|Dengtos rogės ir vežimai su atsargomis]]: Metraštininkai pasakojo, kad į Vilnių atvažiavo 300 įvairios žvėrienos prikrautų vežimų.
 - susijęs iš [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai.md#claim-t-77924|Gardino ekonomijos manufaktūrų gaminiai]]: Antanas Tyzenhauzas Gardino ekonomijoje įsteigė tekstilės, popieriaus, galanterijos, ginklų ir vežimų manufaktūras.
 - susijęs iš [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai.md#claim-t-40715|Geležinėmis grandinėmis kaustyti vežimai]]: Vorsklos mūšyje Timūr-Kutluko totoriai paėmė Vytauto kariuomenės gurguolę, vežimus su geležinėmis grandinėmis, patrankas, arbaletus ir daug turto.
@@ -91,6 +85,21 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Vežimai, rogės, karietos ir brikai.md#claim-t-87037|Vežimai, rogės, karietos ir brikai]]: Metraštininkai pasakojo, kad į Vilnių atvažiavo 300 įvairios žvėrienos prikrautų vežimų.
 - susijęs iš [[objektai/daiktai/Vežimai, rogės, karietos ir brikai.md#claim-t-87039|Vežimai, rogės, karietos ir brikai]]: Kęstučiui puolant Vilnių, į miestą įvairiais keliais buvo įvežta keli šimtai kailių ir šieno prikrautų vežimų su paslėptais ginkluotais vyrais.
 - susijęs iš [[objektai/grupes/Brunsbergo miestiečiai.md#claim-t-62983|Brunsbergo miestiečiai]]: Brunsbergo miestiečiai ir pilėnai priešams priešinosi užversdami pilies ir miesto prieigas vežimais bei kitais mediniais daiktais.
+- susijęs iš [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais.md#claim-t-78696|Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]: Kariuomenė stovykloje apsisupdavo amuniciją, proviantą ir kitus daiktus gabenusiais vežimais, palikdama tik kelis praėjimus.
+- susijęs iš [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais.md#claim-t-78697|Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]: Susibūrusi kariuomenė lauko stovyklą apsupdavo amunicijos ir provianto vežimais, palikdama tik kelis saugomus praėjimus.
+- susijęs iš [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais.md#claim-t-78699|Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]: Vežimais apsuptoje kariuomenės lauko stovykloje prie kelių praėjimų statydavo artilerijos pabūklus, o už vežimų iškasdavo ilgą griovį.
+- susijęs iš [[objektai/paprociai/Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose.md#claim-t-183826|Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose]]: Kęstutis, puldamas Vilnių, į miestą pasiuntė riterius, persirengusius pirkliais, ir ginkluotus vyrus, paslėptus kailių bei šieno vežimuose.
+- susijęs iš [[objektai/paprociai/Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose.md#claim-t-87174|Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose]]: Kęstutis, puldamas Vilnių, į miestą pasiuntė riterius, persirengusius pirkliais, ir ginkluotus vyrus, paslėptus kailių bei šieno vežimuose.
+- susijęs iš Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.): Lenkijos ir Lietuvos kariuomenė stovyklose apsisupdavo amunicijos, provianto ir kitų reikmenų vežimais, palikdama tik kelis praėjimus.
+- susijęs iš Vysla: Jogaila įsakė dvidešimt didelių laivų su grūdais plukdyti Vysla į Prūsijos pasienį, kad maistas vežimais pasiektų Lietuvą.
+- susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-113628|gurguolė]]: Timūr-Kutluko totoriai paėmė gurguolę su vežimais, grandinėmis, patrankomis, arbaletais ir kitu turtu.
+- susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58805|pilėnas pilėnai]]: Brunsbergo miestiečiai ir pilėnai gynė pilį bei miestą, užversdami galimas priešo įsibrovimo vietas vežimais ir mediniais daiktais.
+- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46003|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Tyzenhauzo reformos buvo vienas iš svarbiausių XVIII a.
+- susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46008|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos buvo vienas svarbiausių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.
+- susijęs iš [[objektai/asmenys/Anzelmas.md#claim-t-60084|Anzelmas (vyskupas, XIII a.)]]: Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.
+- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184728|Jogaila (kunigaikštis, XIV–XV a.)]]: Norėdamas palengvinti maisto stokos kamuojamos Lietuvos dalią, Jogaila įsakė į Lietuvą gabenti dvidešimt laivų grūdų.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05221|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas kautynių metu tvarkė pulkus, davinėjo įsakymus, jodinėjo keisdamas žirgus ir atstatinėjo pralaužtas vietas.
+- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176720|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas kautynių metu tvarkė pulkus, davinėjo įsakymus ir pralaužtas vietas atstatinėjo arba keitė naujais daliniais.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120185|Karaimai]]: Trakuose gyvenę karaimai vertėsi daržininkyste ir agurkus vežė į Vilniaus turgus.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120186|Karaimai]]: Karaimų atvykimas į Lietuvą priskiriamas Vytauto viešpatavimo laikams.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184503|Kryžiuočių ordinas]]: Kryžiuočiai užgrobė Vysla gabentus grūdus, kuriuos Jogaila buvo skyręs nuniokotos Lietuvos daliai palengvinti.
@@ -103,16 +112,10 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje.md#claim-t-87210|Karaimų priglobimas ir Trakų daržininkystė su agurkų prekyba Vilniuje]]: Balińskis karaimų atvykimą į Lietuvą siejo su Vytauto laikais, nes Vytautas priimdavo ir priglobdavo ateivius iš rytų kraštų.
 - susijęs iš [[objektai/paprociai/Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas.md#claim-t-103837|Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas]]: Prieš kautynes karalius šventino riterius ir priėmė Ordino pasiuntinius, o mūšio metu buvo saugomas 60 raitelių.
 - susijęs iš [[objektai/paprociai/Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas.md#claim-t-103838|Karaliaus priešmūšinis ceremonialas riterių šventinimas ir pasiuntinių priėmimas]]: Pagal Dlugošą, karalius formaliai laikytas vyriausiuoju vadu, šventino riterius ir priėmė Ordino pasiuntinius.
-- susijęs iš [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais.md#claim-t-78696|Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]: Kariuomenė stovykloje apsisupdavo amuniciją, proviantą ir kitus daiktus gabenusiais vežimais, palikdama tik kelis praėjimus.
-- susijęs iš [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais.md#claim-t-78697|Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]: Susibūrusi kariuomenė lauko stovyklą apsupdavo amunicijos ir provianto vežimais, palikdama tik kelis saugomus praėjimus.
 - susijęs iš [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais.md#claim-t-78698|Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]: ) Lenkijos ir Lietuvos kariuomenių stovyklos aprašymo.
-- susijęs iš [[objektai/paprociai/Kariuomenės lauko stovyklos įrengimas apsupant vežimais.md#claim-t-78699|Kariuomenės lauko stovyklos įrengimas apsupant vežimais]]: Vežimais apsuptoje kariuomenės lauko stovykloje prie kelių praėjimų statydavo artilerijos pabūklus, o už vežimų iškasdavo ilgą griovį.
-- susijęs iš [[objektai/paprociai/Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose.md#claim-t-183826|Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose]]: Kęstutis, puldamas Vilnių, į miestą pasiuntė riterius, persirengusius pirkliais, ir ginkluotus vyrus, paslėptus kailių bei šieno vežimuose.
-- susijęs iš [[objektai/paprociai/Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose.md#claim-t-87174|Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose]]: Kęstutis, puldamas Vilnių, į miestą pasiuntė riterius, persirengusius pirkliais, ir ginkluotus vyrus, paslėptus kailių bei šieno vežimuose.
 - susijęs iš [[objektai/paprociai/Valstiečių duoklės ir prievolės.md#claim-t-97142|Valstiečių duoklės ir prievolės]]: Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais anksti mokėjo sidabrinę duoklę pinigais.
 - susijęs iš A. Vijūko-Kojelavičiaus Lietuvos istorija: Kojelavičius sekė Strijkovskiu pasakojime apie Kęstučio gudrybes puolant Vilnių.
 - susijęs iš Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.): Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas yra 1575 m. Venecijos pasiuntinio Girolamo Lippomano teksto ištrauka.
-- susijęs iš Lenkijos ir Lietuvos kariuomenių stovyklos aprašymas (1575 m.): Lenkijos ir Lietuvos kariuomenė stovyklose apsisupdavo amunicijos, provianto ir kitų reikmenų vežimais, palikdama tik kelis praėjimus.
 - susijęs iš M. Strijkovskio kronika: Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, įskaitant persirengusių karių pasiuntimą į miestą.
 - susijęs iš Pakartoto Įstatymo knyga: Pakartoto Įstatymo knygos žodžiais buvo guodžiami į karą einantys žmonės, raginant nebijoti gausesnės priešų kariuomenės.
 - susijęs iš Žygimanto Augusto paliaubų aktas: Kojelavičiaus vertinimu, Žygimanto Augusto paliaubų aktas galutinai pakirto Lietuvos valstybės jėgas.
@@ -125,9 +128,6 @@ Nenurodyta
 - susijęs iš Pasarė: Brunsbergo pilis ir miestas buvo pastatyti Pasarės, vadintos Serijos upe, žemupyje esančioje saloje.
 - susijęs iš Prūsija: Jogaila įsakė dvidešimt laivų su grūdais Vysla nuplukdyti į Prūsijos pasienį, kad maistas būtų nugabentas į Lietuvą.
 - susijęs iš Valkininkai: Nugalėtojai su belaisviais, 8 patrankomis ir apie šimtu gurguolės vežimų vakare grįžo į Valkininkus.
-- susijęs iš Vysla: Jogaila įsakė dvidešimt didelių laivų su grūdais plukdyti Vysla į Prūsijos pasienį, kad maistas vežimais pasiektų Lietuvą.
-- susijęs iš [[objektai/zodynas/gurguolė.md#claim-t-113628|gurguolė]]: Timūr-Kutluko totoriai paėmė gurguolę su vežimais, grandinėmis, patrankomis, arbaletais ir kitu turtu.
-- susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58805|pilėnas pilėnai]]: Brunsbergo miestiečiai ir pilėnai gynė pilį bei miestą, užversdami galimas priešo įsibrovimo vietas vežimais ir mediniais daiktais.
 ## Reikšmingi paminėjimai
 
 - c-001

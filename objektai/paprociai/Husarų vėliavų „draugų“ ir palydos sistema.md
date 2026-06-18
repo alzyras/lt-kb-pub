@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-71798
   teiginys: 'Husarų „draugų“ tarnai nestodavo į rikiuotę, užsiimdavo ūkine veikla ir saugodavo stovyklą.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, turi aiškų subjektą ir predikatą, remiasi citatos pradžia.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]'
   pagrindžia:
     - c-002
 
@@ -71,7 +71,7 @@ Nenurodyta
 - t-004
   global_id: t-71802
   teiginys: 'Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lyda'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lyda'
   pagrindžia:
     - c-001
 
@@ -83,6 +83,16 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e1423155852492573ee72a7a772cdfb03e369d92a9d9542ee227a1e38d61f24e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Husarų vėliavų „draugų“ ir palydos sistema: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Husarų vėliavų „draugų“ ir palydos sistema" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -184,4 +194,14 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e1423155852492573ee72a7a772cdfb03e369d92a9d9542ee227a1e38d61f24e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Husarų vėliavų „draugų“ ir palydos sistema: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Husarų vėliavų „draugų“ ir palydos sistema" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003

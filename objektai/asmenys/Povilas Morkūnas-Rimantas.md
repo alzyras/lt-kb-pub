@@ -35,6 +35,16 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Povilo Morkūno-Rimanto pareigas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=83b2075091555e9a03c2b24eac3ebc416511a7bbe7f92ee0a8413a6f2e403ad5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maironis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Povilas Morkūnas-Rimantas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maironis: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Povilas Morkūnas-Rimantas" parinktas kaip owner_note_path. Targetas "Maironis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-183759"></a>
 - t-002
@@ -47,6 +57,16 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Juozas Paliūnas-Rytas|Juozas Paliūnas-Rytas]]; mentioned_person: [[objektai/asmenys/Petras Bartkus-Žadgaila|Petras Bartkus-Žadgaila]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1000066-1000475; hash=760da8c0e159dddb1024ae8c372df9610cf502c797e2116dd960a6866bc692f9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Juozas Paliūnas-Rytas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Povilas Morkūnas-Rimantas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Juozas Paliūnas-Rytas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Povilas Morkūnas-Rimantas" parinktas kaip owner_note_path. Targetas "Juozas Paliūnas-Rytas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -85,4 +105,24 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=83b2075091555e9a03c2b24eac3ebc416511a7bbe7f92ee0a8413a6f2e403ad5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Maironis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Povilas Morkūnas-Rimantas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Maironis: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Povilas Morkūnas-Rimantas" parinktas kaip owner_note_path. Targetas "Maironis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1000066-1000475; hash=760da8c0e159dddb1024ae8c372df9610cf502c797e2116dd960a6866bc692f9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Juozas Paliūnas-Rytas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Povilas Morkūnas-Rimantas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Juozas Paliūnas-Rytas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Povilas Morkūnas-Rimantas" parinktas kaip owner_note_path. Targetas "Juozas Paliūnas-Rytas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

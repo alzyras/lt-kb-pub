@@ -29,7 +29,7 @@ tags:
   global_id: t-06878
   teiginys: 'Gediminas raštuose save titulavo Lietuvos ir daugelio rusų karaliumi.'
   sudarymo_pagrindimas: 'Boilerplate pakeistas tiesiogiai citata paremtu faktu apie titulavimąsi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
 

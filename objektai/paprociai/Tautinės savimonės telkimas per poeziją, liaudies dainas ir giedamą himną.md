@@ -51,12 +51,22 @@ Nenurodyta
   global_id: t-75398
   teiginys: 'Lietuvių tautinę savimonę žadino Vinco Kudirkos poezija, satyriniai apsakymai ir Žemaitės realistinė socialinė proza.'
   sudarymo_pagrindimas: 'Išplėsta santrumpa ir išlaikytas citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaimas'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaimas'
   temporaliniai_duomenys: 'įvykio data: 1895 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėsta santrumpa ir išlaikytas citatos palaikomas faktas.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=88dda01dbdcbc362bfccaaaeda698c30957b7e636f945c53ea06c5ad3f93e460; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vincas Kudirka: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vincas Kudirka: mention_match, author, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną" parinktas kaip owner_note_path. Targetas "Vincas Kudirka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-75399"></a>
 - t-002
@@ -69,6 +79,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7f8d799b99f6b108efa74ebab9651559e7add8196ed5ec56dde4442a28373eda; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Georgas (liet. Jurgis) Zauerveinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Georgas (liet. Jurgis) Zauerveinas: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną" parinktas kaip owner_note_path. Targetas "Georgas (liet. Jurgis) Zauerveinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-75401"></a>
 - t-003
@@ -91,6 +111,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir pagrįstas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=88dda01dbdcbc362bfccaaaeda698c30957b7e636f945c53ea06c5ad3f93e460; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -136,6 +166,36 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=88dda01dbdcbc362bfccaaaeda698c30957b7e636f945c53ea06c5ad3f93e460; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7f8d799b99f6b108efa74ebab9651559e7add8196ed5ec56dde4442a28373eda; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Georgas (liet. Jurgis) Zauerveinas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Georgas (liet. Jurgis) Zauerveinas: mention_match, author
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną" parinktas kaip owner_note_path. Targetas "Georgas (liet. Jurgis) Zauerveinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=88dda01dbdcbc362bfccaaaeda698c30957b7e636f945c53ea06c5ad3f93e460; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vincas Kudirka: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Vincas Kudirka: mention_match, author, gap=24
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną" parinktas kaip owner_note_path. Targetas "Vincas Kudirka" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

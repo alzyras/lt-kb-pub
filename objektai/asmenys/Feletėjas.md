@@ -28,6 +28,16 @@ Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo
   temporalinis_llm_pakomentavimas: 'Citata palaiko Feletėjo statusą ir patekimą į nelaisvę, bet pradinė formuluotė neaiški.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 86589-87283; hash=3e969446b1160eb3fb73c8d838be2a03d3684bb0adb63b4a05bf1738f07639c1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gotai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Feletėjas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gotai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Feletėjas" parinktas kaip owner_note_path. Targetas "Gotai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Fridrichas.md#claim-t-184698|Fridrichas]]: Fridrichas, rugijų karaliaus Feletėjo sūnus, buvo išvytas po rugijų pralaimėjimo.
 ## Reikšmingi paminėjimai
 
@@ -58,3 +68,13 @@ Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 86589-87283; hash=3e969446b1160eb3fb73c8d838be2a03d3684bb0adb63b4a05bf1738f07639c1; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gotai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Feletėjas: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Gotai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Feletėjas" parinktas kaip owner_note_path. Targetas "Gotai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

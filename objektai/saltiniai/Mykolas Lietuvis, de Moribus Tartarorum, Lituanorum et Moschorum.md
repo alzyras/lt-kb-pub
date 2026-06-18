@@ -30,9 +30,19 @@ amziai:
   global_id: t-88203
   teiginys: 'Mykolo Lietuvio veikale Kafa prie Juodosios jūros minima kaip svarbiausias Lietuvos prekybinis uostas, jungęs ją su Rytais.'
   sudarymo_pagrindimas: 'Citata pagrindžia teiginį apie veikale nurodytą prekybos ryšį.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Kafa; mentioned_place: Kijevas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kafa; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Kijevas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 316271-316916; hash=fb37fe17936fd7d01e40f4271397ff659b9dd12d17fffaabf7dea6c4ed700fda; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mykolas Lietuvis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas Lietuvis, de Moribus Tartarorum, Lituanorum et Moschorum: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Mykolas Lietuvis: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas Lietuvis, de Moribus Tartarorum, Lituanorum et Moschorum" parinktas kaip owner_note_path. Targetas "Mykolas Lietuvis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-88204"></a>
 - t-002
@@ -99,4 +109,14 @@ amziai:
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 316271-316916; hash=fb37fe17936fd7d01e40f4271397ff659b9dd12d17fffaabf7dea6c4ed700fda; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Mykolas Lietuvis: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mykolas Lietuvis, de Moribus Tartarorum, Lituanorum et Moschorum: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Mykolas Lietuvis: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mykolas Lietuvis, de Moribus Tartarorum, Lituanorum et Moschorum" parinktas kaip owner_note_path. Targetas "Mykolas Lietuvis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002

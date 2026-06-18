@@ -43,7 +43,7 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
   global_id: t-78743
   teiginys: 'Arvydas Anušauskas yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autorius.'
   sudarymo_pagrindimas: 'Citata pateikia autoriaus vardą prie teksto pavadinimo.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]'
   pagrindžia:
     - c-002
 
@@ -67,20 +67,40 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Loreta Uzdraitė|Loreta Uzdraitė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1070795-1071493; hash=6db5f2bb9290a0f13570c02414c13928c1c4573a1b4b4bd00b606ce2b0482f4a; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Arvydas Anušauskas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Arvydas Anušauskas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-78746"></a>
 - t-005
   global_id: t-78746
   teiginys: 'Arvydas Anušauskas gimė 1963 m. ir 1989 m. baigė Vilniaus universitetą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas biografinis sakinys, paremtas citata.'
-  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1963 m.; įvykio data: 1984 m.; įvykio data: 1989 m.; įvykio data: 1998 m.; įvykio data: 2000 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas biografinis sakinys, paremtas citata.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e0de180bae8a921a51393b035cb39fe25f59cb2c7579ebbe064d3954a0acd1f1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Arvydas Anušauskas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=79
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Arvydas Anušauskas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78782|Loreta Uzdraitė]]: Loreta Uzdraitė, Arvydas Anušauskas ir Karolis Zikaras yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai.
+- susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
 - susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
 ## Reikšmingi paminėjimai
 
@@ -106,6 +126,16 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
   statusas: verified
   pagrindžia:
     - t-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e0de180bae8a921a51393b035cb39fe25f59cb2c7579ebbe064d3954a0acd1f1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Arvydas Anušauskas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=79
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Arvydas Anušauskas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-002
@@ -136,4 +166,14 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
   statusas: verified
   pagrindžia:
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 1070795-1071493; hash=6db5f2bb9290a0f13570c02414c13928c1c4573a1b4b4bd00b606ce2b0482f4a; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Arvydas Anušauskas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=23
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Arvydas Anušauskas" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001

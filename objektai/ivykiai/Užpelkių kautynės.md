@@ -43,18 +43,28 @@ Nenurodyta
   global_id: t-39139
   teiginys: '1949 m. rugpjūčio 13 d. Radviliškio rajono Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.'
   sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Juozas Paliūnas-Rytas|Juozas Paliūnas-Rytas]]; mentioned_person: [[objektai/asmenys/Petras Bartkus-Žadgaila|Petras Bartkus-Žadgaila]]; mentioned_place: Užpelkiai'
+  susije_objektai: 'mentioned_place: Užpelkiai; mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Juozas Paliūnas-Rytas|Juozas Paliūnas-Rytas]]; mentioned_person: [[objektai/asmenys/Petras Bartkus-Žadgaila|Petras Bartkus-Žadgaila]]'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, gramatiškas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Juozas Paliūnas-Rytas.md#claim-t-40238|Juozas Paliūnas-Rytas]]: Maironio rinktinės vadas Juozas Paliūnas-Rytas per reorganizaciją tapo Prisikėlimo apygardos vado pavaduotoju.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 999970-1000475; hash=6a581e3148eaaf41f576c1acac1d58d597fa5a26455a760d856b11b1ac16c51e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Užpelkiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Užpelkių kautynės: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Užpelkiai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užpelkių kautynės" parinktas kaip owner_note_path. Targetas "Užpelkiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Laurynas Mingilas-Džiugas.md#claim-t-79101|Laurynas Mingilas-Džiugas]]: Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.
 - susijęs iš [[objektai/asmenys/Laurynas Mingilas-Džiugas.md#claim-t-79102|Laurynas Mingilas-Džiugas]]: Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.
-- susijęs iš [[objektai/asmenys/Povilas Morkūnas-Rimantas.md#claim-t-40398|Povilas Morkūnas-Rimantas]]: Povilas Morkūnas-Rimantas per Prisikėlimo apygardos reorganizaciją tapo jos vadu.
 - susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
 - susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
+- susijęs iš [[objektai/asmenys/Juozas Paliūnas-Rytas.md#claim-t-40238|Juozas Paliūnas-Rytas]]: Maironio rinktinės vadas Juozas Paliūnas-Rytas per reorganizaciją tapo Prisikėlimo apygardos vado pavaduotoju.
+- susijęs iš [[objektai/asmenys/Povilas Morkūnas-Rimantas.md#claim-t-40398|Povilas Morkūnas-Rimantas]]: Povilas Morkūnas-Rimantas per Prisikėlimo apygardos reorganizaciją tapo jos vadu.
 - susijęs iš [[objektai/grupes/Agentai-smogikai.md#claim-t-40845|Agentai-smogikai]]: MGB-KGB agentai-smogikai atliko svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
 - susijęs iš [[objektai/grupes/Maironio rinktinė.md#claim-t-41085|Maironio rinktinė]]: Prisikėlimo apygardos reorganizacijos metu Maironio rinktinės vadas Juozas Paliūnas-Rytas tapo apygardos vado pavaduotoju.
 - susijęs iš [[objektai/zodynas/agentas-smogikas.md#claim-t-42429|agentas-smogikas]]: MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.
@@ -81,3 +91,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 999970-1000475; hash=6a581e3148eaaf41f576c1acac1d58d597fa5a26455a760d856b11b1ac16c51e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Užpelkiai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Užpelkių kautynės: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Užpelkiai: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Užpelkių kautynės" parinktas kaip owner_note_path. Targetas "Užpelkiai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

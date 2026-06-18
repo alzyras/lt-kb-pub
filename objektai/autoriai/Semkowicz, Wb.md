@@ -32,6 +32,9 @@ Semkowicz, Wb.: Hanul, namiestnik wileński i jego ród , AW, t.
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8d1f3a569b0cc07503517a3b3f82b95d0c7f6f43fb5bfdbdd4da102cc4a261e4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +50,6 @@ Semkowicz, Wb.: Hanul, namiestnik wileński i jego ród , AW, t.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8d1f3a569b0cc07503517a3b3f82b95d0c7f6f43fb5bfdbdd4da102cc4a261e4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

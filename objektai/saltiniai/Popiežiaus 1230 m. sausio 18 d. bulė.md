@@ -42,6 +42,16 @@ Dusburgietis teigia, kad tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Du
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkretų teiginį apie bulės nurodymą Tepeno vertinime.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ef3899237f0f775009915bb9b22c3dd98b480a11d1c8da5dd26b9006f9123d43; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> M. Tepenas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Popiežiaus 1230 m. sausio 18 d. bulė: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: M. Tepenas: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Popiežiaus 1230 m. sausio 18 d. bulė" parinktas kaip owner_note_path. Targetas "M. Tepenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -63,3 +73,13 @@ Dusburgietis teigia, kad tepenas, leisdamas 1861 m. kroniką, pažymėjo, kad Du
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ef3899237f0f775009915bb9b22c3dd98b480a11d1c8da5dd26b9006f9123d43; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> M. Tepenas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Popiežiaus 1230 m. sausio 18 d. bulė: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: M. Tepenas: mention_match, author, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Popiežiaus 1230 m. sausio 18 d. bulė" parinktas kaip owner_note_path. Targetas "M. Tepenas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

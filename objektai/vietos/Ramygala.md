@@ -25,6 +25,16 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Krekenava'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=85bf2bcdde382e9982b22a7e3ba3b830c24fa4e037344236d9593a3cebe1bd50; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krekenava: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ramygala: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krekenava: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ramygala" parinktas kaip owner_note_path. Targetas "Krekenava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-42088"></a>
 - t-002
@@ -32,6 +42,9 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
   teiginys: 'Pagal nurodytą tvarką dalinys 2 val. turėjo būti Ramygaloje, o 4 val. vykti į šiaurę vieškeliu Ramygala-Panevėžys.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a42dea2c33a882a46776d01e768f75250d8bb5ba8d8434923d0e1fb7f5f6d06e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš Krekenava: Gegužės 13 d. Panevėžio rinktinės pajėgos susitelkė Krekenavos ir Ramygalos rajonuose.
 ## Reikšmingi paminėjimai
 
@@ -69,4 +82,17 @@ Rinktinės pajėgos gegužės 13 d. susitelkė Krekenavos-Ramygalos rajonuose. -
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=85bf2bcdde382e9982b22a7e3ba3b830c24fa4e037344236d9593a3cebe1bd50; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Krekenava: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Ramygala: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Krekenava: mention_match, place, gap=14
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Ramygala" parinktas kaip owner_note_path. Targetas "Krekenava" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a42dea2c33a882a46776d01e768f75250d8bb5ba8d8434923d0e1fb7f5f6d06e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

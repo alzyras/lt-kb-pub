@@ -37,6 +37,16 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0b9be1c7907fa47ac91ec9bbc9e710aeb704d2a283ef07cae0af0b31c9c384ef; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Straisbergas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Straisbergas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-185157"></a>
 - t-002
@@ -49,14 +59,24 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Konradas Žakas|Konradas Žakas]]; mentioned_place: Kulmas'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-184104|Konradas Žakas]]: Konradas Žakas, Kulmo krašto komtūras, 1298 m. pavijo Lietuvos vyrus ir išvadavo į nelaisvę paimtus krikščionis.
-- susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-60044|Konradas Žakas]]: Konradas Žakas, Kulmo krašto komtūras, 1298 m. pavijo Lietuvos vyrus ir išvadavo į nelaisvę paimtus krikščionis.
-- susijęs iš [[objektai/daiktai/Krikšto vandens indas.md#claim-t-59690|Krikšto vandens indas (krikštas, XIII a.)]]: 1298 m. užpuolus Straisbergą, vienas lietuvis išniekino krikšto vandens indą, pridergdamas į jį.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 304352-304865; hash=f53170af1caf352a024c7b7fa5b52e504cc135f099ccad3f758224c4b5c9df43; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konradas Žakas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Straisbergas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Konradas Žakas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Straisbergas" parinktas kaip owner_note_path. Targetas "Konradas Žakas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179339|Lietuviai]]: 1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus.
 - susijęs iš [[objektai/ivykiai/Straisbergo miesto sunaikinimas (1298 m. rugsėjo 29 d.).md#claim-t-183963|Straisbergo miesto sunaikinimas (1298 m. rugsėjo 29 d.)]]: 1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus.
 - susijęs iš [[objektai/ivykiai/Straisbergo miesto sunaikinimas (1298 m. rugsėjo 29 d.).md#claim-t-62484|Straisbergo miesto sunaikinimas (1298 m. rugsėjo 29 d.)]]: 1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus.
 - susijęs iš [[objektai/ivykiai/Vytenio žygis į Prūsiją ir Straisbergo apiplėšimas.md#claim-t-185791|Vytenio žygis į Prūsiją ir Straisbergo apiplėšimas]]: Per žygį į Prūsiją lietuviai rugsėjo pabaigoje per šv. Mykolą apiplėšė Straisbergo miestą, kur žuvo daug bažnyčiose susirinkusių žmonių.
 - susijęs iš [[objektai/paprociai/Šv. Mykolo dienos bažnyčių lankymas.md#claim-t-185928|Šv. Mykolo dienos bažnyčių lankymas]]: Per šv. Mykolo dieną Straisberge žuvo daug į bažnyčias susirinkusių žmonių, kai lietuviai apiplėšė miestą.
+- susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-184104|Konradas Žakas]]: Konradas Žakas, Kulmo krašto komtūras, 1298 m. pavijo Lietuvos vyrus ir išvadavo į nelaisvę paimtus krikščionis.
+- susijęs iš [[objektai/asmenys/Konradas Žakas.md#claim-t-60044|Konradas Žakas]]: Konradas Žakas, Kulmo krašto komtūras, 1298 m. pavijo Lietuvos vyrus ir išvadavo į nelaisvę paimtus krikščionis.
+- susijęs iš [[objektai/daiktai/Krikšto vandens indas.md#claim-t-59690|Krikšto vandens indas (krikštas, XIII a.)]]: 1298 m. užpuolus Straisbergą, vienas lietuvis išniekino krikšto vandens indą, pridergdamas į jį.
 - susijęs iš [[objektai/zodynas/dykra.md#claim-t-89548|dykra]]: Konradas Žakas persekiojo Lietuvos užpuolikus ligi pat dykrų ir išvadavo jų paimtus krikščionis.
 - susijęs iš [[objektai/zodynas/dykra.md#claim-t-89553|dykra]]: Konradas Žakas persekiojo Lietuvos užpuolikus ligi pat dykrų, išvadavo belaisvius krikščionis ir beveik visus užpuolikus išžudė.
 ## Reikšmingi paminėjimai
@@ -98,4 +118,24 @@ Dusburgietis teigia, kad apie Straisbergo miesto sugriovimą 1298 metais Tais pa
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=0b9be1c7907fa47ac91ec9bbc9e710aeb704d2a283ef07cae0af0b31c9c384ef; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kulmas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Straisbergas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kulmas: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Straisbergas" parinktas kaip owner_note_path. Targetas "Kulmas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 304352-304865; hash=f53170af1caf352a024c7b7fa5b52e504cc135f099ccad3f758224c4b5c9df43; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Konradas Žakas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Straisbergas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Konradas Žakas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Straisbergas" parinktas kaip owner_note_path. Targetas "Konradas Žakas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

@@ -25,6 +25,9 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   sudarymo_pagrindimas: 'Perrašyta glaustesniu enciklopediniu sakiniu apie protestantus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b8a7978759ebed469b1260e947d22c7ccacd31a2ebad5996fdab0fed6fbc6ab4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-182919"></a>
 - t-002
@@ -36,15 +39,30 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   sudarymo_pagrindimas: 'Pašalintas vertinamasis kontekstas apie katalikus ir paliktas aiškus faktas apie protestantus.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-82311|Gabrielius Bekešas]]: Gabrieliui Bekešui po Astiko Varšuvos seime pagal paveldėjimo teisę buvo atiduotas Alantos dvaras.
-- susijęs iš [[objektai/asmenys/Tšecieskis.md#claim-t-87871|Tšecieskis]]: Tšecieskis buvo vienas iš talentingų reformatų, kuriems nepavyko sutelkti pakankamai stiprių pajėgų kovai su jėzuitais.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 695213-695421; hash=6a52b7d41b5d6ae6b47894e70088a0663c1b82aa81248ee88b3b812f16c3d62b; match=exact
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114004|Valerijonas Protasevičius (vyskupas)]]: Vilniaus vyskupas Valerijonas Protasevičius siekė sutrukdyti protestantų ketinimui įkurti kolegiją.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114010|Valerijonas Protasevičius (vyskupas)]]: Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui Vilniuje įkurti kolegiją.
+- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116730|Katalikų Bažnyčia]]: Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją.
+- susijęs iš [[objektai/posakiai/Vilnius tapo žodžio ir rašto rungtynių lauku.md#claim-t-54498|Vilnius tapo žodžio ir rašto rungtynių lauku]]: Stepono Batoro laikais jėzuitų ir protestantų polemika pavertė Vilnių žodžio ir rašto rungtynių lauku.
+- susijęs iš Brasta: Brastoje buvo įkurta protestantų mokykla, o pradžios mokyklų protestantai turėjo beveik kiekvienoje savo parapijoje.
+- susijęs iš Kėdainiai: Kėdainių mokykla išgarsėjo, kai Radvilos Kėdainius darė protestantų kultūros centru.
+- susijęs iš Mažoji Lietuva: Žmonių iš Mažosios Lietuvos lietuviškai skelbtas protestantizmas buvo silpnas ir trumpas judėjimas.
+- susijęs iš Semetyčiai: Semetyčiuose buvo įkurta protestantų mokykla.
+- susijęs iš Sluckas: Slucke buvo įkurta protestantų mokykla, o pradžios mokyklų buvo beveik kiekvienoje protestantų parapijoje.
+- susijęs iš Sluckas: Slucke buvo įkurta protestantų mokykla.
+- susijęs iš Vilnius: Stepono Batoro laikais Vilnius tapo katalikų ir protestantų žodžio bei rašto varžybų lauku.
+- susijęs iš Vilnius: 1538 m. Abraomas Kulvietis Vilniuje atidarė protestantiškąją mokyklą, bet netrukus buvo priverstas ją uždaryti ir pasišalinti.
+- susijęs iš Vokietija: Vokietijos universitetuose besimokę didikų vaikai protestantų mokslą parsiveždavo į Lietuvą.
+- susijęs iš Vokietija: Į Vokietijos protestantiškus universitetus mokytis išvykę jaunuoliai dažnai grįždavo protestantai.
+- susijęs iš Vokietija: Į Vokietijos protestantiškus universitetus išvykę studentai dažnai grįždavo protestantais.
+- susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-82311|Gabrielius Bekešas]]: Gabrieliui Bekešui po Astiko Varšuvos seime pagal paveldėjimo teisę buvo atiduotas Alantos dvaras.
+- susijęs iš [[objektai/asmenys/Tšecieskis.md#claim-t-87871|Tšecieskis]]: Tšecieskis buvo vienas iš talentingų reformatų, kuriems nepavyko sutelkti pakankamai stiprių pajėgų kovai su jėzuitais.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114012|Valerijonas Protasevičius (vyskupas)]]: Valerijonas Protasevičius buvo Vilniaus vyskupas.
 - susijęs iš [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai.md#claim-t-101239|Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]: XVI a. šeštajame ir septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias.
 - susijęs iš [[objektai/grupes/Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai.md#claim-t-183129|Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai]]: Antruoju reformacijos etapu LDK didikai rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio ir Katalikų bažnyčios įtaką.
 - susijęs iš [[objektai/grupes/Kalvinai.md#claim-t-01343|Kalvinai]]: Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
-- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116730|Katalikų Bažnyčia]]: Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116734|Katalikų Bažnyčia]]: Lietuvos didikai reformacijos antruoju etapu rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčios įtaką.
 - susijęs iš [[objektai/grupes/Lietuvos evangelikai reformatai.md#claim-t-45013|Lietuvos evangelikai reformatai]]: XVI a. šeštajame ir septintajame dešimtmečiais beveik visi Lietuvos didikai buvo perėję į reformaciją, o kalvinizmas vėliau pradėjo nykti.
 - susijęs iš [[objektai/grupes/Liuterionys.md#claim-t-01413|Liuterionys]]: Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
@@ -53,26 +71,14 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
 - susijęs iš [[objektai/ivykiai/Vilniaus universiteto įkūrimas.md#claim-t-71775|Vilniaus universiteto įkūrimas]]: Livonijos karo metu Steponas Batoras rūpinosi Vilniaus universiteto kūrimu.
 - susijęs iš [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas.md#claim-t-183306|Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]: Reformacijos antrajame etape didikai rinkosi kalvinizmą, nes jis tiko jų siekiui silpninti didžiojo kunigaikščio ir Katalikų bažnyčios įtaką.
 - susijęs iš [[objektai/paprociai/Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas.md#claim-t-54226|Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas]]: XVI a. šeštajame ir septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias.
-- susijęs iš [[objektai/posakiai/Vilnius tapo žodžio ir rašto rungtynių lauku.md#claim-t-54498|Vilnius tapo žodžio ir rašto rungtynių lauku]]: Stepono Batoro laikais jėzuitų ir protestantų polemika pavertė Vilnių žodžio ir rašto rungtynių lauku.
 - susijęs iš [[objektai/posakiai/Vilnius tapo žodžio ir rašto rungtynių lauku.md#claim-t-54499|Vilnius tapo žodžio ir rašto rungtynių lauku]]: Vilniaus kaip žodžio ir rašto rungtynių lauko vaizdinys siejamas su jėzuitų ir disidentų kova dėl įtakos Lietuvoje.
 - susijęs iš [[objektai/posakiai/„aidint patrankoms, mūzos tyli“.md#claim-t-26528|„aidint patrankoms, mūzos tyli“]]: Livonijos karo metu Steponas Batoras rūpinosi Vilniaus universiteto, vadinamo mūzų prieglobsčiu, kūrimu.
 - susijęs iš Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: Varšuvos seime Gabrieliui Bekešui pagal paveldėjimo teisę buvo atiduotas po Astiko likęs Alantos dvaras.
 - susijęs iš Biržai: Švedų antplūdžio metu sunykus protestantų mokykloms, Biržuose liko silpna mokyklėlė.
-- susijęs iš Brasta: Brastoje buvo įkurta protestantų mokykla, o pradžios mokyklų protestantai turėjo beveik kiekvienoje savo parapijoje.
-- susijęs iš Kėdainiai: Kėdainių mokykla išgarsėjo, kai Radvilos Kėdainius darė protestantų kultūros centru.
-- susijęs iš Mažoji Lietuva: Žmonių iš Mažosios Lietuvos lietuviškai skelbtas protestantizmas buvo silpnas ir trumpas judėjimas.
 - susijęs iš Mažoji Lietuva: 1921 m. lapkričio 11 d. Steigiamasis Seimas vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį, demonstruodamas vienybę su Mažąja Lietuva.
-- susijęs iš Semetyčiai: Semetyčiuose buvo įkurta protestantų mokykla.
 - susijęs iš Sluckas: Į karaliaus stovyklą atbėgę žmonės teigė, kad dvidešimt tūkstančių priešų liko prie Slucko.
-- susijęs iš Sluckas: Slucke buvo įkurta protestantų mokykla, o pradžios mokyklų buvo beveik kiekvienoje protestantų parapijoje.
-- susijęs iš Sluckas: Slucke buvo įkurta protestantų mokykla.
 - susijęs iš Vilnius: Mikalojus Radvila Juodasis Lukiškėse pastatė kalvinų bažnyčią ir traukė į ją vilniečius.
-- susijęs iš Vilnius: Stepono Batoro laikais Vilnius tapo katalikų ir protestantų žodžio bei rašto varžybų lauku.
 - susijęs iš Vilnius: Karalius Vilniuje užkirto kelią piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo.
-- susijęs iš Vilnius: 1538 m. Abraomas Kulvietis Vilniuje atidarė protestantiškąją mokyklą, bet netrukus buvo priverstas ją uždaryti ir pasišalinti.
-- susijęs iš Vokietija: Vokietijos universitetuose besimokę didikų vaikai protestantų mokslą parsiveždavo į Lietuvą.
-- susijęs iš Vokietija: Į Vokietijos protestantiškus universitetus mokytis išvykę jaunuoliai dažnai grįždavo protestantai.
-- susijęs iš Vokietija: Į Vokietijos protestantiškus universitetus išvykę studentai dažnai grįždavo protestantais.
 - susijęs iš [[objektai/zodynas/disidentai reformatai reformatoriai.md#claim-t-86464|disidentai reformatai reformatoriai]]: Lietuvos disidentai reformatai nepajėgė sutelkti tokių stiprių pajėgų kovai su Vilniaus jėzuitais.
 - susijęs iš [[objektai/zodynas/karakolė.md#claim-t-183710|karakolė]]: Karakolės metu priekinė šaulių eilė, iššovusi salvę, pasisukdavo dešinėn, grįždavo į rikiuotės galą ir ten užtaisydavo ginklus.
 - susijęs iš [[objektai/zodynas/karakolė.md#claim-t-42460|karakolė]]: Karakolė, arba „sraigė“, reiškė šaulių priekinės eilės pasitraukimą į rikiuotės galą po salvės.
@@ -108,4 +114,10 @@ Beveik visos didžiųjų ponų šeimos buvo išvirtusios protestantais. Katalika
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b8a7978759ebed469b1260e947d22c7ccacd31a2ebad5996fdab0fed6fbc6ab4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 695213-695421; hash=6a52b7d41b5d6ae6b47894e70088a0663c1b82aa81248ee88b3b812f16c3d62b; match=exact
+  sprendimo_priezastis: auto

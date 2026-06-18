@@ -49,6 +49,17 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi antraštės bei sąrašo triukšmo.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 343014-343685; hash=e006847e5d0cfa349b4736498f579c2b1e0b49deffd4dd100aad1485edd494de; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Čekija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Otokaras II: owner_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Čekija: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Austrija: candidate; Kulmas: candidate; Reinas: candidate; Varmė: candidate; Vokietija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Otokaras II" parinktas kaip owner_after_title. Targetas "Čekija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Austrija.md", "selected": false, "strategy": "candidate", "title": "Austrija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Kulmas.md", "selected": false, "strategy": "candidate", "title": "Kulmas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Reinas.md", "selected": false, "strategy": "candidate", "title": "Reinas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Pršemyslas Otokaras II.md#claim-t-39630|Pršemyslas Otokaras II]]: Pršemyslas Otokaras II 1255 m. atvyko į pagalbą Ordinui ir inicijavo Karaliaučiaus pilies statybą.
 - susijęs iš [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.).md#claim-t-59667|Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]]: Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.
 - susijęs iš [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.).md#claim-t-66805|Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]: Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.
@@ -147,6 +158,17 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 343014-343685; hash=e006847e5d0cfa349b4736498f579c2b1e0b49deffd4dd100aad1485edd494de; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_valdovas -> Čekija: 0.99
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; single_candidate_actor; exact_title_context; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_title_local_ruler
+  ryšio_subjekto_parinkimas: Otokaras II: owner_after_title, person, gap=9
+  ryšio_targeto_parinkimas: Čekija: exact_title_context, place, gap=8
+  ryšio_slopinti_kandidatai: Austrija: candidate; Kulmas: candidate; Reinas: candidate; Varmė: candidate; Vokietija: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_title_local_ruler". Subjektas "Otokaras II" parinktas kaip owner_after_title. Targetas "Čekija" parinktas kaip exact_title_context aplink predikatą "valdovas". Atmesti kandidatai: {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Austrija.md", "selected": false, "strategy": "candidate", "title": "Austrija", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Kulmas.md", "selected": false, "strategy": "candidate", "title": "Kulmas", "type": "place"}, {"distance_to_predicate": null, "match_index": -1, "path": "objektai/vietos/Reinas.md", "selected": false, "strategy": "candidate", "title": "Reinas", "type": "place"}. Patikimumą lėmė: single_candidate_target, single_candidate_actor, exact_title_context, same_sentence_locality.
 
 ## Ryšiai
 - Otokaras II buvo_valdovas [[objektai/vietos/Čekija]]

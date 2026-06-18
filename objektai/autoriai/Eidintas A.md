@@ -37,6 +37,16 @@ Eidintas A. Eidintas A., Senn A.
   temporalinis_llm_pakomentavimas: 'Citata yra bibliografinis įrašas, patvirtinantis autorystę ir leidimo duomenis.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7e849c94e2ca39ac09eeb7632dbe2e09ea8e58468d8f3dc1a64c557169d6d063; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antanas Smetona (Lietuvos prezidentas, XX a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Eidintas A: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): mention_match, person, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eidintas A" parinktas kaip owner_note_path. Targetas "Antanas Smetona (Lietuvos prezidentas, XX a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-19392"></a>
 - t-002
@@ -45,6 +55,9 @@ Eidintas A. Eidintas A., Senn A.
   sudarymo_pagrindimas: 'Pirminis teiginys netiksliai perteikia vaidmenį, nes nuorodoje redaktoriumi nurodytas E. Tuskenis.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 548166-548312; hash=3fb91b84a0ee0931abe6b4546947676c2849435c78b17aa0c606e05ffc83e149; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 <a id="claim-t-183342"></a>
 - t-003
@@ -56,6 +69,9 @@ Eidintas A. Eidintas A., Senn A.
   sudarymo_pagrindimas: 'Bibliografinė nuoroda pagrindžia glaustą sakinį apie A. Eidinto bendraautorystę.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 548166-548312; hash=3fb91b84a0ee0931abe6b4546947676c2849435c78b17aa0c606e05ffc83e149; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -81,5 +97,21 @@ Eidintas A. Eidintas A., Senn A.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7e849c94e2ca39ac09eeb7632dbe2e09ea8e58468d8f3dc1a64c557169d6d063; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antanas Smetona (Lietuvos prezidentas, XX a.): 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Eidintas A: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Antanas Smetona (Lietuvos prezidentas, XX a.): mention_match, person, gap=26
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eidintas A" parinktas kaip owner_note_path. Targetas "Antanas Smetona (Lietuvos prezidentas, XX a.)" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 548166-548312; hash=3fb91b84a0ee0931abe6b4546947676c2849435c78b17aa0c606e05ffc83e149; match=whitespace_regex
+  sprendimo_priezastis: auto
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 548166-548312; hash=3fb91b84a0ee0931abe6b4546947676c2849435c78b17aa0c606e05ffc83e149; match=whitespace_regex
+  sprendimo_priezastis: auto

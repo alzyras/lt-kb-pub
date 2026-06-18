@@ -33,10 +33,10 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
+- susijęs iš Prūsija: XVIII a. Prūsijoje oficialiai vartotas Lietuvos vardas, nes buvo įsteigtas Lietuvos departamentas su centru Gumbinėje.
 - susijęs iš [[objektai/autoriai/Simono Grunau.md#claim-t-30981|Simono Grunau]]: Simonas Grunau rodyklėje nurodytas kaip kronikininkas.
 - susijęs iš M. Prätorius, Deliciae: M. Prätoriaus „Deliciae“ nurodoma, kad Pisos dešinysis intakas Golba prie Narpiškių kaimo buvęs šventas.
 - susijęs iš Katinavos apylinkės: Katinavos apylinkės apibūdintos kaip ryškus pagoniško kulto židinys.
-- susijęs iš Prūsija: XVIII a. Prūsijoje oficialiai vartotas Lietuvos vardas, nes buvo įsteigtas Lietuvos departamentas su centru Gumbinėje.
 ## Reikšmingi paminėjimai
 
 - c-001

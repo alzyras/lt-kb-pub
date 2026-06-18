@@ -52,18 +52,38 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi sąrašo fragmentą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 167745-168416; hash=48187ffb12ef779f06aba43e1d9408f2f1b5da3e7b8fb9fc13adb1e50c62a906; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-95957"></a>
 - t-002
   global_id: t-95957
   teiginys: '1398 m. spalio 12 d. Gardino sutartis buvo iškilmingai ratifikuota Salyno saloje Nemune.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet reikia sutvarkyti OCR ir pakeisti neaiškų įvardį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Gardinas; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Salynas'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Nemunas; mentioned_place: Salynas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'sutarties data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą, bet reikia sutvarkyti OCR ir pakeisti neaiškų įvardį.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 168417-168796; hash=542b43dde58452abbe63961edadf92354cd873c96f7d189ad00335b3c3bb29aa; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -105,4 +125,24 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 167745-168416; hash=48187ffb12ef779f06aba43e1d9408f2f1b5da3e7b8fb9fc13adb1e50c62a906; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 168417-168796; hash=542b43dde58452abbe63961edadf92354cd873c96f7d189ad00335b3c3bb29aa; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

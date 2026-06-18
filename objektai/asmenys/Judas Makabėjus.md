@@ -35,6 +35,16 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cc0110ea28708fa391d37cbd5fbf59ee9d722c631c510f21a7fb9a5f3426be2c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dovydas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Judas Makabėjus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dovydas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Judas Makabėjus" parinktas kaip owner_note_path. Targetas "Dovydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-175239"></a>
 - t-003
@@ -44,8 +54,11 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_place: Šventoji'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Alchimas.md#claim-t-60232|Alchimas]]: Judas Makabėjus kovojo su Bachidu ir Alchimu, o po šių kautynių pats žuvo ir Izraelio kariuomenė turėjo bėgti.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f3c35b545b8b668ef8bda54e88fcf1945d1772c0f0c4a8d2fd4c3163175e925a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/asmenys/Antiochas Eupatoras.md#claim-t-60238|Antiochas Eupatoras]]: Judas Makabėjus kovojo su Antiochu Eupatoru, jo nenugalėjo ir pasuko atgal.
+- susijęs iš [[objektai/asmenys/Alchimas.md#claim-t-60232|Alchimas]]: Judas Makabėjus kovojo su Bachidu ir Alchimu, o po šių kautynių pats žuvo ir Izraelio kariuomenė turėjo bėgti.
 - susijęs iš [[objektai/asmenys/Alchimas.md#claim-t-60232|Alchimas]]: Judas Makabėjus kovojo su Bachidu ir Alchimu, o po šių kautynių pats žuvo ir Izraelio kariuomenė turėjo bėgti.
 - susijęs iš [[objektai/asmenys/Antiochas Eupatoras.md#claim-t-60238|Antiochas Eupatoras]]: Judas Makabėjus kovojo su Antiochu Eupatoru, jo nenugalėjo ir pasuko atgal.
 - susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-62623|Jordanas]]: Jordanas buvo gotų istorikas.
@@ -91,6 +104,9 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f3c35b545b8b668ef8bda54e88fcf1945d1772c0f0c4a8d2fd4c3163175e925a; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
 
 - c-003
@@ -107,8 +123,18 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=cc0110ea28708fa391d37cbd5fbf59ee9d722c631c510f21a7fb9a5f3426be2c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Dovydas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Judas Makabėjus: owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Dovydas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Judas Makabėjus" parinktas kaip owner_note_path. Targetas "Dovydas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Alchimas]] kariavo_pries Judas Makabėjus
 - [[objektai/asmenys/Antiochas Eupatoras]] kariavo_pries Judas Makabėjus
+- [[objektai/asmenys/Alchimas]] kariavo_pries Judas Makabėjus

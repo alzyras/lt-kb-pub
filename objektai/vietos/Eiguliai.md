@@ -21,16 +21,26 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
 - t-001
   global_id: t-41710
   teiginys: 'Lietuvių kariai granatomis ir šūviais privertė bolševikus iš Eigulių kaimo skubiai trauktis į Juodikio mišką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/J. Šarauskas|J. Šarauskas]]; mentioned_place: Kaimas; mentioned_place: Paobeliai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/J. Šarauskas|J. Šarauskas]]; mentioned_place: Kaimas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Paobeliai'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/J. Šarauskas.md#claim-t-40172|J. Šarauskas]]: J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius prieš bolševikų apėjimą.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=584a5f4155701369bd16718bfa25407bd449d04d2a3b2f0766d531e0a0704a24; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> J. Šarauskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Eiguliai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: J. Šarauskas: mention_match, person, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eiguliai" parinktas kaip owner_note_path. Targetas "J. Šarauskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49485|Povilas Lukšys]]: Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių kaimo.
 - susijęs iš [[objektai/asmenys/Povilas Lukšys.md#claim-t-49486|Povilas Lukšys]]: Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių į Juodikio mišką.
-- susijęs iš [[objektai/asmenys/V. Vainauskas.md#claim-t-40491|V. Vainauskas]]: V. Vainauskas su P. Lukšiu ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis į Juodikio mišką.
 - susijęs iš Eigulių pilis (pilis): 1382 m. birželio pabaigoje kryžiuočiai Kauno apylinkėje prie Neries sunaikino Eigulių pilį.
-- susijęs iš Juodikis miškas: Po netikėto apšaudymo bolševikai buvo priversti iš Eigulių kaimo skubiai trauktis į Juodikio mišką.
 - susijęs iš Kaunas: 1382 m. birželio pabaigoje kryžiuočiai sunaikino Kauno apylinkėje ant Neries kranto stovėjusią Eigulių pilį.
+- susijęs iš [[objektai/asmenys/J. Šarauskas.md#claim-t-40172|J. Šarauskas]]: J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius prieš bolševikų apėjimą.
+- susijęs iš [[objektai/asmenys/V. Vainauskas.md#claim-t-40491|V. Vainauskas]]: V. Vainauskas su P. Lukšiu ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis į Juodikio mišką.
+- susijęs iš Juodikis miškas: Po netikėto apšaudymo bolševikai buvo priversti iš Eigulių kaimo skubiai trauktis į Juodikio mišką.
 - susijęs iš Paobeliai: J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius apeiti bolševikų iš užnugario.
 ## Reikšmingi paminėjimai
 
@@ -56,3 +66,13 @@ Lukšį (turėjusius Pirmojo pasaulinio karo kovų patirties) su 8 kareiviais, k
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=584a5f4155701369bd16718bfa25407bd449d04d2a3b2f0766d531e0a0704a24; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> J. Šarauskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Eiguliai: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: J. Šarauskas: mention_match, person, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Eiguliai" parinktas kaip owner_note_path. Targetas "J. Šarauskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

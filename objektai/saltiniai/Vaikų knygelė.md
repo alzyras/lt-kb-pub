@@ -22,6 +22,9 @@ Valančiaus, VAIKŲ KNYGELĖ. Knygelė skiriama visiems: vaikams ir suaugusiems.
   teiginys: 'Knygelė skiriama visiems: vaikams ir suaugusiems.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 732021-732202; hash=ed9fd6b05f9151484096caa88491e16aadc1be12a11cb9a8772fa422c25f67ae; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -37,3 +40,6 @@ Valančiaus, VAIKŲ KNYGELĖ. Knygelė skiriama visiems: vaikams ir suaugusiems.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 732021-732202; hash=ed9fd6b05f9151484096caa88491e16aadc1be12a11cb9a8772fa422c25f67ae; match=exact
+  sprendimo_priezastis: auto

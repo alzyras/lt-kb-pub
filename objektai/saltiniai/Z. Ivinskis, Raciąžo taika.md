@@ -32,6 +32,9 @@ amziai:
   teiginys: '„Raciąžo taika“ nurodyta „Lietuvių enciklopedijos“ 24 tome, 315-316 puslapiuose.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=37bedcb442b3a1f9936e6aa5eb043637edbca85e2984f305e1c781b685247e33; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -49,3 +52,6 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=37bedcb442b3a1f9936e6aa5eb043637edbca85e2984f305e1c781b685247e33; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

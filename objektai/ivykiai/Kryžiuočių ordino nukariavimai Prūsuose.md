@@ -42,6 +42,9 @@ Nenurodyta
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6eafb4a02ace6102da4c52696c9a74546c9ff4b80a33b6b29aed6ffb4cd83eaf; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 <a id="claim-t-66644"></a>
 - t-002
   global_id: t-66644
@@ -50,6 +53,9 @@ Nenurodyta
     - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 107190-107551; hash=254d9f42241d82aa446cc1e1992a896b4cef9c878a8ddfdb0748235398ebf59b; match=exact
+  sprendimo_priezastis: auto
 <a id="claim-t-66646"></a>
 - t-003
   global_id: t-66646
@@ -58,6 +64,9 @@ Nenurodyta
     - c-003
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 107552-107836; hash=6a05596c58badcb652669f8dd5ffce5eca7d93ba767378617e4c72351eafe3ce; match=exact
+  sprendimo_priezastis: auto
 <a id="claim-t-66647"></a>
 - t-004
   global_id: t-66647
@@ -66,6 +75,9 @@ Nenurodyta
     - c-004
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 107837-108264; hash=efc85ded299093543a0fcba00bc370a8938cdfa74144d4247b9d11852bc28b6b; match=exact
+  sprendimo_priezastis: auto
 <a id="claim-t-66648"></a>
 - t-005
   global_id: t-66648
@@ -74,6 +86,9 @@ Nenurodyta
     - c-005
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c8c986c377214e123dc067bad2fe30478c9700fb7cb70389b5490dfe39418361; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 <a id="claim-t-66649"></a>
 - t-006
   global_id: t-66649
@@ -82,6 +97,9 @@ Nenurodyta
     - c-006
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 109731-110150; hash=fec40f7390e76c258c970f7a6ac92f345a612925826c2032a88655704ac421b5; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -117,6 +135,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=6eafb4a02ace6102da4c52696c9a74546c9ff4b80a33b6b29aed6ffb4cd83eaf; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
 - c-003
   santrauka: 'Kryžiuočių ordinas stūmėsi į rytus ir šiaurę, statė pilis kaip administracinius centrus ir apie jas kūrė iš Vokietijos atkviestus kolonistus.'
@@ -133,6 +154,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 107190-107551; hash=254d9f42241d82aa446cc1e1992a896b4cef9c878a8ddfdb0748235398ebf59b; match=exact
+  sprendimo_priezastis: auto
     - t-003
 - c-004
   santrauka: 'Kryžiuočių ordino nukariavimuose kartu su karine ekspansija plito krikščionybė: buvo statomos bažnyčios ir vienuolynai, o prūsai krikštijami per prievartą.'
@@ -152,6 +176,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 107552-107836; hash=6a05596c58badcb652669f8dd5ffce5eca7d93ba767378617e4c72351eafe3ce; match=exact
+  sprendimo_priezastis: auto
     - t-004
 - c-005
   santrauka: 'Vyskupui Kristijonui patekus į prūsų nelaisvę, ordinas pasirūpino, kad imperatorius ir popiežius pripažintų jam nukariaujamus Prūsų kraštus.'
@@ -169,6 +196,9 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 107837-108264; hash=efc85ded299093543a0fcba00bc370a8938cdfa74144d4247b9d11852bc28b6b; match=exact
+  sprendimo_priezastis: auto
     - t-005
 - c-006
   santrauka: 'Vyskupui grįžus iš nelaisvės, Kryžiuočių ordinas jau valdė kraštą ir sutiko vyskupams užleisti trečdalį savo žemių.'
@@ -187,4 +217,10 @@ Nenurodyta
   patikimumo_saltinis: ai
   patikimumo_pagrindimas: ""
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c8c986c377214e123dc067bad2fe30478c9700fb7cb70389b5490dfe39418361; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 109731-110150; hash=fec40f7390e76c258c970f7a6ac92f345a612925826c2032a88655704ac421b5; match=exact
+  sprendimo_priezastis: auto

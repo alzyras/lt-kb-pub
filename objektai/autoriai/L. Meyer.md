@@ -31,6 +31,9 @@ Dusburgietis teigia, kad meyer.—Paderborn, 1876.
   sudarymo_pagrindimas: 'Bibliografinis įrašas palaiko pilną faktinį sakinį apie su autoriumi siejamą leidinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 783731-783784; hash=a072a87cb43d6318b2ff6fa8d0db6333c405ca2625991b598cb9690c8ef492d1; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -44,3 +47,6 @@ Dusburgietis teigia, kad meyer.—Paderborn, 1876.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 783731-783784; hash=a072a87cb43d6318b2ff6fa8d0db6333c405ca2625991b598cb9690c8ef492d1; match=exact
+  sprendimo_priezastis: auto

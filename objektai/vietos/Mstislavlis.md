@@ -31,7 +31,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   global_id: t-182082
   teiginys: 'Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo paklusnumą Jogailai.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė konstrukcija „Pačiam“, sakinys padarytas savarankiškesnis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Vechra'
+  susije_objektai: 'mentioned_place: Vechra; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]'
   pagrindžia:
     - c-002
 
@@ -40,7 +40,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   global_id: t-182083
   teiginys: 'Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Mstislavlį, Mogiliavą ir Toropiecą.'
   sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis ir sakinys padarytas savarankiškas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Mogiliavas; mentioned_place: Rževas; mentioned_place: Smolenskas'
+  susije_objektai: 'territory: Smolenskas; mentioned_place: Mogiliavas; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Rževas; mentioned_place: Smolenskas'
   temporaliniai_duomenys: 'įvykio data: iki 1362 m.; įvykio data: 1362 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėstas neaiškus įvardis ir sakinys padarytas savarankiškas.'
@@ -79,6 +79,16 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-005
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 156519-156925; hash=35a3f9f05c8172d75b5d0b516c910c5dd33fe837775c2482aaf3462e198323c0; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mstislavlis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mstislavlis" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-187619"></a>
 - t-006
@@ -91,42 +101,55 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 157622-157925; hash=90a6949b1653b4686866541a7719edd3d71080049425874bbbd418eec6e47c9f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mstislavlis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=68
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mstislavlis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+- susijęs iš [[objektai/ivykiai/Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.).md#claim-t-185641|Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)]]: Rudens pabaigoje Žygimantas su nedidele kariuomene užpuolė kai kurias Švitrigailos valdas ir po mėnesio apgulties užėmė Mstislavlį.
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
+- susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
+- susijęs iš [[objektai/asmenys/J. K. Glaubitzas.md#claim-t-22423|J. K. Glaubitzas]]: J. K. Glaubitzas buvo garsiausias Vilniaus baroko mokyklos architektas, sukūręs Basųjų karmelitų bažnyčią Mstislavlyje.
+- susijęs iš [[objektai/asmenys/Karigaila.md#claim-t-63793|Karigaila]]: Karigaila, Jogailos brolis ir Mstislavlio kunigaikštis, pateko į kryžiuočių nelaisvę ir buvo žiauriai nužudytas.
+- susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-184825|Simonas Lengvenis (valdovas, XIV a.)]]: Paleidus kariuomenę Simonas Lengvenis grįžo į Mstislavlį.
+- susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-179683|Sviatoslavas]]: Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
+- susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-179685|Sviatoslavas]]: Sviatoslavas žuvo prie Mstislavlio ant Vechros kranto.
+- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96101|Gediminaičių dinastija]]: Vytautui panaikinus stipriąsias kunigaikštijas, Gediminaičiai nepajudinti liko tik Mstislavlyje ir Pinske.
+- susijęs iš [[objektai/ivykiai/Mstislavlio apgultis ir mūšis prie Vechros.md#claim-t-186725|Mstislavlio apgultis ir mūšis prie Vechros (mūšis, XIV a.)]]: Mstislavlio apgulties metu mūšis įvyko prie Sožo intako Vechros, prie kurios stovi Mstislavlis.
+- susijęs iš [[objektai/ivykiai/Mstislavlio apgultis ir mūšis prie Vechros.md#claim-t-186726|Mstislavlio apgultis ir mūšis prie Vechros (mūšis, XIV a.)]]: LDK kariuomenė prie Mstislavlio atžygiavo 1386 m. balandžio 29 d.
+- susijęs iš [[objektai/ivykiai/Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.).md#claim-t-185641|Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)]]: Rudens pabaigoje Žygimantas su nedidele kariuomene užpuolė kai kurias Švitrigailos valdas ir po mėnesio apgulties užėmė Mstislavlį.
+- susijęs iš Juodoji Rusia: Didžiajam kunigaikščiui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.
+- susijęs iš Vitebskas: Vilniaus valdovui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82179|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Andrius Polockietis.md#claim-t-30207|Andrius Polockietis]]: Skirgaila, sėkmingai apgulęs Polocką, paėmė Andrių Polockietį į nelaisvę ir išsiuntė į Lenkiją.
 - susijęs iš [[objektai/asmenys/Andrius Sakavičius.md#claim-t-186034|Andrius Sakavičius]]: Kazimieras, užėmęs Smolensko pilį ir ne per griežtai nubaudęs maištininkus, paliko Andrių Sakavičių vietininku.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-82289|Elena (vyskupas, XV–XVI a.)]]: Aleksandras dovanojo Elenai ir jos palikuonims Kniazičius, Teteriną, Popova Huros pilį ir kitas valdas.
-- susijęs iš [[objektai/asmenys/J. K. Glaubitzas.md#claim-t-22423|J. K. Glaubitzas]]: J. K. Glaubitzas buvo garsiausias Vilniaus baroko mokyklos architektas, sukūręs Basųjų karmelitų bažnyčią Mstislavlyje.
 - susijęs iš [[objektai/asmenys/Jurgis (Maskvos kunigaikštis).md#claim-t-87738|Jurgis (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Jurgis kartu su savo dėde Švitrigaila išvengė sutriuškinimo po pralaimėjimo prie Ukmergės.
 - susijęs iš [[objektai/asmenys/Jurgis (Sviatoslavo sūnus).md#claim-t-30317|Jurgis (Sviatoslavo sūnus)]]: Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.
 - susijęs iš [[objektai/asmenys/Jurgis Lengvenaitis.md#claim-t-87743|Jurgis Lengvenaitis]]: Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės kartu su Švitrigaila išvengė sutriuškinimo.
-- susijęs iš [[objektai/asmenys/Karigaila.md#claim-t-63793|Karigaila]]: Karigaila, Jogailos brolis ir Mstislavlio kunigaikštis, pateko į kryžiuočių nelaisvę ir buvo žiauriai nužudytas.
 - susijęs iš [[objektai/asmenys/Olelka.md#claim-t-87809|Olelka]]: Kopylę valdęs Olelka, Algirdo palikuonis, buvo įkalintas prieš diduomenei nutariant gelbėtis Žygimanto gyvybės kaina.
 - susijęs iš [[objektai/asmenys/Puzinienė iš Oginskių.md#claim-t-87840|Puzinienė iš Oginskių]]: Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
-- susijęs iš [[objektai/asmenys/Simonas Lengvenis.md#claim-t-184825|Simonas Lengvenis (valdovas, XIV a.)]]: Paleidus kariuomenę Simonas Lengvenis grįžo į Mstislavlį.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179658|Skirgaila]]: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
-- susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-179683|Sviatoslavas]]: Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
-- susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-179685|Sviatoslavas]]: Sviatoslavas žuvo prie Mstislavlio ant Vechros kranto.
 - susijęs iš [[objektai/asmenys/V. B. Seremetjevas.md#claim-t-40482|V. B. Seremetjevas]]: Rusų karvedys V. B. Seremetjevas su maždaug 15 000 karių užėmė Polocką ir Dysną.
 - susijęs iš [[objektai/asmenys/Vaitiekus Taboras.md#claim-t-184852|Vaitiekus Taboras (vyskupas, XV–XVI a.)]]: Po Vilniaus vyskupo Andriaus mirties jo įpėdiniu tapo šviesiausios kilmės Vaitiekus Taboras.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179702|Švitrigaila]]: Švitrigaila su sūnėnu Maskvos kunigaikščiu Jurgiu išvengė sutriuškinimo po nesėkmės ties Ukmerge.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-184919|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Kojelavičius Žygimanto Kęstutaičio elgesį po pergalės vertina kaip tarp žmonių nekenčiamą žiaurumą.
 - susijęs iš [[objektai/daiktai/Akademijos observatorijos prietaisai.md#claim-t-55026|Akademijos observatorijos prietaisai]]: 1766 m. Puzinienė iš Oginskių užrašė 6 000 raudonųjų auksinų Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams.
 - susijęs iš [[objektai/daiktai/Akademijos observatorijos prietaisai.md#claim-t-81838|Akademijos observatorijos prietaisai]]: Puzinienė iš Oginskių 1766 m. Akademijos observatorijos įkūrimui, prietaisams ir astronomijos profesoriams užrašė 6 000 raudonųjų auksinų.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96101|Gediminaičių dinastija]]: Vytautui panaikinus stipriąsias kunigaikštijas, Gediminaičiai nepajudinti liko tik Mstislavlyje ir Pinske.
 - susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-96706|Lietuvos bajorija]]: Žygimanto Kęstutaičio Trakuose sušauktas seimas turėjo parengti paskutinį smūgį Rusios ir Lietuvos bajorijai.
 - susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-96714|Lietuvos bajorija]]: Žygimanto Kęstutaičio Trakuose sušauktas seimas turėjo parengti paskutinį smūgį Rusios ir Lietuvos bajorijai.
 - susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-96721|Lietuvos bajorija]]: 1401 m. susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos bajorai ir Lenkijos bajorai.
 - susijęs iš [[objektai/grupes/Čekų ir Silezijos savanoriai.md#claim-t-86838|Čekų ir Silezijos savanoriai]]: Čekų ir Silezijos savanorių vadai pateko į nelaisvę po nesėkmės brastoje per Šventosios upę ties Ukmerge.
-- susijęs iš [[objektai/ivykiai/Mstislavlio apgultis ir mūšis prie Vechros.md#claim-t-186725|Mstislavlio apgultis ir mūšis prie Vechros (mūšis, XIV a.)]]: Mstislavlio apgulties metu mūšis įvyko prie Sožo intako Vechros, prie kurios stovi Mstislavlis.
-- susijęs iš [[objektai/ivykiai/Mstislavlio apgultis ir mūšis prie Vechros.md#claim-t-186726|Mstislavlio apgultis ir mūšis prie Vechros (mūšis, XIV a.)]]: LDK kariuomenė prie Mstislavlio atžygiavo 1386 m. balandžio 29 d.
-- susijęs iš [[objektai/ivykiai/Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.).md#claim-t-185641|Skitų persimetimas prieš Švitrigailą ir Žygimanto Mstislavlio užėmimas (1433 m.)]]: Rudens pabaigoje Žygimantas su nedidele kariuomene užpuolė kai kurias Švitrigailos valdas ir po mėnesio apgulties užėmė Mstislavlį.
 - susijęs iš [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę.md#claim-t-185834|Vytauto šalininkų žygis į Riazanę]]: Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono.
 - susijęs iš [[objektai/ivykiai/Švitrigailos užpuolimas Ašmenoje.md#claim-t-186739|Švitrigailos užpuolimas Ašmenoje]]: Redakcinė pastaba nurodo, kad Jurgis Lengvenaitis pateko į Žygimanto Kęstutaičio nelaisvę Ašmenos mūšyje ir pabėgo iki 1433 m. spalio 3 d.
 - susijęs iš [[objektai/ivykiai/Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to).md#claim-t-185549|Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)]]: Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui.
 - susijęs iš Akademijos aikštė: Prie Akademijos aikštės tėvas Riokuras finansavo vieną klasių eilę, o įvairūs jėzuitai apstatydino kitą klasių ir viešų susirinkimų salės eilę.
 - susijęs iš Biala: 1355 m. jo garnizonai įsikūrė Rževe ir Bialoje.
-- susijęs iš Juodoji Rusia: Didžiajam kunigaikščiui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.
 - susijęs iš Polockas: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
 - susijęs iš Rževas: Algirdas dar 1356 m. tvirtinosi Volgos aukštupyje, Rževe, ir atakavo Brianską bei Smolenską.
 - susijęs iš Toropiec: Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Toropiecą.
@@ -136,7 +159,6 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 - susijęs iš Vechra: Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.
 - susijęs iš Viazma: Viazmos kunigaikščiai (rytinė Smolensko žemių dalis) taip pat sukilo.
 - susijęs iš Viazma: Viazmos kunigaikščiai (rytinė Smolensko žemių dalis) taip pat sukilo.
-- susijęs iš Vitebskas: Vilniaus valdovui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.
 - susijęs iš [[objektai/zodynas/Olia Charitatis.md#claim-t-86601|Olia Charitatis]]: Iš Joniškio pajamų neturtingiems studentams kasdien buvo skiriami Olia Charitatis labdaringi pietūs ir duonos kepalas.
 - susijęs iš [[objektai/zodynas/etmonas.md#claim-t-187522|etmonas]]: Lietuvos metraštyje Žemaičių seniūnas ir LDK etmonas čeką Joną Cerniną su svetimšaliais pasiuntė į Polocką kaip įgulą.
 ## Reikšmingi paminėjimai
@@ -243,4 +265,28 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 156519-156925; hash=35a3f9f05c8172d75b5d0b516c910c5dd33fe837775c2482aaf3462e198323c0; match=ocr_normalized_gapped
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mstislavlis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=20
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mstislavlis" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 157622-157925; hash=90a6949b1653b4686866541a7719edd3d71080049425874bbbd418eec6e47c9f; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Mstislavlis: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=68
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Mstislavlis" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
+
+## Ryšiai
+- [[objektai/asmenys/Švitrigaila]] uzeme Mstislavlis
+- [[objektai/asmenys/A. N. Trubeckojus]] uzeme Mstislavlis

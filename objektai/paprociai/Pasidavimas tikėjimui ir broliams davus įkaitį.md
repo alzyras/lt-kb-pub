@@ -45,6 +45,9 @@ Nenurodyta
   sudarymo_pagrindimas: 'Pradinis teiginys buvo pažodinis ir su OCR klaida, citata remia aiškų perrašymą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b528e5d934ad73a797ec0d1e01ec16e46caa2e70e68490c3e19728f1cdb7bdd3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -63,3 +66,6 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=b528e5d934ad73a797ec0d1e01ec16e46caa2e70e68490c3e19728f1cdb7bdd3; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

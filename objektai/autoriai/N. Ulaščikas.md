@@ -34,12 +34,22 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
   teiginys: 'N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų kalbą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata apie 1966 m. vertimą į dabartinę rusų kalbą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]'
   temporaliniai_duomenys: 'įvykio data: 1966 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata apie 1966 m. vertimą į dabartinę rusų kalbą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 20969-21566; hash=9fd70c3928bf0e847f5641b25c0e35eec006841e0b95bb8488c4422a064b97f0; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair
+  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: N. Ulaščikas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=68
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "N. Ulaščikas" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-186452"></a>
 - t-002
@@ -53,6 +63,16 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie N. Ulaščiko indėlį prie vertimo. Citata tiesiogiai palaiko įvadą ir trumpus paaiškinimus apie vietoves, terminus bei teksto vietas.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 21330-21970; hash=139205d89e094b8e483f43bf4d957898d8e1a703b0d9fdc38f6adfa65bedddeb; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair
+  ryšio_patikimumas: susije_su -> Rusai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: N. Ulaščikas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "N. Ulaščikas" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186541|Klecko mūšis (mūšis, XVI a.)]]: Klecko mūšio 1506 m. aprašymas su vietovardžiais buvo vienas iš N. N. Ulaščiko argumentų dėl Bychovco kronikos kilmės iš Naugarduko ar Slucko krašto.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186548|Klecko mūšis (mūšis, XVI a.)]]: Klecko mūšio aprašymu N. N. Ulaščikas rėmė spėjimą apie Bychovco kronikos kilmę iš Naugarduko ar Slucko krašto.
 - susijęs iš Gomelis: Uzos upė įteka į Sožą truputį žemiau Gomelio.
@@ -100,4 +120,24 @@ N. Ulaščikas 1966 m. paskelbė Bychovco kronikos vertimą į dabartinę rusų 
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 20969-21566; hash=9fd70c3928bf0e847f5641b25c0e35eec006841e0b95bb8488c4422a064b97f0; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair
+  ryšio_patikimumas: susije_su -> Rusai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: N. Ulaščikas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group, gap=68
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "N. Ulaščikas" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 21330-21970; hash=139205d89e094b8e483f43bf4d957898d8e1a703b0d9fdc38f6adfa65bedddeb; match=whitespace_regex
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/02_extract_authors_notes.md::validation_repair
+  ryšio_patikimumas: susije_su -> Rusai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: N. Ulaščikas: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Rusai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "N. Ulaščikas" parinktas kaip owner_note_path. Targetas "Rusai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

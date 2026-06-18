@@ -26,6 +26,9 @@ Kai kariuomenei nemokėdavo algos, jos atsisakymas klausyti vadų ir plėšikavi
     - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   statusas: patvirtinta
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 561870-562348; hash=3495119068c24843bd5701c0ea49a7135345a783ad4eca055ccdf7342607e83e; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 - c-001
@@ -48,3 +51,6 @@ Kai kariuomenei nemokėdavo algos, jos atsisakymas klausyti vadų ir plėšikavi
   patikimumo_pagrindimas: ""
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 561870-562348; hash=3495119068c24843bd5701c0ea49a7135345a783ad4eca055ccdf7342607e83e; match=exact
+  sprendimo_priezastis: auto

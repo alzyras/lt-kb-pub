@@ -28,9 +28,19 @@ Vy­ tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­ kais pr
 - t-001
   global_id: t-36033
   teiginys: 'Ordinas 1421 metais sudarė amžiną taiką su Didžiuoju Naugardu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Konstancija; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_place: Naugardas; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Konstancija; mentioned_place: Livonija; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=451c527728ef7a391b15b4ebe920657d8726b94694849bed27a6c474709ee17c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Naugardas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Amžina taika su Naugardu D. (1421 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Amžina taika su Naugardu D. (1421 m.)" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -52,3 +62,13 @@ Vy­ tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­ kais pr
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=451c527728ef7a391b15b4ebe920657d8726b94694849bed27a6c474709ee17c; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Naugardas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Amžina taika su Naugardu D. (1421 m.): owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Naugardas: mention_match, place, gap=33
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Amžina taika su Naugardu D. (1421 m.)" parinktas kaip owner_note_path. Targetas "Naugardas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

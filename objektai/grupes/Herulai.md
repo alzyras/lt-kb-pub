@@ -28,6 +28,16 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
   susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 49422-50239; hash=8b5ad07ed3b365db9030d3b44782d01037fd87145ef98951553a781641d02183; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herulai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herulai" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184475"></a>
 - t-002
@@ -43,6 +53,16 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
   temporalinis_llm_pakomentavimas: 'Citata remia konkretų faktą apie herulų kariuomenę; pašalintas triukšmas.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 87664-88168; hash=d91cbf3ddb7588cc0d8b558ef6749b0a151b6f8de8ff2bd79c7f5e9a187ec045; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Italija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herulai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Italija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herulai" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184476"></a>
 - t-003
@@ -58,6 +78,16 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 88169-88687; hash=58483b00412e0bcfdca507eefc5e270ca60e07a61399cff98a543d7934e6ac41; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gotai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herulai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Gotai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herulai" parinktas kaip owner_note_path. Targetas "Gotai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-184477"></a>
 - t-004
@@ -70,24 +100,35 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
   susije_objektai: 'mentioned_object: [[objektai/zodynas/alanai|alanai]]; mentioned_place: Italija; mentioned_place: Viena'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 92439-93121; hash=03cc19561ed752ea8dbe26e11235e30806fc4bb85d70aaabc7721427dd7ef8e0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Italija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herulai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Italija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herulai" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Belizarijus.md#claim-t-186183|Belizarijus]]: Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero vadovaujamų herulų pagalba.
-- susijęs iš [[objektai/asmenys/Julijonas Dausprungas.md#claim-t-186050|Julijonas Dausprungas]]: Kojelavičiaus perpasakotoje tradicijoje Julijonas Dausprungas įvardijamas kaip vienas iš kilmingųjų italų vadų, kurio giminės herbas buvo Kentauras.
 - susijęs iš [[objektai/asmenys/Justinianas.md#claim-t-186121|Justinianas]]: Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovaujamų herulų, nugalėjo persus.
+- susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-186291|Prokopijus]]: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.
+- susijęs iš [[objektai/grupes/Gepidai.md#claim-t-185459|Gepidai]]: Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti langobardų į žygį į Italiją.
+- susijęs iš [[objektai/grupes/Skyrai.md#claim-t-86826|Skyrai]]: Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais.
+- susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
+- susijęs iš [[objektai/zodynas/alanai.md#claim-t-185378|alanai]]: Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į karų neniokojamas, įsikurti tinkamas žemes.
+- susijęs iš [[objektai/asmenys/Julijonas Dausprungas.md#claim-t-186050|Julijonas Dausprungas]]: Kojelavičiaus perpasakotoje tradicijoje Julijonas Dausprungas įvardijamas kaip vienas iš kilmingųjų italų vadų, kurio giminės herbas buvo Kentauras.
 - susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-186153|Odoakras]]: Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš svetimšalių viešpatavo Romoje.
 - susijęs iš [[objektai/asmenys/Orestas.md#claim-t-186243|Orestas]]: Odoakras, užėmęs Ticiną, įkalino imperatoriaus Augustulo tėvą Orestą.
-- susijęs iš [[objektai/autoriai/Prokopijus.md#claim-t-186291|Prokopijus]]: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-184602|Vėliavos]]: Herulai, tapę Romos sąjungininkais ir pagalbine kariuomene, daugelį amžių karo tarnyboje gynė romėnų vėliavas.
-- susijęs iš [[objektai/grupes/Gepidai.md#claim-t-185459|Gepidai]]: Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti langobardų į žygį į Italiją.
 - susijęs iš [[objektai/grupes/Italų ateiviai.md#claim-t-185426|Italų ateiviai]]: Senoliai tvirtino, kad į tolimą kelią leidusiųsi italų ateivių buvo penki šimtai kilmingųjų.
 - susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185424|Langobardai]]: Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele kariuomene įsiveržė į Italiją.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169585|Latviai]]: Balinskis latvius priskyrė vienai iš šešių pagrindinių lietuvių tautos atšakų.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179283|Lietuviai]]: Lietuviai kaip tauta, anot šaltinio, Europoje Lietuvos vardu tapo žinomi tik X amžiuje.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179290|Lietuviai]]: Tik X a. Lietuvos vardu Europai tapusi žinoma tauta citatoje siejama su trijų skirtingų kilmių gyventojų samplaika.
-- susijęs iš [[objektai/grupes/Skyrai.md#claim-t-86826|Skyrai]]: Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais.
 - susijęs iš [[objektai/ivykiai/Langobardų įsiveržimas į Italiją (559 m.).md#claim-t-185810|Langobardų įsiveržimas į Italiją (559 m.)]]: Apie 559 metus Albojino vedami langobardai iškeliavo iš Panonijos ir su didžiule kariuomene įsiveržė į Italiją.
 - susijęs iš [[objektai/ivykiai/Otokaro ir Teodoriko sandora bei Otokaro nužudymas Ravenoje (493 m.).md#claim-t-185758|Otokaro ir Teodoriko sandora bei Otokaro nužudymas Ravenoje (493 m.)]]: Teodorikas pasikvietė Otokarą į puotą Ravenoje, pasiuntė žudikus ir atėmė iš jo gyvybę bei sostą.
 - susijęs iš [[objektai/ivykiai/Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.).md#claim-t-185831|Vakarų Romos imperatoriaus nuvertimas ir Otokaro įsigalėjimas Romoje (475 m.)]]: 475 m. herulų valdovas Otokaras, arba Odoakras, užėmė Romą, nuvertė Vakarų Romos imperatorių ir valdė Romoje kaip pirmasis svetimšalis.
-- susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
 - susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš Baltijos jūra: Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.
@@ -95,7 +136,6 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
 - susijęs iš Vysla: Lietuvių tauta, pasak Balińskio, buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš Vysla: Lietuvių tautos atšakos užėmė Baltijos pakrantę nuo Dvinos iki Vyslos.
 - susijęs iš [[objektai/zodynas/Vidivarijai.md#claim-t-54797|Vidivarijai]]: Vidivarijų vardas siejamas su nauja pasienio tauta, atsiradusia maišantis venedams, estams ir gotams.
-- susijęs iš [[objektai/zodynas/alanai.md#claim-t-185378|alanai]]: Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į karų neniokojamas, įsikurti tinkamas žemes.
 - susijęs iš [[objektai/zodynas/už įstatymo ribų.md#claim-t-185414|už įstatymo ribų]]: Kojelavičius spėjo, kad iš Italijos galėjo pasitraukti žmonės, nugalėjusių priešų paskelbti už įstatymo ribų.
 ## Reikšmingi paminėjimai
 
@@ -151,6 +191,16 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 49422-50239; hash=8b5ad07ed3b365db9030d3b44782d01037fd87145ef98951553a781641d02183; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herulai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herulai" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-003
@@ -174,6 +224,16 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 87664-88168; hash=d91cbf3ddb7588cc0d8b558ef6749b0a151b6f8de8ff2bd79c7f5e9a187ec045; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Italija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herulai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Italija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herulai" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
 
 - c-004
@@ -197,4 +257,24 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 88169-88687; hash=58483b00412e0bcfdca507eefc5e270ca60e07a61399cff98a543d7934e6ac41; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Gotai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herulai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Gotai: mention_match, group
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herulai" parinktas kaip owner_note_path. Targetas "Gotai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 92439-93121; hash=03cc19561ed752ea8dbe26e11235e30806fc4bb85d70aaabc7721427dd7ef8e0; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Italija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Herulai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Italija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Herulai" parinktas kaip owner_note_path. Targetas "Italija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

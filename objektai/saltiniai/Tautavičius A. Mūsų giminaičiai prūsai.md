@@ -33,6 +33,9 @@ Dusburgietis teigia, kad tautavičius A.
   temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinius publikacijos duomenis.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 799491-799558; hash=f79d46f01a3d8002099581343902057526219109382d6c4ffe54972e5461c2bb; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +49,6 @@ Dusburgietis teigia, kad tautavičius A.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 799491-799558; hash=f79d46f01a3d8002099581343902057526219109382d6c4ffe54972e5461c2bb; match=exact
+  sprendimo_priezastis: auto

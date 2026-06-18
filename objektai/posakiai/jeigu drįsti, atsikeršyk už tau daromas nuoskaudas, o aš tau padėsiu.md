@@ -23,6 +23,9 @@ Dusburgietis teigia, kad todėl jis tarė Skomantui: „Negi tam čia mane atsiv
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata apie Skomanto žodžius Liudvikui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 527067-527437; hash=74e731106e11d7a0c7e7dd89f23f1279493c4bdc26f42ae856465cf22d6950e1; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -40,3 +43,6 @@ Dusburgietis teigia, kad todėl jis tarė Skomantui: „Negi tam čia mane atsiv
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 527067-527437; hash=74e731106e11d7a0c7e7dd89f23f1279493c4bdc26f42ae856465cf22d6950e1; match=exact
+  sprendimo_priezastis: auto

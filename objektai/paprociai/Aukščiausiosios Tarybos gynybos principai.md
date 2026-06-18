@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-09612
   teiginys: 'Aukščiausiosios Tarybos gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos.'
   sudarymo_pagrindimas: 'Sakinys pagrįstas citata, tik patikslintas objektas.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys pagrįstas citata, tik patikslintas objektas.'
@@ -62,7 +62,7 @@ Nenurodyta
   global_id: t-09613
   teiginys: 'Aukščiausiosios Tarybos gynybos principai siekė fiksuoti sovietų karinės agresijos faktą ir užtikrinti politinį Lietuvos atstovavimą.'
   sudarymo_pagrindimas: 'Teiginys aiškiau susietas su note objektu ir sutrumpintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]'
   pagrindžia:
     - c-002
 

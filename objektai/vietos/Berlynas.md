@@ -37,21 +37,41 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   global_id: t-170285
   teiginys: 'Zenonas Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą.'
   sudarymo_pagrindimas: 'Pradinis teiginys turėjo neaiškų įvardį ir jungė du faktus; paliktas Berlynui aktualus faktas.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Alekna|A. Alekna]]; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Alekna|A. Alekna]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
   temporaliniai_duomenys: 'įvykio data: 1933 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turėjo neaiškų įvardį ir jungė du faktus; paliktas Berlynui aktualus faktas.'
   pagrindžia:
     - c-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 31145-31299; hash=bb542c81ff96d29d6c6637b0edaca90b3daf06573cb01beb16d9ae08415d067f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Zenonas Ivinskis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Zenonas Ivinskis: mention_match, author, gap=75
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Zenonas Ivinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-170286"></a>
 - t-002
   global_id: t-170286
   teiginys: 'Kovo 23 dieną Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.'
   sudarymo_pagrindimas: 'Teiginys yra užbaigtas faktinis sakinys apie Berlyne vykusį veiksmą.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/konstitucinė monarchija|konstitucinė monarchija]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Wilhelmas II|Wilhelmas II]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Saksonija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Vokietija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/konstitucinė monarchija|konstitucinė monarchija]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Wilhelmas II|Wilhelmas II]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Saksonija'
   pagrindžia:
     - c-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=481bb7d09727123a93edf6de37624a642b80e4ad2088aee2291f5eb1607578c0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Livonija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-170287"></a>
 - t-003
@@ -64,16 +84,36 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas ta pačia citatos informacija.'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=31bb7e7ddd95cd3b0b4c585a7e8002c4c87131e3e2fc1c8b5951bd79cf32411b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-170288"></a>
 - t-004
   global_id: t-170288
   teiginys: 'Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Frank Lubin|Frank Lubin]]; mentioned_person: [[objektai/asmenys/Jack Sharkey|Jack Sharkey]]; mentioned_person: [[objektai/asmenys/Johnny Unitas|Johnny Unitas]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_person: [[objektai/asmenys/Senda Berenson-Abbot|Senda Berenson-Abbot]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva; mentioned_person: [[objektai/asmenys/Frank Lubin|Frank Lubin]]; mentioned_person: [[objektai/asmenys/Jack Sharkey|Jack Sharkey]]; mentioned_person: [[objektai/asmenys/Johnny Unitas|Johnny Unitas]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_person: [[objektai/asmenys/Senda Berenson-Abbot|Senda Berenson-Abbot]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1868 m.; įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-014
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9faa9cb98ff04eaa1a8fae162c535b9fd1754d6735bc4065510328b84edd2710; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Alekna: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: A. Alekna: mention_match, author, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "A. Alekna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-170289"></a>
 - t-005
@@ -83,6 +123,16 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e1c34c7f02b308a989f3e6925d58417c6a0cfe6162b0f812a4dd9fbc378c2745; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-170291"></a>
 - t-006
@@ -95,6 +145,16 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   temporalinis_llm_pakomentavimas: 'Teiginys yra bibliografinis faktas apie leidinio išleidimą Berlyne.'
   pagrindžia:
     - c-015
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8b9c4834d71ccdfc4245e370df1fc832eb448b56b2521cc1b4783ee99ad6c5b5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=109
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-170292"></a>
 - t-007
@@ -104,6 +164,16 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Juozas Ambrazevičius|Juozas Ambrazevičius]]'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7f6540af63ca254e7856051b8afe6eb5749a5a61cdc8292e90282326065f7953; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-170293"></a>
 - t-008
@@ -116,6 +186,16 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir aiškiai sieja Berlyną su Lietuvos užsienio politika.'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f0b01c2624a3129d616a6d3b716a18f5185fed671dd07fe84139ee65e4c2ab57; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-170294"></a>
 - t-009
@@ -134,22 +214,42 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   global_id: t-170295
   teiginys: 'Juozas Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje vidurinių amžių istorijoje.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo sakinio fragmentas; perrašyta į pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1929 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo sakinio fragmentas; perrašyta į pilną faktinį sakinį.'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c78b2967fde686b37b79a5f9087b7ddefe4182f7ff41adba41a050ae399c018e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-170298"></a>
 - t-013
   global_id: t-170298
   teiginys: 'Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje vidurinių amžių istorijoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1929 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3b41a38fb58fdfe0d1799281d24bba536d0ed2b8dc244c640b6f6a10e33c886e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-170299"></a>
 - t-014
@@ -168,18 +268,38 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=31bb7e7ddd95cd3b0b4c585a7e8002c4c87131e3e2fc1c8b5951bd79cf32411b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-170301"></a>
 - t-016
   global_id: t-170301
   teiginys: 'Konstantinas Avižonis 1932 m. Berlyne parašė disertaciją apie Lietuvos bajorų atsiradimą ir luomo susiformavimą iki 1385 m.'
   sudarymo_pagrindimas: 'Teiginys gramatiškai nurodo Avižonio disertacijos parašymą Berlyne.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Avižonis|K. Avižonis]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_place: Liublinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_author: [[objektai/autoriai/K. Avižonis|K. Avižonis]]; mentioned_place: Liublinas'
   temporaliniai_duomenys: 'įvykio data: iki 1385 m.; įvykio data: 1385 m.; įvykio data: 1932 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškai nurodo Avižonio disertacijos parašymą Berlyne.'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9faa9cb98ff04eaa1a8fae162c535b9fd1754d6735bc4065510328b84edd2710; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Alekna: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: A. Alekna: mention_match, author, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "A. Alekna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-170302"></a>
 - t-017
@@ -190,23 +310,78 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e1c34c7f02b308a989f3e6925d58417c6a0cfe6162b0f812a4dd9fbc378c2745; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-170303"></a>
 - t-018
   global_id: t-170303
   teiginys: '1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir ten pasirašė 100 mln. markių paskolą ginklams įsigyti.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo asmenį, datą, vietą ir veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo asmenį, datą, vietą ir veiksmą.'
   pagrindžia:
     - c-013
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5da45a810c867a433159a8e9ae2e73c4cc5ff2d3d7719828339949a2429a41c8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77983|A. Smetona]]: 1918 m. kovo 23 d. A. Smetonos vadovaujama Tarybos delegacija Berlyne pristatė Vasario 16-osios deklaraciją Vokietijos kancleriui.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77985|A. Smetona]]: 1918 m. gruodžio 21 d. A. Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.
-- susijęs iš [[objektai/asmenys/Algirdas Julius Greimas.md#claim-t-78043|Algirdas Julius Greimas]]: Algirdas Julius Greimas buvo semiotikas, žinomas Prancūzijoje.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75737|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75755|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. kovo 23 d. Antano Smetonos vadovaujama Tarybos delegacija Berlyne pristatė deklaracijos turinį Georgui von Hertlingui.
+- susijęs iš [[objektai/autoriai/G. H. F. Neselmanas.md#claim-t-60550|G. H. F. Neselmanas]]: G. H. F. Neselmano veikalas „Die Sprache der alten Preussen an ihren Überresten“ išleistas Berlyne 1845 m.
+- susijęs iš [[objektai/autoriai/G. H. F. Neselmanas.md#claim-t-60552|G. H. F. Neselmanas]]: G. H. F. Neselmano veikalas „Thesaurus linguae prussicae“ išleistas Berlyne 1873 m.
+- susijęs iš [[objektai/autoriai/Hevekeb, K.md#claim-t-54120|Hevekeb, K]]: K. Hevekebas 1906 m. Berlyne parengė disertaciją „Die Schlacht bei Tannenberg“.
+- susijęs iš [[objektai/autoriai/J. Jakštas.md#claim-t-100099|J. Jakštas]]: J. Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje viduramžių istorijoje, kurią docento teisėmis dėstė Vilniaus universitete 1940–1944 m.
+- susijęs iš [[objektai/autoriai/M. Tepenas.md#claim-t-64748|M. Tepenas]]: M. Tepenas 1853 m. Berlyne paskelbė veikalą „Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz“.
+- susijęs iš [[objektai/autoriai/Toppen M.md#claim-t-60800|Toppen M]]: M. Toppenas 1853 m. Berlyne išleido veikalą apie Prūsijos istoriografiją nuo Petro Dusburgiečio iki K. Schützo.
+- susijęs iš [[objektai/autoriai/W. Pierson.md#claim-t-60850|W. Pierson]]: W. Piersonas 1871 m. Berlyne išleido M. Prätoriaus „Deliciae Prussicae oder Preussische Schaubühne“ rankraščio ištrauką.
+- susijęs iš [[objektai/autoriai/Werminghoef, A.md#claim-t-54139|Werminghoef, A]]: A. Werminghoefas 1910 m. Berlyne paskelbė darbą apie Tannenbergo mūšį ir jo reikšmę vokietybei Rytuose.
+- susijęs iš [[objektai/autoriai/Werminghoef, A.md#claim-t-54140|Werminghoef, A]]: A. Werminghoef 1910 m. Berlyne išleido veikalą apie Tannenbergo mūšį ir jo reikšmę vokietybei Rytuose.
+- susijęs iš [[objektai/daiktai/Prūsijos žemės kronikos nuorašai.md#claim-t-59704|Prūsijos žemės kronikos nuorašai]]: M. Tepenas 1861 m. paskelbė kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus.
+- susijęs iš Bauer H. Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im 14. Jahrhundert in Preussen: H. Bauerio veikalas „Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im 14. Jahrhundert in Preussen“ išleistas Berlyne 1935 m.
+- susijęs iš Berlyno karališkosios bibliotekos kodeksas su Dusburgiečio kronikos nuorašu: Berlyno karališkosios bibliotekos kodekse yra nevisiškai pilnas Dusburgiečio kronikos nuorašas, rašytas XVI a. viduryje.
+- susijęs iš Gerullis G. Die altpreussischen Ortsnamen: G. Gerullio veikalas „Die altpreussischen Ortsnamen“ išleistas Berlyne ir Leipcige 1922 m.
+- susijęs iš Heweker, Die Schlacht bei Tannenberg: Hewekerio „Die Schlacht bei Tannenberg“ buvo disertacija, išleista Berlyne 1906 m.
+- susijęs iš Hollack E. Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen: E. Hollacko „Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen“ išleista Glogau ir Berlyne 1908 m.
+- susijęs iš K. Hevekeb, Die Schlacht bei Tannenberg: K. Hevekebo „Die Schlacht bei Tannenberg“ 1906 m. buvo apginta kaip disertacija Berlyne.
+- susijęs iš Lietuvos neutralumo įstatymas (1939 m.): Lietuva neutralumo įstatymą ratifikavo 1939 m. sausio 10 d., bet toliau manevravo tarp Varšuvos, Maskvos ir Berlyno.
+- susijęs iš Milthaler F. Die Grossgebietiger des Deutschen Ritterordens bis 1440,—Königsberg (Pr.) und Berlin, 1940: F. Milthalerio „Die Grossgebietiger des Deutschen Ritterordens bis 1440“ išleista Karaliaučiuje ir Berlyne 1940 m.
+- susijęs iš Mortensen G. Beiträge zu den Nationalitäten und Siedlungsverhältnissen von Pr. Litauen: G. Mortenseno „Beiträge zu den Nationalitäten und Siedlungsverhältnissen von Pr. Litauen“ išleista Berlyne 1927 m.
+- susijęs iš Nesselmann G. H. F. Die Sprache der alten Preussen an ihren Überresten: G. H. F. Nesselmanno veikalas „Die Sprache der alten Preussen an ihren Überresten“ išleistas Berlyne 1845 m.
+- susijęs iš Nesselmann G. H. F. Thesaurus linguae prussicae: G. H. F. Nesselmanno veikalas „Thesaurus linguae prussicae“ išleistas Berlyne 1873 m.
+- susijęs iš Otrębski J. Namen von zwei Jatwingerstämmen: J. Otrębskio „Namen von zwei Jatwingerstämmen“ 1963 m. publikuotas Berlyne leidinyje „Slawische Namenforschung“.
+- susijęs iš Pierson W. über die Nationalität und Sprache der alten Preussen: W. Piersono straipsnis „Über die Nationalität und Sprache der alten Preussen“ paskelbtas Berlyne 1873 m., p. 1–20.
+- susijęs iš Prätorius M. Deliciae Prussicae oder Preussische Schaubühne Im wörtlichen Auszuge aus dem Manuscript herausgegeben von Dr. W. Pierson: M. Prätoriaus „Deliciae Prussicae oder Preussische Schaubühne“ rankraščio ištraukas 1871 m. Berlyne išleido W. Piersonas.
+- susijęs iš Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz: M. Toppeno „Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz“ išleista Berlyne 1853 m.
+- susijęs iš Vasario 16 Aktas: 1918 m. kovo 23 d. Berlyne Antano Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.
+- susijęs iš Vienos bibliotekos Dusburgiečio kronikos rankraštis: Vienos bibliotekos Dusburgiečio kronikos rankraštis XVII a. ar vėliau nurašytas nuo Berlyno teksto.
+- susijęs iš Wattenbach W. Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des dreizehnten Jahrhunderts, Bd. 2,—Berlin, 1886: W. Wattenbacho „Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des dreizehnten Jahrhunderts“ antras tomas išleistas Berlyne 1886 m.
+- susijęs iš Ziesemer W. Nicolaus von Jeroschin und seine Quelle: W. Ziesemerio veikalas „Nicolaus von Jeroschin und seine Quelle“ išleistas Berlyne 1906 metais.
+- susijęs iš Karaliaučius: M. Tepenas 1861 m. paskelbė Petro Dusburgiečio kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus.
+- susijęs iš Lietuva: Lietuva 1939 m. sausio 10 d. ratifikavo neutralumo įstatymą, bet toliau manevravo tarp Varšuvos, Maskvos ir Berlyno.
+- susijęs iš Maskva: Per Lenkijos ultimatumą Maskva ir Berlynas Kaunui patarė priimti lenkų reikalavimus.
+- susijęs iš Maskva: Per Lenkijos ultimatumą Prancūzija, Britanija, Maskva ir Berlynas patarė Kaunui priimti lenkų reikalavimus.
+- susijęs iš Viena: Vienos bibliotekos rankraštis, datuojamas XVII a. ar vėlesniu laiku, buvo nurašytas nuo Berlyno teksto.
+- susijęs iš [[objektai/zodynas/konstitucinė monarchija.md#claim-t-15627|konstitucinė monarchija]]: Konstitucinė monarchija liko Lietuvos Tarybos darbotvarkėje, Berlyne svarstant personalinę uniją su Saksonija arba Prūsija.
+- susijęs iš [[objektai/asmenys/Algirdas Julius Greimas.md#claim-t-78043|Algirdas Julius Greimas]]: Algirdas Julius Greimas buvo semiotikas, žinomas Prancūzijoje.
 - susijęs iš [[objektai/asmenys/Arvydas Sabonis.md#claim-t-78045|Arvydas Sabonis]]: Arvydas Sabonis buvo Lietuvos ir NBA krepšinio žvaigždė.
 - susijęs iš [[objektai/asmenys/Emmanuel Levinas.md#claim-t-18885|Emmanuel Levinas]]: Filosofas Emmanuelis Levinas gimė Kaune ir ten baigė gimnaziją.
 - susijęs iš [[objektai/asmenys/Frank Lubin.md#claim-t-18894|Frank Lubin]]: Krepšininkas Frank Lubin su Lietuvos rinktine tapo Europos čempionu.
@@ -219,22 +394,12 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 - susijęs iš [[objektai/asmenys/Senda Berenson-Abbot.md#claim-t-78070|Senda Berenson-Abbot]]: Senda Berenson-Abbot, vadinama Amerikos krepšinio motina, gimė Vilniuje 1868 m.
 - susijęs iš [[objektai/asmenys/Vilhelmas fon Urachas.md#claim-t-26463|Vilhelmas fon Urachas]]: Vilhelmas fon Urachas 1918 m. liepos 13 d. buvo pakviestas užimti Lietuvos sostą ir paskelbtas karaliumi Mindaugu II.
 - susijęs iš [[objektai/asmenys/Wilhelmas II.md#claim-t-19344|Wilhelmas II]]: 1918 m. kovo 23 d. Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę.
-- susijęs iš [[objektai/autoriai/G. H. F. Neselmanas.md#claim-t-60550|G. H. F. Neselmanas]]: G. H. F. Neselmano veikalas „Die Sprache der alten Preussen an ihren Überresten“ išleistas Berlyne 1845 m.
-- susijęs iš [[objektai/autoriai/G. H. F. Neselmanas.md#claim-t-60552|G. H. F. Neselmanas]]: G. H. F. Neselmano veikalas „Thesaurus linguae prussicae“ išleistas Berlyne 1873 m.
-- susijęs iš [[objektai/autoriai/Hevekeb, K.md#claim-t-54120|Hevekeb, K]]: K. Hevekebas 1906 m. Berlyne parengė disertaciją „Die Schlacht bei Tannenberg“.
-- susijęs iš [[objektai/autoriai/J. Jakštas.md#claim-t-100099|J. Jakštas]]: J. Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje viduramžių istorijoje, kurią docento teisėmis dėstė Vilniaus universitete 1940–1944 m.
 - susijęs iš [[objektai/autoriai/Jakštas, J.md#claim-t-71517|Jakštas, J]]: J. Jakštas paskelbė studiją apie Vokiečių ordiną ir Lietuvą Vytenio bei Gedimino laikais ir nagrinėjo Jogailos bei Vytauto kovas su Ordinu.
 - susijęs iš [[objektai/autoriai/K. Avižonis.md#claim-t-30723|K. Avižonis]]: K. Avižonis tyrė poliublininius laikus, parašė veikalą apie bajorus Vazų laikų Lietuvoje ir kelias kritiškas istorijos studijas.
 - susijęs iš [[objektai/autoriai/M. Tepenas.md#claim-t-64747|M. Tepenas]]: M. Tepenas šiame šaltinyje tiesiogiai nurodomas kaip Petro Dusburgiečio kronikos mokslinio leidimo parengėjas ir paskelbėjas 1861 m.
-- susijęs iš [[objektai/autoriai/M. Tepenas.md#claim-t-64748|M. Tepenas]]: M. Tepenas 1853 m. Berlyne paskelbė veikalą „Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz“.
 - susijęs iš [[objektai/autoriai/M. Tepenas.md#claim-t-64750|M. Tepenas]]: M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė mokslinį lotynišką kronikos leidimą.
-- susijęs iš [[objektai/autoriai/Toppen M.md#claim-t-60800|Toppen M]]: M. Toppenas 1853 m. Berlyne išleido veikalą apie Prūsijos istoriografiją nuo Petro Dusburgiečio iki K. Schützo.
 - susijęs iš [[objektai/autoriai/W. Eckert.md#claim-t-31060|W. Eckert]]: W. Eckertas tyrė Kuršo Cedis kraštovaizdį ir kovą dėl Pietų Kuršo tarp Vokiečių ordino ir Lietuvos.
-- susijęs iš [[objektai/autoriai/W. Pierson.md#claim-t-60850|W. Pierson]]: W. Piersonas 1871 m. Berlyne išleido M. Prätoriaus „Deliciae Prussicae oder Preussische Schaubühne“ rankraščio ištrauką.
-- susijęs iš [[objektai/autoriai/Werminghoef, A.md#claim-t-54139|Werminghoef, A]]: A. Werminghoefas 1910 m. Berlyne paskelbė darbą apie Tannenbergo mūšį ir jo reikšmę vokietybei Rytuose.
-- susijęs iš [[objektai/autoriai/Werminghoef, A.md#claim-t-54140|Werminghoef, A]]: A. Werminghoef 1910 m. Berlyne išleido veikalą apie Tannenbergo mūšį ir jo reikšmę vokietybei Rytuose.
 - susijęs iš [[objektai/daiktai/Ginklai ir ginkluotė.md#claim-t-45487|Ginklai ir ginkluotė]]: 1918 m. gruodžio 21 d. A. Smetona Berlyne pasirašė 100 mln. markių paskolą ginklams įsigyti.
-- susijęs iš [[objektai/daiktai/Prūsijos žemės kronikos nuorašai.md#claim-t-59704|Prūsijos žemės kronikos nuorašai]]: M. Tepenas 1861 m. paskelbė kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus.
 - susijęs iš [[objektai/grupes/Laikinoji vyriausybė.md#claim-t-19775|Laikinoji vyriausybė]]: 1941 m. birželio 23 d. sudarytos Laikinosios vyriausybės vadovu tapo literatūros dėstytojas Juozas Ambrazevičius.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179342|Lietuviai]]: Oberosto režimo metu lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų.
 - susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-26625|Lietuvių aktyvistų frontas]]: Lietuvių aktyvistų frontas rinko žinias iš sovietų valdomos Lietuvos ir iš Vokietijos siuntė instrukcijas dėl valstybingumo atkūrimo bei sukilimo.
@@ -247,48 +412,24 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 - susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.).md#claim-t-01730|Lietuvos nepriklausomybės paskelbimas (1918 m. vasario 16 d.)]]: 1918 m. vasario 16 d. Lietuvos Taryba priėmė naują savarankišką pareiškimą, tapusį Lietuvos nepriklausomybės paskelbimu.
 - susijęs iš [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.).md#claim-t-75298|Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]: Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.
 - susijęs iš [[objektai/posakiai/„Vokietijos vadovaujamoje Naujoje Europoje...“.md#claim-t-75625|„Vokietijos vadovaujamoje Naujoje Europoje...“]]: LAF vadovybė tikėjo, kad Vokietijos vadovaujamoje Naujoje Europoje tautoms bus leista tvarkytis pačioms.
-- susijęs iš Bauer H. Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im 14. Jahrhundert in Preussen: H. Bauerio veikalas „Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im 14. Jahrhundert in Preussen“ išleistas Berlyne 1935 m.
-- susijęs iš Berlyno karališkosios bibliotekos kodeksas su Dusburgiečio kronikos nuorašu: Berlyno karališkosios bibliotekos kodekse yra nevisiškai pilnas Dusburgiečio kronikos nuorašas, rašytas XVI a. viduryje.
 - susijęs iš Dabartis: Oberosto režimo metais „Dabartis“ buvo vienintelis lietuviškai leistas cenzūruojamas laikraštis.
 - susijęs iš Elbingo Dusburgiečio kronikos nuorašas: Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.
-- susijęs iš Gerullis G. Die altpreussischen Ortsnamen: G. Gerullio veikalas „Die altpreussischen Ortsnamen“ išleistas Berlyne ir Leipcige 1922 m.
 - susijęs iš Geschichte des deutschen Ritterordens: Voigt atskirai išleido „Geschichte des deutschen Ritterordens“ 1857–1859 m.
-- susijęs iš Heweker, Die Schlacht bei Tannenberg: Hewekerio „Die Schlacht bei Tannenberg“ buvo disertacija, išleista Berlyne 1906 m.
-- susijęs iš Hollack E. Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen: E. Hollacko „Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen“ išleista Glogau ir Berlyne 1908 m.
-- susijęs iš K. Hevekeb, Die Schlacht bei Tannenberg: K. Hevekebo „Die Schlacht bei Tannenberg“ 1906 m. buvo apginta kaip disertacija Berlyne.
-- susijęs iš Lietuvos neutralumo įstatymas (1939 m.): Lietuva neutralumo įstatymą ratifikavo 1939 m. sausio 10 d., bet toliau manevravo tarp Varšuvos, Maskvos ir Berlyno.
 - susijęs iš Lietuvos prekyba su Prūsais: „Lietuvos prekyba su Prūsais“ buvo paskelbta 1934 m. kaip Lietuvos ūkio istorijos darbas apie laikotarpį iki XVI a. pradžios.
-- susijęs iš Milthaler F. Die Grossgebietiger des Deutschen Ritterordens bis 1440,—Königsberg (Pr.) und Berlin, 1940: F. Milthalerio „Die Grossgebietiger des Deutschen Ritterordens bis 1440“ išleista Karaliaučiuje ir Berlyne 1940 m.
-- susijęs iš Mortensen G. Beiträge zu den Nationalitäten und Siedlungsverhältnissen von Pr. Litauen: G. Mortenseno „Beiträge zu den Nationalitäten und Siedlungsverhältnissen von Pr. Litauen“ išleista Berlyne 1927 m.
-- susijęs iš Nesselmann G. H. F. Die Sprache der alten Preussen an ihren Überresten: G. H. F. Nesselmanno veikalas „Die Sprache der alten Preussen an ihren Überresten“ išleistas Berlyne 1845 m.
-- susijęs iš Nesselmann G. H. F. Thesaurus linguae prussicae: G. H. F. Nesselmanno veikalas „Thesaurus linguae prussicae“ išleistas Berlyne 1873 m.
-- susijęs iš Otrębski J. Namen von zwei Jatwingerstämmen: J. Otrębskio „Namen von zwei Jatwingerstämmen“ 1963 m. publikuotas Berlyne leidinyje „Slawische Namenforschung“.
 - susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinyje nurodoma, kad pilnas kronikos lietuviškas vertimas čia publikuojamas pirmą kartą.
 - susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Leidinyje nurodoma, kad M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė kronikos mokslinį leidimą originalo lotynų kalba.
 - susijęs iš Petras Dusburgietis, Prūsijos žemės kronika (1985 m.): Įžanginiame straipsnyje Petro iš Dusburgo kronika vadinama nepakeičiamai svarbia baltistikos ir lituanistikos mokslui dėl unikalių žinių apie vakarų baltų ir lietuvių istoriją.
-- susijęs iš Pierson W. über die Nationalität und Sprache der alten Preussen: W. Piersono straipsnis „Über die Nationalität und Sprache der alten Preussen“ paskelbtas Berlyne 1873 m., p. 1–20.
-- susijęs iš Prätorius M. Deliciae Prussicae oder Preussische Schaubühne Im wörtlichen Auszuge aus dem Manuscript herausgegeben von Dr. W. Pierson: M. Prätoriaus „Deliciae Prussicae oder Preussische Schaubühne“ rankraščio ištraukas 1871 m. Berlyne išleido W. Piersonas.
 - susijęs iš SSRS ir Lietuvos savitarpio pagalbos sutartis (1939 m. spalio 10 d.): Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.
 - susijęs iš SSRS ir Vokietijos slaptasis protokolas (1941 m. sausio 10 d.): 1941 m. sausio 10 d. slaptuoju protokolu SSRS iš Vokietijos už 7,5 mln. aukso dolerių nusipirko pietvakarines lietuvių žemes.
 - susijęs iš Scriptores rerum Prussicarum: M. Tepenas 1861 m. „Scriptores rerum Prussicarum“ serijoje paskelbė mokslinį kronikos leidimą lotynų kalba.
-- susijęs iš Toppen M. Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz: M. Toppeno „Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz“ išleista Berlyne 1853 m.
-- susijęs iš Vasario 16 Aktas: 1918 m. kovo 23 d. Berlyne Antano Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.
-- susijęs iš Vienos bibliotekos Dusburgiečio kronikos rankraštis: Vienos bibliotekos Dusburgiečio kronikos rankraštis XVII a. ar vėliau nurašytas nuo Berlyno teksto.
-- susijęs iš Wattenbach W. Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des dreizehnten Jahrhunderts, Bd. 2,—Berlin, 1886: W. Wattenbacho „Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des dreizehnten Jahrhunderts“ antras tomas išleistas Berlyne 1886 m.
-- susijęs iš Ziesemer W. Nicolaus von Jeroschin und seine Quelle: W. Ziesemerio veikalas „Nicolaus von Jeroschin und seine Quelle“ išleistas Berlyne 1906 metais.
 - susijęs iš Elbingas: Torunės nuorašo pagrindu padarytas ir Elbingo nuorašas.
-- susijęs iš Karaliaučius: M. Tepenas 1861 m. paskelbė Petro Dusburgiečio kronikos mokslinį leidimą, parengtą pagal Torunės, Karaliaučiaus, Berlyno ir kitus nuorašus.
 - susijęs iš Kaunas: Emmanuelis Levinas gimė Kaune ir baigė gimnaziją.
 - susijęs iš Kaunas: Po pirmojo bolševikmečio pertraukos Z. Ivinskis tęsė Lietuvos istorijos darbą Filosofijos fakultete Kaune.
 - susijęs iš Klaipėdos kraštas: Berlyne nustatyta sienos linija Klaipėdos teritoriją paliko Lietuvos pusėje.
-- susijęs iš Lietuva: Lietuva 1939 m. sausio 10 d. ratifikavo neutralumo įstatymą, bet toliau manevravo tarp Varšuvos, Maskvos ir Berlyno.
 - susijęs iš Lietuva: Vokiečių vermachtui įžengiant į Lietuvą, daug lietuvių jį sutiko palankiai, kai kurie net su gėlėmis rankose.
 - susijęs iš Livonija: Petro iš Dusburgo kronikos nuorašas buvo Livonijos Roneburgo pilies bažnyčioje.
-- susijęs iš Maskva: Per Lenkijos ultimatumą Maskva ir Berlynas Kaunui patarė priimti lenkų reikalavimus.
-- susijęs iš Maskva: Per Lenkijos ultimatumą Prancūzija, Britanija, Maskva ir Berlynas patarė Kaunui priimti lenkų reikalavimus.
 - susijęs iš Pravieniškių įkalinimo kolonija: 1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus.
 - susijęs iš Pravieniškių įkalinimo kolonija: 1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus.
-- susijęs iš Viena: Vienos bibliotekos rankraštis, datuojamas XVII a. ar vėlesniu laiku, buvo nurašytas nuo Berlyno teksto.
 - susijęs iš Vilnius: Z. Ivinskis po pirmojo bolševikmečio pertraukos Ekonominių mokslų fakultete Vilniuje skaitė Lietuvos ūkio istoriją.
 - susijęs iš Vilnius: 1939 m. spalio pabaigoje Lietuvos kariuomenė įžengė į atgautą istorinę sostinę Vilnių.
 - susijęs iš Vokietija: 1918 m. kovo 23 d. Vokietijos kaizeris Wilhelmas II paskelbė pripažįstantis Lietuvos nepriklausomybę.
@@ -297,7 +438,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 - susijęs iš Vokietija: Aktyvistai per ryšininkus iš Vokietijos siuntė instrukcijas dėl Lietuvos valstybingumo atkūrimo ir būsimo sukilimo detalių.
 - susijęs iš [[objektai/zodynas/dezertyrai.md#claim-t-183412|dezertyrai]]: Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės ir buvo oficialiai ieškomi kaip dezertyrai.
 - susijęs iš [[objektai/zodynas/dezertyrai.md#claim-t-22116|dezertyrai]]: Pradėjus mobilizaciją į SSRS kariuomenę, lietuviai dezertyrai vengė tarnybos Raudonojoje armijoje.
-- susijęs iš [[objektai/zodynas/konstitucinė monarchija.md#claim-t-15627|konstitucinė monarchija]]: Konstitucinė monarchija liko Lietuvos Tarybos darbotvarkėje, Berlyne svarstant personalinę uniją su Saksonija arba Prūsija.
 - susijęs iš [[objektai/zodynas/poliublininis laikotarpis.md#claim-t-05602|poliublininis laikotarpis]]: Stryjkovskis rašė pirmais poliublininiais dešimtmečiais.
 ## Reikšmingi paminėjimai
 
@@ -326,6 +466,16 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e1c34c7f02b308a989f3e6925d58417c6a0cfe6162b0f812a4dd9fbc378c2745; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-005
 
 - c-003
@@ -343,6 +493,16 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e1c34c7f02b308a989f3e6925d58417c6a0cfe6162b0f812a4dd9fbc378c2745; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Viena: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Viena: mention_match, place, gap=11
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Viena" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-007
 
 - c-004
@@ -362,7 +522,27 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=7f6540af63ca254e7856051b8afe6eb5749a5a61cdc8292e90282326065f7953; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Smetona: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: A. Smetona: mention_match, person, gap=8
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "A. Smetona" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-012
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2154df4a2910ee94c240c180118816c4fe31e2b24fb06f5401552c7ea745c105; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Juozas Ambrazevičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Juozas Ambrazevičius: mention_match, author, gap=76
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Juozas Ambrazevičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-005
@@ -386,6 +566,16 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 31145-31299; hash=bb542c81ff96d29d6c6637b0edaca90b3daf06573cb01beb16d9ae08415d067f; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Zenonas Ivinskis: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Zenonas Ivinskis: mention_match, author, gap=75
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Zenonas Ivinskis" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-011
 
 - c-006
@@ -404,7 +594,27 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=e77d4be63d9fe3c2114693ee93aa4876a6986f9e9bbf2cf372419e41df9a1656; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Baltija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Baltija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Baltija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=c78b2967fde686b37b79a5f9087b7ddefe4182f7ff41adba41a050ae399c018e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kaunas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Kaunas: mention_match, place, gap=47
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Kaunas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-013
 
 - c-007
@@ -427,6 +637,16 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=3b41a38fb58fdfe0d1799281d24bba536d0ed2b8dc244c640b6f6a10e33c886e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-008
@@ -446,7 +666,27 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f0b01c2624a3129d616a6d3b716a18f5185fed671dd07fe84139ee65e4c2ab57; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Ginklai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Ginklai: mention_match, thing, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Ginklai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-016
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9faa9cb98ff04eaa1a8fae162c535b9fd1754d6735bc4065510328b84edd2710; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Alekna: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: A. Alekna: mention_match, author, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "A. Alekna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-009
@@ -464,6 +704,16 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=31bb7e7ddd95cd3b0b4c585a7e8002c4c87131e3e2fc1c8b5951bd79cf32411b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=41
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-015
 
 - c-010
@@ -486,6 +736,16 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=31bb7e7ddd95cd3b0b4c585a7e8002c4c87131e3e2fc1c8b5951bd79cf32411b; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Bajorai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Bajorai: mention_match, group, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Bajorai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
 
 - c-011
@@ -501,6 +761,16 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=481bb7d09727123a93edf6de37624a642b80e4ad2088aee2291f5eb1607578c0; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Livonija: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Livonija: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Livonija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-009
 
 - c-012
@@ -549,6 +819,16 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=5da45a810c867a433159a8e9ae2e73c4cc5ff2d3d7719828339949a2429a41c8; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Europa: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Europa: mention_match, place, gap=48
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Europa" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
 
 - c-015
@@ -563,4 +843,24 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=9faa9cb98ff04eaa1a8fae162c535b9fd1754d6735bc4065510328b84edd2710; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> A. Alekna: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: A. Alekna: mention_match, author, gap=28
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "A. Alekna" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=8b9c4834d71ccdfc4245e370df1fc832eb448b56b2521cc1b4783ee99ad6c5b5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuviai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Berlynas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Lietuviai: mention_match, group, gap=109
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Berlynas" parinktas kaip owner_note_path. Targetas "Lietuviai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

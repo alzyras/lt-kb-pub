@@ -42,17 +42,17 @@ periodo_grupes:
   global_id: t-79203
   teiginys: '1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   temporaliniai_duomenys: 'įvykio data: 1330-1331; įvykio data: 1331 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-184656|Aleksandras]]: Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.
 - susijęs iš [[objektai/asmenys/Nestanas.md#claim-t-186242|Nestanas]]: Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių.
-- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184822|Petras Goštautas]]: Algirdui paskelbus Podolę savo valda, Petras Goštautas buvo paskirtas jos seniūnu.
 - susijęs iš [[objektai/asmenys/Teodoras (Gedimino brolis).md#claim-t-30391|Teodoras (Gedimino brolis)]]: Privengdamas totorių chano Uzbeko, Teodoras negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva.
 - susijęs iš [[objektai/asmenys/Uzbeko.md#claim-t-30404|Uzbeko]]: Totorių chanas Uzbekas kėlė Teodorui baimę, todėl šis negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva.
+- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-184656|Aleksandras]]: Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.
+- susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184822|Petras Goštautas]]: Algirdui paskelbus Podolę savo valda, Petras Goštautas buvo paskirtas jos seniūnu.
 - susijęs iš Bakota: Karijotaičiai Podolėje statė pilis, tarp jų Kamieniecą, Smotryčą ir Bakotą.
 - susijęs iš Smotryč: Podolėje Karijotaičiai statė pilis, tarp jų Smotryčą, ir ėmė tvarkyti krašto ūkinį gyvenimą.
 - susijęs iš Vilnius: Po Podolės prijungimo prie Lietuvos kunigaikštis Teodoras su šeima buvo išgabentas į Vilnių.

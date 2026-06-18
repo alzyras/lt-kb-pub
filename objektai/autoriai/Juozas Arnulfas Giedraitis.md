@@ -37,6 +37,9 @@ periodo_grupes:
   temporalinis_llm_pakomentavimas: 'Reikia sutrumpinti ir sutelkti teiginį į asmenį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 920660-920959; hash=eabf244ff539a081b100a4ed0b16e2c6f3042e8e71545eb0d9b319d2f904018b; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -54,3 +57,6 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 920660-920959; hash=eabf244ff539a081b100a4ed0b16e2c6f3042e8e71545eb0d9b319d2f904018b; match=exact
+  sprendimo_priezastis: auto

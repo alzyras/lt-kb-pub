@@ -24,6 +24,9 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=53daa7fe40d869de6de16629453f9165c0b902ae80545d824e4633ea99a01b0f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-58649"></a>
 - t-002
@@ -32,16 +35,19 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
   sudarymo_pagrindimas: 'Citata pagrindžia upės pavadinimus ir geografinę eigą; pradinis teiginys yra bibliografinis fragmentas.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/autoriai/A. Becenbergeris.md#claim-t-56717|A. Becenbergeris]]: A. Becenbergeris šiame šaltinyje pristatomas kaip tyrinėtojas, nustatęs lietuvių ir prūsų kalbinę ribą pagal vietovardžių paplitimą.
-- susijęs iš [[objektai/autoriai/A. Becenbergeris.md#claim-t-56719|A. Becenbergeris]]: A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 408862-409176; hash=ad03a4fb87480cfdbfc434f8c2dfb5098d1e49edca2be35fcdf9f6c53d14c986; match=exact
+  sprendimo_priezastis: auto
 - susijęs iš [[objektai/autoriai/Basanavičius J.md#claim-t-64568|Basanavičius J]]: Basanavičiaus veikale nurodomas Vangrapės upės kilpoje, apie 400 m į pietus nuo Tamoviškių, žinomas Kampsvykalnio piliakalnis.
-- susijęs iš [[objektai/autoriai/Nalepa J.md#claim-t-60518|Nalepa J]]: J. Nalepa pirmykštės gentinės Sūduvos siaurąja prasme ieškojo apie Sūduonią, Šešupės aukštupyje.
-- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65937|Nadruviai]]: Viduryje Nadruva priklausė, atrodo, Mindaugo Lietuvai.
-- susijęs iš [[objektai/ivykiai/Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.).md#claim-t-66479|Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)]]: Bartenšteino pilyje buvo apsupta 400 brolių ir ginklanešių, o prūsai aplink pilį įrengė tris kuorus su 1300 karių.
 - susijęs iš Basanavičius J., Iš gyvenimo vėlių: Basanavičiaus veikalo puslapiai 190–191 nurodomi prie Kampsvykalnio piliakalnio Vangrapės krante, į pietus nuo Tamoviškių.
 - susijęs iš Arsa: Arsa resp. Arsė tapatinta ir su Vangrape (Tepenas M.).
 - susijęs iš Kampsvykiai: Kampsvykių pilis taip pat tapatinama su Kamantų piliakalniu kairiajame Vangrapės krante, į šiaurę nuo Darkiemio.
 - susijęs iš Kampsvykiai: 1275 m. sunaikinta nadruvių Kampsvykių pilis lokalizuojama Kampsvykalnyje, dešiniajame Vangrapės krante.
+- susijęs iš [[objektai/autoriai/A. Becenbergeris.md#claim-t-56717|A. Becenbergeris]]: A. Becenbergeris šiame šaltinyje pristatomas kaip tyrinėtojas, nustatęs lietuvių ir prūsų kalbinę ribą pagal vietovardžių paplitimą.
+- susijęs iš [[objektai/autoriai/A. Becenbergeris.md#claim-t-56719|A. Becenbergeris]]: A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos.
+- susijęs iš [[objektai/autoriai/Nalepa J.md#claim-t-60518|Nalepa J]]: J. Nalepa pirmykštės gentinės Sūduvos siaurąja prasme ieškojo apie Sūduonią, Šešupės aukštupyje.
+- susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65937|Nadruviai]]: Viduryje Nadruva priklausė, atrodo, Mindaugo Lietuvai.
+- susijęs iš [[objektai/ivykiai/Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.).md#claim-t-66479|Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)]]: Bartenšteino pilyje buvo apsupta 400 brolių ir ginklanešių, o prūsai aplink pilį įrengė tris kuorus su 1300 karių.
 - susijęs iš Nadruva: Nadruva plytėjo į rytus ir pietryčius nuo Sembos, iki Šešupės vidupio, Vištyčio ežero ir Geldapės upės.
 - susijęs iš Prieglius: Kalbinė riba tarp lietuvių ir prūsų Ordino atsikraustymo metu ėjo Priegliumi ir kitomis natūraliomis ribomis.
 ## Reikšmingi paminėjimai
@@ -72,4 +78,10 @@ Dusburgietis teigia, kad juos sulaikė išdavikas, tikindamas, kad prie Vangrap�
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 408862-409176; hash=ad03a4fb87480cfdbfc434f8c2dfb5098d1e49edca2be35fcdf9f6c53d14c986; match=exact
+  sprendimo_priezastis: auto
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=53daa7fe40d869de6de16629453f9165c0b902ae80545d824e4633ea99a01b0f; match=fallback; occurrences=0
+  sprendimo_priezastis: auto

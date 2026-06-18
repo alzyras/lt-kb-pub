@@ -41,6 +41,9 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   teiginys: 'Ankstyvieji kartečės užtaisai buvo dedami į virvėmis aprišamus maišelius, o vėliau atsirado cilindro formos metalinėse dėžutėse laikoma kartečė.'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4fa622d4a1e9cad482ec43595779f10660afef043e0349bac1d45a1b0f7567a1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-78900"></a>
 - t-003
@@ -49,6 +52,9 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   sudarymo_pagrindimas: 'Pašalintas kontekstinis jungtukas ir sutrumpintas sakinys.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 622944-623211; hash=06666d3cb8349977d3da8d58ffa2a914424f680f5ebd195d040342d547f1593b; match=whitespace_regex
+  sprendimo_priezastis: auto
 
 <a id="claim-t-78901"></a>
 - t-004
@@ -57,6 +63,9 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=72e26683e19cee2f90cedf27722ba30968744052885e6d70fc7dddd3a30b8386; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 <a id="claim-t-78902"></a>
 - t-005
@@ -65,6 +74,9 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   sudarymo_pagrindimas: 'Teiginys glaustai ir tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f076b348bc969a151ec87a5d55a7c64c924bf04d395742e2fbfe635e7c2be61e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -98,7 +110,13 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=72e26683e19cee2f90cedf27722ba30968744052885e6d70fc7dddd3a30b8386; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 622944-623211; hash=06666d3cb8349977d3da8d58ffa2a914424f680f5ebd195d040342d547f1593b; match=whitespace_regex
+  sprendimo_priezastis: auto
     - t-005
 
 - c-003
@@ -125,6 +143,9 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f076b348bc969a151ec87a5d55a7c64c924bf04d395742e2fbfe635e7c2be61e; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-002
 
 - c-004
@@ -141,4 +162,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4fa622d4a1e9cad482ec43595779f10660afef043e0349bac1d45a1b0f7567a1; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
     - t-001

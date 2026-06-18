@@ -27,6 +27,16 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=753a9d5c4406059346e220a9749f78c856f095cd2974ab7d84199d04a7332ea4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> seimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liaudies seimas (seimas): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: seimas: mention_match, thing, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liaudies seimas (seimas)" parinktas kaip owner_note_path. Targetas "seimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-19796"></a>
 - t-002
@@ -36,17 +46,27 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
   susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Baltija; mentioned_place: Latvija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/autoriai/Justas Paleckis.md#claim-t-19415|Justas Paleckis]]: Justas Paleckis vadovavo delegacijai, kuri 1940 m. rugpjūčio 3 d. Maskvoje pasiprašė į SSRS sudėtį.
-- susijęs iš [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba.md#claim-t-65777|Lietuvos SSR Aukščiausioji Taryba]]: 1940 m. rugpjūčio 25 d. Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 389188-389669; hash=b550e5e9d15865b145e50ca8f201e8bbe6b3df1c1023f3ca37319bb84a88c6da; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liaudies seimas (seimas): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liaudies seimas (seimas)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba.md#claim-t-45085|Lietuvos SSR liaudies komisarų taryba (institucija)]]: Lietuvos SSR liaudies komisarų taryba buvo patvirtinta formaliai aukščiausiąja respublikos vykdomąja valdžia ir pakeitė Liaudies vyriausybę.
 - susijęs iš [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba.md#claim-t-45086|Lietuvos SSR liaudies komisarų taryba (institucija)]]: Lietuvos SSR liaudies komisarų taryba buvo patvirtinta formaliai aukščiausiąja respublikos vykdomąja valdžia.
 - susijęs iš [[objektai/grupes/Lietuvos SSR liaudies komisarų taryba.md#claim-t-45087|Lietuvos SSR liaudies komisarų taryba (institucija)]]: Lietuvos SSR liaudies komisarų taryba buvo patvirtinta formaliai aukščiausiąja respublikos vykdomąja valdžia ir pakeitė Liaudies vyriausybę.
+- susijęs iš [[objektai/ivykiai/Lietuvos žemės nacionalizavimo deklaracijos priėmimas (1940 m. liepos 22 d.).md#claim-t-75226|Lietuvos žemės nacionalizavimo deklaracijos priėmimas (1940 m. liepos 22 d.)]]: 1940 m. liepos 22 d. vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją.
+- susijęs iš [[objektai/autoriai/Justas Paleckis.md#claim-t-19415|Justas Paleckis]]: Justas Paleckis vadovavo delegacijai, kuri 1940 m. rugpjūčio 3 d. Maskvoje pasiprašė į SSRS sudėtį.
+- susijęs iš [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba.md#claim-t-65777|Lietuvos SSR Aukščiausioji Taryba]]: 1940 m. rugpjūčio 25 d. Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba.
 - susijęs iš [[objektai/ivykiai/Baltijos šalių paskelbimas sovietų socialistinėmis respublikomis (1940 m. liepos 21 d.).md#claim-t-183218|Baltijos šalių paskelbimas sovietų socialistinėmis respublikomis (1940 m. liepos 21 d.)]]: 1940 m. liepos 21 d. trijų Baltijos šalių „parlamentai“ paskelbė savo šalis sovietų socialistinėmis respublikomis.
 - susijęs iš [[objektai/ivykiai/Lietuvos SSR sovietinės valdžios institucijų įforminimas (1940 m. rugpjūčio 25-26 d.).md#claim-t-20283|Lietuvos SSR sovietinės valdžios institucijų įforminimas (1940 m. rugpjūčio 25-26 d.)]]: 1940 m. rugpjūčio 25 d. Liaudies seimas pervadintas Lietuvos SSR Aukščiausiąja Taryba.
 - susijęs iš [[objektai/ivykiai/Lietuvos SSR sovietinės valdžios institucijų įforminimas (1940 m. rugpjūčio 25-26 d.).md#claim-t-20284|Lietuvos SSR sovietinės valdžios institucijų įforminimas (1940 m. rugpjūčio 25-26 d.)]]: Po Lietuvos pavertimo SSRS dalimi Lietuvos įstaigose, ypač NKVD, sovietinę tvarką įvedė iš SSRS atvykę „specialistai“.
 - susijęs iš [[objektai/ivykiai/Lietuvos delegacijos prašymas Maskvoje įeiti į SSRS sudėtį (1940 m. rugpjūčio 3 d.).md#claim-t-75137|Lietuvos delegacijos prašymas Maskvoje įeiti į SSRS sudėtį (1940 m. rugpjūčio 3 d.)]]: Okupantų paskirto Liaudies seimo nutarimai buvo neteisėti, nes jis neturėjo įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS.
 - susijęs iš [[objektai/ivykiai/Lietuvos delegacijos prašymas Maskvoje įeiti į SSRS sudėtį (1940 m. rugpjūčio 3 d.).md#claim-t-75138|Lietuvos delegacijos prašymas Maskvoje įeiti į SSRS sudėtį (1940 m. rugpjūčio 3 d.)]]: Lietuvos pasiuntiniams užsienyje paskelbus protestus prieš okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas turtas.
-- susijęs iš [[objektai/ivykiai/Lietuvos žemės nacionalizavimo deklaracijos priėmimas (1940 m. liepos 22 d.).md#claim-t-75226|Lietuvos žemės nacionalizavimo deklaracijos priėmimas (1940 m. liepos 22 d.)]]: 1940 m. liepos 22 d. vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją.
 - susijęs iš Lietuvos SSR Konstitucija (1940 m.): 1940 m. Lietuvos SSR Konstitucija buvo patvirtinta pertvarkant Lietuvos valdymo sistemą pagal Sovietų Sąjungos modelį.
 - susijęs iš Žemės nacionalizavimo deklaracija: Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.
 - susijęs iš Žemės nacionalizavimo deklaracija: Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionalizavimo deklaraciją, pagal kurią visa Lietuvos žemė tapo valstybės nuosavybe, o ūkininkai – žemės naudotojais.
@@ -88,6 +108,16 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 389188-389669; hash=b550e5e9d15865b145e50ca8f201e8bbe6b3df1c1023f3ca37319bb84a88c6da; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liaudies seimas (seimas): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liaudies seimas (seimas)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
 
 - c-003
@@ -106,5 +136,35 @@ Liepos 22 dieną vadinamasis Lietuvos liaudies seimas priėmė žemės nacionali
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 388681-389083; hash=91dae415ee835aa8bc28f646b03ad4d0ef70d7b6b8cb577fdb84daffad713dbf; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> seimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liaudies seimas (seimas): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: seimas: mention_match, thing, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liaudies seimas (seimas)" parinktas kaip owner_note_path. Targetas "seimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 389188-389669; hash=b550e5e9d15865b145e50ca8f201e8bbe6b3df1c1023f3ca37319bb84a88c6da; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liaudies seimas (seimas): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=25
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liaudies seimas (seimas)" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=753a9d5c4406059346e220a9749f78c856f095cd2974ab7d84199d04a7332ea4; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> seimas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Liaudies seimas (seimas): owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: seimas: mention_match, thing, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Liaudies seimas (seimas)" parinktas kaip owner_note_path. Targetas "seimas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -36,6 +36,16 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos bajorija|Lenkijos bajorija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 677332-677743; hash=d294081a1c0bda6f571516a5734b2a2e3331744f32421c9d7c3d1515d5ab6738; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkijos bajorija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: pacta conventa: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkijos bajorija: mention_match, group, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pacta conventa" parinktas kaip owner_note_path. Targetas "Lenkijos bajorija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/paprociai/Elekcinių valdovų pacta conventa priesaikos bajorijai.md#claim-t-54231|Elekcinių valdovų pacta conventa priesaikos bajorijai]]: Nuo 1573 m. pacta conventa vadinti elekcinių valdovų įsipareigojimai LLV bajorijai, kuriems turėjo prisiekti būsimi valdovai ir jų įpėdiniai.
 ## Reikšmingi paminėjimai
 
@@ -56,3 +66,13 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 677332-677743; hash=d294081a1c0bda6f571516a5734b2a2e3331744f32421c9d7c3d1515d5ab6738; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lenkijos bajorija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: pacta conventa: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lenkijos bajorija: mention_match, group, gap=51
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "pacta conventa" parinktas kaip owner_note_path. Targetas "Lenkijos bajorija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

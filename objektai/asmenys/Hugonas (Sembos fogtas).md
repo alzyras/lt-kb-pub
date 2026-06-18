@@ -29,12 +29,22 @@ Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1
   global_id: t-60331
   teiginys: '1316 m. vasarą Sembos fogtas Hugonas maršalo įsakymu su aštuoniais šimtais vyrų išjojo link Medininkų valsčiaus.'
   sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas ir nutrūkęs įsiveržimo fragmentas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Medininkai; mentioned_place: Ragainė; mentioned_place: Semba'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Ragainė; mentioned_place: Semba'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas antraštės triukšmas ir nutrūkęs įsiveržimo fragmentas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f04973f27e96d082c2d8566480be957f0412255b9f389a9e9169579056b3c739; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Hugonas (Sembos fogtas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hugonas (Sembos fogtas)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -55,3 +65,13 @@ Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=f04973f27e96d082c2d8566480be957f0412255b9f389a9e9169579056b3c739; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Medininkai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Hugonas (Sembos fogtas): owner_note_path, person, gap=0
+  ryšio_targeto_parinkimas: Medininkai: mention_match, place, gap=63
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Hugonas (Sembos fogtas)" parinktas kaip owner_note_path. Targetas "Medininkai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -25,7 +25,7 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas, pašalintas OCR triukšmas ir palikta citatos paremta informacija.'
-  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Partigala; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_place: Partigala; mentioned_place: Baiga; mentioned_place: Varmė'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Partigalos pilies ir Skrando kuoro pastatymas.md#claim-t-91917|Partigalos pilies ir Skrando kuoro pastatymas]]: Varmės galingieji Gubučiai sutelkė daug karių, pastatė Partigalos pilį ir Skrando kalne įrengė kuorą.

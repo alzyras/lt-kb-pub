@@ -32,6 +32,9 @@ Dusburgietis teigia, kad labuda G.
   temporalinis_llm_pakomentavimas: 'Citata patvirtina šaltinio publikacijos duomenis.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 781597-781794; hash=b8e8ad5ad1e99f14cfb623a3d4863e3c5336b6399bb342840faaed1d27835a5d; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -47,3 +50,6 @@ Dusburgietis teigia, kad labuda G.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 781597-781794; hash=b8e8ad5ad1e99f14cfb623a3d4863e3c5336b6399bb342840faaed1d27835a5d; match=exact
+  sprendimo_priezastis: auto

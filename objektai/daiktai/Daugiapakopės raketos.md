@@ -76,7 +76,7 @@ Nenurodyta
 - t-003
   global_id: t-45479
   teiginys: 'K. Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m.'
-  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Amsterdamas; mentioned_place: Europa; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Amsterdamas; mentioned_author: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Europa; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1650 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

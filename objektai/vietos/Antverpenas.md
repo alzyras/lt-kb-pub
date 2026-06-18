@@ -35,6 +35,16 @@ Antrasis Alberto Vijūko-Kojelavičiaus „Lietuvos istorijos“ tomas išėjo 1
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia faktą apie Antverpeną, bet pirminis teiginys painus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 5428-5645; hash=618ce3c46bc1738fad55a3de99f1e312d4f98fdab80a557c2ea419fb0805be58; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas Vijūkas-Kojelavičius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antverpenas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Albertas Vijūkas-Kojelavičius: mention_match, author, gap=70
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antverpenas" parinktas kaip owner_note_path. Targetas "Albertas Vijūkas-Kojelavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.): Kojelavičiaus „Lietuvos istorijos“ pirmasis tomas išėjo 1650 m. Gdanske, o antrasis - 1669 m. Antverpene.
 ## Reikšmingi paminėjimai
 
@@ -51,3 +61,13 @@ Antrasis Alberto Vijūko-Kojelavičiaus „Lietuvos istorijos“ tomas išėjo 1
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 5428-5645; hash=618ce3c46bc1738fad55a3de99f1e312d4f98fdab80a557c2ea419fb0805be58; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Albertas Vijūkas-Kojelavičius: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Antverpenas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Albertas Vijūkas-Kojelavičius: mention_match, author, gap=70
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Antverpenas" parinktas kaip owner_note_path. Targetas "Albertas Vijūkas-Kojelavičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

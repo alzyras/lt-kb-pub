@@ -41,9 +41,19 @@ Nenurodyta
   teiginys: 'Vėluvos pilies vadas Tirskas su kitais pilyje buvusiais vyrais išsižadėjo stabmeldystės ir tapo krikščionių tikėjimo gynėjais.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Pradinis teiginys gremėzdiškas; citata palaiko glaustą faktą apie Tirską ir jo vyrus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_person: [[objektai/asmenys/Tirskas|Tirskas]]; mentioned_place: Vėluva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tirskas|Tirskas]]; mentioned_place: Vėluva; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=481316ce99a9aa9317fc5a44f3f9daf56793a2065fbdc1a8bd9fa25a8212e329; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nadruva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Nadruva: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-62918"></a>
 - t-002
@@ -54,6 +64,16 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Nadruva; mentioned_place: Semba; mentioned_place: Vėluva'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 352766-353333; hash=4cbc38b15b3499df5bf85aab66b51aaa443c2c89cc609acdf8d9b49fa3d17bb4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Tirskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Tirskas: mention_match, person, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)" parinktas kaip owner_note_path. Targetas "Tirskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -93,4 +113,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 352766-353333; hash=4cbc38b15b3499df5bf85aab66b51aaa443c2c89cc609acdf8d9b49fa3d17bb4; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Tirskas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Tirskas: mention_match, person, gap=21
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)" parinktas kaip owner_note_path. Targetas "Tirskas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=481316ce99a9aa9317fc5a44f3f9daf56793a2065fbdc1a8bd9fa25a8212e329; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Nadruva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis): owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Nadruva: mention_match, place, gap=17
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Sembos nuniokojimas ir Vėluvos pilies pastatymas (pilis)" parinktas kaip owner_note_path. Targetas "Nadruva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

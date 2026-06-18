@@ -43,6 +43,16 @@ Nenurodyta
   pagrindžia:
     - c-002
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb3d42121b54a78187c263e2ebbdd5be15c1446dfc0ea341424692dfbc490863; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Liudvikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Liudvikas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje" parinktas kaip owner_note_path. Targetas "Liudvikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-62893"></a>
 - t-002
@@ -54,6 +64,16 @@ Nenurodyta
   pagrindžia:
     - c-001
     - c-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=63e0122ea0e1b375ab7549d7e803a94db0fd85e652fe9f8702deaba6aa4e10cd; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pagraudė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Pagraudė: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje" parinktas kaip owner_note_path. Targetas "Pagraudė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -86,6 +106,16 @@ Nenurodyta
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=63e0122ea0e1b375ab7549d7e803a94db0fd85e652fe9f8702deaba6aa4e10cd; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pagraudė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Pagraudė: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje" parinktas kaip owner_note_path. Targetas "Pagraudė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
 
 - c-003
@@ -100,5 +130,35 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb3d42121b54a78187c263e2ebbdd5be15c1446dfc0ea341424692dfbc490863; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Liudvikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Liudvikas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje" parinktas kaip owner_note_path. Targetas "Liudvikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=bb3d42121b54a78187c263e2ebbdd5be15c1446dfc0ea341424692dfbc490863; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Liudvikas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Liudvikas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje" parinktas kaip owner_note_path. Targetas "Liudvikas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=63e0122ea0e1b375ab7549d7e803a94db0fd85e652fe9f8702deaba6aa4e10cd; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Pagraudė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Pagraudė: mention_match, place, gap=42
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pagraudės valsčiaus raitelių sunaikinimas Liudviko iš Libencelės pasaloje" parinktas kaip owner_note_path. Targetas "Pagraudė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

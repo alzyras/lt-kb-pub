@@ -55,21 +55,62 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2f608841bfb1ecaea265c4d1951a0df7eb1176bf7847465358d7e637ae600b0a; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
+  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalavijas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
+- susijęs iš [[objektai/asmenys/Gebhardas.md#claim-t-60283|Gebhardas]]: Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir vienam jų kalaviju nukirto galvą.
+- susijęs iš [[objektai/asmenys/Helvigas iš Goldbacho.md#claim-t-60022|Helvigas iš Goldbacho]]: Helvigas iš Goldbacho su Henriku iš Šenenbergo ir keliais ginklanešiais sučiupo Herkų Mantą, jį pakorė ir pervėrė kalaviju.
+- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175189|Herkus Mantas]]: Herkų Mantą dykrose užtiko Henrikas iš Šenenbergo ir Helvigas iš Goldbacho; jie jį pakorė prie medžio ir pervėrė kalaviju.
+- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175193|Herkus Mantas]]: Herkus Mantas, likęs vienas palapinėje, buvo Kristburgo komtūro Henriko iš Šenenbergo ir Helvigo iš Goldbacho pakartas ir pervertas kalaviju.
+- susijęs iš [[objektai/asmenys/Jazbutas.md#claim-t-184718|Jazbutas]]: Jazbutas persekiojo Henriko Cutsverto vadovaujamą užpakalinę vorą ir puolė priešą kalaviju.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-10099|Steponas Batoras]]: Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.
+- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113974|Steponas Batoras]]: Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.
+- susijęs iš [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju.md#claim-t-47800|Baltas apsiaustas su išsiuvinėtu kalaviju]]: Kalavijuočių ordino nariai ant balto apsiausto, be raudono kryžiaus, nešiojo išsiuvinėtą kalaviją.
+- susijęs iš [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju.md#claim-t-47801|Baltas apsiaustas su išsiuvinėtu kalaviju]]: Kalavijuočių ordino nariai ant balto apsiausto, be raudono kryžiaus, nešiojo išsiuvinėtą kalaviją.
+- susijęs iš [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde.md#claim-t-59680|Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]: Kristaus karių ordino broliai vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde.
+- susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71561|Dviašmenis kalavijas]]: X–XI a. dviašmenis kalavijas buvo paplitęs Vakarų Europoje.
+- susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71562|Dviašmenis kalavijas]]: Dviašmenis kalavijas X–XI a. buvo paplitęs Vakarų Europoje.
+- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-10151|Karinė ginkluotė]]: XIII-XIV a. Lietuvos raitininko karinė ginkluotė galėjo apimti Desiukiškių tipo kalaviją, žieduočio šarvus ir krūtinšarvį.
+- susijęs iš [[objektai/daiktai/Stepono Batoro paradinis kalavijas.md#claim-t-09926|Stepono Batoro paradinis kalavijas]]: Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.
+- susijęs iš [[objektai/daiktai/XIII a. lietuviško Desiukiškių tipo kalavijo rekonstrukcija.md#claim-t-40800|XIII a. lietuviško Desiukiškių tipo kalavijo rekonstrukcija]]: XIII a. lietuviško Desiukiškių tipo kalavijo rekonstrukciją atliko Lietuvos kariuomenės Garbės sargybos kuopa.
+- susijęs iš [[objektai/grupes/Baltų kovų brolija „Vilkatlakai“.md#claim-t-40863|Baltų kovų brolija „Vilkatlakai“]]: Baltų kovų brolija „Vilkatlakai“ rekonstravo X-XI a. Vakarų Europos dviašmenį kalaviją.
+- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175532|Kalavijuočių ordinas]]: 1202-1203 m. žiemą vyskupo priklausomybėje buvo įkurtas Kalavijuočių ordinas.
+- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175552|Kalavijuočių ordinas]]: Kalavijuočių ordinas 1202-1203 m. žiemą buvo įkurtas vyskupo priklausomybėje pagal templininkų statutą.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78408|Notangai]]: Notangų vadas Herkus Mantas pasitraukė į dykras, kur Henrikas iš Šenenbergo ir Helvigas iš Goldbacho jį pakorė ir pervėrė kalaviju.
+- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78411|Notangai]]: Notangų vadą Herkų Mantą broliai Henrikas iš Šenenbergo ir Helvigas iš Goldbacho pakorė ir pervėrė kalaviju.
+- susijęs iš [[objektai/ivykiai/Herkaus Manto suėmimas ir pakorimas.md#claim-t-62805|Herkaus Manto suėmimas ir pakorimas]]: Herkų Mantą palapinėje užklupo Henrikas iš Šenenbergo ir Helvigas iš Goldbacho, paskui jį pakorė ir pervėrė kalaviju.
+- susijęs iš [[objektai/ivykiai/Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.).md#claim-t-185610|Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.)]]: Lietuvių kariuomenė įsiveržė į Sandomiro vaivadiją, sumušė ją gynusius lenkus ir nuniokojo kraštą kalaviju bei ugnimi.
+- susijęs iš [[objektai/ivykiai/Lietuvos žygis į Mazoviją ir Lovičiaus apygardų nusiaubimas (1263 m.).md#claim-t-185612|Lietuvos žygis į Mazoviją ir Lovičiaus apygardų nusiaubimas (1263 m.)]]: 1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju.
+- susijęs iš [[objektai/ivykiai/Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės.md#claim-t-62867|Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės]]: Nelaisvėje buvusį Liudviką iš Libencelės Skomantas nusivedė į Sūduvos galingųjų puotą, kur Liudvikas kalaviju nukovė jį užgauliojusį varžovą.
+- susijęs iš [[objektai/paprociai/Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą.md#claim-t-185864|Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą]]: Kernavės didikų sueigoje Giliginas buvo paskelbtas Lietuvos valdovu, o rūmų maršalas jam įteikė kalaviją ir lazdą.
+- susijęs iš [[objektai/posakiai/Kraštą ugnimi ir kalaviju nusiaubę.md#claim-t-86861|Kraštą ugnimi ir kalaviju nusiaubę]]: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir, nusiaubę kraštą ugnimi bei kalaviju, grįžo į Prūsiją ir Livoniją.
+- susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185464|Ugnimi ir kalaviju]]: Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusiaubė aplinkinius kaimus bei dvarus.
+- susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185465|Ugnimi ir kalaviju]]: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.
+- susijęs iš Lovičius: Iš iki tol nepaliestų Lovičiaus apygardų buvo išgabentas didžiulis grobis, o visa kita sunaikinta ugnimi ir kalaviju.
+- susijęs iš Plockas: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.
+- susijęs iš Raudonė: Raudonėje buvo rastas XIII a. kalavijas.
+- susijęs iš Sochačevas: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentą grobį sunaikino ugnimi ir kalaviju.
+- susijęs iš Vilnius: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė, nusiaubę kraštą ugnimi ir kalaviju.
+- susijęs iš [[objektai/zodynas/Kristaus kariai.md#claim-t-58855|Kristaus kariai]]: Kristaus kariai buvo broliai, burti kunigaikščio žemei ginti ir vilkėję baltą apsiaustą su raudonu kalaviju bei žvaigžde.
+- susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184627|maršalas]]: Rūmų maršalas Kernavėje įteikė Lietuvos valdovu paskelbtam Giliginui kalaviją ir lazdą.
+- susijęs iš [[objektai/zodynas/skitai.md#claim-t-185339|skitai]]: Skitai dviem žygio voromis užpuolė Lenkiją ir siaubė ją ugnimi bei kalaviju.
 - susijęs iš [[objektai/asmenys/Algardas Hohenšteino grafas.md#claim-t-87618|Algardas Hohenšteino grafas]]: Hohenšteino grafas Algardas žuvo prie Vilniaus, kai buvo pakirstas šūvio per pilies apsiaustį.
 - susijęs iš [[objektai/asmenys/Brunonas.md#claim-t-89681|Brunonas]]: Prūsijos vyskupas Kristijonas Kristaus karių ordinui priskyrė žymų vyrą Brunoną ir dar keturiolika vyrų.
 - susijęs iš [[objektai/asmenys/Dobeslavas Skoračevskis.md#claim-t-80710|Dobeslavas Skoračevskis]]: Dobeslavas Skoračevskis buvo Ordino pasiuntinys, atvykęs pas Jogailą į stovyklą derėtis dėl taikos.
 - susijęs iš [[objektai/asmenys/Engelbertas I.md#claim-t-60110|Engelbertas I]]: Markos grafas Engelbertas su Julicho grafu ir didele kariuomene 1262 m. sausio 21 d. atvyko į Karaliaučiaus pilį.
-- susijęs iš [[objektai/asmenys/Gebhardas.md#claim-t-60283|Gebhardas]]: Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir vienam jų kalaviju nukirto galvą.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-184702|Gediminas]]: Pasiuntiniai Lietuvoje prašė Gedimino dukters Aldonos rankos Kazimierui, o sutarta giminystė turėjo užtikrinti taiką.
 - susijęs iš [[objektai/asmenys/Helvigas fon Goldbachas.md#claim-t-186208|Helvigas fon Goldbachas]]: Žemaičiai per sėkmingus išpuolius prieš kryžiuočius paėmė į nelaisvę Christburgo komtūrą Helvigą fon Goldbachą.
-- susijęs iš [[objektai/asmenys/Helvigas iš Goldbacho.md#claim-t-60022|Helvigas iš Goldbacho]]: Helvigas iš Goldbacho su Henriku iš Šenenbergo ir keliais ginklanešiais sučiupo Herkų Mantą, jį pakorė ir pervėrė kalaviju.
 - susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-184712|Henrikas Cutsvertas]]: Henrikas Cutsvertas vadovavo užpakalinei vorai ir ietimi persmeigė lietuvių kunigaikštį Jazbutą.
 - susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59918|Henrikas Cutsvertas]]: Jazbutui sužeidus Henriko Cutsverto žirgą, Henrikas Cutsvertas įniršęs perdūrė Jazbutą ietimi.
 - susijęs iš [[objektai/asmenys/Henrikas Hochbergas.md#claim-t-186209|Henrikas Hochbergas]]: Kryžiuotis Henrikas Hochbergas ietimi nutrenkė Patriką nuo žirgo, kai šis bandė pagelbėti Kęstučiui.
-- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175189|Herkus Mantas]]: Herkų Mantą dykrose užtiko Henrikas iš Šenenbergo ir Helvigas iš Goldbacho; jie jį pakorė prie medžio ir pervėrė kalaviju.
-- susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175193|Herkus Mantas]]: Herkus Mantas, likęs vienas palapinėje, buvo Kristburgo komtūro Henriko iš Šenenbergo ir Helvigo iš Goldbacho pakartas ir pervertas kalaviju.
 - susijęs iš [[objektai/asmenys/Jazbutas.md#claim-t-184092|Jazbutas]]: Kovoje Jazbutas užpuolė brolį Henriką Cutsvertą ir sužeidė jo žirgą, o Henrikas Cutsvertas perdūrė Jazbutą ietimi.
-- susijęs iš [[objektai/asmenys/Jazbutas.md#claim-t-184718|Jazbutas]]: Jazbutas persekiojo Henriko Cutsverto vadovaujamą užpakalinę vorą ir puolė priešą kalaviju.
 - susijęs iš [[objektai/asmenys/Jazbutas.md#claim-t-60147|Jazbutas]]: Kovoje Jazbutas užpuolė brolį Henriką Cutsvertą ir sužeidė jo žirgą, o Henrikas Cutsvertas perdūrė Jazbutą ietimi.
 - susijęs iš [[objektai/asmenys/Joabas.md#claim-t-60335|Joabas]]: Joabas buvo Dovydo kariuomenės vadas, kuris sielojosi dėl saviškių mirties.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184731|Jogaila (kunigaikštis, XIV–XV a.)]]: Kai Edigejus siaubė Rusią, Jogaila Sanoke susituokė su Elžbieta ir iškėlė vestuvių puotą.
@@ -91,8 +132,6 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Sirenas.md#claim-t-184125|Sirenas]]: Sirenas nutraukė grandines ir gynė Kristburgo pilies tiltą, kol buvo uždaryti pilies vartai.
 - susijęs iš [[objektai/asmenys/Sirenas.md#claim-t-60433|Sirenas]]: Sirenas buvo pamedėnas, Kristburgo pilyje laikytas surakintas grandinėmis, nes buvo prasikaltęs.
 - susijęs iš [[objektai/asmenys/Stantekas.md#claim-t-60438|Stantekas]]: Stantekas, sunkiai sužeistas susidūręs su sembų sargyba, pranešė maldininkams apie pasalą.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-10099|Steponas Batoras]]: Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113974|Steponas Batoras]]: Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.
 - susijęs iš [[objektai/asmenys/Tautvila.md#claim-t-87601|Tautvila]]: Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121174|Tautvilas]]: Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis.
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121175|Tautvilas]]: Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
@@ -103,19 +142,8 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-184884|Vytenis]]: Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172866|J. Dlugošas]]: J. Dlugošas pateikė Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po pasiuntinio vizito Jogailos stovykloje.
 - susijęs iš [[objektai/autoriai/P. Tarasenka.md#claim-t-71551|P. Tarasenka]]: P. Tarasenka 1929 m. Kaune išleido veikalą „Lietuvos archeologijos medžiaga“.
-- susijęs iš [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju.md#claim-t-47800|Baltas apsiaustas su išsiuvinėtu kalaviju]]: Kalavijuočių ordino nariai ant balto apsiausto, be raudono kryžiaus, nešiojo išsiuvinėtą kalaviją.
-- susijęs iš [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju.md#claim-t-47801|Baltas apsiaustas su išsiuvinėtu kalaviju]]: Kalavijuočių ordino nariai ant balto apsiausto, be raudono kryžiaus, nešiojo išsiuvinėtą kalaviją.
-- susijęs iš [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde.md#claim-t-59680|Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]: Kristaus karių ordino broliai vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde.
-- susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71561|Dviašmenis kalavijas]]: X–XI a. dviašmenis kalavijas buvo paplitęs Vakarų Europoje.
-- susijęs iš [[objektai/daiktai/Dviašmenis kalavijas.md#claim-t-71562|Dviašmenis kalavijas]]: Dviašmenis kalavijas X–XI a. buvo paplitęs Vakarų Europoje.
 - susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-08294|Karinė ginkluotė]]: Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę.
-- susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-10151|Karinė ginkluotė]]: XIII-XIV a. Lietuvos raitininko karinė ginkluotė galėjo apimti Desiukiškių tipo kalaviją, žieduočio šarvus ir krūtinšarvį.
-- susijęs iš [[objektai/daiktai/Stepono Batoro paradinis kalavijas.md#claim-t-09926|Stepono Batoro paradinis kalavijas]]: Stepono Batoro paradinis kalavijas buvo pagamintas pergalingoms lietuvių ir jų sąjungininkų kampanijoms Maskvos žemėse Livonijos karo metu atminti.
-- susijęs iš [[objektai/daiktai/XIII a. lietuviško Desiukiškių tipo kalavijo rekonstrukcija.md#claim-t-40800|XIII a. lietuviško Desiukiškių tipo kalavijo rekonstrukcija]]: XIII a. lietuviško Desiukiškių tipo kalavijo rekonstrukciją atliko Lietuvos kariuomenės Garbės sargybos kuopa.
-- susijęs iš [[objektai/grupes/Baltų kovų brolija „Vilkatlakai“.md#claim-t-40863|Baltų kovų brolija „Vilkatlakai“]]: Baltų kovų brolija „Vilkatlakai“ rekonstravo X-XI a. Vakarų Europos dviašmenį kalaviją.
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65111|Dobrynės broliai]]: Kristaus karių ordino broliai buvo burti žemei ginti Prūsijos vyskupo Kristijono ir didikų patariamo kunigaikščio iniciatyva.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175532|Kalavijuočių ordinas]]: 1202-1203 m. žiemą vyskupo priklausomybėje buvo įkurtas Kalavijuočių ordinas.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175552|Kalavijuočių ordinas]]: Kalavijuočių ordinas 1202-1203 m. žiemą buvo įkurtas vyskupo priklausomybėje pagal templininkų statutą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178930|Kryžiuočių ordinas]]: 1239 m. Kryžiuočių ordino broliai užėmė Baigos pilį ir joje apsigyveno su savo ginklanešiais.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179021|Kryžiuočių ordinas]]: Mindaugo laikų krikšto bandymui sutrukdė Vokiečių ordino siekis užgrobti Žemaičius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179115|Kryžiuočių ordinas]]: Per Vilniaus apsuptį kryžiuočių kariaunoje plito ligos, nes ji stovyklavo po atviru dangumi ir buvo nusilpusi.
@@ -123,22 +151,16 @@ Nenurodyta
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184525|Lenkai]]: Lenkai pasiuntė į Lietuvą pasiuntinius prašyti Gedimino dukters Aldonos rankos Lenkijos valdovui Kazimierui.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179305|Lietuviai]]: Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184546|Lietuviai]]: Lietuviai, kaip sąjungininkai žygiuodami per Mazoviją į Gostininą, ėmė grobstyti atsigavusio krašto turtus.
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78408|Notangai]]: Notangų vadas Herkus Mantas pasitraukė į dykras, kur Henrikas iš Šenenbergo ir Helvigas iš Goldbacho jį pakorė ir pervėrė kalaviju.
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78411|Notangai]]: Notangų vadą Herkų Mantą broliai Henrikas iš Šenenbergo ir Helvigas iš Goldbacho pakorė ir pervėrė kalaviju.
 - susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89172|Pomeranai]]: Prie Svečės pilies broliai nukovė tūkstantį penkis šimtus Pomeranijos vyrų.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175092|Sembai]]: Sembai paliko kuorus prie Karaliaučiaus, pasitraukė ir pastojo kelią maldininkų kariuomenei.
 - susijęs iš [[objektai/ivykiai/Baigos pilies užėmimas (1239 m.).md#claim-t-62203|Baigos pilies užėmimas (1239 m.)]]: 1239 m. broliai su ginklanešiais užėmė Baigos pilį, dalį žmonių paėmė į nelaisvę, kitus išžudė ir apsigyveno pilyje.
 - susijęs iš [[objektai/ivykiai/Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas.md#claim-t-66521|Divano ir Linko žygis prie Traupeino, mūšis prie Pagansčių ir Kristburgo sunaikinimas]]: Per Divano ir Linko puolimą Kristburgo pilyje buvo likę trys broliai, trys jų tarnai ir grandinėmis surakintas pamedėnas Sirenas.
-- susijęs iš [[objektai/ivykiai/Herkaus Manto suėmimas ir pakorimas.md#claim-t-62805|Herkaus Manto suėmimas ir pakorimas]]: Herkų Mantą palapinėje užklupo Henrikas iš Šenenbergo ir Helvigas iš Goldbacho, paskui jį pakorė ir pervėrė kalaviju.
 - susijęs iš [[objektai/ivykiai/Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.).md#claim-t-66573|Julicho ir Markos grafų pergalė prieš sembus prie Karaliaučiaus (1262 m. sausio 21 d.)]]: Prieš kautynes žvalgas Stantekas, sunkiai sužeistas sembų sargybos, pranešė maldininkams apie pasalą.
 - susijęs iš [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės.md#claim-t-91906|Krikščionių pergalingas mūšis prie Zirgūnos upės]]: Prie Zirgūnos upės Hermano vadovaujami krikščionys sumušė prūsų kariuomenę, o mūšyje krito daugiau nei penki tūkstančiai prūsų.
 - susijęs iš [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas.md#claim-t-66641|Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]: Kunigaikštis, patartas vyskupo Kristijono ir kai kurių didikų, savo žemei ginti subūrė Kristaus kariais vadintus brolius.
 - susijęs iš [[objektai/ivykiai/Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė.md#claim-t-185723|Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė (pilis)]]: Krymo skitai įžengė į tuščią Naugarduką, apgulė pilį, bet jos neužėmė ir pasitraukė į Skitiją apiplėšę apylinkę.
 - susijęs iš [[objektai/ivykiai/Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.).md#claim-t-185603|Kęstučio paėmimas, pabėgimas iš Marienburgo ir keršto žygis į Prūsiją (1361 m.)]]: Algirdo, Kęstučio ir Patriko vedami lietuviai netikėtai užpuolė vokiečių stovyklą, bet po kovos Kęstutis pateko į priešų rankas.
 - susijęs iš [[objektai/ivykiai/Lietuvių pagalba Konradui užimant Gostininą ir vėlesnis įsiveržimas į Mazoviją.md#claim-t-185745|Lietuvių pagalba Konradui užimant Gostininą ir vėlesnis įsiveržimas į Mazoviją]]: Po Gostinino žygio lietuviai su didesnėmis pajėgomis grįžo į Konrado valdas ir iš sąjungininkų tapo priešais.
-- susijęs iš [[objektai/ivykiai/Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.).md#claim-t-185610|Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.)]]: Lietuvių kariuomenė įsiveržė į Sandomiro vaivadiją, sumušė ją gynusius lenkus ir nuniokojo kraštą kalaviju bei ugnimi.
-- susijęs iš [[objektai/ivykiai/Lietuvos žygis į Mazoviją ir Lovičiaus apygardų nusiaubimas (1263 m.).md#claim-t-185612|Lietuvos žygis į Mazoviją ir Lovičiaus apygardų nusiaubimas (1263 m.)]]: 1263 m. Mindaugo kariuomenė persikėlė per Vyslą, išgabeno didelį grobį iš Lovičiaus apygardų ir visa kita sunaikino ugnimi bei kalaviju.
-- susijęs iš [[objektai/ivykiai/Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės.md#claim-t-62867|Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės]]: Nelaisvėje buvusį Liudviką iš Libencelės Skomantas nusivedė į Sūduvos galingųjų puotą, kur Liudvikas kalaviju nukovė jį užgauliojusį varžovą.
 - susijęs iš [[objektai/ivykiai/Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės.md#claim-t-62868|Liudviko iš Libencelės susirėmimas puotoje ir išvadavimas iš nelaisvės]]: Vėliau vienas Skomanto šeimynykštis išvadavo Liudviką iš Libencelės iš nelaisvės ir sugrąžino jį pas brolius.
 - susijęs iš [[objektai/ivykiai/Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų.md#claim-t-62404|Mūšis prie Svečės, kuriame, pasak Dusburgiečio, žuvo 1500 pomeranų (mūšis, XI a.)]]: Prie Svečės pilies broliai užpuolė Sventopelko kariuomenę ir, pasak Dusburgiečio, tą dieną nukovė 1500 Pomeranijos vyrų.
 - susijęs iš [[objektai/ivykiai/Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.).md#claim-t-66821|Paštuvos ir Gaižuvos valsčių apiplėšimas bei susirėmimas su Jazbutu (1291 m.)]]: Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.
@@ -151,13 +173,9 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Ordino karo religinio įprasminimo praktika.md#claim-t-67174|Ordino karo religinio įprasminimo praktika]]: Petras iš Dusburgo užkariavimus ir žudynes „viešpaties kare“ aukštino, Ordino riterių ginklams suteikdamas šventumo aureolę.
 - susijęs iš [[objektai/paprociai/Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių.md#claim-t-185884|Polocko viešos sueigos ir valstybės valdymas per trisdešimt senelių]]: Polocko liaudis perdavė valdžią trisdešimčiai senelių, o žmonės varinio varpo dūžiais buvo kviečiami į viešas sueigas aikštėje.
 - susijęs iš [[objektai/paprociai/Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės.md#claim-t-185862|Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės]]: Vytautui tylint, Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą.
-- susijęs iš [[objektai/paprociai/Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą.md#claim-t-185864|Valdovo vainikavimo paprotys įteikiant kalaviją ir lazdą]]: Kernavės didikų sueigoje Giliginas buvo paskelbtas Lietuvos valdovu, o rūmų maršalas jam įteikė kalaviją ir lazdą.
 - susijęs iš [[objektai/posakiai/Ar ilgai, viešpatie, rūstausi.md#claim-t-59076|Ar ilgai, viešpatie, rūstausi]]: Po posakio „Ar ilgai, viešpatie, rūstausi?“ prašoma parodyti rūstį netikėliams ir neleisti jiems klausti, kur yra krikščionių Dievas.
-- susijęs iš [[objektai/posakiai/Kraštą ugnimi ir kalaviju nusiaubę.md#claim-t-86861|Kraštą ugnimi ir kalaviju nusiaubę]]: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir, nusiaubę kraštą ugnimi bei kalaviju, grįžo į Prūsiją ir Livoniją.
 - susijęs iš [[objektai/posakiai/Pergalės būdas tikriausias — kantrybė.md#claim-t-59052|Pergalės būdas tikriausias — kantrybė]]: Dusburgietis Grigaliui priskiria mintį, kad kankiniu galima būti ir be kalavijo ar liepsnų, jei sieloje išsaugoma kantrybė.
 - susijęs iš [[objektai/posakiai/Tegul tas dalykas neatima iš tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą, padrąsink savo kovot.md#claim-t-59159|Tegul tas dalykas neatima iš tavęs drąsos, nes kare esti visokių atsitikimų, o kalavijas sunaikina tai vieną, tai kitą, padrąsink savo kovot]]: Pasakojime apie Baigos pilį magistrą ramino Dovydo žodžiai „Tegul tas dalykas neatima iš tavęs drąsos“.
-- susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185464|Ugnimi ir kalaviju]]: Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusiaubė aplinkinius kaimus bei dvarus.
-- susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185465|Ugnimi ir kalaviju]]: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.
 - susijęs iš [[objektai/posakiai/karo, ir taikos metu tokios pat santarvės bei šlovės.md#claim-t-185477|karo, ir taikos metu tokios pat santarvės bei šlovės]]: Kernavėje rūmų maršalas ragino Giliginą ir Trobį siekti tokios pat santarvės bei šlovės karo ir taikos metu.
 - susijęs iš [[objektai/posakiai/visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas.md#claim-t-185473|visuotinę žmonių nuomonę paprastai remia slaptas aukščiausiojo sprendimas]]: Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino posakiu, kad visuotinę žmonių nuomonę remia slaptas aukščiausiojo sprendimas.
 - susijęs iš Eilėtoji Livonijos kronika: Tautvilas, remiamas Livonijos ir Polocko pulkų, užpuolė Mindaugą Lietuvoje ir be mūšio išsigabeno didelį grobį į Polocką.
@@ -182,30 +200,22 @@ Nenurodyta
 - susijęs iš Lietuva: Vytautas su žemaičiais ir Prūsijos magistras su savo kariais veržėsi į Lietuvos gilumą ir pasiekė Trakus.
 - susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir grįžo į Prūsiją bei Livoniją.
 - susijęs iš Livonija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė į Prūsiją ir Livoniją.
-- susijęs iš Lovičius: Iš iki tol nepaliestų Lovičiaus apygardų buvo išgabentas didžiulis grobis, o visa kita sunaikinta ugnimi ir kalaviju.
 - susijęs iš Lukovas: Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę.
 - susijęs iš Naugardukas: Henrikas su kariuomene nusibrovė iki Naugarduko, apiplėšė ir sudegino miestą.
 - susijęs iš Pernarava: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama sunaikino Ariogalos, Pernaravos ir Labūnavos žemes Žemaitijoje.
-- susijęs iš Plockas: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.
 - susijęs iš Prūsija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją.
 - susijęs iš Prūsija: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją.
 - susijęs iš Prūsija: Sudeginus Karšuvos ir Heilsbergo pilis Kurše, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
-- susijęs iš Raudonė: Raudonėje buvo rastas XIII a. kalavijas.
 - susijęs iš Sandomiras: Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę ir siaubė jos kaimus bei dvarus.
 - susijęs iš Sanokas: Jogaila Sanoke susituokė su Elžbieta ir surengė vestuvių puotą, kurioje dalyvavo Austrijos erchercogas Leopoldas.
 - susijęs iš Semba: Nusiaubus Sembą, buvo apsuptas neseniai čekų karaliaus Otokaro įkurtas Karaliaučiaus miestas.
 - susijęs iš Smolenskas: Ivanas Boreikaitis Chodkevičius į sutartą vietą atvyko su Seversko ir Smolensko kariais.
-- susijęs iš Sochačevas: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentą grobį sunaikino ugnimi ir kalaviju.
 - susijęs iš Svečė: Magistro Popono pasiųsti žvalgai pranešė, kad Sventopelkas su gausia kariuomene stovėjo prie Svečės pilies ir ją stiprino.
 - susijęs iš Svečė: Magistro Popono pasiųsti žvalgai pranešė, kad Sventopelkas su gausia kariuomene stovėjo prie Svečės pilies ir ją stiprino.
 - susijęs iš Trakai: Vytautas su žemaičiais ir Prūsijos magistras pasiekė Trakus, o miestas ir abi pilys jiems pasidavė.
-- susijęs iš Vilnius: Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė, nusiaubę kraštą ugnimi ir kalaviju.
 - susijęs iš Zavichostas: Lietuvių kariams buvo įsakyta traukti su grobiu į stovyklą netoli Zavichosto.
 - susijęs iš Žemaitija: Sudeginus Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją.
-- susijęs iš [[objektai/zodynas/Kristaus kariai.md#claim-t-58855|Kristaus kariai]]: Kristaus kariai buvo broliai, burti kunigaikščio žemei ginti ir vilkėję baltą apsiaustą su raudonu kalaviju bei žvaigžde.
 - susijęs iš [[objektai/zodynas/artilerijos pasala.md#claim-t-42432|artilerijos pasala]]: Per Oršos mūšį atsitraukianti kariuomenė atviliojo priešą į artilerijos pasalą.
-- susijęs iš [[objektai/zodynas/maršalas.md#claim-t-184627|maršalas]]: Rūmų maršalas Kernavėje įteikė Lietuvos valdovu paskelbtam Giliginui kalaviją ir lazdą.
-- susijęs iš [[objektai/zodynas/skitai.md#claim-t-185339|skitai]]: Skitai dviem žygio voromis užpuolė Lenkiją ir siaubė ją ugnimi bei kalaviju.
 - susijęs iš [[objektai/zodynas/skitai.md#claim-t-185342|skitai]]: Priešas, neįveikęs pilies, apiplėšė apylinkę ir patraukė į Skitiją.
 - susijęs iš [[objektai/zodynas/sueiga.md#claim-t-185413|sueiga]]: Žmonės buvo kviečiami varinio varpo dūžiais į sueigas aikštėje svarstyti svarbiausių reikalų.
 - susijęs iš [[objektai/zodynas/viešpaties karas.md#claim-t-58941|viešpaties karas]]: Petras Dusburgietis užkariavimus ir žudynes „viešpaties kare“ vaizdavo kaip šventus Ordino riterių veiksmus.
@@ -225,3 +235,13 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=2f608841bfb1ecaea265c4d1951a0df7eb1176bf7847465358d7e637ae600b0a; match=fallback; occurrences=0
+  sprendimo_priezastis: final::darbas/prompts/03_extraction/05_extract_items_notes.md
+  ryšio_patikimumas: susije_su -> Gardinas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kalavijas: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Gardinas: mention_match, place, gap=9
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kalavijas" parinktas kaip owner_note_path. Targetas "Gardinas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

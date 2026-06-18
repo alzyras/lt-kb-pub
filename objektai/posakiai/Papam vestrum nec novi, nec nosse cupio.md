@@ -43,6 +43,16 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Krantzas|Albertas Krantzas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Maskva; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 201050-201646; hash=23a4d8749664a6bebb9fcb45e0958e0bc1820542bd668444593f249301b1e79f; match=whitespace_regex
+  sprendimo_priezastis: gap::sayings
+  ryšio_patikimumas: susije_su -> Albertas Krantzas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Papam vestrum nec novi, nec nosse cupio: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Albertas Krantzas: mention_match, author, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Papam vestrum nec novi, nec nosse cupio" parinktas kaip owner_note_path. Targetas "Albertas Krantzas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-55188"></a>
 - t-002
@@ -53,6 +63,16 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
   pagrindžia:
     - c-001
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 201050-201646; hash=23a4d8749664a6bebb9fcb45e0958e0bc1820542bd668444593f249301b1e79f; match=whitespace_regex
+  sprendimo_priezastis: gap::sayings
+  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Papam vestrum nec novi, nec nosse cupio: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Papam vestrum nec novi, nec nosse cupio" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-55189"></a>
 - t-003
@@ -61,6 +81,9 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
   sudarymo_pagrindimas: 'Citata palaiko frazės reikšmę, o pradinė formuluotė buvo pernelyg netiesioginė.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 214573-215259; hash=597b0000de68117bc2da9f436c769c6c7b89620f9cbf35dba2ef94668afcdede; match=whitespace_regex
+  sprendimo_priezastis: gap::sayings
 
 <a id="claim-t-82143"></a>
 - t-004
@@ -69,6 +92,9 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
   sudarymo_pagrindimas: 'Citata pagrindžia posakio paskirtį, o pradinis teiginys yra gremėzdiškas ir prasideda fragmentu.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 214573-215259; hash=597b0000de68117bc2da9f436c769c6c7b89620f9cbf35dba2ef94668afcdede; match=whitespace_regex
+  sprendimo_priezastis: gap::sayings
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176386|Gediminas]]: Gediminas esą prisipažino nerašęs laiškų nei popiežiui, nei Vokietijos miestams ir nepareiškęs noro krikštytis.
 - susijęs iš [[objektai/autoriai/Albertas Krantzas.md#claim-t-54998|Albertas Krantzas]]: Pasak Alberto Krantzo, Gediminas pareiškė, kad popiežiaus nei pažinojo, nei troško pažinti.
 ## Reikšmingi paminėjimai
@@ -92,6 +118,16 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 201050-201646; hash=23a4d8749664a6bebb9fcb45e0958e0bc1820542bd668444593f249301b1e79f; match=whitespace_regex
+  sprendimo_priezastis: gap::sayings
+  ryšio_patikimumas: susije_su -> Albertas Krantzas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Papam vestrum nec novi, nec nosse cupio: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Albertas Krantzas: mention_match, author, gap=50
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Papam vestrum nec novi, nec nosse cupio" parinktas kaip owner_note_path. Targetas "Albertas Krantzas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
 
 - c-002
@@ -113,6 +149,32 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 201050-201646; hash=23a4d8749664a6bebb9fcb45e0958e0bc1820542bd668444593f249301b1e79f; match=whitespace_regex
+  sprendimo_priezastis: gap::sayings
+  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Papam vestrum nec novi, nec nosse cupio: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Papam vestrum nec novi, nec nosse cupio" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 201050-201646; hash=23a4d8749664a6bebb9fcb45e0958e0bc1820542bd668444593f249301b1e79f; match=whitespace_regex
+  sprendimo_priezastis: gap::sayings
+  ryšio_patikimumas: susije_su -> Gediminas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Papam vestrum nec novi, nec nosse cupio: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Gediminas: mention_match, person
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Papam vestrum nec novi, nec nosse cupio" parinktas kaip owner_note_path. Targetas "Gediminas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 214573-215259; hash=597b0000de68117bc2da9f436c769c6c7b89620f9cbf35dba2ef94668afcdede; match=whitespace_regex
+  sprendimo_priezastis: gap::sayings
     - t-004
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 214573-215259; hash=597b0000de68117bc2da9f436c769c6c7b89620f9cbf35dba2ef94668afcdede; match=whitespace_regex
+  sprendimo_priezastis: gap::sayings

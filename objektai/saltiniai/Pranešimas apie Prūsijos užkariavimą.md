@@ -25,6 +25,16 @@ Dusburgietis teigia, kad „Pranešimo apie Prūsijos užkariavimą“, priedo p
   susije_objektai: 'mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 61752-61937; hash=9695d38246e4a79ad01561c6e2b3f1f30263cb6509a85acf07fd66a617c4721e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pranešimas apie Prūsijos užkariavimą: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranešimas apie Prūsijos užkariavimą" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-61001"></a>
 - t-002
@@ -33,6 +43,9 @@ Dusburgietis teigia, kad „Pranešimo apie Prūsijos užkariavimą“, priedo p
   sudarymo_pagrindimas: 'Citata tiesiogiai remia teiginį; pašalintas OCR likutis.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 65163-65305; hash=5ff697c308d40c652aefdfcbd56a6ada1ccbe9d4cdb8d1d7f69c02ff91abc5e1; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -60,4 +73,17 @@ Dusburgietis teigia, kad „Pranešimo apie Prūsijos užkariavimą“, priedo p
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 61752-61937; hash=9695d38246e4a79ad01561c6e2b3f1f30263cb6509a85acf07fd66a617c4721e; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Pranešimas apie Prūsijos užkariavimą: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Prūsija: mention_match, place, gap=15
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Pranešimas apie Prūsijos užkariavimą" parinktas kaip owner_note_path. Targetas "Prūsija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 65163-65305; hash=5ff697c308d40c652aefdfcbd56a6ada1ccbe9d4cdb8d1d7f69c02ff91abc5e1; match=exact
+  sprendimo_priezastis: auto

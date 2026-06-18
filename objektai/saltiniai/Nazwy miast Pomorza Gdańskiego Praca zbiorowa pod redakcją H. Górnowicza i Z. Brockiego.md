@@ -32,6 +32,9 @@ Dusburgietis teigia, kad nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod re
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia pavadinimą, redaktorius ir leidimo metus.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 788007-788135; hash=26d010eb4f91ac7373325b491fa0bff272ab7994474ea90a091d04b82a1e3549; match=exact
+  sprendimo_priezastis: auto
 
 ## Reikšmingi paminėjimai
 
@@ -46,3 +49,6 @@ Dusburgietis teigia, kad nazwy miast Pomorza Gdańskiego / Praca zbiorowa pod re
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 788007-788135; hash=26d010eb4f91ac7373325b491fa0bff272ab7994474ea90a091d04b82a1e3549; match=exact
+  sprendimo_priezastis: auto

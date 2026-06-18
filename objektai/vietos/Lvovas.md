@@ -39,7 +39,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   global_id: t-121908
   teiginys: '1392 m. balandžio 16 d. Jogaila Lvove išdavė privilegiją, nukreiptą prieš Vytauto siekius Lietuvoje ir pretenzijas į Lucką.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą apie Lvove išduotą privilegiją, o pradinis teiginys buvo nutrūkęs.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vyguntas|Vyguntas]]; mentioned_place: Korčinas; mentioned_place: Lietuva; mentioned_place: Luckas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_person: [[objektai/asmenys/Vyguntas|Vyguntas]]; mentioned_place: Korčinas'
   temporaliniai_duomenys: 'įvykio data: 1392 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą apie Lvove išduotą privilegiją, o pradinis teiginys buvo nutrūkęs.'
@@ -51,7 +51,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   global_id: t-121909
   teiginys: 'Lvovas 1280 m. buvo pastatydintas Leono, Danilos iš Haličo sūnaus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Lvovą ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Haličas; mentioned_place: Lenkija; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_place: Haličas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Podolė'
   temporaliniai_duomenys: 'pastatymo data: 1280 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Lvovą ir remiasi citata.'
@@ -63,7 +63,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   global_id: t-121910
   teiginys: 'Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius dėl savo vaidmens steigiant Žemaičių vyskupiją.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikėjo pašalinti OCR triukšmą ir suformuluoti sakinį glaustai.'
-  susije_objektai: 'mentioned_place: Gniezno; mentioned_place: Konstancija; mentioned_place: Vilniaus vyskupija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilniaus vyskupija; mentioned_place: Gniezno; mentioned_place: Konstancija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -84,7 +84,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta sklandžiau ir tiksliau perteikiant, kad uždavinys buvo patikėtas laišku.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]'
   pagrindžia:
     - c-005
 
@@ -99,6 +99,16 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Parčevas; mentioned_place: Volynė'
   pagrindžia:
     - c-006
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 595900-596174; hash=8275f2b3ae5f84630eb22045abd941d28d8b61e751cede239830206baebe46d8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Haličas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lvovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Haličas: mention_match, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lvovas" parinktas kaip owner_note_path. Targetas "Haličas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187603"></a>
 - t-008
@@ -108,9 +118,19 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia tikslesnį veiksmą „kariavo“, o ne vien „nusiaubė“.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kamenecas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija'
   pagrindžia:
     - c-007
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 265487-265924; hash=e3e51e4e5dfa608bf7040a6998a7a471dd6513759a392b0521c2b6eb48f43992; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Haličas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lvovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Haličas: mention_match, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lvovas" parinktas kaip owner_note_path. Targetas "Haličas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187604"></a>
 - t-009
@@ -120,12 +140,22 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys perteikia datą, atvykimą į Lvovą ir kariuomenės sušaukimo aplinkybę. Citata yra aiškinamoji chronologinė pastaba, todėl legendos ar poleminės atribucijos čia neprireikė.'
-  susije_objektai: 'location: Podolė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Podolė'
+  susije_objektai: 'location: Podolė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Podolė; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'kelionės data: 1485 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perteikia datą, atvykimą į Lvovą ir kariuomenės sušaukimo aplinkybę. Citata yra aiškinamoji chronologinė pastaba, todėl legendos ar poleminės atribucijos čia neprireikė.'
   pagrindžia:
     - c-008
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 595900-596174; hash=8275f2b3ae5f84630eb22045abd941d28d8b61e751cede239830206baebe46d8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Podolė: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Rusai: nearest_actor, group, gap=34
+  ryšio_targeto_parinkimas: Podolė: nearest_after_predicate, place, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Rusai" parinktas kaip nearest_actor. Targetas "Podolė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-187605"></a>
 - t-010
@@ -141,17 +171,20 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   temporalinis_llm_pakomentavimas: 'Reikia pataisyti linksnį ir pašalinti OCR triukšmą.'
   pagrindžia:
     - c-009
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 597765-598002; hash=39985bc0ddebb67b6a299674cbf3f3c662a02a122e2d115d9a06ef0031fe8daa; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilniaus vyskupija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lvovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilniaus vyskupija: mention_match, place, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lvovas" parinktas kaip owner_note_path. Targetas "Vilniaus vyskupija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184775|Liubartas]]: Algirdo brolis Liubartas valdė Lvovą Rusioje.
-- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184709|Goštautas (vyskupas, XV a.)]]: Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku.
-- susijęs iš [[objektai/asmenys/Jonas (Breslavo vyskupas).md#claim-t-34796|Jonas (Breslavo vyskupas)]]: 1415 m. Breslavo vyskupas Jonas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.
-- susijęs iš [[objektai/asmenys/Jonas (Lvovo arkivyskupas).md#claim-t-34797|Jonas (Lvovo arkivyskupas)]]: 1415 m. Lvovo arkivyskupas Jonas buvo Lietuvos ir Lenkijos vyskupų delegacijos į Konstanciją narys.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184764|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis valdė dideles žemes Rusioje, kai kitas Algirdo brolis Liubartas valdė Lvovą.
 - susijęs iš [[objektai/asmenys/Leonas (Haličo kunigaikščio sūnus).md#claim-t-87764|Leonas (Haličo kunigaikščio sūnus)]]: Leonas, Danieliaus iš Haličo sūnus, pastatydino Lvovą, kuris citatoje datuojamas 1280 metais.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184775|Liubartas]]: Algirdo brolis Liubartas valdė Lvovą Rusioje.
-- susijęs iš [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas).md#claim-t-34813|Mikalojus (Gniezno arkivyskupas)]]: Gniezno arkivyskupas Mikalojus 1415 m. buvo į Konstanciją išsiųstos Lietuvos ir Lenkijos vyskupų delegacijos narys.
-- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
-- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
-- susijęs iš [[objektai/asmenys/Petras iš Kustynės.md#claim-t-35265|Petras iš Kustynės]]: Petras iš Kustynės 1415 m. kaip Vilniaus vyskupas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.
 - susijęs iš [[objektai/asmenys/Solikovskis.md#claim-t-87856|Solikovskis]]: Solikovskis buvo Lvovo, o ne Vilniaus arkivyskupas, ir 1501 metais dar nebuvo gimęs.
 - susijęs iš [[objektai/asmenys/Vincentas iš Šamotulų.md#claim-t-186088|Vincentas iš Šamotulų]]: Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą.
 - susijęs iš [[objektai/autoriai/D. Pochilevyč.md#claim-t-29457|D. Pochilevyč]]: D. Pochilevyč buvo Lvovo universiteto profesorius ir tyrinėjo Lietuvos, Gudijos bei Ukrainos kaimo ūkinius santykius.
@@ -159,13 +192,8 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 - susijęs iš [[objektai/autoriai/Kochanowski, J.md#claim-t-54130|Kochanowski, J]]: J. Kochanowski 1900 m. Lvove paskelbė darbą „Witold, w. książę litewski“.
 - susijęs iš [[objektai/autoriai/Kolankowski L.md#claim-t-60728|Kolankowski L]]: Kolankowski L. parašė darbą „Litwini a Prusacy“, paskelbtą 1931 m. Lvove istorikų suvažiavimo leidinyje.
 - susijęs iš [[objektai/autoriai/Koneczny, P.md#claim-t-30762|Koneczny, P]]: P. Koneczny 1893 m. Lvove išleido pirmąjį veikalo „Jagiełło i Witold“ tomą.
-- susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47900|Rusų ir ukrainiečių istorikai]]: Rusų ir ukrainiečių istorikai davė naujų tyrinėjimų apie Lietuvos, Gudijos ir Ukrainos (t.
 - susijęs iš [[objektai/grupes/Konstancos suvažiavimas.md#claim-t-185441|Konstancos suvažiavimas]]: Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-187715|Lenkai]]: Bychovco kronikos pasakojime lenkai vaizduojami atėmę Vytautui skirtą karaliaus vainiką, kad Lietuva netaptų karalyste.
-- susijęs iš [[objektai/ivykiai/Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas.md#claim-t-185798|Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas]]: Kol karalius buvo išvykęs, Bogdanas smarkiai nuniokojo Rusią, sudegino kelis miestus ir daugybę bažnyčių.
-- susijęs iš [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.).md#claim-t-50803|Konstancijos susirinkimas (1414–1418 m.)]]: Konstancijos susirinkimas nusprendė pasiųsti vyskupus Žemaičių vyskupijai įkurti.
 - susijęs iš [[objektai/ivykiai/Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.).md#claim-t-185718|Konstancos suvažiavimo pasiuntinių galutinis Žemaičių vyskupystės įsteigimas (1417 m.)]]: Iš bažnytinio suvažiavimo grįžę pasiuntiniai parvežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui pavesta steigti Žemaičių vyskupystę.
-- susijęs iš [[objektai/ivykiai/Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.).md#claim-t-185610|Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.)]]: Lietuvių kariuomenė įsiveržė į Sandomiro vaivadiją, sumušė ją gynusius lenkus ir nuniokojo kraštą kalaviju bei ugnimi.
 - susijęs iš [[objektai/ivykiai/Moldavijos ir osmanų žygis į Lenkiją.md#claim-t-186665|Moldavijos ir osmanų žygis į Lenkiją]]: Moldavijos vaivada Steponas ir turkų sultono didysis paša Malkočas vasarą bei rudenį kariavo Lenkijoje nuo Kameneco iki Lvovo ir Tarnovo.
 - susijęs iš [[objektai/ivykiai/Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.).md#claim-t-185503|Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.)]]: 1432 m. lapkričio 30 d. Šamotulskio ir Fiodoro Ostrogiškio pajėgos kovojo maždaug už keturiasdešimties mylių nuo Lvovo.
 - susijęs iš [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“.md#claim-t-26648|„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]: XVII–XVIII a. Vilniaus kaip „Lietuvos Jeruzalės“ idėja siejama su jo lyginimu su Krokuvos, Liublino ir Lvovo žydų kultūros centrais.
@@ -176,14 +204,26 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 - susijęs iš Laiškas Lvovo arkivyskupui ir Vilniaus vyskupui dėl Žemaičių vyskupystės įsteigimo: Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo Lvovo arkivyskupui ir Vilniaus vyskupui patikėta įsteigti Žemaičių vyskupystę.
 - susijęs iš Lvovo privilegija (1392 m. bal. 16 d.): Jogaila 1392 m. balandžio 16 d. Lvove išdavė privilegiją, kuri kliudė Vytauto siekiams Lietuvoje ir jo pretenzijoms į Lucką.
 - susijęs iš Monumentą Poloniae historica: „Monumenta Poloniae historica“ 2, 4 ir 5 tomai išleisti Lvove 1872, 1884 ir 1888 m., o 1961 m. nurodytas Varšuvos leidimas.
-- susijęs iš N. Korčino aktas: N. Korčino aktas kliudė Vytauto siekiams Lietuvoje ir buvo nukreiptas prieš jo pretenzijas į Lucką.
 - susijęs iš Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka: St. Zajączkowskio „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleista Lvove 1929 m.
 - susijęs iš Witold, w. książę litewski: J. Kochanowskio veikalas „Witold, w. książę litewski“ išleistas 1900 m. Lvove.
 - susijęs iš Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka: S. Zajączkowskio veikalas „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleistas Lvove 1929 metais.
 - susijęs iš Belzas: Petras Miškovskis nuo 1499 m. gegužės buvo Belzo vaivada ir Lvovo generalinis seniūnas.
-- susijęs iš Gniezno: 1415 m. į Konstanciją siųstoje Lietuvos ir Lenkijos vyskupų delegacijoje dalyvavo Gniezno arkivyskupas Mikalojus.
 - susijęs iš Kamenecas: Moldavijos vaivada Steponas su turkų paša Malkoču kariavo Lenkijos žemėje nuo Kameneco iki Lvovo ir net Tarnovo.
 - susijęs iš Kolomyja: Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nuo Lvovo.
+- susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184709|Goštautas (vyskupas, XV a.)]]: Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku.
+- susijęs iš [[objektai/asmenys/Jonas (Breslavo vyskupas).md#claim-t-34796|Jonas (Breslavo vyskupas)]]: 1415 m. Breslavo vyskupas Jonas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.
+- susijęs iš [[objektai/asmenys/Jonas (Lvovo arkivyskupas).md#claim-t-34797|Jonas (Lvovo arkivyskupas)]]: 1415 m. Lvovo arkivyskupas Jonas buvo Lietuvos ir Lenkijos vyskupų delegacijos į Konstanciją narys.
+- susijęs iš [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas).md#claim-t-34813|Mikalojus (Gniezno arkivyskupas)]]: Gniezno arkivyskupas Mikalojus 1415 m. buvo į Konstanciją išsiųstos Lietuvos ir Lenkijos vyskupų delegacijos narys.
+- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
+- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
+- susijęs iš [[objektai/asmenys/Petras iš Kustynės.md#claim-t-35265|Petras iš Kustynės]]: Petras iš Kustynės 1415 m. kaip Vilniaus vyskupas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.
+- susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47900|Rusų ir ukrainiečių istorikai]]: Rusų ir ukrainiečių istorikai davė naujų tyrinėjimų apie Lietuvos, Gudijos ir Ukrainos (t.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-187715|Lenkai]]: Bychovco kronikos pasakojime lenkai vaizduojami atėmę Vytautui skirtą karaliaus vainiką, kad Lietuva netaptų karalyste.
+- susijęs iš [[objektai/ivykiai/Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas.md#claim-t-185798|Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas]]: Kol karalius buvo išvykęs, Bogdanas smarkiai nuniokojo Rusią, sudegino kelis miestus ir daugybę bažnyčių.
+- susijęs iš [[objektai/ivykiai/Konstancijos susirinkimas (1414–1418 m.).md#claim-t-50803|Konstancijos susirinkimas (1414–1418 m.)]]: Konstancijos susirinkimas nusprendė pasiųsti vyskupus Žemaičių vyskupijai įkurti.
+- susijęs iš [[objektai/ivykiai/Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.).md#claim-t-185610|Lietuvių žygis į Lenkiją ir Volynės atgavimas; Kęstučio nelaisvė ir pabėgimas (1350-1351 m.)]]: Lietuvių kariuomenė įsiveržė į Sandomiro vaivadiją, sumušė ją gynusius lenkus ir nuniokojo kraštą kalaviju bei ugnimi.
+- susijęs iš N. Korčino aktas: N. Korčino aktas kliudė Vytauto siekiams Lietuvoje ir buvo nukreiptas prieš jo pretenzijas į Lucką.
+- susijęs iš Gniezno: 1415 m. į Konstanciją siųstoje Lietuvos ir Lenkijos vyskupų delegacijoje dalyvavo Gniezno arkivyskupas Mikalojus.
 - susijęs iš Liublinas: Liublinas Vladislovo Lokietkos laikais, 1317 m., ėmė tvarkytis pagal vokiečių miestų teises.
 - susijęs iš Luckas: Naujojo Korčino aktas trukdė Vytauto siekiams Lietuvoje ir buvo nukreiptas prieš jo pretenzijas į Lucką.
 - susijęs iš Luckas: 1392 m. Jogailos privilegija buvo nukreipta prieš Vytauto pretenzijas į Lucką.
@@ -330,6 +370,16 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 595900-596174; hash=8275f2b3ae5f84630eb22045abd941d28d8b61e751cede239830206baebe46d8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Haličas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lvovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Haličas: mention_match, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lvovas" parinktas kaip owner_note_path. Targetas "Haličas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-008
 
 - c-008
@@ -345,6 +395,16 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 265487-265924; hash=e3e51e4e5dfa608bf7040a6998a7a471dd6513759a392b0521c2b6eb48f43992; match=ocr_normalized
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Haličas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lvovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Haličas: mention_match, place, gap=52
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lvovas" parinktas kaip owner_note_path. Targetas "Haličas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-009
 
 - c-009
@@ -359,7 +419,27 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 595900-596174; hash=8275f2b3ae5f84630eb22045abd941d28d8b61e751cede239830206baebe46d8; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: keliavo_i -> Podolė: 0.93
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_travel_local_target
+  ryšio_subjekto_parinkimas: Rusai: nearest_actor, group, gap=34
+  ryšio_targeto_parinkimas: Podolė: nearest_after_predicate, place, gap=53
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_travel_local_target". Subjektas "Rusai" parinktas kaip nearest_actor. Targetas "Podolė" parinktas kaip nearest_after_predicate aplink predikatą "keliavo". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality.
     - t-010
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 597765-598002; hash=39985bc0ddebb67b6a299674cbf3f3c662a02a122e2d115d9a06ef0031fe8daa; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Vilniaus vyskupija: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Lvovas: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Vilniaus vyskupija: mention_match, place, gap=35
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Lvovas" parinktas kaip owner_note_path. Targetas "Vilniaus vyskupija" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Ryšiai
 - [[objektai/asmenys/Liubartas]] valde_teritorija Lvovas

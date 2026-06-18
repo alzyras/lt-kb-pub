@@ -33,9 +33,19 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
   global_id: t-175154
   teiginys: 'Топоров B. H. veikale apie prūsų kalbą aptarė Krivį.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo autoriaus darbą apie Krivį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_group: [[objektai/grupes/Baltai|Baltai]]'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 215424-215810; hash=a01a345a0093d0cf8743219938748728ccdc6c0caddebba204a793654c9482d7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Panemunė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Топоров B. H: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Panemunė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Топоров B. H" parinktas kaip owner_note_path. Targetas "Panemunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -69,3 +79,13 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 215424-215810; hash=a01a345a0093d0cf8743219938748728ccdc6c0caddebba204a793654c9482d7; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Panemunė: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Топоров B. H: owner_note_path, author, gap=0
+  ryšio_targeto_parinkimas: Panemunė: mention_match, place
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Топоров B. H" parinktas kaip owner_note_path. Targetas "Panemunė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

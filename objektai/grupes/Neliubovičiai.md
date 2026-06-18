@@ -29,17 +29,27 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
   global_id: t-86814
   teiginys: '1583 m. Savickių Kristupui Zalivskiui parduota valda vėliau iš Zalivskių atiteko Neliubovičiams.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas; citata leidžia suformuluoti pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Savickiai|Savickiai]]; mentioned_group: [[objektai/grupes/Zalivskiai|Zalivskiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Jonas Neliubovičius|Jonas Neliubovičius]]; mentioned_person: [[objektai/asmenys/Vilčiopolskis|Vilčiopolskis]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Neliubovičius|Jonas Neliubovičius]]; mentioned_group: [[objektai/grupes/Savickiai|Savickiai]]; mentioned_group: [[objektai/grupes/Zalivskiai|Zalivskiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Vilčiopolskis|Vilčiopolskis]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1583 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo fragmentiškas; citata leidžia suformuluoti pilną sakinį.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 386476-386654; hash=a205d0a7c1441180ae4ea47af97da9f12a0e480ec1f262adbcca61f941204d11; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas Neliubovičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Neliubovičiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Jonas Neliubovičius: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Neliubovičiai" parinktas kaip owner_note_path. Targetas "Jonas Neliubovičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Jonas Neliubovičius.md#claim-t-87728|Jonas Neliubovičius]]: 1607 m. Jonas Neliubovičius mūrinį namą su sklypu pardavė Vilniaus kanauninkui Vilčiopolskiui.
 - susijęs iš [[objektai/asmenys/Kristupas Zalivskis.md#claim-t-87761|Kristupas Zalivskis]]: 1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams.
 - susijęs iš [[objektai/asmenys/Vilčiopolskis.md#claim-t-87883|Vilčiopolskis]]: Vilniaus kanauninkas Vilčiopolskis iš Jono Neliubovičiaus įsigijo mūrinį namą su sklypu.
-- susijęs iš [[objektai/grupes/Savickiai.md#claim-t-86823|Savickiai]]: Po Cimermano mirties ar valdymo laikotarpio namas atiteko Savickiams.
 - susijęs iš [[objektai/grupes/Zalivskiai.md#claim-t-86836|Zalivskiai]]: 1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams.
+- susijęs iš [[objektai/grupes/Savickiai.md#claim-t-86823|Savickiai]]: Po Cimermano mirties ar valdymo laikotarpio namas atiteko Savickiams.
 - susijęs iš Šv. Jono Akademijos Spaustuvės kronika: 1547 m. Jonas Hozijus pardavė sklypą ir mūrinį namą, kuriame buvo spaustuvė, Sebastijonui Vitinskiui.
 - susijęs iš Dievo Kūno koplyčia: 1610 m. Vilniaus kanauninkas Vilčiopolskis mūrinį namą su sklypu užrašė Akademijos kolegijai, 25 metų činšą paskirdamas Dievo Kūno koplyčiai.
 ## Reikšmingi paminėjimai
@@ -57,3 +67,13 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 386476-386654; hash=a205d0a7c1441180ae4ea47af97da9f12a0e480ec1f262adbcca61f941204d11; match=whitespace_regex
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Jonas Neliubovičius: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Neliubovičiai: owner_note_path, group, gap=0
+  ryšio_targeto_parinkimas: Jonas Neliubovičius: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Neliubovičiai" parinktas kaip owner_note_path. Targetas "Jonas Neliubovičius" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

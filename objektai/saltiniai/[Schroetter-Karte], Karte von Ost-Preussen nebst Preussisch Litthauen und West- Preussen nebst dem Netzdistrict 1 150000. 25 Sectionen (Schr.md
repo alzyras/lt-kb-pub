@@ -38,6 +38,16 @@ Dusburgietis teigia, kad [Schroetter-Karte], Karte von Ost-Preussen nebst Preuss
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia žemėlapio apimtį, mastelį, sekcijų skaičių ir datas.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 797033-797353; hash=fc910a4e1c914035bc7f930d29ab12159df3e6e374b787c5685cf4f18e6a4a55; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: [Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und West- Preussen nebst dem Netzdistrict 1 150000. 25 Sectionen (Schr: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=79
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "[Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und West- Preussen nebst dem Netzdistrict 1 150000. 25 Sectionen (Schr" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -54,3 +64,13 @@ Dusburgietis teigia, kad [Schroetter-Karte], Karte von Ost-Preussen nebst Preuss
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 797033-797353; hash=fc910a4e1c914035bc7f930d29ab12159df3e6e374b787c5685cf4f18e6a4a55; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Prūsai: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: [Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und West- Preussen nebst dem Netzdistrict 1 150000. 25 Sectionen (Schr: owner_note_path, source, gap=0
+  ryšio_targeto_parinkimas: Prūsai: mention_match, place, gap=79
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "[Schroetter-Karte], Karte von Ost-Preussen nebst Preussisch Litthauen und West- Preussen nebst dem Netzdistrict 1 150000. 25 Sectionen (Schr" parinktas kaip owner_note_path. Targetas "Prūsai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

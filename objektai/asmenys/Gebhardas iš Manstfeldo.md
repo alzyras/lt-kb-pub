@@ -31,9 +31,20 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   global_id: t-60284
   teiginys: 'Brolis Gebhardas iš Manstfeldo įmetė Viešpaties kryžiaus atskalą į ugnį, iš kurios ji iššoko daugelio žmonių akyse.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Gebhardo veiksmą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/atskala|atskala]]; mentioned_person: [[objektai/asmenys/Flekenšteinas|Flekenšteinas]]; mentioned_person: [[objektai/asmenys/Gebhardas|Gebhardas]]; mentioned_person: [[objektai/asmenys/Hertvigas|Hertvigas]]; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_place: Viena'
+  susije_objektai: 'family: [[objektai/asmenys/Gebhardas|Gebhardas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/atskala|atskala]]; mentioned_person: [[objektai/asmenys/Gebhardas|Gebhardas]]; mentioned_person: [[objektai/asmenys/Flekenšteinas|Flekenšteinas]]; mentioned_person: [[objektai/asmenys/Hertvigas|Hertvigas]]; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Gebhardas iš Manstfeldo|Gebhardas iš Manstfeldo]] buvo brolis [[objektai/asmenys/Gebhardas|Gebhardas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=170184d254c172318f9087ca3d80f94072f96e9d51ad620c69202cd657c943cb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_brolis -> Gebhardas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_family_local_relative
+  ryšio_subjekto_parinkimas: Gebhardas iš Manstfeldo: owner_note_path, person, gap=7
+  ryšio_targeto_parinkimas: Gebhardas: nearest_family_person, person, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Gebhardas iš Manstfeldo" parinktas kaip owner_note_path. Targetas "Gebhardas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
 - susijęs iš [[objektai/asmenys/Flekenšteinas.md#claim-t-60275|Flekenšteinas]]: Brolis Flekenšteinas iš Reino krašto į Brandenburgo pilį atgabeno Viešpaties kryžiaus atskalą.
 - susijęs iš [[objektai/asmenys/Hertvigas iš Pokarvių.md#claim-t-60329|Hertvigas iš Pokarvių]]: Hertvigas iš Pokarvių buvo Tomo, kuris 1322 m. Brandenburgo pilyje mirė ir atgijo per Viešpaties kryžiaus atskalą, tėvas.
 - susijęs iš [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus).md#claim-t-60446|Tomas (Hertvigo iš Pokarvių sūnus)]]: Kronikoje pasakojama, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas, Hertvigo iš Pokarvių sūnus, mirė ir atgijo per Viešpaties kryžiaus atskalą.
@@ -62,3 +73,16 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=170184d254c172318f9087ca3d80f94072f96e9d51ad620c69202cd657c943cb; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: buvo_brolis -> Gebhardas: 0.92
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; target_after_predicate; same_sentence_locality; multiple_competing_people
+  ryšio_sprendimo_taisykle: rule_family_local_relative
+  ryšio_subjekto_parinkimas: Gebhardas iš Manstfeldo: owner_note_path, person, gap=7
+  ryšio_targeto_parinkimas: Gebhardas: nearest_family_person, person, gap=7
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_family_local_relative". Subjektas "Gebhardas iš Manstfeldo" parinktas kaip owner_note_path. Targetas "Gebhardas" parinktas kaip nearest_family_person aplink predikatą "buvo_brolis". Patikimumą lėmė: single_candidate_target, target_after_predicate, same_sentence_locality, multiple_competing_people.
+
+## Ryšiai
+- Gebhardas iš Manstfeldo buvo_brolis [[objektai/asmenys/Gebhardas]]

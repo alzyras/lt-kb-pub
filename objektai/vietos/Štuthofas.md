@@ -46,10 +46,10 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi skyrybos triukšmo.'
   pagrindžia:
     - c-001
+- susijęs iš [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis).md#claim-t-20193|Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]: Keršydamas už boikotą gestapas 1943 m. kovą Lietuvoje suėmė 46 visuomenės veikėjus, išvežė juos į Štuthofą ir uždarė Kauno bei Vilniaus universitetus.
 - susijęs iš [[objektai/grupes/Lietuvos laisvės armija.md#claim-t-78378|Lietuvos laisvės armija]]: 1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės armijos grupes.
 - susijęs iš [[objektai/grupes/Lietuvos laisvės kovotojų sąjunga.md#claim-t-74750|Lietuvos laisvės kovotojų sąjunga]]: 1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės kovotojų sąjungos ir LLA grupes.
 - susijęs iš [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas.md#claim-t-66324|Vyriausiasis Lietuvos išlaisvinimo komitetas]]: 1943 m. gegužę–birželį gestapas suėmė šešis iš devynių Vyriausiojo Lietuvos išlaisvinimo komiteto vadovybės narių.
-- susijęs iš [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis).md#claim-t-20193|Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]: Keršydamas už boikotą gestapas 1943 m. kovą Lietuvoje suėmė 46 visuomenės veikėjus, išvežė juos į Štuthofą ir uždarė Kauno bei Vilniaus universitetus.
 - susijęs iš [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis).md#claim-t-20194|Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]: 1943 m. lietuvių pogrindis boikotavo vokiečių okupacinės valdžios agitaciją lietuviams stoti į SS batalioną.
 - susijęs iš [[objektai/ivykiai/Lietuvių konferencija Kaune (1943 m. balandžio 5 d.).md#claim-t-75128|Lietuvių konferencija Kaune (1943 m. balandžio 5 d.)]]: Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadinamąją Lietuvių konferenciją.
 - susijęs iš Kaunas: 1943 m. kovo viduryje gestapas, keršydamas už boikotą, uždarė Kauno ir Vilniaus universitetus.

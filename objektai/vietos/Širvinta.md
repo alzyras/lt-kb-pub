@@ -25,6 +25,16 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Kertuša; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4a614bf68f7786ffa98f7b68fc679fad6fe919e483207ee02f013c1bb0d3f9c6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Šešupė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Širvinta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Šešupė: mention_match, place, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Širvinta" parinktas kaip owner_note_path. Targetas "Šešupė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-85647"></a>
 - t-002
@@ -34,17 +44,41 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Kertuša; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ab605063a7bd1d1816cc37b0973ad06a23293e6e93fc218b28ea8eab97e4d123; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antspaudai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Širvinta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Antspaudai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Širvinta" parinktas kaip owner_note_path. Targetas "Antspaudai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 
 <a id="claim-t-85648"></a>
 - t-003
   global_id: t-85648
   teiginys: 'Sūduvos dykroje siena ėjo Širvintos krantu iki jos įtekėjimo į Šešupę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_place: Liepona; mentioned_place: Merūniškiai; mentioned_place: Sūduva; mentioned_place: Šešupė'
+  susije_objektai: 'mentioned_place: Šešupė; mentioned_place: Liepona; mentioned_place: Merūniškiai; mentioned_place: Sūduva'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Konradas Valenrodas.md#claim-t-87397|Konradas Valenrodas]]: Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas didžiuoju magistru, o 1393 m. liepos 25 d. mirė.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ab605063a7bd1d1816cc37b0973ad06a23293e6e93fc218b28ea8eab97e4d123; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antspaudai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Širvinta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Antspaudai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Širvinta" parinktas kaip owner_note_path. Targetas "Antspaudai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/asmenys/Spera.md#claim-t-186163|Spera]]: Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie didžiulio ežero pastatė pilį.
+- susijęs iš Grajevo: Lietuvos ribos buvo pravestos per Grajevo ir Ragordo ežerus, Vištyčio ežerą, Leipūnos ir Širvintos upes iki Šešupės.
+- susijęs iš Liepona: Sūduvos dykroje siena buvo nužymėta visu Lieponos paupiu iki Širvintos upės ir jos krantu iki įtekėjimo į Šešupę.
+- susijęs iš Pabaisko bažnyčia ir parapija: Pabaisko parapijos ribos turėjo eiti nuo Širvintos upės iki Šventosios ir būti juosiamos Kertušos upės.
+- susijęs iš Širvintos upė: Vytauto nustatytos Žemaitijos ir Sūduvijos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.
+- susijęs iš [[objektai/asmenys/Konradas Valenrodas.md#claim-t-87397|Konradas Valenrodas]]: Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas didžiuoju magistru, o 1393 m. liepos 25 d. mirė.
 - susijęs iš [[objektai/grupes/Anglai.md#claim-t-172069|Anglai]]: Anglija, Škotija ir Prancūzija savanoriais papildė vokiečių riterių būrius, susirinkusius Karaliaučiuje.
 - susijęs iš [[objektai/grupes/Škotai.md#claim-t-86839|Škotai]]: Škotijos savanoriai kartu su anglais ir prancūzais papildė vokiečių riterių būrius Karaliaučiuje.
 - susijęs iš [[objektai/paprociai/Gyvenviečių prie upių vardijimas su priešdėliu „pa-“.md#claim-t-87269|Gyvenviečių prie upių vardijimas su priešdėliu „pa-“]]: Lietuvoje buvo paplitęs paprotys gyvenvietes prie upių vadinti prie upės pavadinimo pridedant priešdėlį „pa-“.
@@ -52,13 +86,10 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
 - susijęs iš [[objektai/paprociai/Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis.md#claim-t-87219|Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis]]: Pabaisko parapijos ribose neturėjo būti statoma ar veikti kita parapinė bažnyčia, kad ji nedarytų nuostolio Pabaisko bažnyčiai.
 - susijęs iš [[objektai/paprociai/Riterių garbės puota prieš karo žygį.md#claim-t-87283|Riterių garbės puota prieš karo žygį]]: Kryžiuočių žygio metu Karaliaučiuje riterių garbės puota buvo nutraukta dėl anglų, škotų ir prancūzų vaidų.
 - susijęs iš Vulfstano pasakojimas: Vulfstano pasakojime Aismarės vadinamos Estmere.
-- susijęs iš Grajevo: Lietuvos ribos buvo pravestos per Grajevo ir Ragordo ežerus, Vištyčio ežerą, Leipūnos ir Širvintos upes iki Šešupės.
 - susijęs iš Kertuša: 1919 m. 7-asis pulkas atsitraukęs užėmė 1,5 km gynybos ruožą palei Širvintos ir Kertušos upes nuo Levainių iki Kačiniškių dvaro.
 - susijęs iš Kertuša: Pabaisko parapijos ribos ėjo nuo Širvintos iki Šventosios ir buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos.
 - susijęs iš Kertuša: Pabaisko parapijos ribos buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės.
-- susijęs iš Liepona: Sūduvos dykroje siena buvo nužymėta visu Lieponos paupiu iki Širvintos upės ir jos krantu iki įtekėjimo į Šešupę.
 - susijęs iš Merūniškiai: Siena per dykrą ėjo tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko Ordino pusėje.
-- susijęs iš Pabaisko bažnyčia ir parapija: Pabaisko parapijos ribos turėjo eiti nuo Širvintos upės iki Šventosios ir būti juosiamos Kertušos upės.
 - susijęs iš Paširvintis: Prie Paširvinčio dvaro lietuviai atakavo lenkų artilerijos būrį, kurio karininkas buvo nušautas, o artileristai išsibėgiojo.
 - susijęs iš Preivosto šilai: Per dykrą einanti siena tiesėsi į Preivosto šilus, o iš ten - tiesia linija į Merūniškius ir Vystyčio ežerą.
 - susijęs iš Skočiūnų dvaras: Pabaisko parapijos riba ėjo ties Skočiūnų dvaru, kur Šešulka, dar vadinama Šešuolėle, įteka į Šventąją.
@@ -69,7 +100,6 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
 - susijęs iš Šešupė: Sūduvos dykroje siena ėjo Lieponos paupiu iki Širvintos ir Širvintos krantu iki jos įtekėjimo į Šešupę.
 - susijęs iš Šešupė: Sūduvos dykroje siena ėjo Šešupės krantu per girių masyvus, o Šešupės žemupys buvo paliktas Ordinui.
 - susijęs iš Šešupė: Vytauto nustatytos Lietuvos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.
-- susijęs iš Širvintos upė: Vytauto nustatytos Žemaitijos ir Sūduvijos ribos ėjo Leipūnos ir Širvintos upėmis iki Šešupės, o nuo jos tiesiai į Nemuną prie Smalininkų.
 - susijęs iš [[objektai/zodynas/dykra.md#claim-t-89549|dykra]]: Siena per dykrą ėjo į Preivosto šilus, Merūniškius ir Vystyčio ežerą, kuris liko Ordino pusėje.
 - susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86419|fundacija]]: Remiantis prisiekusių liudininkų duomenimis apie Pabaisko bažnyčios fundaciją, Valentinui iš Pilzno suteikta nauja privilegija.
 - susijęs iš [[objektai/zodynas/vietovardžių priešdėlis `pa.md#claim-t-86625|vietovardžių priešdėlis `pa]]: Lietuvoje prie upių esančių gyvenviečių vardai dažnai sudaromi prie upės pavadinimo pridedant priešdėlį pa-.
@@ -99,6 +129,16 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
   statusas: verified
   pagrindžia:
     - t-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ab605063a7bd1d1816cc37b0973ad06a23293e6e93fc218b28ea8eab97e4d123; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antspaudai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Širvinta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Antspaudai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Širvinta" parinktas kaip owner_note_path. Targetas "Antspaudai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
     - t-001
 
 - c-002
@@ -114,4 +154,24 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
   teiginio_tipas: faktas
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=4a614bf68f7786ffa98f7b68fc679fad6fe919e483207ee02f013c1bb0d3f9c6; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Šešupė: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Širvinta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Šešupė: mention_match, place, gap=37
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Širvinta" parinktas kaip owner_note_path. Targetas "Šešupė" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-003
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=ab605063a7bd1d1816cc37b0973ad06a23293e6e93fc218b28ea8eab97e4d123; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Antspaudai: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Širvinta: owner_note_path, place, gap=0
+  ryšio_targeto_parinkimas: Antspaudai: mention_match, thing
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Širvinta" parinktas kaip owner_note_path. Targetas "Antspaudai" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

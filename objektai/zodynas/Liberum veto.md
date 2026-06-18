@@ -55,6 +55,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia pilną enciklopedinį sakinį.'
   pagrindžia:
     - c-001
+- susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-21976|Bajorų respublika liberum veto]]: Liberum veto teisė reikalavo Seimo sprendimus priimti vienu balsu ir trukdė stiprinti bei centralizuoti valstybę.
 - susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170051|Jekaterina II]]: Rusijos imperatorė Jekaterina II rėmė Augusto Poniatovskio globėjus Čartoriskius, tikėdamasi per juos plėsti savo įtaką.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80770|Abiejų Tautų Respublika]]: 1566–1795 m. Abiejų Tautų Respublikos bajoriškoji demokratija buvo luominė monarchija, paremta bajorų luomu.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179136|Lenkai]]: Lenkai siekė unitarinės valstybės, tačiau po Liublino unijos teoriškai susikūrė federacinė, o realiai konfederacinė valstybė.
@@ -65,7 +66,6 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Bajoriškoji demokratija, seimavimai ir liberum veto praktika.md#claim-t-77932|Bajoriškoji demokratija, seimavimai ir liberum veto praktika]]: Prieš vykdami į bendrus seimus Lietuvos atstovai rengdavo seimavimus bendrai pozicijai aptarti.
 - susijęs iš Gegužės 3 d. konstitucija (1791 m.): Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės 3 d. konstituciją.
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-183400|Bajorų respublika liberum veto]]: Lenkijoje ir Lietuvoje visuomenės agrarinis pobūdis ir miestų silpnumas lėmė Bajorų respublikos susiformavimą.
-- susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-21976|Bajorų respublika liberum veto]]: Liberum veto teisė reikalavo Seimo sprendimus priimti vienu balsu ir trukdė stiprinti bei centralizuoti valstybę.
 ## Reikšmingi paminėjimai
 
 - c-001

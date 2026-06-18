@@ -42,6 +42,16 @@ Dusburgietis teigia, kad tačiau tas vyras, užmiršęs patirtas malones, atsite
   susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_person: [[objektai/asmenys/Glapas|Glapas]]; mentioned_person: [[objektai/asmenys/Steinavas|Steinavas]]'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 428013-428297; hash=76ee1c6076af04a14e015b51d4bc6034290eb7087d60499d4d52f2e032022398; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Glapas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: atsiteisė blogu už gera ir neapykanta už meilę: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Glapas: mention_match, person, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "atsiteisė blogu už gera ir neapykanta už meilę" parinktas kaip owner_note_path. Targetas "Glapas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78537|Varmiai]]: Glapas, varmių vadas, turėjo mėgstamą valdinį Steinavą, kurį daug kartų buvo gelbėjęs iš mirtino pavojaus.
 ## Reikšmingi paminėjimai
 
@@ -59,3 +69,13 @@ Dusburgietis teigia, kad tačiau tas vyras, užmiršęs patirtas malones, atsite
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 428013-428297; hash=76ee1c6076af04a14e015b51d4bc6034290eb7087d60499d4d52f2e032022398; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Glapas: 0.83
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: atsiteisė blogu už gera ir neapykanta už meilę: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Glapas: mention_match, person, gap=32
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "atsiteisė blogu už gera ir neapykanta už meilę" parinktas kaip owner_note_path. Targetas "Glapas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, same_sentence_locality.

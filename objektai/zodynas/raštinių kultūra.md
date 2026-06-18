@@ -24,11 +24,21 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
   global_id: t-22262
   teiginys: 'Raštinių kultūros plėtrą XIV–XV a. sandūroje skatino augantis LDK rašto poreikis ir vienuolijų trūkumas Lietuvoje.'
   sudarymo_pagrindimas: 'Teiginys aiškiai susietas su pastabos objektu ir remiasi citata.'
-  susije_objektai: 'mentioned_place: Europa; mentioned_place: Kremlius; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Europa; mentioned_place: Kremlius; mentioned_place: Maskva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169686|Lietuvos Didžioji Kunigaikštija]]: XIV–XV a. sandūroje Lietuvos Didžiojoje Kunigaikštijoje sparčiai didėjo rašto poreikis, bet trūko vienuolijų jam tenkinti.
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a38285539097e10efa9780e7f248d22e5916c6a69aff83bb7828690f436cd5f5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: raštinių kultūra: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=104
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "raštinių kultūra" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 - susijęs iš [[objektai/paprociai/Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika.md#claim-t-183307|Didžiojo kunigaikščio raštinės dokumentų rengimo, kaupimo ir registravimo praktika]]: XIV–XV a. sandūroje LDK raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštininkų mokyklomis.
+- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169686|Lietuvos Didžioji Kunigaikštija]]: XIV–XV a. sandūroje Lietuvos Didžiojoje Kunigaikštijoje sparčiai didėjo rašto poreikis, bet trūko vienuolijų jam tenkinti.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,3 +59,13 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
   statusas: verified
   pagrindžia:
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: hash=a38285539097e10efa9780e7f248d22e5916c6a69aff83bb7828690f436cd5f5; match=fallback; occurrences=0
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Lietuva: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: raštinių kultūra: owner_note_path, thing, gap=0
+  ryšio_targeto_parinkimas: Lietuva: mention_match, place, gap=104
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "raštinių kultūra" parinktas kaip owner_note_path. Targetas "Lietuva" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.

@@ -46,12 +46,22 @@ Nenurodyta
   global_id: t-59350
   teiginys: 'Per 1218 m. žygį Kristijonas greičiausiai sudarė sutartį su Mazovijos kunigaikščiu Konradu ir gavo iš jo naujų valdų.'
   sudarymo_pagrindimas: 'Reikia sklandesnės formuluotės ir aiškesnio veiksmo laiko, išlaikant citatos atsargumą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Mazovija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Mazovija; mentioned_object: [[objektai/zodynas/žygis|žygis]]'
   temporaliniai_duomenys: 'įvykio data: 1218 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia sklandesnės formuluotės ir aiškesnio veiksmo laiko, išlaikant citatos atsargumą.'
   pagrindžia:
     - c-002
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 131245-131389; hash=b3cc0243b27d65df3d5532c9771ecbe5cc516ef11432059920e2891525c12455; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kristijonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristijono kryžiaus žygio įteisinimas ir įvykdymas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristijono kryžiaus žygio įteisinimas ir įvykdymas" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 <a id="claim-t-59351"></a>
 - t-002
@@ -64,6 +74,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys, tiksliai perteikiantis cituojamą popiežiaus leidimą.'
   pagrindžia:
     - c-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 131390-131643; hash=660952f5e68a8ea5fcff4810416c83a438cc418ccf555c1f1e9a2e6a748da2a9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kristijonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristijono kryžiaus žygio įteisinimas ir įvykdymas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristijono kryžiaus žygio įteisinimas ir įvykdymas" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
 
 ## Reikšmingi paminėjimai
 
@@ -90,4 +110,24 @@ Nenurodyta
   teiginio_tipas: saltinio_teiginys
   statusas: verified
   pagrindžia:
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 131390-131643; hash=660952f5e68a8ea5fcff4810416c83a438cc418ccf555c1f1e9a2e6a748da2a9; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kristijonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristijono kryžiaus žygio įteisinimas ir įvykdymas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristijono kryžiaus žygio įteisinimas ir įvykdymas" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
     - t-001
+  irodymo_stiprumas: 0.00
+  saltinio_vieta: 131245-131389; hash=b3cc0243b27d65df3d5532c9771ecbe5cc516ef11432059920e2891525c12455; match=exact
+  sprendimo_priezastis: auto
+  ryšio_patikimumas: susije_su -> Kristijonas: 0.85
+  ryšio_patikimumo_lygis: vidutinis
+  ryšio_patikimumo_priezastys: owner_before_predicate; single_candidate_target; single_candidate_actor; target_after_predicate; same_sentence_locality
+  ryšio_sprendimo_taisykle: rule_plain_mention
+  ryšio_subjekto_parinkimas: Kristijono kryžiaus žygio įteisinimas ir įvykdymas: owner_note_path, event, gap=0
+  ryšio_targeto_parinkimas: Kristijonas: mention_match, person, gap=0
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_plain_mention". Subjektas "Kristijono kryžiaus žygio įteisinimas ir įvykdymas" parinktas kaip owner_note_path. Targetas "Kristijonas" parinktas kaip mention_match aplink predikatą "mention". Patikimumą lėmė: owner_before_predicate, single_candidate_target, single_candidate_actor, target_after_predicate, same_sentence_locality.
